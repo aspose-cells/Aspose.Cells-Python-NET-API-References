@@ -1,9 +1,9 @@
 ---
 title: Enumerazione ShiftType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 2560
+weight: 2530
 url: /it/aspose.cells/shifttype/
 is_root: false
 ---

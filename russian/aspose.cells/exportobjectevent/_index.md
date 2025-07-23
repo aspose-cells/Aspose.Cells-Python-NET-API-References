@@ -1,9 +1,9 @@
 ---
 title: ExportObjectEvent класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 570
+weight: 550
 url: /ru/aspose.cells/exportobjectevent/
 is_root: false
 ---
@@ -17,7 +17,7 @@ is_root: false
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [get_source](/cells/python-net/ru/aspose.cells/exportobjectevent/get_source/#) | Получает объект для экспорта.|
+| [`get_source(self)`](/cells/python-net/ru/aspose.cells/exportobjectevent/get_source/#) | Получает объект для экспорта.|
 
 
 

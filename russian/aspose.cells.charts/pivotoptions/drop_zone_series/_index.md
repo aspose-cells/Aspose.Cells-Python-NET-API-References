@@ -1,6 +1,6 @@
 ---
 title: drop_zone_series недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  drop_zone_series недвижимость
 
-Указывает, должен ли элемент управления для каждого поля сводной таблицы на оси столбца сводной таблицы
-исходной сводной таблицы отображается на диаграмме, когда для параметра dropZonesVisible установлено значение true.
+Указывает, есть ли элемент управления для каждого поля сводной таблицы на оси столбцов сводной таблицы.
+исходной сводной таблицы отображается на диаграмме, если dropZonesVisible имеет значение true.
 ###  Определение:
 ```python
 @property
@@ -22,5 +22,5 @@ def drop_zone_series(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [PivotOptions](/cells/python-net/ru/aspose.cells.charts/pivotoptions)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`PivotOptions`](/cells/python-net/ru/aspose.cells.charts/pivotoptions)

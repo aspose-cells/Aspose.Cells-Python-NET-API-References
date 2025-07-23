@@ -1,15 +1,15 @@
 ---
 title: load_style_strategy недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 280
+weight: 260
 url: /ru/aspose.cells/txtloadoptions/load_style_strategy/
 is_root: false
 ---
 ##  load_style_strategy недвижимость
 
-Указывает стратегию применения стиля к анализируемым значениям при преобразовании строкового значения в число или дату и время.
+Указывает стратегию применения стиля к проанализированным значениям при преобразовании строкового значения в число или дату-время.
 ###  Определение:
 ```python
 @property

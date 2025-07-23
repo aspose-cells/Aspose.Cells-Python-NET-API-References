@@ -1,9 +1,9 @@
 ---
 title: active_x_control proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 260
+weight: 270
 url: /it/aspose.cells.drawing/arcshape/active_x_control/
 is_root: false
 ---
@@ -32,5 +32,4 @@ def active_x_control(self):
 
 ###  Guarda anche
 * modulo [`aspose.cells.drawing`](../../)
-* classe [`ActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/activexcontrol)
 * classe [`ArcShape`](/cells/python-net/it/aspose.cells.drawing/arcshape)

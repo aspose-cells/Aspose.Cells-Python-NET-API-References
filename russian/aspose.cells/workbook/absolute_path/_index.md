@@ -1,9 +1,9 @@
 ---
 title: absolute_path недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 440
+weight: 460
 url: /ru/aspose.cells/workbook/absolute_path/
 is_root: false
 ---

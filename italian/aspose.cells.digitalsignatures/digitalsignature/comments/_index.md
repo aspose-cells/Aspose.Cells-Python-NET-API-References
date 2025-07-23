@@ -1,9 +1,9 @@
 ---
 title: comments proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 30
+weight: 40
 url: /it/aspose.cells.digitalsignatures/digitalsignature/comments/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def comments(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.digitalsignatures](../../)
-* classe [DigitalSignature](/cells/python-net/it/aspose.cells.digitalsignatures/digitalsignature)
+* modulo [`aspose.cells.digitalsignatures`](../../)
+* classe [`DigitalSignature`](/cells/python-net/it/aspose.cells.digitalsignatures/digitalsignature)

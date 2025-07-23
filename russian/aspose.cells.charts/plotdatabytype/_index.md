@@ -1,6 +1,6 @@
 ---
 title: PlotDataByType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 580
@@ -8,19 +8,19 @@ url: /ru/aspose.cells.charts/plotdatabytype/
 is_root: false
 ---
 ##  PlotDataByType перечисление
-Представляет тип графика данных по строке или столбцу.
+Представляет тип графика данных по строкам или столбцам.
 
 
 
-Тип PlotDataByType предоставляет следующие члены:
+Тип PlotDataByType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
 | ROW | По ряду.|
-| COLUMN | По столбцу.|
+| COLUMN | По столбцам.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](..)
+* модуль [`aspose.cells.charts`](..)

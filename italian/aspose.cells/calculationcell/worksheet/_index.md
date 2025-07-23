@@ -1,6 +1,6 @@
 ---
 title: worksheet proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -18,6 +18,6 @@ def worksheet(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CalculationCell](/cells/python-net/it/aspose.cells/calculationcell)
-* classe [Worksheet](/cells/python-net/it/aspose.cells/worksheet)
+* modulo [`aspose.cells`](../../)
+* classe [`CalculationCell`](/cells/python-net/it/aspose.cells/calculationcell)
+* classe [`Worksheet`](/cells/python-net/it/aspose.cells/worksheet)

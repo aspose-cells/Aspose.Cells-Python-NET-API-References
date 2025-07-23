@@ -1,6 +1,6 @@
 ---
 title: script_offset proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 230
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  script_offset proprietà
 
-Ottiene e imposta l'offset dello script, in unità di percentuale
+Ottiene e imposta l'offset dello script, in unità percentuale
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def script_offset(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](../../)
-* classe [TextOptions](/cells/python-net/it/aspose.cells.drawing.texts/textoptions)
+* modulo [`aspose.cells.drawing.texts`](../../)
+* classe [`TextOptions`](/cells/python-net/it/aspose.cells.drawing.texts/textoptions)

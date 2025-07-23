@@ -1,15 +1,15 @@
 ---
 title: value недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 740
+weight: 770
 url: /ru/aspose.cells/cell/value/
 is_root: false
 ---
 ##  value недвижимость
 
-Получает/устанавливает значение value, содержащееся в этой ячейке.
+Получает/задает значение value, содержащееся в этой ячейке.
 
 ###  Примечания
 
@@ -18,7 +18,7 @@ is_root: false
 нулевой,
 
 
-логическое значение,
+Булев,
 
 
 ДатаВремя,
@@ -33,8 +33,8 @@ is_root: false
 Нить.
 
 
-Для int value он может быть возвращен как объект Integer или Double.
-И нет никакой гарантии, что возвращенный value всегда будет храниться как объект одного и того же типа.
+Для int value он может быть возвращен как объект Integer или объект Double.
+И нет никакой гарантии, что возвращённый value всегда будет храниться как тот же тип объекта.
 ###  Определение:
 ```python
 @property

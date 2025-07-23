@@ -1,15 +1,15 @@
 ---
 title: unique_id недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 880
+weight: 900
 url: /ru/aspose.cells/worksheet/unique_id/
 is_root: false
 ---
 ##  unique_id недвижимость
 
-Получает и устанавливает уникальный идентификатор, такой же, как {15DB5C3C-A5A1-48AF-8F25-3D86AC232D4F}.
+Получает и задает уникальный идентификатор, он такой же, как {15DB5C3C-A5A1-48AF-8F25-3D86AC232D4F}.
 ###  Определение:
 ```python
 @property

@@ -1,9 +1,9 @@
 ---
 title: is_ie_compatible proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 510
+weight: 590
 url: /it/aspose.cells/htmlsaveoptions/is_ie_compatible/
 is_root: false
 ---

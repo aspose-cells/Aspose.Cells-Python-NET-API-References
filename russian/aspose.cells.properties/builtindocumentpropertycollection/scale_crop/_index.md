@@ -1,9 +1,9 @@
 ---
 title: scale_crop недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 350
+weight: 360
 url: /ru/aspose.cells.properties/builtindocumentpropertycollection/scale_crop/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def scale_crop(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.properties](../../)
-* класс [BuiltInDocumentPropertyCollection](/cells/python-net/ru/aspose.cells.properties/builtindocumentpropertycollection)
+* модуль [`aspose.cells.properties`](../../)
+* класс [`BuiltInDocumentPropertyCollection`](/cells/python-net/ru/aspose.cells.properties/builtindocumentpropertycollection)

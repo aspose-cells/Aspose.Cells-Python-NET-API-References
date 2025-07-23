@@ -1,15 +1,15 @@
 ---
 title: smart_tag_setting proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 780
+weight: 810
 url: /it/aspose.cells/worksheet/smart_tag_setting/
 is_root: false
 ---
 ##  smart_tag_setting proprietà
 
-Ottiene tutti gli oggetti [`SmartTagCollection`](/cells/python-net/it/aspose.cells.markup/smarttagcollection) del foglio di lavoro.
+Ottiene tutti i [`SmartTagCollection`](/cells/python-net/it/aspose.cells.markup/smarttagcollection) oggetti del foglio di lavoro.
 ###  Definizione:
 ```python
 @property

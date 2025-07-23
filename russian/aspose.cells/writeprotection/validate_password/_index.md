@@ -1,22 +1,23 @@
 ---
 title: validate_password метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells/writeprotection/validate_password/
 is_root: false
 ---
-##  validate_password(password) {#str}
-Возвращает true, если указанный пароль совпадает с паролем защиты от записи, которым был защищен файл.
+##  validate_password(self, password) {#str}
+Возвращает значение true, если указанный пароль совпадает с паролем защиты от записи, которым был защищен файл.
 
 
-###  Возвращает
+###  Возврат
 
 
 
 
 ```python
+
 def validate_password(self, password):
     ...
 ```
@@ -29,5 +30,5 @@ def validate_password(self, password):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WriteProtection](/cells/python-net/ru/aspose.cells/writeprotection)
+* модуль [`aspose.cells`](../../)
+* класс [`WriteProtection`](/cells/python-net/ru/aspose.cells/writeprotection)

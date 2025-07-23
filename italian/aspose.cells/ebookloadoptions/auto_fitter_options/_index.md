@@ -1,6 +1,6 @@
 ---
 title: auto_fitter_options proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -13,7 +13,7 @@ Ottiene e imposta le opzioni di adattamento automatico
 
 ###  Osservazioni
 
-Solo per xlsx, file spreadsheetML ora.
+Ora solo per file xlsx e spreadsheetML.
 ###  Definizione:
 ```python
 @property

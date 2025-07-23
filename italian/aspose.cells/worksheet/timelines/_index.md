@@ -1,9 +1,9 @@
 ---
 title: timelines proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 840
+weight: 860
 url: /it/aspose.cells/worksheet/timelines/
 is_root: false
 ---

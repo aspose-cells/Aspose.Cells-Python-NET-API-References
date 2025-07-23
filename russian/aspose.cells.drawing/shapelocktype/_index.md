@@ -1,37 +1,37 @@
 ---
 title: ShapeLockType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1150
+weight: 1140
 url: /ru/aspose.cells.drawing/shapelocktype/
 is_root: false
 ---
 ##  ShapeLockType перечисление
-Представляет тип свойства, которое необходимо заблокировать.
+Представляет тип запираемого имущества.
 
 
 
-Тип ShapeLockType предоставляет следующие члены:
+Тип ShapeLockType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
 | GROUP | Группа|
-| ADJUST_HANDLES | Регулировка ручек|
+| ADJUST_HANDLES | AdjustHandles|
 | TEXT | Текст|
-| POINTS | Точки|
-| CROP |Обрезать|
+| POINTS | Очки|
+| CROP | Обрезать|
 | SELECTION | Выбор|
 | MOVE | Двигаться|
 | ASPECT_RATIO | Соотношение сторон|
 | ROTATION | Вращение|
 | UNGROUP | Разгруппировать|
 | RESIZE | Изменить размер|
-| SHAPE_TYPE | Тип фигуры|
-| ARROWHEAD | Стрелка|
+| SHAPE_TYPE | ShapeType|
+| ARROWHEAD | Наконечник стрелы|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
+* модуль [`aspose.cells.drawing`](..)

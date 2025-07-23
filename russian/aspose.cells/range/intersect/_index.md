@@ -1,22 +1,23 @@
 ---
 title: intersect метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 120
+weight: 170
 url: /ru/aspose.cells/range/intersect/
 is_root: false
 ---
-##  intersect {#aspose.cells.Range}
-Возвращает объект [`Range`](/cells/python-net/ru/aspose.cells/range), представляющий прямоугольное пересечение двух диапазонов.
+##  intersect(self, range) {#aspose.cells.Range}
+Возвращает объект [`Range`](/cells/python-net/ru/aspose.cells/range), представляющий собой прямоугольное пересечение двух диапазонов.
 
 
 ###  Возврат
 
-Возвращает объект [`Range`](/cells/python-net/ru/aspose.cells/range).
+Возвращает объект [`Range`](/cells/python-net/ru/aspose.cells/range)
 
 
 ```python
+
 def intersect(self, range):
     ...
 ```
@@ -27,7 +28,7 @@ def intersect(self, range):
 | range | [`Range`](/cells/python-net/ru/aspose.cells/range) | Пересекающийся диапазон.|
 ###  Примечания
 
-Если два диапазона не пересекаются, возвращается ноль.
+Если два диапазона не пересекаются, возвращает null.
 ###  Пример
 
 

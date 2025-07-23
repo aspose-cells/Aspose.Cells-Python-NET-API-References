@@ -1,15 +1,15 @@
 ---
 title: text_effect недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1130
+weight: 1150
 url: /ru/aspose.cells.drawing/oleobject/text_effect/
 is_root: false
 ---
 ##  text_effect недвижимость
 
- Возвращает объект TextEffectFormat, содержащий свойства форматирования текстового эффекта для указанной фигуры.
+ Возвращает объект TextEffectFormat, содержащий свойства форматирования текста для указанной фигуры.
 Применяется к объектам Shape, представляющим WordArt.
 
 ###  Пример

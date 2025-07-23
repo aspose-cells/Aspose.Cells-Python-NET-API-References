@@ -1,16 +1,16 @@
 ---
 title: drag_to_data недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 290
+weight: 370
 url: /ru/aspose.cells.pivot/pivotfield/drag_to_data/
 is_root: false
 ---
 ##  drag_to_data недвижимость
 
-Указывает, можно ли перетащить указанное поле в положение данных.
-Значение по умолчанию верно.
+Указывает, можно ли перетащить указанное поле в позицию данных.
+Значение по умолчанию — true.
 ###  Определение:
 ```python
 @property

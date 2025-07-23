@@ -1,15 +1,15 @@
 ---
 title: border_line_color недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 330
+weight: 350
 url: /ru/aspose.cells.drawing/picture/border_line_color/
 is_root: false
 ---
 ##  border_line_color недвижимость
 
-Представляет цвет линии границы изображения.
+Представляет цвет границы изображения.
 
 ###  Пример
 

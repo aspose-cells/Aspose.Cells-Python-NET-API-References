@@ -1,6 +1,6 @@
 ---
 title: surface_lighting_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -22,6 +22,6 @@ def surface_lighting_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Format3D](/cells/python-net/it/aspose.cells.drawing/format3d)
-* classe [LightRigType](/cells/python-net/it/aspose.cells.drawing/lightrigtype)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Format3D`](/cells/python-net/it/aspose.cells.drawing/format3d)
+* classe [`LightRigType`](/cells/python-net/it/aspose.cells.drawing/lightrigtype)

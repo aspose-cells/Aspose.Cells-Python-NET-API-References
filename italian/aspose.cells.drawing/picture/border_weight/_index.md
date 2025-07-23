@@ -1,9 +1,9 @@
 ---
 title: border_weight proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 340
+weight: 360
 url: /it/aspose.cells.drawing/picture/border_weight/
 is_root: false
 ---

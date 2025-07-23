@@ -1,15 +1,15 @@
 ---
 title: standard_width_pixels недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1290
+weight: 1320
 url: /ru/aspose.cells/cells/standard_width_pixels/
 is_root: false
 ---
 ##  standard_width_pixels недвижимость
 
-Получает или задает ширину столбца по умолчанию на листе в пикселях.
+Возвращает или задает ширину столбца по умолчанию на листе (в пикселях).
 ###  Определение:
 ```python
 @property

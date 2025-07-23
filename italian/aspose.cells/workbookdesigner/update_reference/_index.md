@@ -1,6 +1,6 @@
 ---
 title: update_reference proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 130
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  update_reference proprietà
 
-Indica se i riferimenti in altri fogli di lavoro verranno aggiornati.
+Indica se i riferimenti negli altri fogli di lavoro verranno aggiornati.
 ###  Definizione:
 ```python
 @property

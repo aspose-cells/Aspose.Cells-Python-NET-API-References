@@ -1,6 +1,6 @@
 ---
 title: DropBars класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 150
@@ -8,7 +8,7 @@ url: /ru/aspose.cells.charts/dropbars/
 is_root: false
 ---
 ##  DropBars класс
-Представляет полосы вверх/вниз на диаграмме.
+Представляет собой восходящие/нисходящие полосы на графике.
 
 
 

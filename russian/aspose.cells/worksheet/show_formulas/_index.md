@@ -1,15 +1,15 @@
 ---
 title: show_formulas недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 760
+weight: 790
 url: /ru/aspose.cells/worksheet/show_formulas/
 is_root: false
 ---
 ##  show_formulas недвижимость
 
-Указывает, следует ли отображать формулы или их результаты.
+Указывает, следует ли показывать формулы или их результаты.
 ###  Определение:
 ```python
 @property

@@ -1,6 +1,6 @@
 ---
 title: cell_column proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cell_column proprietà
 
-Ottiene l'indice della colonna della cella in cui si trova la funzione.
+Ottiene l'indice di colonna della cella in cui si trova la funzione.
 ###  Definizione:
 ```python
 @property

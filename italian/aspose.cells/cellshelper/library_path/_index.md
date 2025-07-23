@@ -1,9 +1,9 @@
 ---
 title: library_path proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 250
+weight: 270
 url: /it/aspose.cells/cellshelper/library_path/
 is_root: false
 ---
@@ -15,8 +15,8 @@ Ottiene o imposta il percorso della libreria a cui fanno riferimento alcuni rife
 @property
 def library_path(self):
     ...
-@library_path.setter
-def library_path(self, value):
+@staticmethod
+def set_library_path(value):
     ...
 ```
 

@@ -1,18 +1,19 @@
 ---
 title: Metodo set_text_of_protected_name
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 290
+weight: 300
 url: /it/aspose.cells/settablepivotglobalizationsettings/set_text_of_protected_name/
 is_root: false
 ---
-##  set_text_of_protected_name {#str-str}
+##  set_text_of_protected_name(self, protected_name, text) {#str-str}
 Imposta il testo per un nome protetto specifico.
 
 
 
 ```python
+
 def set_text_of_protected_name(self, protected_name, text):
     ...
 ```

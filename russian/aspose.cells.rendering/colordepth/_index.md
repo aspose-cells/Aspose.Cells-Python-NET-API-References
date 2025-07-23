@@ -1,23 +1,23 @@
 ---
 title: ColorDepth перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 140
+weight: 160
 url: /ru/aspose.cells.rendering/colordepth/
 is_root: false
 ---
 ##  ColorDepth перечисление
-Перечисляет тип битовой глубины для изображения в формате TIFF.
+Перечисляет тип битовой глубины для изображения TIFF.
 
 
 
-Тип ColorDepth предоставляет следующие члены:
+Тип ColorDepth предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| DEFAULT | Значение по умолчанию, не установленное значение.|
+| DEFAULT | Значение по умолчанию, а не заданное значение.|
 | FORMAT_1BPP | 1 бит на пиксель|
 | FORMAT_4BPP | 4 бита на пиксель|
 | FORMAT_8BPP | 8 бит на пиксель|
@@ -27,4 +27,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering](..)
+* модуль [`aspose.cells.rendering`](..)

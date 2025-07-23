@@ -1,6 +1,6 @@
 ---
 title: gamma недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gamma недвижимость
 
-Представляет gamma изображения.
+Представляет собой gamma на картинке.
 ###  Определение:
 ```python
 @property

@@ -1,6 +1,6 @@
 ---
 title: value proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  value proprietà
 
-Numerico non intero value, intero value, stringa value o booleano value
-da utilizzare come parametro di query. Utilizzato solo quando parameterType è value.
+Numerico non intero value, Intero value, Stringa value o Booleano value
+Da utilizzare come parametro di query. Utilizzato solo quando parameterType è value.
 ###  Definizione:
 ```python
 @property
@@ -22,5 +22,5 @@ def value(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.externalconnections](../../)
-* classe [ConnectionParameter](/cells/python-net/it/aspose.cells.externalconnections/connectionparameter)
+* modulo [`aspose.cells.externalconnections`](../../)
+* classe [`ConnectionParameter`](/cells/python-net/it/aspose.cells.externalconnections/connectionparameter)

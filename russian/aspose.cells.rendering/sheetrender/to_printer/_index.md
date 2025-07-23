@@ -1,18 +1,19 @@
 ---
 title: to_printer метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
 url: /ru/aspose.cells.rendering/sheetrender/to_printer/
 is_root: false
 ---
-##  to_printer {#str}
-Отобразить рабочий лист на принтере
+##  to_printer(self, printer_name) {#str}
+Распечатать рабочий лист на принтере
 
 
 
 ```python
+
 def to_printer(self, printer_name):
     ...
 ```
@@ -23,12 +24,13 @@ def to_printer(self, printer_name):
 | printer_name | str | имя принтера, например: «Microsoft Office Document Image Writer»|
 
 
-##  to_printer {#aspose.pydrawing.printing.PrinterSettings}
-Отобразить рабочий лист на принтере
+##  to_printer(self, printer_settings) {#aspose.pydrawing.printing.PrinterSettings}
+Распечатать рабочий лист на принтере
 
 
 
 ```python
+
 def to_printer(self, printer_settings):
     ...
 ```
@@ -39,12 +41,13 @@ def to_printer(self, printer_settings):
 | printer_settings | aspose.pydrawing.printing.PrinterSettings | настройки принтера, например PrinterName, Duplex|
 
 
-##  to_printer {#str-str}
-Отобразить рабочий лист на принтере
+##  to_printer(self, printer_name, job_name) {#str-str}
+Распечатать рабочий лист на принтере
 
 
 
 ```python
+
 def to_printer(self, printer_name, job_name):
     ...
 ```
@@ -56,12 +59,13 @@ def to_printer(self, printer_name, job_name):
 | job_name | str | задать имя задания печати|
 
 
-##  to_printer {#aspose.pydrawing.printing.PrinterSettings-str}
-Отобразить рабочий лист на принтере
+##  to_printer(self, printer_settings, job_name) {#aspose.pydrawing.printing.PrinterSettings-str}
+Распечатать рабочий лист на принтере
 
 
 
 ```python
+
 def to_printer(self, printer_settings, job_name):
     ...
 ```
@@ -73,12 +77,13 @@ def to_printer(self, printer_settings, job_name):
 | job_name | str | задать имя задания печати|
 
 
-##  to_printer {#str-int-int}
-Отобразить рабочий лист на принтере
+##  to_printer(self, printer_name, print_page_index, print_page_count) {#str-int-int}
+Распечатать рабочий лист на принтере
 
 
 
 ```python
+
 def to_printer(self, printer_name, print_page_index, print_page_count):
     ...
 ```
@@ -87,14 +92,14 @@ def to_printer(self, printer_name, print_page_index, print_page_count):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | printer_name | str | имя принтера, например: «Microsoft Office Document Image Writer»|
-| print_page_index | int | индекс первой страницы для печати, отсчитываемый от 0, он должен находиться в диапазоне [0, SheetRender.PageCount-1]|
+| print_page_index | int | индекс первой страницы для печати (начиная с 0), должен находиться в диапазоне [0, SheetRender.PageCount-1]|
 | print_page_count | int | количество страниц для печати, оно должно быть больше нуля|
 ###  Примечания
 
-ПРИМЕЧАНИЕ. Этот метод устарел.
-Вместо этого используйте ToPrinter(string PrinterName) и ImageOrPrintOptions.PageIndex, PageCount, чтобы установить первую страницу и количество страниц для печати.
- Этот объект недвижимости будет удален через 12 месяцев, начиная с декабря 2021 года.
-Aspose приносит извинения за возможные неудобства.
+ПРИМЕЧАНИЕ: Этот метод уже устарел.
+Вместо этого используйте ToPrinter(string PrinterName) и ImageOrPrintOptions.PageIndex, PageCount, чтобы задать первую страницу и количество страниц для печати.
+ Данная недвижимость будет снесена через 12 месяцев с декабря 2021 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 
 
 ###  Смотрите также

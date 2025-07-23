@@ -1,17 +1,17 @@
 ---
 title: get_range_by_name метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 120
 url: /ru/aspose.cells/worksheetcollection/get_range_by_name/
 is_root: false
 ---
-##  get_range_by_name(range_name) {#str}
-Получает объект Range по заданному имени.
+##  get_range_by_name(self, range_name) {#str}
+Получает объект Range по предопределенному имени.
 
 
-###  Возвращает
+###  Возврат
 
 Объект диапазона.
 
@@ -20,6 +20,7 @@ is_root: false
 
 
 ```python
+
 def get_range_by_name(self, range_name):
     ...
 ```
@@ -30,16 +31,17 @@ def get_range_by_name(self, range_name):
 | range_name | str | Название диапазона.|
 
 
-##  get_range_by_name(range_name, current_sheet_index, include_table) {#str-int-bool}
-Получает [Range](/cells/python-net/ru/aspose.cells/range) по заданному имени или имени таблицы
+##  get_range_by_name(self, range_name, current_sheet_index, include_table) {#str-int-bool}
+Получает [`Range`](/cells/python-net/ru/aspose.cells/range) по предопределенному имени или имени таблицы
 
 
-###  Возвращает
+###  Возврат
 
 
 
 
 ```python
+
 def get_range_by_name(self, range_name, current_sheet_index, include_table):
     ...
 ```
@@ -54,6 +56,6 @@ def get_range_by_name(self, range_name, current_sheet_index, include_table):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Range](/cells/python-net/ru/aspose.cells/range)
-* класс [WorksheetCollection](/cells/python-net/ru/aspose.cells/worksheetcollection)
+* модуль [`aspose.cells`](../../)
+* класс [`Range`](/cells/python-net/ru/aspose.cells/range)
+* класс [`WorksheetCollection`](/cells/python-net/ru/aspose.cells/worksheetcollection)

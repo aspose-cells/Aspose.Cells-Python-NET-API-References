@@ -1,18 +1,19 @@
 ---
 title: Metodo move_to
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 190
+weight: 210
 url: /it/aspose.cells/worksheet/move_to/
 is_root: false
 ---
-##  move_to {#int}
+##  move_to(self, index) {#int}
 Sposta il foglio in un'altra posizione nel foglio di calcolo.
 
 
 
 ```python
+
 def move_to(self, index):
     ...
 ```

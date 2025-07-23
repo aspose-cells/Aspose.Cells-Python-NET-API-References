@@ -1,9 +1,9 @@
 ---
 title: base_index недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 220
+weight: 300
 url: /ru/aspose.cells.pivot/pivotfield/base_index/
 is_root: false
 ---

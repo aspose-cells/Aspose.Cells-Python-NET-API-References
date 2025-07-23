@@ -1,6 +1,6 @@
 ---
 title: x_error_bar proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 520
@@ -18,6 +18,6 @@ def x_error_bar(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [ErrorBar](/cells/python-net/it/aspose.cells.charts/errorbar)
-* classe [Series](/cells/python-net/it/aspose.cells.charts/series)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`ErrorBar`](/cells/python-net/it/aspose.cells.charts/errorbar)
+* classe [`Series`](/cells/python-net/it/aspose.cells.charts/series)

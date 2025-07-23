@@ -1,9 +1,9 @@
 ---
 title: GridlineType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2190
+weight: 2130
 url: /ru/aspose.cells/gridlinetype/
 is_root: false
 ---
@@ -18,7 +18,7 @@ is_root: false
 | Поле| Описание|
 | :- | :- |
 | DOTTED | Представляет собой пунктирную линию.|
-| HAIR | Обозначает линию волос.|
+| HAIR | Представляет собой линию роста волос.|
 
 
 

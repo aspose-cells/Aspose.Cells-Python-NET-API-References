@@ -1,18 +1,19 @@
 ---
 title: select_range метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 260
+weight: 290
 url: /ru/aspose.cells/worksheet/select_range/
 is_root: false
 ---
-##  select_range {#int-int-int-int-bool}
+##  select_range(self, start_row, start_column, total_rows, total_columns, remove_others) {#int-int-int-int-bool}
 Выбирает диапазон.
 
 
 
 ```python
+
 def select_range(self, start_row, start_column, total_rows, total_columns, remove_others):
     ...
 ```
@@ -21,7 +22,7 @@ def select_range(self, start_row, start_column, total_rows, total_columns, remov
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | start_row | int | Стартовый ряд.|
-| start_column | int | Начальный столбец|
+| start_column | int |Начальная колонка|
 | total_rows | int | Количество строк.|
 | total_columns | int | Количество столбцов|
 | remove_others | bool | True означает удаление другого выбранного диапазона и выбор только этого диапазона.|

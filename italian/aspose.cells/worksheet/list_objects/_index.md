@@ -1,15 +1,15 @@
 ---
 title: list_objects proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 640
+weight: 670
 url: /it/aspose.cells/worksheet/list_objects/
 is_root: false
 ---
 ##  list_objects proprietà
 
-Ottiene tutti gli ListObjects in questo foglio di lavoro.
+Ottiene tutti i ListObject in questo foglio di lavoro.
 ###  Definizione:
 ```python
 @property

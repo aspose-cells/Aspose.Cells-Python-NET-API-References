@@ -1,15 +1,15 @@
 ---
 title: create_directory proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 100
+weight: 130
 url: /it/aspose.cells/htmlsaveoptions/create_directory/
 is_root: false
 ---
 ##  create_directory proprietà
 
-Se vero e la directory non esiste, la directory verrà creata automaticamente prima di salvare il file.
+Se è vero e la directory non esiste, la directory verrà creata automaticamente prima di salvare il file.
 
 ###  Osservazioni
 

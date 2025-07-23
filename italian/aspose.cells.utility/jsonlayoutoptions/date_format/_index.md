@@ -1,6 +1,6 @@
 ---
 title: date_format proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -21,5 +21,5 @@ def date_format(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.utility](../../)
-* classe [JsonLayoutOptions](/cells/python-net/it/aspose.cells.utility/jsonlayoutoptions)
+* modulo [`aspose.cells.utility`](../../)
+* classe [`JsonLayoutOptions`](/cells/python-net/it/aspose.cells.utility/jsonlayoutoptions)

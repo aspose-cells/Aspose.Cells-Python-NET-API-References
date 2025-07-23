@@ -1,9 +1,9 @@
 ---
 title: sort_external_names недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 650
+weight: 750
 url: /ru/aspose.cells.saving/ebooksaveoptions/sort_external_names/
 is_root: false
 ---

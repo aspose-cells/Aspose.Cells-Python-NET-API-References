@@ -1,6 +1,6 @@
 ---
 title: start_row недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -18,5 +18,5 @@ def start_row(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [VerticalPageBreak](/cells/python-net/ru/aspose.cells/verticalpagebreak)
+* модуль [`aspose.cells`](../../)
+* класс [`VerticalPageBreak`](/cells/python-net/ru/aspose.cells/verticalpagebreak)

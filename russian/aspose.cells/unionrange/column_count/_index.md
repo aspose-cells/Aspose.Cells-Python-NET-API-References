@@ -1,9 +1,9 @@
 ---
 title: column_count недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 140
+weight: 130
 url: /ru/aspose.cells/unionrange/column_count/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Эффекты только тогда, когда он содержит только один диапазон.
+Действует только в том случае, если содержит только один диапазон.
 ###  Определение:
 ```python
 @property
@@ -22,5 +22,5 @@ def column_count(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [UnionRange](/cells/python-net/ru/aspose.cells/unionrange)
+* модуль [`aspose.cells`](../../)
+* класс [`UnionRange`](/cells/python-net/ru/aspose.cells/unionrange)

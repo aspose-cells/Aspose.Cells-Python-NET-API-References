@@ -1,6 +1,6 @@
 ---
 title: Enumerazione CrossType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 470
@@ -8,7 +8,7 @@ url: /it/aspose.cells.charts/crosstype/
 is_root: false
 ---
 ##  Enumerazione CrossType
-Rappresenta il tipo a croce dell'asse.
+Rappresenta il tipo di asse incrociato.
 
 
 
@@ -17,10 +17,10 @@ Il tipo CrossType espone i seguenti membri:
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
-| AUTOMATIC | Microsoft Excel imposta il punto di incrocio dell'asse.|
-| MAXIMUM | L'asse interseca al valore massimo.|
-| MINIMUM | L'asse interseca al valore minimo.|
-| CUSTOM | L'asse si interseca al valore personalizzato.|
+| AUTOMATIC | Microsoft Excel imposta il punto di attraversamento degli assi.|
+| MAXIMUM | L'asse incrocia il valore massimo.|
+| MINIMUM | L'asse incrocia il valore minimo.|
+| CUSTOM |L'asse incrocia il valore personalizzato.|
 
 
 

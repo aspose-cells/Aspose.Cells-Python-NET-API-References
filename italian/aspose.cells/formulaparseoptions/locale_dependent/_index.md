@@ -1,6 +1,6 @@
 ---
 title: locale_dependent proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  locale_dependent proprietà
 
-Indica se la formula è formattata in base alle impostazioni locali. L'impostazione predefinita è falsa.
+Specifica se la formula è formattata in base alle impostazioni locali. Il valore predefinito è "false".
 ###  Definizione:
 ```python
 @property

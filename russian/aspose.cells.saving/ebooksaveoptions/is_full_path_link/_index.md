@@ -1,16 +1,16 @@
 ---
 title: is_full_path_link недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 500
+weight: 580
 url: /ru/aspose.cells.saving/ebooksaveoptions/is_full_path_link/
 is_root: false
 ---
 ##  is_full_path_link недвижимость
 
-Указывает, используется ли ссылка на полный путь в файлеsheet00x.htm,filelist.xml и tabstrip.htm.
-Значение по умолчанию неверно.
+Указывает, используется ли ссылка полного пути в sheet00x.htm,filelist.xml и tabstrip.htm.
+Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property

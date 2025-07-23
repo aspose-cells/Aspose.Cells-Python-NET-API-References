@@ -1,18 +1,19 @@
 ---
 title: set_standard_built_in_name метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 370
 url: /ru/aspose.cells/settableglobalizationsettings/set_standard_built_in_name/
 is_root: false
 ---
-##  set_standard_built_in_name {#str-str-bool}
+##  set_standard_built_in_name(self, local_name, standard_name, bidirectional) {#str-str-bool}
 Устанавливает имя функции, зависящее от локали, в соответствии с заданным стандартным именем функции.
 
 
 
 ```python
+
 def set_standard_built_in_name(self, local_name, standard_name, bidirectional):
     ...
 ```
@@ -21,8 +22,8 @@ def set_standard_built_in_name(self, local_name, standard_name, bidirectional):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | local_name | str | Имя функции, зависящее от локали|
-| standard_name | str | Стандартное имя функции (язык EN-US).|
-| bidirectional | bool | Автоматически ли сопоставлять стандартный текст имени с текстом локального имени.<br/>Если это правда, текст стандартного имени будет автоматически сопоставлен с текстом локального имени.<br/>поэтому пользователю не нужно снова звонить на номер [`SettableGlobalizationSettings.set_local_built_in_name`](/cells/python-net/ru/aspose.cells/settableglobalizationsettings/set_local_built_in_name).<br/> для одной и той же пары стандартных и локальных имен|
+| standard_name | str | Стандартное (локаль en-US) имя функции.|
+| bidirectional | bool | Будет ли автоматически сопоставлять стандартный текст имени с локальным текстом имени.<br/>Если значение равно true, стандартный текст имени будет автоматически сопоставлен с локальным текстом имени.<br/>поэтому пользователю не нужно снова звонить по номеру [`SettableGlobalizationSettings.set_local_built_in_name`](/cells/python-net/ru/aspose.cells/settableglobalizationsettings/set_local_built_in_name)<br/> для одной и той же пары стандартных и локальных имен|
 
 
 

@@ -1,14 +1,14 @@
 ---
 title: CellsDataTableFactory класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 210
+weight: 180
 url: /ru/aspose.cells/cellsdatatablefactory/
 is_root: false
 ---
 ##  CellsDataTableFactory класс
-Утилита для построения ICellsDataTable из пользовательских объектов для удобства пользователя.
+Утилита для создания ICellsDataTable из пользовательских объектов для удобства пользователя.
 
 
 
@@ -17,13 +17,15 @@ is_root: false
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [get_instance](/cells/python-net/ru/aspose.cells/cellsdatatablefactory/get_instance/#list-list) | Создает ICellsDataTable из заданной последовательности значений int.|
-| [get_instance](/cells/python-net/ru/aspose.cells/cellsdatatablefactory/get_instance/#list-bool) | Создает ICellsDataTable из заданной последовательности значений int.|
-| [get_instance](/cells/python-net/ru/aspose.cells/cellsdatatablefactory/get_instance/#list-list) | Создает ICellsDataTable из заданной последовательности значений типа double.|
-| [get_instance](/cells/python-net/ru/aspose.cells/cellsdatatablefactory/get_instance/#list-bool) | Создает ICellsDataTable из заданной последовательности значений типа double.|
-| [get_instance](/cells/python-net/ru/aspose.cells/cellsdatatablefactory/get_instance/#list-list) | Создает ICellsDataTable из заданной последовательности объектов.|
-| [get_instance](/cells/python-net/ru/aspose.cells/cellsdatatablefactory/get_instance/#list-bool) | Создает ICellsDataTable из заданной последовательности объектов.|
-| [get_instance](/cells/python-net/ru/aspose.cells/cellsdatatablefactory/get_instance/#list) | Создает ICellsDataTable из заданной коллекции.|
+| [`get_instance(self, vals, column_names)`](/cells/python-net/ru/aspose.cells/cellsdatatablefactory/get_instance/#list-list) |Создает ICellsDataTable из заданной последовательности значений int.|
+| [`get_instance(self, vals, vertial)`](/cells/python-net/ru/aspose.cells/cellsdatatablefactory/get_instance/#list-bool) |Создает ICellsDataTable из заданной последовательности значений int.|
+| [`get_instance(self, vals, column_names)`](/cells/python-net/ru/aspose.cells/cellsdatatablefactory/get_instance/#list-list) | Создает ICellsDataTable из заданной последовательности значений double.|
+| [`get_instance(self, vals, vertial)`](/cells/python-net/ru/aspose.cells/cellsdatatablefactory/get_instance/#list-bool) | Создает ICellsDataTable из заданной последовательности значений double.|
+| [`get_instance(self, vals, column_names)`](/cells/python-net/ru/aspose.cells/cellsdatatablefactory/get_instance/#list-list) | Создает ICellsDataTable из заданной последовательности объектов.|
+| [`get_instance(self, vals, has_header, column_names)`](/cells/python-net/ru/aspose.cells/cellsdatatablefactory/get_instance/#list-bool-list) | Создает ICellsDataTable из заданной последовательности объектов.|
+| [`get_instance(self, vals, vertial)`](/cells/python-net/ru/aspose.cells/cellsdatatablefactory/get_instance/#list-bool) | Создает ICellsDataTable из заданной последовательности объектов.|
+| [`get_instance(self, collection)`](/cells/python-net/ru/aspose.cells/cellsdatatablefactory/get_instance/#list) | Создает ICellsDataTable из заданной коллекции.|
+| [`get_instance(self, collection, has_header)`](/cells/python-net/ru/aspose.cells/cellsdatatablefactory/get_instance/#list-bool) | Создает ICellsDataTable из заданной коллекции.|
 
 
 

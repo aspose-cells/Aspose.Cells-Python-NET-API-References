@@ -1,6 +1,6 @@
 ---
 title: password_char недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 320
@@ -21,5 +21,5 @@ def password_char(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [TextBoxActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`TextBoxActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

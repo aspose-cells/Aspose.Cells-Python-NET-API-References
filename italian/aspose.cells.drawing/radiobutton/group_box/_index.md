@@ -1,15 +1,15 @@
 ---
 title: group_box proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 430
+weight: 420
 url: /it/aspose.cells.drawing/radiobutton/group_box/
 is_root: false
 ---
 ##  group_box proprietà
 
-Ottiene l'oggetto GroupBox che contiene questo RadioButton.
+Ottiene il GroupBox che contiene questo RadioButton.
 ###  Definizione:
 ```python
 @property

@@ -1,6 +1,6 @@
 ---
 title: length недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 150
@@ -18,5 +18,5 @@ def length(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [TextParagraph](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraph)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`TextParagraph`](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraph)

@@ -1,30 +1,29 @@
 ---
-title: classe RevisionDefinedName
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: RevisionDefinedName classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
 url: /it/aspose.cells.revisions/revisiondefinedname/
 is_root: false
 ---
-##  classe RevisionDefinedName
+##  RevisionDefinedName classe
 Rappresenta un record di revisione di una modifica di nome definita.
 
 
 
-**Eredità:** [RevisionDefinedName](/cells/python-net/aspose.cells.revisions/revisiondefinedname) → 
-[Revision](/cells/python-net/it/aspose.cells.revisions/revision)
+**Eredità:** [`RevisionDefinedName`](/cells/python-net/it/aspose.cells.revisions/revisiondefinedname)
 
 
 
-Il tipo RevisionDefinedName espone i membri seguenti:
+Il tipo RevisionDefinedName espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
 | [type](/cells/python-net/it/aspose.cells.revisions/revisiondefinedname/type) | Rappresenta il tipo di revisione.|
-| [worksheet](/cells/python-net/it/aspose.cells.revisions/revisiondefinedname/worksheet) | Ottiene il foglio di lavoro.|
-| [id](/cells/python-net/it/aspose.cells.revisions/revisiondefinedname/id) | Ottiene il numero di questa revisione.|
+| [worksheet](/cells/python-net/it/aspose.cells.revisions/revisiondefinedname/worksheet) |  |
+| [id](/cells/python-net/it/aspose.cells.revisions/revisiondefinedname/id) |  |
 | [text](/cells/python-net/it/aspose.cells.revisions/revisiondefinedname/text) | Ottiene il testo del nome definito.|
 | [old_formula](/cells/python-net/it/aspose.cells.revisions/revisiondefinedname/old_formula) | Ottiene la vecchia formula.|
 | [new_formula](/cells/python-net/it/aspose.cells.revisions/revisiondefinedname/new_formula) | Ottiene la formula.|
@@ -32,6 +31,5 @@ Il tipo RevisionDefinedName espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.revisions](..)
-* classe [Revision](/cells/python-net/it/aspose.cells.revisions/revision)
-* classe [RevisionDefinedName](/cells/python-net/it/aspose.cells.revisions/revisiondefinedname)
+* modulo [`aspose.cells.revisions`](..)
+* classe [`RevisionDefinedName`](/cells/python-net/it/aspose.cells.revisions/revisiondefinedname)

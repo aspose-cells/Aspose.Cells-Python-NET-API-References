@@ -1,6 +1,6 @@
 ---
 title: input_message proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 230
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  input_message proprietà
 
-Rappresenta il messaggio di input di convalida dei dati.
+Rappresenta il messaggio di input per la convalida dei dati.
 ###  Definizione:
 ```python
 @property

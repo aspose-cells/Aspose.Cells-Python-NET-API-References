@@ -1,9 +1,9 @@
 ---
 title: text_font недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 370
+weight: 430
 url: /ru/aspose.cells.charts/legend/text_font/
 is_root: false
 ---
@@ -13,10 +13,10 @@ is_root: false
 
 ###  Примечания
 
- ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
-используйте свойство ChartFrame.Font.
- Этот объект недвижимости будет удален через 12 месяцев, начиная с ЯНВАРЯ 2012 года.
-Aspose приносит извинения за возможные неудобства.
+ ПРИМЕЧАНИЕ: Этот элемент устарел. Вместо этого,
+ используйте свойство ChartFrame.Font.
+ Эта собственность будет снесена через 12 месяцев с ЯНВАРЯ 2012 ГОДА.
+Aspose приносит извинения за любые причиненные вам неудобства.
 ###  Определение:
 ```python
 @property

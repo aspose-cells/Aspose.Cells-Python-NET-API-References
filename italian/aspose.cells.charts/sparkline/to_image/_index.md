@@ -1,18 +1,19 @@
 ---
-title: metodo to_image
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo to_image
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells.charts/sparkline/to_image/
 is_root: false
 ---
-##  to_image(file_name, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
-Converte un grafico sparkline in un'immagine.
+##  to_image(self, file_name, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
+Converte uno sparkline in un'immagine.
 
 
 
 ```python
+
 def to_image(self, file_name, options):
     ...
 ```
@@ -20,16 +21,17 @@ def to_image(self, file_name, options):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| file_name | str | Il nome del file immagine.|
+| file_name | str | Nome del file immagine.|
 | options | aspose.cells.rendering.ImageOrPrintOptions | Le opzioni dell'immagine|
 
 
-##  to_image(stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
-Converte un grafico sparkline in un'immagine.
+##  to_image(self, stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+Converte uno sparkline in un'immagine.
 
 
 
 ```python
+
 def to_image(self, stream, options):
     ...
 ```
@@ -43,5 +45,5 @@ def to_image(self, stream, options):
 
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Sparkline](/cells/python-net/it/aspose.cells.charts/sparkline)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Sparkline`](/cells/python-net/it/aspose.cells.charts/sparkline)

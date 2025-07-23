@@ -1,9 +1,9 @@
 ---
 title: text недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 450
+weight: 520
 url: /ru/aspose.cells.charts/datalabels/text/
 is_root: false
 ---

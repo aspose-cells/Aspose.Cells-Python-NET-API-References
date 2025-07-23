@@ -1,6 +1,6 @@
 ---
 title: argb_color недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  argb_color недвижимость
 
-Получает и задает цвет с 32-битным значением ARGB.
+Получает и задает цвет с помощью 32-битного значения ARGB.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def argb_color(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [TextOptions](/cells/python-net/ru/aspose.cells.drawing.texts/textoptions)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`TextOptions`](/cells/python-net/ru/aspose.cells.drawing.texts/textoptions)

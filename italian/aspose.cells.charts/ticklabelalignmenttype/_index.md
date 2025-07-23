@@ -1,6 +1,6 @@
 ---
 title: Enumerazione TickLabelAlignmentType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 640
@@ -17,8 +17,8 @@ Il tipo TickLabelAlignmentType espone i seguenti membri:
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
-| CENTER | Rappresenta che il testo sarà centrato.|
-| LEFT | Rappresenta il testo deve essere giustificato a sinistra.|
+| CENTER | Rappresenta il testo da centrare.|
+| LEFT | Indica che il testo deve essere giustificato a sinistra.|
 | RIGHT | Rappresenta che il testo deve essere giustificato a destra.|
 
 

@@ -1,6 +1,6 @@
 ---
 title: html_string недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 150
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  html_string недвижимость
 
-Получает и задает строку html, содержащую данные и некоторые форматы в этой форме.
+Получает и задает HTML-строку, содержащую данные и некоторые форматы в этой форме.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def html_string(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [FontSettingCollection](/cells/python-net/ru/aspose.cells.drawing.texts/fontsettingcollection)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`FontSettingCollection`](/cells/python-net/ru/aspose.cells.drawing.texts/fontsettingcollection)

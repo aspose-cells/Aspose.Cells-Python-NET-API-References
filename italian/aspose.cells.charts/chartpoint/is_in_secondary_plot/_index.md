@@ -1,16 +1,16 @@
 ---
 title: is_in_secondary_plot proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 270
+weight: 280
 url: /it/aspose.cells.charts/chartpoint/is_in_secondary_plot/
 is_root: false
 ---
 ##  is_in_secondary_plot proprietà
 
 Ottiene o imposta un valore che indica se questi punti dati si trovano nella seconda torta o barra
-su una torta di torta o barra di grafico a torta
+su un grafico a torta o a barre
 ###  Definizione:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_in_secondary_plot(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [ChartPoint](/cells/python-net/it/aspose.cells.charts/chartpoint)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`ChartPoint`](/cells/python-net/it/aspose.cells.charts/chartpoint)

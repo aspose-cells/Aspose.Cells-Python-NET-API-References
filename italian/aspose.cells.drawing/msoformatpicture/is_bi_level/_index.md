@@ -1,6 +1,6 @@
 ---
 title: is_bi_level proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_bi_level proprietà
 
-Indica se l'immagine deve essere visualizzata in bianco e nero a due colori.
+Indica se l'immagine deve essere visualizzata in due colori: bianco e nero.
 ###  Definizione:
 ```python
 @property

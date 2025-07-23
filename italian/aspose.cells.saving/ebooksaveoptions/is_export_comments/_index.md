@@ -1,15 +1,15 @@
 ---
 title: is_export_comments proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 490
+weight: 570
 url: /it/aspose.cells.saving/ebooksaveoptions/is_export_comments/
 is_root: false
 ---
 ##  is_export_comments proprietà
 
-Indica se si esportano commenti durante il salvataggio del file in html, il valore predefinito è false.
+Indica se esportare i commenti durante il salvataggio del file in HTML; il valore predefinito è falso.
 ###  Definizione:
 ```python
 @property

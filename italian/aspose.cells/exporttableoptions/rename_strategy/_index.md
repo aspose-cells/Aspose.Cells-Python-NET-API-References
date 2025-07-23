@@ -1,6 +1,6 @@
 ---
 title: rename_strategy proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 150
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rename_strategy proprietà
 
-Strategia per nomi duplicati di colonne.
+Strategia per i nomi duplicati delle colonne.
 ###  Definizione:
 ```python
 @property

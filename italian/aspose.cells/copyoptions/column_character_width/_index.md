@@ -1,6 +1,6 @@
 ---
 title: column_character_width proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -21,5 +21,5 @@ def column_character_width(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CopyOptions](/cells/python-net/it/aspose.cells/copyoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`CopyOptions`](/cells/python-net/it/aspose.cells/copyoptions)

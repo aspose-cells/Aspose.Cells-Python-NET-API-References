@@ -1,9 +1,9 @@
 ---
 title: ods_cell_fields недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1200
+weight: 1230
 url: /ru/aspose.cells/cells/ods_cell_fields/
 is_root: false
 ---

@@ -1,9 +1,9 @@
 ---
 title: refresh_chart_cache proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 100
+weight: 110
 url: /it/aspose.cells/xlssaveoptions/refresh_chart_cache/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def refresh_chart_cache(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [XlsSaveOptions](/cells/python-net/it/aspose.cells/xlssaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`XlsSaveOptions`](/cells/python-net/it/aspose.cells/xlssaveoptions)

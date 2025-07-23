@@ -1,9 +1,9 @@
 ---
 title: merge_areas proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 90
+weight: 110
 url: /it/aspose.cells/spreadsheetml2003saveoptions/merge_areas/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def merge_areas(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [SpreadsheetML2003SaveOptions](/cells/python-net/it/aspose.cells/spreadsheetml2003saveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`SpreadsheetML2003SaveOptions`](/cells/python-net/it/aspose.cells/spreadsheetml2003saveoptions)

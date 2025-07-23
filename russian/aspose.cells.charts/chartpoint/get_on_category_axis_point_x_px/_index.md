@@ -1,18 +1,19 @@
 ---
 title: get_on_category_axis_point_x_px метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
 url: /ru/aspose.cells.charts/chartpoint/get_on_category_axis_point_x_px/
 is_root: false
 ---
-##  get_on_category_axis_point_x_px(index) {#int}
-Получает x-координату точки на оси категории после вызова метода Chart.Calculate(). Применяется только к диаграмме с областями.
+##  get_on_category_axis_point_x_px(self, index) {#int}
+Получает x-координату точки на оси категорий после вызова метода Chart.Calculate(). Применимо только к площадным диаграммам.
 
 
 
 ```python
+
 def get_on_category_axis_point_x_px(self, index):
     ...
 ```
@@ -23,10 +24,10 @@ def get_on_category_axis_point_x_px(self, index):
 | index | int |  |
 ###  Примечания
 
-Двухмерная диаграмма с областями: индекс равен 0.
-Трехмерная диаграмма с областями: индекс равен 0 или 1.
+Двумерная диаграмма областей: индекс равен 0.
+Трехмерная диаграмма областей: индекс равен 0 или 1.
 
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [ChartPoint](/cells/python-net/ru/aspose.cells.charts/chartpoint)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`ChartPoint`](/cells/python-net/ru/aspose.cells.charts/chartpoint)

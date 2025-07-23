@@ -1,6 +1,6 @@
 ---
 title: column_indexes proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column_indexes proprietà
 
-Ottiene o imposta le colonne (in base 0) da importare dall'origine dati. null significa che tutte le colonne devono essere importate.
+Ottiene o imposta le colonne (basate su 0) da importare dall'origine dati. null significa che tutte le colonne devono essere importate.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def column_indexes(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ImportTableOptions](/cells/python-net/it/aspose.cells/importtableoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`ImportTableOptions`](/cells/python-net/it/aspose.cells/importtableoptions)

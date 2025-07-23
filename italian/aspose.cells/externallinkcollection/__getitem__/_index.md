@@ -1,6 +1,6 @@
 ---
 title: ExternalLinkCollection indicizzatore
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  ExternalLinkCollection indicizzatore
 
-Ottiene l'elemento [ExternalLink](/cells/python-net/it/aspose.cells/externallink) in corrispondenza dell'indice specificato.
+Ottiene l'elemento [`ExternalLink`](/cells/python-net/it/aspose.cells/externallink) all'indice specificato.
 ###  Indicizzatore
 | Nome| Descrizione|
 | :- | :- |
-| index | L'indice in base zero dell'elemento.|
+| index | Indice basato su zero dell'elemento.|
 
 
 
@@ -22,6 +22,6 @@ Ottiene l'elemento [ExternalLink](/cells/python-net/it/aspose.cells/externallink
 L'elemento all'indice specificato.
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ExternalLink](/cells/python-net/it/aspose.cells/externallink)
-* classe [ExternalLinkCollection](/cells/python-net/it/aspose.cells/externallinkcollection)
+* modulo [`aspose.cells`](../../)
+* classe [`ExternalLink`](/cells/python-net/it/aspose.cells/externallink)
+* classe [`ExternalLinkCollection`](/cells/python-net/it/aspose.cells/externallinkcollection)

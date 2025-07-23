@@ -1,6 +1,6 @@
 ---
 title: type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 270
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type недвижимость
 
-Представляет количество ошибок type.
+Представляет собой величину погрешности type.
 
 ###  Пример
 
@@ -37,6 +37,6 @@ def type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [ErrorBar](/cells/python-net/ru/aspose.cells.charts/errorbar)
-* класс [ErrorBarType](/cells/python-net/ru/aspose.cells.charts/errorbartype)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`ErrorBar`](/cells/python-net/ru/aspose.cells.charts/errorbar)
+* класс [`ErrorBarType`](/cells/python-net/ru/aspose.cells.charts/errorbartype)

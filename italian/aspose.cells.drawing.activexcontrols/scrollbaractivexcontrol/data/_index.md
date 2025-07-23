@@ -1,6 +1,6 @@
 ---
 title: data proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -8,8 +8,6 @@ url: /it/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/data/
 is_root: false
 ---
 ##  data proprietà
-
-Ottiene e imposta il codice binario data del controllo.
 ###  Definizione:
 ```python
 @property
@@ -18,5 +16,5 @@ def data(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [ScrollBarActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ScrollBarActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

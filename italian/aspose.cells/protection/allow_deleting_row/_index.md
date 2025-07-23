@@ -1,6 +1,6 @@
 ---
 title: allow_deleting_row proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_deleting_row proprietà
 
-Indica se l'eliminazione delle righe è consentita in un foglio di lavoro protetto.
+Indica se è consentita l'eliminazione di righe in un foglio di lavoro protetto.
 
 ###  Osservazioni
 
@@ -26,5 +26,5 @@ def allow_deleting_row(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Protection](/cells/python-net/it/aspose.cells/protection)
+* modulo [`aspose.cells`](../../)
+* classe [`Protection`](/cells/python-net/it/aspose.cells/protection)

@@ -1,6 +1,6 @@
 ---
 title: version proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -21,5 +21,5 @@ def version(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.webextensions](../../)
-* classe [WebExtensionReference](/cells/python-net/it/aspose.cells.webextensions/webextensionreference)
+* modulo [`aspose.cells.webextensions`](../../)
+* classe [`WebExtensionReference`](/cells/python-net/it/aspose.cells.webextensions/webextensionreference)

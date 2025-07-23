@@ -1,15 +1,15 @@
 ---
 title: remove_personal_information недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 410
+weight: 450
 url: /ru/aspose.cells/workbooksettings/remove_personal_information/
 is_root: false
 ---
 ##  remove_personal_information недвижимость
 
-Значение true, если личную информацию можно удалить из указанной книги.
+True, если персональные данные могут быть удалены из указанной рабочей книги.
 
 ###  Примечания
 

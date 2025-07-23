@@ -1,15 +1,15 @@
 ---
 title: linked_source недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 290
+weight: 350
 url: /ru/aspose.cells.charts/legend/linked_source/
 is_root: false
 ---
 ##  linked_source недвижимость
 
-Получает и задает ссылку на лист.
+Получает и задает ссылку на рабочий лист.
 ###  Определение:
 ```python
 @property

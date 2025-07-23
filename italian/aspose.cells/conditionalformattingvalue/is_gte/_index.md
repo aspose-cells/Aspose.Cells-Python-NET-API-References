@@ -1,6 +1,6 @@
 ---
 title: is_gte proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  is_gte proprietà
 
- Ottenere o impostare il flag Maggiore di o uguale.
- Usa solo per i set di icone, determina se questo valore di soglia viene utilizzato
+ Ottieni o imposta il flag Maggiore o uguale a.
+ Utilizzare solo per set di icone, determina se questo valore di soglia utilizza
  l'operatore maggiore o uguale a.
-false' indica che viene utilizzato 'maggiore di' invece di 'maggiore o uguale a'.
-Il valore predefinito è true.
+'false' indica che viene utilizzato 'maggiore di' invece di 'maggiore o uguale a'.
+Il valore predefinito è vero.
 ###  Definizione:
 ```python
 @property
@@ -25,5 +25,5 @@ def is_gte(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ConditionalFormattingValue](/cells/python-net/it/aspose.cells/conditionalformattingvalue)
+* modulo [`aspose.cells`](../../)
+* classe [`ConditionalFormattingValue`](/cells/python-net/it/aspose.cells/conditionalformattingvalue)

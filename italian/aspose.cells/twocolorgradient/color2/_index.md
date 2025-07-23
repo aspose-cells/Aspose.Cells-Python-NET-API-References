@@ -1,6 +1,6 @@
 ---
 title: color2 proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color2 proprietà
 
-Ottiene e imposta il secondo colore della sfumatura.
+Ottiene e imposta il secondo colore del gradiente.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def color2(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [TwoColorGradient](/cells/python-net/it/aspose.cells/twocolorgradient)
+* modulo [`aspose.cells`](../../)
+* classe [`TwoColorGradient`](/cells/python-net/it/aspose.cells/twocolorgradient)

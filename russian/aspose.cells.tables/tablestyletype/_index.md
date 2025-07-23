@@ -1,6 +1,6 @@
 ---
 title: TableStyleType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 120
@@ -8,11 +8,11 @@ url: /ru/aspose.cells.tables/tablestyletype/
 is_root: false
 ---
 ##  TableStyleType перечисление
-Представляет встроенный тип стиля таблицы.
+Представляет собой встроенный тип стиля таблицы.
 
 
 
-Тип TableStyleType предоставляет следующие члены:
+Тип TableStyleType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -83,4 +83,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.tables](..)
+* модуль [`aspose.cells.tables`](..)

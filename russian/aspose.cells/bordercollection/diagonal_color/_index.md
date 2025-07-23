@@ -1,9 +1,9 @@
 ---
 title: diagonal_color недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 50
+weight: 60
 url: /ru/aspose.cells/bordercollection/diagonal_color/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def diagonal_color(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [BorderCollection](/cells/python-net/ru/aspose.cells/bordercollection)
+* модуль [`aspose.cells`](../../)
+* класс [`BorderCollection`](/cells/python-net/ru/aspose.cells/bordercollection)

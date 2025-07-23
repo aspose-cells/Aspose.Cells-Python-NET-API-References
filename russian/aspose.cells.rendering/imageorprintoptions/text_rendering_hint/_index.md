@@ -1,15 +1,15 @@
 ---
 title: text_rendering_hint недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 340
+weight: 350
 url: /ru/aspose.cells.rendering/imageorprintoptions/text_rendering_hint/
 is_root: false
 ---
 ##  text_rendering_hint недвижимость
 
-Определяет качество рендеринга текста.
+Определяет качество отображения текста.
 Значение по умолчанию — TextRenderingHint.SystemDefault.
 ###  Определение:
 ```python

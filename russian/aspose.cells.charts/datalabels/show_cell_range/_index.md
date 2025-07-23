@@ -1,15 +1,15 @@
 ---
 title: show_cell_range недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 400
+weight: 470
 url: /ru/aspose.cells.charts/datalabels/show_cell_range/
 is_root: false
 ---
 ##  show_cell_range недвижимость
 
-Указывает, отображается ли диапазон ячеек в качестве меток данных.
+Указывает, отображать ли диапазон ячеек в качестве меток данных.
 ###  Определение:
 ```python
 @property

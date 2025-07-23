@@ -1,9 +1,9 @@
 ---
 title: GradientColorType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 850
+weight: 840
 url: /ru/aspose.cells.drawing/gradientcolortype/
 is_root: false
 ---
@@ -12,17 +12,17 @@ is_root: false
 
 
 
-Тип GradientColorType предоставляет следующие члены:
+Тип GradientColorType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
 | NONE | Нет градиентного цвета|
-| ONE_COLOR | Один цвет градиента|
+| ONE_COLOR | Один градиентный цвет|
 | PRESET_COLORS | Предустановленные цвета градиента|
 | TWO_COLORS | Два градиентных цвета|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
+* модуль [`aspose.cells.drawing`](..)

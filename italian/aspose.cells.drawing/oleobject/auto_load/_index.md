@@ -1,16 +1,16 @@
 ---
 title: auto_load proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 320
+weight: 330
 url: /it/aspose.cells.drawing/oleobject/auto_load/
 is_root: false
 ---
 ##  auto_load proprietà
 
-Specifica se l'applicazione host per l'oggetto incorporato dovrà essere richiamata per il caricamento
-dati dell'oggetto automaticamente quando viene aperta la cartella di lavoro principale.
+Specifica se l'applicazione host per l'oggetto incorporato deve essere chiamata per caricare
+i dati dell'oggetto automaticamente quando si apre la cartella di lavoro padre.
 ###  Definizione:
 ```python
 @property

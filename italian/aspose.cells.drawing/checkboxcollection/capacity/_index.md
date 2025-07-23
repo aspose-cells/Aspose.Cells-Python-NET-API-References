@@ -1,6 +1,6 @@
 ---
 title: capacity proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [CheckBoxCollection](/cells/python-net/it/aspose.cells.drawing/checkboxcollection)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`CheckBoxCollection`](/cells/python-net/it/aspose.cells.drawing/checkboxcollection)

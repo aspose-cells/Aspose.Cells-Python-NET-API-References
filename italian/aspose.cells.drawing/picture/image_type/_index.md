@@ -1,6 +1,6 @@
 ---
 title: image_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 590
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  image_type proprietà
 
-Ottiene il formato immagine dell'immagine.
+Ottiene il formato dell'immagine.
 
 ###  Esempio
 

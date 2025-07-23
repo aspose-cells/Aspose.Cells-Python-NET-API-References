@@ -1,22 +1,23 @@
 ---
-title: metodo characters
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo characters
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
 url: /it/aspose.cells/cell/characters/
 is_root: false
 ---
-##  characters(start_index, length) {#int-int}
+##  characters(self, start_index, length) {#int-int}
 Restituisce un oggetto Characters che rappresenta un intervallo di characters all'interno del testo della cella.
 
 
 ###  ritorna
 
-Oggetto Personaggi.
+I personaggi si oppongono.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -28,7 +29,7 @@ def characters(self, start_index, length):
 | length | int | Il numero di caratteri.|
 ###  Osservazioni
 
-Questo metodo funziona solo su celle con valore stringa.
+Questo metodo funziona solo sulle celle con valore stringa.
 ###  Esempio
 
 
@@ -47,5 +48,5 @@ cells.get("A1").characters(5, 5).font.color = Color.blue
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cell](/cells/python-net/it/aspose.cells/cell)
+* modulo [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/it/aspose.cells/cell)

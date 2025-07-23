@@ -1,9 +1,9 @@
 ---
 title: worksheet proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 440
+weight: 540
 url: /it/aspose.cells/range/worksheet/
 is_root: false
 ---

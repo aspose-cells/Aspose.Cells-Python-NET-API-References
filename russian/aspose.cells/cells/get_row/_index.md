@@ -1,22 +1,23 @@
 ---
 title: get_row метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 440
+weight: 480
 url: /ru/aspose.cells/cells/get_row/
 is_root: false
 ---
-##  get_row {#int}
+##  get_row(self, row) {#int}
 Получает элемент [`Row`](/cells/python-net/ru/aspose.cells/row) по указанному индексу строки ячейки.
 
 
 ###  Возврат
 
-Если объект строки существует, верните объект Row, в противном случае верните ноль.
+Если объект строки существует, вернуть объект строки, в противном случае вернуть null.
 
 
 ```python
+
 def get_row(self, row):
     ...
 ```
@@ -27,10 +28,10 @@ def get_row(self, row):
 | row | int | Индекс строки|
 ###  Примечания
 
-ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
+ПРИМЕЧАНИЕ: Этот элемент устарел. Вместо этого,
 используйте метод Cells.CheckRow(int row).
  Этот метод будет удален через 12 месяцев, с февраля 2024 года.
-Aspose приносит извинения за возможные неудобства.
+Aspose приносит извинения за любые причиненные вам неудобства.
 
 
 ###  Смотрите также

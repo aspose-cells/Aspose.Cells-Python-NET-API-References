@@ -1,6 +1,6 @@
 ---
 title: base_unit_scale proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -13,7 +13,7 @@ Rappresenta la scala dell'unità di base per l'asse delle categorie.
 
 ###  Osservazioni
 
-L'impostazione di questa proprietà ha effetto solo quando la proprietà CategoryType è impostata su TimeScale.
+L'impostazione di questa proprietà ha effetto solo se la proprietà CategoryType è impostata su TimeScale.
 ###  Definizione:
 ```python
 @property

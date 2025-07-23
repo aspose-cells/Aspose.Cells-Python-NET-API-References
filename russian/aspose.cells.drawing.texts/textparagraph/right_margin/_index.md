@@ -1,6 +1,6 @@
 ---
 title: right_margin недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 180
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  right_margin недвижимость
 
-Определяет правое поле абзаца.
+Задает правое поле абзаца.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def right_margin(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [TextParagraph](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraph)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`TextParagraph`](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraph)

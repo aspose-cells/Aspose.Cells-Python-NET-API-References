@@ -1,9 +1,9 @@
 ---
 title: height_cm proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 500
+weight: 490
 url: /it/aspose.cells.drawing/lineshape/height_cm/
 is_root: false
 ---

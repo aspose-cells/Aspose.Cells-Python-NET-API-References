@@ -1,9 +1,9 @@
 ---
 title: id_name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 140
+weight: 160
 url: /ru/aspose.cells.saving/sqlscriptsaveoptions/id_name/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Если это свойство установлено, столбец будет вставлен с автоматически увеличивающимся значением int.
+Если это свойство установлено, столбец будет вставлен с автоматическим увеличением значения int.
 ###  Определение:
 ```python
 @property
@@ -25,5 +25,5 @@ def id_name(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.saving](../../)
-* класс [SqlScriptSaveOptions](/cells/python-net/ru/aspose.cells.saving/sqlscriptsaveoptions)
+* модуль [`aspose.cells.saving`](../../)
+* класс [`SqlScriptSaveOptions`](/cells/python-net/ru/aspose.cells.saving/sqlscriptsaveoptions)

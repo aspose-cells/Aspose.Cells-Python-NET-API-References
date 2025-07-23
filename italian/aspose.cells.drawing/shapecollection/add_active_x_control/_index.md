@@ -1,14 +1,14 @@
 ---
-title: metodo add_active_x_control
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo add_active_x_control
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells.drawing/shapecollection/add_active_x_control/
 is_root: false
 ---
-##  add_active_x_control(type, top_row, top, left_column, left, width, height) {#aspose.cells.drawing.activexcontrols.ControlType-int-int-int-int-int-int}
-Crea un controllo Activex.
+##  add_active_x_control(self, type, top_row, top, left_column, left, width, height) {#aspose.cells.drawing.activexcontrols.ControlType-int-int-int-int-int-int}
+Crea un controllo ActiveX.
 
 
 ###  ritorna
@@ -17,6 +17,7 @@ Crea un controllo Activex.
 
 
 ```python
+
 def add_active_x_control(self, type, top_row, top, left_column, left, width, height):
     ...
 ```
@@ -26,11 +27,11 @@ def add_active_x_control(self, type, top_row, top, left_column, left, width, hei
 | :- | :- | :- |
 | type | aspose.cells.drawing.activexcontrols.ControlType | Il tipo di controllo.|
 | top_row | int | Indice della riga in alto a sinistra.|
-| top | int | Rappresenta l'offset verticale di Shape dalla riga sinistra, in unità di pixel.|
-| left_column | int | Indice colonna in alto a sinistra.|
-| left | int | Rappresenta l'offset orizzontale di Shape dalla colonna di sinistra, in unità di pixel.|
-| width | int | Rappresenta la larghezza di Shape, in unità di pixel.|
-| height | int | Rappresenta l'altezza di Shape, in unità di pixel.|
+| top | int | Rappresenta lo scostamento verticale di Shape dalla sua riga sinistra, in pixel.|
+| left_column | int | Indice della colonna in alto a sinistra.|
+| left | int | Rappresenta lo scostamento orizzontale di Shape dalla sua colonna di sinistra, in unità di pixel.|
+| width | int | Rappresenta la larghezza della forma, in unità di pixel.|
+| height | int | Rappresenta l'altezza della forma, in pixel.|
 
 ###  Esempio
 
@@ -45,5 +46,5 @@ activeXControl = shapes.add_active_x_control(ControlType.CHECK_BOX, 1, 0, 1, 0, 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ShapeCollection](/cells/python-net/it/aspose.cells.drawing/shapecollection)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ShapeCollection`](/cells/python-net/it/aspose.cells.drawing/shapecollection)

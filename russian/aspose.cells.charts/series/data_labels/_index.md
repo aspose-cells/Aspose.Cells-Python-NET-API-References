@@ -1,6 +1,6 @@
 ---
 title: data_labels недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 100
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  data_labels недвижимость
 
-Представляет объект DataLabels для указанной серии ASeries.
+Представляет объект DataLabels для указанной ASeries.
 ###  Определение:
 ```python
 @property

@@ -1,6 +1,6 @@
 ---
 title: back_ole_color proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -8,8 +8,6 @@ url: /it/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/back_ole_col
 is_root: false
 ---
 ##  back_ole_color proprietà
-
-Ottiene e imposta il colore ole dello sfondo.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +19,5 @@ def back_ole_color(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [TextBoxActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`TextBoxActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

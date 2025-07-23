@@ -1,6 +1,6 @@
 ---
 title: top_crop_inch недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 150
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  top_crop_inch недвижимость
 
-Представляет расположение верхней части прямоугольника обрезки, выраженное в дюймах.
+Представляет местоположение верхней части прямоугольника обрезки, выраженное в дюймах.
 ###  Определение:
 ```python
 @property

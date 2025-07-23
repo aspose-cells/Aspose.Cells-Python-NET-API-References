@@ -1,22 +1,23 @@
 ---
 title: add метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells.tables/listobjectcollection/add/
 is_root: false
 ---
-##  add(start_cell, end_cell, has_headers) {#str-str-bool}
-Добавляет ListObject на лист.
+##  add(self, start_cell, end_cell, has_headers) {#str-str-bool}
+Добавляет ListObject на рабочий лист.
 
 
-###  Возвращает
+###  Возврат
 
 Индекс нового ListObject
 
 
 ```python
+
 def add(self, start_cell, end_cell, has_headers):
     ...
 ```
@@ -24,21 +25,22 @@ def add(self, start_cell, end_cell, has_headers):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| start_cell | str | Начальная ячейка диапазона списка.|
+| start_cell | str |Начальная ячейка диапазона списка.|
 | end_cell | str | Конечная ячейка диапазона списка.|
 | has_headers | bool | Имеет ли диапазон заголовки.|
 
 
-##  add(start_row, start_column, end_row, end_column, has_headers) {#int-int-int-int-bool}
-Добавляет ListObject на лист.
+##  add(self, start_row, start_column, end_row, end_column, has_headers) {#int-int-int-int-bool}
+Добавляет ListObject на рабочий лист.
 
 
-###  Возвращает
+###  Возврат
 
 Индекс нового ListObject
 
 
 ```python
+
 def add(self, start_row, start_column, end_row, end_column, has_headers):
     ...
 ```
@@ -55,5 +57,5 @@ def add(self, start_row, start_column, end_row, end_column, has_headers):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.tables](../../)
-* класс [ListObjectCollection](/cells/python-net/ru/aspose.cells.tables/listobjectcollection)
+* модуль [`aspose.cells.tables`](../../)
+* класс [`ListObjectCollection`](/cells/python-net/ru/aspose.cells.tables/listobjectcollection)

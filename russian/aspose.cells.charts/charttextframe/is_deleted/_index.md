@@ -1,9 +1,9 @@
 ---
 title: is_deleted недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 210
+weight: 270
 url: /ru/aspose.cells.charts/charttextframe/is_deleted/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_deleted(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [ChartTextFrame](/cells/python-net/ru/aspose.cells.charts/charttextframe)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`ChartTextFrame`](/cells/python-net/ru/aspose.cells.charts/charttextframe)

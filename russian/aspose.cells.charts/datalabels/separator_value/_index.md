@@ -1,15 +1,15 @@
 ---
 title: separator_value недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 340
+weight: 410
 url: /ru/aspose.cells.charts/datalabels/separator_value/
 is_root: false
 ---
 ##  separator_value недвижимость
 
-Получает или задает значение разделителя, используемое для меток данных на диаграмме.
+Возвращает или задает значение разделителя, используемого для меток данных на диаграмме.
 ###  Определение:
 ```python
 @property

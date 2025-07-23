@@ -1,6 +1,6 @@
 ---
 title: walls недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 660
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  walls недвижимость
 
-Возвращает объект [`Chart.walls`](/cells/python-net/ru/aspose.cells.charts/chart#walls), который представляет walls трехмерной диаграммы.
+Возвращает объект [`Chart.walls`](/cells/python-net/ru/aspose.cells.charts/chart#walls), представляющий walls трехмерной диаграммы.
 
 ###  Примечания
 

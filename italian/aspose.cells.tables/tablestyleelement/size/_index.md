@@ -1,6 +1,6 @@
 ---
 title: size proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -10,7 +10,7 @@ is_root: false
 ##  size proprietà
 
 Numero di righe o colonne in una singola banda di strisce.
-Si applica solo quando type è firstRowStripe, secondRowStripe, firstColumnStripe o secondColumnStripe.
+Si applica solo quando il tipo è firstRowStripe, secondRowStripe, firstColumnStripe o secondColumnStripe.
 ###  Definizione:
 ```python
 @property
@@ -22,5 +22,5 @@ def size(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.tables](../../)
-* classe [TableStyleElement](/cells/python-net/it/aspose.cells.tables/tablestyleelement)
+* modulo [`aspose.cells.tables`](../../)
+* classe [`TableStyleElement`](/cells/python-net/it/aspose.cells.tables/tablestyleelement)

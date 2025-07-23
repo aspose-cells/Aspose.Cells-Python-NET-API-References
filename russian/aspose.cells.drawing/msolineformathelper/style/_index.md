@@ -1,6 +1,6 @@
 ---
 title: style недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -21,6 +21,6 @@ def style(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [MsoLineFormatHelper](/cells/python-net/ru/aspose.cells.drawing/msolineformathelper)
-* класс [MsoLineStyle](/cells/python-net/ru/aspose.cells.drawing/msolinestyle)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`MsoLineFormatHelper`](/cells/python-net/ru/aspose.cells.drawing/msolineformathelper)
+* класс [`MsoLineStyle`](/cells/python-net/ru/aspose.cells.drawing/msolinestyle)

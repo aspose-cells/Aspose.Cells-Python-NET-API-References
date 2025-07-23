@@ -1,9 +1,9 @@
 ---
 title: PictureBulletValue класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 70
+weight: 60
 url: /ru/aspose.cells.drawing.texts/picturebulletvalue/
 is_root: false
 ---
@@ -12,28 +12,26 @@ is_root: false
 
 
 
-**Наследование:** [PictureBulletValue](/cells/python-net/aspose.cells.drawing.texts/picturebulletvalue) → 
-[BulletValue](/cells/python-net/ru/aspose.cells.drawing.texts/bulletvalue)
+**Наследование:** [`PictureBulletValue`](/cells/python-net/ru/aspose.cells.drawing.texts/picturebulletvalue)
 
 
 
-Тип PictureBulletValue предоставляет следующие члены:
+Тип PictureBulletValue предоставляет следующие элементы:
 
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [PictureBulletValue()](/cells/python-net/ru/aspose.cells.drawing.texts/picturebulletvalue/__init__/#) | Создает новый экземпляр PictureBulletValue.|
+| [`__init__(self)`](/cells/python-net/ru/aspose.cells.drawing.texts/picturebulletvalue/__init__/#) | Создает новый экземпляр PictureBulletValue|
 
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [type](/cells/python-net/ru/aspose.cells.drawing.texts/picturebulletvalue/type) | Получает тип значения маркера.|
+| [type](/cells/python-net/ru/aspose.cells.drawing.texts/picturebulletvalue/type) | Получает тип значения пули.|
 | [image_data](/cells/python-net/ru/aspose.cells.drawing.texts/picturebulletvalue/image_data) | Получает и задает данные изображения пули.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](..)
-* класс [BulletValue](/cells/python-net/ru/aspose.cells.drawing.texts/bulletvalue)
-* класс [PictureBulletValue](/cells/python-net/ru/aspose.cells.drawing.texts/picturebulletvalue)
+* модуль [`aspose.cells.drawing.texts`](..)
+* класс [`PictureBulletValue`](/cells/python-net/ru/aspose.cells.drawing.texts/picturebulletvalue)

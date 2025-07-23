@@ -1,15 +1,13 @@
 ---
 title: type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 380
+weight: 450
 url: /it/aspose.cells.externalconnections/webqueryconnection/type/
 is_root: false
 ---
 ##  type proprietà
-
-Ottiene o imposta la connessione esterna DataSource type.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +19,6 @@ def type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.externalconnections](../../)
-* classe [ConnectionDataSourceType](/cells/python-net/it/aspose.cells.externalconnections/connectiondatasourcetype)
-* classe [WebQueryConnection](/cells/python-net/it/aspose.cells.externalconnections/webqueryconnection)
+* modulo [`aspose.cells.externalconnections`](../../)
+* classe [`ConnectionDataSourceType`](/cells/python-net/it/aspose.cells.externalconnections/connectiondatasourcetype)
+* classe [`WebQueryConnection`](/cells/python-net/it/aspose.cells.externalconnections/webqueryconnection)

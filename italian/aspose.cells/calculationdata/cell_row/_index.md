@@ -1,6 +1,6 @@
 ---
 title: cell_row proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cell_row proprietà
 
-Ottiene l'indice della riga della cella in cui si trova la funzione.
+Ottiene l'indice di riga della cella in cui si trova la funzione.
 ###  Definizione:
 ```python
 @property

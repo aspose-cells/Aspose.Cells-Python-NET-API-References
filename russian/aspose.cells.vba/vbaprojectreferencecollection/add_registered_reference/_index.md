@@ -1,22 +1,23 @@
 ---
 title: add_registered_reference метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
 url: /ru/aspose.cells.vba/vbaprojectreferencecollection/add_registered_reference/
 is_root: false
 ---
-##  add_registered_reference(name, libid) {#str-str}
+##  add_registered_reference(self, name, libid) {#str-str}
 Добавьте ссылку на библиотеку типов автоматизации.
 
 
-###  Возвращает
+###  Возврат
 
 
 
 
 ```python
+
 def add_registered_reference(self, name, libid):
     ...
 ```
@@ -30,5 +31,5 @@ def add_registered_reference(self, name, libid):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.vba](../../)
-* класс [VbaProjectReferenceCollection](/cells/python-net/ru/aspose.cells.vba/vbaprojectreferencecollection)
+* модуль [`aspose.cells.vba`](../../)
+* класс [`VbaProjectReferenceCollection`](/cells/python-net/ru/aspose.cells.vba/vbaprojectreferencecollection)

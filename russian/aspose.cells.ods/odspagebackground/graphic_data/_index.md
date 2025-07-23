@@ -1,6 +1,6 @@
 ---
 title: graphic_data недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  graphic_data недвижимость
 
-Получает и устанавливает графические данные.
+Получает и задает графические данные.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def graphic_data(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.ods](../../)
-* класс [OdsPageBackground](/cells/python-net/ru/aspose.cells.ods/odspagebackground)
+* модуль [`aspose.cells.ods`](../../)
+* класс [`OdsPageBackground`](/cells/python-net/ru/aspose.cells.ods/odspagebackground)

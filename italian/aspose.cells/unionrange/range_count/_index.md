@@ -1,9 +1,9 @@
 ---
 title: range_count proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 200
+weight: 190
 url: /it/aspose.cells/unionrange/range_count/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def range_count(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [UnionRange](/cells/python-net/it/aspose.cells/unionrange)
+* modulo [`aspose.cells`](../../)
+* classe [`UnionRange`](/cells/python-net/it/aspose.cells/unionrange)

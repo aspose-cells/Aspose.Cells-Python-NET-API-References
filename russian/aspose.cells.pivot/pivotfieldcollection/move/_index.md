@@ -1,18 +1,19 @@
 ---
 title: move метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 50
+weight: 60
 url: /ru/aspose.cells.pivot/pivotfieldcollection/move/
 is_root: false
 ---
-##  move {#int-int}
+##  move(self, curr_pos, dest_pos) {#int-int}
 Перемещает PivotField из текущей позиции в позицию назначения.
 
 
 
 ```python
+
 def move(self, curr_pos, dest_pos):
     ...
 ```
@@ -20,7 +21,7 @@ def move(self, curr_pos, dest_pos):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| curr_pos | int | Текущая позиция PivotField на основе нуля|
+| curr_pos | int | Текущее положение PivotField относительно нуля|
 | dest_pos | int | Целевая позиция PivotField на основе нуля|
 
 

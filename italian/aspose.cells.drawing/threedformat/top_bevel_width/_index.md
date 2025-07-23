@@ -1,6 +1,6 @@
 ---
 title: top_bevel_width proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 210
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  top_bevel_width proprietà
 
-Ottiene e imposta la larghezza della smussatura superiore o la distanza di applicazione nella forma.
+Ottiene e imposta la larghezza della smussatura superiore, ovvero fino a che punto viene applicata nella forma.
 In unità di punti.
 ###  Definizione:
 ```python
@@ -22,5 +22,5 @@ def top_bevel_width(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ThreeDFormat](/cells/python-net/it/aspose.cells.drawing/threedformat)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ThreeDFormat`](/cells/python-net/it/aspose.cells.drawing/threedformat)

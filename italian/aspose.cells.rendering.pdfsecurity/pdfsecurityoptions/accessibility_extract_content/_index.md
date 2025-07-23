@@ -1,6 +1,6 @@
 ---
 title: accessibility_extract_content proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  accessibility_extract_content proprietà
 
-Indica se consentire l'estrazione di testo e grafica (a supporto dell'accessibilità agli utenti con disabilità o per altri scopi).
+Indica se consentire l'estrazione di testo e grafica (a supporto dell'accessibilità per gli utenti con disabilità o per altri scopi).
 ###  Definizione:
 ```python
 @property

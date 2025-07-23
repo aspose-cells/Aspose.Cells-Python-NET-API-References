@@ -1,6 +1,6 @@
 ---
 title: text_align proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 320
@@ -8,8 +8,6 @@ url: /it/aspose.cells.drawing.activexcontrols/listboxactivexcontrol/text_align/
 is_root: false
 ---
 ##  text_align proprietà
-
-Rappresenta come allineare il testo utilizzato dal controllo.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +19,6 @@ def text_align(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [ListBoxActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
-* classe [TextAlignmentType](/cells/python-net/it/aspose.cells/textalignmenttype)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ListBoxActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* classe [`TextAlignmentType`](/cells/python-net/it/aspose.cells/textalignmenttype)

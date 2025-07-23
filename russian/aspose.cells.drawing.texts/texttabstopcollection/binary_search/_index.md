@@ -1,22 +1,23 @@
 ---
 title: binary_search метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
 url: /ru/aspose.cells.drawing.texts/texttabstopcollection/binary_search/
 is_root: false
 ---
-##  binary_search(item) {#TextTabStop}
-Ищет элемент во всем отсортированном списке массивов, используя компаратор по умолчанию, и возвращает отсчитываемый от нуля индекс элемента.
+##  binary_search(self, item) {#aspose.cells.drawing.texts.TextTabStop}
+Выполняет поиск элемента во всем отсортированном списке массивов, используя компаратор по умолчанию, и возвращает индекс элемента, отсчитываемый от нуля.
 
 
-###  Возвращает
+###  Возврат
 
-Отсчитываемый от нуля индекс значения в отсортированном списке массивов, если элемент найден; в противном случае — отрицательное число, которое является побитовым дополнением индекса следующего элемента, который больше значения, или, если большего элемента нет, побитовым дополнением списка массивов Count.
+Отсчитываемый от нуля индекс значения в отсортированном списке массива, если элемент найден; в противном случае — отрицательное число, которое является побитовым дополнением индекса следующего элемента, который больше значения, или, если большего элемента нет, побитовым дополнением списка массива Count.
 
 
 ```python
+
 def binary_search(self, item):
     ...
 ```
@@ -24,10 +25,10 @@ def binary_search(self, item):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| item | [TextTabStop](/cells/python-net/ru/aspose.cells.drawing.texts/texttabstop) | System.Object для поиска. Значение может быть нулевым.|
+| item | [`TextTabStop`](/cells/python-net/ru/aspose.cells.drawing.texts/texttabstop) | Системный объект, который нужно найти. Значение может быть null.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [TextTabStopCollection](/cells/python-net/ru/aspose.cells.drawing.texts/texttabstopcollection)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`TextTabStopCollection`](/cells/python-net/ru/aspose.cells.drawing.texts/texttabstopcollection)

@@ -1,15 +1,15 @@
 ---
 title: style_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 250
+weight: 260
 url: /it/aspose.cells.slicers/slicer/style_type/
 is_root: false
 ---
 ##  style_type proprietà
 
-Specificare il tipo di stile affettatrice incorporato
+Specificare il tipo di stile di slicer incorporato
 il tipo predefinito è SlicerStyleLight1
 
 ###  Esempio
@@ -31,6 +31,6 @@ def style_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.slicers](../../)
-* classe [Slicer](/cells/python-net/it/aspose.cells.slicers/slicer)
-* classe [SlicerStyleType](/cells/python-net/it/aspose.cells.slicers/slicerstyletype)
+* modulo [`aspose.cells.slicers`](../../)
+* classe [`Slicer`](/cells/python-net/it/aspose.cells.slicers/slicer)
+* classe [`SlicerStyleType`](/cells/python-net/it/aspose.cells.slicers/slicerstyletype)

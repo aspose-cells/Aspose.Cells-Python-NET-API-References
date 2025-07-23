@@ -1,9 +1,9 @@
 ---
 title: is_js_browser_compatible proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 520
+weight: 600
 url: /it/aspose.cells/htmlsaveoptions/is_js_browser_compatible/
 is_root: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: Enumerazione ChartTextDirectionType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 450
@@ -19,8 +19,8 @@ Il tipo ChartTextDirectionType espone i seguenti membri:
 | :- | :- |
 | HORIZONTAL | Tipo di direzione orizzontale.|
 | VERTICAL | Tipo di direzione verticale.|
-| ROTATE90 | Ruota di 90 angoli.|
-| ROTATE270 | Ruota di 270 angoli.|
+| ROTATE90 | Ruota di 90°.|
+| ROTATE270 | Ruota di 270°.|
 | STACKED | Testo impilato.|
 
 

@@ -1,15 +1,15 @@
 ---
 title: active_cell недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 350
+weight: 370
 url: /ru/aspose.cells/worksheet/active_cell/
 is_root: false
 ---
 ##  active_cell недвижимость
 
-Получает или задает активную ячейку на листе.
+Возвращает или задает активную ячейку на листе.
 ###  Определение:
 ```python
 @property

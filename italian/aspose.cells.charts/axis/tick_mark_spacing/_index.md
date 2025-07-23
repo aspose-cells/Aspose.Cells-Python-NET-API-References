@@ -1,15 +1,15 @@
 ---
 title: tick_mark_spacing proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 410
+weight: 420
 url: /it/aspose.cells.charts/axis/tick_mark_spacing/
 is_root: false
 ---
 ##  tick_mark_spacing proprietà
 
-Restituisce o imposta il numero di categorie o serie tra i segni di graduazione. Si applica solo agli assi delle categorie e delle serie.
+Restituisce o imposta il numero di categorie o serie tra i segni di spunta. Si applica solo agli assi di categorie e serie.
 
 ###  Osservazioni
 

@@ -1,9 +1,9 @@
 ---
 title: bytes недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 80
+weight: 90
 url: /ru/aspose.cells.properties/builtindocumentpropertycollection/bytes/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def bytes(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.properties](../../)
-* класс [BuiltInDocumentPropertyCollection](/cells/python-net/ru/aspose.cells.properties/builtindocumentpropertycollection)
+* модуль [`aspose.cells.properties`](../../)
+* класс [`BuiltInDocumentPropertyCollection`](/cells/python-net/ru/aspose.cells.properties/builtindocumentpropertycollection)

@@ -1,18 +1,19 @@
 ---
 title: remove_area метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
 url: /ru/aspose.cells/formatconditioncollection/remove_area/
 is_root: false
 ---
-##  remove_area(index) {#int}
+##  remove_area(self, index) {#int}
 Удаляет условно отформатированный диапазон ячеек по индексу.
 
 
 
 ```python
+
 def remove_area(self, index):
     ...
 ```
@@ -20,19 +21,20 @@ def remove_area(self, index):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| index | int | Индекс условно форматированного диапазона ячеек, который необходимо удалить.|
+| index | int | Индекс диапазона ячеек условного форматирования, который необходимо удалить.|
 
 
-##  remove_area(start_row, start_column, total_rows, total_columns) {#int-int-int-int}
+##  remove_area(self, start_row, start_column, total_rows, total_columns) {#int-int-int-int}
 Удалить условное форматирование в диапазоне.
 
 
-###  Возвращает
+###  Возврат
 
-Возвращает TRUE, этот FormatCondtionCollection должен быть удален.
+Возвращает TRUE, этот FormatCondtionCollection следует удалить.
 
 
 ```python
+
 def remove_area(self, start_row, start_column, total_rows, total_columns):
     ...
 ```
@@ -48,5 +50,5 @@ def remove_area(self, start_row, start_column, total_rows, total_columns):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [FormatConditionCollection](/cells/python-net/ru/aspose.cells/formatconditioncollection)
+* модуль [`aspose.cells`](../../)
+* класс [`FormatConditionCollection`](/cells/python-net/ru/aspose.cells/formatconditioncollection)

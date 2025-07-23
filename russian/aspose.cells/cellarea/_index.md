@@ -1,23 +1,23 @@
 ---
 title: CellArea класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 150
+weight: 120
 url: /ru/aspose.cells/cellarea/
 is_root: false
 ---
 ##  CellArea класс
-Представляют собой область ячеек.
+Представляет собой область ячеек.
 
 
 
-Тип CellArea предоставляет следующие члены:
+Тип CellArea предоставляет следующие элементы:
 
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [CellArea()](/cells/python-net/ru/aspose.cells/cellarea/__init__/#) | Создает новый экземпляр CellArea|
+| [`__init__(self)`](/cells/python-net/ru/aspose.cells/cellarea/__init__/#) | Создает новый экземпляр CellArea|
 
 
 ###  Характеристики
@@ -25,16 +25,16 @@ is_root: false
 | :- | :- |
 | [start_row](/cells/python-net/ru/aspose.cells/cellarea/start_row) | Получает или задает начальную строку этой области.|
 | [end_row](/cells/python-net/ru/aspose.cells/cellarea/end_row) | Получает или задает конечную строку этой области.|
-| [start_column](/cells/python-net/ru/aspose.cells/cellarea/start_column) |Получает или задает начальный столбец этой области.|
+| [start_column](/cells/python-net/ru/aspose.cells/cellarea/start_column) | Получает или задает начальный столбец этой области.|
 | [end_column](/cells/python-net/ru/aspose.cells/cellarea/end_column) | Получает или задает конечный столбец этой области.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [create_cell_area(start_row, start_column, end_row, end_column)](/cells/python-net/ru/aspose.cells/cellarea/create_cell_area/#int-int-int-int) | Создает область ячеек.|
-| [create_cell_area(start_cell_name, end_cell_name)](/cells/python-net/ru/aspose.cells/cellarea/create_cell_area/#str-str) | Создает область ячеек.|
-| [compare_to(obj)](/cells/python-net/ru/aspose.cells/cellarea/compare_to/#any) | Сравните два объекта CellArea по их верхнему левому углу.|
+| [`create_cell_area(, start_row, start_column, end_row, end_column)`](/cells/python-net/ru/aspose.cells/cellarea/create_cell_area/#int-int-int-int) | Создает область ячеек.|
+| [`create_cell_area(, start_cell_name, end_cell_name)`](/cells/python-net/ru/aspose.cells/cellarea/create_cell_area/#str-str) | Создает область ячеек.|
+| [`compare_to(self, obj)`](/cells/python-net/ru/aspose.cells/cellarea/compare_to/#any) | Сравните два объекта CellArea по их верхнему левому углу.|
 
 
 
@@ -53,4 +53,4 @@ ca.end_column = 0
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](..)
+* модуль [`aspose.cells`](..)

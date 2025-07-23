@@ -1,15 +1,15 @@
 ---
 title: left proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 680
+weight: 690
 url: /it/aspose.cells.drawing/chartshape/left/
 is_root: false
 ---
 ##  left proprietà
 
-Rappresenta l'offset orizzontale della forma dalla colonna left, in unità di pixel.
+Rappresenta lo scostamento orizzontale della forma dalla sua colonna left, in pixel.
 
 ###  Esempio
 

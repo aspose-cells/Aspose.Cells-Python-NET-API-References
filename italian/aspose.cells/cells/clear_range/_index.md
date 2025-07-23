@@ -1,18 +1,19 @@
 ---
-title: metodo clear_range
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo clear_range
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 130
 url: /it/aspose.cells/cells/clear_range/
 is_root: false
 ---
-##  clear_range(range) {#CellArea}
+##  clear_range(self, range) {#aspose.cells.CellArea}
 Cancella il contenuto e la formattazione di un intervallo.
 
 
 
 ```python
+
 def clear_range(self, range):
     ...
 ```
@@ -20,15 +21,16 @@ def clear_range(self, range):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| range | [CellArea](/cells/python-net/it/aspose.cells/cellarea) | Intervallo da cancellare.|
+| range | [`CellArea`](/cells/python-net/it/aspose.cells/cellarea) | Campo da liberare.|
 
 
-##  clear_range(start_row, start_column, end_row, end_column) {#int-int-int-int}
+##  clear_range(self, start_row, start_column, end_row, end_column) {#int-int-int-int}
 Cancella il contenuto e la formattazione di un intervallo.
 
 
 
 ```python
+
 def clear_range(self, start_row, start_column, end_row, end_column):
     ...
 ```
@@ -36,13 +38,13 @@ def clear_range(self, start_row, start_column, end_row, end_column):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| start_row | int | Inizia l'indice della riga.|
-| start_column | int | Inizia l'indice della colonna.|
+| start_row | int | Indice della riga iniziale.|
+| start_column | int |Indice della colonna iniziale.|
 | end_row | int | Indice di fine riga.|
-| end_column | int | Fine dell'indice di colonna.|
+| end_column | int | Indice di fine colonna.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cells](/cells/python-net/it/aspose.cells/cells)
+* modulo [`aspose.cells`](../../)
+* classe [`Cells`](/cells/python-net/it/aspose.cells/cells)

@@ -1,15 +1,15 @@
 ---
 title: table_load_options proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 400
+weight: 370
 url: /it/aspose.cells/ebookloadoptions/table_load_options/
 is_root: false
 ---
 ##  table_load_options proprietà
 
-Ottieni l'istanza HtmlTableLoadOptionCollection
+Ottieni l'istanza di HtmlTableLoadOptionCollection
 ###  Definizione:
 ```python
 @property

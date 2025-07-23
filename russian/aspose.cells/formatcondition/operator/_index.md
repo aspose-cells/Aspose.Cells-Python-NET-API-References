@@ -1,6 +1,6 @@
 ---
 title: operator недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 140
@@ -21,6 +21,6 @@ def operator(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [FormatCondition](/cells/python-net/ru/aspose.cells/formatcondition)
-* класс [OperatorType](/cells/python-net/ru/aspose.cells/operatortype)
+* модуль [`aspose.cells`](../../)
+* класс [`FormatCondition`](/cells/python-net/ru/aspose.cells/formatcondition)
+* класс [`OperatorType`](/cells/python-net/ru/aspose.cells/operatortype)

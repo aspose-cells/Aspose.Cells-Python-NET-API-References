@@ -1,6 +1,6 @@
 ---
 title: gradient_style недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 120
@@ -18,6 +18,6 @@ def gradient_style(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [FillFormat](/cells/python-net/ru/aspose.cells.drawing/fillformat)
-* класс [GradientStyleType](/cells/python-net/ru/aspose.cells.drawing/gradientstyletype)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`FillFormat`](/cells/python-net/ru/aspose.cells.drawing/fillformat)
+* класс [`GradientStyleType`](/cells/python-net/ru/aspose.cells.drawing/gradientstyletype)

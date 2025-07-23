@@ -1,6 +1,6 @@
 ---
 title: type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 150
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.revisions](../../)
-* класс [RevisionCellChange](/cells/python-net/ru/aspose.cells.revisions/revisioncellchange)
-* класс [RevisionType](/cells/python-net/ru/aspose.cells.revisions/revisiontype)
+* модуль [`aspose.cells.revisions`](../../)
+* класс [`RevisionCellChange`](/cells/python-net/ru/aspose.cells.revisions/revisioncellchange)
+* класс [`RevisionType`](/cells/python-net/ru/aspose.cells.revisions/revisiontype)

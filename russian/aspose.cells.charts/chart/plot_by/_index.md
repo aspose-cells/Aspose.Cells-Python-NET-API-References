@@ -1,6 +1,6 @@
 ---
 title: plot_by недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 460
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_by недвижимость
 
-Получает и задает график построения по строке или по столбцу.
+Возвращает и задает тип построения графика: по строкам или по столбцам.
 ###  Определение:
 ```python
 @property

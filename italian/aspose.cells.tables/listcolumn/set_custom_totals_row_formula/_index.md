@@ -1,18 +1,19 @@
 ---
-title: metodo set_custom_totals_row_formula
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo set_custom_totals_row_formula
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 50
+weight: 60
 url: /it/aspose.cells.tables/listcolumn/set_custom_totals_row_formula/
 is_root: false
 ---
-##  set_custom_totals_row_formula(formula, is_r1c1, is_local) {#str-bool-bool}
+##  set_custom_totals_row_formula(self, formula, is_r1c1, is_local) {#str-bool-bool}
 Ottiene la formula della riga dei totali di questa colonna dell'elenco.
 
 
 
 ```python
+
 def set_custom_totals_row_formula(self, formula, is_r1c1, is_local):
     ...
 ```
@@ -27,5 +28,5 @@ def set_custom_totals_row_formula(self, formula, is_r1c1, is_local):
 
 
 ###  Guarda anche
-* modulo [aspose.cells.tables](../../)
-* classe [ListColumn](/cells/python-net/it/aspose.cells.tables/listcolumn)
+* modulo [`aspose.cells.tables`](../../)
+* classe [`ListColumn`](/cells/python-net/it/aspose.cells.tables/listcolumn)

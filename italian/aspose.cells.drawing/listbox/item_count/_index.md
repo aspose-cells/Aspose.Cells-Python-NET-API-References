@@ -1,9 +1,9 @@
 ---
 title: item_count proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 690
+weight: 700
 url: /it/aspose.cells.drawing/listbox/item_count/
 is_root: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type proprietà
 
-Ottiene e imposta l'associazione type.
+Ottiene e imposta il binding type.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.webextensions](../../)
-* classe [WebExtensionBinding](/cells/python-net/it/aspose.cells.webextensions/webextensionbinding)
+* modulo [`aspose.cells.webextensions`](../../)
+* classe [`WebExtensionBinding`](/cells/python-net/it/aspose.cells.webextensions/webextensionbinding)

@@ -1,20 +1,20 @@
 ---
 title: parsing_formula_on_open недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 320
+weight: 300
 url: /ru/aspose.cells/txtloadoptions/parsing_formula_on_open/
 is_root: false
 ---
 ##  parsing_formula_on_open недвижимость
 
-Указывает, выполняется ли синтаксический анализ формулы при чтении файла.
+Указывает, производится ли разбор формулы при чтении файла.
 
 ###  Примечания
 
-Применяется только для файлов Excel Xlsx, Xltx, Xltm и Xlsm.
-потому что формулы в файлах хранятся в виде строковой формулы.
+Применимо только к файлам Excel Xlsx, Xltx, Xltm и Xlsm.
+поскольку формулы в файлах хранятся с помощью строковой формулы.
 ###  Определение:
 ```python
 @property

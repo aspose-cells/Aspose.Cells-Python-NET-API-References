@@ -1,6 +1,6 @@
 ---
 title: CustomPiovtFieldGroupItem classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 10
@@ -17,7 +17,7 @@ Il tipo CustomPiovtFieldGroupItem espone i seguenti membri:
 ###  Costruttori
 | Costruttore| Descrizione|
 | :- | :- |
-| [__init__](/cells/python-net/it/aspose.cells.pivot/custompiovtfieldgroupitem/__init__/#str-list) | Il costruttore dell'elemento del gruppo personalizzato del campo pivot.|
+| [`__init__(self, name, item_indexes)`](/cells/python-net/it/aspose.cells.pivot/custompiovtfieldgroupitem/__init__/#str-list) | Costruttore dell'elemento di gruppo personalizzato del campo pivot.|
 
 
 

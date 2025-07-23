@@ -1,6 +1,6 @@
 ---
 title: selected proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  selected proprietà
 
-Specifica se SlicerItem è selected o meno.
+Specifica se SlicerItem è selected oppure no.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def selected(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.slicers](../../)
-* classe [SlicerCacheItem](/cells/python-net/it/aspose.cells.slicers/slicercacheitem)
+* modulo [`aspose.cells.slicers`](../../)
+* classe [`SlicerCacheItem`](/cells/python-net/it/aspose.cells.slicers/slicercacheitem)

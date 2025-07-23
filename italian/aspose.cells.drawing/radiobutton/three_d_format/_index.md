@@ -1,9 +1,9 @@
 ---
 title: three_d_format proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1080
+weight: 1090
 url: /it/aspose.cells.drawing/radiobutton/three_d_format/
 is_root: false
 ---

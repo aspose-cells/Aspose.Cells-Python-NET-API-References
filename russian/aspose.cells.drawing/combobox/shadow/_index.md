@@ -1,15 +1,15 @@
 ---
 title: shadow недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 920
+weight: 930
 url: /ru/aspose.cells.drawing/combobox/shadow/
 is_root: false
 ---
 ##  shadow недвижимость
 
-Указывает, имеет ли поле со списком трехмерную заливку.
+Указывает, имеет ли выпадающий список трехмерную заливку.
 ###  Определение:
 ```python
 @property

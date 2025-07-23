@@ -1,18 +1,19 @@
 ---
 title: set_text_of_empty_data метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 260
+weight: 270
 url: /ru/aspose.cells/settablepivotglobalizationsettings/set_text_of_empty_data/
 is_root: false
 ---
-##  set_text_of_empty_data {#str}
+##  set_text_of_empty_data(self, text) {#str}
 Задает текст метки «(пусто)» в сводной таблице.
 
 
 
 ```python
+
 def set_text_of_empty_data(self, text):
     ...
 ```

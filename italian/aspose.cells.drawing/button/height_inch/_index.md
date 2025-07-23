@@ -1,15 +1,15 @@
 ---
 title: height_inch proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 460
+weight: 450
 url: /it/aspose.cells.drawing/button/height_inch/
 is_root: false
 ---
 ##  height_inch proprietà
 
-Rappresenta l'altezza della forma, in unità di pollici.
+Rappresenta l'altezza della forma, in pollici.
 
 ###  Esempio
 

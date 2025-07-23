@@ -1,9 +1,9 @@
 ---
 title: current_page_item недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 250
+weight: 330
 url: /ru/aspose.cells.pivot/pivotfield/current_page_item/
 is_root: false
 ---

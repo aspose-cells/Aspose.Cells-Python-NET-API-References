@@ -1,6 +1,6 @@
 ---
 title: text_alignment proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 170
@@ -18,6 +18,6 @@ def text_alignment(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](../../)
-* classe [FontSettingCollection](/cells/python-net/it/aspose.cells.drawing.texts/fontsettingcollection)
-* classe [ShapeTextAlignment](/cells/python-net/it/aspose.cells.drawing.texts/shapetextalignment)
+* modulo [`aspose.cells.drawing.texts`](../../)
+* classe [`FontSettingCollection`](/cells/python-net/it/aspose.cells.drawing.texts/fontsettingcollection)
+* classe [`ShapeTextAlignment`](/cells/python-net/it/aspose.cells.drawing.texts/shapetextalignment)

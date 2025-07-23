@@ -1,18 +1,19 @@
 ---
 title: EbookLoadOptions конструктор
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 10
 url: /ru/aspose.cells/ebookloadoptions/__init__/
 is_root: false
 ---
-##  __в этом__ {#}
+##  \_\_init\_\_(self){#}
 Создает параметры загрузки файла электронной книги.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  __в этом__ {#aspose.cells.LoadFormat}
+##  \_\_init\_\_(self, load_format){#aspose.cells.LoadFormat}
 Создает параметры загрузки файла электронной книги.
 
 
 
 ```python
+
 def __init__(self, load_format):
     ...
 ```

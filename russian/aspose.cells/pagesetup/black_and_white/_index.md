@@ -1,6 +1,6 @@
 ---
 title: black_and_white недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 240
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  black_and_white недвижимость
 
-Указывает, будут ли элементы документа печататься черно-белыми.
+Указывает, будут ли элементы документа печататься в черно-белом варианте.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def black_and_white(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PageSetup](/cells/python-net/ru/aspose.cells/pagesetup)
+* модуль [`aspose.cells`](../../)
+* класс [`PageSetup`](/cells/python-net/ru/aspose.cells/pagesetup)

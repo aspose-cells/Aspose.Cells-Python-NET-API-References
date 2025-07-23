@@ -1,19 +1,19 @@
 ---
 title: upper_delta_y недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1170
+weight: 1180
 url: /ru/aspose.cells.drawing/radiobutton/upper_delta_y/
 is_root: false
 ---
 ##  upper_delta_y недвижимость
 
-Получает или задает вертикальное смещение фигуры от ее верхнего левого угла.
+Возвращает или задает вертикальное смещение фигуры от ее верхней левой угловой строки.
 
 ###  Примечания
 
-Диапазон значений: от 0 до 256.
+Диапазон значений — от 0 до 256.
 
 ###  Пример
 

@@ -1,6 +1,6 @@
 ---
 title: is_tiling proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_tiling proprietà
 
-Indica se l'immagine del riquadro è una trama.
+Indica se l'immagine è una piastrella come texture.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_tiling(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [TextureFill](/cells/python-net/it/aspose.cells.drawing/texturefill)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`TextureFill`](/cells/python-net/it/aspose.cells.drawing/texturefill)

@@ -1,14 +1,14 @@
 ---
 title: add_scroll_bar метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 260
+weight: 270
 url: /ru/aspose.cells.drawing/shapecollection/add_scroll_bar/
 is_root: false
 ---
-##  add_scroll_bar {#int-int-int-int-int-int}
-Добавляет полосу прокрутки на лист.
+##  add_scroll_bar(self, upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
+Добавляет полосу прокрутки на рабочий лист.
 
 
 ###  Возврат
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add_scroll_bar(self, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```
@@ -24,12 +25,12 @@ def add_scroll_bar(self, upper_left_row, top, upper_left_column, left, height, w
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| upper_left_row | int | Индекс верхней левой строки.|
-| top | int | Представляет вертикальное смещение ScrollBar от его левой строки в пикселях.|
+| upper_left_row | int | Указатель верхнего левого ряда.|
+| top | int |Представляет вертикальное смещение ScrollBar от его левой строки в пикселях.|
 | upper_left_column | int | Индекс верхнего левого столбца.|
 | left | int | Представляет горизонтальное смещение ScrollBar от его левого столбца в пикселях.|
 | height | int | Представляет высоту ScrollBar в пикселях.|
-| width | int | Представляет ширину ScrollBar в пикселях.|
+| width | int | Представляет ширину полосы прокрутки в пикселях.|
 
 ###  Пример
 

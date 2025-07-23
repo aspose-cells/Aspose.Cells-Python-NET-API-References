@@ -1,6 +1,6 @@
 ---
 title: interval proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  interval proprietà
 
-Ottiene lo interval del gruppo.
+Ottiene il interval del gruppo.
 ###  Definizione:
 ```python
 @property

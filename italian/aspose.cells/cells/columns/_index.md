@@ -1,15 +1,15 @@
 ---
 title: columns proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1010
+weight: 1030
 url: /it/aspose.cells/cells/columns/
 is_root: false
 ---
 ##  columns proprietà
 
-Ottiene la raccolta di oggetti [`Column`](/cells/python-net/it/aspose.cells/column) che rappresenta l'individuo columns in questo foglio di lavoro.
+Ottiene la raccolta di [`Column`](/cells/python-net/it/aspose.cells/column) oggetti che rappresentano l'individuo columns in questo foglio di lavoro.
 ###  Definizione:
 ```python
 @property

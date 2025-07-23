@@ -1,6 +1,6 @@
 ---
 title: is_normalize_heights proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 130
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_normalize_heights proprietà
 
-Indica se eseguire la normalizzazione dell'altezza da applicare al testo.
+Indica se la normalizzazione dell'altezza da applicare al testo deve essere eseguita.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_normalize_heights(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](../../)
-* classe [TextOptions](/cells/python-net/it/aspose.cells.drawing.texts/textoptions)
+* modulo [`aspose.cells.drawing.texts`](../../)
+* classe [`TextOptions`](/cells/python-net/it/aspose.cells.drawing.texts/textoptions)

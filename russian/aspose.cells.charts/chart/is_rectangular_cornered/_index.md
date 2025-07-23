@@ -1,6 +1,6 @@
 ---
 title: is_rectangular_cornered недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 350
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_rectangular_cornered недвижимость
 
-Получает или задает значение, указывающее, имеет ли область диаграммы прямоугольные углы.
-По умолчанию верно.
+Возвращает или задает значение, указывающее, имеет ли область диаграммы прямоугольные углы.
+Значение по умолчанию — true.
 ###  Определение:
 ```python
 @property

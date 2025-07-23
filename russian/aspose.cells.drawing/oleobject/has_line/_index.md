@@ -1,15 +1,15 @@
 ---
 title: has_line недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 500
+weight: 490
 url: /ru/aspose.cells.drawing/oleobject/has_line/
 is_root: false
 ---
 ##  has_line недвижимость
 
-Получает и задает видимую линию границы фигуры.
+Возвращает и задает видимую границу линии фигуры.
 
 ###  Пример
 

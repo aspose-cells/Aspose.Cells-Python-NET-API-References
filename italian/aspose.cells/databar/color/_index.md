@@ -1,6 +1,6 @@
 ---
 title: color proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color proprietà
 
-Ottieni o imposta questo DataBar's Color.
+Ottieni o imposta il colore di questo DataBar.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [DataBar](/cells/python-net/it/aspose.cells/databar)
+* modulo [`aspose.cells`](../../)
+* classe [`DataBar`](/cells/python-net/it/aspose.cells/databar)

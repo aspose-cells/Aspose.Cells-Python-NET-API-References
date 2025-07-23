@@ -1,6 +1,6 @@
 ---
 title: type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 110
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.properties](../../)
-* classe [DocumentProperty](/cells/python-net/it/aspose.cells.properties/documentproperty)
-* classe [PropertyType](/cells/python-net/it/aspose.cells.properties/propertytype)
+* modulo [`aspose.cells.properties`](../../)
+* classe [`DocumentProperty`](/cells/python-net/it/aspose.cells.properties/documentproperty)
+* classe [`PropertyType`](/cells/python-net/it/aspose.cells.properties/propertytype)

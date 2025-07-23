@@ -1,6 +1,6 @@
 ---
 title: is_printable proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 140
@@ -29,5 +29,5 @@ def is_printable(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.slicers](../../)
-* classe [Slicer](/cells/python-net/it/aspose.cells.slicers/slicer)
+* modulo [`aspose.cells.slicers`](../../)
+* classe [`Slicer`](/cells/python-net/it/aspose.cells.slicers/slicer)

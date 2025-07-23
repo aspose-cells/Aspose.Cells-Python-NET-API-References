@@ -1,6 +1,6 @@
 ---
 title: extract_content_permission proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  extract_content_permission proprietà
 
- Indica se consentire di copiare o altrimenti estrarre testo e grafica dal documento
+ Indica se consentire la copia o l'estrazione di testo e grafica dal documento
 da operazioni diverse da quella controllata da [`PdfSecurityOptions.accessibility_extract_content`](/cells/python-net/it/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#accessibility_extract_content).
 ###  Definizione:
 ```python

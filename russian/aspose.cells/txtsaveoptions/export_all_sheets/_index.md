@@ -1,16 +1,16 @@
 ---
 title: export_all_sheets недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 80
+weight: 100
 url: /ru/aspose.cells/txtsaveoptions/export_all_sheets/
 is_root: false
 ---
 ##  export_all_sheets недвижимость
 
-Указывает, экспортируются ли все листы в текстовый файл.
-Если это неверно, экспортируйте только активный лист, как в MS Excel.
+Указывает, следует ли экспортировать все листы в текстовый файл.
+Если значение равно false, экспортировать только активный лист, как в MS Excel.
 
 ###  Примечания
 
@@ -26,5 +26,5 @@ def export_all_sheets(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [TxtSaveOptions](/cells/python-net/ru/aspose.cells/txtsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`TxtSaveOptions`](/cells/python-net/ru/aspose.cells/txtsaveoptions)

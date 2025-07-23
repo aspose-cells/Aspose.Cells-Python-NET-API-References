@@ -1,28 +1,28 @@
 ---
-title: CredentialsMethodType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione CredentialsMethodType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 100
+weight: 90
 url: /it/aspose.cells.externalconnections/credentialsmethodtype/
 is_root: false
 ---
-##  CredentialsMethodType enumerazione
+##  Enumerazione CredentialsMethodType
 Specifica il metodo delle credenziali utilizzato per l'accesso al server.
 
 
 
-Il tipo CredentialsMethodType espone i membri seguenti:
+Il tipo CredentialsMethodType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
 | INTEGRATED | Autenticazione integrata|
-| NONE | Nessuna credenziale|
+| NONE |Nessuna credenziale|
 | PROMPT | Credenziali rapide|
-| STORED | Credenziali memorizzate|
+| STORED | Credenziali archiviate|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.externalconnections](..)
+* modulo [`aspose.cells.externalconnections`](..)

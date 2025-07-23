@@ -1,6 +1,6 @@
 ---
 title: negative_points_color proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 130
@@ -21,6 +21,6 @@ def negative_points_color(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [CellsColor](/cells/python-net/it/aspose.cells/cellscolor)
-* classe [SparklineGroup](/cells/python-net/it/aspose.cells.charts/sparklinegroup)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`CellsColor`](/cells/python-net/it/aspose.cells/cellscolor)
+* classe [`SparklineGroup`](/cells/python-net/it/aspose.cells.charts/sparklinegroup)

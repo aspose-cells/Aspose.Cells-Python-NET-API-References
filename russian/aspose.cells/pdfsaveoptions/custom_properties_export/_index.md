@@ -1,15 +1,15 @@
 ---
 title: custom_properties_export недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ru/aspose.cells/pdfsaveoptions/custom_properties_export/
 is_root: false
 ---
 ##  custom_properties_export недвижимость
 
-Получает или задает значение, определяющее способ экспорта [CustomDocumentPropertyCollection](/cells/python-net/ru/aspose.cells.properties/customdocumentpropertycollection) в файл PDF. Значение по умолчанию — Нет.
+Возвращает или задаёт значение, определяющее способ экспорта [`CustomDocumentPropertyCollection`](/cells/python-net/ru/aspose.cells.properties/customdocumentpropertycollection) в файл PDF. Значение по умолчанию — None.
 ###  Определение:
 ```python
 @property
@@ -21,7 +21,7 @@ def custom_properties_export(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CustomDocumentPropertyCollection](/cells/python-net/ru/aspose.cells.properties/customdocumentpropertycollection)
-* класс [PdfCustomPropertiesExport](/cells/python-net/ru/aspose.cells.rendering/pdfcustompropertiesexport)
-* класс [PdfSaveOptions](/cells/python-net/ru/aspose.cells/pdfsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`CustomDocumentPropertyCollection`](/cells/python-net/ru/aspose.cells.properties/customdocumentpropertycollection)
+* класс [`PdfCustomPropertiesExport`](/cells/python-net/ru/aspose.cells.rendering/pdfcustompropertiesexport)
+* класс [`PdfSaveOptions`](/cells/python-net/ru/aspose.cells/pdfsaveoptions)

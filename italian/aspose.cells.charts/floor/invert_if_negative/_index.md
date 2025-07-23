@@ -1,6 +1,6 @@
 ---
 title: invert_if_negative proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -58,5 +58,5 @@ def invert_if_negative(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Floor](/cells/python-net/it/aspose.cells.charts/floor)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Floor`](/cells/python-net/it/aspose.cells.charts/floor)

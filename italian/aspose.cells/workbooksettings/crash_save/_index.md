@@ -1,6 +1,6 @@
 ---
 title: crash_save proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 130
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  crash_save proprietà
 
-indica se l'applicazione ha salvato l'ultima volta il file della cartella di lavoro dopo un arresto anomalo.
+indica se l'applicazione ha salvato per l'ultima volta il file della cartella di lavoro dopo un arresto anomalo.
 ###  Definizione:
 ```python
 @property

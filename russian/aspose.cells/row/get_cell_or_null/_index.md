@@ -1,23 +1,24 @@
 ---
 title: get_cell_or_null метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
 url: /ru/aspose.cells/row/get_cell_or_null/
 is_root: false
 ---
-##  get_cell_or_null(column) {#int}
-Получает ячейку или null в указанном индексе.
+##  get_cell_or_null(self, column) {#int}
+Возвращает ячейку или значение NULL в указанном индексе.
 
 
-###  Возвращает
+###  Возврат
 
 Возвращает объект ячейки, если ячейка существует.
 Или возвращает null, если объект ячейки не существует.
 
 
 ```python
+
 def get_cell_or_null(self, column):
     ...
 ```
@@ -30,5 +31,5 @@ def get_cell_or_null(self, column):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Row](/cells/python-net/ru/aspose.cells/row)
+* модуль [`aspose.cells`](../../)
+* класс [`Row`](/cells/python-net/ru/aspose.cells/row)

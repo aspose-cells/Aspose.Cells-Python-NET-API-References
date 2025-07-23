@@ -1,6 +1,6 @@
 ---
 title: min_cfvo proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  min_cfvo proprietà
 
-Ottieni o imposta questo oggetto valore minimo di ColorScale.
-Impossibile impostare null o CFValueObject con tipo FormatConditionValueType.Max su di esso.
+Ottieni o imposta il valore minimo di questo oggetto ColorScale.
+Non è possibile impostare null o CFValueObject con tipo FormatConditionValueType.Max.
 ###  Definizione:
 ```python
 @property
@@ -19,6 +19,6 @@ def min_cfvo(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ColorScale](/cells/python-net/it/aspose.cells/colorscale)
-* classe [ConditionalFormattingValue](/cells/python-net/it/aspose.cells/conditionalformattingvalue)
+* modulo [`aspose.cells`](../../)
+* classe [`ColorScale`](/cells/python-net/it/aspose.cells/colorscale)
+* classe [`ConditionalFormattingValue`](/cells/python-net/it/aspose.cells/conditionalformattingvalue)

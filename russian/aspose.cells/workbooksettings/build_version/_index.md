@@ -1,6 +1,6 @@
 ---
 title: build_version недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  build_version недвижимость
 
-Указывает добавочный общедоступный выпуск приложения.
+Указывает поэтапный публичный выпуск приложения.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def build_version(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WorkbookSettings](/cells/python-net/ru/aspose.cells/workbooksettings)
+* модуль [`aspose.cells`](../../)
+* класс [`WorkbookSettings`](/cells/python-net/ru/aspose.cells/workbooksettings)

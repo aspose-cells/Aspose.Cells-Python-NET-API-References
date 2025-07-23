@@ -1,9 +1,9 @@
 ---
 title: text_horizontal_overflow proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1050
+weight: 1060
 url: /it/aspose.cells.drawing/scrollbar/text_horizontal_overflow/
 is_root: false
 ---

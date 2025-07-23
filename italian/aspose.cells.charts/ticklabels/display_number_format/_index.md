@@ -1,6 +1,6 @@
 ---
 title: display_number_format proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_number_format proprietà
 
-Ottiene e imposta il formato numerico visualizzato delle etichette dei segni di spunta.
+Ottiene e imposta il formato del numero visualizzato nelle etichette delle tacche.
 ###  Definizione:
 ```python
 @property

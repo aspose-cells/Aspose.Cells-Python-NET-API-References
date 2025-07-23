@@ -1,15 +1,15 @@
 ---
 title: log_base недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 270
+weight: 280
 url: /ru/aspose.cells.charts/axis/log_base/
 is_root: false
 ---
 ##  log_base недвижимость
 
-Представляет логарифмическую основу. Значение по умолчанию — 10. Применяется только для Excel2007.
+Представляет основание логарифма. Значение по умолчанию — 10. Применимо только к Excel2007.
 ###  Определение:
 ```python
 @property

@@ -1,15 +1,15 @@
 ---
 title: error_check_options недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 490
+weight: 510
 url: /ru/aspose.cells/worksheet/error_check_options/
 is_root: false
 ---
 ##  error_check_options недвижимость
 
-Получает настройку проверки ошибок, применяемую к определенным диапазонам.
+Применяет настройку проверки ошибок к определенным диапазонам.
 ###  Определение:
 ```python
 @property

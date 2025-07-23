@@ -1,6 +1,6 @@
 ---
 title: name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 400
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name proprietà
 
-Ottiene o imposta lo name dello stile.
+Ottiene o imposta il valore name dello stile.
 ###  Definizione:
 ```python
 @property

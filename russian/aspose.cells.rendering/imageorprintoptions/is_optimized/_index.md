@@ -1,9 +1,9 @@
 ---
 title: is_optimized недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 180
+weight: 190
 url: /ru/aspose.cells.rendering/imageorprintoptions/is_optimized/
 is_root: false
 ---
@@ -13,10 +13,10 @@ is_root: false
 
 ###  Примечания
 
- Значение по умолчанию — ложь.
-В настоящее время, когда для этого свойства установлено значение true, будут выполнены следующие оптимизации:
+ Значение по умолчанию — false.
+В настоящее время, если этому свойству присвоено значение true, будут выполнены следующие оптимизации:
 1. оптимизировать линии границ.
-2. оптимизировать размер файла при рендеринге в SVG-изображение.
+2. Оптимизировать размер файла при рендеринге в SVG-изображение.
 ###  Определение:
 ```python
 @property

@@ -1,19 +1,19 @@
 ---
 title: export_row_column_headings недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 340
+weight: 400
 url: /ru/aspose.cells.saving/ebooksaveoptions/export_row_column_headings/
 is_root: false
 ---
 ##  export_row_column_headings недвижимость
 
-Указывает, экспортируются ли заголовки строк и столбцов листа при сохранении в файлы HTML.
+Указывает, экспортировать ли заголовки строк и столбцов листа при сохранении в файлы HTML.
 
 ###  Примечания
 
-Значение по умолчанию неверно.
+Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property

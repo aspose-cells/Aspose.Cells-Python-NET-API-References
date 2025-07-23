@@ -1,15 +1,15 @@
 ---
 title: shadow недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 350
+weight: 420
 url: /ru/aspose.cells.charts/datalabels/shadow/
 is_root: false
 ---
 ##  shadow недвижимость
 
-Истинно, если кадр имеет номер shadow.
+Истина, если кадр имеет shadow.
 ###  Определение:
 ```python
 @property

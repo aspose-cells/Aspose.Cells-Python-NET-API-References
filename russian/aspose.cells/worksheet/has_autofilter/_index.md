@@ -1,15 +1,15 @@
 ---
 title: has_autofilter недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 520
+weight: 550
 url: /ru/aspose.cells/worksheet/has_autofilter/
 is_root: false
 ---
 ##  has_autofilter недвижимость
 
-Указывает, имеет ли этот лист автоматический фильтр.
+Указывает, имеет ли этот рабочий лист автоматический фильтр.
 ###  Определение:
 ```python
 @property

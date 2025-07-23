@@ -1,13 +1,13 @@
 ---
 title: get_text_of_empty_data метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 80
+weight: 90
 url: /ru/aspose.cells.settings/pivotglobalizationsettings/get_text_of_empty_data/
 is_root: false
 ---
-##  get_text_of_empty_data {#}
+##  get_text_of_empty_data(self) {#}
 Получает текст метки «(пусто)» в сводной таблице.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_text_of_empty_data(self):
     ...
 ```

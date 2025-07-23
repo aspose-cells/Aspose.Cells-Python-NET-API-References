@@ -1,14 +1,14 @@
 ---
 title: Metodo is_grouped_by
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells.pivot/pivotdatetimerangegroupsettings/is_grouped_by/
 is_root: false
 ---
-##  is_grouped_by {#aspose.cells.pivot.PivotGroupByType}
-Controlla se il campo è raggruppato per tipo.
+##  is_grouped_by(self, type) {#aspose.cells.pivot.PivotGroupByType}
+Controlla se il campo è raggruppato in base al tipo.
 
 
 ###  ritorna
@@ -17,6 +17,7 @@ Controlla se il campo è raggruppato per tipo.
 
 
 ```python
+
 def is_grouped_by(self, type):
     ...
 ```

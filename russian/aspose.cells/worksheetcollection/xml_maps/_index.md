@@ -1,15 +1,15 @@
 ---
 title: xml_maps недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 390
+weight: 420
 url: /ru/aspose.cells/worksheetcollection/xml_maps/
 is_root: false
 ---
 ##  xml_maps недвижимость
 
-Получает и задает карты XML в книге.
+Получает и задает карты XML в рабочей книге.
 ###  Определение:
 ```python
 @property

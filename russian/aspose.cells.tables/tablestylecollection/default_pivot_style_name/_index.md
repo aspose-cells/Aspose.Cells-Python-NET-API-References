@@ -1,15 +1,15 @@
 ---
 title: default_pivot_style_name недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 110
+weight: 120
 url: /ru/aspose.cells.tables/tablestylecollection/default_pivot_style_name/
 is_root: false
 ---
 ##  default_pivot_style_name недвижимость
 
-Получает и задает имя стиля сводной таблицы по умолчанию.
+Получает и задает имя стиля по умолчанию для сводной таблицы.
 ###  Определение:
 ```python
 @property

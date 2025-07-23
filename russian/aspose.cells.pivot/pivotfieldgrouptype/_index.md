@@ -1,14 +1,14 @@
 ---
 title: PivotFieldGroupType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 270
+weight: 340
 url: /ru/aspose.cells.pivot/pivotfieldgrouptype/
 is_root: false
 ---
 ##  PivotFieldGroupType перечисление
-Представляет тип группы сводного поля.
+Представляет групповой тип поля сводки.
 
 
 
@@ -18,8 +18,8 @@ is_root: false
 | Поле| Описание|
 | :- | :- |
 | NONE | Нет группы|
-| DATE_TIME_RANGE | Сгруппировано по диапазону DateTime.|
-| NUMBERIC_RANGE | Сгруппированы по числовому диапазону.|
+| DATE_TIME_RANGE | Сгруппировано по диапазону даты и времени.|
+| NUMBERIC_RANGE | Сгруппировано по числовому диапазону.|
 | DISCRETE | Сгруппировано по дискретным точкам.|
 
 

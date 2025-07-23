@@ -1,6 +1,6 @@
 ---
 title: scheme_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 160
@@ -21,6 +21,6 @@ def scheme_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Font](/cells/python-net/ru/aspose.cells/font)
-* класс [FontSchemeType](/cells/python-net/ru/aspose.cells/fontschemetype)
+* модуль [`aspose.cells`](../../)
+* класс [`Font`](/cells/python-net/ru/aspose.cells/font)
+* класс [`FontSchemeType`](/cells/python-net/ru/aspose.cells/fontschemetype)

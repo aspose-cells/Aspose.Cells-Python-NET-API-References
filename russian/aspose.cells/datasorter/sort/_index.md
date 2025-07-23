@@ -1,23 +1,24 @@
 ---
 title: sort метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 40
+weight: 50
 url: /ru/aspose.cells/datasorter/sort/
 is_root: false
 ---
-##  sort() {#}
+##  sort(self) {#}
 Отсортируйте данные в диапазоне.
 
 
-###  Возвращает
+###  Возврат
 
-исходные индексы (абсолютная позиция, например, столбец A равен 0, B равен 1,...) отсортированных строк/столбцов.
-Если этой операцией сортировки не нужно перемещать строки/столбцы, будет возвращено значение null.
+исходные индексы (абсолютная позиция, например, столбец A равен 0, B равен 1, ...) отсортированных строк/столбцов.
+Если в ходе этой операции сортировки не требуется перемещать строки/столбцы, будет возвращено значение null.
 
 
 ```python
+
 def sort(self):
     ...
 ```
@@ -25,17 +26,18 @@ def sort(self):
 
 
 
-##  sort(cells, area) {#Cells-CellArea}
-Сортировка данных области.
+##  sort(self, cells, area) {#aspose.cells.Cells-aspose.cells.CellArea}
+Сортировать данные по области.
 
 
-###  Возвращает
+###  Возврат
 
-исходные индексы (абсолютная позиция, например, столбец A равен 0, B равен 1,...) отсортированных строк/столбцов.
-Если этой операцией сортировки не нужно перемещать строки/столбцы, будет возвращено значение null.
+исходные индексы (абсолютная позиция, например, столбец A равен 0, B равен 1, ...) отсортированных строк/столбцов.
+Если в ходе этой операции сортировки не требуется перемещать строки/столбцы, будет возвращено значение null.
 
 
 ```python
+
 def sort(self, cells, area):
     ...
 ```
@@ -43,21 +45,22 @@ def sort(self, cells, area):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| cells | [Cells](/cells/python-net/ru/aspose.cells/cells) | Ячейки содержат область данных.|
-| area | [CellArea](/cells/python-net/ru/aspose.cells/cellarea) | Площадь, необходимая для сортировки|
+| cells | [`Cells`](/cells/python-net/ru/aspose.cells/cells) | Ячейки содержат область данных.|
+| area | [`CellArea`](/cells/python-net/ru/aspose.cells/cellarea) | Площадь, необходимая для сортировки|
 
 
-##  sort(cells, start_row, start_column, end_row, end_column) {#Cells-int-int-int-int}
-Сортирует данные области.
+##  sort(self, cells, start_row, start_column, end_row, end_column) {#aspose.cells.Cells-int-int-int-int}
+Сортирует данные по области.
 
 
-###  Возвращает
+###  Возврат
 
-исходные индексы (абсолютная позиция, например, столбец A равен 0, B равен 1,...) отсортированных строк/столбцов.
-Если этой операцией сортировки не нужно перемещать строки/столбцы, будет возвращено значение null.
+исходные индексы (абсолютная позиция, например, столбец A равен 0, B равен 1, ...) отсортированных строк/столбцов.
+Если в ходе этой операции сортировки не требуется перемещать строки/столбцы, будет возвращено значение null.
 
 
 ```python
+
 def sort(self, cells, start_row, start_column, end_row, end_column):
     ...
 ```
@@ -65,14 +68,14 @@ def sort(self, cells, start_row, start_column, end_row, end_column):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| cells | [Cells](/cells/python-net/ru/aspose.cells/cells) | Ячейки содержат область данных.|
-| start_row | int | Стартовый ряд площади.|
+| cells | [`Cells`](/cells/python-net/ru/aspose.cells/cells) | Ячейки содержат область данных.|
+| start_row | int | Начальный ряд области.|
 | start_column | int | Начальный столбец области.|
-| end_row | int | Крайний ряд площади.|
-| end_column | int | Конечная колонка области.|
+| end_row | int | Конечный ряд области.|
+| end_column | int | Конечный столбец области.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [DataSorter](/cells/python-net/ru/aspose.cells/datasorter)
+* модуль [`aspose.cells`](../../)
+* класс [`DataSorter`](/cells/python-net/ru/aspose.cells/datasorter)

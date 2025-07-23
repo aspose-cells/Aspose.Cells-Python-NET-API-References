@@ -1,18 +1,19 @@
 ---
 title: XmlLoadOptions конструктор
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 10
 url: /ru/aspose.cells/xmlloadoptions/__init__/
 is_root: false
 ---
-##  XmlLoadOptions() {#}
-Представляет параметры загрузки XML-файла.
+##  \_\_init\_\_(self){#}
+Представляет варианты загрузки XML-файла.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  XmlLoadOptions(type) {#LoadFormat}
-Представляет параметры загрузки XML-файла.
+##  \_\_init\_\_(self, type){#aspose.cells.LoadFormat}
+Представляет варианты загрузки XML-файла.
 
 
 
 ```python
+
 def __init__(self, type):
     ...
 ```
@@ -33,10 +35,10 @@ def __init__(self, type):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| type | [LoadFormat](/cells/python-net/ru/aspose.cells/loadformat) | Тип формата загрузки.|
+| type | [`LoadFormat`](/cells/python-net/ru/aspose.cells/loadformat) | Тип формата загрузки.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [XmlLoadOptions](/cells/python-net/ru/aspose.cells/xmlloadoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`XmlLoadOptions`](/cells/python-net/ru/aspose.cells/xmlloadoptions)

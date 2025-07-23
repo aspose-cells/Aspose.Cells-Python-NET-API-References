@@ -1,14 +1,14 @@
 ---
 title: HtmlHiddenColDisplayType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2230
+weight: 2170
 url: /ru/aspose.cells/htmlhiddencoldisplaytype/
 is_root: false
 ---
 ##  HtmlHiddenColDisplayType перечисление
-Представляет два типа отображения скрытых столбцов в HTML.
+Представляет два типа отображения скрытых столбцов в html.
 
 
 
@@ -17,8 +17,8 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| HIDDEN | Скрытые столбцы на html-странице.|
-| REMOVE | Удалите скрытые столбцы на странице html.|
+| HIDDEN | Скрыл скрытые столбцы на html-странице.|
+| REMOVE | Удалить скрытые столбцы на html-странице.|
 
 
 

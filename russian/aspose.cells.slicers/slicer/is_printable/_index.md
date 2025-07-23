@@ -1,6 +1,6 @@
 ---
 title: is_printable недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 140
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_printable недвижимость
 
-Указывает, доступен ли для печати объект среза.
+Указывает, можно ли распечатать объект среза.
 
 ###  Пример
 
@@ -29,5 +29,5 @@ def is_printable(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.slicers](../../)
-* класс [Slicer](/cells/python-net/ru/aspose.cells.slicers/slicer)
+* модуль [`aspose.cells.slicers`](../../)
+* класс [`Slicer`](/cells/python-net/ru/aspose.cells.slicers/slicer)

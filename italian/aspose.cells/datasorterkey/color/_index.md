@@ -1,6 +1,6 @@
 ---
 title: color proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  color proprietà
 
-Ottiene lo color ordinato.
+Ottiene color ordinato.
 
 ###  Osservazioni
 
-Ha effetto solo quando [SortOnType](/cells/python-net/it/aspose.cells/sortontype) è SortOnType.CellColor o SortOnType.FontColor.
+Ha effetto solo se [`DataSorterKey.type`](/cells/python-net/it/aspose.cells/datasorterkey#type) è [`SortOnType.CELL_COLOR`](/cells/python-net/it/aspose.cells/sortontype#CELL_COLOR) o [`SortOnType.FONT_COLOR`](/cells/python-net/it/aspose.cells/sortontype#FONT_COLOR).
 ###  Definizione:
 ```python
 @property
@@ -22,6 +22,5 @@ def color(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [DataSorterKey](/cells/python-net/it/aspose.cells/datasorterkey)
-* classe [SortOnType](/cells/python-net/it/aspose.cells/sortontype)
+* modulo [`aspose.cells`](../../)
+* classe [`DataSorterKey`](/cells/python-net/it/aspose.cells/datasorterkey)

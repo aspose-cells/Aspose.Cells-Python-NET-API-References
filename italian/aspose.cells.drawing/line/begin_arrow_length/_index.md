@@ -1,6 +1,6 @@
 ---
 title: begin_arrow_length proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  begin_arrow_length proprietà
 
-Specifica la lunghezza della punta della freccia per l'inizio di una riga.
+Specifica la lunghezza della punta della freccia all'inizio di una riga.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def begin_arrow_length(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Line](/cells/python-net/it/aspose.cells.drawing/line)
-* classe [MsoArrowheadLength](/cells/python-net/it/aspose.cells.drawing/msoarrowheadlength)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Line`](/cells/python-net/it/aspose.cells.drawing/line)
+* classe [`MsoArrowheadLength`](/cells/python-net/it/aspose.cells.drawing/msoarrowheadlength)

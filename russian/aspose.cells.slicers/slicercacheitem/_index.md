@@ -1,6 +1,6 @@
 ---
 title: SlicerCacheItem класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -8,11 +8,11 @@ url: /ru/aspose.cells.slicers/slicercacheitem/
 is_root: false
 ---
 ##  SlicerCacheItem класс
-Представлять элемент источника данных среза
+Представить элемент источника данных среза
 
 
 
-Тип SlicerCacheItem предоставляет следующие члены:
+Тип SlicerCacheItem предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
@@ -23,4 +23,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.slicers](..)
+* модуль [`aspose.cells.slicers`](..)

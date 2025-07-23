@@ -1,6 +1,6 @@
 ---
 title: max_length недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 110
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  max_length недвижимость
 
-Представляет максимальную длину строки данных.
+Представляет максимальную длину полосы данных.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def max_length(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [DataBar](/cells/python-net/ru/aspose.cells/databar)
+* модуль [`aspose.cells`](../../)
+* класс [`DataBar`](/cells/python-net/ru/aspose.cells/databar)

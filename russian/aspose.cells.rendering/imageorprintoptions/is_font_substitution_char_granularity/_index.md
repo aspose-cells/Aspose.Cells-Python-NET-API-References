@@ -1,19 +1,19 @@
 ---
 title: is_font_substitution_char_granularity недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 170
+weight: 180
 url: /ru/aspose.cells.rendering/imageorprintoptions/is_font_substitution_char_granularity/
 is_root: false
 ---
 ##  is_font_substitution_char_granularity недвижимость
 
-Указывает, следует ли заменять шрифт символа только в том случае, если шрифт ячейки несовместим с ним.
+Указывает, следует ли заменять шрифт символа только в том случае, если шрифт ячейки с ним несовместим.
 
 ###  Примечания
 
-По умолчанию — ложь. Сначала мы попробуем шрифт по умолчанию для рабочей книги и PdfSaveOption/system для шрифта ячейки.
+Значение по умолчанию — false. Сначала мы попробуем шрифт по умолчанию рабочей книги и PdfSaveOption/system для шрифта ячеек.
 ###  Определение:
 ```python
 @property

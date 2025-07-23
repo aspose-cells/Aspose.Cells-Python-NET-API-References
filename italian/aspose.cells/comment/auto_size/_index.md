@@ -1,6 +1,6 @@
 ---
 title: auto_size proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -10,6 +10,7 @@ is_root: false
 ##  auto_size proprietà
 
 Indica se la dimensione del commento viene regolata automaticamente in base al suo contenuto.
+Nota: in alcuni casi particolari (ad esempio in ambiente Mac), questa impostazione potrebbe non avere effetto. Se questa impostazione non ha effetto, sostituirla con FitToTextSize().
 
 ###  Esempio
 

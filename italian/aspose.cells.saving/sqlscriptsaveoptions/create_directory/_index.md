@@ -1,15 +1,15 @@
 ---
 title: create_directory proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 90
+weight: 100
 url: /it/aspose.cells.saving/sqlscriptsaveoptions/create_directory/
 is_root: false
 ---
 ##  create_directory proprietà
 
-Se true e la directory non esiste, la directory verrà creata automaticamente prima di salvare il file.
+Se è vero e la directory non esiste, la directory verrà creata automaticamente prima di salvare il file.
 
 ###  Osservazioni
 
@@ -25,5 +25,5 @@ def create_directory(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.saving](../../)
-* classe [SqlScriptSaveOptions](/cells/python-net/it/aspose.cells.saving/sqlscriptsaveoptions)
+* modulo [`aspose.cells.saving`](../../)
+* classe [`SqlScriptSaveOptions`](/cells/python-net/it/aspose.cells.saving/sqlscriptsaveoptions)

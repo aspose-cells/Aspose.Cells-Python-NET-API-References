@@ -1,13 +1,13 @@
 ---
-title: metodo union
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo union
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 110
+weight: 100
 url: /it/aspose.cells/unionrange/union/
 is_root: false
 ---
-##  union(range) {#str}
+##  union(self, range) {#str}
 Unione un'altra gamma.
 
 
@@ -17,6 +17,7 @@ Unione un'altra gamma.
 
 
 ```python
+
 def union(self, range):
     ...
 ```
@@ -27,7 +28,7 @@ def union(self, range):
 | range | str | La gamma.|
 
 
-##  union(union_range) {#UnionRange}
+##  union(self, union_range) {#aspose.cells.UnionRange}
 Unione un'altra gamma.
 
 
@@ -37,6 +38,7 @@ Unione un'altra gamma.
 
 
 ```python
+
 def union(self, union_range):
     ...
 ```
@@ -44,11 +46,11 @@ def union(self, union_range):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| union_range | [UnionRange](/cells/python-net/it/aspose.cells/unionrange) | La gamma.|
+| union_range | [`UnionRange`](/cells/python-net/it/aspose.cells/unionrange) | La gamma.|
 
 
-##  union(ranges) {#list}
-Unire le gamme.
+##  union(self, ranges) {#list}
+Unisci gli intervalli.
 
 
 ###  ritorna
@@ -57,6 +59,7 @@ Unire le gamme.
 
 
 ```python
+
 def union(self, ranges):
     ...
 ```
@@ -69,5 +72,5 @@ def union(self, ranges):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [UnionRange](/cells/python-net/it/aspose.cells/unionrange)
+* modulo [`aspose.cells`](../../)
+* classe [`UnionRange`](/cells/python-net/it/aspose.cells/unionrange)

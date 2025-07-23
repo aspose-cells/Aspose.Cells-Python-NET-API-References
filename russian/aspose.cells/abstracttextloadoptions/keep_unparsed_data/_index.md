@@ -1,6 +1,6 @@
 ---
 title: keep_unparsed_data недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 160
@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  keep_unparsed_data недвижимость
 
-Сохранять ли непроанализированные данные в памяти для рабочей книги, когда она загружается из файла шаблона. Значение по умолчанию верно.
+Сохранять ли неразобранные данные в памяти рабочей книги при её загрузке из файла шаблона. Значение по умолчанию — true.
 
 ###  Примечания
 
-Для сценариев, в которых пользователю нужно только прочитать некоторое содержимое из файла шаблона и не нужно сохранять книгу обратно,
-установка этого свойства как false может улучшить производительность, особенно при использовании его вместе с каким-либо LoadFilter,
+Для сценариев, когда пользователю нужно только прочитать часть содержимого файла шаблона и не нужно сохранять книгу обратно,
+Установка этого свойства в значение false может повысить производительность, особенно при использовании его вместе с каким-либо LoadFilter,
 ###  Определение:
 ```python
 @property
@@ -26,5 +26,5 @@ def keep_unparsed_data(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [AbstractTextLoadOptions](/cells/python-net/ru/aspose.cells/abstracttextloadoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`AbstractTextLoadOptions`](/cells/python-net/ru/aspose.cells/abstracttextloadoptions)

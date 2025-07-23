@@ -1,6 +1,6 @@
 ---
 title: arc_end_point_x_px недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 120
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  arc_end_point_x_px недвижимость
 
-Получает координату x конечной точки сектора круговой диаграммы после вызова метода Chart.Calculate().
-Применяется к круговой и кольцевой диаграммам.
+Получает координату x конечной точки сектора круга после вызова метода Chart.Calculate().
+Применимо к круговым и кольцевым диаграммам.
 ###  Определение:
 ```python
 @property
@@ -19,5 +19,5 @@ def arc_end_point_x_px(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [ChartPoint](/cells/python-net/ru/aspose.cells.charts/chartpoint)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`ChartPoint`](/cells/python-net/ru/aspose.cells.charts/chartpoint)

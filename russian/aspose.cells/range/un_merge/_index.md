@@ -1,18 +1,19 @@
 ---
 title: un_merge метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 220
+weight: 310
 url: /ru/aspose.cells/range/un_merge/
 is_root: false
 ---
-##  un_merge {#}
-Разъединяет объединенные ячейки этого диапазона.
+##  un_merge(self) {#}
+Разделяет объединенные ячейки данного диапазона.
 
 
 
 ```python
+
 def un_merge(self):
     ...
 ```

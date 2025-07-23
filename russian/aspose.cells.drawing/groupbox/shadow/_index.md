@@ -1,15 +1,15 @@
 ---
 title: shadow недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 880
+weight: 890
 url: /ru/aspose.cells.drawing/groupbox/shadow/
 is_root: false
 ---
 ##  shadow недвижимость
 
-Указывает, имеет ли групповой ящик shadow.
+Указывает, содержит ли групповой ящик shadow.
 ###  Определение:
 ```python
 @property

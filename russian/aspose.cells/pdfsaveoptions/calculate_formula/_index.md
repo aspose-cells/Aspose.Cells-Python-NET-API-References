@@ -1,6 +1,6 @@
 ---
 title: calculate_formula недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  calculate_formula недвижимость
 
-Указывает, следует ли вычислять формулы перед сохранением файла PDF.
+Указывает, следует ли вычислять формулы перед сохранением PDF-файла.
 
 ###  Примечания
 
-Значение по умолчанию неверно.
+Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property
@@ -25,5 +25,5 @@ def calculate_formula(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PdfSaveOptions](/cells/python-net/ru/aspose.cells/pdfsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`PdfSaveOptions`](/cells/python-net/ru/aspose.cells/pdfsaveoptions)

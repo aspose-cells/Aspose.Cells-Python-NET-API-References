@@ -1,15 +1,15 @@
 ---
 title: text proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 350
+weight: 410
 url: /it/aspose.cells.charts/legend/text/
 is_root: false
 ---
 ##  text proprietà
 
-Ottiene o imposta il numero text del titolo di un frame.
+Ottiene o imposta il valore text del titolo di un frame.
 ###  Definizione:
 ```python
 @property

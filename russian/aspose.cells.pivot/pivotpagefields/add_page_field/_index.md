@@ -1,18 +1,19 @@
 ---
 title: add_page_field метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
 url: /ru/aspose.cells.pivot/pivotpagefields/add_page_field/
 is_root: false
 ---
-##  add_page_field(page_items) {#list}
+##  add_page_field(self, page_items) {#list}
 Добавляет поле страницы.
 
 
 
 ```python
+
 def add_page_field(self, page_items):
     ...
 ```
@@ -25,5 +26,5 @@ def add_page_field(self, page_items):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotPageFields](/cells/python-net/ru/aspose.cells.pivot/pivotpagefields)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotPageFields`](/cells/python-net/ru/aspose.cells.pivot/pivotpagefields)

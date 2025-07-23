@@ -1,9 +1,9 @@
 ---
 title: Font класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 680
+weight: 660
 url: /ru/aspose.cells/font/
 is_root: false
 ---
@@ -17,30 +17,30 @@ is_root: false
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [charset](/cells/python-net/ru/aspose.cells/font/charset) | Представляйте набор символов.|
-| [is_italic](/cells/python-net/ru/aspose.cells/font/is_italic) | Получает или задает значение, указывающее, является ли шрифт курсивом.|
-| [is_bold](/cells/python-net/ru/aspose.cells/font/is_bold) | Получает или задает значение, указывающее, является ли шрифт полужирным.|
+| [charset](/cells/python-net/ru/aspose.cells/font/charset) | Представляет набор символов.|
+| [is_italic](/cells/python-net/ru/aspose.cells/font/is_italic) | Возвращает или задает значение, указывающее, является ли шрифт курсивом.|
+| [is_bold](/cells/python-net/ru/aspose.cells/font/is_bold) | Возвращает или задает значение, указывающее, является ли шрифт полужирным.|
 | [caps_type](/cells/python-net/ru/aspose.cells/font/caps_type) | Получает и задает тип заглавных букв текста.|
-| [strike_type](/cells/python-net/ru/aspose.cells/font/strike_type) | Получает тип ударения текста.|
-| [is_strikeout](/cells/python-net/ru/aspose.cells/font/is_strikeout) | Получает или задает значение, указывающее, является ли шрифт одинарным зачеркиванием.|
-| [script_offset](/cells/python-net/ru/aspose.cells/font/script_offset) | Получает и устанавливает смещение скрипта в процентах.|
-| [is_superscript](/cells/python-net/ru/aspose.cells/font/is_superscript) | Получает или задает значение, указывающее, является ли шрифт суперскриптом.|
-| [is_subscript](/cells/python-net/ru/aspose.cells/font/is_subscript) | Получает или задает значение, указывающее, является ли шрифт подстрочным.|
+| [strike_type](/cells/python-net/ru/aspose.cells/font/strike_type) | Получает тип забастовки текста.|
+| [is_strikeout](/cells/python-net/ru/aspose.cells/font/is_strikeout) | Возвращает или задает значение, указывающее, является ли шрифт одинарным зачеркиванием.|
+| [script_offset](/cells/python-net/ru/aspose.cells/font/script_offset) | Получает и задает смещение скрипта в процентах.|
+| [is_superscript](/cells/python-net/ru/aspose.cells/font/is_superscript) | Возвращает или задает значение, указывающее, является ли шрифт суперскриптом.|
+| [is_subscript](/cells/python-net/ru/aspose.cells/font/is_subscript) | Возвращает или задает значение, указывающее, является ли шрифт подстрочным.|
 | [underline](/cells/python-net/ru/aspose.cells/font/underline) | Получает или задает тип подчеркивания шрифта.|
 | [name](/cells/python-net/ru/aspose.cells/font/name) | Получает или задает имя [`Font`](/cells/python-net/ru/aspose.cells/font).|
 | [double_size](/cells/python-net/ru/aspose.cells/font/double_size) | Получает и задает двойной размер шрифта.|
 | [size](/cells/python-net/ru/aspose.cells/font/size) | Получает или задает размер шрифта.|
-| [theme_color](/cells/python-net/ru/aspose.cells/font/theme_color) | Получает и устанавливает цвет темы.|
+| [theme_color](/cells/python-net/ru/aspose.cells/font/theme_color) | Получает и задает цвет темы.|
 | [color](/cells/python-net/ru/aspose.cells/font/color) | Получает или задает цвет шрифта.|
 | [argb_color](/cells/python-net/ru/aspose.cells/font/argb_color) | Получает и задает цвет с помощью 32-битного значения ARGB.|
-| [is_normalize_heights](/cells/python-net/ru/aspose.cells/font/is_normalize_heights) | Указывает, будет ли применяться нормализация высоты к текстовому фрагменту.|
+| [is_normalize_heights](/cells/python-net/ru/aspose.cells/font/is_normalize_heights) | Указывает, выполняется ли нормализация высоты, которая должна применяться к текстовому потоку.|
 | [scheme_type](/cells/python-net/ru/aspose.cells/font/scheme_type) |Получает и задает тип схемы шрифта.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [equals](/cells/python-net/ru/aspose.cells/font/equals/#aspose.cells.Font) | Проверяет, равны ли два шрифта.|
+| [`equals(self, font)`](/cells/python-net/ru/aspose.cells/font/equals/#aspose.cells.font) | Проверяет, равны ли два шрифта.|
 
 
 

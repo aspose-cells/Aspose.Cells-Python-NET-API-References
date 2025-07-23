@@ -1,18 +1,19 @@
 ---
-title: metodo set_criteria
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo set_criteria
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells/customfilter/set_criteria/
 is_root: false
 ---
-##  set_criteria(filter_operator, criteria) {#FilterOperatorType-any}
+##  set_criteria(self, filter_operator, criteria) {#aspose.cells.FilterOperatorType-any}
 Imposta i criteri di filtro.
 
 
 
 ```python
+
 def set_criteria(self, filter_operator, criteria):
     ...
 ```
@@ -20,11 +21,11 @@ def set_criteria(self, filter_operator, criteria):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| filter_operator | [FilterOperatorType](/cells/python-net/it/aspose.cells/filteroperatortype) | tipo di operatore di filtro|
+| filter_operator | [`FilterOperatorType`](/cells/python-net/it/aspose.cells/filteroperatortype) | tipo di operatore di filtro|
 | criteria | any | valore dei criteri di filtro|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CustomFilter](/cells/python-net/it/aspose.cells/customfilter)
+* modulo [`aspose.cells`](../../)
+* classe [`CustomFilter`](/cells/python-net/it/aspose.cells/customfilter)

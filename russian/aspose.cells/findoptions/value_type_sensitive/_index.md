@@ -1,9 +1,9 @@
 ---
 title: value_type_sensitive недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 160
+weight: 170
 url: /ru/aspose.cells/findoptions/value_type_sensitive/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def value_type_sensitive(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [FindOptions](/cells/python-net/ru/aspose.cells/findoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`FindOptions`](/cells/python-net/ru/aspose.cells/findoptions)

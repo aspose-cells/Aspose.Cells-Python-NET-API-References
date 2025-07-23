@@ -1,27 +1,27 @@
 ---
-title: MsoArrowheadLength enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione MsoArrowheadLength
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 970
+weight: 960
 url: /it/aspose.cells.drawing/msoarrowheadlength/
 is_root: false
 ---
-##  MsoArrowheadLength enumerazione
-Enumera la larghezza dell'estremità della linea della linea del bordo della forma.
+##  Enumerazione MsoArrowheadLength
+Enumera la larghezza della fine della linea del bordo della forma.
 
 
 
-Il tipo MsoArrowheadLength espone i membri seguenti:
+Il tipo MsoArrowheadLength espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
-| SHORT | Lunghezza dell'estremità della linea corta|
-| MEDIUM |Lunghezza media dell'estremità della linea|
-| LONG | Lunghezza dell'estremità della linea lunga|
+| SHORT | Lunghezza della fine della linea corta|
+| MEDIUM | Lunghezza media dell'estremità della linea|
+| LONG | Lunghezza della fine della linea lunga|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](..)
+* modulo [`aspose.cells.drawing`](..)

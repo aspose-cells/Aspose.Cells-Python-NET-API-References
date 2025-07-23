@@ -1,6 +1,6 @@
 ---
 title: store_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  store_type недвижимость
 
-Получает и задает тип торговой площадки, определяемый атрибутом магазина.
+Возвращает и задает тип торговой площадки, которую идентифицирует атрибут магазина.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def store_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.webextensions](../../)
-* класс [WebExtensionReference](/cells/python-net/ru/aspose.cells.webextensions/webextensionreference)
-* класс [WebExtensionStoreType](/cells/python-net/ru/aspose.cells.webextensions/webextensionstoretype)
+* модуль [`aspose.cells.webextensions`](../../)
+* класс [`WebExtensionReference`](/cells/python-net/ru/aspose.cells.webextensions/webextensionreference)
+* класс [`WebExtensionStoreType`](/cells/python-net/ru/aspose.cells.webextensions/webextensionstoretype)

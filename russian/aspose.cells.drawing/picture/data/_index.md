@@ -1,9 +1,9 @@
 ---
 title: data недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 390
+weight: 400
 url: /ru/aspose.cells.drawing/picture/data/
 is_root: false
 ---

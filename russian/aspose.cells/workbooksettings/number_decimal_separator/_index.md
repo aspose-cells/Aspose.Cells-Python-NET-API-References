@@ -1,15 +1,15 @@
 ---
 title: number_decimal_separator недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 340
+weight: 370
 url: /ru/aspose.cells/workbooksettings/number_decimal_separator/
 is_root: false
 ---
 ##  number_decimal_separator недвижимость
 
-Получает или задает десятичный разделитель для форматирования и анализа числовых значений. По умолчанию используется десятичный разделитель текущего региона.
+Возвращает или задаёт десятичный разделитель для форматирования/анализа числовых значений. По умолчанию используется десятичный разделитель текущего региона.
 ###  Определение:
 ```python
 @property

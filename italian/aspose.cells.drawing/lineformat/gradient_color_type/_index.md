@@ -1,6 +1,6 @@
 ---
 title: gradient_color_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 180
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gradient_color_type proprietà
 
-Restituisce il tipo di colore del gradiente per il riempimento specificato.
+Restituisce il tipo di colore sfumato per il riempimento specificato.
 ###  Definizione:
 ```python
 @property
@@ -18,6 +18,6 @@ def gradient_color_type(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [GradientColorType](/cells/python-net/it/aspose.cells.drawing/gradientcolortype)
-* classe [LineFormat](/cells/python-net/it/aspose.cells.drawing/lineformat)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`GradientColorType`](/cells/python-net/it/aspose.cells.drawing/gradientcolortype)
+* classe [`LineFormat`](/cells/python-net/it/aspose.cells.drawing/lineformat)

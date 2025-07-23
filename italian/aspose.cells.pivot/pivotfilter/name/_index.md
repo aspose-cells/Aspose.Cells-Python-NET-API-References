@@ -1,15 +1,15 @@
 ---
 title: name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 90
+weight: 150
 url: /it/aspose.cells.pivot/pivotfilter/name/
 is_root: false
 ---
 ##  name proprietà
 
-Ottiene name del filtro pivot.
+Ottiene il name del filtro pivot.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [PivotFilter](/cells/python-net/it/aspose.cells.pivot/pivotfilter)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`PivotFilter`](/cells/python-net/it/aspose.cells.pivot/pivotfilter)

@@ -1,6 +1,6 @@
 ---
 title: tab_alignment недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  tab_alignment недвижимость
 
-Указывает выравнивание, которое должно быть применено к тексту с помощью этой позиции табуляции.
+Задает выравнивание, которое должно применяться к тексту с использованием данной позиции табуляции.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def tab_alignment(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [TextTabAlignmentType](/cells/python-net/ru/aspose.cells.drawing.texts/texttabalignmenttype)
-* класс [TextTabStop](/cells/python-net/ru/aspose.cells.drawing.texts/texttabstop)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`TextTabAlignmentType`](/cells/python-net/ru/aspose.cells.drawing.texts/texttabalignmenttype)
+* класс [`TextTabStop`](/cells/python-net/ru/aspose.cells.drawing.texts/texttabstop)

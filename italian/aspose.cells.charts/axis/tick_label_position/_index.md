@@ -1,15 +1,15 @@
 ---
 title: tick_label_position proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 380
+weight: 390
 url: /it/aspose.cells.charts/axis/tick_label_position/
 is_root: false
 ---
 ##  tick_label_position proprietà
 
-Rappresenta la posizione delle etichette dei segni di graduazione sull'asse specificato.
+Rappresenta la posizione delle etichette dei segni di spunta sull'asse specificato.
 ###  Definizione:
 ```python
 @property

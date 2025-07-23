@@ -1,6 +1,6 @@
 ---
 title: export_as_html_string proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  export_as_html_string proprietà
 
-Esporta il valore della stringa html delle celle nel DataTable.
+Esporta il valore della stringa HTML delle celle nella tabella dati.
 ###  Definizione:
 ```python
 @property

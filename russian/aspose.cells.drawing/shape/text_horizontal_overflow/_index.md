@@ -1,9 +1,9 @@
 ---
 title: text_horizontal_overflow недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 980
+weight: 990
 url: /ru/aspose.cells.drawing/shape/text_horizontal_overflow/
 is_root: false
 ---

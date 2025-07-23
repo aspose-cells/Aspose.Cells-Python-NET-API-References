@@ -1,6 +1,6 @@
 ---
 title: plot_right_to_left недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 150
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_right_to_left недвижимость
 
-Указывает, расположены ли данные графика справа налево.
+Указывает, расположены ли данные на графике справа налево.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def plot_right_to_left(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [SparklineGroup](/cells/python-net/ru/aspose.cells.charts/sparklinegroup)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`SparklineGroup`](/cells/python-net/ru/aspose.cells.charts/sparklinegroup)

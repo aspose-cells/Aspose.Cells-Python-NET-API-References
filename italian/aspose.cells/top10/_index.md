@@ -1,16 +1,16 @@
 ---
 title: Top10 classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1550
+weight: 1460
 url: /it/aspose.cells/top10/
 is_root: false
 ---
 ##  Top10 classe
- Descrivi la regola di formattazione condizionale Top10.
-Questa regola di formattazione condizionale evidenzia le celle di cui
-i valori rientrano nella parentesi N superiore o N inferiore, come specificato.
+ Descrivere la regola di formattazione condizionale Top10.
+Questa regola di formattazione condizionale evidenzia le celle i cui
+i valori rientrano nella fascia N superiore o N inferiore, come specificato.
 
 
 
@@ -19,14 +19,14 @@ Il tipo Top10 espone i seguenti membri:
 ###  Costruttori
 | Costruttore| Descrizione|
 | :- | :- |
-| [__init__](/cells/python-net/it/aspose.cells/top10/__init__/#) | Costruisce una nuova istanza di Top10|
+| [`__init__(self)`](/cells/python-net/it/aspose.cells/top10/__init__/#) | Costruisce una nuova istanza di Top10|
 
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [is_percent](/cells/python-net/it/aspose.cells/top10/is_percent) | Ottenere o impostare se una regola "massimo/minimo n" è una regola "massimo/minimo n percentuale".<br/> Il valore predefinito è falso.|
-| [is_bottom](/cells/python-net/it/aspose.cells/top10/is_bottom) | Ottenere o impostare se una regola "primo/ultimo n" è una regola "ultimo n".<br/> Il valore predefinito è falso.|
+| [is_percent](/cells/python-net/it/aspose.cells/top10/is_percent) | Ottieni o imposta se una regola "massimo/minimo n" è una regola "massimo/minimo n percentuale".<br/> Il valore predefinito è falso.|
+| [is_bottom](/cells/python-net/it/aspose.cells/top10/is_bottom) | Ottieni o imposta se una regola "top/bottom n" è una regola "bottom n".<br/> Il valore predefinito è falso.|
 | [rank](/cells/python-net/it/aspose.cells/top10/rank) | Ottieni o imposta il valore di "n" in una regola di formattazione condizionale "top/bottom n".<br/>Se IsPercent è vero, il valore deve essere compreso tra 0 e 100.<br/>Altrimenti deve essere compreso tra 0 e 1000.<br/> Il valore predefinito è 10.|
 
 

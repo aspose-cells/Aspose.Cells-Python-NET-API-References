@@ -1,6 +1,6 @@
 ---
 title: foreground_color proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  foreground_color proprietà
 
-Rappresenta il colore di primo piano dell'indicatore in un grafico a linee, a dispersione o radar.
+Rappresenta il colore di primo piano del marcatore in un grafico a linee, a dispersione o a radar.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def foreground_color(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Marker](/cells/python-net/it/aspose.cells.charts/marker)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Marker`](/cells/python-net/it/aspose.cells.charts/marker)

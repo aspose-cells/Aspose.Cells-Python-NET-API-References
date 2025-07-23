@@ -1,9 +1,9 @@
 ---
 title: FilterOperatorType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2120
+weight: 2050
 url: /ru/aspose.cells/filteroperatortype/
 is_root: false
 ---
@@ -19,15 +19,17 @@ is_root: false
 | :- | :- |
 | LESS_OR_EQUAL | Представляет оператор LessOrEqual.|
 | LESS_THAN | Представляет оператор LessThan.|
-| EQUAL | Представляет оператор равенства.|
-| GREATER_THAN | Представляет оператор GreaterThan.|
+| EQUAL | Представляет оператор «Равно».|
+| GREATER_THAN | Представляет оператор «Больше».|
 | NOT_EQUAL | Представляет оператор NotEqual.|
 | GREATER_OR_EQUAL | Представляет оператор GreaterOrEqual.|
-| NONE | Не представляет никакого сравнения.|
+| NONE | Не поддается сравнению.|
 | BEGINS_WITH | Начинается с текста.|
 | ENDS_WITH | Заканчивается текстом.|
 | CONTAINS | Содержит текст.|
 | NOT_CONTAINS | Не содержит текста.|
+| NOT_BEGINS_WITH | Не начинается с текста.|
+| NOT_ENDS_WITH | Не заканчивается текстом.|
 
 
 

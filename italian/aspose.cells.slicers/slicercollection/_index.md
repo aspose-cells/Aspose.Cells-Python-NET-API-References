@@ -1,45 +1,46 @@
 ---
-title: classe SlicerCollection
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: SlicerCollection classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
 url: /it/aspose.cells.slicers/slicercollection/
 is_root: false
 ---
-##  classe SlicerCollection
+##  SlicerCollection classe
 Specifica la raccolta di tutti gli oggetti Slicer nel foglio di lavoro specificato.
 
 
 
-Il tipo SlicerCollection espone i membri seguenti:
+Il tipo SlicerCollection espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [capacity](/cells/python-net/it/aspose.cells.slicers/slicercollection/capacity) | Ottiene o imposta il numero di elementi che l'elenco di matrici può contenere.|
+| [capacity](/cells/python-net/it/aspose.cells.slicers/slicercollection/capacity) | Ottiene o imposta il numero di elementi che l'elenco dell'array può contenere.|
 
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [add(pivot, dest_cell_name, base_field_name)](/cells/python-net/it/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-str-str) | Aggiungi un nuovo Slicer utilizzando la tabella pivot come origine dati|
-| [add(pivot, row, column, base_field_name)](/cells/python-net/it/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-int-int-str) | Aggiungi un nuovo Slicer utilizzando la tabella pivot come origine dati|
-| [add(pivot, row, column, base_field_index)](/cells/python-net/it/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-int-int-int) | Aggiungi un nuovo Slicer utilizzando la tabella pivot come origine dati|
-| [add(pivot, dest_cell_name, base_field_index)](/cells/python-net/it/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-str-int) | Aggiungi un nuovo Slicer utilizzando la tabella pivot come origine dati|
-| [add(pivot, row, column, base_field)](/cells/python-net/it/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-int-int-aspose.cells.pivot.PivotField) | Aggiungi un nuovo Slicer utilizzando la tabella pivot come origine dati|
-| [add(pivot, dest_cell_name, base_field)](/cells/python-net/it/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-str-aspose.cells.pivot.PivotField) | Aggiungi un nuovo Slicer utilizzando la tabella pivot come origine dati|
-| [add(table, index, dest_cell_name)](/cells/python-net/it/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.ListObject-int-str) | Aggiungi un nuovo Slicer utilizzando ListObjet come origine dati|
-| [add(table, list_column, dest_cell_name)](/cells/python-net/it/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-str) | Aggiungi un nuovo Slicer utilizzando ListObjet come origine dati|
-| [add(table, list_column, row, column)](/cells/python-net/it/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-int-int) | Aggiungi un nuovo Slicer utilizzando ListObjet come origine dati|
-| [copy_to(array)](/cells/python-net/it/aspose.cells.slicers/slicercollection/copy_to/#list) | Copia l'intero elenco di matrici in un elenco di matrici unidimensionale compatibile, a partire dall'inizio dell'elenco di matrici di destinazione.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/it/aspose.cells.slicers/slicercollection/copy_to/#int-list-int-int) |Copia un intervallo di elementi dall'elenco di matrici a un elenco di matrici unidimensionale compatibile, a partire dall'indice specificato dell'elenco di matrici di destinazione.|
-| [index_of(item, index)](/cells/python-net/it/aspose.cells.slicers/slicercollection/index_of/#Slicer-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero della prima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrici che si estende dall'indice specificato all'ultimo elemento.|
-| [index_of(item, index, count)](/cells/python-net/it/aspose.cells.slicers/slicercollection/index_of/#Slicer-int-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero della prima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrici che inizia dall'indice specificato e contiene il numero specificato di elementi.|
-| [last_index_of(item)](/cells/python-net/it/aspose.cells.slicers/slicercollection/last_index_of/#Slicer) | Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intero elenco di matrici.|
-| [last_index_of(item, index)](/cells/python-net/it/aspose.cells.slicers/slicercollection/last_index_of/#Slicer-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrici che si estende dal primo elemento all'indice specificato.|
-| [last_index_of(item, index, count)](/cells/python-net/it/aspose.cells.slicers/slicercollection/last_index_of/#Slicer-int-int) |Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrici che contiene il numero specificato di elementi e termina con l'indice specificato.|
-| [binary_search(item)](/cells/python-net/it/aspose.cells.slicers/slicercollection/binary_search/#Slicer) | Cerca un elemento nell'intero elenco di matrici ordinate utilizzando l'operatore di confronto predefinito e restituisce l'indice in base zero dell'elemento.|
+| [`add(self, pivot, dest_cell_name, base_field_name)`](/cells/python-net/it/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-str-str) | Aggiungi un nuovo Slicer utilizzando la tabella pivot come origine dati|
+| [`add(self, pivot, row, column, base_field_name)`](/cells/python-net/it/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-str) | Aggiungi un nuovo Slicer utilizzando la tabella pivot come origine dati|
+| [`add(self, pivot, row, column, base_field_index)`](/cells/python-net/it/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-int) | Aggiungi un nuovo Slicer utilizzando la tabella pivot come origine dati|
+| [`add(self, pivot, dest_cell_name, base_field_index)`](/cells/python-net/it/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-str-int) | Aggiungi un nuovo Slicer utilizzando la tabella pivot come origine dati|
+| [`add(self, pivot, row, column, base_field)`](/cells/python-net/it/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-aspose.cells.pivot.pivotfield) | Aggiungi un nuovo Slicer utilizzando la tabella pivot come origine dati|
+| [`add(self, pivot, dest_cell_name, base_field)`](/cells/python-net/it/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-str-aspose.cells.pivot.pivotfield) | Aggiungi un nuovo Slicer utilizzando la tabella pivot come origine dati|
+| [`add(self, table, index, dest_cell_name)`](/cells/python-net/it/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-int-str) | Aggiungi un nuovo Slicer utilizzando ListObjet come origine dati|
+| [`add(self, table, list_column, dest_cell_name)`](/cells/python-net/it/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-aspose.cells.tables.listcolumn-str) | Aggiungi un nuovo Slicer utilizzando ListObjet come origine dati|
+| [`add(self, table, list_column, row, column)`](/cells/python-net/it/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-aspose.cells.tables.listcolumn-int-int) | Aggiungi un nuovo Slicer utilizzando ListObjet come origine dati|
+| [`copy_to(self, array)`](/cells/python-net/it/aspose.cells.slicers/slicercollection/copy_to/#list) |Copia l'intero elenco di array in un elenco di array unidimensionale compatibile, iniziando dall'inizio dell'elenco di array di destinazione.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/it/aspose.cells.slicers/slicercollection/copy_to/#int-list-int-int) | Copia un intervallo di elementi dall'elenco di array a un elenco di array unidimensionale compatibile, a partire dall'indice specificato dell'elenco di array di destinazione.|
+| [`index_of(self, item, index)`](/cells/python-net/it/aspose.cells.slicers/slicercollection/index_of/#aspose.cells.slicers.slicer-int) | Cerca l'oggetto specificato e restituisce l'indice a partire da zero della prima occorrenza nell'intervallo di elementi nell'elenco di array che si estende dall'indice specificato all'ultimo elemento.|
+| [`index_of(self, item, index, count)`](/cells/python-net/it/aspose.cells.slicers/slicercollection/index_of/#aspose.cells.slicers.slicer-int-int) | Cerca l'oggetto specificato e restituisce l'indice a partire da zero della prima occorrenza nell'intervallo di elementi nell'elenco di array che inizia dall'indice specificato e contiene il numero specificato di elementi.|
+| [`last_index_of(self, item)`](/cells/python-net/it/aspose.cells.slicers/slicercollection/last_index_of/#aspose.cells.slicers.slicer) | Cerca l'oggetto specificato e restituisce l'indice a partire da zero dell'ultima occorrenza nell'intero elenco di array.|
+| [`last_index_of(self, item, index)`](/cells/python-net/it/aspose.cells.slicers/slicercollection/last_index_of/#aspose.cells.slicers.slicer-int) |Cerca l'oggetto specificato e restituisce l'indice a partire da zero dell'ultima occorrenza nell'intervallo di elementi nell'elenco di array che si estende dal primo elemento all'indice specificato.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/it/aspose.cells.slicers/slicercollection/last_index_of/#aspose.cells.slicers.slicer-int-int) | Cerca l'oggetto specificato e restituisce l'indice a partire da zero dell'ultima occorrenza nell'intervallo di elementi nell'elenco di array che contiene il numero specificato di elementi e termina all'indice specificato.|
+| [`get(self, name)`](/cells/python-net/it/aspose.cells.slicers/slicercollection/get/#str) | Ottiene lo Slicer in base al nome dello Slicer.|
+| [`binary_search(self, item)`](/cells/python-net/it/aspose.cells.slicers/slicercollection/binary_search/#aspose.cells.slicers.slicer) | Cerca un elemento nell'intero elenco dell'array ordinato utilizzando il comparatore predefinito e restituisce l'indice basato su zero dell'elemento.|
 
 
 
@@ -97,4 +98,4 @@ book.save("out.xlsx")
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.slicers](..)
+* modulo [`aspose.cells.slicers`](..)

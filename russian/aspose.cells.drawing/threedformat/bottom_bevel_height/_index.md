@@ -1,6 +1,6 @@
 ---
 title: bottom_bevel_height недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom_bevel_height недвижимость
 
-Получает и задает высоту нижнего скоса или глубину его применения к фигуре.
+Получает и задает высоту нижнего скоса или глубину его применения к форме.
 В единицах баллов.
 ###  Определение:
 ```python
@@ -22,5 +22,5 @@ def bottom_bevel_height(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ThreeDFormat](/cells/python-net/ru/aspose.cells.drawing/threedformat)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ThreeDFormat`](/cells/python-net/ru/aspose.cells.drawing/threedformat)

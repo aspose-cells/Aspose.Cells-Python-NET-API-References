@@ -1,23 +1,25 @@
 ---
-title: metodo verify_password
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo verify_password
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 100
 url: /it/aspose.cells/fileformatutil/verify_password/
 is_root: false
 ---
-##  verify_password(stream, password) {#io.RawIOBase-str}
-Rileva e restituisce le informazioni su un formato di un excel archiviato in un flusso.
+##  verify_password(, flusso, password){#io.RawIOBase-str}
+Rileva e restituisce le informazioni su un formato di un file Excel memorizzato in un flusso.
 
 
 ###  ritorna
 
-Restituisce se la password è stata corretta.
+Restituisce un valore che indica se la password è corretta.
 
 
 ```python
-def verify_password(self, stream, password):
+
+@staticmethod
+def verify_password(stream, password):
     ...
 ```
 
@@ -30,5 +32,5 @@ def verify_password(self, stream, password):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FileFormatUtil](/cells/python-net/it/aspose.cells/fileformatutil)
+* modulo [`aspose.cells`](../../)
+* classe [`FileFormatUtil`](/cells/python-net/it/aspose.cells/fileformatutil)

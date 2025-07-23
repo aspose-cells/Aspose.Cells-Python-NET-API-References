@@ -1,6 +1,6 @@
 ---
 title: ignore_blank недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 210
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  ignore_blank недвижимость
 
-Указывает, разрешены ли пустые значения при проверке данных диапазона.
+Указывает, разрешены ли пустые значения при проверке диапазона данных.
 ###  Определение:
 ```python
 @property

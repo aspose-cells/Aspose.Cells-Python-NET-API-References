@@ -1,6 +1,6 @@
 ---
 title: second proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  second proprietà
 
-Ottiene e imposta second della data/ora raggruppata.
+Ottiene e imposta la data e l'ora raggruppate second.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def second(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [DateTimeGroupItem](/cells/python-net/it/aspose.cells/datetimegroupitem)
+* modulo [`aspose.cells`](../../)
+* classe [`DateTimeGroupItem`](/cells/python-net/it/aspose.cells/datetimegroupitem)

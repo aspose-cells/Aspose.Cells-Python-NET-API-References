@@ -1,9 +1,9 @@
 ---
 title: PivotConditionFormatScopeType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 250
+weight: 320
 url: /ru/aspose.cells.pivot/pivotconditionformatscopetype/
 is_root: false
 ---
@@ -17,9 +17,9 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| DATA | Указывает, что к выбранным полям данных применяется условное форматирование.|
-| FIELD |Указывает, что к пересечениям выбранных полей сводной таблицы применяется условное форматирование.|
-| SELECTION | Указывает, что к выбранным ячейкам применяется условное форматирование.|
+| DATA | Указывает, что к выбранным полям данных применено условное форматирование.|
+| FIELD | Указывает, что к выбранным пересечениям полей сводной таблицы применяется условное форматирование.|
+| SELECTION |Указывает, что к выбранным ячейкам применено условное форматирование.|
 
 
 

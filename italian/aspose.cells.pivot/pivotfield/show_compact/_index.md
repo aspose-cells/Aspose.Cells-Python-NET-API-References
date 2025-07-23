@@ -1,15 +1,15 @@
 ---
 title: show_compact proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 570
+weight: 670
 url: /it/aspose.cells.pivot/pivotfield/show_compact/
 is_root: false
 ---
 ##  show_compact proprietà
 
-Indica se visualizzare le etichette del campo successivo nella stessa colonna nella visualizzazione tabella pivot
+Indica se visualizzare le etichette dal campo successivo nella stessa colonna nella vista Tabella pivot
 ###  Definizione:
 ```python
 @property

@@ -1,18 +1,18 @@
 ---
-title: classe SmartTagProperty
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: SmartTagProperty classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
 url: /it/aspose.cells.markup/smarttagproperty/
 is_root: false
 ---
-##  classe SmartTagProperty
+##  SmartTagProperty classe
 Rappresenta la proprietà dello smart tag della cella.
 
 
 
-Il tipo SmartTagProperty espone i membri seguenti:
+Il tipo SmartTagProperty espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
@@ -23,4 +23,4 @@ Il tipo SmartTagProperty espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.markup](..)
+* modulo [`aspose.cells.markup`](..)

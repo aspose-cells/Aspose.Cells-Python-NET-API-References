@@ -1,27 +1,27 @@
 ---
 title: ControlPictureSizeMode перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 230
+weight: 210
 url: /ru/aspose.cells.drawing.activexcontrols/controlpicturesizemode/
 is_root: false
 ---
 ##  ControlPictureSizeMode перечисление
-Представляет, как отображать изображение.
+Показывает, как отображать изображение.
 
 
 
-Тип ControlPictureSizeMode предоставляет следующие члены:
+Тип ControlPictureSizeMode предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
 | CLIP | Обрезает любую часть изображения, превышающую границы элемента управления.|
-| STRETCH | Растягивает изображение, чтобы заполнить область элемента управления.<br/> Этот параметр искажает изображение в горизонтальном или вертикальном направлении.|
+| STRETCH | Растягивает картинку, чтобы заполнить область элемента управления.<br/> Эта настройка искажает изображение либо в горизонтальном, либо в вертикальном направлении.|
 | ZOOM | Увеличивает изображение, но не искажает его ни по горизонтали, ни по вертикали.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](..)
+* модуль [`aspose.cells.drawing.activexcontrols`](..)

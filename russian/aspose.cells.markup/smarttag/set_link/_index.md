@@ -1,18 +1,19 @@
 ---
 title: set_link метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells.markup/smarttag/set_link/
 is_root: false
 ---
-##  set_link(uri, name) {#str-str}
+##  set_link(self, uri, name) {#str-str}
 Измените имя и URI пространства имен смарт-тега.
 
 
 
 ```python
+
 def set_link(self, uri, name):
     ...
 ```
@@ -26,5 +27,5 @@ def set_link(self, uri, name):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.markup](../../)
-* класс [SmartTag](/cells/python-net/ru/aspose.cells.markup/smarttag)
+* модуль [`aspose.cells.markup`](../../)
+* класс [`SmartTag`](/cells/python-net/ru/aspose.cells.markup/smarttag)

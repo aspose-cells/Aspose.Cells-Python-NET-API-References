@@ -1,6 +1,6 @@
 ---
 title: RevisionHeader класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 100
@@ -8,25 +8,25 @@ url: /ru/aspose.cells.revisions/revisionheader/
 is_root: false
 ---
 ##  RevisionHeader класс
-Представляет список конкретных изменений, внесенных в эту книгу.
+Представляет собой список конкретных изменений, которые произошли в этой рабочей книге.
 
 
 
-Тип RevisionHeader предоставляет следующие члены:
+Тип RevisionHeader предоставляет следующие элементы:
 
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [RevisionHeader()](/cells/python-net/ru/aspose.cells.revisions/revisionheader/__init__/#) | Создает новый экземпляр RevisionHeader|
+| [`__init__(self)`](/cells/python-net/ru/aspose.cells.revisions/revisionheader/__init__/#) | Создает новый экземпляр RevisionHeader|
 
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [saved_time](/cells/python-net/ru/aspose.cells.revisions/revisionheader/saved_time) | Получает и задает дату и время сохранения этого набора редакций.|
-| [user_name](/cells/python-net/ru/aspose.cells.revisions/revisionheader/user_name) | Получает и задает имя пользователя, делающего ревизию.|
+| [saved_time](/cells/python-net/ru/aspose.cells.revisions/revisionheader/saved_time) | Возвращает и задает дату и время сохранения этого набора изменений.|
+| [user_name](/cells/python-net/ru/aspose.cells.revisions/revisionheader/user_name) | Получает и задает имя пользователя, вносящего изменения.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.revisions](..)
+* модуль [`aspose.cells.revisions`](..)

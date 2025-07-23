@@ -1,14 +1,14 @@
 ---
 title: get метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 300
 url: /ru/aspose.cells/cells/get/
 is_root: false
 ---
-##  get {#str}
-Добавьте API for Python через .Net.поскольку это [строковое имя ячейки] не поддерживается.
+##  get(self, cell_name) {#str}
+Добавьте API for Python через .Net.since this[string cellName] не поддерживается
 
 
 ###  Возврат
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get(self, cell_name):
     ...
 ```
@@ -24,11 +25,11 @@ def get(self, cell_name):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| cell_name | str | Имя Cell, включая букву столбца и номер строки, например A5.|
+| cell_name | str | Cell имя, включая букву столбца и номер строки, например A5.|
 
 
-##  get {#int-int}
-Добавьте API for Python через .Net.since this[int row, int columns] не поддерживается.
+##  get(self, row, column) {#int-int}
+Добавьте API for Python через .Net.since this[int row, int column] не поддерживается
 
 
 ###  Возврат
@@ -37,6 +38,7 @@ def get(self, cell_name):
 
 
 ```python
+
 def get(self, row, column):
     ...
 ```

@@ -1,18 +1,23 @@
 ---
 title: text_to_columns метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 920
+weight: 940
 url: /ru/aspose.cells/cells/text_to_columns/
 is_root: false
 ---
-##  text_to_columns {#int-int-int-aspose.cells.TxtLoadOptions}
-Разбивает текст в столбце на столбцы.
+##  text_to_columns(self, row, column, total_rows, options) {#int-int-int-aspose.cells.TxtLoadOptions}
+Разделяет содержимое указанного столбца на несколько столбцов.
 
+
+###  Возврат
+
+Общее количество столбцов разделенных значений.
 
 
 ```python
+
 def text_to_columns(self, row, column, total_rows, options):
     ...
 ```

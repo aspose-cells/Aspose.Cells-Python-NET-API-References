@@ -1,6 +1,6 @@
 ---
 title: rotate_text_with_shape недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rotate_text_with_shape недвижимость
 
-Указывает, вращается ли текст с фигурой.
+Указывает, вращается ли текст вместе с формой.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def rotate_text_with_shape(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [MsoTextFrame](/cells/python-net/ru/aspose.cells.drawing/msotextframe)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`MsoTextFrame`](/cells/python-net/ru/aspose.cells.drawing/msotextframe)

@@ -1,6 +1,6 @@
 ---
 title: direction proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  direction proprietà
 
-Ottiene o imposta lo direction in cui viene visualizzata la barra dei dati.
+Ottiene o imposta il valore direction quando viene visualizzata la barra dei dati.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def direction(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [DataBar](/cells/python-net/it/aspose.cells/databar)
-* classe [TextDirectionType](/cells/python-net/it/aspose.cells/textdirectiontype)
+* modulo [`aspose.cells`](../../)
+* classe [`DataBar`](/cells/python-net/it/aspose.cells/databar)
+* classe [`TextDirectionType`](/cells/python-net/it/aspose.cells/textdirectiontype)

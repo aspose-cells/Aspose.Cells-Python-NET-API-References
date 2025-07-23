@@ -1,6 +1,6 @@
 ---
 title: text proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 100
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text proprietà
 
-Lo text nel WordArt.
+Il text in WordArt.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [TextEffectFormat](/cells/python-net/it/aspose.cells.drawing/texteffectformat)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`TextEffectFormat`](/cells/python-net/it/aspose.cells.drawing/texteffectformat)

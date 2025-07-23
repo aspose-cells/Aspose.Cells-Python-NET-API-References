@@ -1,15 +1,15 @@
 ---
 title: text_options недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1050
+weight: 1060
 url: /ru/aspose.cells.drawing/lineshape/text_options/
 is_root: false
 ---
 ##  text_options недвижимость
 
-Представляет параметры текста фигуры.
+Представляет текстовые параметры фигуры.
 
 ###  Пример
 

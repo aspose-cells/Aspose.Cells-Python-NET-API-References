@@ -1,19 +1,20 @@
 ---
 title: insert_text метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 260
+weight: 270
 url: /ru/aspose.cells/cell/insert_text/
 is_root: false
 ---
-##  insert_text {#int-str}
+##  insert_text(self, index, text) {#int-str}
 Вставьте несколько символов в ячейку.
-Если ячейка имеет расширенное форматирование, этот метод может сохранить исходное форматирование.
+Если ячейка имеет расширенный формат, этот метод может сохранить исходное форматирование.
 
 
 
 ```python
+
 def insert_text(self, index, text):
     ...
 ```

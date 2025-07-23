@@ -1,9 +1,9 @@
 ---
 title: BuiltinStyleType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1870
+weight: 1770
 url: /ru/aspose.cells/builtinstyletype/
 is_root: false
 ---

@@ -1,9 +1,9 @@
 ---
 title: TextFontAlignType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 170
+weight: 180
 url: /ru/aspose.cells.drawing.texts/textfontaligntype/
 is_root: false
 ---
@@ -12,18 +12,18 @@ is_root: false
 
 
 
-Тип TextFontAlignType предоставляет следующие члены:
+Тип TextFontAlignType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| AUTOMATIC | Когда поток текста горизонтальный или простой вертикальный, как и fontBaseline<br/> но для других вертикальных режимов то же, что и fontCenter.|
-| BOTTOM | Буквы привязаны к самому низу одной строки.|
-| BASELINE | Буквы привязаны к нижней базовой линии одной строки.|
-| CENTER | Буквы закрепляются между двумя базовыми линиями одной строки.|
-| TOP | Буквы привязаны к верхней базовой линии одной строки.|
+| AUTOMATIC | Когда текст располагается горизонтально или просто вертикально, то же самое, что и fontBaseline<br/> но для других вертикальных режимов то же самое, что и fontCenter.|
+| BOTTOM | Буквы закреплены в самом низу одной строки.|
+| BASELINE | Буквы прикреплены к нижней базовой линии одной строки.|
+| CENTER | Буквы закреплены между двумя базовыми линиями одной строки.|
+| TOP | Буквы прикреплены к верхней базовой линии одной строки.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](..)
+* модуль [`aspose.cells.drawing.texts`](..)

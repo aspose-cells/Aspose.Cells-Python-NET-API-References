@@ -1,6 +1,6 @@
 ---
 title: small_change proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 230
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  small_change proprietà
 
-Ottiene e imposta l'entità della modifica della proprietà Position
+Ottiene e imposta l'importo di cui cambia la proprietà Posizione
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def small_change(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [SpinButtonActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`SpinButtonActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

@@ -1,17 +1,17 @@
 ---
 title: format_data_ignore_column_width proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 410
+weight: 460
 url: /it/aspose.cells.saving/ebooksaveoptions/format_data_ignore_column_width/
 is_root: false
 ---
 ##  format_data_ignore_column_width proprietà
 
-Indica se mostrare tutti i dati formattati della cella in caso di overflow della colonna.
-Se vero, ignora la larghezza della colonna e verranno esportati tutti i dati della cella.
-Se false, i dati verranno esportati come in Excel.
+Indica se visualizzare tutti i dati formattati della cella quando la colonna è in overflow.
+Se è vero, ignora la larghezza della colonna e verranno esportati tutti i dati della cella.
+Se falso, i dati verranno esportati come Excel.
 Il valore predefinito è falso.
 ###  Definizione:
 ```python

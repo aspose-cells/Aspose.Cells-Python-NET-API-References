@@ -1,6 +1,6 @@
 ---
 title: check_mixed_value_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  check_mixed_value_type proprietà
 
-Falso, Aspose.Cells imposterà il tipo di DataColumn in base al tipo di valore della prima riga per le prestazioni.
- È vero, Aspose.Cells controllerà se il tipo di valore nella colonna è misto prima di impostare il tipo di DataColumn
-E il tipo di valore è misto, il tipo di DataColumn sarà stringa.
+Falso, Aspose.Cells imposterà il tipo di DataColumn in base al tipo di valore della prima riga per migliorare le prestazioni.
+ Vero, Aspose.Cells controllerà se il tipo di valore nella colonna è misto prima di impostare il tipo di DataColumn
+Se il tipo di valore è misto, il tipo di DataColumn sarà stringa.
 ###  Definizione:
 ```python
 @property

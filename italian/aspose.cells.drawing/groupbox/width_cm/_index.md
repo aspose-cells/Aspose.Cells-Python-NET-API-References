@@ -1,9 +1,9 @@
 ---
 title: width_cm proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1180
+weight: 1190
 url: /it/aspose.cells.drawing/groupbox/width_cm/
 is_root: false
 ---

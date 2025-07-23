@@ -1,9 +1,9 @@
 ---
 title: value1 proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 100
+weight: 170
 url: /it/aspose.cells.pivot/pivotfilter/value1/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def value1(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [PivotFilter](/cells/python-net/it/aspose.cells.pivot/pivotfilter)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`PivotFilter`](/cells/python-net/it/aspose.cells.pivot/pivotfilter)

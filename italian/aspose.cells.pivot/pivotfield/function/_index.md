@@ -1,15 +1,15 @@
 ---
 title: function proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 330
+weight: 410
 url: /it/aspose.cells.pivot/pivotfield/function/
 is_root: false
 ---
 ##  function proprietà
 
-Rappresenta lo function utilizzato per riepilogare il campo dati della tabella pivot.
+Rappresenta il function utilizzato per riepilogare il campo dati della tabella pivot.
 ###  Definizione:
 ```python
 @property

@@ -1,13 +1,13 @@
 ---
-title: metodo add
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo add
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells/scenarioinputcellcollection/add/
 is_root: false
 ---
-##  add(row, column, value) {#int-int-str}
+##  add(self, row, column, value) {#int-int-str}
 Aggiunge una cella di input.
 
 
@@ -17,6 +17,7 @@ Aggiunge una cella di input.
 
 
 ```python
+
 def add(self, row, column, value):
     ...
 ```
@@ -24,12 +25,12 @@ def add(self, row, column, value):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| row | int | L'indice di riga della cella di input.|
-| column | int | L'indice di colonna della cella di input.|
+| row | int | Indice di riga della cella di input.|
+| column | int | Indice di colonna della cella di input.|
 | value | str | Il valore della cella di input.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ScenarioInputCellCollection](/cells/python-net/it/aspose.cells/scenarioinputcellcollection)
+* modulo [`aspose.cells`](../../)
+* classe [`ScenarioInputCellCollection`](/cells/python-net/it/aspose.cells/scenarioinputcellcollection)

@@ -1,9 +1,9 @@
 ---
 title: active_sheet_index недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 240
+weight: 260
 url: /ru/aspose.cells/worksheetcollection/active_sheet_index/
 is_root: false
 ---

@@ -1,15 +1,15 @@
 ---
 title: primary_key недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 170
+weight: 190
 url: /ru/aspose.cells.saving/sqlscriptsaveoptions/primary_key/
 is_root: false
 ---
 ##  primary_key недвижимость
 
-Представляет, какой столбец является первичным ключом таблицы данных.
+Указывает, какой столбец является первичным ключом таблицы данных.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def primary_key(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.saving](../../)
-* класс [SqlScriptSaveOptions](/cells/python-net/ru/aspose.cells.saving/sqlscriptsaveoptions)
+* модуль [`aspose.cells.saving`](../../)
+* класс [`SqlScriptSaveOptions`](/cells/python-net/ru/aspose.cells.saving/sqlscriptsaveoptions)

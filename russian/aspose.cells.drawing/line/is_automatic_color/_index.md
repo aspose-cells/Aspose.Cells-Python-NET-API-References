@@ -1,6 +1,6 @@
 ---
 title: is_automatic_color недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 160
@@ -18,5 +18,5 @@ def is_automatic_color(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Line](/cells/python-net/ru/aspose.cells.drawing/line)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Line`](/cells/python-net/ru/aspose.cells.drawing/line)

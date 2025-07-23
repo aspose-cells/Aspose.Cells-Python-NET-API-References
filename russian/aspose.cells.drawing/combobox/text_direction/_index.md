@@ -1,9 +1,9 @@
 ---
 title: text_direction недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 990
+weight: 1010
 url: /ru/aspose.cells.drawing/combobox/text_direction/
 is_root: false
 ---

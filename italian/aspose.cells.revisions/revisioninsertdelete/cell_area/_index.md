@@ -1,6 +1,6 @@
 ---
 title: cell_area proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -18,6 +18,6 @@ def cell_area(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.revisions](../../)
-* classe [CellArea](/cells/python-net/it/aspose.cells/cellarea)
-* classe [RevisionInsertDelete](/cells/python-net/it/aspose.cells.revisions/revisioninsertdelete)
+* modulo [`aspose.cells.revisions`](../../)
+* classe [`CellArea`](/cells/python-net/it/aspose.cells/cellarea)
+* classe [`RevisionInsertDelete`](/cells/python-net/it/aspose.cells.revisions/revisioninsertdelete)

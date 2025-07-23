@@ -1,6 +1,6 @@
 ---
 title: author недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  author недвижимость
 
-Получает и задает Имя исходного комментария author.
+Получает и задает имя исходного комментария author
 
 ###  Пример
 

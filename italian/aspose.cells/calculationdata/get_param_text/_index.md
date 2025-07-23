@@ -1,13 +1,13 @@
 ---
-title: metodo get_param_text
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo get_param_text
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells/calculationdata/get_param_text/
 is_root: false
 ---
-##  get_param_text(index) {#int}
+##  get_param_text(self, index) {#int}
 Ottiene il testo letterale del parametro in corrispondenza dell'indice specificato.
 
 
@@ -17,6 +17,7 @@ testo letterale del parametro
 
 
 ```python
+
 def get_param_text(self, index):
     ...
 ```
@@ -29,5 +30,5 @@ def get_param_text(self, index):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CalculationData](/cells/python-net/it/aspose.cells/calculationdata)
+* modulo [`aspose.cells`](../../)
+* classe [`CalculationData`](/cells/python-net/it/aspose.cells/calculationdata)

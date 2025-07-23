@@ -1,15 +1,15 @@
 ---
 title: is_protected недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 590
+weight: 620
 url: /ru/aspose.cells/worksheet/is_protected/
 is_root: false
 ---
 ##  is_protected недвижимость
 
-Указывает, защищен ли лист.
+Указывает, защищен ли рабочий лист.
 ###  Определение:
 ```python
 @property

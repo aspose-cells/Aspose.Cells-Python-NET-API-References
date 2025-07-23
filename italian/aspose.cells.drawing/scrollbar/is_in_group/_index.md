@@ -1,9 +1,9 @@
 ---
 title: is_in_group proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 620
+weight: 630
 url: /it/aspose.cells.drawing/scrollbar/is_in_group/
 is_root: false
 ---

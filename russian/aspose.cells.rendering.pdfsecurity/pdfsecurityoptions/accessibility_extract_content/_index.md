@@ -1,6 +1,6 @@
 ---
 title: accessibility_extract_content недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  accessibility_extract_content недвижимость
 
-Указывает, разрешить ли извлечение текста и графики (для поддержки доступности для пользователей с ограниченными возможностями или для других целей).
+Указывает, разрешать ли извлечение текста и графики (для обеспечения доступности для пользователей с ограниченными возможностями или для других целей).
 ###  Определение:
 ```python
 @property

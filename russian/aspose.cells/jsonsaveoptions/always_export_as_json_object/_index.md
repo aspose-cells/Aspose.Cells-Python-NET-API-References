@@ -1,6 +1,6 @@
 ---
 title: always_export_as_json_object недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  always_export_as_json_object недвижимость
 
-Указывает, всегда ли экспортируется excel в json как объект, даже если в файле есть только рабочий лист.
+Указывает, всегда ли экспортировать Excel в JSON как объект, даже если в файле есть только один рабочий лист.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def always_export_as_json_object(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [JsonSaveOptions](/cells/python-net/ru/aspose.cells/jsonsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`JsonSaveOptions`](/cells/python-net/ru/aspose.cells/jsonsaveoptions)

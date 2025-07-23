@@ -1,6 +1,6 @@
 ---
 title: column_count недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -21,5 +21,5 @@ def column_count(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [ListBoxActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`ListBoxActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

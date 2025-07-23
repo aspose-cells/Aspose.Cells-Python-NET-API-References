@@ -1,15 +1,15 @@
 ---
 title: repair_load proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 420
+weight: 460
 url: /it/aspose.cells/workbooksettings/repair_load/
 is_root: false
 ---
 ##  repair_load proprietà
 
-Indica se l'applicazione ha aperto l'ultima volta la cartella di lavoro in modalità provvisoria o di ripristino.
+Indica se l'applicazione ha aperto la cartella di lavoro per ultima in modalità provvisoria o di riparazione.
 ###  Definizione:
 ```python
 @property

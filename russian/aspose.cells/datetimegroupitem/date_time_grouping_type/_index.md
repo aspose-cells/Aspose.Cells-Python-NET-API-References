@@ -1,6 +1,6 @@
 ---
 title: date_time_grouping_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -21,6 +21,6 @@ def date_time_grouping_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [DateTimeGroupItem](/cells/python-net/ru/aspose.cells/datetimegroupitem)
-* класс [DateTimeGroupingType](/cells/python-net/ru/aspose.cells/datetimegroupingtype)
+* модуль [`aspose.cells`](../../)
+* класс [`DateTimeGroupItem`](/cells/python-net/ru/aspose.cells/datetimegroupitem)
+* класс [`DateTimeGroupingType`](/cells/python-net/ru/aspose.cells/datetimegroupingtype)

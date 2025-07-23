@@ -1,6 +1,6 @@
 ---
 title: is_hf_scale_with_doc недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 410
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_hf_scale_with_doc недвижимость
 
-Указывает, масштабируются ли верхний и нижний колонтитулы с масштабированием документа.
-Применяется только для Excel 2007.
+Указывает, масштабируются ли верхний и нижний колонтитулы вместе с масштабированием документа.
+Применимо только к Excel 2007.
 ###  Определение:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_hf_scale_with_doc(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PageSetup](/cells/python-net/ru/aspose.cells/pagesetup)
+* модуль [`aspose.cells`](../../)
+* класс [`PageSetup`](/cells/python-net/ru/aspose.cells/pagesetup)

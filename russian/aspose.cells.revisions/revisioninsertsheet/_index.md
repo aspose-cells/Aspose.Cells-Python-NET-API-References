@@ -1,6 +1,6 @@
 ---
 title: RevisionInsertSheet класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 120
@@ -8,30 +8,28 @@ url: /ru/aspose.cells.revisions/revisioninsertsheet/
 is_root: false
 ---
 ##  RevisionInsertSheet класс
-Представляет запись редакции вставленного листа.
+Представляет собой запись об изменении листа, который был вставлен.
 
 
 
-**Наследование:** [RevisionInsertSheet](/cells/python-net/aspose.cells.revisions/revisioninsertsheet) → 
-[Revision](/cells/python-net/ru/aspose.cells.revisions/revision)
+**Наследование:** [`RevisionInsertSheet`](/cells/python-net/ru/aspose.cells.revisions/revisioninsertsheet)
 
 
 
-Тип RevisionInsertSheet предоставляет следующие члены:
+Тип RevisionInsertSheet предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [type](/cells/python-net/ru/aspose.cells.revisions/revisioninsertsheet/type) | Получает тип редакции.|
-| [worksheet](/cells/python-net/ru/aspose.cells.revisions/revisioninsertsheet/worksheet) | Получает рабочий лист.|
-| [id](/cells/python-net/ru/aspose.cells.revisions/revisioninsertsheet/id) | Получает номер этой версии.|
-| [action_type](/cells/python-net/ru/aspose.cells.revisions/revisioninsertsheet/action_type) | Получает тип действия редакции.|
+| [type](/cells/python-net/ru/aspose.cells.revisions/revisioninsertsheet/type) | Получает тип ревизии.|
+| [worksheet](/cells/python-net/ru/aspose.cells.revisions/revisioninsertsheet/worksheet) |  |
+| [id](/cells/python-net/ru/aspose.cells.revisions/revisioninsertsheet/id) |  |
+| [action_type](/cells/python-net/ru/aspose.cells.revisions/revisioninsertsheet/action_type) | Получает тип действия ревизии.|
 | [name](/cells/python-net/ru/aspose.cells.revisions/revisioninsertsheet/name) | Получает имя рабочего листа.|
-| [sheet_position](/cells/python-net/ru/aspose.cells.revisions/revisioninsertsheet/sheet_position) | Получает отсчитываемую от нуля позицию нового листа на панели вкладок листа.|
+| [sheet_position](/cells/python-net/ru/aspose.cells.revisions/revisioninsertsheet/sheet_position) | Возвращает нулевую позицию нового листа на панели вкладок листов.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.revisions](..)
-* класс [Revision](/cells/python-net/ru/aspose.cells.revisions/revision)
-* класс [RevisionInsertSheet](/cells/python-net/ru/aspose.cells.revisions/revisioninsertsheet)
+* модуль [`aspose.cells.revisions`](..)
+* класс [`RevisionInsertSheet`](/cells/python-net/ru/aspose.cells.revisions/revisioninsertsheet)

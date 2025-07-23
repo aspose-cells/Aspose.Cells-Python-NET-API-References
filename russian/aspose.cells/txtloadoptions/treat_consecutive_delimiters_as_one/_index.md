@@ -1,9 +1,9 @@
 ---
 title: treat_consecutive_delimiters_as_one недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 430
+weight: 410
 url: /ru/aspose.cells/txtloadoptions/treat_consecutive_delimiters_as_one/
 is_root: false
 ---

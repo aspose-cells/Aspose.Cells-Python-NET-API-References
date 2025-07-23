@@ -1,9 +1,9 @@
 ---
 title: FontSourceType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2150
+weight: 2090
 url: /ru/aspose.cells/fontsourcetype/
 is_root: false
 ---
@@ -17,9 +17,9 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| FONT_FILE | представляет один файл шрифта.|
-| FONTS_FOLDER | представляет папку с файлами шрифтов.|
-| MEMORY_FONT | представляет один шрифт в памяти.|
+| FONT_FILE | представляет собой один файл шрифта.|
+| FONTS_FOLDER | представляет собой папку с файлами шрифтов.|
+| MEMORY_FONT | представляет собой один шрифт в памяти.|
 
 
 

@@ -1,15 +1,15 @@
 ---
 title: disable_downlevel_revealed_comments proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 130
+weight: 170
 url: /it/aspose.cells/htmlsaveoptions/disable_downlevel_revealed_comments/
 is_root: false
 ---
 ##  disable_downlevel_revealed_comments proprietà
 
-Indica se disabilitare i commenti condizionali rivelati di livello inferiore durante l'esportazione del file in html, il valore predefinito è false.
+Indica se disabilitare i commenti condizionali rivelati di livello inferiore durante l'esportazione del file in HTML; il valore predefinito è falso.
 ###  Definizione:
 ```python
 @property

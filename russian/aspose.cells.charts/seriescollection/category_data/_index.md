@@ -1,15 +1,15 @@
 ---
 title: category_data недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 130
+weight: 140
 url: /ru/aspose.cells.charts/seriescollection/category_data/
 is_root: false
 ---
 ##  category_data недвижимость
 
- Получает или задает диапазон значений оси категории.
+ Возвращает или задает диапазон значений оси категории.
  Это может быть диапазон ячеек (например, «d1:e10»),
 или последовательность значений (например, "{2,6,8,10}").
 ###  Определение:
@@ -23,5 +23,5 @@ def category_data(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [SeriesCollection](/cells/python-net/ru/aspose.cells.charts/seriescollection)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`SeriesCollection`](/cells/python-net/ru/aspose.cells.charts/seriescollection)

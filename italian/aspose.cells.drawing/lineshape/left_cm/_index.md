@@ -1,15 +1,15 @@
 ---
 title: left_cm proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 740
+weight: 750
 url: /it/aspose.cells.drawing/lineshape/left_cm/
 is_root: false
 ---
 ##  left_cm proprietà
 
-Rappresenta l'offset orizzontale della forma dalla colonna di sinistra, in unità di centimetri.
+Rappresenta lo scostamento orizzontale della forma dalla sua colonna di sinistra, in centimetri.
 
 ###  Esempio
 

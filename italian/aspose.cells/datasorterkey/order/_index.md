@@ -1,6 +1,6 @@
 ---
 title: order proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  order proprietà
 
-Indica lo order di smistamento.
+Indica il order dell'ordinamento.
 ###  Definizione:
 ```python
 @property
@@ -18,6 +18,6 @@ def order(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [DataSorterKey](/cells/python-net/it/aspose.cells/datasorterkey)
-* classe [SortOrder](/cells/python-net/it/aspose.cells/sortorder)
+* modulo [`aspose.cells`](../../)
+* classe [`DataSorterKey`](/cells/python-net/it/aspose.cells/datasorterkey)
+* classe [`SortOrder`](/cells/python-net/it/aspose.cells/sortorder)

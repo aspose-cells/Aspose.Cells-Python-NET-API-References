@@ -1,6 +1,6 @@
 ---
 title: bottom_margin_pt proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -21,5 +21,5 @@ def bottom_margin_pt(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [MsoTextFrame](/cells/python-net/it/aspose.cells.drawing/msotextframe)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`MsoTextFrame`](/cells/python-net/it/aspose.cells.drawing/msotextframe)

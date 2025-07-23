@@ -1,49 +1,49 @@
 ---
-title: GradientPresetType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione GradientPresetType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 880
+weight: 870
 url: /it/aspose.cells.drawing/gradientpresettype/
 is_root: false
 ---
-##  GradientPresetType enumerazione
-Rappresenta il tipo di colore predefinito sfumatura.
+##  Enumerazione GradientPresetType
+Rappresenta il tipo di colore preimpostato del gradiente.
 
 
 
-Il tipo GradientPresetType espone i membri seguenti:
+Il tipo GradientPresetType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
 | BRASS | Colore preimpostato in ottone|
 | CALM_WATER | Colore preimpostato Acqua calma|
-| CHROME | Colore preimpostato per Chrome|
+| CHROME | Colore preimpostato Chrome|
 | CHROME_II | Colore preimpostato Chrome II|
-| DAYBREAK | Colore predefinito dell'alba|
-| DESERT | Colore predefinito del deserto|
-| EARLY_SUNSET | Colore preimpostato Early Sunset|
-| FIRE | Fuoco colore preimpostato|
+| DAYBREAK | Colore preimpostato dell'alba|
+| DESERT | Colore preimpostato del deserto|
+| EARLY_SUNSET | Colore preimpostato Tramonto anticipato|
+| FIRE | Colore preimpostato del fuoco|
 | FOG | Colore preimpostato della nebbia|
-| GOLD | Colore predefinito oro|
+| GOLD | Colore preimpostato oro|
 | GOLD_II | Colore preimpostato Oro II|
 | HORIZON | Colore preimpostato dell'orizzonte|
-| LATE_SUNSET | Colore predefinito Tardo tramonto|
-| MAHOGANY | Colore predefinito mogano|
-| MOSS | Colore predefinito del muschio|
-| NIGHTFALL |Colore predefinito Cala la notte|
+| LATE_SUNSET | Colore preimpostato Tramonto tardivo|
+| MAHOGANY | Colore preimpostato mogano|
+| MOSS | Colore preimpostato del muschio|
+| NIGHTFALL | Colore preimpostato per il tramonto|
 | OCEAN | Colore predefinito dell'oceano|
-| PARCHMENT | Colore predefinito pergamena|
+| PARCHMENT | Colore preimpostato pergamena|
 | PEACOCK | Colore predefinito pavone|
-| RAINBOW | Colore predefinito arcobaleno|
-| RAINBOW_II | Colore predefinito Rainbow II|
-| SAPPHIRE | Colore preimpostato Zaffiro|
-| SILVER | Colore predefinito argento|
-| WHEAT | Colore predefinito del grano|
-| UNKNOWN | Colore predefinito sconosciuto.<br/> Solo per il colore predefinito (che non è uguale a nessun colore predefinito noto) nella cartella di lavoro del modello.|
+| RAINBOW | Colore preimpostato arcobaleno|
+| RAINBOW_II | Colore preimpostato Rainbow II|
+| SAPPHIRE | Colore preimpostato zaffiro|
+| SILVER | Colore preimpostato argento|
+| WHEAT | Colore preimpostato del grano|
+| UNKNOWN | Colore preimpostato sconosciuto.<br/>Solo per il colore preimpostato (che non è uguale a nessun colore preimpostato noto) nella cartella di lavoro del modello.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](..)
+* modulo [`aspose.cells.drawing`](..)

@@ -1,6 +1,6 @@
 ---
 title: instructions proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  instructions proprietà
 
-Ottiene e imposta il testo mostrato all'utente al momento della firma.
+Ottiene o imposta il testo mostrato all'utente al momento della firma.
 
 ###  Esempio
 
@@ -32,5 +32,5 @@ def instructions(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [SignatureLine](/cells/python-net/it/aspose.cells.drawing/signatureline)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`SignatureLine`](/cells/python-net/it/aspose.cells.drawing/signatureline)

@@ -1,18 +1,19 @@
 ---
 title: remove_area метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
 url: /ru/aspose.cells/conditionalformattingcollection/remove_area/
 is_root: false
 ---
-##  remove_area(start_row, start_column, total_rows, total_columns) {#int-int-int-int}
-Удалите все условное форматирование в диапазоне.
+##  remove_area(self, start_row, start_column, total_rows, total_columns) {#int-int-int-int}
+Удалить все условное форматирование в диапазоне.
 
 
 
 ```python
+
 def remove_area(self, start_row, start_column, total_rows, total_columns):
     ...
 ```
@@ -28,5 +29,5 @@ def remove_area(self, start_row, start_column, total_rows, total_columns):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ConditionalFormattingCollection](/cells/python-net/ru/aspose.cells/conditionalformattingcollection)
+* модуль [`aspose.cells`](../../)
+* класс [`ConditionalFormattingCollection`](/cells/python-net/ru/aspose.cells/conditionalformattingcollection)

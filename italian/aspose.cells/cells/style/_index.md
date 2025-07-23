@@ -1,9 +1,9 @@
 ---
 title: style proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1300
+weight: 1330
 url: /it/aspose.cells/cells/style/
 is_root: false
 ---

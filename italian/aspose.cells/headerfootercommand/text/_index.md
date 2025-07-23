@@ -1,6 +1,6 @@
 ---
 title: text proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text proprietà
 
-Ottiene il numero text del comando.
+Ottiene il text del comando.
 
 ###  Osservazioni
 
@@ -22,5 +22,5 @@ def text(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [HeaderFooterCommand](/cells/python-net/it/aspose.cells/headerfootercommand)
+* modulo [`aspose.cells`](../../)
+* classe [`HeaderFooterCommand`](/cells/python-net/it/aspose.cells/headerfootercommand)

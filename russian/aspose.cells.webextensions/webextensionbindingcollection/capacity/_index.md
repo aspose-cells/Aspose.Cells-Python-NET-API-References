@@ -1,6 +1,6 @@
 ---
 title: capacity недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.webextensions](../../)
-* класс [WebExtensionBindingCollection](/cells/python-net/ru/aspose.cells.webextensions/webextensionbindingcollection)
+* модуль [`aspose.cells.webextensions`](../../)
+* класс [`WebExtensionBindingCollection`](/cells/python-net/ru/aspose.cells.webextensions/webextensionbindingcollection)

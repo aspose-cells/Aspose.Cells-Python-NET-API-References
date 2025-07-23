@@ -1,6 +1,6 @@
 ---
 title: second_plot_size proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 380
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  second_plot_size proprietà
 
- Restituisce o imposta la dimensione della sezione secondaria di un grafico a torta o a barre di un grafico a torta,
+ Restituisce o imposta la dimensione della sezione secondaria di un grafico a torta o di un grafico a barre,
 come percentuale della dimensione della torta primaria.
 Può essere un valore compreso tra 5 e 200.
 ###  Definizione:
@@ -23,5 +23,5 @@ def second_plot_size(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Series](/cells/python-net/it/aspose.cells.charts/series)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Series`](/cells/python-net/it/aspose.cells.charts/series)

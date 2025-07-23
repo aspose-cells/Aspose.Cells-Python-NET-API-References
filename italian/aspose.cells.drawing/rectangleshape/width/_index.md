@@ -1,15 +1,15 @@
 ---
 title: width proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1160
+weight: 1170
 url: /it/aspose.cells.drawing/rectangleshape/width/
 is_root: false
 ---
 ##  width proprietà
 
-Rappresenta lo width della forma, in unità di pixel.
+Rappresenta la forma width, in unità di pixel.
 
 ###  Esempio
 

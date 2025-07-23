@@ -1,6 +1,6 @@
 ---
 title: is_locked недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 130
@@ -29,5 +29,5 @@ def is_locked(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.slicers](../../)
-* класс [Slicer](/cells/python-net/ru/aspose.cells.slicers/slicer)
+* модуль [`aspose.cells.slicers`](../../)
+* класс [`Slicer`](/cells/python-net/ru/aspose.cells.slicers/slicer)

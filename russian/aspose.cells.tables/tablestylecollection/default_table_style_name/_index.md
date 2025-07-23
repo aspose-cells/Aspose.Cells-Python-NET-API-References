@@ -1,15 +1,15 @@
 ---
 title: default_table_style_name недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 120
+weight: 130
 url: /ru/aspose.cells.tables/tablestylecollection/default_table_style_name/
 is_root: false
 ---
 ##  default_table_style_name недвижимость
 
-Получает и задает имя стиля таблицы по умолчанию.
+Получает и задает имя стиля по умолчанию для таблицы.
 ###  Определение:
 ```python
 @property

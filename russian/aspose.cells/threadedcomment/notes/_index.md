@@ -1,6 +1,6 @@
 ---
 title: notes недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -21,5 +21,5 @@ def notes(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ThreadedComment](/cells/python-net/ru/aspose.cells/threadedcomment)
+* модуль [`aspose.cells`](../../)
+* класс [`ThreadedComment`](/cells/python-net/ru/aspose.cells/threadedcomment)

@@ -1,9 +1,9 @@
 ---
 title: query_tables proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 730
+weight: 760
 url: /it/aspose.cells/worksheet/query_tables/
 is_root: false
 ---

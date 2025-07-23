@@ -1,15 +1,15 @@
 ---
 title: is_visible недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 250
+weight: 310
 url: /ru/aspose.cells.charts/title/is_visible/
 is_root: false
 ---
 ##  is_visible недвижимость
 
-Указывает, виден ли заголовок.
+Показывает, видно ли название.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Title](/cells/python-net/ru/aspose.cells.charts/title)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Title`](/cells/python-net/ru/aspose.cells.charts/title)

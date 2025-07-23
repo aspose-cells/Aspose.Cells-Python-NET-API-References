@@ -1,18 +1,19 @@
 ---
 title: OdsPageBackground costruttore
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 10
 url: /it/aspose.cells.ods/odspagebackground/__init__/
 is_root: false
 ---
-##  OdsPageBackground() {#}
+##  \_\_init\_\_(self){#}
 Costruisce una nuova istanza di OdsPageBackground
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Guarda anche
-* modulo [aspose.cells.ods](../../)
-* classe [OdsPageBackground](/cells/python-net/it/aspose.cells.ods/odspagebackground)
+* modulo [`aspose.cells.ods`](../../)
+* classe [`OdsPageBackground`](/cells/python-net/it/aspose.cells.ods/odspagebackground)

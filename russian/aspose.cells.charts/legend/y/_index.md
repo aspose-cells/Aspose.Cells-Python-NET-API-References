@@ -1,20 +1,20 @@
 ---
 title: y недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 430
+weight: 530
 url: /ru/aspose.cells.charts/legend/y/
 is_root: false
 ---
 ##  y недвижимость
 
-Получает или задает координату y верхнего левого угла в единицах 1/4000 области диаграммы.
+Возвращает или задает координату y верхнего левого угла в единицах 1/4000 области диаграммы.
 
 ###  Примечания
 
- Как преобразовать единицы 1/4000 в пиксели?
-Y в пикселях = Y * Chart.ChartObject.Height/4000;
+ Как перевести единицы измерения 1/4000 в пиксели?
+Y в пикселях = Y * Chart.ChartObject.Height / 4000d;
 ###  Определение:
 ```python
 @property

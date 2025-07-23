@@ -1,15 +1,15 @@
 ---
 title: bottom proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 320
+weight: 330
 url: /it/aspose.cells.drawing/textbox/bottom/
 is_root: false
 ---
 ##  bottom proprietà
 
-Rappresenta la larghezza dell'offset verticale della forma dalla riga dell'angolo inferiore bottom, in unità di pixel.
+Rappresenta la larghezza dello scostamento verticale della forma dalla riga dell'angolo inferiore bottom, in pixel.
 
 ###  Esempio
 

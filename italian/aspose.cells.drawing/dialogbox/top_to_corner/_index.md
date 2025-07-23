@@ -1,15 +1,15 @@
 ---
 title: top_to_corner proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1100
+weight: 1110
 url: /it/aspose.cells.drawing/dialogbox/top_to_corner/
 is_root: false
 ---
 ##  top_to_corner proprietà
 
-Ottiene e imposta l'offset verticale della forma dal bordo superiore del foglio di lavoro, in unità di pixel.
+Ottiene e imposta lo scostamento verticale della forma dal bordo superiore del foglio di lavoro, in pixel.
 
 ###  Esempio
 

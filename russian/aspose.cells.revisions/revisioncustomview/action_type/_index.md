@@ -1,6 +1,6 @@
 ---
 title: action_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -18,6 +18,6 @@ def action_type(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.revisions](../../)
-* класс [RevisionActionType](/cells/python-net/ru/aspose.cells.revisions/revisionactiontype)
-* класс [RevisionCustomView](/cells/python-net/ru/aspose.cells.revisions/revisioncustomview)
+* модуль [`aspose.cells.revisions`](../../)
+* класс [`RevisionActionType`](/cells/python-net/ru/aspose.cells.revisions/revisionactiontype)
+* класс [`RevisionCustomView`](/cells/python-net/ru/aspose.cells.revisions/revisioncustomview)

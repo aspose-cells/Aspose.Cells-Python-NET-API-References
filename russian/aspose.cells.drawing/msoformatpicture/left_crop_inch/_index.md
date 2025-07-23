@@ -1,6 +1,6 @@
 ---
 title: left_crop_inch недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 110
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  left_crop_inch недвижимость
 
-Представляет расположение левой части прямоугольника обрезки, выраженное в дюймах.
+Представляет местоположение левой части прямоугольника обрезки, выраженное в дюймах.
 ###  Определение:
 ```python
 @property

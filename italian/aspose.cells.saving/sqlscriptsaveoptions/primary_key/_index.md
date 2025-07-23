@@ -1,9 +1,9 @@
 ---
 title: primary_key proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 170
+weight: 190
 url: /it/aspose.cells.saving/sqlscriptsaveoptions/primary_key/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def primary_key(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.saving](../../)
-* classe [SqlScriptSaveOptions](/cells/python-net/it/aspose.cells.saving/sqlscriptsaveoptions)
+* modulo [`aspose.cells.saving`](../../)
+* classe [`SqlScriptSaveOptions`](/cells/python-net/it/aspose.cells.saving/sqlscriptsaveoptions)

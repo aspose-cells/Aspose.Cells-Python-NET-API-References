@@ -1,6 +1,6 @@
 ---
 title: folder_path недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -18,5 +18,5 @@ def folder_path(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [FolderFontSource](/cells/python-net/ru/aspose.cells/folderfontsource)
+* модуль [`aspose.cells`](../../)
+* класс [`FolderFontSource`](/cells/python-net/ru/aspose.cells/folderfontsource)

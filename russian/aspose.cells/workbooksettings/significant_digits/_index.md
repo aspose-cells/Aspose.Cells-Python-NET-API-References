@@ -1,9 +1,9 @@
 ---
 title: significant_digits недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 470
+weight: 500
 url: /ru/aspose.cells/workbooksettings/significant_digits/
 is_root: false
 ---
@@ -14,7 +14,7 @@ is_root: false
 
 ###  Примечания
 
-Только сейчас может быть 15 или 17.
+Сейчас ему может быть только 15 или 17 лет.
 ###  Определение:
 ```python
 @property

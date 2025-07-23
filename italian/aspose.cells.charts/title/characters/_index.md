@@ -1,14 +1,14 @@
 ---
-title: metodo characters
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo characters
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells.charts/title/characters/
 is_root: false
 ---
-##  characters() {#}
-Ottiene la formattazione rich text di questo titolo.
+##  characters(self) {#}
+Ottiene la formattazione RTF di questo titolo.
 
 
 ###  ritorna
@@ -17,6 +17,7 @@ restituisce l'array FontSetting
 
 
 ```python
+
 def characters(self):
     ...
 ```
@@ -24,16 +25,17 @@ def characters(self):
 
 
 
-##  characters(start_index, length) {#int-int}
+##  characters(self, start_index, length) {#int-int}
 Restituisce un oggetto Characters che rappresenta un intervallo di characters all'interno del testo.
 
 
 ###  ritorna
 
-Oggetto Personaggi.
+I personaggi si oppongono.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -47,5 +49,5 @@ def characters(self, start_index, length):
 
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Title](/cells/python-net/it/aspose.cells.charts/title)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Title`](/cells/python-net/it/aspose.cells.charts/title)

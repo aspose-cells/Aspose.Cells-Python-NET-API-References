@@ -1,6 +1,6 @@
 ---
 title: check_compatibility недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  check_compatibility недвижимость
 
-Указывает, нужно ли проверять совместимость с более ранними версиями при сохранении книги.
+Указывает, следует ли проверять совместимость с более ранними версиями при сохранении книги.
 
 ###  Примечания
 
-Значение по умолчанию верно.
+Значение по умолчанию — true.
 Только для файлов Excel97-2003 xls или xlt.
 ###  Определение:
 ```python

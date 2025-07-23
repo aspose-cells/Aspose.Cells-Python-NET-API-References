@@ -1,6 +1,6 @@
 ---
 title: rotation_angle proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 450
@@ -13,13 +13,13 @@ Rappresenta l'angolo di rotazione del testo.
 
 ###  Osservazioni
 
-0: non ruotato.
+0: Non ruotato.
 
 
-255: Dall'alto al basso.
+255: Dall'alto verso il basso.
 
 
--90: verso il basso.
+-90: Verso il basso.
 
 
 90: Verso l'alto.

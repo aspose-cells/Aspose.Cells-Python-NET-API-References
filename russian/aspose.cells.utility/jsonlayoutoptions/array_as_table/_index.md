@@ -1,6 +1,6 @@
 ---
 title: array_as_table недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  array_as_table недвижимость
 
-Массив процессов в виде таблицы.
+Обрабатывает массив как таблицу.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def array_as_table(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.utility](../../)
-* класс [JsonLayoutOptions](/cells/python-net/ru/aspose.cells.utility/jsonlayoutoptions)
+* модуль [`aspose.cells.utility`](../../)
+* класс [`JsonLayoutOptions`](/cells/python-net/ru/aspose.cells.utility/jsonlayoutoptions)

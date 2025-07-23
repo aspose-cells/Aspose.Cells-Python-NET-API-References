@@ -1,15 +1,19 @@
 ---
 title: memory_setting недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 290
+weight: 270
 url: /ru/aspose.cells/ebookloadoptions/memory_setting/
 is_root: false
 ---
 ##  memory_setting недвижимость
 
-Получает или задает параметры использования памяти.
+Возвращает или задает режим памяти для загруженной книги.
+
+###  Примечания
+
+Более подробную информацию о режиме памяти см. [`Cells.memory_setting`](/cells/python-net/ru/aspose.cells/cells#memory_setting).
 ###  Определение:
 ```python
 @property

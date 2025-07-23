@@ -1,19 +1,19 @@
 ---
 title: max_column proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 300
+weight: 330
 url: /it/aspose.cells/workbooksettings/max_column/
 is_root: false
 ---
 ##  max_column proprietà
 
-Ottiene l'indice massimo della colonna, in base zero.
+Ottiene l'indice massimo della colonna, a partire da zero.
 
 ###  Osservazioni
 
-Restituisce 255 se il formato file è Excel97-2003;
+Restituisce 255 se il formato del file è Excel97-2003;
 ###  Definizione:
 ```python
 @property

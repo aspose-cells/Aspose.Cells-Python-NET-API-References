@@ -1,6 +1,6 @@
 ---
 title: formatting_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 130
@@ -21,6 +21,6 @@ def formatting_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ChartLineFormattingType](/cells/python-net/ru/aspose.cells.charts/chartlineformattingtype)
-* класс [Line](/cells/python-net/ru/aspose.cells.drawing/line)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ChartLineFormattingType`](/cells/python-net/ru/aspose.cells.charts/chartlineformattingtype)
+* класс [`Line`](/cells/python-net/ru/aspose.cells.drawing/line)

@@ -1,18 +1,19 @@
 ---
-title: metodo to_pdf
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo to_pdf
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 130
+weight: 150
 url: /it/aspose.cells.charts/chart/to_pdf/
 is_root: false
 ---
-##  to_pdf(file_name) {#str}
-Salva il grafico in un file pdf.
+##  to_pdf(self, file_name) {#str}
+Salva il grafico in un file PDF.
 
 
 
 ```python
+
 def to_pdf(self, file_name):
     ...
 ```
@@ -23,12 +24,13 @@ def to_pdf(self, file_name):
 | file_name | str | il nome del file pdf con il percorso completo|
 
 
-##  to_pdf(stream) {#io.RawIOBase}
-Crea il grafico pdf e lo salva in un flusso.
+##  to_pdf(self, stream) {#io.RawIOBase}
+Crea il grafico in formato PDF e lo salva in un flusso.
 
 
 
 ```python
+
 def to_pdf(self, stream):
     ...
 ```
@@ -36,15 +38,16 @@ def to_pdf(self, stream):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| stream | io.RawIOBase | Il flusso di uscita.|
+| stream | io.RawIOBase | Il flusso di output.|
 
 
-##  to_pdf(file_name, desired_page_width, desired_page_height, h_alignment_type, v_alignment_type) {#str-float-float-PageLayoutAlignmentType-PageLayoutAlignmentType}
-Salva il grafico in un file pdf.
+##  to_pdf(self, file_name, desired_page_width, desired_page_height, h_alignment_type, v_alignment_type) {#str-float-float-aspose.cells.PageLayoutAlignmentType-aspose.cells.PageLayoutAlignmentType}
+Salva il grafico in un file PDF.
 
 
 
 ```python
+
 def to_pdf(self, file_name, desired_page_width, desired_page_height, h_alignment_type, v_alignment_type):
     ...
 ```
@@ -53,18 +56,19 @@ def to_pdf(self, file_name, desired_page_width, desired_page_height, h_alignment
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
 | file_name | str | il nome del file pdf con il percorso completo|
-| desired_page_width | float | La larghezza della pagina desiderata in pollici.|
-| desired_page_height | float | L'altezza della pagina desiderata in pollici.|
-| h_alignment_type | [PageLayoutAlignmentType](/cells/python-net/it/aspose.cells/pagelayoutalignmenttype) | Il tipo di allineamento orizzontale del grafico nella pagina di output.|
-| v_alignment_type | [PageLayoutAlignmentType](/cells/python-net/it/aspose.cells/pagelayoutalignmenttype) | Il tipo di allineamento verticale del grafico nella pagina di output.|
+| desired_page_width | float | Larghezza della pagina desiderata in pollici.|
+| desired_page_height | float | Altezza della pagina desiderata in pollici.|
+| h_alignment_type | [`PageLayoutAlignmentType`](/cells/python-net/it/aspose.cells/pagelayoutalignmenttype) | Tipo di allineamento orizzontale del grafico nella pagina di output.|
+| v_alignment_type | [`PageLayoutAlignmentType`](/cells/python-net/it/aspose.cells/pagelayoutalignmenttype) | Tipo di allineamento verticale del grafico nella pagina di output.|
 
 
-##  to_pdf(stream, desired_page_width, desired_page_height, h_alignment_type, v_alignment_type) {#io.RawIOBase-float-float-PageLayoutAlignmentType-PageLayoutAlignmentType}
-Crea il grafico pdf e lo salva in un flusso.
+##  to_pdf(self, stream, desired_page_width, desired_page_height, h_alignment_type, v_alignment_type) {#io.RawIOBase-float-float-aspose.cells.PageLayoutAlignmentType-aspose.cells.PageLayoutAlignmentType}
+Crea il grafico in formato PDF e lo salva in un flusso.
 
 
 
 ```python
+
 def to_pdf(self, stream, desired_page_width, desired_page_height, h_alignment_type, v_alignment_type):
     ...
 ```
@@ -72,14 +76,14 @@ def to_pdf(self, stream, desired_page_width, desired_page_height, h_alignment_ty
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| stream | io.RawIOBase | Il flusso di uscita.|
-| desired_page_width | float | La larghezza della pagina desiderata in pollici.|
-| desired_page_height | float | L'altezza della pagina desiderata in pollici.|
-| h_alignment_type | [PageLayoutAlignmentType](/cells/python-net/it/aspose.cells/pagelayoutalignmenttype) | Il tipo di allineamento orizzontale del grafico nella pagina di output.|
-| v_alignment_type | [PageLayoutAlignmentType](/cells/python-net/it/aspose.cells/pagelayoutalignmenttype) | Il tipo di allineamento verticale del grafico nella pagina di output.|
+| stream | io.RawIOBase | Il flusso di output.|
+| desired_page_width | float | Larghezza della pagina desiderata in pollici.|
+| desired_page_height | float | Altezza della pagina desiderata in pollici.|
+| h_alignment_type | [`PageLayoutAlignmentType`](/cells/python-net/it/aspose.cells/pagelayoutalignmenttype) | Tipo di allineamento orizzontale del grafico nella pagina di output.|
+| v_alignment_type | [`PageLayoutAlignmentType`](/cells/python-net/it/aspose.cells/pagelayoutalignmenttype) | Tipo di allineamento verticale del grafico nella pagina di output.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Chart](/cells/python-net/it/aspose.cells.charts/chart)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Chart`](/cells/python-net/it/aspose.cells.charts/chart)

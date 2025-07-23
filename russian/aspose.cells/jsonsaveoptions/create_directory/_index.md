@@ -1,19 +1,19 @@
 ---
 title: create_directory недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 60
+weight: 70
 url: /ru/aspose.cells/jsonsaveoptions/create_directory/
 is_root: false
 ---
 ##  create_directory недвижимость
 
-Если true и каталог не существует, каталог будет автоматически создан перед сохранением файла.
+Если значение true и каталог не существует, каталог будет автоматически создан перед сохранением файла.
 
 ###  Примечания
 
-Значение по умолчанию неверно.
+Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property
@@ -25,5 +25,5 @@ def create_directory(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [JsonSaveOptions](/cells/python-net/ru/aspose.cells/jsonsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`JsonSaveOptions`](/cells/python-net/ru/aspose.cells/jsonsaveoptions)

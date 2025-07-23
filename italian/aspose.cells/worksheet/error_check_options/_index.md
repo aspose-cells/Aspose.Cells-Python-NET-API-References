@@ -1,15 +1,15 @@
 ---
 title: error_check_options proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 490
+weight: 510
 url: /it/aspose.cells/worksheet/error_check_options/
 is_root: false
 ---
 ##  error_check_options proprietà
 
-Ottiene l'impostazione del controllo degli errori applicata su determinati intervalli.
+Ottiene l'impostazione di controllo degli errori applicata a determinati intervalli.
 ###  Definizione:
 ```python
 @property

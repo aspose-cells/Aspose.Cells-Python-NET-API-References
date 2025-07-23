@@ -1,6 +1,6 @@
 ---
 title: check_data_valid недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  check_data_valid недвижимость
 
-Проверьте, действительны ли данные в файле шаблона.
+Проверьте корректность данных в файле шаблона.
 ###  Определение:
 ```python
 @property

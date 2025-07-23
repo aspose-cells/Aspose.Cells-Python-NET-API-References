@@ -1,6 +1,6 @@
 ---
 title: drop_lines недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 140
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  drop_lines недвижимость
 
-Возвращает объект [`Line`](/cells/python-net/ru/aspose.cells.drawing/line), который представляет линии сброса для ряда на линейной диаграмме или диаграмме с областями.
-Применяется только к линейной диаграмме или диаграмме с областями.
+Возвращает объект [`Line`](/cells/python-net/ru/aspose.cells.drawing/line), представляющий линии отсчета для ряда на линейной диаграмме или диаграмме с областями.
+Применимо только к линейным диаграммам или диаграммам с областями.
 ###  Определение:
 ```python
 @property

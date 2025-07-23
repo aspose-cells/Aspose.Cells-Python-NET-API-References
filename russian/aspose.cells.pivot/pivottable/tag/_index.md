@@ -1,9 +1,9 @@
 ---
 title: tag недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1030
+weight: 1180
 url: /ru/aspose.cells.pivot/pivottable/tag/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def tag(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotTable](/cells/python-net/ru/aspose.cells.pivot/pivottable)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotTable`](/cells/python-net/ru/aspose.cells.pivot/pivottable)

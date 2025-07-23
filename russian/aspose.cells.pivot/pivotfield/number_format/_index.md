@@ -1,15 +1,15 @@
 ---
 title: number_format недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 510
+weight: 600
 url: /ru/aspose.cells.pivot/pivotfield/number_format/
 is_root: false
 ---
 ##  number_format недвижимость
 
-Представляет пользовательский формат отображения чисел и дат.
+Представляет собой пользовательский формат отображения чисел и дат.
 ###  Определение:
 ```python
 @property

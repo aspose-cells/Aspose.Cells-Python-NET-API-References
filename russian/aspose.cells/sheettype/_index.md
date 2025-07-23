@@ -1,9 +1,9 @@
 ---
 title: SheetType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2550
+weight: 2520
 url: /ru/aspose.cells/sheettype/
 is_root: false
 ---
@@ -21,9 +21,9 @@ is_root: false
 | WORKSHEET |  |
 | CHART | Диаграмма|
 | BIFF4_MACRO | Лист макросов BIFF4|
-| INTERNATIONAL_MACRO | Международный лист макросов|
+| INTERNATIONAL_MACRO | Международный макролист|
 | OTHER |  |
-| DIALOG |Диалоговый лист|
+| DIALOG |Рабочий лист диалога|
 
 
 

@@ -1,15 +1,15 @@
 ---
 title: window_height недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 520
+weight: 530
 url: /ru/aspose.cells/workbooksettings/window_height/
 is_root: false
 ---
 ##  window_height недвижимость
 
-Высота окна в точках.
+Высота окна в пунктах.
 ###  Определение:
 ```python
 @property

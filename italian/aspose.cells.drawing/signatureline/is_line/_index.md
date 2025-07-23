@@ -1,6 +1,6 @@
 ---
 title: is_line proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_line proprietà
 
-Indica se si tratta di una riga della firma.
+Indica se si tratta di una riga di firma.
 
 ###  Esempio
 
@@ -30,5 +30,5 @@ def is_line(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [SignatureLine](/cells/python-net/it/aspose.cells.drawing/signatureline)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`SignatureLine`](/cells/python-net/it/aspose.cells.drawing/signatureline)

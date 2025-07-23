@@ -1,9 +1,9 @@
 ---
 title: ranges proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1220
+weight: 1250
 url: /it/aspose.cells/cells/ranges/
 is_root: false
 ---

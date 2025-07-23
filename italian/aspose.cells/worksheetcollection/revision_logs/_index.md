@@ -1,15 +1,15 @@
 ---
 title: revision_logs proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 340
+weight: 360
 url: /it/aspose.cells/worksheetcollection/revision_logs/
 is_root: false
 ---
 ##  revision_logs proprietà
 
-Rappresenta i log di revisione.
+Rappresenta i registri di revisione.
 ###  Definizione:
 ```python
 @property

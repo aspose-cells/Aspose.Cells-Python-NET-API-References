@@ -1,15 +1,15 @@
 ---
 title: upper_left_column недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1200
+weight: 1210
 url: /ru/aspose.cells.drawing/arcshape/upper_left_column/
 is_root: false
 ---
 ##  upper_left_column недвижимость
 
-Представляет индекс столбца в верхнем левом углу.
+Представляет индекс столбца в левом верхнем углу.
 
 ###  Пример
 

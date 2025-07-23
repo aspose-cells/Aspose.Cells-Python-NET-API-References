@@ -1,18 +1,18 @@
 ---
-title: classe WebExtensionProperty
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: WebExtensionProperty classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
 url: /it/aspose.cells.webextensions/webextensionproperty/
 is_root: false
 ---
-##  classe WebExtensionProperty
-Rappresenta una proprietà personalizzata del componente aggiuntivo per Office.
+##  WebExtensionProperty classe
+Rappresenta una proprietà personalizzata del componente aggiuntivo di Office.
 
 
 
-Il tipo WebExtensionProperty espone i membri seguenti:
+Il tipo WebExtensionProperty espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
@@ -23,4 +23,4 @@ Il tipo WebExtensionProperty espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.webextensions](..)
+* modulo [`aspose.cells.webextensions`](..)

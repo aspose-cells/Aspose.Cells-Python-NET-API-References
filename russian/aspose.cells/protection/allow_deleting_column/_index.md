@@ -1,6 +1,6 @@
 ---
 title: allow_deleting_column недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Столбцы, содержащие удаляемые ячейки, должны быть разблокированы, когда лист защищен,
+Столбцы, содержащие ячейки, которые нужно удалить, должны быть разблокированы, если лист защищен.
 и опция «Выбрать разблокированные ячейки» должна быть включена.
 ###  Определение:
 ```python
@@ -26,5 +26,5 @@ def allow_deleting_column(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Protection](/cells/python-net/ru/aspose.cells/protection)
+* модуль [`aspose.cells`](../../)
+* класс [`Protection`](/cells/python-net/ru/aspose.cells/protection)

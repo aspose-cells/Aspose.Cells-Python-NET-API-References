@@ -1,6 +1,6 @@
 ---
 title: id недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -21,5 +21,5 @@ def id(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.webextensions](../../)
-* класс [WebExtensionBinding](/cells/python-net/ru/aspose.cells.webextensions/webextensionbinding)
+* модуль [`aspose.cells.webextensions`](../../)
+* класс [`WebExtensionBinding`](/cells/python-net/ru/aspose.cells.webextensions/webextensionbinding)

@@ -1,6 +1,6 @@
 ---
 title: font_data proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_data proprietà
 
-Dati binari dei caratteri.
+Dati binari dei font.
 ###  Definizione:
 ```python
 @property
@@ -18,5 +18,5 @@ def font_data(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [MemoryFontSource](/cells/python-net/it/aspose.cells/memoryfontsource)
+* modulo [`aspose.cells`](../../)
+* classe [`MemoryFontSource`](/cells/python-net/it/aspose.cells/memoryfontsource)

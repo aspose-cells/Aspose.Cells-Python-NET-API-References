@@ -1,15 +1,15 @@
 ---
 title: enable_field_dialog недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 490
+weight: 590
 url: /ru/aspose.cells.pivot/pivottable/enable_field_dialog/
 is_root: false
 ---
 ##  enable_field_dialog недвижимость
 
-Указывает, доступно ли диалоговое окно поля сводной таблицы.
+Указывает, доступно ли диалоговое окно «Поле сводной таблицы»
 когда пользователь дважды щелкает поле сводной таблицы.
 ###  Определение:
 ```python
@@ -22,5 +22,5 @@ def enable_field_dialog(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotTable](/cells/python-net/ru/aspose.cells.pivot/pivottable)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotTable`](/cells/python-net/ru/aspose.cells.pivot/pivottable)

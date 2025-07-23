@@ -1,6 +1,6 @@
 ---
 title: name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name proprietà
 
-Restituisce o imposta lo name della linea temporale specificata
+Restituisce o imposta il name della linea temporale specificata
 
 ###  Esempio
 
@@ -30,5 +30,5 @@ def name(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.timelines](../../)
-* classe [Timeline](/cells/python-net/it/aspose.cells.timelines/timeline)
+* modulo [`aspose.cells.timelines`](../../)
+* classe [`Timeline`](/cells/python-net/it/aspose.cells.timelines/timeline)

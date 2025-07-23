@@ -1,6 +1,6 @@
 ---
 title: tab_position proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -21,5 +21,5 @@ def tab_position(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](../../)
-* classe [TextTabStop](/cells/python-net/it/aspose.cells.drawing.texts/texttabstop)
+* modulo [`aspose.cells.drawing.texts`](../../)
+* classe [`TextTabStop`](/cells/python-net/it/aspose.cells.drawing.texts/texttabstop)

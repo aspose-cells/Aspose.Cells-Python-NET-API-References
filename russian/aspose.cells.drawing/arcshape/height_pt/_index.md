@@ -1,9 +1,9 @@
 ---
 title: height_pt недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 530
+weight: 520
 url: /ru/aspose.cells.drawing/arcshape/height_pt/
 is_root: false
 ---

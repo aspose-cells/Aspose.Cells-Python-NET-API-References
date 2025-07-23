@@ -1,6 +1,6 @@
 ---
 title: font_color недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 120
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_color недвижимость
 
-Будет применена настройка цвета шрифта.
+Будут применены настройки цвета шрифта.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_color(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [StyleFlag](/cells/python-net/ru/aspose.cells/styleflag)
+* модуль [`aspose.cells`](../../)
+* класс [`StyleFlag`](/cells/python-net/ru/aspose.cells/styleflag)

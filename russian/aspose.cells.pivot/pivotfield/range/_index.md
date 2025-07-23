@@ -1,22 +1,22 @@
 ---
 title: range недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 550
+weight: 640
 url: /ru/aspose.cells.pivot/pivotfield/range/
 is_root: false
 ---
 ##  range недвижимость
 
-Получает группу range сводного поля.
+Получает группу range опорного поля
 
 ###  Примечания
 
- ПРИМЕЧАНИЕ. Этот метод устарел. Вместо,
+ ПРИМЕЧАНИЕ: Этот метод уже устарел. Вместо этого
 используйте свойство PivotField.GroupSettings.
  Этот метод будет удален через 12 месяцев, с октября 2023 года.
-Aspose приносит извинения за возможные неудобства.
+Aspose приносит извинения за любые причиненные вам неудобства.
 ###  Определение:
 ```python
 @property

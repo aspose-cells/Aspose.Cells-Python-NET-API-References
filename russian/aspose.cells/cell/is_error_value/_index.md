@@ -1,19 +1,19 @@
 ---
 title: is_error_value недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 570
+weight: 600
 url: /ru/aspose.cells/cell/is_error_value/
 is_root: false
 ---
 ##  is_error_value недвижимость
 
-Проверяет, является ли значение этой ячейки ошибкой.
+Проверяет, является ли значение данной ячейки ошибкой.
 
 ###  Примечания
 
-Также применяется к ячейке формулы, чтобы проверить, является ли вычисленный результат ошибкой.
+Также применяется к ячейке формулы для проверки того, является ли вычисленный результат ошибкой.
 ###  Определение:
 ```python
 @property

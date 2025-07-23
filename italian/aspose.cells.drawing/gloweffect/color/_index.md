@@ -1,6 +1,6 @@
 ---
 title: color proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color proprietà
 
-Ottiene lo color dell'effetto bagliore.
+Ottiene l'effetto bagliore color.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def color(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [CellsColor](/cells/python-net/it/aspose.cells/cellscolor)
-* classe [GlowEffect](/cells/python-net/it/aspose.cells.drawing/gloweffect)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`CellsColor`](/cells/python-net/it/aspose.cells/cellscolor)
+* classe [`GlowEffect`](/cells/python-net/it/aspose.cells.drawing/gloweffect)

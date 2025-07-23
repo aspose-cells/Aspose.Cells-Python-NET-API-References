@@ -1,6 +1,6 @@
 ---
 title: row_height proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 220
@@ -15,7 +15,7 @@ Restituisce o imposta l'altezza, in punti, di ogni riga nell'affettatrice specif
 
 ```python
 
-slicer.row_height = 20
+slicer.row_height = 20.0
 
 ```
 ###  Definizione:
@@ -29,5 +29,5 @@ def row_height(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.slicers](../../)
-* classe [Slicer](/cells/python-net/it/aspose.cells.slicers/slicer)
+* modulo [`aspose.cells.slicers`](../../)
+* classe [`Slicer`](/cells/python-net/it/aspose.cells.slicers/slicer)

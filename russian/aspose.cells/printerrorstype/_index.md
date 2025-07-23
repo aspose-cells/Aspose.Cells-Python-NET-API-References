@@ -1,9 +1,9 @@
 ---
 title: PrintErrorsType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2470
+weight: 2440
 url: /ru/aspose.cells/printerrorstype/
 is_root: false
 ---
@@ -17,9 +17,9 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| PRINT_ERRORS_BLANK | Означает, что ошибки не следует печатать.|
+| PRINT_ERRORS_BLANK | Обозначает, что ошибки не следует печатать.|
 | PRINT_ERRORS_DASH | Обозначает ошибки печати как «--».|
-| PRINT_ERRORS_DISPLAYED | Обозначает ошибки печати, как они отображаются.|
+| PRINT_ERRORS_DISPLAYED | Представляет собой распечатку ошибок в том виде, в котором они отображаются.|
 | PRINT_ERRORS_NA | Обозначает ошибки печати как «#N/A».|
 
 

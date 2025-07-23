@@ -1,15 +1,15 @@
 ---
 title: formula_local proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 500
+weight: 510
 url: /it/aspose.cells/cell/formula_local/
 is_root: false
 ---
 ##  formula_local proprietà
 
-Ottieni la formula formattata in base alle impostazioni locali della cella.
+Ottieni la formula formattata localmente della cella.
 ###  Definizione:
 ```python
 @property

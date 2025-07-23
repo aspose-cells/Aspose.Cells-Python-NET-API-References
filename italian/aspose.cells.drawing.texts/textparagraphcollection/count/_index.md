@@ -1,15 +1,15 @@
 ---
 title: count proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 40
+weight: 30
 url: /it/aspose.cells.drawing.texts/textparagraphcollection/count/
 is_root: false
 ---
 ##  count proprietà
 
-Ottiene lo count dei paragrafi di testo.
+Ottiene count paragrafi di testo.
 ###  Definizione:
 ```python
 @property
@@ -18,5 +18,5 @@ def count(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](../../)
-* classe [TextParagraphCollection](/cells/python-net/it/aspose.cells.drawing.texts/textparagraphcollection)
+* modulo [`aspose.cells.drawing.texts`](../../)
+* classe [`TextParagraphCollection`](/cells/python-net/it/aspose.cells.drawing.texts/textparagraphcollection)

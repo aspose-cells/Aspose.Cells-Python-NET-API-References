@@ -1,6 +1,6 @@
 ---
 title: value недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -18,5 +18,5 @@ def value(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.slicers](../../)
-* класс [SlicerCacheItem](/cells/python-net/ru/aspose.cells.slicers/slicercacheitem)
+* модуль [`aspose.cells.slicers`](../../)
+* класс [`SlicerCacheItem`](/cells/python-net/ru/aspose.cells.slicers/slicercacheitem)

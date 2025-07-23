@@ -1,6 +1,6 @@
 ---
 title: value недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value недвижимость
 
-Получает или задает value этого руководства.
+Получает или задает value этого руководства
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ShapeGuide](/cells/python-net/ru/aspose.cells.drawing/shapeguide)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ShapeGuide`](/cells/python-net/ru/aspose.cells.drawing/shapeguide)

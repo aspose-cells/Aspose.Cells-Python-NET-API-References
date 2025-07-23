@@ -1,9 +1,9 @@
 ---
 title: PresetThemeGradientType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1090
+weight: 1080
 url: /ru/aspose.cells.drawing/presetthemegradienttype/
 is_root: false
 ---
@@ -12,13 +12,13 @@ is_root: false
 
 
 
-Тип PresetThemeGradientType предоставляет следующие члены:
+Тип PresetThemeGradientType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| LIGHT_GRADIENT | Светлый градиент|
-| TOP_SPOTLIGHT | Главный центр внимания|
+| LIGHT_GRADIENT | Градиент света|
+| TOP_SPOTLIGHT | В центре внимания|
 | MEDIUM_GRADIENT | Средний градиент|
 | BOTTOM_SPOTLIGHT | Нижний прожектор|
 | RADIAL_GRADIENT | Радиальный градиент|
@@ -26,4 +26,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
+* модуль [`aspose.cells.drawing`](..)

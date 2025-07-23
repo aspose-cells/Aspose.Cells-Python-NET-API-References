@@ -1,15 +1,15 @@
 ---
 title: ignore_hidden_rows недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 170
+weight: 210
 url: /ru/aspose.cells/pptxsaveoptions/ignore_hidden_rows/
 is_root: false
 ---
 ##  ignore_hidden_rows недвижимость
 
-Указывает, игнорируются ли скрытые строки при преобразовании Excel в PowerPoint.
+Указывает, следует ли игнорировать скрытые строки при преобразовании Excel в PowerPoint.
 ###  Определение:
 ```python
 @property

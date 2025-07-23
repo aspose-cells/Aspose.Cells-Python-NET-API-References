@@ -1,6 +1,6 @@
 ---
 title: is_area proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -13,7 +13,7 @@ Indica se si tratta di un'area.
 
 ###  Osservazioni
 
-Se questa non è un'area, solo l'effetto StartRow e StartColumn.
+Se questa non è un'area, avranno effetto solo StartRow e StartColumn.
 ###  Definizione:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_area(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ReferredArea](/cells/python-net/it/aspose.cells/referredarea)
+* modulo [`aspose.cells`](../../)
+* classe [`ReferredArea`](/cells/python-net/it/aspose.cells/referredarea)

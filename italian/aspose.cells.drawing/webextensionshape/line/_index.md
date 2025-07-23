@@ -1,9 +1,9 @@
 ---
 title: line proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 720
+weight: 730
 url: /it/aspose.cells.drawing/webextensionshape/line/
 is_root: false
 ---

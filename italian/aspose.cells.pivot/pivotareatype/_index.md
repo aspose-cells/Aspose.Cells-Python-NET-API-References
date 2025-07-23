@@ -1,9 +1,9 @@
 ---
 title: Enumerazione PivotAreaType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 230
+weight: 300
 url: /it/aspose.cells.pivot/pivotareatype/
 is_root: false
 ---
@@ -21,9 +21,9 @@ Il tipo PivotAreaType espone i seguenti membri:
 | NORMAL | Rappresenta un'intestazione o un elemento.|
 | DATA | Rappresenta qualcosa nell'area dati.|
 | ALL | Rappresenta l'intera tabella pivot.|
-| ORIGIN | Rappresenta le celle vuote nella parte superiore sinistra della tabella pivot (in alto a destra per i fogli RTL).|
-| BUTTON | Rappresenta un pulsante di campo.|
-| TOP_RIGHT | Rappresenta le celle vuote nell'angolo in alto a destra della tabella pivot (in alto a sinistra per i fogli da destra a sinistra).|
+| ORIGIN | Rappresenta le celle vuote in alto a sinistra della tabella pivot (in alto a destra per i fogli RTL).|
+| BUTTON |Rappresenta un pulsante di campo.|
+| TOP_RIGHT | Rappresenta le celle vuote in alto a destra della tabella pivot (in alto a sinistra per i fogli RTL).|
 
 
 

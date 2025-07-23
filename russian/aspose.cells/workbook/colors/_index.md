@@ -1,19 +1,19 @@
 ---
 title: colors недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 470
+weight: 490
 url: /ru/aspose.cells/workbook/colors/
 is_root: false
 ---
 ##  colors недвижимость
 
-Возвращает colors в палитре электронной таблицы.
+Возвращает colors в палитру электронной таблицы.
 
 ###  Примечания
 
-Палитра имеет 56 записей, каждая из которых представлена значением RGB.
+Палитра содержит 56 записей, каждая из которых представлена значением RGB.
 ###  Определение:
 ```python
 @property

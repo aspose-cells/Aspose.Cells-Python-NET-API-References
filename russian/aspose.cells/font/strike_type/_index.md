@@ -1,6 +1,6 @@
 ---
 title: strike_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 190
@@ -21,6 +21,6 @@ def strike_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Font](/cells/python-net/ru/aspose.cells/font)
-* класс [TextStrikeType](/cells/python-net/ru/aspose.cells/textstriketype)
+* модуль [`aspose.cells`](../../)
+* класс [`Font`](/cells/python-net/ru/aspose.cells/font)
+* класс [`TextStrikeType`](/cells/python-net/ru/aspose.cells/textstriketype)

@@ -1,6 +1,6 @@
 ---
 title: border_color_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border_color_type proprietà
 
-Ottiene se utilizzare lo stesso colore del bordo delle barre dei dati positivi.
+Determina se utilizzare lo stesso colore del bordo delle barre dei dati positivi.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def border_color_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [DataBarNegativeColorType](/cells/python-net/it/aspose.cells/databarnegativecolortype)
-* classe [NegativeBarFormat](/cells/python-net/it/aspose.cells/negativebarformat)
+* modulo [`aspose.cells`](../../)
+* classe [`DataBarNegativeColorType`](/cells/python-net/it/aspose.cells/databarnegativecolortype)
+* classe [`NegativeBarFormat`](/cells/python-net/it/aspose.cells/negativebarformat)

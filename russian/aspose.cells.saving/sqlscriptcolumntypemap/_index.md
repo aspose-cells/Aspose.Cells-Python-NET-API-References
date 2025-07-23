@@ -1,14 +1,14 @@
 ---
 title: SqlScriptColumnTypeMap класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 20
+weight: 30
 url: /ru/aspose.cells.saving/sqlscriptcolumntypemap/
 is_root: false
 ---
 ##  SqlScriptColumnTypeMap класс
-Представляет карту типов столбцов.
+Представляет собой карту столбчатого типа.
 
 
 
@@ -17,14 +17,14 @@ is_root: false
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [__init__](/cells/python-net/ru/aspose.cells.saving/sqlscriptcolumntypemap/__init__/#) | Создает новый экземпляр SqlScriptColumnTypeMap.|
+| [`__init__(self)`](/cells/python-net/ru/aspose.cells.saving/sqlscriptcolumntypemap/__init__/#) | Создает новый экземпляр SqlScriptColumnTypeMap|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [get_string_type](/cells/python-net/ru/aspose.cells.saving/sqlscriptcolumntypemap/get_string_type/#) | Получает тип строки в базе данных.|
-| [get_numberic_type](/cells/python-net/ru/aspose.cells.saving/sqlscriptcolumntypemap/get_numberic_type/#) | Получает числовой тип в базе данных.|
+| [`get_string_type(self)`](/cells/python-net/ru/aspose.cells.saving/sqlscriptcolumntypemap/get_string_type/#) | Получает строковый тип в базе данных.|
+| [`get_numberic_type(self)`](/cells/python-net/ru/aspose.cells.saving/sqlscriptcolumntypemap/get_numberic_type/#) | Получает числовой тип в базе данных.|
 
 
 

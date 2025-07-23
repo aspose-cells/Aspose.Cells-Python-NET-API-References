@@ -1,6 +1,6 @@
 ---
 title: icon_set_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -21,6 +21,6 @@ def icon_set_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [IconFilter](/cells/python-net/it/aspose.cells/iconfilter)
-* classe [IconSetType](/cells/python-net/it/aspose.cells/iconsettype)
+* modulo [`aspose.cells`](../../)
+* classe [`IconFilter`](/cells/python-net/it/aspose.cells/iconfilter)
+* classe [`IconSetType`](/cells/python-net/it/aspose.cells/iconsettype)

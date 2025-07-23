@@ -1,6 +1,6 @@
 ---
 title: filter_operator_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -21,6 +21,6 @@ def filter_operator_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CustomFilter](/cells/python-net/ru/aspose.cells/customfilter)
-* класс [FilterOperatorType](/cells/python-net/ru/aspose.cells/filteroperatortype)
+* модуль [`aspose.cells`](../../)
+* класс [`CustomFilter`](/cells/python-net/ru/aspose.cells/customfilter)
+* класс [`FilterOperatorType`](/cells/python-net/ru/aspose.cells/filteroperatortype)

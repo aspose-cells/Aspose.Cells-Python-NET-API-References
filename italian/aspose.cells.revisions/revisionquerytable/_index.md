@@ -1,36 +1,34 @@
 ---
-title: classe RevisionQueryTable
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: RevisionQueryTable classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 160
 url: /it/aspose.cells.revisions/revisionquerytable/
 is_root: false
 ---
-##  classe RevisionQueryTable
-Rappresenta una revisione di una modifica del campo della tabella di query.
+##  RevisionQueryTable classe
+Rappresenta una revisione di una modifica al campo di una tabella di query.
 
 
 
-**Eredità:** [RevisionQueryTable](/cells/python-net/aspose.cells.revisions/revisionquerytable) → 
-[Revision](/cells/python-net/it/aspose.cells.revisions/revision)
+**Eredità:** [`RevisionQueryTable`](/cells/python-net/it/aspose.cells.revisions/revisionquerytable)
 
 
 
-Il tipo RevisionQueryTable espone i membri seguenti:
+Il tipo RevisionQueryTable espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
 | [type](/cells/python-net/it/aspose.cells.revisions/revisionquerytable/type) | Rappresenta il tipo di revisione.|
-| [worksheet](/cells/python-net/it/aspose.cells.revisions/revisionquerytable/worksheet) | Ottiene il foglio di lavoro.|
-| [id](/cells/python-net/it/aspose.cells.revisions/revisionquerytable/id) | Ottiene il numero di questa revisione.|
-| [cell_area](/cells/python-net/it/aspose.cells.revisions/revisionquerytable/cell_area) | Ottiene il percorso della tabella di query interessata.|
-| [field_id](/cells/python-net/it/aspose.cells.revisions/revisionquerytable/field_id) | Ottiene l'ID del campo della tabella di query specifica che è stato rimosso.|
+| [worksheet](/cells/python-net/it/aspose.cells.revisions/revisionquerytable/worksheet) |  |
+| [id](/cells/python-net/it/aspose.cells.revisions/revisionquerytable/id) |  |
+| [cell_area](/cells/python-net/it/aspose.cells.revisions/revisionquerytable/cell_area) | Ottiene la posizione della tabella delle query interessata.|
+| [field_id](/cells/python-net/it/aspose.cells.revisions/revisionquerytable/field_id) | Ottiene l'ID del campo specifico della tabella di query che è stato rimosso.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.revisions](..)
-* classe [Revision](/cells/python-net/it/aspose.cells.revisions/revision)
-* classe [RevisionQueryTable](/cells/python-net/it/aspose.cells.revisions/revisionquerytable)
+* modulo [`aspose.cells.revisions`](..)
+* classe [`RevisionQueryTable`](/cells/python-net/it/aspose.cells.revisions/revisionquerytable)

@@ -1,15 +1,15 @@
 ---
 title: is_automatic_minor_unit недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 220
+weight: 230
 url: /ru/aspose.cells.charts/axis/is_automatic_minor_unit/
 is_root: false
 ---
 ##  is_automatic_minor_unit недвижимость
 
-Указывает, назначается ли второстепенная единица оси автоматически.
+Указывает, назначается ли автоматически вспомогательная единица оси.
 ###  Определение:
 ```python
 @property

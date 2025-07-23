@@ -1,6 +1,6 @@
 ---
 title: vertical_axis_max_value_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 290
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  vertical_axis_max_value_type недвижимость
 
-Представляет тип максимального значения по вертикальной оси.
+Представляет тип максимального значения вертикальной оси.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def vertical_axis_max_value_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [SparklineAxisMinMaxType](/cells/python-net/ru/aspose.cells.charts/sparklineaxisminmaxtype)
-* класс [SparklineGroup](/cells/python-net/ru/aspose.cells.charts/sparklinegroup)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`SparklineAxisMinMaxType`](/cells/python-net/ru/aspose.cells.charts/sparklineaxisminmaxtype)
+* класс [`SparklineGroup`](/cells/python-net/ru/aspose.cells.charts/sparklinegroup)

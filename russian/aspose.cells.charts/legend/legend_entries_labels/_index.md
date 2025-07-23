@@ -1,9 +1,9 @@
 ---
 title: legend_entries_labels недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 280
+weight: 340
 url: /ru/aspose.cells.charts/legend/legend_entries_labels/
 is_root: false
 ---
@@ -13,10 +13,10 @@ is_root: false
 
 ###  Примечания
 
- ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
+ ПРИМЕЧАНИЕ: Этот элемент устарел. Вместо этого,
 используйте метод Legend.GetLegendLabels.
- Этот объект недвижимости будет удален через 12 месяцев, начиная с ноября 2023 года.
-Aspose приносит извинения за возможные неудобства.
+ Этот объект будет снесен через 12 месяцев с ноября 2023 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 ###  Определение:
 ```python
 @property

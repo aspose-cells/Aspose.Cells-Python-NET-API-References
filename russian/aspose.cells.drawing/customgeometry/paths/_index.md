@@ -1,6 +1,6 @@
 ---
 title: paths недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  paths недвижимость
 
-Получает информацию о наборе путей, если фигура является автофигурой NotPrimitive.
+Получает информацию о коллекции путей, когда фигура является автофигурой NotPrimitive.
 ###  Определение:
 ```python
 @property
@@ -18,6 +18,6 @@ def paths(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [CustomGeometry](/cells/python-net/ru/aspose.cells.drawing/customgeometry)
-* класс [ShapePathCollection](/cells/python-net/ru/aspose.cells.drawing/shapepathcollection)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`CustomGeometry`](/cells/python-net/ru/aspose.cells.drawing/customgeometry)
+* класс [`ShapePathCollection`](/cells/python-net/ru/aspose.cells.drawing/shapepathcollection)

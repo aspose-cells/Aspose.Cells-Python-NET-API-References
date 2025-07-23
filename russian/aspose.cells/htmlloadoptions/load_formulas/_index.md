@@ -1,6 +1,6 @@
 ---
 title: load_formulas недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 250
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  load_formulas недвижимость
 
-Указывает, следует ли импортировать формулы, если исходный html-файл содержит формулы
+Указывает, импортируются ли формулы, если исходный HTML-файл содержит формулы.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def load_formulas(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [HtmlLoadOptions](/cells/python-net/ru/aspose.cells/htmlloadoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`HtmlLoadOptions`](/cells/python-net/ru/aspose.cells/htmlloadoptions)

@@ -1,16 +1,16 @@
 ---
 title: is_xml_map недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 130
+weight: 160
 url: /ru/aspose.cells/xmlloadoptions/is_xml_map/
 is_root: false
 ---
 ##  is_xml_map недвижимость
 
-Указывает, отображается ли XML в Excel.
-Значение по умолчанию неверно.
+Указывает, нужно ли сопоставлять xml с Excel.
+Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_xml_map(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [XmlLoadOptions](/cells/python-net/ru/aspose.cells/xmlloadoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`XmlLoadOptions`](/cells/python-net/ru/aspose.cells/xmlloadoptions)

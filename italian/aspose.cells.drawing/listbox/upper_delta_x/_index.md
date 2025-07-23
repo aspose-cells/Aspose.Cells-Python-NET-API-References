@@ -1,15 +1,15 @@
 ---
 title: upper_delta_x proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1200
+weight: 1210
 url: /it/aspose.cells.drawing/listbox/upper_delta_x/
 is_root: false
 ---
 ##  upper_delta_x proprietà
 
-Ottiene o imposta l'offset orizzontale della forma dalla colonna dell'angolo superiore sinistro.
+Ottiene o imposta lo scostamento orizzontale della forma dalla colonna dell'angolo superiore sinistro.
 
 ###  Osservazioni
 

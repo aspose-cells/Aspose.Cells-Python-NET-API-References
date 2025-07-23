@@ -1,6 +1,6 @@
 ---
 title: is_dropdown_visible недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_dropdown_visible недвижимость
 
-Указывает, видна ли кнопка автофильтра для этого столбца.
+Указывает, видна ли кнопка «Автофильтр» для этого столбца.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_dropdown_visible(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [FilterColumn](/cells/python-net/ru/aspose.cells/filtercolumn)
+* модуль [`aspose.cells`](../../)
+* класс [`FilterColumn`](/cells/python-net/ru/aspose.cells/filtercolumn)

@@ -1,22 +1,23 @@
 ---
 title: union метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 110
+weight: 100
 url: /ru/aspose.cells/unionrange/union/
 is_root: false
 ---
-##  union(range) {#str}
-Объединение другого диапазона.
+##  union(self, range) {#str}
+Союз другого диапазона.
 
 
-###  Возвращает
+###  Возврат
 
 
 
 
 ```python
+
 def union(self, range):
     ...
 ```
@@ -24,19 +25,20 @@ def union(self, range):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| range | str | Диапазон.|
+| range | str | Ассортимент.|
 
 
-##  union(union_range) {#UnionRange}
-Объединение другого диапазона.
+##  union(self, union_range) {#aspose.cells.UnionRange}
+Союз другого диапазона.
 
 
-###  Возвращает
+###  Возврат
 
 
 
 
 ```python
+
 def union(self, union_range):
     ...
 ```
@@ -44,19 +46,20 @@ def union(self, union_range):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| union_range | [UnionRange](/cells/python-net/ru/aspose.cells/unionrange) | Диапазон.|
+| union_range | [`UnionRange`](/cells/python-net/ru/aspose.cells/unionrange) | Ассортимент.|
 
 
-##  union(ranges) {#list}
-Объедините диапазоны.
+##  union(self, ranges) {#list}
+Объединение диапазонов.
 
 
-###  Возвращает
+###  Возврат
 
 
 
 
 ```python
+
 def union(self, ranges):
     ...
 ```
@@ -69,5 +72,5 @@ def union(self, ranges):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [UnionRange](/cells/python-net/ru/aspose.cells/unionrange)
+* модуль [`aspose.cells`](../../)
+* класс [`UnionRange`](/cells/python-net/ru/aspose.cells/unionrange)

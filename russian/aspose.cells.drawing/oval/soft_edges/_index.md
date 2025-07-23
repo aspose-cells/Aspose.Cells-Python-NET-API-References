@@ -1,9 +1,9 @@
 ---
 title: soft_edges недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 890
+weight: 900
 url: /ru/aspose.cells.drawing/oval/soft_edges/
 is_root: false
 ---

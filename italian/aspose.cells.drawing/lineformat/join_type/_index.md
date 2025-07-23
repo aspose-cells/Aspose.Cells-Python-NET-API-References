@@ -1,6 +1,6 @@
 ---
 title: join_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 240
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  join_type proprietà
 
-Specifica il tipo di unione di linea.
+Specifica il tipo di unione delle linee.
 
 ###  Esempio
 
@@ -30,6 +30,6 @@ def join_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [LineFormat](/cells/python-net/it/aspose.cells.drawing/lineformat)
-* classe [LineJoinType](/cells/python-net/it/aspose.cells.drawing/linejointype)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`LineFormat`](/cells/python-net/it/aspose.cells.drawing/lineformat)
+* classe [`LineJoinType`](/cells/python-net/it/aspose.cells.drawing/linejointype)

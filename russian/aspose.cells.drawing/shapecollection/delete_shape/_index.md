@@ -1,18 +1,19 @@
 ---
 title: delete_shape метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 410
+weight: 440
 url: /ru/aspose.cells.drawing/shapecollection/delete_shape/
 is_root: false
 ---
-##  delete_shape(shape) {#Shape}
-Удалить фигуру. Если фигура находится в группе или является фигурой комментария, она не будет удалена.
+##  delete_shape(self, shape) {#aspose.cells.drawing.Shape}
+Удалить фигуру. Если фигура входит в группу или является комментарием, она не будет удалена.
 
 
 
 ```python
+
 def delete_shape(self, shape):
     ...
 ```
@@ -20,7 +21,7 @@ def delete_shape(self, shape):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| shape | [Shape](/cells/python-net/ru/aspose.cells.drawing/shape) |  |
+| shape | [`Shape`](/cells/python-net/ru/aspose.cells.drawing/shape) |  |
 
 ###  Пример
 
@@ -38,5 +39,5 @@ shapes.delete_shape(firstShape)
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ShapeCollection](/cells/python-net/ru/aspose.cells.drawing/shapecollection)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ShapeCollection`](/cells/python-net/ru/aspose.cells.drawing/shapecollection)

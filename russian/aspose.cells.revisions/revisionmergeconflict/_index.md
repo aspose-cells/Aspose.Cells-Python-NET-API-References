@@ -1,6 +1,6 @@
 ---
 title: RevisionMergeConflict класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 150
@@ -8,27 +8,25 @@ url: /ru/aspose.cells.revisions/revisionmergeconflict/
 is_root: false
 ---
 ##  RevisionMergeConflict класс
-Представляет запись редакции, указывающую на конфликт слияния.
+Представляет запись ревизии, указывающую на то, что произошел конфликт слияния.
 
 
 
-**Наследование:** [RevisionMergeConflict](/cells/python-net/aspose.cells.revisions/revisionmergeconflict) → 
-[Revision](/cells/python-net/ru/aspose.cells.revisions/revision)
+**Наследование:** [`RevisionMergeConflict`](/cells/python-net/ru/aspose.cells.revisions/revisionmergeconflict)
 
 
 
-Тип RevisionMergeConflict предоставляет следующие члены:
+Тип RevisionMergeConflict предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [type](/cells/python-net/ru/aspose.cells.revisions/revisionmergeconflict/type) | Получает тип редакции.|
-| [worksheet](/cells/python-net/ru/aspose.cells.revisions/revisionmergeconflict/worksheet) | Получает рабочий лист.|
-| [id](/cells/python-net/ru/aspose.cells.revisions/revisionmergeconflict/id) | Получает номер этой версии.|
+| [type](/cells/python-net/ru/aspose.cells.revisions/revisionmergeconflict/type) | Получает тип ревизии.|
+| [worksheet](/cells/python-net/ru/aspose.cells.revisions/revisionmergeconflict/worksheet) |  |
+| [id](/cells/python-net/ru/aspose.cells.revisions/revisionmergeconflict/id) |  |
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.revisions](..)
-* класс [Revision](/cells/python-net/ru/aspose.cells.revisions/revision)
-* класс [RevisionMergeConflict](/cells/python-net/ru/aspose.cells.revisions/revisionmergeconflict)
+* модуль [`aspose.cells.revisions`](..)
+* класс [`RevisionMergeConflict`](/cells/python-net/ru/aspose.cells.revisions/revisionmergeconflict)

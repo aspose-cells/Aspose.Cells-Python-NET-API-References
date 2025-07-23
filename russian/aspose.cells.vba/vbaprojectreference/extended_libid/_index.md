@@ -1,6 +1,6 @@
 ---
 title: extended_libid недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  extended_libid недвижимость
 
-Получает и задает расширенную либиду ссылки.
+Получает и задает расширенный Libid ссылки.
 
 ###  Примечания
 
@@ -25,5 +25,5 @@ def extended_libid(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.vba](../../)
-* класс [VbaProjectReference](/cells/python-net/ru/aspose.cells.vba/vbaprojectreference)
+* модуль [`aspose.cells.vba`](../../)
+* класс [`VbaProjectReference`](/cells/python-net/ru/aspose.cells.vba/vbaprojectreference)

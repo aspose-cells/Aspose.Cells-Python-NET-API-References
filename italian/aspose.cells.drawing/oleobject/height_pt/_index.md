@@ -1,9 +1,9 @@
 ---
 title: height_pt proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 550
+weight: 540
 url: /it/aspose.cells.drawing/oleobject/height_pt/
 is_root: false
 ---

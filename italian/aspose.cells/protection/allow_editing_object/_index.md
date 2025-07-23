@@ -1,6 +1,6 @@
 ---
 title: allow_editing_object proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_editing_object proprietà
 
-Indica se l'utente è autorizzato a manipolare oggetti di disegno su un foglio di lavoro protetto.
+Indica se all'utente è consentito manipolare oggetti di disegno su un foglio di lavoro protetto.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_editing_object(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Protection](/cells/python-net/it/aspose.cells/protection)
+* modulo [`aspose.cells`](../../)
+* classe [`Protection`](/cells/python-net/it/aspose.cells/protection)

@@ -1,15 +1,15 @@
 ---
 title: selection_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 940
+weight: 950
 url: /ru/aspose.cells.drawing/listbox/selection_type/
 is_root: false
 ---
 ##  selection_type недвижимость
 
-Получает или задает режим выбора указанного списка.
+Возвращает или задает режим выбора указанного списка.
 ###  Определение:
 ```python
 @property

@@ -1,9 +1,9 @@
 ---
 title: title_style недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 110
+weight: 120
 url: /ru/aspose.cells.utility/jsonlayoutoptions/title_style/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def title_style(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.utility](../../)
-* класс [JsonLayoutOptions](/cells/python-net/ru/aspose.cells.utility/jsonlayoutoptions)
-* класс [Style](/cells/python-net/ru/aspose.cells/style)
+* модуль [`aspose.cells.utility`](../../)
+* класс [`JsonLayoutOptions`](/cells/python-net/ru/aspose.cells.utility/jsonlayoutoptions)
+* класс [`Style`](/cells/python-net/ru/aspose.cells/style)

@@ -1,16 +1,16 @@
 ---
 title: placement недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 830
+weight: 840
 url: /ru/aspose.cells.drawing/button/placement/
 is_root: false
 ---
 ##  placement недвижимость
 
-Представляет способ прикрепления объекта рисования к ячейкам под ним.
-Свойство управляет номером placement объекта на листе.
+Представляет собой способ присоединения объекта рисунка к ячейкам под ним.
+Свойство управляет placement объекта на рабочем листе.
 
 ###  Пример
 

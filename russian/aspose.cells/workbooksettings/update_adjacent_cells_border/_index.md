@@ -1,21 +1,21 @@
 ---
 title: update_adjacent_cells_border недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 490
+weight: 510
 url: /ru/aspose.cells/workbooksettings/update_adjacent_cells_border/
 is_root: false
 ---
 ##  update_adjacent_cells_border недвижимость
 
-Указывает, обновляется ли граница соседних ячеек.
+Указывает, обновлять ли границу соседних ячеек.
 
 ###  Примечания
 
-Значение по умолчанию неверно.
+Значение по умолчанию — false.
  Например: нижняя граница ячейки A1 обновлена,
-верхняя граница ячейки A2 также должна быть изменена.
+верхнюю границу ячейки А2 также следует изменить.
 ###  Определение:
 ```python
 @property

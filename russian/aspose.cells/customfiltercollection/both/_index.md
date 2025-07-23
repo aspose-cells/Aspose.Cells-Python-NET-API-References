@@ -1,6 +1,6 @@
 ---
 title: both недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  both недвижимость
 
-Указывает, имеют ли два критерия взаимосвязь "и".
+Указывает, имеют ли два критерия связь «и».
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def both(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CustomFilterCollection](/cells/python-net/ru/aspose.cells/customfiltercollection)
+* модуль [`aspose.cells`](../../)
+* класс [`CustomFilterCollection`](/cells/python-net/ru/aspose.cells/customfiltercollection)

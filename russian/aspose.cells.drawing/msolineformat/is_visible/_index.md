@@ -1,6 +1,6 @@
 ---
 title: is_visible недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [MsoLineFormat](/cells/python-net/ru/aspose.cells.drawing/msolineformat)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`MsoLineFormat`](/cells/python-net/ru/aspose.cells.drawing/msolineformat)

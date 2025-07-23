@@ -1,9 +1,9 @@
 ---
 title: text_vertical_alignment недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1070
+weight: 1080
 url: /ru/aspose.cells.drawing/combobox/text_vertical_alignment/
 is_root: false
 ---

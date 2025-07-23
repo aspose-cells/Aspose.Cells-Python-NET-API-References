@@ -1,6 +1,6 @@
 ---
 title: period недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 290
@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  period недвижимость
 
-Возвращает или задает period для линии тренда скользящей средней.
+Возвращает или задает значение period для линии тренда скользящей средней.
 
 ###  Примечания
 
-Это значение должно быть между 2 и 255.
-И оно должно быть меньше количества точек графика в ряду.
+Это значение должно быть в диапазоне от 2 до 255.
+И оно должно быть меньше количества точек диаграммы в серии.
 ###  Определение:
 ```python
 @property
@@ -26,5 +26,5 @@ def period(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Trendline](/cells/python-net/ru/aspose.cells.charts/trendline)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Trendline`](/cells/python-net/ru/aspose.cells.charts/trendline)

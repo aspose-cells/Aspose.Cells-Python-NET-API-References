@@ -1,13 +1,13 @@
 ---
-title: metodo verify_password
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo verify_password
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
 url: /it/aspose.cells/protection/verify_password/
 is_root: false
 ---
-##  verify_password(password) {#str}
+##  verify_password(self, password) {#str}
 Verifica la password.
 
 
@@ -17,6 +17,7 @@ Verifica la password.
 
 
 ```python
+
 def verify_password(self, password):
     ...
 ```
@@ -29,5 +30,5 @@ def verify_password(self, password):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Protection](/cells/python-net/it/aspose.cells/protection)
+* modulo [`aspose.cells`](../../)
+* classe [`Protection`](/cells/python-net/it/aspose.cells/protection)

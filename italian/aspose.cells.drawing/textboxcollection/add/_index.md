@@ -1,22 +1,23 @@
 ---
-title: metodo add
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo add
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells.drawing/textboxcollection/add/
 is_root: false
 ---
-##  add(upper_left_row, upper_left_column, height, width) {#int-int-int-int}
+##  add(self, upper_left_row, upper_left_column, height, width) {#int-int-int-int}
 Aggiunge una casella di testo alla raccolta.
 
 
 ###  ritorna
 
-[TextBox](/cells/python-net/it/aspose.cells.drawing/textbox) indice oggetto.
+[`TextBox`](/cells/python-net/it/aspose.cells.drawing/textbox) indice oggetto.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, height, width):
     ...
 ```
@@ -25,9 +26,9 @@ def add(self, upper_left_row, upper_left_column, height, width):
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
 | upper_left_row | int | Indice della riga in alto a sinistra.|
-| upper_left_column | int | Indice colonna in alto a sinistra.|
-| height | int | Altezza della casella di testo, in unità di pixel.|
-| width | int | Larghezza della casella di testo, in unità di pixel.|
+| upper_left_column | int | Indice della colonna in alto a sinistra.|
+| height | int | Altezza della casella di testo, in pixel.|
+| width | int | Larghezza della casella di testo, in pixel.|
 
 ###  Esempio
 
@@ -41,6 +42,6 @@ index2 = textBoxCollection.add(1, 1, 50, 100)
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [TextBox](/cells/python-net/it/aspose.cells.drawing/textbox)
-* classe [TextBoxCollection](/cells/python-net/it/aspose.cells.drawing/textboxcollection)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`TextBox`](/cells/python-net/it/aspose.cells.drawing/textbox)
+* classe [`TextBoxCollection`](/cells/python-net/it/aspose.cells.drawing/textboxcollection)

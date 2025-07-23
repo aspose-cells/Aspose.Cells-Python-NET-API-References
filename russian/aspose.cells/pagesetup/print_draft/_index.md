@@ -1,6 +1,6 @@
 ---
 title: print_draft недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 540
@@ -21,5 +21,5 @@ def print_draft(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PageSetup](/cells/python-net/ru/aspose.cells/pagesetup)
+* модуль [`aspose.cells`](../../)
+* класс [`PageSetup`](/cells/python-net/ru/aspose.cells/pagesetup)

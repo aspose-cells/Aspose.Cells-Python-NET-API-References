@@ -1,6 +1,6 @@
 ---
 title: force_full_calculation proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  force_full_calculation proprietà
 
-Indica se calcola tutte le formule ogni volta che viene attivato un calcolo.
+Indica se calcolare tutte le formule ogni volta che viene attivato un calcolo.
 
 ###  Osservazioni
 
 Questa proprietà serve solo per salvare le impostazioni nel file del foglio di calcolo risultante
-in modo che altre applicazioni (come ms excel) possano agire di conseguenza durante il caricamento e la manipolazione del file risultante.
-Per considerazioni sulle prestazioni per la maggior parte delle applicazioni degli utenti, non calcoliamo automaticamente alcuna formula nella cartella di lavoro,
+in modo che altre applicazioni (ad esempio MS Excel) possano agire di conseguenza durante il caricamento e la manipolazione del file risultante.
+Per motivi di prestazioni per la maggior parte delle applicazioni degli utenti, non calcoliamo automaticamente alcuna formula nella cartella di lavoro,
 indipendentemente dal valore impostato per questa proprietà.
 ###  Definizione:
 ```python
@@ -28,5 +28,5 @@ def force_full_calculation(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FormulaSettings](/cells/python-net/it/aspose.cells/formulasettings)
+* modulo [`aspose.cells`](../../)
+* classe [`FormulaSettings`](/cells/python-net/it/aspose.cells/formulasettings)

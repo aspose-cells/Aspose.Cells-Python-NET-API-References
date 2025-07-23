@@ -1,16 +1,13 @@
 ---
 title: save_data proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 210
+weight: 260
 url: /it/aspose.cells.externalconnections/datamodelconnection/save_data/
 is_root: false
 ---
 ##  save_data proprietà
-
-True se i dati esterni recuperati tramite la connessione per popolare una tabella devono essere salvati
-con la cartella di lavoro; altrimenti, falso.
 ###  Definizione:
 ```python
 @property
@@ -22,5 +19,5 @@ def save_data(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.externalconnections](../../)
-* classe [DataModelConnection](/cells/python-net/it/aspose.cells.externalconnections/datamodelconnection)
+* modulo [`aspose.cells.externalconnections`](../../)
+* classe [`DataModelConnection`](/cells/python-net/it/aspose.cells.externalconnections/datamodelconnection)

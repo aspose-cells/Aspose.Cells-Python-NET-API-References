@@ -1,9 +1,9 @@
 ---
 title: comment недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 420
+weight: 430
 url: /ru/aspose.cells/cell/comment/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Если к ячейке не применяется comment, возвращается ноль.
+Если к ячейке не применяется comment, возвращает null.
 ###  Определение:
 ```python
 @property

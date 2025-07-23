@@ -1,13 +1,13 @@
 ---
 title: get_sub_total_name метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 220
 url: /ru/aspose.cells/settableglobalizationsettings/get_sub_total_name/
 is_root: false
 ---
-##  get_sub_total_name {#aspose.cells.pivot.PivotFieldSubtotalType}
+##  get_sub_total_name(self, sub_total_type) {#aspose.cells.pivot.PivotFieldSubtotalType}
 Получает имя типа [`PivotFieldSubtotalType`](/cells/python-net/ru/aspose.cells.pivot/pivotfieldsubtotaltype) в сводной таблице.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_sub_total_name(self, sub_total_type):
     ...
 ```
@@ -27,10 +28,10 @@ def get_sub_total_name(self, sub_total_type):
 | sub_total_type | aspose.cells.pivot.PivotFieldSubtotalType | Тип [`PivotFieldSubtotalType`](/cells/python-net/ru/aspose.cells.pivot/pivotfieldsubtotaltype)|
 ###  Примечания
 
-ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
+ПРИМЕЧАНИЕ: Этот элемент устарел. Вместо этого,
 используйте метод PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
- Этот объект недвижимости будет удален через 12 месяцев, начиная с декабря 2022 года.
-Aspose приносит извинения за возможные неудобства.
+ Этот объект будет снесен через 12 месяцев с декабря 2022 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 
 
 ###  Смотрите также

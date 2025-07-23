@@ -1,6 +1,6 @@
 ---
 title: border_style недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -21,6 +21,6 @@ def border_style(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [ControlBorderType](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/controlbordertype)
-* класс [TextBoxActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`ControlBorderType`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/controlbordertype)
+* класс [`TextBoxActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

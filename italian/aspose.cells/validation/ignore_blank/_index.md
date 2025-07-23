@@ -1,6 +1,6 @@
 ---
 title: ignore_blank proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 210
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  ignore_blank proprietà
 
-Indica se i valori vuoti sono consentiti dalla convalida dei dati dell'intervallo.
+Indica se la convalida dei dati dell'intervallo consente valori vuoti.
 ###  Definizione:
 ```python
 @property

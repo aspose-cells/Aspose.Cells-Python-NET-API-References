@@ -1,19 +1,13 @@
 ---
 title: gridline_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 150
+weight: 190
 url: /it/aspose.cells/pptxsaveoptions/gridline_type/
 is_root: false
 ---
 ##  gridline_type proprietà
-
-Ottiene o imposta il tipo di linea della griglia.
-
-###  Osservazioni
-
-L'impostazione predefinita è il tipo punteggiato.
 ###  Definizione:
 ```python
 @property

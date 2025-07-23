@@ -1,6 +1,6 @@
 ---
 title: security_descriptor недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
@@ -21,5 +21,5 @@ def security_descriptor(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ProtectedRange](/cells/python-net/ru/aspose.cells/protectedrange)
+* модуль [`aspose.cells`](../../)
+* класс [`ProtectedRange`](/cells/python-net/ru/aspose.cells/protectedrange)

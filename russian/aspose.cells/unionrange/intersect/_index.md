@@ -1,18 +1,19 @@
 ---
 title: intersect метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 50
+weight: 40
 url: /ru/aspose.cells/unionrange/intersect/
 is_root: false
 ---
-##  intersect(range) {#str}
+##  intersect(self, range) {#str}
 Пересекает другой диапазон.
 
 
 
 ```python
+
 def intersect(self, range):
     ...
 ```
@@ -20,18 +21,19 @@ def intersect(self, range):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| range | str | Диапазон.|
+| range | str | Ассортимент.|
 ###  Примечания
 
-Если два диапазона объединения не пересекаются, возвращает значение null.
+Если два диапазона объединения не пересекаются, возвращает null.
 
-##  intersect(union_range) {#UnionRange}
+##  intersect(self, union_range) {#aspose.cells.UnionRange}
 
 Пересекает другой диапазон.
 
 
 
 ```python
+
 def intersect(self, union_range):
     ...
 ```
@@ -39,18 +41,19 @@ def intersect(self, union_range):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| union_range | [UnionRange](/cells/python-net/ru/aspose.cells/unionrange) | Диапазон.|
+| union_range | [`UnionRange`](/cells/python-net/ru/aspose.cells/unionrange) | Ассортимент.|
 ###  Примечания
 
-Если два диапазона объединения не пересекаются, возвращает значение null.
+Если два диапазона объединения не пересекаются, возвращает null.
 
-##  intersect(ranges) {#list}
+##  intersect(self, ranges) {#list}
 
 Пересекает другой диапазон.
 
 
 
 ```python
+
 def intersect(self, ranges):
     ...
 ```
@@ -58,13 +61,13 @@ def intersect(self, ranges):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| ranges | list | Диапазон.|
+| ranges | list | Ассортимент.|
 ###  Примечания
 
-Если два диапазона объединения не пересекаются, возвращает значение null.
+Если два диапазона объединения не пересекаются, возвращает null.
 
 
 ###  Смотрите также
 
-* модуль [aspose.cells](../../)
-* класс [UnionRange](/cells/python-net/ru/aspose.cells/unionrange)
+* модуль [`aspose.cells`](../../)
+* класс [`UnionRange`](/cells/python-net/ru/aspose.cells/unionrange)

@@ -1,6 +1,6 @@
 ---
 title: cust_unit proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 130
@@ -14,9 +14,9 @@ Specifica un valore personalizzato per l'unità di visualizzazione.
 ###  Osservazioni
 
  NOTA: questa proprietà è ora obsoleta. Invece,
-utilizzare la proprietà Axis.CustomUnit.
- Questa proprietà verrà rimossa 12 mesi dopo a partire da gennaio 2023.
-Aspose si scusa per eventuali disagi riscontrati.
+si prega di utilizzare la proprietà Axis.CustomUnit.
+ Questa proprietà verrà rimossa 12 mesi dopo, a partire da gennaio 2023.
+Aspose si scusa per ogni eventuale disagio arrecato.
 ###  Definizione:
 ```python
 @property

@@ -1,22 +1,23 @@
 ---
 title: Metodo get_grand_total_name
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 110
 url: /it/aspose.cells/globalizationsettings/get_grand_total_name/
 is_root: false
 ---
-##  get_grand_total_name {#aspose.cells.ConsolidationFunction}
-Ottiene il nome totale complessivo della funzione.
+##  get_grand_total_name(self, function_type) {#aspose.cells.ConsolidationFunction}
+Ottiene il nome totale generale della funzione.
 
 
 ###  ritorna
 
-Il nome totale complessivo della funzione.
+Nome del totale complessivo della funzione.
 
 
 ```python
+
 def get_grand_total_name(self, function_type):
     ...
 ```

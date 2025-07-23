@@ -1,18 +1,19 @@
 ---
 title: Metodo remove_hyperlink
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 180
+weight: 190
 url: /it/aspose.cells.drawing/rectangleshape/remove_hyperlink/
 is_root: false
 ---
-##  remove_hyperlink {#}
-Rimuovere il collegamento ipertestuale della forma.
+##  remove_hyperlink(self) {#}
+Rimuove il collegamento ipertestuale della forma.
 
 
 
 ```python
+
 def remove_hyperlink(self):
     ...
 ```

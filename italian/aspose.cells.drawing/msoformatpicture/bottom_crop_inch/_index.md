@@ -1,6 +1,6 @@
 ---
 title: bottom_crop_inch proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom_crop_inch proprietà
 
-Rappresenta la posizione della parte inferiore del rettangolo di ritaglio espressa in unità di pollici.
+Rappresenta la posizione della parte inferiore del rettangolo di ritaglio, espressa in pollici.
 ###  Definizione:
 ```python
 @property

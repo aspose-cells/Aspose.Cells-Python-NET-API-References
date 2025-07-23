@@ -1,6 +1,6 @@
 ---
 title: space_after_size_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 200
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  space_after_size_type proprietà
 
-Ottiene e imposta la quantità di spazio vuoto verticale che sarà presente dopo un paragrafo.
+Ottiene e imposta la quantità di spazio bianco verticale che sarà presente dopo un paragrafo.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def space_after_size_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](../../)
-* classe [LineSpaceSizeType](/cells/python-net/it/aspose.cells.drawing.texts/linespacesizetype)
-* classe [TextParagraph](/cells/python-net/it/aspose.cells.drawing.texts/textparagraph)
+* modulo [`aspose.cells.drawing.texts`](../../)
+* classe [`LineSpaceSizeType`](/cells/python-net/it/aspose.cells.drawing.texts/linespacesizetype)
+* classe [`TextParagraph`](/cells/python-net/it/aspose.cells.drawing.texts/textparagraph)

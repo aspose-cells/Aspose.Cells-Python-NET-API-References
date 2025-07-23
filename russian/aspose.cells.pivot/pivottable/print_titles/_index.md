@@ -1,16 +1,16 @@
 ---
 title: print_titles недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 780
+weight: 890
 url: /ru/aspose.cells.pivot/pivottable/print_titles/
 is_root: false
 ---
 ##  print_titles недвижимость
 
-Указывает, установлены ли печатные заголовки рабочего листа на основе
-в отчете сводной таблицы. Значение по умолчанию неверно.
+Указывает, задаются ли заголовки для печати на рабочем листе на основе
+В отчёте сводной таблицы. Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property
@@ -22,5 +22,5 @@ def print_titles(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotTable](/cells/python-net/ru/aspose.cells.pivot/pivottable)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotTable`](/cells/python-net/ru/aspose.cells.pivot/pivottable)

@@ -1,6 +1,6 @@
 ---
 title: is_locked proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 130
@@ -8,8 +8,6 @@ url: /it/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol/is_loc
 is_root: false
 ---
 ##  is_locked proprietà
-
-Indica se i dati nel controllo sono bloccati per la modifica.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_locked(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [CommandButtonActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`CommandButtonActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)

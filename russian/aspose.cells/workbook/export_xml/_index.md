@@ -1,18 +1,19 @@
 ---
 title: export_xml метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ru/aspose.cells/workbook/export_xml/
 is_root: false
 ---
-##  export_xml(map_name, path) {#str-str}
-Экспорт данных XML, связанных указанной картой XML.
+##  export_xml(self, map_name, path) {#str-str}
+Экспорт XML-данных, связанных с указанной XML-картой.
 
 
 
 ```python
+
 def export_xml(self, map_name, path):
     ...
 ```
@@ -20,12 +21,12 @@ def export_xml(self, map_name, path):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| map_name | str | имя карты XML, которую необходимо экспортировать|
-| path | str | путь экспорта|
+| map_name | str | имя XML-карты, которую необходимо экспортировать|
+| path | str | экспортный путь|
 
 ###  Пример
 
-Следующий код экспортирует данные, связанные с первым XmlMap.
+Следующий код экспортирует данные, связанные первым XmlMap.
 
 ```python
 from aspose.cells import Workbook
@@ -38,12 +39,13 @@ wb.export_xml(xmlMap.name, "output.xml")
 ```
 
 
-##  export_xml(map_name, stream) {#str-io.RawIOBase}
+##  export_xml(self, map_name, stream) {#str-io.RawIOBase}
 Экспорт XML-данных.
 
 
 
 ```python
+
 def export_xml(self, map_name, stream):
     ...
 ```
@@ -51,11 +53,11 @@ def export_xml(self, map_name, stream):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| map_name | str | имя карты XML, которую необходимо экспортировать|
+| map_name | str | имя XML-карты, которую необходимо экспортировать|
 | stream | io.RawIOBase | экспортный поток|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Workbook](/cells/python-net/ru/aspose.cells/workbook)
+* модуль [`aspose.cells`](../../)
+* класс [`Workbook`](/cells/python-net/ru/aspose.cells/workbook)

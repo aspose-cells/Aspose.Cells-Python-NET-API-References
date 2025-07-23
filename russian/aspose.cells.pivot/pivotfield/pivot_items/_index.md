@@ -1,15 +1,15 @@
 ---
 title: pivot_items недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 530
+weight: 620
 url: /ru/aspose.cells.pivot/pivotfield/pivot_items/
 is_root: false
 ---
 ##  pivot_items недвижимость
 
-Получает сводные элементы сводного поля.
+Получает опорные элементы опорного поля
 ###  Определение:
 ```python
 @property

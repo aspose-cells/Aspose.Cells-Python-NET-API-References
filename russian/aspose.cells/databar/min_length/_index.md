@@ -1,6 +1,6 @@
 ---
 title: min_length недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 130
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  min_length недвижимость
 
-Представляет минимальную длину строки данных.
+Представляет минимальную длину полосы данных.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def min_length(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [DataBar](/cells/python-net/ru/aspose.cells/databar)
+* модуль [`aspose.cells`](../../)
+* класс [`DataBar`](/cells/python-net/ru/aspose.cells/databar)

@@ -1,6 +1,6 @@
 ---
 title: SparklinePresetStyleType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 620
@@ -8,11 +8,11 @@ url: /ru/aspose.cells.charts/sparklinepresetstyletype/
 is_root: false
 ---
 ##  SparklinePresetStyleType перечисление
-Представляет предустановленные типы стиля для спарклайна.
+Представляет предустановленные типы стилей для спарклайна.
 
 
 
-Тип SparklinePresetStyleType предоставляет следующие члены:
+Тип SparklinePresetStyleType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -28,7 +28,7 @@ is_root: false
 | STYLE9 | Стиль 9|
 | STYLE10 | Стиль 10|
 | STYLE11 | Стиль 11|
-| STYLE12 |Стиль 12|
+| STYLE12 | Стиль 12|
 | STYLE13 | Стиль 13|
 | STYLE14 | Стиль 14|
 | STYLE15 | Стиль 15|
@@ -45,7 +45,7 @@ is_root: false
 | STYLE26 | Стиль 26|
 | STYLE27 | Стиль 27|
 | STYLE28 | Стиль 28|
-| STYLE29 | Стиль 29|
+| STYLE29 |Стиль 29|
 | STYLE30 | Стиль 30|
 | STYLE31 | Стиль 31|
 | STYLE32 | Стиль 32|
@@ -58,4 +58,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](..)
+* модуль [`aspose.cells.charts`](..)

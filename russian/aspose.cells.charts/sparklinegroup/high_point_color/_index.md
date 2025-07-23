@@ -1,6 +1,6 @@
 ---
 title: high_point_color недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  high_point_color недвижимость
 
-Получает и задает цвет наивысших точек данных в группе спарклайнов.
+Получает и задает цвет самых высоких точек данных в группе спарклайнов.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def high_point_color(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [CellsColor](/cells/python-net/ru/aspose.cells/cellscolor)
-* класс [SparklineGroup](/cells/python-net/ru/aspose.cells.charts/sparklinegroup)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`CellsColor`](/cells/python-net/ru/aspose.cells/cellscolor)
+* класс [`SparklineGroup`](/cells/python-net/ru/aspose.cells.charts/sparklinegroup)

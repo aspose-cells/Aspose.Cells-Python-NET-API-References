@@ -1,18 +1,18 @@
 ---
 title: ControlSpecialEffectType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 260
+weight: 240
 url: /ru/aspose.cells.drawing.activexcontrols/controlspecialeffecttype/
 is_root: false
 ---
 ##  ControlSpecialEffectType перечисление
-Представляет тип специального эффекта.
+Представляет тип спецэффекта.
 
 
 
-Тип ControlSpecialEffectType предоставляет следующие члены:
+Тип ControlSpecialEffectType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -26,4 +26,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](..)
+* модуль [`aspose.cells.drawing.activexcontrols`](..)

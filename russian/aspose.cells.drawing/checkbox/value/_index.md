@@ -1,15 +1,15 @@
 ---
 title: value недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1190
+weight: 1200
 url: /ru/aspose.cells.drawing/checkbox/value/
 is_root: false
 ---
 ##  value недвижимость
 
-Указывает, установлен ли флажок или нет.
+Указывает, отмечен ли флажок или нет.
 ###  Определение:
 ```python
 @property

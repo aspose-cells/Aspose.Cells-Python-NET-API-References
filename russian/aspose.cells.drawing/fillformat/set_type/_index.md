@@ -1,6 +1,6 @@
 ---
 title: set_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 200
@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  set_type недвижимость
 
-Получает тип набора форматов заливки.
+Получает тип набора форматов заполнения.
 
 ###  Примечания
 
- ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
-вместо этого используйте свойство FillFormat.FillType.
- Этот ресурс будет удален через 12 месяцев, начиная с июля 2016 года.
-Aspose приносит извинения за возможные неудобства.
+ ПРИМЕЧАНИЕ: Этот элемент устарел. Вместо этого,
+Вместо этого используйте свойство FillFormat.FillType.
+ Эта недвижимость будет снесена через 12 месяцев с июля 2016 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 ###  Определение:
 ```python
 @property
@@ -28,6 +28,6 @@ def set_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [FillFormat](/cells/python-net/ru/aspose.cells.drawing/fillformat)
-* класс [FormatSetType](/cells/python-net/ru/aspose.cells.drawing/formatsettype)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`FillFormat`](/cells/python-net/ru/aspose.cells.drawing/fillformat)
+* класс [`FormatSetType`](/cells/python-net/ru/aspose.cells.drawing/formatsettype)

@@ -1,9 +1,9 @@
 ---
 title: refresh_pivot_tables недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 240
+weight: 230
 url: /ru/aspose.cells/odsloadoptions/refresh_pivot_tables/
 is_root: false
 ---

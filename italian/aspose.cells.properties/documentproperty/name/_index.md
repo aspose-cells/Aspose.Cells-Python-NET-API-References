@@ -1,6 +1,6 @@
 ---
 title: name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name proprietà
 
-Restituisce lo name dell'immobile.
+Restituisce il name della proprietà.
 ###  Definizione:
 ```python
 @property
@@ -18,5 +18,5 @@ def name(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.properties](../../)
-* classe [DocumentProperty](/cells/python-net/it/aspose.cells.properties/documentproperty)
+* modulo [`aspose.cells.properties`](../../)
+* classe [`DocumentProperty`](/cells/python-net/it/aspose.cells.properties/documentproperty)

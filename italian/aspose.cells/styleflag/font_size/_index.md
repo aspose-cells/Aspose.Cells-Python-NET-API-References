@@ -1,6 +1,6 @@
 ---
 title: font_size proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 160
@@ -21,5 +21,5 @@ def font_size(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [StyleFlag](/cells/python-net/it/aspose.cells/styleflag)
+* modulo [`aspose.cells`](../../)
+* classe [`StyleFlag`](/cells/python-net/it/aspose.cells/styleflag)

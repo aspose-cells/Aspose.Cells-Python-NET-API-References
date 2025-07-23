@@ -1,15 +1,15 @@
 ---
 title: disable_downlevel_revealed_comments недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 130
+weight: 170
 url: /ru/aspose.cells/htmlsaveoptions/disable_downlevel_revealed_comments/
 is_root: false
 ---
 ##  disable_downlevel_revealed_comments недвижимость
 
-Указывает, отключите ли условные комментарии, отображаемые на нижнем уровне, при экспорте файла в HTML, значение по умолчанию — false.
+Указывает, следует ли отключить условные комментарии Downlevel-revealed при экспорте файла в HTML, значение по умолчанию — false.
 ###  Определение:
 ```python
 @property

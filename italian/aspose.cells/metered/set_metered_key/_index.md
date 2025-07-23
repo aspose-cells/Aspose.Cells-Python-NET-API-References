@@ -1,21 +1,22 @@
 ---
 title: Metodo set_metered_key
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
 url: /it/aspose.cells/metered/set_metered_key/
 is_root: false
 ---
-##  set_metered_key {#str-str}
+##  set_metered_key(self, public_key, private_key) {#str-str}
 Imposta la chiave pubblica e privata misurata.
- Se acquisti una licenza a consumo, quando avvii l'applicazione, dovresti chiamare questo numero API, normalmente è sufficiente.
- Tuttavia, se non si riesce sempre a caricare i dati di consumo e si superano le 24 ore, la licenza verrà impostata sullo stato di valutazione,
-per evitare questo caso, dovresti controllare regolarmente lo stato della licenza, se è lo stato di valutazione, chiama di nuovo lo API.
+Se si acquista una licenza a consumo, all'avvio della richiesta è necessario chiamare il numero API; solitamente è sufficiente.
+ Tuttavia, se non si riesce a caricare sempre i dati di consumo e si superano le 24 ore, la licenza verrà impostata sullo stato di valutazione,
+Per evitare casi del genere, dovresti controllare regolarmente lo stato della licenza; se è in stato di valutazione, chiama nuovamente lo API.
 
 
 
 ```python
+
 def set_metered_key(self, public_key, private_key):
     ...
 ```

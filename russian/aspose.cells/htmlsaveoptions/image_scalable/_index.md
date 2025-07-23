@@ -1,9 +1,9 @@
 ---
 title: image_scalable недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 470
+weight: 540
 url: /ru/aspose.cells/htmlsaveoptions/image_scalable/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 
 Указывает, используется ли масштабируемая единица измерения для описания ширины изображения.
 при использовании масштабируемой единицы для описания ширины столбца.
-Значение по умолчанию верно.
+Значение по умолчанию — true.
 ###  Определение:
 ```python
 @property

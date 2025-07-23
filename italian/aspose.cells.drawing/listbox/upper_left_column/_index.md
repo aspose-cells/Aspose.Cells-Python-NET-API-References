@@ -1,15 +1,15 @@
 ---
 title: upper_left_column proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1220
+weight: 1230
 url: /it/aspose.cells.drawing/listbox/upper_left_column/
 is_root: false
 ---
 ##  upper_left_column proprietà
 
-Rappresenta l'indice della colonna nell'angolo superiore sinistro.
+Rappresenta l'indice della colonna nell'angolo in alto a sinistra.
 
 ###  Esempio
 

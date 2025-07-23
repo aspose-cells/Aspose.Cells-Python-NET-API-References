@@ -1,6 +1,6 @@
 ---
 title: transparency недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  transparency недвижимость
 
-Получает и задает степень начального отражения transparency в виде значения от 0,0 (непрозрачный) до 1,0 (прозрачный).
+Получает и задает степень начального отражения transparency как значение от 0,0 (непрозрачный) до 1,0 (прозрачный).
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def transparency(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ReflectionEffect](/cells/python-net/ru/aspose.cells.drawing/reflectioneffect)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ReflectionEffect`](/cells/python-net/ru/aspose.cells.drawing/reflectioneffect)

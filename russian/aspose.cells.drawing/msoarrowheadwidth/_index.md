@@ -1,9 +1,9 @@
 ---
 title: MsoArrowheadWidth перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 990
+weight: 980
 url: /ru/aspose.cells.drawing/msoarrowheadwidth/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-Тип MsoArrowheadWidth предоставляет следующие члены:
+Тип MsoArrowheadWidth предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| NARROW | Ширина конца короткой линии.|
+| NARROW | Ширина короткого конца линии.|
 | MEDIUM | Средняя ширина конца линии.|
 | WIDE | Широкая ширина конца линии.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
+* модуль [`aspose.cells.drawing`](..)

@@ -1,9 +1,9 @@
 ---
 title: hyperlinks недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 350
+weight: 450
 url: /ru/aspose.cells/range/hyperlinks/
 is_root: false
 ---

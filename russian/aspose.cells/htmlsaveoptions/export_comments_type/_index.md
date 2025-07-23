@@ -1,15 +1,15 @@
 ---
 title: export_comments_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 200
+weight: 270
 url: /ru/aspose.cells/htmlsaveoptions/export_comments_type/
 is_root: false
 ---
 ##  export_comments_type недвижимость
 
-Представляет тип экспорта комментариев в файлы HTML.
+Представляет собой тип экспорта комментариев в html-файлы.
 ###  Определение:
 ```python
 @property

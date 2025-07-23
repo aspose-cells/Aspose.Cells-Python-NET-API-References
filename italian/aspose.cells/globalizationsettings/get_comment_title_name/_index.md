@@ -1,13 +1,13 @@
 ---
-title: metodo get_comment_title_name
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo get_comment_title_name
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
 url: /it/aspose.cells/globalizationsettings/get_comment_title_name/
 is_root: false
 ---
-##  get_comment_title_name(type) {#aspose.cells.rendering.CommentTitleType}
+##  get_comment_title_name(self, type) {#aspose.cells.rendering.CommentTitleType}
 Ottiene il nome del titolo del commento dipendente dalle impostazioni locali in base al tipo di titolo del commento.
 
 
@@ -17,6 +17,7 @@ Ottiene il nome del titolo del commento dipendente dalle impostazioni locali in 
 
 
 ```python
+
 def get_comment_title_name(self, type):
     ...
 ```
@@ -29,5 +30,5 @@ def get_comment_title_name(self, type):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [GlobalizationSettings](/cells/python-net/it/aspose.cells/globalizationsettings)
+* modulo [`aspose.cells`](../../)
+* classe [`GlobalizationSettings`](/cells/python-net/it/aspose.cells/globalizationsettings)

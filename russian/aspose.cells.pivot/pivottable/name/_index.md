@@ -1,15 +1,15 @@
 ---
 title: name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 670
+weight: 770
 url: /ru/aspose.cells.pivot/pivottable/name/
 is_root: false
 ---
 ##  name недвижимость
 
-Получает name сводной таблицы.
+Получает name сводной таблицы
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotTable](/cells/python-net/ru/aspose.cells.pivot/pivottable)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotTable`](/cells/python-net/ru/aspose.cells.pivot/pivottable)

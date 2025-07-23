@@ -1,15 +1,15 @@
 ---
 title: three_d_format недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1120
+weight: 1130
 url: /ru/aspose.cells.drawing/listbox/three_d_format/
 is_root: false
 ---
 ##  three_d_format недвижимость
 
-Получает и устанавливает 3D-формат фигуры.
+Получает и задает 3D-формат фигуры.
 
 ###  Пример
 

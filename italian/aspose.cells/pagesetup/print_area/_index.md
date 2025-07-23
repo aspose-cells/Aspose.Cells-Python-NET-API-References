@@ -1,6 +1,6 @@
 ---
 title: print_area proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 510
@@ -21,5 +21,5 @@ def print_area(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/it/aspose.cells/pagesetup)
+* modulo [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/it/aspose.cells/pagesetup)

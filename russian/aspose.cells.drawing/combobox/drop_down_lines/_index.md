@@ -1,6 +1,6 @@
 ---
 title: drop_down_lines недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 350
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  drop_down_lines недвижимость
 
-Получает или задает количество строк списка, отображаемых в раскрывающейся части поля со списком.
+Возвращает или задает количество строк списка, отображаемых в раскрывающейся части поля со списком.
 ###  Определение:
 ```python
 @property

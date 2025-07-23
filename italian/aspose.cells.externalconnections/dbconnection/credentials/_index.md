@@ -1,22 +1,13 @@
 ---
 title: credentials proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 90
+weight: 120
 url: /it/aspose.cells.externalconnections/dbconnection/credentials/
 is_root: false
 ---
 ##  credentials proprietà
-
-Specifica il metodo di autenticazione da utilizzare quando si stabilisce (o si ristabilisce) la connessione.
-
-###  Osservazioni
-
- NOTA: questa proprietà è ora obsoleta. Invece,
-utilizzare la proprietà ExternalConnection.CredentialsMethodType.
- Questa proprietà verrà rimossa 12 mesi dopo da ottobre 2017.
-Aspose si scusa per gli eventuali disagi causati.
 ###  Definizione:
 ```python
 @property
@@ -28,6 +19,6 @@ def credentials(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.externalconnections](../../)
-* classe [CredentialsMethodType](/cells/python-net/it/aspose.cells.externalconnections/credentialsmethodtype)
-* classe [DBConnection](/cells/python-net/it/aspose.cells.externalconnections/dbconnection)
+* modulo [`aspose.cells.externalconnections`](../../)
+* classe [`CredentialsMethodType`](/cells/python-net/it/aspose.cells.externalconnections/credentialsmethodtype)
+* classe [`DBConnection`](/cells/python-net/it/aspose.cells.externalconnections/dbconnection)

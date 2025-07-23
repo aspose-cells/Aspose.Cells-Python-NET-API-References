@@ -1,6 +1,6 @@
 ---
 title: right_angle_axes недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 510
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  right_angle_axes недвижимость
 
-Верно, если оси диаграммы расположены под прямым углом. Применяется только для трехмерных диаграмм (кроме Column3D и трехмерных круговых диаграмм).
+Истина, если оси диаграммы расположены под прямым углом. Применимо только к трёхмерным диаграммам (кроме Column3D и 3D Pie Charts).
 
 ###  Примечания
 

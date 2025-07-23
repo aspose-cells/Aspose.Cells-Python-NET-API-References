@@ -1,6 +1,6 @@
 ---
 title: header_margin недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 340
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  header_margin недвижимость
 
-Представляет расстояние от верхней части страницы до верхнего колонтитула в сантиметрах.
+Представляет расстояние от верха страницы до верхнего колонтитула в сантиметрах.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def header_margin(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PageSetup](/cells/python-net/ru/aspose.cells/pagesetup)
+* модуль [`aspose.cells`](../../)
+* класс [`PageSetup`](/cells/python-net/ru/aspose.cells/pagesetup)

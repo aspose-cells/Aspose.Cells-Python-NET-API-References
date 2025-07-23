@@ -1,15 +1,13 @@
 ---
 title: sort_names proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 300
+weight: 340
 url: /it/aspose.cells/pptxsaveoptions/sort_names/
 is_root: false
 ---
 ##  sort_names proprietà
-
-Indica se ordinare i nomi definiti prima di salvare il file.
 ###  Definizione:
 ```python
 @property

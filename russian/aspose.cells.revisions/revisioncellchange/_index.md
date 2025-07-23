@@ -1,6 +1,6 @@
 ---
 title: RevisionCellChange класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -8,28 +8,27 @@ url: /ru/aspose.cells.revisions/revisioncellchange/
 is_root: false
 ---
 ##  RevisionCellChange класс
-Представляет ревизию, изменяющую ячейки.
+Представляет собой ревизию, в которой изменяются ячейки.
 
 
 
-**Наследование:** [RevisionCellChange](/cells/python-net/aspose.cells.revisions/revisioncellchange) → 
-[Revision](/cells/python-net/ru/aspose.cells.revisions/revision)
+**Наследование:** [`RevisionCellChange`](/cells/python-net/ru/aspose.cells.revisions/revisioncellchange)
 
 
 
-Тип RevisionCellChange предоставляет следующие члены:
+Тип RevisionCellChange предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [type](/cells/python-net/ru/aspose.cells.revisions/revisioncellchange/type) | Представляет тип редакции.|
-| [worksheet](/cells/python-net/ru/aspose.cells.revisions/revisioncellchange/worksheet) | Получает рабочий лист.|
-| [id](/cells/python-net/ru/aspose.cells.revisions/revisioncellchange/id) | Получает номер этой версии.|
+| [type](/cells/python-net/ru/aspose.cells.revisions/revisioncellchange/type) | Представляет тип ревизии.|
+| [worksheet](/cells/python-net/ru/aspose.cells.revisions/revisioncellchange/worksheet) |  |
+| [id](/cells/python-net/ru/aspose.cells.revisions/revisioncellchange/id) |  |
 | [cell_name](/cells/python-net/ru/aspose.cells.revisions/revisioncellchange/cell_name) | Получает имя ячейки.|
 | [row](/cells/python-net/ru/aspose.cells.revisions/revisioncellchange/row) | Получает индекс строки ячейки.|
 | [column](/cells/python-net/ru/aspose.cells.revisions/revisioncellchange/column) | Получает индекс столбца ячейки.|
-| [is_new_formatted](/cells/python-net/ru/aspose.cells.revisions/revisioncellchange/is_new_formatted) | Указывает, является ли эта ячейка новым форматированием.|
-| [is_old_formatted](/cells/python-net/ru/aspose.cells.revisions/revisioncellchange/is_old_formatted) | Указывает, является ли эта ячейка старым форматированием.|
+| [is_new_formatted](/cells/python-net/ru/aspose.cells.revisions/revisioncellchange/is_new_formatted) | Указывает, отформатирована ли эта ячейка по-новому.|
+| [is_old_formatted](/cells/python-net/ru/aspose.cells.revisions/revisioncellchange/is_old_formatted) | Указывает, имеет ли эта ячейка старый формат.|
 | [old_formula](/cells/python-net/ru/aspose.cells.revisions/revisioncellchange/old_formula) | Получает старую формулу.|
 | [old_value](/cells/python-net/ru/aspose.cells.revisions/revisioncellchange/old_value) | Получает старое значение ячейки.|
 | [new_value](/cells/python-net/ru/aspose.cells.revisions/revisioncellchange/new_value) | Получает новое значение ячейки.|
@@ -40,6 +39,5 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.revisions](..)
-* класс [Revision](/cells/python-net/ru/aspose.cells.revisions/revision)
-* класс [RevisionCellChange](/cells/python-net/ru/aspose.cells.revisions/revisioncellchange)
+* модуль [`aspose.cells.revisions`](..)
+* класс [`RevisionCellChange`](/cells/python-net/ru/aspose.cells.revisions/revisioncellchange)

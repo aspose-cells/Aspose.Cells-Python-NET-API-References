@@ -1,6 +1,6 @@
 ---
 title: root_element_name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -18,5 +18,5 @@ def root_element_name(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [XmlMap](/cells/python-net/ru/aspose.cells/xmlmap)
+* модуль [`aspose.cells`](../../)
+* класс [`XmlMap`](/cells/python-net/ru/aspose.cells/xmlmap)

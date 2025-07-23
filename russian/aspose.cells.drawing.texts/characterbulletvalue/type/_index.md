@@ -1,6 +1,6 @@
 ---
 title: type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [BulletType](/cells/python-net/ru/aspose.cells.drawing.texts/bullettype)
-* класс [CharacterBulletValue](/cells/python-net/ru/aspose.cells.drawing.texts/characterbulletvalue)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`BulletType`](/cells/python-net/ru/aspose.cells.drawing.texts/bullettype)
+* класс [`CharacterBulletValue`](/cells/python-net/ru/aspose.cells.drawing.texts/characterbulletvalue)

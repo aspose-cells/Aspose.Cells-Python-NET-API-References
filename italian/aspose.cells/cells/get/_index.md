@@ -1,14 +1,14 @@
 ---
 title: Metodo get
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 300
 url: /it/aspose.cells/cells/get/
 is_root: false
 ---
-##  get {#str}
-Aggiungi API for Python Via .Net.poiché questo[string cellName] non è supportato
+##  get(self, cell_name) {#str}
+Aggiungi API for Python tramite .Net poiché questo [string cellName] non è supportato
 
 
 ###  ritorna
@@ -17,6 +17,7 @@ Un oggetto [`Cell`](/cells/python-net/it/aspose.cells/cell)
 
 
 ```python
+
 def get(self, cell_name):
     ...
 ```
@@ -24,11 +25,11 @@ def get(self, cell_name):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| cell_name | str | Cell nome, inclusa la lettera della colonna e il numero della riga, ad esempio A5.|
+| cell_name | str | Cell nome, inclusa la lettera della colonna e il numero di riga, ad esempio A5.|
 
 
-##  get {#int-int}
-Aggiungi API for Python Via .Net.poiché questo[int riga, int colonna] non è supportato
+##  get(self, row, column) {#int-int}
+Aggiungi API for Python tramite .Net. poiché questo [int riga, int colonna] non è supportato
 
 
 ###  ritorna
@@ -37,6 +38,7 @@ L'oggetto [`Cell`](/cells/python-net/it/aspose.cells/cell).
 
 
 ```python
+
 def get(self, row, column):
     ...
 ```
@@ -44,7 +46,7 @@ def get(self, row, column):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| row | int | Indice delle righe.|
+| row | int | Indice di riga.|
 | column | int | Indice delle colonne.|
 
 

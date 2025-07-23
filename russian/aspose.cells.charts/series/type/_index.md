@@ -1,6 +1,6 @@
 ---
 title: type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 480
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type недвижимость
 
-Получает или задает серию данных type.
+Получает или задает ряд данных type.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [ChartType](/cells/python-net/ru/aspose.cells.charts/charttype)
-* класс [Series](/cells/python-net/ru/aspose.cells.charts/series)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`ChartType`](/cells/python-net/ru/aspose.cells.charts/charttype)
+* класс [`Series`](/cells/python-net/ru/aspose.cells.charts/series)

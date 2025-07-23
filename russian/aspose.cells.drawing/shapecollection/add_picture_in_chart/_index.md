@@ -1,22 +1,23 @@
 ---
 title: add_picture_in_chart метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 220
+weight: 240
 url: /ru/aspose.cells.drawing/shapecollection/add_picture_in_chart/
 is_root: false
 ---
-##  add_picture_in_chart(top, left, stream, width_scale, height_scale) {#int-int-io.RawIOBase-int-int}
-Добавляет изображение на диаграмму.
+##  add_picture_in_chart(self, top, left, stream, width_scale, height_scale) {#int-int-io.RawIOBase-int-int}
+Добавляет картинку на диаграмму.
 
 
-###  Возвращает
+###  Возврат
 
 Возвращает объект Picture.
 
 
 ```python
+
 def add_picture_in_chart(self, top, left, stream, width_scale, height_scale):
     ...
 ```
@@ -24,14 +25,14 @@ def add_picture_in_chart(self, top, left, stream, width_scale, height_scale):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| top | int |Представляет вертикальное смещение фигуры от верхнего левого угла в единицах 1/4000 области диаграммы.|
-| left | int | Представляет горизонтальное смещение фигуры от верхнего левого угла в единицах 1/4000 области диаграммы.|
-| stream | io.RawIOBase | Потоковый объект, содержащий данные изображения.|
-| width_scale | int | Масштаб ширины изображения в процентах.|
-| height_scale | int | Масштаб высоты изображения в процентах.|
+| top | int | Представляет собой вертикальное смещение фигуры от верхнего левого угла в единицах 1/4000 площади диаграммы.|
+| left | int |Представляет собой горизонтальное смещение фигуры от верхнего левого угла в единицах 1/4000 площади диаграммы.|
+| stream | io.RawIOBase | Объект потока, содержащий данные изображения.|
+| width_scale | int | Масштаб ширины изображения, процент.|
+| height_scale | int | Масштаб высоты изображения, процент.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ShapeCollection](/cells/python-net/ru/aspose.cells.drawing/shapecollection)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ShapeCollection`](/cells/python-net/ru/aspose.cells.drawing/shapecollection)

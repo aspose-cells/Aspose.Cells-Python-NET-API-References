@@ -1,6 +1,6 @@
 ---
 title: direction_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -18,6 +18,6 @@ def direction_type(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [GradientDirectionType](/cells/python-net/ru/aspose.cells.drawing/gradientdirectiontype)
-* класс [GradientFill](/cells/python-net/ru/aspose.cells.drawing/gradientfill)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`GradientDirectionType`](/cells/python-net/ru/aspose.cells.drawing/gradientdirectiontype)
+* класс [`GradientFill`](/cells/python-net/ru/aspose.cells.drawing/gradientfill)

@@ -1,6 +1,6 @@
 ---
 title: amount недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,8 +9,11 @@ is_root: false
 ---
 ##  amount недвижимость
 
-Представляет amount панели ошибок.
- amount должен быть больше или равен нулю.
+Представляет собой amount погрешности.
+
+###  Примечания
+
+Число amount должно быть больше или равно нулю.
 ###  Определение:
 ```python
 @property
@@ -22,5 +25,5 @@ def amount(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [ErrorBar](/cells/python-net/ru/aspose.cells.charts/errorbar)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`ErrorBar`](/cells/python-net/ru/aspose.cells.charts/errorbar)

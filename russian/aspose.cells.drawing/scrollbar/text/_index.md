@@ -1,15 +1,15 @@
 ---
 title: text недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 990
+weight: 1000
 url: /ru/aspose.cells.drawing/scrollbar/text/
 is_root: false
 ---
 ##  text недвижимость
 
-Представляет строку в этом объекте TextBox.
+Получает и задает text этой формы.
 
 ###  Пример
 

@@ -1,6 +1,6 @@
 ---
 title: bottom_crop proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom_crop proprietà
 
-Rappresenta la posizione della parte inferiore del rettangolo di ritaglio espressa, espressa come rapporto dell'altezza dell'immagine.
+Rappresenta la posizione della parte inferiore del rettangolo di ritaglio, espressa come rapporto dell'altezza dell'immagine.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def bottom_crop(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [MsoFormatPicture](/cells/python-net/it/aspose.cells.drawing/msoformatpicture)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`MsoFormatPicture`](/cells/python-net/it/aspose.cells.drawing/msoformatpicture)

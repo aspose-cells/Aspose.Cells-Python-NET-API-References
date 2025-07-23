@@ -1,9 +1,9 @@
 ---
 title: lower_right_column proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 790
+weight: 800
 url: /it/aspose.cells.drawing/checkbox/lower_right_column/
 is_root: false
 ---

@@ -1,20 +1,20 @@
 ---
 title: tiff_color_depth proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 360
+weight: 370
 url: /it/aspose.cells.rendering/imageorprintoptions/tiff_color_depth/
 is_root: false
 ---
 ##  tiff_color_depth proprietà
 
-Ottiene o imposta la profondità in bit da applicare solo quando si salvano le pagine nel formato `Tiff`.
+Ottiene o imposta la profondità di bit da applicare solo quando si salvano le pagine nel formato `Tiff`.
 
 ###  Osservazioni
 
-Ha effetto solo quando si salva su TIFF.
-Se TiffCompression è impostato su CCITT3, CCITT4, ciò non avrà effetto, la profondità di bit dell'immagine tiff generata sarà sempre 1.
+Ha effetto solo se si salva su TIFF.
+Se TiffCompression è impostato su CCITT3, CCITT4, questo non avrà effetto, la profondità di bit dell'immagine tiff generata sarà sempre 1.
 ###  Definizione:
 ```python
 @property

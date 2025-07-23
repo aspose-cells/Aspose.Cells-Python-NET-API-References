@@ -1,22 +1,23 @@
 ---
 title: add метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells/worksheetcollection/add/
 is_root: false
 ---
-##  add() {#}
+##  add(self) {#}
 Добавляет рабочий лист в коллекцию.
 
 
-###  Возвращает
+###  Возврат
 
-[Worksheet](/cells/python-net/ru/aspose.cells/worksheet) индекс объекта.
+Индекс объекта [`Worksheet`](/cells/python-net/ru/aspose.cells/worksheet).
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -24,16 +25,17 @@ def add(self):
 
 
 
-##  add(type) {#SheetType}
+##  add(self, type) {#aspose.cells.SheetType}
 Добавляет рабочий лист в коллекцию.
 
 
-###  Возвращает
+###  Возврат
 
-[Worksheet](/cells/python-net/ru/aspose.cells/worksheet) индекс объекта.
+Индекс объекта [`Worksheet`](/cells/python-net/ru/aspose.cells/worksheet).
 
 
 ```python
+
 def add(self, type):
     ...
 ```
@@ -41,7 +43,7 @@ def add(self, type):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| type | [SheetType](/cells/python-net/ru/aspose.cells/sheettype) | Тип рабочего листа.|
+| type | [`SheetType`](/cells/python-net/ru/aspose.cells/sheettype) | Тип рабочего листа.|
 
 ###  Пример
 
@@ -65,16 +67,17 @@ chart.n_series.add("Sheet1!C2:C6", True)
 ```
 
 
-##  add(sheet_name) {#str}
+##  add(self, sheet_name) {#str}
 Добавляет рабочий лист в коллекцию.
 
 
-###  Возвращает
+###  Возврат
 
-[Worksheet](/cells/python-net/ru/aspose.cells/worksheet) объект.
+[`Worksheet`](/cells/python-net/ru/aspose.cells/worksheet) объект.
 
 
 ```python
+
 def add(self, sheet_name):
     ...
 ```
@@ -87,6 +90,6 @@ def add(self, sheet_name):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Worksheet](/cells/python-net/ru/aspose.cells/worksheet)
-* класс [WorksheetCollection](/cells/python-net/ru/aspose.cells/worksheetcollection)
+* модуль [`aspose.cells`](../../)
+* класс [`Worksheet`](/cells/python-net/ru/aspose.cells/worksheet)
+* класс [`WorksheetCollection`](/cells/python-net/ru/aspose.cells/worksheetcollection)

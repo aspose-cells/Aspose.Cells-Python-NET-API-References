@@ -1,15 +1,15 @@
 ---
 title: linked_cell недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 770
+weight: 780
 url: /ru/aspose.cells.drawing/listbox/linked_cell/
 is_root: false
 ---
 ##  linked_cell недвижимость
 
-Получает или задает диапазон листа, связанный со значением элемента управления.
+Возвращает или задает диапазон рабочего листа, связанный со значением элемента управления.
 
 ###  Пример
 

@@ -1,15 +1,15 @@
 ---
 title: threaded_comment_authors proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 360
+weight: 390
 url: /it/aspose.cells/worksheetcollection/threaded_comment_authors/
 is_root: false
 ---
 ##  threaded_comment_authors proprietà
 
-Ottiene l'elenco degli autori dei commenti in thread.
+Ottiene l'elenco degli autori dei commenti con thread.
 ###  Definizione:
 ```python
 @property

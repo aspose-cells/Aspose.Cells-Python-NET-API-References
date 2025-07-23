@@ -1,15 +1,15 @@
 ---
 title: is_automatic_size proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 150
+weight: 210
 url: /it/aspose.cells.charts/chartarea/is_automatic_size/
 is_root: false
 ---
 ##  is_automatic_size proprietà
 
-Indica se la cornice del grafico è ridimensionata automaticamente.
+Indica se la cornice del grafico ha dimensioni automatiche.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_automatic_size(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [ChartArea](/cells/python-net/it/aspose.cells.charts/chartarea)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`ChartArea`](/cells/python-net/it/aspose.cells.charts/chartarea)

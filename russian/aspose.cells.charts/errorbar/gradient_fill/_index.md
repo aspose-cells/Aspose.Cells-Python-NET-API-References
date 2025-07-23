@@ -1,6 +1,6 @@
 ---
 title: gradient_fill недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 160
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gradient_fill недвижимость
 
-Представляет градиентную заливку.
+Представляет собой градиентную заливку.
 ###  Определение:
 ```python
 @property
@@ -18,6 +18,6 @@ def gradient_fill(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [ErrorBar](/cells/python-net/ru/aspose.cells.charts/errorbar)
-* класс [GradientFill](/cells/python-net/ru/aspose.cells.drawing/gradientfill)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`ErrorBar`](/cells/python-net/ru/aspose.cells.charts/errorbar)
+* класс [`GradientFill`](/cells/python-net/ru/aspose.cells.drawing/gradientfill)

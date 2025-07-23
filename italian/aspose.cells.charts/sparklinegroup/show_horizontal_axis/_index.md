@@ -1,6 +1,6 @@
 ---
 title: show_horizontal_axis proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 200
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_horizontal_axis proprietà
 
-Indica se mostrare l'asse orizzontale del grafico sparkline.
+Indica se visualizzare l'asse orizzontale dello sparkline.
 L'asse orizzontale viene visualizzato se il grafico sparkline contiene dati che attraversano l'asse zero.
 ###  Definizione:
 ```python
@@ -22,5 +22,5 @@ def show_horizontal_axis(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [SparklineGroup](/cells/python-net/it/aspose.cells.charts/sparklinegroup)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`SparklineGroup`](/cells/python-net/it/aspose.cells.charts/sparklinegroup)

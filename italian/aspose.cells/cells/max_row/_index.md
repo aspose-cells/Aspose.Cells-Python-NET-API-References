@@ -1,19 +1,22 @@
 ---
 title: max_row proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1120
+weight: 1150
 url: /it/aspose.cells/cells/max_row/
 is_root: false
 ---
 ##  max_row proprietà
 
-Indice massimo della riga della cella che contiene dati o stile.
+Indice massimo di riga della cella che contiene dati o stile.
 
 ###  Osservazioni
 
-Restituisce -1 se nel foglio di lavoro non è presente alcuna cella che contenga dati o stile.
+Restituisce -1 se nel foglio di lavoro non è presente alcuna cella contenente dati o stile.
+Questa proprietà deve iterare e controllare dinamicamente celle e righe,
+quindi è un progresso che richiede tempo e non dovrebbe essere invocato ripetutamente,
+ad esempio utilizzandolo direttamente come condizione in un ciclo.
 ###  Definizione:
 ```python
 @property

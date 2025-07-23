@@ -1,6 +1,6 @@
 ---
 title: is_threaded_comment proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 160
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_threaded_comment proprietà
 
-Indica se questo commento è un commento in thread.
+Indica se questo commento è un commento con thread.
 
 ###  Esempio
 

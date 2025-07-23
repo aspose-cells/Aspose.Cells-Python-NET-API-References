@@ -1,6 +1,6 @@
 ---
 title: period proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 290
@@ -14,7 +14,7 @@ Restituisce o imposta period per la linea di tendenza della media mobile.
 ###  Osservazioni
 
 Questo valore dovrebbe essere compreso tra 2 e 255.
-E deve essere inferiore al numero dei punti del grafico nella serie
+E deve essere inferiore al numero di punti del grafico nella serie
 ###  Definizione:
 ```python
 @property
@@ -26,5 +26,5 @@ def period(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Trendline](/cells/python-net/it/aspose.cells.charts/trendline)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Trendline`](/cells/python-net/it/aspose.cells.charts/trendline)

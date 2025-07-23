@@ -1,6 +1,6 @@
 ---
 title: picture_size_mode недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 230
@@ -21,6 +21,6 @@ def picture_size_mode(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [ControlPictureSizeMode](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/controlpicturesizemode)
-* класс [ImageActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`ControlPictureSizeMode`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/controlpicturesizemode)
+* класс [`ImageActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

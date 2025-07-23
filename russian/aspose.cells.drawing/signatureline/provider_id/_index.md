@@ -1,6 +1,6 @@
 ---
 title: provider_id недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  provider_id недвижимость
 
-Получает и задает идентификатор поставщика подписи.
+Получает или задает идентификатор поставщика подписи.
 
 ###  Примечания
 
-Обычно это CLSID надстройки com поставщика.
+Обычно это CLSID надстройки com-провайдера.
 
 ###  Пример
 
@@ -23,7 +23,7 @@ from uuid import uuid4
 
 #  Create signature line object
 s2 = SignatureLine()
-s2.provider_id = uuid4()
+s2.provider_id = uuid4("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx")
 
 ```
 ###  Определение:
@@ -37,5 +37,5 @@ def provider_id(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [SignatureLine](/cells/python-net/ru/aspose.cells.drawing/signatureline)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`SignatureLine`](/cells/python-net/ru/aspose.cells.drawing/signatureline)

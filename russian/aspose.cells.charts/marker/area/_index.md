@@ -1,6 +1,6 @@
 ---
 title: area недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  area недвижимость
 
-Получает [Marker.area](/cells/python-net/ru/aspose.cells.charts/marker#area).
+Получает [`Marker.area`](/cells/python-net/ru/aspose.cells.charts/marker#area).
 ###  Определение:
 ```python
 @property
@@ -18,6 +18,6 @@ def area(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Area](/cells/python-net/ru/aspose.cells.drawing/area)
-* класс [Marker](/cells/python-net/ru/aspose.cells.charts/marker)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Area`](/cells/python-net/ru/aspose.cells.drawing/area)
+* класс [`Marker`](/cells/python-net/ru/aspose.cells.charts/marker)

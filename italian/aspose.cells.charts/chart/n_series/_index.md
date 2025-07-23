@@ -1,6 +1,6 @@
 ---
 title: n_series proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 380
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  n_series proprietà
 
-Ottiene una raccolta [`SeriesCollection`](/cells/python-net/it/aspose.cells.charts/seriescollection) che rappresenta la serie di dati nel grafico.
+Ottiene una raccolta [`SeriesCollection`](/cells/python-net/it/aspose.cells.charts/seriescollection) che rappresenta le serie di dati nel grafico.
 ###  Definizione:
 ```python
 @property

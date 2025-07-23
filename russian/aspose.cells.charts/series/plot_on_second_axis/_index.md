@@ -1,6 +1,6 @@
 ---
 title: plot_on_second_axis недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 360
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_on_second_axis недвижимость
 
-Указывает, нанесен ли этот ряд на вторую ось значений.
+Указывает, отображен ли этот ряд на второй оси значений.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def plot_on_second_axis(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Series](/cells/python-net/ru/aspose.cells.charts/series)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Series`](/cells/python-net/ru/aspose.cells.charts/series)

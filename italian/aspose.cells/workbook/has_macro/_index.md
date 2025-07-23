@@ -1,9 +1,9 @@
 ---
 title: has_macro proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 580
+weight: 620
 url: /it/aspose.cells/workbook/has_macro/
 is_root: false
 ---

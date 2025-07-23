@@ -1,6 +1,6 @@
 ---
 title: fore_color_transparency proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fore_color_transparency proprietà
 
-Restituisce o imposta il grado di colore di primo piano del riempimento specificato come valore compreso tra 0,0 (opaco) e 1,0 (chiaro).
+Restituisce o imposta il grado di colore di primo piano del riempimento specificato come valore compreso tra 0,0 (opaco) e 1,0 (trasparente).
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def fore_color_transparency(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [MsoFillFormatHelper](/cells/python-net/it/aspose.cells.drawing/msofillformathelper)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`MsoFillFormatHelper`](/cells/python-net/it/aspose.cells.drawing/msofillformathelper)

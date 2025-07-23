@@ -1,9 +1,9 @@
 ---
 title: sheet_tab_bar_width proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 450
+weight: 480
 url: /it/aspose.cells/workbooksettings/sheet_tab_bar_width/
 is_root: false
 ---

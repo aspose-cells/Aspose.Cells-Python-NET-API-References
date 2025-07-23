@@ -1,6 +1,6 @@
 ---
 title: plot_empty_cells_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 470

@@ -1,9 +1,9 @@
 ---
 title: FontSetting класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 700
+weight: 690
 url: /ru/aspose.cells/fontsetting/
 is_root: false
 ---
@@ -17,14 +17,14 @@ is_root: false
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [__init__](/cells/python-net/ru/aspose.cells/fontsetting/__init__/#int-int-aspose.cells.WorksheetCollection) |  |
+| [`__init__(self, start_index, length, sheets)`](/cells/python-net/ru/aspose.cells/fontsetting/__init__/#int-int-aspose.cells.worksheetcollection) |  |
 
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [type](/cells/python-net/ru/aspose.cells/fontsetting/type) | Получает тип текстового узла.|
-| [start_index](/cells/python-net/ru/aspose.cells/fontsetting/start_index) |Получает начальный индекс символов.|
+| [type](/cells/python-net/ru/aspose.cells/fontsetting/type) |Получает тип текстового узла.|
+| [start_index](/cells/python-net/ru/aspose.cells/fontsetting/start_index) | Получает начальный индекс символов.|
 | [length](/cells/python-net/ru/aspose.cells/fontsetting/length) | Получает длину символов.|
 | [font](/cells/python-net/ru/aspose.cells/fontsetting/font) | Возвращает шрифт этого объекта.|
 | [text_options](/cells/python-net/ru/aspose.cells/fontsetting/text_options) | Возвращает параметры текста.|
@@ -33,7 +33,7 @@ is_root: false
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [set_word_art_style](/cells/python-net/ru/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | Устанавливает предустановленный стиль WordArt.|
+| [`set_word_art_style(self, style)`](/cells/python-net/ru/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.presetwordartstyle) | Устанавливает предустановленный стиль WordArt.|
 
 
 

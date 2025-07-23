@@ -1,24 +1,25 @@
 ---
 title: get_style_in_pool метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 190
+weight: 200
 url: /ru/aspose.cells/workbook/get_style_in_pool/
 is_root: false
 ---
-##  get_style_in_pool(index) {#int}
+##  get_style_in_pool(self, index) {#int}
 Получает стиль из пула стилей.
-Все стили в книге будут собраны в пул.
-В ячейках есть только простой ссылочный индекс.
+Все стили в рабочей книге будут объединены в пул.
+В ячейках имеется только простой справочный индекс.
 
 
-###  Возвращает
+###  Возврат
 
-Стиль в пуле соответствует заданному индексу, может быть нулевым.
+Стиль в пуле соответствует указанному индексу, может быть нулевым.
 
 
 ```python
+
 def get_style_in_pool(self, index):
     ...
 ```
@@ -29,10 +30,10 @@ def get_style_in_pool(self, index):
 | index | int | Индекс.|
 ###  Примечания
 
-Если возвращенный стиль изменен, стиль всех ячеек (которые относятся к этому стилю) будут изменены.
+Если возвращаемый стиль изменен, стиль всех ячеек (которые ссылаются на этот стиль) также будет изменен.
 
 
 ###  Смотрите также
 
-* модуль [aspose.cells](../../)
-* класс [Workbook](/cells/python-net/ru/aspose.cells/workbook)
+* модуль [`aspose.cells`](../../)
+* класс [`Workbook`](/cells/python-net/ru/aspose.cells/workbook)

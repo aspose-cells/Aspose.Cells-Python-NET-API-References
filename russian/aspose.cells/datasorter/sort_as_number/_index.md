@@ -1,9 +1,9 @@
 ---
 title: sort_as_number недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 150
+weight: 160
 url: /ru/aspose.cells/datasorter/sort_as_number/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def sort_as_number(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [DataSorter](/cells/python-net/ru/aspose.cells/datasorter)
+* модуль [`aspose.cells`](../../)
+* класс [`DataSorter`](/cells/python-net/ru/aspose.cells/datasorter)

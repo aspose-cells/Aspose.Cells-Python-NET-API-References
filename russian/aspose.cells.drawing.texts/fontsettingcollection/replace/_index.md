@@ -1,18 +1,19 @@
 ---
 title: replace метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 110
 url: /ru/aspose.cells.drawing.texts/fontsettingcollection/replace/
 is_root: false
 ---
-##  replace(old_value, new_value) {#str-str}
-Замените текст.
+##  replace(self, old_value, new_value) {#str-str}
+Заменить текст.
 
 
 
 ```python
+
 def replace(self, old_value, new_value):
     ...
 ```
@@ -24,12 +25,13 @@ def replace(self, old_value, new_value):
 | new_value | str | Новый текст.|
 
 
-##  replace(index, count, text) {#int-int-str}
-Замените текст.
+##  replace(self, index, count, text) {#int-int-str}
+Заменить текст.
 
 
 
 ```python
+
 def replace(self, index, count, text):
     ...
 ```
@@ -44,5 +46,5 @@ def replace(self, index, count, text):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [FontSettingCollection](/cells/python-net/ru/aspose.cells.drawing.texts/fontsettingcollection)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`FontSettingCollection`](/cells/python-net/ru/aspose.cells.drawing.texts/fontsettingcollection)

@@ -1,6 +1,6 @@
 ---
 title: refer_to_destination_sheet proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -11,11 +11,11 @@ is_root: false
 
 Quando si copia l'intervallo nello stesso file e il grafico fa riferimento al foglio di origine,
 Falso significa che l'origine dati del grafico copiato non verrà modificata.
-True significa che l'origine dati del grafico copiato fa riferimento al foglio di destinazione.
+Vero significa che l'origine dati del grafico copiato fa riferimento al foglio di destinazione.
 
 ###  Osservazioni
 
-Il valore predefinito è false, funziona come MS Excel.
+Il valore predefinito è false e funziona come MS Excel.
 ###  Definizione:
 ```python
 @property
@@ -27,5 +27,5 @@ def refer_to_destination_sheet(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CopyOptions](/cells/python-net/it/aspose.cells/copyoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`CopyOptions`](/cells/python-net/it/aspose.cells/copyoptions)

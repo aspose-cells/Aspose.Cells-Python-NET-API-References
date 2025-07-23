@@ -1,15 +1,15 @@
 ---
 title: shape_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 370
+weight: 440
 url: /ru/aspose.cells.charts/datalabels/shape_type/
 is_root: false
 ---
 ##  shape_type недвижимость
 
-Получает или задает тип формы метки данных.
+Возвращает или задает тип формы метки данных.
 ###  Определение:
 ```python
 @property

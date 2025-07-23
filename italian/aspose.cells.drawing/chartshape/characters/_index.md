@@ -1,22 +1,23 @@
 ---
-title: metodo characters
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo characters
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
 url: /it/aspose.cells.drawing/chartshape/characters/
 is_root: false
 ---
-##  characters(start_index, length) {#int-int}
+##  characters(self, start_index, length) {#int-int}
 Restituisce un oggetto Characters che rappresenta un intervallo di characters all'interno del testo.
 
 
 ###  ritorna
 
-Oggetto Personaggi.
+I personaggi si oppongono.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -28,7 +29,7 @@ def characters(self, start_index, length):
 | length | int | Il numero di caratteri.|
 ###  Osservazioni
 
-Questo metodo funziona solo sulla forma con titolo.
+Questo metodo funziona solo sulle forme con titolo.
 ###  Esempio
 
 
@@ -41,5 +42,5 @@ fontSetting = shape.characters(0, 4)
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ChartShape](/cells/python-net/it/aspose.cells.drawing/chartshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ChartShape`](/cells/python-net/it/aspose.cells.drawing/chartshape)

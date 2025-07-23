@@ -1,22 +1,23 @@
 ---
-title: metodo get_input_range
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo get_input_range
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 90
+weight: 110
 url: /it/aspose.cells.drawing/chartshape/get_input_range/
 is_root: false
 ---
-##  get_input_range(is_r1c1, is_local) {#bool-bool}
-Ottiene l'intervallo usato per riempire il controllo.
+##  get_input_range(self, is_r1c1, is_local) {#bool-bool}
+Ottiene l'intervallo utilizzato per riempire il controllo.
 
 
 ###  ritorna
 
-L'intervallo usato per riempire il controllo.
+L'intervallo utilizzato per riempire il controllo.
 
 
 ```python
+
 def get_input_range(self, is_r1c1, is_local):
     ...
 ```
@@ -38,5 +39,5 @@ range = shape.get_input_range(False, True)
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ChartShape](/cells/python-net/it/aspose.cells.drawing/chartshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ChartShape`](/cells/python-net/it/aspose.cells.drawing/chartshape)

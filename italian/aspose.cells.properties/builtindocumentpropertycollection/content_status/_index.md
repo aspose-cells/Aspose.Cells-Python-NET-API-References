@@ -1,9 +1,9 @@
 ---
 title: content_status proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 150
+weight: 160
 url: /it/aspose.cells.properties/builtindocumentpropertycollection/content_status/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def content_status(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.properties](../../)
-* classe [BuiltInDocumentPropertyCollection](/cells/python-net/it/aspose.cells.properties/builtindocumentpropertycollection)
+* modulo [`aspose.cells.properties`](../../)
+* classe [`BuiltInDocumentPropertyCollection`](/cells/python-net/it/aspose.cells.properties/builtindocumentpropertycollection)

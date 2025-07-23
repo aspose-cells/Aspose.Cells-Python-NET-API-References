@@ -1,9 +1,9 @@
 ---
 title: text_vertical_overflow proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1100
+weight: 1110
 url: /it/aspose.cells.drawing/scrollbar/text_vertical_overflow/
 is_root: false
 ---

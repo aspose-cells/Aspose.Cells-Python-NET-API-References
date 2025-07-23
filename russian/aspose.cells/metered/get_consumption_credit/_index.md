@@ -1,6 +1,6 @@
 ---
 title: get_consumption_credit метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
@@ -11,13 +11,15 @@ is_root: false
 Получает потребительский кредит
 
 
-###  Возвращает
+###  Возврат
 
-объем потребления
+количество потребления
 
 
 ```python
-def get_consumption_credit(self):
+
+@staticmethod
+def get_consumption_credit():
     ...
 ```
 
@@ -26,5 +28,5 @@ def get_consumption_credit(self):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Metered](/cells/python-net/ru/aspose.cells/metered)
+* модуль [`aspose.cells`](../../)
+* класс [`Metered`](/cells/python-net/ru/aspose.cells/metered)

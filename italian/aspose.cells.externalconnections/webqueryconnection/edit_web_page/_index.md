@@ -1,9 +1,9 @@
 ---
 title: edit_web_page proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 90
+weight: 140
 url: /it/aspose.cells.externalconnections/webqueryconnection/edit_web_page/
 is_root: false
 ---
@@ -24,5 +24,5 @@ def edit_web_page(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.externalconnections](../../)
-* classe [WebQueryConnection](/cells/python-net/it/aspose.cells.externalconnections/webqueryconnection)
+* modulo [`aspose.cells.externalconnections`](../../)
+* classe [`WebQueryConnection`](/cells/python-net/it/aspose.cells.externalconnections/webqueryconnection)

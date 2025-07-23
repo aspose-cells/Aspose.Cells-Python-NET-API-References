@@ -1,6 +1,6 @@
 ---
 title: export_column_name недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  export_column_name недвижимость
 
-Указывает, экспортируются ли данные в первой строке в имя столбца DataTable.
-Значение по умолчанию неверно.
+Указывает, экспортируются ли данные из первой строки в имя столбца DataTable.
+Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property

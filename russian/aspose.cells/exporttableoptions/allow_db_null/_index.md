@@ -1,6 +1,6 @@
 ---
 title: allow_db_null недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_db_null недвижимость
 
-Это значение указывает, разрешены ли DBNull в этой таблице.
+Это значение указывает, разрешены ли значения DBNulls в этой таблице.
 ###  Определение:
 ```python
 @property

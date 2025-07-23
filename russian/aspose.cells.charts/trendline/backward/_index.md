@@ -1,6 +1,6 @@
 ---
 title: backward недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  backward недвижимость
 
- Возвращает или задает количество периодов (или единиц на точечной диаграмме), на которое проходит линия тренда backward.
+ Возвращает или задает количество периодов (или единиц на диаграмме рассеяния), на которое распространяется линия тренда backward.
 Количество периодов должно быть больше или равно нулю.
-Если тип диаграммы — столбец, количество периодов должно быть от 0 до 0,5.
+Если тип диаграммы — столбчатая, количество периодов должно быть от 0 до 0,5.
 ###  Определение:
 ```python
 @property
@@ -23,5 +23,5 @@ def backward(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Trendline](/cells/python-net/ru/aspose.cells.charts/trendline)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Trendline`](/cells/python-net/ru/aspose.cells.charts/trendline)

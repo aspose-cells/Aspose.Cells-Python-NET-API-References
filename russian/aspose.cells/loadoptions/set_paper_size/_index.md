@@ -1,18 +1,19 @@
 ---
 title: set_paper_size метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells/loadoptions/set_paper_size/
 is_root: false
 ---
-##  set_paper_size(type) {#PaperSizeType}
-Устанавливает размер бумаги для печати по умолчанию из настроек принтера по умолчанию.
+##  set_paper_size(self, type) {#aspose.cells.PaperSizeType}
+Устанавливает размер бумаги для печати по умолчанию в соответствии с настройками принтера по умолчанию.
 
 
 
 ```python
+
 def set_paper_size(self, type):
     ...
 ```
@@ -20,13 +21,13 @@ def set_paper_size(self, type):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| type | [PaperSizeType](/cells/python-net/ru/aspose.cells/papersizetype) | Размер бумаги по умолчанию.|
+| type | [`PaperSizeType`](/cells/python-net/ru/aspose.cells/papersizetype) | Размер бумаги по умолчанию.|
 ###  Примечания
 
-Если нет настроек размера бумаги, MS Excel будет использовать настройки принтера по умолчанию.
+Если настройки размера бумаги не заданы, MS Excel будет использовать настройки принтера по умолчанию.
 
 
 ###  Смотрите также
 
-* модуль [aspose.cells](../../)
-* класс [LoadOptions](/cells/python-net/ru/aspose.cells/loadoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`LoadOptions`](/cells/python-net/ru/aspose.cells/loadoptions)

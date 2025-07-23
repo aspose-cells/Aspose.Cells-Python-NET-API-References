@@ -1,9 +1,9 @@
 ---
 title: TextCrossType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2630
+weight: 2600
 url: /ru/aspose.cells/textcrosstype/
 is_root: false
 ---
@@ -17,9 +17,9 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| DEFAULT | Отображать текст, как в Microsoft Excel.|
-| CROSS_KEEP | Отобразите весь текст, пересекая другие ячейки, и сохраняйте текст пересеченных ячеек.|
-| CROSS_OVERRIDE |Отображение всего текста путем пересечения других ячеек и переопределение текста пересеченных ячеек.|
+| DEFAULT | Отобразить текст как в Excel Microsoft.|
+| CROSS_KEEP | Отобразить весь текст, перечеркнув другие ячейки, и сохранить текст перечеркнутых ячеек.|
+| CROSS_OVERRIDE | Отобразить весь текст, перечеркнув другие ячейки, и перезаписать текст перечеркнутых ячеек.|
 | STRICT_IN_CELL | Отображать текст только в пределах ширины ячейки.|
 
 

@@ -1,6 +1,6 @@
 ---
 title: cell_shading proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -21,5 +21,5 @@ def cell_shading(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [StyleFlag](/cells/python-net/it/aspose.cells/styleflag)
+* modulo [`aspose.cells`](../../)
+* classe [`StyleFlag`](/cells/python-net/it/aspose.cells/styleflag)

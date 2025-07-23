@@ -1,9 +1,9 @@
 ---
 title: index недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 150
+weight: 160
 url: /ru/aspose.cells/row/index/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def index(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Row](/cells/python-net/ru/aspose.cells/row)
+* модуль [`aspose.cells`](../../)
+* класс [`Row`](/cells/python-net/ru/aspose.cells/row)

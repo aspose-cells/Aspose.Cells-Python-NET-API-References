@@ -1,6 +1,6 @@
 ---
 title: column_width proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  column_width proprietà
 
-Restituisce o imposta la larghezza, in punti, di ogni colonna nell'affettatrice.
+Restituisce o imposta la larghezza, in punti, di ciascuna colonna nell'affettatrice.
 
 ###  Esempio
 
 ```python
 
-slicer.column_width = 80
+slicer.column_width = 80.0
 
 ```
 ###  Definizione:
@@ -29,5 +29,5 @@ def column_width(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.slicers](../../)
-* classe [Slicer](/cells/python-net/it/aspose.cells.slicers/slicer)
+* modulo [`aspose.cells.slicers`](../../)
+* classe [`Slicer`](/cells/python-net/it/aspose.cells.slicers/slicer)

@@ -1,15 +1,15 @@
 ---
 title: custom_document_properties недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 500
+weight: 520
 url: /ru/aspose.cells/workbook/custom_document_properties/
 is_root: false
 ---
 ##  custom_document_properties недвижимость
 
-Возвращает коллекцию [`DocumentProperty`](/cells/python-net/ru/aspose.cells.properties/documentproperty), которая представляет все настраиваемые свойства документа электронной таблицы.
+Возвращает коллекцию [`DocumentProperty`](/cells/python-net/ru/aspose.cells.properties/documentproperty), которая представляет все пользовательские свойства документа электронной таблицы.
 
 ###  Пример
 

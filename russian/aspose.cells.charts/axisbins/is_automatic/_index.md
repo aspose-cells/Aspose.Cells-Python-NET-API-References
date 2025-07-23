@@ -1,6 +1,6 @@
 ---
 title: is_automatic недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_automatic недвижимость
 
-Указывает, являются ли интервалы оси автоматическими.
+Указывает, являются ли ячейки оси автоматическими.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_automatic(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [AxisBins](/cells/python-net/ru/aspose.cells.charts/axisbins)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`AxisBins`](/cells/python-net/ru/aspose.cells.charts/axisbins)

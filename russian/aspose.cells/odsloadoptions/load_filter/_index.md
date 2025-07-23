@@ -1,6 +1,6 @@
 ---
 title: load_filter недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 160
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  load_filter недвижимость
 
-Фильтр для обозначения того, как загружать данные.
+Фильтр, указывающий способ загрузки данных.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def load_filter(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [LoadFilter](/cells/python-net/ru/aspose.cells/loadfilter)
-* класс [OdsLoadOptions](/cells/python-net/ru/aspose.cells/odsloadoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`LoadFilter`](/cells/python-net/ru/aspose.cells/loadfilter)
+* класс [`OdsLoadOptions`](/cells/python-net/ru/aspose.cells/odsloadoptions)

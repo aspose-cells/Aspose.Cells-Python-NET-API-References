@@ -1,6 +1,6 @@
 ---
 title: criteria proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -21,5 +21,5 @@ def criteria(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Top10Filter](/cells/python-net/it/aspose.cells/top10filter)
+* modulo [`aspose.cells`](../../)
+* classe [`Top10Filter`](/cells/python-net/it/aspose.cells/top10filter)

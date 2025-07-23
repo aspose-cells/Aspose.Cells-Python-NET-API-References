@@ -1,6 +1,6 @@
 ---
 title: end_row proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_row proprietà
 
-Ottiene l'indice di riga finale dell'interruzione di pagina verticale.
+Ottiene l'indice della riga finale dell'interruzione di pagina verticale.
 ###  Definizione:
 ```python
 @property
@@ -18,5 +18,5 @@ def end_row(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [VerticalPageBreak](/cells/python-net/it/aspose.cells/verticalpagebreak)
+* modulo [`aspose.cells`](../../)
+* classe [`VerticalPageBreak`](/cells/python-net/it/aspose.cells/verticalpagebreak)

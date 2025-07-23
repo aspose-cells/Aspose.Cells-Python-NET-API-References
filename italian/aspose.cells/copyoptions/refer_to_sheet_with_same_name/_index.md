@@ -1,6 +1,6 @@
 ---
 title: refer_to_sheet_with_same_name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -9,10 +9,11 @@ is_root: false
 ---
 ##  refer_to_sheet_with_same_name proprietà
 
-Quando si copia un foglio di lavoro in un'altra cartella di lavoro e il foglio di lavoro contiene le formule che fanno riferimento ad altri fogli di lavoro in MS Excel,
+In MS Excel, quando si copiano formule che fanno riferimento ad altri fogli di lavoro mentre si copia un foglio di lavoro in un altro,
 le formule copiate devono fare riferimento alla cartella di lavoro di origine.
-Ma a volte abbiamo copiato altri fogli di lavoro e speriamo che le formule copiate facciano riferimento ad altri fogli di lavoro con lo stesso nome nella stessa cartella di lavoro,
-si prega di impostare questa proprietà come true.
+Tuttavia, in alcune situazioni l'utente potrebbe aver bisogno che le formule copiate facciano riferimento a fogli di lavoro con lo stesso nome
+nella stessa cartella di lavoro, ad esempio quando tali fogli di lavoro sono stati copiati prima di questa operazione di copia,
+allora questa proprietà dovrebbe essere mantenuta come vera.
 
 ###  Osservazioni
 
@@ -28,5 +29,5 @@ def refer_to_sheet_with_same_name(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CopyOptions](/cells/python-net/it/aspose.cells/copyoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`CopyOptions`](/cells/python-net/it/aspose.cells/copyoptions)

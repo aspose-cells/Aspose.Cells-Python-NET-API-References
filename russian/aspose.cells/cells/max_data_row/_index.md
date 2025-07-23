@@ -1,9 +1,9 @@
 ---
 title: max_data_row недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1100
+weight: 1130
 url: /ru/aspose.cells/cells/max_data_row/
 is_root: false
 ---
@@ -13,7 +13,10 @@ is_root: false
 
 ###  Примечания
 
-Верните -1, если нет ячейки, содержащей данные.
+Возвращает -1, если нет ячеек, содержащих данные.
+Это свойство должно динамически перебирать и проверять ячейки и строки,
+поэтому это процесс, требующий времени, и его не следует повторять,
+например, использовать его напрямую как условие в цикле.
 ###  Определение:
 ```python
 @property

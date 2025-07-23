@@ -1,15 +1,15 @@
 ---
 title: sheet_tab_bar_width недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 450
+weight: 480
 url: /ru/aspose.cells/workbooksettings/sheet_tab_bar_width/
 is_root: false
 ---
 ##  sheet_tab_bar_width недвижимость
 
-Ширина панели вкладок листа (в пределах 1/1000 ширины окна).
+Ширина панели вкладок рабочего листа (в 1/1000 ширины окна).
 ###  Определение:
 ```python
 @property

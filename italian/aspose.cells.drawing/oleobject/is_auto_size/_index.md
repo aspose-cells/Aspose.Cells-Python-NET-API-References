@@ -1,6 +1,6 @@
 ---
 title: is_auto_size proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 640
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_auto_size proprietà
 
-Vero indica che la dimensione dell'oggetto oleo verrà modificata automaticamente come dimensione dell'istantanea del contenuto incorporato
+Vero indica che la dimensione dell'oggetto ole verrà modificata automaticamente in base alla dimensione dell'istantanea del contenuto incorporato
 quando l'oggetto ole viene attivato.
 ###  Definizione:
 ```python

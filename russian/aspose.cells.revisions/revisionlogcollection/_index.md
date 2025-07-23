@@ -1,6 +1,6 @@
 ---
 title: RevisionLogCollection класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 140
@@ -12,28 +12,29 @@ is_root: false
 
 
 
-Тип RevisionLogCollection предоставляет следующие члены:
+Тип RevisionLogCollection предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [days_preserving_history](/cells/python-net/ru/aspose.cells.revisions/revisionlogcollection/days_preserving_history) |Получает и задает количество дней, в течение которых приложение для работы с электронными таблицами будет хранить историю изменений для этой книги.|
-| [capacity](/cells/python-net/ru/aspose.cells.revisions/revisionlogcollection/capacity) | Получает или задает количество элементов, которые может содержать список массивов.|
+| [days_preserving_history](/cells/python-net/ru/aspose.cells.revisions/revisionlogcollection/days_preserving_history) | Возвращает и задает количество дней, в течение которых приложение электронных таблиц будет хранить историю изменений для этой книги.|
+| [capacity](/cells/python-net/ru/aspose.cells.revisions/revisionlogcollection/capacity) | Возвращает или задает количество элементов, которые может содержать список массива.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [copy_to(array)](/cells/python-net/ru/aspose.cells.revisions/revisionlogcollection/copy_to/#list) | Копирует весь список массивов в совместимый список одномерных массивов, начиная с начала целевого списка массивов.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/ru/aspose.cells.revisions/revisionlogcollection/copy_to/#int-list-int-int) |Копирует диапазон элементов из списка массивов в совместимый список одномерных массивов, начиная с указанного индекса целевого списка массивов.|
-| [index_of(item, index)](/cells/python-net/ru/aspose.cells.revisions/revisionlogcollection/index_of/#RevisionLog-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массивов, который простирается от указанного индекса до последнего элемента.|
-| [index_of(item, index, count)](/cells/python-net/ru/aspose.cells.revisions/revisionlogcollection/index_of/#RevisionLog-int-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массивов, который начинается с указанного индекса и содержит указанное количество элементов.|
-| [last_index_of(item)](/cells/python-net/ru/aspose.cells.revisions/revisionlogcollection/last_index_of/#RevisionLog) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения во всем списке массивов.|
-| [last_index_of(item, index)](/cells/python-net/ru/aspose.cells.revisions/revisionlogcollection/last_index_of/#RevisionLog-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массивов, который простирается от первого элемента до указанного индекса.|
-| [last_index_of(item, index, count)](/cells/python-net/ru/aspose.cells.revisions/revisionlogcollection/last_index_of/#RevisionLog-int-int) |Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массивов, который содержит указанное количество элементов и заканчивается указанным индексом.|
-| [binary_search(item)](/cells/python-net/ru/aspose.cells.revisions/revisionlogcollection/binary_search/#RevisionLog) | Ищет элемент во всем отсортированном списке массивов, используя компаратор по умолчанию, и возвращает отсчитываемый от нуля индекс элемента.|
+| [`copy_to(self, array)`](/cells/python-net/ru/aspose.cells.revisions/revisionlogcollection/copy_to/#list) |Копирует весь список массивов в совместимый одномерный список массивов, начиная с начала целевого списка массивов.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/ru/aspose.cells.revisions/revisionlogcollection/copy_to/#int-list-int-int) | Копирует диапазон элементов из списка массивов в совместимый список одномерных массивов, начиная с указанного индекса целевого списка массивов.|
+| [`index_of(self, item, index)`](/cells/python-net/ru/aspose.cells.revisions/revisionlogcollection/index_of/#aspose.cells.revisions.revisionlog-int) | Выполняет поиск указанного объекта и возвращает индекс (начиная с нуля) первого вхождения в диапазоне элементов списка массива, который простирается от указанного индекса до последнего элемента.|
+| [`index_of(self, item, index, count)`](/cells/python-net/ru/aspose.cells.revisions/revisionlogcollection/index_of/#aspose.cells.revisions.revisionlog-int-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов списка массива, который начинается с указанного индекса и содержит указанное количество элементов.|
+| [`last_index_of(self, item)`](/cells/python-net/ru/aspose.cells.revisions/revisionlogcollection/last_index_of/#aspose.cells.revisions.revisionlog) | Выполняет поиск указанного объекта и возвращает нулевой индекс последнего вхождения во всем списке массива.|
+| [`last_index_of(self, item, index)`](/cells/python-net/ru/aspose.cells.revisions/revisionlogcollection/last_index_of/#aspose.cells.revisions.revisionlog-int) |Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов списка массива, который простирается от первого элемента до указанного индекса.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/ru/aspose.cells.revisions/revisionlogcollection/last_index_of/#aspose.cells.revisions.revisionlog-int-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов списка массива, который содержит указанное количество элементов и заканчивается на указанном индексе.|
+| [`highlight_changes(self, options)`](/cells/python-net/ru/aspose.cells.revisions/revisionlogcollection/highlight_changes/#aspose.cells.revisions.highlightchangesoptions) | Выделяет изменения в общей рабочей книге.|
+| [`binary_search(self, item)`](/cells/python-net/ru/aspose.cells.revisions/revisionlogcollection/binary_search/#aspose.cells.revisions.revisionlog) | Выполняет поиск элемента во всем отсортированном списке массивов, используя компаратор по умолчанию, и возвращает индекс элемента, отсчитываемый от нуля.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.revisions](..)
+* модуль [`aspose.cells.revisions`](..)

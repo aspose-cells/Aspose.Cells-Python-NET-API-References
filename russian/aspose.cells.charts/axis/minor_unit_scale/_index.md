@@ -1,15 +1,15 @@
 ---
 title: minor_unit_scale недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 370
+weight: 380
 url: /ru/aspose.cells.charts/axis/minor_unit_scale/
 is_root: false
 ---
 ##  minor_unit_scale недвижимость
 
-Представляет шкалу основных единиц оси категорий.
+Представляет собой основную шкалу единиц для оси категорий.
 
 ###  Пример
 

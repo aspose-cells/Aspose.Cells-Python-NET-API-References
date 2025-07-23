@@ -1,9 +1,9 @@
 ---
 title: text_vertical_alignment proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 370
+weight: 430
 url: /it/aspose.cells.charts/title/text_vertical_alignment/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def text_vertical_alignment(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [TextAlignmentType](/cells/python-net/it/aspose.cells/textalignmenttype)
-* classe [Title](/cells/python-net/it/aspose.cells.charts/title)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`TextAlignmentType`](/cells/python-net/it/aspose.cells/textalignmenttype)
+* classe [`Title`](/cells/python-net/it/aspose.cells.charts/title)

@@ -1,15 +1,15 @@
 ---
 title: is_minimized недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 260
+weight: 290
 url: /ru/aspose.cells/workbooksettings/is_minimized/
 is_root: false
 ---
 ##  is_minimized недвижимость
 
-Указывает, будет ли созданная электронная таблица открыта в свернутом виде.
+Указывает, будет ли сгенерированная электронная таблица открыта в свернутом виде.
 ###  Определение:
 ```python
 @property

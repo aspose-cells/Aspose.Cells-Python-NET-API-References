@@ -1,6 +1,6 @@
 ---
 title: double_size proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  double_size proprietà
 
-Ottiene e imposta la doppia dimensione del carattere.
+Ottiene e imposta la dimensione doppia del font.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def double_size(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](../../)
-* classe [TextOptions](/cells/python-net/it/aspose.cells.drawing.texts/textoptions)
+* modulo [`aspose.cells.drawing.texts`](../../)
+* classe [`TextOptions`](/cells/python-net/it/aspose.cells.drawing.texts/textoptions)

@@ -1,6 +1,6 @@
 ---
 title: charset недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  charset недвижимость
 
-Представлять набор символов.
+Представляет набор символов.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def charset(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [TextOptions](/cells/python-net/ru/aspose.cells.drawing.texts/textoptions)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`TextOptions`](/cells/python-net/ru/aspose.cells.drawing.texts/textoptions)

@@ -1,22 +1,23 @@
 ---
 title: Metodo get_grouped_row_outline_level
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 390
+weight: 430
 url: /it/aspose.cells/cells/get_grouped_row_outline_level/
 is_root: false
 ---
-##  get_grouped_row_outline_level {#int}
-Ottiene il livello della struttura (in base zero) della riga.
+##  get_grouped_row_outline_level(self, row_index) {#int}
+Ottiene il livello di struttura (a partire da zero) della riga.
 
 
 ###  ritorna
 
-Il livello di struttura (in base zero) della riga.
+Livello di struttura (a partire da zero) della riga.
 
 
 ```python
+
 def get_grouped_row_outline_level(self, row_index):
     ...
 ```
@@ -24,7 +25,7 @@ def get_grouped_row_outline_level(self, row_index):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| row_index | int | L'indice delle righe.|
+| row_index | int | Indice di riga.|
 ###  Osservazioni
 
 Se la riga non è raggruppata, restituisce zero.

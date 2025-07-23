@@ -1,6 +1,6 @@
 ---
 title: type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 210
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type proprietà
 
-Ottiene e imposta se il formato condizionale Type.
+Ottiene e imposta se il formato condizionale è Type.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FormatCondition](/cells/python-net/it/aspose.cells/formatcondition)
-* classe [FormatConditionType](/cells/python-net/it/aspose.cells/formatconditiontype)
+* modulo [`aspose.cells`](../../)
+* classe [`FormatCondition`](/cells/python-net/it/aspose.cells/formatcondition)
+* classe [`FormatConditionType`](/cells/python-net/it/aspose.cells/formatconditiontype)

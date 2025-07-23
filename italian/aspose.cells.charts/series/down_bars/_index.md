@@ -1,6 +1,6 @@
 ---
 title: down_bars proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 130
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  down_bars proprietà
 
-Restituisce un oggetto [`DropBars`](/cells/python-net/it/aspose.cells.charts/dropbars) che rappresenta le barre verso il basso su un grafico a linee.
-Si applica solo ai grafici a linee.
+Restituisce un oggetto [`DropBars`](/cells/python-net/it/aspose.cells.charts/dropbars) che rappresenta le barre verticali su un grafico a linee.
+Si applica solo ai grafici lineari.
 ###  Definizione:
 ```python
 @property

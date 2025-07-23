@@ -1,6 +1,6 @@
 ---
 title: number_format недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 110
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Строка форматирования аналогична настройке строки пользовательского формата для ячейки. Например, «$0».
+Строка форматирования совпадает с настройкой строки пользовательского формата ячейки. Например, «$0».
 ###  Определение:
 ```python
 @property

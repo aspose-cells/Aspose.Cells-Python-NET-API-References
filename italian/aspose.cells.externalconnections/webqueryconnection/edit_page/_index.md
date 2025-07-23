@@ -1,9 +1,9 @@
 ---
 title: edit_page proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 80
+weight: 130
 url: /it/aspose.cells.externalconnections/webqueryconnection/edit_page/
 is_root: false
 ---
@@ -17,9 +17,9 @@ dietro le quinte.
 ###  Osservazioni
 
  NOTA: questa proprietà è ora obsoleta. Invece,
-utilizzare la proprietà WebQueryConnection.EditWebPage.
- Questa proprietà verrà rimossa 12 mesi dopo da ottobre 2017.
-Aspose si scusa per gli eventuali disagi causati.
+si prega di utilizzare la proprietà WebQueryConnection.EditWebPage.
+ Questa proprietà verrà rimossa 12 mesi dopo, a partire da ottobre 2017.
+Aspose si scusa per ogni eventuale disagio arrecato.
 ###  Definizione:
 ```python
 @property
@@ -31,5 +31,5 @@ def edit_page(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.externalconnections](../../)
-* classe [WebQueryConnection](/cells/python-net/it/aspose.cells.externalconnections/webqueryconnection)
+* modulo [`aspose.cells.externalconnections`](../../)
+* classe [`WebQueryConnection`](/cells/python-net/it/aspose.cells.externalconnections/webqueryconnection)

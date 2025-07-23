@@ -1,6 +1,6 @@
 ---
 title: minus_value proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 210
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  minus_value proprietà
 
-Rappresenta l'importo dell'errore negativo quando il tipo di barra di errore è Personalizzato.
+Rappresenta un importo di errore negativo quando il tipo di barra di errore è Personalizzato.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def minus_value(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [ErrorBar](/cells/python-net/it/aspose.cells.charts/errorbar)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`ErrorBar`](/cells/python-net/it/aspose.cells.charts/errorbar)

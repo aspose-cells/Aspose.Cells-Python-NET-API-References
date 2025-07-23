@@ -1,6 +1,6 @@
 ---
 title: length proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 150
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  length proprietà
 
-Ottiene lo length dei caratteri.
+Ottiene il numero length dei caratteri.
 ###  Definizione:
 ```python
 @property
@@ -18,5 +18,5 @@ def length(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](../../)
-* classe [TextParagraph](/cells/python-net/it/aspose.cells.drawing.texts/textparagraph)
+* modulo [`aspose.cells.drawing.texts`](../../)
+* classe [`TextParagraph`](/cells/python-net/it/aspose.cells.drawing.texts/textparagraph)

@@ -1,9 +1,9 @@
 ---
 title: Enumerazione HeaderFooterCommandType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 2200
+weight: 2140
 url: /it/aspose.cells/headerfootercommandtype/
 is_root: false
 ---
@@ -19,12 +19,12 @@ Il tipo HeaderFooterCommandType espone i seguenti membri:
 | :- | :- |
 | TEXT | Il testo.|
 | CURRENT_PAGE | Numero di pagina corrente|
-| PAGECOUNT | Conteggio delle pagine|
-| CURRENT_DATE | Data odierna|
-| CURRENT_TIME | Ora attuale|
+| PAGECOUNT | Numero di pagine|
+| CURRENT_DATE | Data corrente|
+| CURRENT_TIME | Ora corrente|
 | SHEET_NAME | Nome del foglio|
-| FILE_NAME | Nome del file senza percorso|
-| FILE_PATH | Percorso del file senza nome file|
+| FILE_NAME | Nome file senza percorso|
+| FILE_PATH | Percorso del file senza nome del file|
 | PICTURE | Immagine|
 
 

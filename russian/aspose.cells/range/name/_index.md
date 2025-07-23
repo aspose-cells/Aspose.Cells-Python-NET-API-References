@@ -1,15 +1,15 @@
 ---
 title: name недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 370
+weight: 470
 url: /ru/aspose.cells/range/name/
 is_root: false
 ---
 ##  name недвижимость
 
-Получает или задает значение name диапазона.
+Возвращает или задает значение name диапазона.
 
 ###  Примечания
 

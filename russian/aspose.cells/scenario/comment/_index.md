@@ -1,6 +1,6 @@
 ---
 title: comment недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  comment недвижимость
 
-Получает и задает сценарий comment.
+Получает и задает comment сценария.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def comment(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Scenario](/cells/python-net/ru/aspose.cells/scenario)
+* модуль [`aspose.cells`](../../)
+* класс [`Scenario`](/cells/python-net/ru/aspose.cells/scenario)

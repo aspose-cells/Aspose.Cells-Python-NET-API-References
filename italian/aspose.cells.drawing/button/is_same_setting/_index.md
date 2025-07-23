@@ -1,14 +1,14 @@
 ---
 title: Metodo is_same_setting
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 150
+weight: 160
 url: /it/aspose.cells.drawing/button/is_same_setting/
 is_root: false
 ---
-##  is_same_setting {#any}
-Restituisce se la forma è la stessa.
+##  is_same_setting(self, obj) {#any}
+Restituisce un valore che indica se la forma è la stessa.
 
 
 ###  ritorna
@@ -17,6 +17,7 @@ Restituisce se la forma è la stessa.
 
 
 ```python
+
 def is_same_setting(self, obj):
     ...
 ```

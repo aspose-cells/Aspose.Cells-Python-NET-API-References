@@ -1,6 +1,6 @@
 ---
 title: QuartileCalculationType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 600
@@ -8,19 +8,19 @@ url: /ru/aspose.cells.charts/quartilecalculationtype/
 is_root: false
 ---
 ##  QuartileCalculationType перечисление
-Представляет методы расчета квартилей.
+Представляет собой методы расчета квартилей.
 
 
 
-Тип QuartileCalculationType предоставляет следующие члены:
+Тип QuartileCalculationType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| EXCLUSIVE | Расчет квартиля включает медиану при разделении набора данных на квартили.|
-| INCLUSIVE | Расчет квартиля исключает медиану при разбиении набора данных на квартили.|
+| EXCLUSIVE | Расчет квартилей включает медиану при разделении набора данных на квартили.|
+| INCLUSIVE | Расчет квартилей исключает медиану при разделении набора данных на квартили.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](..)
+* модуль [`aspose.cells.charts`](..)

@@ -1,19 +1,19 @@
 ---
 title: is_word_art недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 690
+weight: 700
 url: /ru/aspose.cells.drawing/scrollbar/is_word_art/
 is_root: false
 ---
 ##  is_word_art недвижимость
 
-Указывает, является ли эта фигура художественным текстом.
+Указывает, является ли данная форма произведением искусства.
 
 ###  Примечания
 
-Только для устаревшей формы файла xls.
+Только для файла Legacy Shape of xls.
 
 ###  Пример
 

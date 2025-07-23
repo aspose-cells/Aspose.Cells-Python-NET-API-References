@@ -1,6 +1,6 @@
 ---
 title: security_descriptor proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  security_descriptor proprietà
 
-Il descrittore di sicurezza definisce gli account utente che possono modificare questo intervallo senza fornire una password per accedere all'intervallo.
+Il descrittore di sicurezza definisce gli account utente che possono modificare questo intervallo senza fornire una password di accesso all'intervallo.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def security_descriptor(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ProtectedRange](/cells/python-net/it/aspose.cells/protectedrange)
+* modulo [`aspose.cells`](../../)
+* classe [`ProtectedRange`](/cells/python-net/it/aspose.cells/protectedrange)

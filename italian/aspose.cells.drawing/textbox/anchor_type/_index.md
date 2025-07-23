@@ -1,15 +1,15 @@
 ---
 title: anchor_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 300
+weight: 310
 url: /it/aspose.cells.drawing/textbox/anchor_type/
 is_root: false
 ---
 ##  anchor_type proprietà
 
-Ottiene e imposta il segnaposto di ancoraggio della forma.
+Ottiene e imposta il tipo di segnaposto di ancoraggio della forma.
 
 ###  Esempio
 

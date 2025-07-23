@@ -1,6 +1,6 @@
 ---
 title: theme_color недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 310
@@ -25,6 +25,6 @@ def theme_color(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [ThemeColor](/cells/python-net/ru/aspose.cells/themecolor)
-* класс [Trendline](/cells/python-net/ru/aspose.cells.charts/trendline)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`ThemeColor`](/cells/python-net/ru/aspose.cells/themecolor)
+* класс [`Trendline`](/cells/python-net/ru/aspose.cells.charts/trendline)

@@ -1,6 +1,6 @@
 ---
 title: print_with_status_dialog proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 260
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_with_status_dialog proprietà
 
-Se PrintWithStatusDialog = true , verrà visualizzata una finestra di dialogo che mostra lo stato corrente della stampa.
+Se PrintWithStatusDialog = true , verrà visualizzata una finestra di dialogo che mostra lo stato di stampa corrente.
 altrimenti non verrà visualizzata alcuna finestra di dialogo.
 ###  Definizione:
 ```python

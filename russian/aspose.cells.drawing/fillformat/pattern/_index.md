@@ -1,6 +1,6 @@
 ---
 title: pattern недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 150
@@ -21,6 +21,6 @@ def pattern(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [FillFormat](/cells/python-net/ru/aspose.cells.drawing/fillformat)
-* класс [FillPattern](/cells/python-net/ru/aspose.cells.drawing/fillpattern)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`FillFormat`](/cells/python-net/ru/aspose.cells.drawing/fillformat)
+* класс [`FillPattern`](/cells/python-net/ru/aspose.cells.drawing/fillpattern)

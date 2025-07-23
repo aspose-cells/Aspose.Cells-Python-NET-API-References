@@ -1,9 +1,9 @@
 ---
 title: type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1120
+weight: 1130
 url: /it/aspose.cells.drawing/textbox/type/
 is_root: false
 ---

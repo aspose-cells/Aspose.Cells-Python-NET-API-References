@@ -1,6 +1,6 @@
 ---
 title: auto_fitter_options недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  auto_fitter_options недвижимость
 
-Получает и устанавливает параметры автоустановщика.
+Получает и задает параметры автоподбора
 
 ###  Примечания
 
-Теперь только для файлов xlsx, SpreadsheetML.
+Теперь только для файлов xlsx и spreadsheetML.
 ###  Определение:
 ```python
 @property

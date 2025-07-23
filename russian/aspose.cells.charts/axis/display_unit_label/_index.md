@@ -1,16 +1,16 @@
 ---
 title: display_unit_label недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 160
+weight: 170
 url: /ru/aspose.cells.charts/axis/display_unit_label/
 is_root: false
 ---
 ##  display_unit_label недвижимость
 
  Представляет метку единицы измерения на оси указанной диаграммы.
-Метки единиц измерения полезны для отображения больших значений, например миллионов или миллиардов.
+Обозначения единиц измерения полезны для отображения на диаграммах больших значений — например, миллионов или миллиардов.
 ###  Определение:
 ```python
 @property

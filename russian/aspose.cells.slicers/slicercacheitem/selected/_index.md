@@ -1,6 +1,6 @@
 ---
 title: selected недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  selected недвижимость
 
-Указывает, является ли SlicerItem номером selected или нет.
+Указывает, является ли SlicerItem selected или нет.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def selected(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.slicers](../../)
-* класс [SlicerCacheItem](/cells/python-net/ru/aspose.cells.slicers/slicercacheitem)
+* модуль [`aspose.cells.slicers`](../../)
+* класс [`SlicerCacheItem`](/cells/python-net/ru/aspose.cells.slicers/slicercacheitem)

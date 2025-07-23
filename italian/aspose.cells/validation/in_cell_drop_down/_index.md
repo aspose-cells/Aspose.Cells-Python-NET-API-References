@@ -1,6 +1,6 @@
 ---
 title: in_cell_drop_down proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 220
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  in_cell_drop_down proprietà
 
-Indica se la convalida dei dati visualizza un elenco a discesa che contiene valori accettabili.
+Indica se la convalida dei dati visualizza un elenco a discesa contenente valori accettabili.
 ###  Definizione:
 ```python
 @property

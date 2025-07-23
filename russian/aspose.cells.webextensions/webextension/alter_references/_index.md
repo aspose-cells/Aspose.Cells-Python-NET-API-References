@@ -1,6 +1,6 @@
 ---
 title: alter_references недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  alter_references недвижимость
 
-Получает список измененных ссылок.
+Получает список альтернативных ссылок.
 ###  Определение:
 ```python
 @property
@@ -18,6 +18,6 @@ def alter_references(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.webextensions](../../)
-* класс [WebExtension](/cells/python-net/ru/aspose.cells.webextensions/webextension)
-* класс [WebExtensionReferenceCollection](/cells/python-net/ru/aspose.cells.webextensions/webextensionreferencecollection)
+* модуль [`aspose.cells.webextensions`](../../)
+* класс [`WebExtension`](/cells/python-net/ru/aspose.cells.webextensions/webextension)
+* класс [`WebExtensionReferenceCollection`](/cells/python-net/ru/aspose.cells.webextensions/webextensionreferencecollection)

@@ -1,18 +1,19 @@
 ---
 title: Metodo get_axis_texts
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells.charts/axis/get_axis_texts/
 is_root: false
 ---
-##  get_axis_texts {#}
+##  get_axis_texts(self) {#}
 Ottiene le etichette dell'asse dopo la chiamata al metodo Chart.Calculate().
 
 
 
 ```python
+
 def get_axis_texts(self):
     ...
 ```

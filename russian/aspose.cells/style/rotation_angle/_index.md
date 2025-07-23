@@ -1,6 +1,6 @@
 ---
 title: rotation_angle недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 450
@@ -25,7 +25,7 @@ is_root: false
 90: Вверх.
 
 
-Вы можете установить 255 или значение в диапазоне от -90 до 90.
+Можно установить значение 255 или значение от -90 до 90.
 ###  Определение:
 ```python
 @property

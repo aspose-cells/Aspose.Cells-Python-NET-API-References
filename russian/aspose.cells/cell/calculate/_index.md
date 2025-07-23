@@ -1,18 +1,19 @@
 ---
 title: calculate метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells/cell/calculate/
 is_root: false
 ---
-##  calculate {#aspose.cells.CalculationOptions}
+##  calculate(self, options) {#aspose.cells.CalculationOptions}
 Вычисляет формулу ячейки.
 
 
 
 ```python
+
 def calculate(self, options):
     ...
 ```

@@ -1,6 +1,6 @@
 ---
 title: drop_zone_data proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -10,7 +10,7 @@ is_root: false
 ##  drop_zone_data proprietà
 
 Specifica se un controllo per ogni campo della tabella pivot sull'asse dei dati della tabella pivot
-della tabella pivot di origine appare nel grafico quando dropZonesVisible è impostato su true.
+della tabella pivot di origine viene visualizzata sul grafico quando dropZonesVisible è impostato su true.
 ###  Definizione:
 ```python
 @property
@@ -22,5 +22,5 @@ def drop_zone_data(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [PivotOptions](/cells/python-net/it/aspose.cells.charts/pivotoptions)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`PivotOptions`](/cells/python-net/it/aspose.cells.charts/pivotoptions)

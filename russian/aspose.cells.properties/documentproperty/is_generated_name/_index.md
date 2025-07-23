@@ -1,6 +1,6 @@
 ---
 title: is_generated_name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -10,7 +10,7 @@ is_root: false
 ##  is_generated_name недвижимость
 
 Возвращает true, если это свойство не имеет имени в хранилище OLE2.
-и уникальное имя было сгенерировано только для публики API.
+и уникальное имя было создано только для публичного API.
 ###  Определение:
 ```python
 @property
@@ -19,5 +19,5 @@ def is_generated_name(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.properties](../../)
-* класс [DocumentProperty](/cells/python-net/ru/aspose.cells.properties/documentproperty)
+* модуль [`aspose.cells.properties`](../../)
+* класс [`DocumentProperty`](/cells/python-net/ru/aspose.cells.properties/documentproperty)

@@ -1,13 +1,13 @@
 ---
 title: Metodo is_intersect
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 140
+weight: 190
 url: /it/aspose.cells/range/is_intersect/
 is_root: false
 ---
-##  is_intersect {#aspose.cells.Range}
+##  is_intersect(self, range) {#aspose.cells.Range}
 Indica se l'intervallo è intersecato.
 
 
@@ -17,6 +17,7 @@ Se l'intervallo è intersecato.
 
 
 ```python
+
 def is_intersect(self, range):
     ...
 ```
@@ -27,7 +28,7 @@ def is_intersect(self, range):
 | range | [`Range`](/cells/python-net/it/aspose.cells/range) | La gamma.|
 ###  Osservazioni
 
-Se i due intervalli non si trovano nello stesso foglio di lavoro, restituisce false.
+Se i due intervalli non si trovano nello stesso foglio di lavoro, restituisci false.
 
 
 ###  Guarda anche

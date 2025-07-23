@@ -1,18 +1,19 @@
 ---
 title: XmlSaveOptions costruttore
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 10
 url: /it/aspose.cells/xmlsaveoptions/__init__/
 is_root: false
 ---
-##  XmlSaveOptions() {#}
-Crea opzioni per il salvataggio del file xml.
+##  \_\_init\_\_(self){#}
+Crea opzioni per salvare il file xml.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [XmlSaveOptions](/cells/python-net/it/aspose.cells/xmlsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`XmlSaveOptions`](/cells/python-net/it/aspose.cells/xmlsaveoptions)

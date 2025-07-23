@@ -1,9 +1,9 @@
 ---
 title: text_body proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 990
+weight: 1000
 url: /it/aspose.cells.drawing/arcshape/text_body/
 is_root: false
 ---

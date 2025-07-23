@@ -1,6 +1,6 @@
 ---
 title: OdsPageBackgroundType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-Тип OdsPageBackgroundType предоставляет следующие члены:
+Тип OdsPageBackgroundType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| NONE | Нет фона.|
-| COLOR | Форматирует фон цветом.|
+| NONE | Без предыстории.|
+| COLOR | Форматирует фон с помощью цвета.|
 | GRAPHIC | Форматирует фон с изображением.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.ods](..)
+* модуль [`aspose.cells.ods`](..)

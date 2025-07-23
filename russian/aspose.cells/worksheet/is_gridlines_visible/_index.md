@@ -1,15 +1,15 @@
 ---
 title: is_gridlines_visible недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 560
+weight: 590
 url: /ru/aspose.cells/worksheet/is_gridlines_visible/
 is_root: false
 ---
 ##  is_gridlines_visible недвижимость
 
-Получает или задает значение, указывающее, видны ли линии сетки. По умолчанию — true.
+Возвращает или задает значение, указывающее, видны ли линии сетки. Значение по умолчанию — true.
 ###  Определение:
 ```python
 @property

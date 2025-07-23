@@ -1,15 +1,15 @@
 ---
 title: load_filter недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 250
+weight: 230
 url: /ru/aspose.cells/ebookloadoptions/load_filter/
 is_root: false
 ---
 ##  load_filter недвижимость
 
-Фильтр, обозначающий способ загрузки данных.
+Фильтр, указывающий способ загрузки данных.
 ###  Определение:
 ```python
 @property

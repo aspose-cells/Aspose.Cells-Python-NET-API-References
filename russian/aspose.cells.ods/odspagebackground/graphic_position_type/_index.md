@@ -1,6 +1,6 @@
 ---
 title: graphic_position_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  graphic_position_type недвижимость
 
-Получает и устанавливает положение фоновой графики.
+Получает и задает положение фонового рисунка.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def graphic_position_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.ods](../../)
-* класс [OdsPageBackground](/cells/python-net/ru/aspose.cells.ods/odspagebackground)
-* класс [OdsPageBackgroundGraphicPositionType](/cells/python-net/ru/aspose.cells.ods/odspagebackgroundgraphicpositiontype)
+* модуль [`aspose.cells.ods`](../../)
+* класс [`OdsPageBackground`](/cells/python-net/ru/aspose.cells.ods/odspagebackground)
+* класс [`OdsPageBackgroundGraphicPositionType`](/cells/python-net/ru/aspose.cells.ods/odspagebackgroundgraphicpositiontype)

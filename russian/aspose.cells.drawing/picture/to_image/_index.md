@@ -1,18 +1,19 @@
 ---
 title: to_image метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 250
+weight: 270
 url: /ru/aspose.cells.drawing/picture/to_image/
 is_root: false
 ---
-##  to_image {#io.RawIOBase-aspose.cells.drawing.ImageType}
-Создает изображение фигуры и сохраняет его в поток в указанном формате.
+##  to_image(self, stream, image_type) {#io.RawIOBase-aspose.cells.drawing.ImageType}
+Создает изображение фигуры и сохраняет его в потоке в указанном формате.
 
 
 
 ```python
+
 def to_image(self, stream, image_type):
     ...
 ```
@@ -38,12 +39,13 @@ shape.to_image(imageStream, ImageType.PNG)
 ```
 
 
-##  to_image {#str-aspose.cells.rendering.ImageOrPrintOptions}
-Сохраняет форму в файл.
+##  to_image(self, image_file, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
+Сохраняет форму в файле.
 
 
 
 ```python
+
 def to_image(self, image_file, options):
     ...
 ```
@@ -65,12 +67,13 @@ shape.to_image("exmaple.png", op)
 ```
 
 
-##  to_image {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
-Сохраняет форму в поток.
+##  to_image(self, stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+Сохраняет форму в потоке.
 
 
 
 ```python
+
 def to_image(self, stream, options):
     ...
 ```

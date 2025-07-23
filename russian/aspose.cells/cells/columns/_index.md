@@ -1,15 +1,15 @@
 ---
 title: columns недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1010
+weight: 1030
 url: /ru/aspose.cells/cells/columns/
 is_root: false
 ---
 ##  columns недвижимость
 
-Получает коллекцию объектов [`Column`](/cells/python-net/ru/aspose.cells/column), представляющую отдельный номер columns на этом листе.
+Получает коллекцию объектов [`Column`](/cells/python-net/ru/aspose.cells/column), представляющую отдельный объект columns на этом листе.
 ###  Определение:
 ```python
 @property

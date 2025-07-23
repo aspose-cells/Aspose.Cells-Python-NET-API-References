@@ -1,6 +1,6 @@
 ---
 title: AxisType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 370
@@ -18,7 +18,7 @@ is_root: false
 | Поле| Описание|
 | :- | :- |
 | CATEGORY | Ось категорий|
-| VALUE | Ось значений|
+| VALUE | Ось ценностей|
 | SERIES | Серийная ось|
 
 

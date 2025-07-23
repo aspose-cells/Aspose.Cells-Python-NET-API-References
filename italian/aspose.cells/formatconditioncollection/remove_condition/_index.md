@@ -1,18 +1,19 @@
 ---
-title: metodo remove_condition
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo remove_condition
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
 url: /it/aspose.cells/formatconditioncollection/remove_condition/
 is_root: false
 ---
-##  remove_condition(index) {#int}
-Rimuove la condizione di formattazione per indice.
+##  remove_condition(self, index) {#int}
+Rimuove la condizione di formattazione tramite indice.
 
 
 
 ```python
+
 def remove_condition(self, index):
     ...
 ```
@@ -25,5 +26,5 @@ def remove_condition(self, index):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FormatConditionCollection](/cells/python-net/it/aspose.cells/formatconditioncollection)
+* modulo [`aspose.cells`](../../)
+* classe [`FormatConditionCollection`](/cells/python-net/it/aspose.cells/formatconditioncollection)

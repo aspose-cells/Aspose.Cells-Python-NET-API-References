@@ -1,6 +1,6 @@
 ---
 title: color proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color proprietà
 
-Ottiene e imposta color di background.
+Ottiene e imposta lo sfondo color.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.ods](../../)
-* classe [OdsPageBackground](/cells/python-net/it/aspose.cells.ods/odspagebackground)
+* modulo [`aspose.cells.ods`](../../)
+* classe [`OdsPageBackground`](/cells/python-net/it/aspose.cells.ods/odspagebackground)

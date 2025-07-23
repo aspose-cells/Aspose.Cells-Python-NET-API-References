@@ -1,9 +1,9 @@
 ---
 title: globalization_settings недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 200
+weight: 230
 url: /ru/aspose.cells/workbooksettings/globalization_settings/
 is_root: false
 ---

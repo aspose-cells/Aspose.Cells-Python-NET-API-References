@@ -1,14 +1,14 @@
 ---
 title: FindOptions класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 660
+weight: 640
 url: /ru/aspose.cells/findoptions/
 is_root: false
 ---
 ##  FindOptions класс
-Представляет параметры поиска.
+Представляет собой варианты поиска.
 
 
 
@@ -17,7 +17,7 @@ is_root: false
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [__init__](/cells/python-net/ru/aspose.cells/findoptions/__init__/#) |Создает новый экземпляр FindOptions.|
+| [`__init__(self)`](/cells/python-net/ru/aspose.cells/findoptions/__init__/#) | Создает новый экземпляр FindOptions|
 
 
 ###  Характеристики
@@ -27,21 +27,22 @@ is_root: false
 | [case_sensitive](/cells/python-net/ru/aspose.cells/findoptions/case_sensitive) | Указывает, чувствительна ли искомая строка к регистру.|
 | [look_at_type](/cells/python-net/ru/aspose.cells/findoptions/look_at_type) | Посмотрите на тип.|
 | [is_range_set](/cells/python-net/ru/aspose.cells/findoptions/is_range_set) | Указывает, установлен ли диапазон поиска.|
-| [search_next](/cells/python-net/ru/aspose.cells/findoptions/search_next) | Порядок поиска. Верно: искать дальше. Ложь: поиск предыдущего.|
-| [search_backward](/cells/python-net/ru/aspose.cells/findoptions/search_backward) | Будет ли выполняться поиск ячеек в обратном направлении.|
-| [seach_order_by_rows](/cells/python-net/ru/aspose.cells/findoptions/seach_order_by_rows) | Указывает, порядок поиска — по строкам или по столбцам.|
-| [look_in_type](/cells/python-net/ru/aspose.cells/findoptions/look_in_type) | Посмотрите в типе.|
-| [regex_key](/cells/python-net/ru/aspose.cells/findoptions/regex_key) | Указывает, является ли искомый ключ регулярным выражением.<br/> Если это правда, искомый ключ будет принят как регулярное выражение и проанализирован. В противном случае ключ будет разобран по правилам MS Excel.|
+| [search_next](/cells/python-net/ru/aspose.cells/findoptions/search_next) |Порядок поиска. True: искать следующий. False: искать предыдущий.|
+| [search_backward](/cells/python-net/ru/aspose.cells/findoptions/search_backward) | Выполнять ли обратный поиск ячеек.|
+| [seach_order_by_rows](/cells/python-net/ru/aspose.cells/findoptions/seach_order_by_rows) | Указывает, следует ли выполнять поиск по строкам или столбцам.|
+| [search_order_by_rows](/cells/python-net/ru/aspose.cells/findoptions/search_order_by_rows) | Указывает, следует ли выполнять поиск по строкам или столбцам.|
+| [look_in_type](/cells/python-net/ru/aspose.cells/findoptions/look_in_type) | Посмотрите на шрифт.|
+| [regex_key](/cells/python-net/ru/aspose.cells/findoptions/regex_key) | Указывает, является ли искомый ключ регулярным выражением.<br/>Если значение true, то искомый ключ будет принят за регулярное выражение и проанализирован.<br/> В противном случае ключ будет обработан согласно правилам MS Excel.|
 | [value_type_sensitive](/cells/python-net/ru/aspose.cells/findoptions/value_type_sensitive) | Указывает, должен ли тип значения искомой ячейки совпадать с искомым ключом.|
 | [style](/cells/python-net/ru/aspose.cells/findoptions/style) | Формат для поиска.|
-| [convert_numeric_data](/cells/python-net/ru/aspose.cells/findoptions/convert_numeric_data) | Получает или задает значение, указывающее, нужно ли преобразовывать искомое строковое значение в числовые данные.|
+| [convert_numeric_data](/cells/python-net/ru/aspose.cells/findoptions/convert_numeric_data) | Возвращает или задает значение, указывающее, преобразуется ли искомое строковое значение в числовые данные.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [get_range](/cells/python-net/ru/aspose.cells/findoptions/get_range/#) | Получает и задает диапазон поиска.|
-| [set_range](/cells/python-net/ru/aspose.cells/findoptions/set_range/#aspose.cells.CellArea) | Устанавливает диапазон поиска.|
+| [`get_range(self)`](/cells/python-net/ru/aspose.cells/findoptions/get_range/#) | Получает и задает диапазон поиска.|
+| [`set_range(self, ca)`](/cells/python-net/ru/aspose.cells/findoptions/set_range/#aspose.cells.cellarea) | Задает диапазон поиска.|
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: border_ole_color proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border_ole_color proprietà
 
-Ottiene e imposta il colore ole dello sfondo.
+Ottiene e imposta il colore principale dello sfondo.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def border_ole_color(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [TextBoxActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`TextBoxActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

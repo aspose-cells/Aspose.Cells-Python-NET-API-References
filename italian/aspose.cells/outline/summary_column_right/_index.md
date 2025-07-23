@@ -1,6 +1,6 @@
 ---
 title: summary_column_right proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -21,5 +21,5 @@ def summary_column_right(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Outline](/cells/python-net/it/aspose.cells/outline)
+* modulo [`aspose.cells`](../../)
+* classe [`Outline`](/cells/python-net/it/aspose.cells/outline)

@@ -1,15 +1,15 @@
 ---
 title: top_in_shape proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1160
+weight: 1170
 url: /it/aspose.cells.drawing/listbox/top_in_shape/
 is_root: false
 ---
 ##  top_in_shape proprietà
 
- Rappresenta l'offset verticale della forma dal bordo superiore della forma genitore,
+ Rappresenta lo scostamento verticale della forma dal bordo superiore della forma padre,
 in unità di 1/4000 dell'altezza della forma madre.
 
 ###  Osservazioni

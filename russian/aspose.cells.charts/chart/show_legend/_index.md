@@ -1,6 +1,6 @@
 ---
 title: show_legend недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 580
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_legend недвижимость
 
-Получает или задает значение, указывающее, будет ли отображаться легенда диаграммы. По умолчанию верно.
+Возвращает или задаёт значение, указывающее, будет ли отображаться легенда диаграммы. Значение по умолчанию — true.
 ###  Определение:
 ```python
 @property

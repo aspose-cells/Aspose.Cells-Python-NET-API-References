@@ -1,15 +1,15 @@
 ---
 title: width proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1200
+weight: 1210
 url: /it/aspose.cells.drawing/checkbox/width/
 is_root: false
 ---
 ##  width proprietà
 
-Rappresenta lo width della forma, in unità di pixel.
+Rappresenta la forma width, in unità di pixel.
 
 ###  Esempio
 

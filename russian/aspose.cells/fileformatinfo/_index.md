@@ -1,9 +1,9 @@
 ---
 title: FileFormatInfo класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 620
+weight: 600
 url: /ru/aspose.cells/fileformatinfo/
 is_root: false
 ---
@@ -17,13 +17,13 @@ is_root: false
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [__init__](/cells/python-net/ru/aspose.cells/fileformatinfo/__init__/#) | Создает новый экземпляр FileFormatInfo.|
+| [`__init__(self)`](/cells/python-net/ru/aspose.cells/fileformatinfo/__init__/#) | Создает новый экземпляр FileFormatInfo|
 
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [is_protected_by_rms](/cells/python-net/ru/aspose.cells/fileformatinfo/is_protected_by_rms) | Определяет, защищен ли файл сервером управления правами Microsoft.|
+| [is_protected_by_rms](/cells/python-net/ru/aspose.cells/fileformatinfo/is_protected_by_rms) | Проверяет, защищен ли файл сервером управления правами Microsoft.|
 | [is_encrypted](/cells/python-net/ru/aspose.cells/fileformatinfo/is_encrypted) | Возвращает true, если документ зашифрован и для открытия требуется пароль.|
 | [file_format_type](/cells/python-net/ru/aspose.cells/fileformatinfo/file_format_type) | Получает обнаруженный формат файла.|
 | [load_format](/cells/python-net/ru/aspose.cells/fileformatinfo/load_format) | Получает обнаруженный формат загрузки.|

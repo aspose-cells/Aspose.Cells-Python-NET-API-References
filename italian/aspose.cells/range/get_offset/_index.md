@@ -1,14 +1,14 @@
 ---
 title: Metodo get_offset
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 110
+weight: 160
 url: /it/aspose.cells/range/get_offset/
 is_root: false
 ---
-##  get_offset {#int-int}
-Ottiene l'intervallo [`Range`](/cells/python-net/it/aspose.cells/range) per offset.
+##  get_offset(self, row_offset, column_offset) {#int-int}
+Ottiene l'intervallo [`Range`](/cells/python-net/it/aspose.cells/range) tramite offset.
 
 
 ###  ritorna
@@ -17,6 +17,7 @@ Ottiene l'intervallo [`Range`](/cells/python-net/it/aspose.cells/range) per offs
 
 
 ```python
+
 def get_offset(self, row_offset, column_offset):
     ...
 ```
@@ -24,8 +25,8 @@ def get_offset(self, row_offset, column_offset):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| row_offset | int | Offset riga in questo intervallo, in base zero.|
-| column_offset | int | Offset della colonna in questo intervallo, in base zero.|
+| row_offset | int | Offset di riga in questo intervallo, basato su zero.|
+| column_offset | int | Offset della colonna in questo intervallo, basato su zero.|
 
 
 

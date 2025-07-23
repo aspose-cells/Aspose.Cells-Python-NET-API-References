@@ -1,6 +1,6 @@
 ---
 title: theme_color proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  theme_color proprietà
 
-Ottiene il colore del tema. Si applica solo per il tipo di colore del tema.
+Ottiene il colore del tema. Si applica solo al tipo di colore del tema.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def theme_color(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CellsColor](/cells/python-net/it/aspose.cells/cellscolor)
-* classe [ThemeColor](/cells/python-net/it/aspose.cells/themecolor)
+* modulo [`aspose.cells`](../../)
+* classe [`CellsColor`](/cells/python-net/it/aspose.cells/cellscolor)
+* classe [`ThemeColor`](/cells/python-net/it/aspose.cells/themecolor)

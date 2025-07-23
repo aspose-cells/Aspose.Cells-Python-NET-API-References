@@ -1,9 +1,9 @@
 ---
 title: save_format proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 630
+weight: 720
 url: /it/aspose.cells/htmlsaveoptions/save_format/
 is_root: false
 ---

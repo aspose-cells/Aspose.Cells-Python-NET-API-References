@@ -1,6 +1,6 @@
 ---
 title: url недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -18,5 +18,5 @@ def url(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [XmlDataBinding](/cells/python-net/ru/aspose.cells/xmldatabinding)
+* модуль [`aspose.cells`](../../)
+* класс [`XmlDataBinding`](/cells/python-net/ru/aspose.cells/xmldatabinding)

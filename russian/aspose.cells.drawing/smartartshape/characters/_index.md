@@ -1,22 +1,23 @@
 ---
 title: characters метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
 url: /ru/aspose.cells.drawing/smartartshape/characters/
 is_root: false
 ---
-##  characters(start_index, length) {#int-int}
-Возвращает объект символов, представляющий диапазон characters в тексте.
+##  characters(self, start_index, length) {#int-int}
+Возвращает объект Characters, представляющий диапазон characters в тексте.
 
 
-###  Возвращает
+###  Возврат
 
-Возражают персонажи.
+Персонажи возражают.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -24,11 +25,11 @@ def characters(self, start_index, length):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| start_index | int | Индекс начала персонажа.|
+| start_index | int | Индекс начала символа.|
 | length | int | Количество символов.|
 ###  Примечания
 
-Этот метод работает только с формой с заголовком.
+Этот метод работает только с фигурами, имеющими заголовок.
 ###  Пример
 
 
@@ -41,5 +42,5 @@ fontSetting = shape.characters(0, 4)
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [SmartArtShape](/cells/python-net/ru/aspose.cells.drawing/smartartshape)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`SmartArtShape`](/cells/python-net/ru/aspose.cells.drawing/smartartshape)

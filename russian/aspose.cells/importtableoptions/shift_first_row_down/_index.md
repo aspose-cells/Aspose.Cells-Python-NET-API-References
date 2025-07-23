@@ -1,6 +1,6 @@
 ---
 title: shift_first_row_down недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 150
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  shift_first_row_down недвижимость
 
-Указывает, смещается ли первая строка вниз при вставке строк.
+Указывает, сдвигается ли первая строка вниз при вставке строк.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def shift_first_row_down(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ImportTableOptions](/cells/python-net/ru/aspose.cells/importtableoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`ImportTableOptions`](/cells/python-net/ru/aspose.cells/importtableoptions)

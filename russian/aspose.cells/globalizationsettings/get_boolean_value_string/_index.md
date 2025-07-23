@@ -1,22 +1,23 @@
 ---
 title: get_boolean_value_string метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
 url: /ru/aspose.cells/globalizationsettings/get_boolean_value_string/
 is_root: false
 ---
-##  get_boolean_value_string(bv) {#bool}
-Получает отображаемое строковое значение для логического значения ячейки
+##  get_boolean_value_string(self, bv) {#bool}
+Получает отображаемое строковое значение для логического значения ячейки.
 
 
-###  Возвращает
+###  Возврат
 
-По умолчанию возвращает «ИСТИНА» для истинного значения и «ЛОЖЬ» для ложного значения.
+По умолчанию возвращает «TRUE» для истинного значения и «FALSE» для ложного значения.
 
 
 ```python
+
 def get_boolean_value_string(self, bv):
     ...
 ```
@@ -29,5 +30,5 @@ def get_boolean_value_string(self, bv):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [GlobalizationSettings](/cells/python-net/ru/aspose.cells/globalizationsettings)
+* модуль [`aspose.cells`](../../)
+* класс [`GlobalizationSettings`](/cells/python-net/ru/aspose.cells/globalizationsettings)

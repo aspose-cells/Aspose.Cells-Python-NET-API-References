@@ -1,6 +1,6 @@
 ---
 title: is_visible proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 180
@@ -8,8 +8,6 @@ url: /it/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/is_visib
 is_root: false
 ---
 ##  is_visible proprietà
-
-Indica se questo controllo è visibile.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_visible(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [RadioButtonActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`RadioButtonActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

@@ -1,6 +1,6 @@
 ---
 title: width proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 240
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width proprietà
 
-Rappresenta lo width del commento, in unità di pixel.
+Rappresenta il width del commento, in unità di pixel.
 
 ###  Esempio
 

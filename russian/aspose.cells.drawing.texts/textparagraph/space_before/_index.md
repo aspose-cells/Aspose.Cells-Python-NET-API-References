@@ -1,6 +1,6 @@
 ---
 title: space_before недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 210
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  space_before недвижимость
 
-Получает и задает объем вертикального пробела перед абзацем.
+Возвращает и задает размер вертикального пробела перед абзацем.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def space_before(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [TextParagraph](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraph)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`TextParagraph`](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraph)

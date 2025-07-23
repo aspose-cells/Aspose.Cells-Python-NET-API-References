@@ -1,9 +1,9 @@
 ---
 title: start_column proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 110
+weight: 140
 url: /it/aspose.cells/referredarea/start_column/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def start_column(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ReferredArea](/cells/python-net/it/aspose.cells/referredarea)
+* modulo [`aspose.cells`](../../)
+* classe [`ReferredArea`](/cells/python-net/it/aspose.cells/referredarea)

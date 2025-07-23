@@ -1,17 +1,17 @@
 ---
 title: ignore_error недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 70
+weight: 50
 url: /ru/aspose.cells/calculationoptions/ignore_error/
 is_root: false
 ---
 ##  ignore_error недвижимость
 
-Указывает, следует ли игнорировать ошибки, возникшие при вычислении формул.
-Ошибка может быть в неподдерживаемой функции, внешних ссылках и т. д.
-Значение по умолчанию верно.
+Указывает, следует ли игнорировать ошибки, возникающие при расчете формул.
+Ошибка может быть связана с неподдерживаемой функцией, внешними ссылками и т. д.
+Значение по умолчанию — true.
 ###  Определение:
 ```python
 @property

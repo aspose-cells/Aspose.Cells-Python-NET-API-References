@@ -1,9 +1,9 @@
 ---
 title: alternative_description недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ru/aspose.cells.tables/listobject/alternative_description/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def alternative_description(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.tables](../../)
-* класс [ListObject](/cells/python-net/ru/aspose.cells.tables/listobject)
+* модуль [`aspose.cells.tables`](../../)
+* класс [`ListObject`](/cells/python-net/ru/aspose.cells.tables/listobject)

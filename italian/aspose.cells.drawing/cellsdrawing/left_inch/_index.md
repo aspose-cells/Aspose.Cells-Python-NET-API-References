@@ -1,15 +1,15 @@
 ---
 title: left_inch proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 700
+weight: 710
 url: /it/aspose.cells.drawing/cellsdrawing/left_inch/
 is_root: false
 ---
 ##  left_inch proprietà
 
-Rappresenta l'offset orizzontale della forma dalla colonna di sinistra, in unità di pollici.
+Rappresenta lo scostamento orizzontale della forma dalla sua colonna di sinistra, in pollici.
 
 ###  Esempio
 

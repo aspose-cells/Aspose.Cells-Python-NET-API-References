@@ -1,13 +1,13 @@
 ---
-title: metodo get_source
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo get_source
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells/exportobjectevent/get_source/
 is_root: false
 ---
-##  get_source() {#}
+##  get_source(self) {#}
 Ottiene l'oggetto da esportare.
 
 
@@ -17,6 +17,7 @@ l'oggetto da esportare.
 
 
 ```python
+
 def get_source(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_source(self):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ExportObjectEvent](/cells/python-net/it/aspose.cells/exportobjectevent)
+* modulo [`aspose.cells`](../../)
+* classe [`ExportObjectEvent`](/cells/python-net/it/aspose.cells/exportobjectevent)

@@ -1,13 +1,13 @@
 ---
 title: Metodo need_quote_in_formula
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 170
+weight: 180
 url: /it/aspose.cells/cellshelper/need_quote_in_formula/
 is_root: false
 ---
-##  need_quote_in_formula {#str}
+##  need_quote_in_formula(, nome_foglio){#str}
 Indica se il nome del foglio deve essere racchiuso tra virgolette singole
 
 
@@ -17,7 +17,9 @@ Indica se il nome del foglio deve essere racchiuso tra virgolette singole
 
 
 ```python
-def need_quote_in_formula(self, sheet_name):
+
+@staticmethod
+def need_quote_in_formula(sheet_name):
     ...
 ```
 

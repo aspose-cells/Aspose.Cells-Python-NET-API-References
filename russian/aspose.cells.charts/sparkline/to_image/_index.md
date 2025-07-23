@@ -1,18 +1,19 @@
 ---
 title: to_image метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells.charts/sparkline/to_image/
 is_root: false
 ---
-##  to_image(file_name, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image(self, file_name, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
 Преобразует спарклайн в изображение.
 
 
 
 ```python
+
 def to_image(self, file_name, options):
     ...
 ```
@@ -24,12 +25,13 @@ def to_image(self, file_name, options):
 | options | aspose.cells.rendering.ImageOrPrintOptions | Параметры изображения|
 
 
-##  to_image(stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image(self, stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
 Преобразует спарклайн в изображение.
 
 
 
 ```python
+
 def to_image(self, stream, options):
     ...
 ```
@@ -37,11 +39,11 @@ def to_image(self, stream, options):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| stream | io.RawIOBase | Поток изображения.|
-| options | aspose.cells.rendering.ImageOrPrintOptions | Варианты изображения.|
+| stream | io.RawIOBase | Поток изображений.|
+| options | aspose.cells.rendering.ImageOrPrintOptions | Параметры изображения.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Sparkline](/cells/python-net/ru/aspose.cells.charts/sparkline)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Sparkline`](/cells/python-net/ru/aspose.cells.charts/sparkline)

@@ -1,6 +1,6 @@
 ---
 title: background недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  background недвижимость
 
-Получает и устанавливает режим отображения background.
+Получает и задает режим отображения background
 
 ###  Примечания
 
- ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
- используйте свойство ChartFrame.BackgroundMode.
- Этот объект недвижимости будет удален через 12 месяцев, начиная с ЯНВАРЯ 2012 года.
-Aspose приносит извинения за возможные неудобства.
+ ПРИМЕЧАНИЕ: Этот элемент устарел. Вместо этого,
+используйте свойство ChartFrame.BackgroundMode.
+ Эта собственность будет снесена через 12 месяцев с ЯНВАРЯ 2012 ГОДА.
+Aspose приносит извинения за любые причиненные вам неудобства.
 ###  Определение:
 ```python
 @property

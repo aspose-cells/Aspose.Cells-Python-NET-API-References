@@ -1,15 +1,15 @@
 ---
 title: shared_style_index недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 700
+weight: 730
 url: /ru/aspose.cells/cell/shared_style_index/
 is_root: false
 ---
 ##  shared_style_index недвижимость
 
-Получает индекс общего стиля ячейки в пуле стилей.
+Получает общий индекс стиля ячейки в пуле стилей.
 ###  Определение:
 ```python
 @property

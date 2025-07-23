@@ -1,24 +1,25 @@
 ---
 title: get_list_value метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
 url: /ru/aspose.cells/validation/get_list_value/
 is_root: false
 ---
-##  get_list_value(row, column) {#int-int}
-Получите значение для списка проверки для указанной ячейки.
+##  get_list_value(self, row, column) {#int-int}
+Получить значение для списка проверки для указанной ячейки.
 
 
-###  Возвращает
+###  Возврат
 
 Значение для создания списка этой проверки для указанной ячейки.
-Если список ссылается на диапазон, то возвращаемое значение будет объектом [ReferredArea](/cells/python-net/ru/aspose.cells/referredarea);
-В противном случае возвращаемое значение может быть нулевым, объектом[] или простым объектом.
+Если список ссылается на диапазон, то возвращаемым значением будет объект [`ReferredArea`](/cells/python-net/ru/aspose.cells/referredarea);
+В противном случае возвращаемое значение может быть null, object[] или простым объектом.
 
 
 ```python
+
 def get_list_value(self, row, column):
     ...
 ```
@@ -30,11 +31,11 @@ def get_list_value(self, row, column):
 | column | int | Индекс столбца.|
 ###  Примечания
 
-Только для проверки, тип которой — список и которая была применена к данной ячейке,
+Только для проверки типа «Список», примененной к заданной ячейке,
 в противном случае будет возвращено значение null.
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ReferredArea](/cells/python-net/ru/aspose.cells/referredarea)
-* класс [Validation](/cells/python-net/ru/aspose.cells/validation)
+* модуль [`aspose.cells`](../../)
+* класс [`ReferredArea`](/cells/python-net/ru/aspose.cells/referredarea)
+* класс [`Validation`](/cells/python-net/ru/aspose.cells/validation)

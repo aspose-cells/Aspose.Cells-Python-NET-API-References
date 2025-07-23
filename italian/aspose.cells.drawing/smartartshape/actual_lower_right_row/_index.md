@@ -1,15 +1,15 @@
 ---
 title: actual_lower_right_row proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 270
+weight: 280
 url: /it/aspose.cells.drawing/smartartshape/actual_lower_right_row/
 is_root: false
 ---
 ##  actual_lower_right_row proprietà
 
-Ottieni la riga inferiore effettiva.
+Ottieni la riga effettivamente in basso.
 
 ###  Esempio
 

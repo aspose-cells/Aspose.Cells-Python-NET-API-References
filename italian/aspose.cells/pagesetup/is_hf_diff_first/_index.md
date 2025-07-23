@@ -1,6 +1,6 @@
 ---
 title: is_hf_diff_first proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 390
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_hf_diff_first proprietà
 
-Vero significa che l'intestazione/piè di pagina della prima pagina è diverso rispetto alle altre pagine.
+Vero significa che l'intestazione/piè di pagina della prima pagina è diversa da quella delle altre pagine.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_hf_diff_first(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/it/aspose.cells/pagesetup)
+* modulo [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/it/aspose.cells/pagesetup)

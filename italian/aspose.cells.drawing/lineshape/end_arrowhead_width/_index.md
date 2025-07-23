@@ -1,6 +1,6 @@
 ---
 title: end_arrowhead_width proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 400
@@ -14,9 +14,9 @@ Ottiene e imposta la larghezza della punta della freccia finale della linea.
 ###  Osservazioni
 
  NOTA: questo membro è ora obsoleto. Invece,
- utilizzare la proprietà Shape.Line.EndArrowheadWidth.
+ si prega di utilizzare la proprietà Shape.Line.EndArrowheadWidth.
  Questa proprietà verrà rimossa 12 mesi dopo, a partire da agosto 2016.
-Aspose si scusa per eventuali disagi riscontrati.
+Aspose si scusa per ogni eventuale disagio arrecato.
 ###  Definizione:
 ```python
 @property

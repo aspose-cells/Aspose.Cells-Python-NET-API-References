@@ -1,9 +1,9 @@
 ---
 title: shadow_effect proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 920
+weight: 930
 url: /it/aspose.cells.drawing/radiobutton/shadow_effect/
 is_root: false
 ---

@@ -1,14 +1,14 @@
 ---
 title: PrintCommentsType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2460
+weight: 2430
 url: /ru/aspose.cells/printcommentstype/
 is_root: false
 ---
 ##  PrintCommentsType перечисление
-Представляет способ печати комментариев на листе.
+Представляет собой способ печати комментариев на листе.
 
 
 
@@ -17,9 +17,10 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| PRINT_IN_PLACE |Означает печать комментариев, отображаемых на листе.|
-| PRINT_NO_COMMENTS | Означает, что комментарии не печатаются.|
-| PRINT_SHEET_END | Означает печать комментариев в конце листа.|
+| PRINT_IN_PLACE | Позволяет распечатать комментарии так, как они отображаются на листе.|
+| PRINT_NO_COMMENTS | Обозначает, что комментарии печатать не следует.|
+| PRINT_SHEET_END | Представляет собой печать комментариев в конце листа.|
+| PRINT_WITH_THREADED_COMMENTS | Позволяет печатать комментарии так, как они отображаются на листе, включая связанные комментарии.|
 
 
 

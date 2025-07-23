@@ -1,6 +1,6 @@
 ---
 title: image_data proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -18,5 +18,5 @@ def image_data(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ConditionalFormattingIcon](/cells/python-net/it/aspose.cells/conditionalformattingicon)
+* modulo [`aspose.cells`](../../)
+* classe [`ConditionalFormattingIcon`](/cells/python-net/it/aspose.cells/conditionalformattingicon)

@@ -1,6 +1,6 @@
 ---
 title: center_vertically недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 280
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  center_vertically недвижимость
 
-Представляет, если лист печатается по центру по вертикали.
+Указывает, напечатан ли лист по центру вертикально.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def center_vertically(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PageSetup](/cells/python-net/ru/aspose.cells/pagesetup)
+* модуль [`aspose.cells`](../../)
+* класс [`PageSetup`](/cells/python-net/ru/aspose.cells/pagesetup)

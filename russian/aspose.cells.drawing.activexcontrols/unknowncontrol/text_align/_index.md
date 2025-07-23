@@ -1,15 +1,13 @@
 ---
 title: text_align недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 210
+weight: 200
 url: /ru/aspose.cells.drawing.activexcontrols/unknowncontrol/text_align/
 is_root: false
 ---
 ##  text_align недвижимость
-
-Представляет, как выровнять текст, используемый элементом управления.
 ###  Определение:
 ```python
 @property
@@ -21,6 +19,6 @@ def text_align(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [TextAlignmentType](/cells/python-net/ru/aspose.cells/textalignmenttype)
-* класс [UnknownControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`TextAlignmentType`](/cells/python-net/ru/aspose.cells/textalignmenttype)
+* класс [`UnknownControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/unknowncontrol)

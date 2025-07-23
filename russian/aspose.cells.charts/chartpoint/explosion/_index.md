@@ -1,15 +1,15 @@
 ---
 title: explosion недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 210
+weight: 220
 url: /ru/aspose.cells.charts/chartpoint/explosion/
 is_root: false
 ---
 ##  explosion недвижимость
 
-Расстояние открытого сегмента круговой диаграммы от центра круговой диаграммы выражается в процентах от диаметра круговой диаграммы.
+Расстояние от центра круговой диаграммы до открытого сектора круговой диаграммы выражается в процентах от диаметра круга.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def explosion(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [ChartPoint](/cells/python-net/ru/aspose.cells.charts/chartpoint)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`ChartPoint`](/cells/python-net/ru/aspose.cells.charts/chartpoint)

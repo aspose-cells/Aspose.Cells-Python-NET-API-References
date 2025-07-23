@@ -1,18 +1,19 @@
 ---
 title: AutoNumberedBulletValue конструктор
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 10
 url: /ru/aspose.cells.drawing.texts/autonumberedbulletvalue/__init__/
 is_root: false
 ---
-##  AutoNumberedBulletValue() {#}
-Создает новый экземпляр AutoNumberedBulletValue
+##  \_\_init\_\_(self){#}
+Создает новый экземпляр AutoNumberedBulletValue.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [AutoNumberedBulletValue](/cells/python-net/ru/aspose.cells.drawing.texts/autonumberedbulletvalue)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`AutoNumberedBulletValue`](/cells/python-net/ru/aspose.cells.drawing.texts/autonumberedbulletvalue)

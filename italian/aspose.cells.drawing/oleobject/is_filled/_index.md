@@ -1,9 +1,9 @@
 ---
 title: is_filled proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 660
+weight: 670
 url: /it/aspose.cells.drawing/oleobject/is_filled/
 is_root: false
 ---

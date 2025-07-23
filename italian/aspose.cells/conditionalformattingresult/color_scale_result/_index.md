@@ -1,6 +1,6 @@
 ---
 title: color_scale_result proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color_scale_result proprietà
 
-Ottiene il colore di visualizzazione della scala dei colori.
+Ottiene il colore di visualizzazione della scala di colori.
 ###  Definizione:
 ```python
 @property
@@ -18,5 +18,5 @@ def color_scale_result(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ConditionalFormattingResult](/cells/python-net/it/aspose.cells/conditionalformattingresult)
+* modulo [`aspose.cells`](../../)
+* classe [`ConditionalFormattingResult`](/cells/python-net/it/aspose.cells/conditionalformattingresult)

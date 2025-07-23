@@ -1,18 +1,18 @@
 ---
 title: default_font proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 80
+weight: 90
 url: /it/aspose.cells.rendering/imageorprintoptions/default_font/
 is_root: false
 ---
 ##  default_font proprietà
 
-Quando i caratteri in Excel sono Unicode e non devono essere impostati con il carattere corretto nello stile della cella,
-Possono apparire come blocco in pdf, immagine.
-Imposta il DefaultFont come MingLiu o MS Gothic per mostrare questi caratteri.
-Se questa proprietà non è impostata, Aspose.Cells utilizzerà il carattere predefinito del sistema per mostrare questi caratteri Unicode.
+Quando i caratteri in Excel sono Unicode e non sono impostati con il font corretto nello stile della cella,
+Possono apparire come blocchi in PDF o immagini.
+Imposta il carattere predefinito come MingLiu o MS Gothic per visualizzare questi caratteri.
+Se questa proprietà non è impostata, Aspose.Cells utilizzerà il font predefinito del sistema per visualizzare questi caratteri Unicode.
 ###  Definizione:
 ```python
 @property
@@ -24,5 +24,5 @@ def default_font(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.rendering](../../)
-* classe [ImageOrPrintOptions](/cells/python-net/it/aspose.cells.rendering/imageorprintoptions)
+* modulo [`aspose.cells.rendering`](../../)
+* classe [`ImageOrPrintOptions`](/cells/python-net/it/aspose.cells.rendering/imageorprintoptions)

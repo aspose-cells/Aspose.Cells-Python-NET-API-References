@@ -1,15 +1,13 @@
 ---
 title: sort_external_names недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 290
+weight: 330
 url: /ru/aspose.cells/pptxsaveoptions/sort_external_names/
 is_root: false
 ---
 ##  sort_external_names недвижимость
-
-Указывает, следует ли сортировать внешние определенные имена перед сохранением файла.
 ###  Определение:
 ```python
 @property

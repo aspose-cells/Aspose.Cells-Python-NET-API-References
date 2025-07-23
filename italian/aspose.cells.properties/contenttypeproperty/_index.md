@@ -1,18 +1,18 @@
 ---
-title: classe ContentTypeProperty
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: ContentTypeProperty classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells.properties/contenttypeproperty/
 is_root: false
 ---
-##  classe ContentTypeProperty
-Rappresenta le informazioni sull'identificatore.
+##  ContentTypeProperty classe
+Rappresenta le informazioni identificative.
 
 
 
-Il tipo ContentTypeProperty espone i membri seguenti:
+Il tipo ContentTypeProperty espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
@@ -39,4 +39,4 @@ workbook.save("book1.xlsm")
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.properties](..)
+* modulo [`aspose.cells.properties`](..)

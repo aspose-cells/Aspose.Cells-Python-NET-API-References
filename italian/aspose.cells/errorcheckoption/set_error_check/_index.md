@@ -1,18 +1,19 @@
 ---
-title: metodo set_error_check
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo set_error_check
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
 url: /it/aspose.cells/errorcheckoption/set_error_check/
 is_root: false
 ---
-##  set_error_check(error_check_type, is_check) {#ErrorCheckType-bool}
+##  set_error_check(self, error_check_type, is_check) {#aspose.cells.ErrorCheckType-bool}
 Imposta se il tipo di errore specificato verrà verificato.
 
 
 
 ```python
+
 def set_error_check(self, error_check_type, is_check):
     ...
 ```
@@ -20,11 +21,11 @@ def set_error_check(self, error_check_type, is_check):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| error_check_type | [ErrorCheckType](/cells/python-net/it/aspose.cells/errorchecktype) | tipo di errore può essere controllato.|
-| is_check | bool | vero se il tipo di errore specificato deve essere controllato (verrà mostrato un triangolo verde per la cella se il controllo fallisce).|
+| error_check_type | [`ErrorCheckType`](/cells/python-net/it/aspose.cells/errorchecktype) | è possibile verificare il tipo di errore.|
+| is_check | bool | vero se è necessario controllare il tipo di errore specificato (verrà visualizzato un triangolo verde per la cella se il controllo non riesce).|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ErrorCheckOption](/cells/python-net/it/aspose.cells/errorcheckoption)
+* modulo [`aspose.cells`](../../)
+* classe [`ErrorCheckOption`](/cells/python-net/it/aspose.cells/errorcheckoption)

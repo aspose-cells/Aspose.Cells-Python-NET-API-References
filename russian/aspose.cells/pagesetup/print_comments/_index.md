@@ -1,6 +1,6 @@
 ---
 title: print_comments недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 520
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_comments недвижимость
 
-Представляет способ печати комментариев на листе.
+Представляет собой способ печати комментариев на листе.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def print_comments(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PageSetup](/cells/python-net/ru/aspose.cells/pagesetup)
-* класс [PrintCommentsType](/cells/python-net/ru/aspose.cells/printcommentstype)
+* модуль [`aspose.cells`](../../)
+* класс [`PageSetup`](/cells/python-net/ru/aspose.cells/pagesetup)
+* класс [`PrintCommentsType`](/cells/python-net/ru/aspose.cells/printcommentstype)

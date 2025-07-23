@@ -1,14 +1,14 @@
 ---
 title: PivotDateTimeRangeGroupSettings classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 50
+weight: 80
 url: /it/aspose.cells.pivot/pivotdatetimerangegroupsettings/
 is_root: false
 ---
 ##  PivotDateTimeRangeGroupSettings classe
-Rappresenta il campo raggruppato per intervallo di date e orari.
+Rappresenta i campi raggruppati per intervallo di data e ora.
 
 
 
@@ -22,17 +22,17 @@ Il tipo PivotDateTimeRangeGroupSettings espone i seguenti membri:
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [type](/cells/python-net/it/aspose.cells.pivot/pivotdatetimerangegroupsettings/type) | Ottiene il tipo di gruppo data/ora.|
+| [type](/cells/python-net/it/aspose.cells.pivot/pivotdatetimerangegroupsettings/type) | Ottiene il tipo di gruppo temporale dei dati.|
 | [start](/cells/python-net/it/aspose.cells.pivot/pivotdatetimerangegroupsettings/start) | Ottiene la data e l'ora di inizio del gruppo.|
 | [end](/cells/python-net/it/aspose.cells.pivot/pivotdatetimerangegroupsettings/end) | Ottiene la data e l'ora di fine del gruppo.|
 | [interval](/cells/python-net/it/aspose.cells.pivot/pivotdatetimerangegroupsettings/interval) | Ottiene l'interno del gruppo.|
-| [group_by_types](/cells/python-net/it/aspose.cells.pivot/pivotdatetimerangegroupsettings/group_by_types) | Ottiene i tipi di raggruppamento in base alla data e all'ora.|
+| [group_by_types](/cells/python-net/it/aspose.cells.pivot/pivotdatetimerangegroupsettings/group_by_types) | Ottiene i tipi di raggruppamento per data e ora.|
 
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [is_grouped_by](/cells/python-net/it/aspose.cells.pivot/pivotdatetimerangegroupsettings/is_grouped_by/#aspose.cells.pivot.PivotGroupByType) | Controlla se il campo è raggruppato per tipo.|
+| [`is_grouped_by(self, type)`](/cells/python-net/it/aspose.cells.pivot/pivotdatetimerangegroupsettings/is_grouped_by/#aspose.cells.pivot.pivotgroupbytype) | Controlla se il campo è raggruppato in base al tipo.|
 
 
 

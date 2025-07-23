@@ -1,6 +1,6 @@
 ---
 title: outline недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 210
@@ -18,6 +18,6 @@ def outline(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [LineFormat](/cells/python-net/ru/aspose.cells.drawing/lineformat)
-* класс [TextOptions](/cells/python-net/ru/aspose.cells.drawing.texts/textoptions)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`LineFormat`](/cells/python-net/ru/aspose.cells.drawing/lineformat)
+* класс [`TextOptions`](/cells/python-net/ru/aspose.cells.drawing.texts/textoptions)

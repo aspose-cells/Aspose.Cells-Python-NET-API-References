@@ -1,16 +1,16 @@
 ---
 title: attached_files_directory proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 40
+weight: 50
 url: /it/aspose.cells/htmlsaveoptions/attached_files_directory/
 is_root: false
 ---
 ##  attached_files_directory proprietà
 
 La directory in cui verranno salvati i file allegati.
-Solo per il salvataggio nel flusso html.
+Solo per il salvataggio nel flusso HTML.
 ###  Definizione:
 ```python
 @property
@@ -22,5 +22,5 @@ def attached_files_directory(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [HtmlSaveOptions](/cells/python-net/it/aspose.cells/htmlsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`HtmlSaveOptions`](/cells/python-net/it/aspose.cells/htmlsaveoptions)

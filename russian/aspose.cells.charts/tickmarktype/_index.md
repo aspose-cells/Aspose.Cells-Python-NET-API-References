@@ -1,6 +1,6 @@
 ---
 title: TickMarkType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 660
@@ -17,10 +17,10 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| CROSS | Тип деления – Крест.|
-| INSIDE | Тип деления — Внутри.|
-| NONE | Тип деления — Нет.|
-| OUTSIDE | Тип деления: Снаружи.|
+| CROSS | Тип галочки — крест.|
+| INSIDE | Тип галочки — Внутри.|
+| NONE | Тип галочки — Нет.|
+| OUTSIDE | Тип галочки — «Снаружи».|
 
 
 

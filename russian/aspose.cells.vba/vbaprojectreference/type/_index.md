@@ -1,6 +1,6 @@
 ---
 title: type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.vba](../../)
-* класс [VbaProjectReference](/cells/python-net/ru/aspose.cells.vba/vbaprojectreference)
-* класс [VbaProjectReferenceType](/cells/python-net/ru/aspose.cells.vba/vbaprojectreferencetype)
+* модуль [`aspose.cells.vba`](../../)
+* класс [`VbaProjectReference`](/cells/python-net/ru/aspose.cells.vba/vbaprojectreference)
+* класс [`VbaProjectReferenceType`](/cells/python-net/ru/aspose.cells.vba/vbaprojectreferencetype)

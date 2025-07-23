@@ -1,9 +1,9 @@
 ---
 title: horizontal_page_breaks proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 530
+weight: 560
 url: /it/aspose.cells/worksheet/horizontal_page_breaks/
 is_root: false
 ---

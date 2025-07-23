@@ -1,6 +1,6 @@
 ---
 title: icon_id недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  icon_id недвижимость
 
-Получает и задает Отсчитываемый от нуля индекс значка в наборе значков.
+Возвращает и задает отсчитываемый от нуля индекс значка в наборе значков.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def icon_id(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [IconFilter](/cells/python-net/ru/aspose.cells/iconfilter)
+* модуль [`aspose.cells`](../../)
+* класс [`IconFilter`](/cells/python-net/ru/aspose.cells/iconfilter)

@@ -1,18 +1,19 @@
 ---
 title: FileFormatInfo costruttore
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 10
 url: /it/aspose.cells/fileformatinfo/__init__/
 is_root: false
 ---
-##  FileFormatInfo() {#}
+##  \_\_init\_\_(self){#}
 Costruisce una nuova istanza di FileFormatInfo
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FileFormatInfo](/cells/python-net/it/aspose.cells/fileformatinfo)
+* modulo [`aspose.cells`](../../)
+* classe [`FileFormatInfo`](/cells/python-net/it/aspose.cells/fileformatinfo)

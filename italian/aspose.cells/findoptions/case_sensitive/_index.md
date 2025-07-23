@@ -1,6 +1,6 @@
 ---
 title: case_sensitive proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  case_sensitive proprietà
 
-Indica se la stringa cercata fa distinzione tra maiuscole e minuscole.
+Indica se la stringa cercata distingue tra maiuscole e minuscole.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def case_sensitive(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FindOptions](/cells/python-net/it/aspose.cells/findoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`FindOptions`](/cells/python-net/it/aspose.cells/findoptions)

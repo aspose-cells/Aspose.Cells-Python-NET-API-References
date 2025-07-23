@@ -1,14 +1,14 @@
 ---
-title: metodo add
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo add
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells/conditionalformattingcollection/add/
 is_root: false
 ---
-##  add() {#}
-Aggiunge un oggetto FormatConditions alla raccolta.
+##  add(self) {#}
+Aggiunge un FormatConditions alla raccolta.
 
 
 ###  ritorna
@@ -17,6 +17,7 @@ Indice dell'oggetto FormatConditions.
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ConditionalFormattingCollection](/cells/python-net/it/aspose.cells/conditionalformattingcollection)
+* modulo [`aspose.cells`](../../)
+* classe [`ConditionalFormattingCollection`](/cells/python-net/it/aspose.cells/conditionalformattingcollection)

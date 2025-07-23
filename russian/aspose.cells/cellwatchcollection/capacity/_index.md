@@ -1,9 +1,9 @@
 ---
 title: capacity недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 80
+weight: 90
 url: /ru/aspose.cells/cellwatchcollection/capacity/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CellWatchCollection](/cells/python-net/ru/aspose.cells/cellwatchcollection)
+* модуль [`aspose.cells`](../../)
+* класс [`CellWatchCollection`](/cells/python-net/ru/aspose.cells/cellwatchcollection)

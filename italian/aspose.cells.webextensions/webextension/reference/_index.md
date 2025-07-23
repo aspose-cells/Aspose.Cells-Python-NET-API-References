@@ -1,6 +1,6 @@
 ---
 title: reference proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  reference proprietà
 
-Ottieni lo reference principale per un componente aggiuntivo di Office.
+Ottieni l'indirizzo primario reference per un componente aggiuntivo di Office.
 ###  Definizione:
 ```python
 @property
@@ -18,6 +18,6 @@ def reference(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.webextensions](../../)
-* classe [WebExtension](/cells/python-net/it/aspose.cells.webextensions/webextension)
-* classe [WebExtensionReference](/cells/python-net/it/aspose.cells.webextensions/webextensionreference)
+* modulo [`aspose.cells.webextensions`](../../)
+* classe [`WebExtension`](/cells/python-net/it/aspose.cells.webextensions/webextension)
+* classe [`WebExtensionReference`](/cells/python-net/it/aspose.cells.webextensions/webextensionreference)

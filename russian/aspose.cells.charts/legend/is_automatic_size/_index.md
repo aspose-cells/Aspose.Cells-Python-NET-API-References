@@ -1,15 +1,15 @@
 ---
 title: is_automatic_size недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 200
+weight: 260
 url: /ru/aspose.cells.charts/legend/is_automatic_size/
 is_root: false
 ---
 ##  is_automatic_size недвижимость
 
-Указывает, имеет ли рамка диаграммы автоматический размер.
+Указывает, автоматически ли изменяется размер рамки диаграммы.
 ###  Определение:
 ```python
 @property

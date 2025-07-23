@@ -1,15 +1,15 @@
 ---
 title: text недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 350
+weight: 410
 url: /ru/aspose.cells.charts/legend/text/
 is_root: false
 ---
 ##  text недвижимость
 
-Получает или задает text заголовка кадра.
+Возвращает или задает text заголовка кадра.
 ###  Определение:
 ```python
 @property

@@ -1,18 +1,19 @@
 ---
 title: get_pivot_filter_by_type метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 50
+weight: 110
 url: /ru/aspose.cells.pivot/pivotfield/get_pivot_filter_by_type/
 is_root: false
 ---
-##  get_pivot_filter_by_type {#aspose.cells.pivot.PivotFilterType}
-Получает сводный фильтр сводного поля по типу.
+##  get_pivot_filter_by_type(self, type) {#aspose.cells.pivot.PivotFilterType}
+Получает фильтр сводной таблицы для поля сводной таблицы по типу
 
 
 
 ```python
+
 def get_pivot_filter_by_type(self, type):
     ...
 ```

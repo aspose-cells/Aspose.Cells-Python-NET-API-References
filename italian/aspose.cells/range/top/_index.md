@@ -1,9 +1,9 @@
 ---
 title: top proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 410
+weight: 510
 url: /it/aspose.cells/range/top/
 is_root: false
 ---

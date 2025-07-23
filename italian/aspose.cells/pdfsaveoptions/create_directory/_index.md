@@ -1,19 +1,13 @@
 ---
 title: create_directory proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 120
+weight: 130
 url: /it/aspose.cells/pdfsaveoptions/create_directory/
 is_root: false
 ---
 ##  create_directory proprietà
-
-Se true e la directory non esiste, la directory verrà creata automaticamente prima di salvare il file.
-
-###  Osservazioni
-
-Il valore predefinito è falso.
 ###  Definizione:
 ```python
 @property
@@ -25,5 +19,5 @@ def create_directory(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [PdfSaveOptions](/cells/python-net/it/aspose.cells/pdfsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`PdfSaveOptions`](/cells/python-net/it/aspose.cells/pdfsaveoptions)

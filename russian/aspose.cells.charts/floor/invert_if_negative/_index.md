@@ -1,6 +1,6 @@
 ---
 title: invert_if_negative недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  invert_if_negative недвижимость
 
-Если свойство истинно и значение точки диаграммы является отрицательным числом,
-цвет переднего плана и цвет фона будут заменены.
+Если свойство истинно и значение точки диаграммы — отрицательное число,
+цвет переднего плана и цвет фона поменяются местами.
 
 ###  Пример
 
@@ -58,5 +58,5 @@ def invert_if_negative(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Floor](/cells/python-net/ru/aspose.cells.charts/floor)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Floor`](/cells/python-net/ru/aspose.cells.charts/floor)

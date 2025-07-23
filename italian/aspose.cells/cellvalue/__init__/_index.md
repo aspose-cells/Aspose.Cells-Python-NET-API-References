@@ -1,18 +1,19 @@
 ---
 title: CellValue costruttore
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 10
 url: /it/aspose.cells/cellvalue/__init__/
 is_root: false
 ---
-##  __dentro__ {#}
+##  \_\_init\_\_(self){#}
 Costruisce una nuova istanza di CellValue
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

@@ -1,15 +1,15 @@
 ---
 title: signer proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 100
+weight: 110
 url: /it/aspose.cells.drawing/signatureline/signer/
 is_root: false
 ---
 ##  signer proprietà
 
-Ottiene e imposta signer.
+Ottiene o imposta signer.
 
 ###  Esempio
 
@@ -32,5 +32,5 @@ def signer(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [SignatureLine](/cells/python-net/it/aspose.cells.drawing/signatureline)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`SignatureLine`](/cells/python-net/it/aspose.cells.drawing/signatureline)

@@ -1,15 +1,15 @@
 ---
 title: entire_column недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 300
+weight: 400
 url: /ru/aspose.cells/range/entire_column/
 is_root: false
 ---
 ##  entire_column недвижимость
 
-Получает объект Range, представляющий весь столбец (или столбцы), содержащий указанный диапазон.
+Возвращает объект Range, представляющий весь столбец (или столбцы), содержащий указанный диапазон.
 ###  Определение:
 ```python
 @property

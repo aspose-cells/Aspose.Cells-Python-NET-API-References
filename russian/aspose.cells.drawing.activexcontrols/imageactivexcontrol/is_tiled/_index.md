@@ -1,6 +1,6 @@
 ---
 title: is_tiled недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 140
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_tiled недвижимость
 
-Указывает, расположено ли изображение на фоне.
+Указывает, размещено ли изображение на фоне мозаикой.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_tiled(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [ImageActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`ImageActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

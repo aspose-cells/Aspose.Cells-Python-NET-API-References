@@ -1,15 +1,15 @@
 ---
 title: top_cm недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1140
+weight: 1150
 url: /ru/aspose.cells.drawing/scrollbar/top_cm/
 is_root: false
 ---
 ##  top_cm недвижимость
 
-Представляет вертикальное смещение фигуры от ее верхнего ряда в сантиметрах.
+Представляет собой вертикальное смещение фигуры относительно ее верхней строки, в сантиметрах.
 
 ###  Пример
 

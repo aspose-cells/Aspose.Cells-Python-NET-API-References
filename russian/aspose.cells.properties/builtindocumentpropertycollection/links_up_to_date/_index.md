@@ -1,15 +1,15 @@
 ---
 title: links_up_to_date недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 290
+weight: 300
 url: /ru/aspose.cells.properties/builtindocumentpropertycollection/links_up_to_date/
 is_root: false
 ---
 ##  links_up_to_date недвижимость
 
-Указывает, являются ли гиперссылки в документе актуальными.
+Указывает, актуальны ли гиперссылки в документе.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def links_up_to_date(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.properties](../../)
-* класс [BuiltInDocumentPropertyCollection](/cells/python-net/ru/aspose.cells.properties/builtindocumentpropertycollection)
+* модуль [`aspose.cells.properties`](../../)
+* класс [`BuiltInDocumentPropertyCollection`](/cells/python-net/ru/aspose.cells.properties/builtindocumentpropertycollection)

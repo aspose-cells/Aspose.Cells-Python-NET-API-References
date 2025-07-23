@@ -1,6 +1,6 @@
 ---
 title: type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 290
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [CheckBoxActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
-* класс [ControlType](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/controltype)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`CheckBoxActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* класс [`ControlType`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/controltype)

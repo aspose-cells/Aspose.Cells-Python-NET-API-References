@@ -1,22 +1,23 @@
 ---
 title: get_precedents_in_calculation метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 190
 url: /ru/aspose.cells/cell/get_precedents_in_calculation/
 is_root: false
 ---
-##  get_precedents_in_calculation() {#}
-Получает все прецеденты (ссылки на ячейки в текущей книге), используемые формулой этой ячейки при ее вычислении.
+##  get_precedents_in_calculation(self) {#}
+Возвращает все прецеденты (ссылки на ячейки в текущей книге), используемые формулой этой ячейки при ее вычислении.
 
 
-###  Возвращает
+###  Возврат
 
 Перечислитель для перечисления всех ссылок (ReferredArea)
 
 
 ```python
+
 def get_precedents_in_calculation(self):
     ...
 ```
@@ -24,9 +25,9 @@ def get_precedents_in_calculation(self):
 
 ###  Примечания
 
-Этот метод может работать только в ситуации, когда [FormulaSettings.enable_calculation_chain](/cells/python-net/ru/aspose.cells/formulasettings#enable_calculation_chain)
+Этот метод может работать только в том случае, если [`FormulaSettings.enable_calculation_chain`](/cells/python-net/ru/aspose.cells/formulasettings#enable_calculation_chain)
 верно для рабочей книги, и рабочая книга была полностью рассчитана.
-Если эта ячейка не является формулой или не ссылается ни на какие другие ячейки, будет возвращено значение NULL.
+Если эта ячейка не является формулой или не ссылается на другие ячейки, будет возвращено значение null.
 ###  Пример
 
 ```python
@@ -47,5 +48,5 @@ for r in en:
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cell](/cells/python-net/ru/aspose.cells/cell)
+* модуль [`aspose.cells`](../../)
+* класс [`Cell`](/cells/python-net/ru/aspose.cells/cell)

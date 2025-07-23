@@ -1,6 +1,6 @@
 ---
 title: index proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  index proprietà
 
-Ottiene index di questa colonna.
+Ottiene il index di questa colonna.
 ###  Definizione:
 ```python
 @property
@@ -18,5 +18,5 @@ def index(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Column](/cells/python-net/it/aspose.cells/column)
+* modulo [`aspose.cells`](../../)
+* classe [`Column`](/cells/python-net/it/aspose.cells/column)

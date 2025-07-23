@@ -1,6 +1,6 @@
 ---
 title: x_error_bar недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 520
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  x_error_bar недвижимость
 
-Представляет линейку погрешностей направления X ряда.
+Представляет собой планку погрешности направления X для данной серии.
 ###  Определение:
 ```python
 @property
@@ -18,6 +18,6 @@ def x_error_bar(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [ErrorBar](/cells/python-net/ru/aspose.cells.charts/errorbar)
-* класс [Series](/cells/python-net/ru/aspose.cells.charts/series)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`ErrorBar`](/cells/python-net/ru/aspose.cells.charts/errorbar)
+* класс [`Series`](/cells/python-net/ru/aspose.cells.charts/series)

@@ -1,9 +1,9 @@
 ---
 title: is_valid недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 60
+weight: 70
 url: /ru/aspose.cells.digitalsignatures/digitalsignature/is_valid/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def is_valid(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.digitalsignatures](../../)
-* класс [DigitalSignature](/cells/python-net/ru/aspose.cells.digitalsignatures/digitalsignature)
+* модуль [`aspose.cells.digitalsignatures`](../../)
+* класс [`DigitalSignature`](/cells/python-net/ru/aspose.cells.digitalsignatures/digitalsignature)

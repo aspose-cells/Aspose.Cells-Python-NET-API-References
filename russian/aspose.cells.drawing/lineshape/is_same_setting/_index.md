@@ -1,13 +1,13 @@
 ---
 title: is_same_setting метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 150
+weight: 160
 url: /ru/aspose.cells.drawing/lineshape/is_same_setting/
 is_root: false
 ---
-##  is_same_setting {#any}
+##  is_same_setting(self, obj) {#any}
 Возвращает, одинакова ли форма.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def is_same_setting(self, obj):
     ...
 ```

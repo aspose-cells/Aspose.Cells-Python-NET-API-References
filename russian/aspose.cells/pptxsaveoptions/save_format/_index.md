@@ -1,15 +1,13 @@
 ---
 title: save_format недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 270
+weight: 310
 url: /ru/aspose.cells/pptxsaveoptions/save_format/
 is_root: false
 ---
 ##  save_format недвижимость
-
-Получает формат файла сохранения.
 ###  Определение:
 ```python
 @property

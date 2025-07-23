@@ -1,17 +1,16 @@
 ---
 title: is_auto_format недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 580
+weight: 680
 url: /ru/aspose.cells.pivot/pivottable/is_auto_format/
 is_root: false
 ---
 ##  is_auto_format недвижимость
 
 Указывает, форматируется ли отчет сводной таблицы автоматически.
-Флажок «Автоформат таблицы», который находится в опции сводной таблицы для Excel 2003
-Флажок «автоподбор ширины столбца при обновлении», который находится в параметрах сводной таблицы: формат макета для Excel 2007
+Флажок «Автоформат таблицы» в опции сводной таблицы Excel 2003
 ###  Определение:
 ```python
 @property
@@ -23,5 +22,5 @@ def is_auto_format(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotTable](/cells/python-net/ru/aspose.cells.pivot/pivottable)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotTable`](/cells/python-net/ru/aspose.cells.pivot/pivottable)

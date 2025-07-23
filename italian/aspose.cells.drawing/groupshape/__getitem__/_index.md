@@ -1,25 +1,25 @@
 ---
 title: GroupShape indicizzatore
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 270
+weight: 280
 url: /it/aspose.cells.drawing/groupshape/__getitem__/
 is_root: false
 ---
 ##  GroupShape indicizzatore
 
-Ottiene la forma figlio in base all'indice.
+Ottiene la forma del figlio tramite l'indice.
 ###  Indicizzatore
 | Nome| Descrizione|
 | :- | :- |
-| index | l'indice della forma del bambino.|
+| index | l'indice di forma del bambino.|
 
 
 
 ###  ritorna
 
-restituire la forma del bambino.
+restituisci la forma del bambino.
 
 ###  Guarda anche
 * modulo [`aspose.cells.drawing`](../../)

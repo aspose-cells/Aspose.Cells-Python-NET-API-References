@@ -1,23 +1,23 @@
 ---
-title: TextFontAlignType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione TextFontAlignType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 170
+weight: 180
 url: /it/aspose.cells.drawing.texts/textfontaligntype/
 is_root: false
 ---
-##  TextFontAlignType enumerazione
+##  Enumerazione TextFontAlignType
 Rappresenta i diversi tipi di allineamento dei caratteri.
 
 
 
-Il tipo TextFontAlignType espone i membri seguenti:
+Il tipo TextFontAlignType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
-| AUTOMATIC | Quando il flusso del testo è orizzontale o verticale semplice come fontBaseline<br/> ma per altre modalità verticali come fontCenter.|
+| AUTOMATIC | Quando il flusso del testo è orizzontale o semplicemente verticale, come fontBaseline<br/> ma per le altre modalità verticali è uguale a fontCenter.|
 | BOTTOM | Le lettere sono ancorate alla fine di una singola riga.|
 | BASELINE | Le lettere sono ancorate alla linea di base inferiore di una singola riga.|
 | CENTER | Le lettere sono ancorate tra le due linee di base di una singola riga.|
@@ -26,4 +26,4 @@ Il tipo TextFontAlignType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](..)
+* modulo [`aspose.cells.drawing.texts`](..)

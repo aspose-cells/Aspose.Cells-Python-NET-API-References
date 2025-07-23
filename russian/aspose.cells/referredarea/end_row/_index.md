@@ -1,6 +1,6 @@
 ---
 title: end_row недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_row недвижимость
 
-Крайний ряд площади.
+Конечный ряд области.
 ###  Определение:
 ```python
 @property
@@ -18,5 +18,5 @@ def end_row(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ReferredArea](/cells/python-net/ru/aspose.cells/referredarea)
+* модуль [`aspose.cells`](../../)
+* класс [`ReferredArea`](/cells/python-net/ru/aspose.cells/referredarea)

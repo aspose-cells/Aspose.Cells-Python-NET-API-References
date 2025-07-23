@@ -1,15 +1,15 @@
 ---
 title: export_hidden_worksheet proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 280
+weight: 350
 url: /it/aspose.cells/htmlsaveoptions/export_hidden_worksheet/
 is_root: false
 ---
 ##  export_hidden_worksheet proprietà
 
-Indica se si sta esportando il contenuto del foglio di lavoro nascosto. Il valore predefinito è true.
+Indica se esportare il contenuto nascosto del foglio di lavoro. Il valore predefinito è true.
 ###  Definizione:
 ```python
 @property

@@ -1,15 +1,15 @@
 ---
 title: data_mashup недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 530
+weight: 550
 url: /ru/aspose.cells/workbook/data_mashup/
 is_root: false
 ---
 ##  data_mashup недвижимость
 
-Получает данные гибридного веб-приложения.
+Получает данные мэшапа.
 ###  Определение:
 ```python
 @property

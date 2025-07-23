@@ -1,9 +1,9 @@
 ---
 title: background_image proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 380
+weight: 400
 url: /it/aspose.cells/worksheet/background_image/
 is_root: false
 ---

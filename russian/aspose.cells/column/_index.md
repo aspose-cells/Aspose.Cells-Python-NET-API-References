@@ -1,14 +1,14 @@
 ---
 title: Column класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 270
+weight: 240
 url: /ru/aspose.cells/column/
 is_root: false
 ---
 ##  Column класс
-Представляет один столбец на листе.
+Представляет собой один столбец на рабочем листе.
 
 
 
@@ -21,17 +21,17 @@ is_root: false
 | [width](/cells/python-net/ru/aspose.cells/column/width) | Получает и задает ширину столбца в символах.|
 | [group_level](/cells/python-net/ru/aspose.cells/column/group_level) | Получает уровень группы столбца.|
 | [is_hidden](/cells/python-net/ru/aspose.cells/column/is_hidden) | Указывает, скрыт ли столбец.|
-| [has_custom_style](/cells/python-net/ru/aspose.cells/column/has_custom_style) | Указывает, имеет ли этот столбец пользовательские настройки стиля (отличные от стиля по умолчанию, унаследованного из книги).|
+| [has_custom_style](/cells/python-net/ru/aspose.cells/column/has_custom_style) | Указывает, имеет ли этот столбец пользовательские настройки стиля (отличные от настроек по умолчанию, унаследованных из рабочей книги).|
 | [style](/cells/python-net/ru/aspose.cells/column/style) | Получает стиль этого столбца.|
-| [is_collapsed](/cells/python-net/ru/aspose.cells/column/is_collapsed) | свернута ли колонка|
+| [is_collapsed](/cells/python-net/ru/aspose.cells/column/is_collapsed) | свернут ли столбец|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [apply_style](/cells/python-net/ru/aspose.cells/column/apply_style/#aspose.cells.Style-aspose.cells.StyleFlag) |Применяет форматы для всего столбца.|
-| [get_style](/cells/python-net/ru/aspose.cells/column/get_style/#) | Получает стиль этого столбца.|
-| [set_style](/cells/python-net/ru/aspose.cells/column/set_style/#aspose.cells.Style) | Устанавливает стиль этого столбца.|
+| [`apply_style(self, style, flag)`](/cells/python-net/ru/aspose.cells/column/apply_style/#aspose.cells.style-aspose.cells.styleflag) | Применяет форматирование ко всему столбцу.|
+| [`get_style(self)`](/cells/python-net/ru/aspose.cells/column/get_style/#) | Получает стиль этого столбца.|
+| [`set_style(self, style)`](/cells/python-net/ru/aspose.cells/column/set_style/#aspose.cells.style) | Задает стиль этого столбца.|
 
 
 

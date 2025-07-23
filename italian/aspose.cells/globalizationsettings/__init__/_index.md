@@ -1,18 +1,19 @@
 ---
 title: GlobalizationSettings costruttore
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 10
 url: /it/aspose.cells/globalizationsettings/__init__/
 is_root: false
 ---
-##  GlobalizationSettings() {#}
+##  \_\_init\_\_(self){#}
 Costruisce una nuova istanza di GlobalizationSettings
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [GlobalizationSettings](/cells/python-net/it/aspose.cells/globalizationsettings)
+* modulo [`aspose.cells`](../../)
+* classe [`GlobalizationSettings`](/cells/python-net/it/aspose.cells/globalizationsettings)

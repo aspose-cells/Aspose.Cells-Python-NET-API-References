@@ -1,6 +1,6 @@
 ---
 title: default_tab_size недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  default_tab_size недвижимость
 
-Получает и задает размер по умолчанию для символа табуляции в этом абзаце.
+Возвращает и задает размер по умолчанию для символа табуляции в данном абзаце.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def default_tab_size(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [TextParagraph](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraph)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`TextParagraph`](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraph)

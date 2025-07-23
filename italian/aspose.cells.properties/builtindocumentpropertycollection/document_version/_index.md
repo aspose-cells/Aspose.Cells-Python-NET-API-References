@@ -1,9 +1,9 @@
 ---
 title: document_version proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 190
+weight: 200
 url: /it/aspose.cells.properties/builtindocumentpropertycollection/document_version/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def document_version(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.properties](../../)
-* classe [BuiltInDocumentPropertyCollection](/cells/python-net/it/aspose.cells.properties/builtindocumentpropertycollection)
+* modulo [`aspose.cells.properties`](../../)
+* classe [`BuiltInDocumentPropertyCollection`](/cells/python-net/it/aspose.cells.properties/builtindocumentpropertycollection)

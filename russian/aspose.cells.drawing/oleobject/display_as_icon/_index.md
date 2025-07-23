@@ -1,6 +1,6 @@
 ---
 title: display_as_icon недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 400
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_as_icon недвижимость
 
- Истинно, если указанный объект отображается в виде значка
+ True, если указанный объект отображается как значок
 и изображение не будет автоматически изменено.
 ###  Определение:
 ```python

@@ -1,14 +1,14 @@
 ---
 title: AutoFitMergedCellsType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1830
+weight: 1730
 url: /ru/aspose.cells/autofitmergedcellstype/
 is_root: false
 ---
 ##  AutoFitMergedCellsType перечисление
-Представляет тип автоматической подгонки объединенных ячеек.
+Представляет собой тип автоподбора объединенных ячеек.
 
 
 
@@ -18,9 +18,9 @@ is_root: false
 | Поле| Описание|
 | :- | :- |
 | NONE | Игнорировать объединенные ячейки.|
-| FIRST_LINE | Увеличивает только высоту первой строки.|
-| LAST_LINE | Увеличивает только высоту последней строки.|
-| EACH_LINE | Увеличивает только высоту каждой строки.|
+| FIRST_LINE | Увеличивает высоту только первого ряда.|
+| LAST_LINE | Увеличивает высоту только последней строки.|
+| EACH_LINE | Увеличивает высоту каждой строки.|
 
 
 

@@ -1,9 +1,9 @@
 ---
 title: auto_shape_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 320
+weight: 340
 url: /ru/aspose.cells.drawing/picture/auto_shape_type/
 is_root: false
 ---

@@ -1,13 +1,13 @@
 ---
 title: is_grouped_by метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells.pivot/pivotdatetimerangegroupsettings/is_grouped_by/
 is_root: false
 ---
-##  is_grouped_by {#aspose.cells.pivot.PivotGroupByType}
+##  is_grouped_by(self, type) {#aspose.cells.pivot.PivotGroupByType}
 Проверьте, сгруппировано ли поле по типу.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def is_grouped_by(self, type):
     ...
 ```

@@ -1,15 +1,15 @@
 ---
 title: left_cm недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 790
+weight: 810
 url: /ru/aspose.cells.drawing/picture/left_cm/
 is_root: false
 ---
 ##  left_cm недвижимость
 
-Представляет горизонтальное смещение фигуры от ее левого столбца в сантиметрах.
+Представляет собой горизонтальное смещение фигуры относительно ее левого столбца в сантиметрах.
 
 ###  Пример
 

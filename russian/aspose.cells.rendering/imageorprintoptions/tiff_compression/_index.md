@@ -1,19 +1,19 @@
 ---
 title: tiff_compression недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 370
+weight: 380
 url: /ru/aspose.cells.rendering/imageorprintoptions/tiff_compression/
 is_root: false
 ---
 ##  tiff_compression недвижимость
 
-Получает или задает тип сжатия, который будет применяться только при сохранении страниц в формате `Tiff`.
+Возвращает или задает тип сжатия, применяемый только при сохранении страниц в формате `Tiff`.
 
 ###  Примечания
 
-Действует только при сохранении на номер TIFF.
+Действует только при сохранении на TIFF.
 Значение по умолчанию — Lzw.
 ###  Определение:
 ```python

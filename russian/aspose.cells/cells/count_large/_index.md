@@ -1,15 +1,15 @@
 ---
 title: count_large недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1030
+weight: 1050
 url: /ru/aspose.cells/cells/count_large/
 is_root: false
 ---
 ##  count_large недвижимость
 
-Получает общее количество созданных Cell объектов.
+Получает общее количество созданных экземпляров Cell объектов.
 ###  Определение:
 ```python
 @property

@@ -1,15 +1,15 @@
 ---
 title: type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 50
+weight: 40
 url: /ru/aspose.cells.drawing.texts/bullet/type/
 is_root: false
 ---
 ##  type недвижимость
 
-Получает и устанавливает номер пули type.
+Получает и задает type пули.
 ###  Определение:
 ```python
 @property

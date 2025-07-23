@@ -1,9 +1,9 @@
 ---
 title: capacity недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ru/aspose.cells.querytables/powerqueryformulaitemcollection/capacity/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.querytables](../../)
-* класс [PowerQueryFormulaItemCollection](/cells/python-net/ru/aspose.cells.querytables/powerqueryformulaitemcollection)
+* модуль [`aspose.cells.querytables`](../../)
+* класс [`PowerQueryFormulaItemCollection`](/cells/python-net/ru/aspose.cells.querytables/powerqueryformulaitemcollection)

@@ -1,9 +1,9 @@
 ---
 title: HorizontalPageBreak класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 780
+weight: 760
 url: /ru/aspose.cells/horizontalpagebreak/
 is_root: false
 ---
@@ -19,7 +19,7 @@ is_root: false
 | :- | :- |
 | [start_column](/cells/python-net/ru/aspose.cells/horizontalpagebreak/start_column) | Получает индекс начального столбца этого горизонтального разрыва страницы.|
 | [end_column](/cells/python-net/ru/aspose.cells/horizontalpagebreak/end_column) | Получает индекс конечного столбца этого горизонтального разрыва страницы.|
-| [row](/cells/python-net/ru/aspose.cells/horizontalpagebreak/row) | Получает индекс строки, отсчитываемый от нуля.|
+| [row](/cells/python-net/ru/aspose.cells/horizontalpagebreak/row) |Получает индекс строки, начинающийся с нуля.|
 
 
 

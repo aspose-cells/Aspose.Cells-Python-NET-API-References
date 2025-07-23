@@ -1,6 +1,6 @@
 ---
 title: MetadataType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип MetadataType предоставляет следующие члены:
+Тип MetadataType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -24,4 +24,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.metadata](..)
+* модуль [`aspose.cells.metadata`](..)

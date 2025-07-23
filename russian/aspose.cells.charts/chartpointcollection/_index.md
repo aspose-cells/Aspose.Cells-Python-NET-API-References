@@ -1,6 +1,6 @@
 ---
 title: ChartPointCollection класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 110
@@ -8,7 +8,7 @@ url: /ru/aspose.cells.charts/chartpointcollection/
 is_root: false
 ---
 ##  ChartPointCollection класс
-Представляет коллекцию, содержащую все точки одной серии.
+Представляет собой коллекцию, содержащую все точки одной серии.
 
 
 
@@ -25,15 +25,14 @@ is_root: false
 ###  Индексатор
 | Имя| Описание|
 | :- | :- |
-| [index] | Индекс точки графика в серии.|
+| [index] | Индекс точки диаграммы в серии.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [get_enumerator](/cells/python-net/ru/aspose.cells.charts/chartpointcollection/get_enumerator/#) | Возвращает перечислитель для всего числа [`ChartPointCollection`](/cells/python-net/ru/aspose.cells.charts/chartpointcollection).|
-| [clear](/cells/python-net/ru/aspose.cells.charts/chartpointcollection/clear/#) | Удалите все настройки точек диаграммы.|
-| [remove_at](/cells/python-net/ru/aspose.cells.charts/chartpointcollection/remove_at/#int) | Удаляет точку в индексе серии..|
+| [`clear(self)`](/cells/python-net/ru/aspose.cells.charts/chartpointcollection/clear/#) | Удалить все настройки точек диаграммы.|
+| [`remove_at(self, index)`](/cells/python-net/ru/aspose.cells.charts/chartpointcollection/remove_at/#int) | Удаляет точку в индексе серии.|
 
 
 
@@ -84,4 +83,3 @@ workbook.save("book1.xls")
 ###  Смотрите также
 * модуль [`aspose.cells.charts`](..)
 * класс [`ChartPoint`](/cells/python-net/ru/aspose.cells.charts/chartpoint)
-* класс [`ChartPointCollection`](/cells/python-net/ru/aspose.cells.charts/chartpointcollection)

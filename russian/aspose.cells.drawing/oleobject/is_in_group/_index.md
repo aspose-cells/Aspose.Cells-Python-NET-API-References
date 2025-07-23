@@ -1,9 +1,9 @@
 ---
 title: is_in_group недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 710
+weight: 720
 url: /ru/aspose.cells.drawing/oleobject/is_in_group/
 is_root: false
 ---

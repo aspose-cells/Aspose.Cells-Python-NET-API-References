@@ -1,6 +1,6 @@
 ---
 title: active_index proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -21,5 +21,5 @@ def active_index(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ScenarioCollection](/cells/python-net/it/aspose.cells/scenariocollection)
+* modulo [`aspose.cells`](../../)
+* classe [`ScenarioCollection`](/cells/python-net/it/aspose.cells/scenariocollection)

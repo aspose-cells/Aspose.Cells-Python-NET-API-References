@@ -1,9 +1,9 @@
 ---
 title: current_person proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 90
+weight: 100
 url: /it/aspose.cells/threadedcommentauthorcollection/current_person/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def current_person(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ThreadedCommentAuthor](/cells/python-net/it/aspose.cells/threadedcommentauthor)
-* classe [ThreadedCommentAuthorCollection](/cells/python-net/it/aspose.cells/threadedcommentauthorcollection)
+* modulo [`aspose.cells`](../../)
+* classe [`ThreadedCommentAuthor`](/cells/python-net/it/aspose.cells/threadedcommentauthor)
+* classe [`ThreadedCommentAuthorCollection`](/cells/python-net/it/aspose.cells/threadedcommentauthorcollection)

@@ -1,16 +1,16 @@
 ---
 title: is_mobile_compatible недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 530
+weight: 610
 url: /ru/aspose.cells/htmlsaveoptions/is_mobile_compatible/
 is_root: false
 ---
 ##  is_mobile_compatible недвижимость
 
- Указывает, совместим ли выход HTML с мобильными устройствами.
-Значение по умолчанию неверно.
+ Указывает, совместим ли вывод HTML с мобильными устройствами.
+Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property

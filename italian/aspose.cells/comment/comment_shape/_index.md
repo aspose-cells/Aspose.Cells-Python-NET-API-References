@@ -1,6 +1,6 @@
 ---
 title: comment_shape proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 100
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  comment_shape proprietà
 
-Ottieni un oggetto Shape che rappresenta la forma allegata al commento specificato.
+Ottieni un oggetto Shape che rappresenta la forma associata al commento specificato.
 
 ###  Esempio
 

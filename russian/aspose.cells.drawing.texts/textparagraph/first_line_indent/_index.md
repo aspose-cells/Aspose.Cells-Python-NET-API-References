@@ -1,6 +1,6 @@
 ---
 title: first_line_indent недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  first_line_indent недвижимость
 
-Указывает размер отступа, который будет применяться к первой строке текста в абзаце.
+Задает размер отступа, который будет применен к первой строке текста в абзаце.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def first_line_indent(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [TextParagraph](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraph)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`TextParagraph`](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraph)

@@ -1,15 +1,13 @@
 ---
 title: save_format proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 270
+weight: 310
 url: /it/aspose.cells/pptxsaveoptions/save_format/
 is_root: false
 ---
 ##  save_format proprietà
-
-Ottiene il formato del file di salvataggio.
 ###  Definizione:
 ```python
 @property

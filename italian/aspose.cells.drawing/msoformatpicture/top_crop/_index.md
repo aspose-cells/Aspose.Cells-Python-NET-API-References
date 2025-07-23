@@ -1,6 +1,6 @@
 ---
 title: top_crop proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 140
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  top_crop proprietà
 
-Rappresenta la posizione della parte superiore del rettangolo di ritaglio espressa, espressa come rapporto tra l'altezza dell'immagine.
+Rappresenta la posizione della parte superiore del rettangolo di ritaglio, espressa come rapporto dell'altezza dell'immagine.
 ###  Definizione:
 ```python
 @property

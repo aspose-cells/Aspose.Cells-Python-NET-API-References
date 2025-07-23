@@ -1,6 +1,6 @@
 ---
 title: vertical_axis_min_value proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 300
@@ -21,5 +21,5 @@ def vertical_axis_min_value(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [SparklineGroup](/cells/python-net/it/aspose.cells.charts/sparklinegroup)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`SparklineGroup`](/cells/python-net/it/aspose.cells.charts/sparklinegroup)

@@ -1,14 +1,14 @@
 ---
 title: Enumerazione CountryCode
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1960
+weight: 1870
 url: /it/aspose.cells/countrycode/
 is_root: false
 ---
 ##  Enumerazione CountryCode
-Rappresenta gli identificatori del paese in Excel.
+Rappresenta gli identificatori di paese di Excel.
 
 
 
@@ -18,13 +18,13 @@ Il tipo CountryCode espone i seguenti membri:
 | Campo| Descrizione|
 | :- | :- |
 | DEFAULT |  |
-| USA | stati Uniti|
+| USA | Stati Uniti|
 | CANADA | Canada|
 | LATIN_AMERIC | America Latina, escluso il Brasile|
 | RUSSIA | Russia|
 | EGYPT | Egitto|
 | GREECE | Grecia|
-| NETHERLANDS | Olanda|
+| NETHERLANDS | Paesi Bassi|
 | BELGIUM | Belgio|
 | FRANCE | Francia|
 | SPAIN | Spagna|
@@ -34,7 +34,7 @@ Il tipo CountryCode espone i seguenti membri:
 | AUSTRIA | Austria|
 | UNITED_KINGDOM | Regno Unito|
 | DENMARK | Danimarca|
-| SWEDEN | Svezia|
+| SWEDEN |Svezia|
 | NORWAY | Norvegia|
 | POLAND | Polonia|
 | GERMANY | Germania|
@@ -42,7 +42,7 @@ Il tipo CountryCode espone i seguenti membri:
 | BRAZIL | Brasile|
 | AUSTRALIA | Australia|
 | NEW_ZEALAND | Nuova Zelanda|
-| THAILAND | Tailandia|
+| THAILAND | Thailandia|
 | JAPAN | Giappone|
 | SOUTH_KOREA | Corea del Sud|
 | VIET_NAM | Vietnam|
@@ -51,7 +51,7 @@ Il tipo CountryCode espone i seguenti membri:
 | INDIA | India|
 | ALGERIA | Algeria|
 | MOROCCO | Marocco|
-| LIBYA |Libia|
+| LIBYA | Libia|
 | PORTUGAL | Portogallo|
 | ICELAND | Islanda|
 | FINLAND | Finlandia|
@@ -66,7 +66,7 @@ Il tipo CountryCode espone i seguenti membri:
 | UNITED_ARAB_EMIRATES | Emirati Arabi Uniti|
 | ISRAEL | Israele|
 | QATAR | Qatar|
-| IRAN | Iran|
+| IRAN | l'Iran|
 
 
 

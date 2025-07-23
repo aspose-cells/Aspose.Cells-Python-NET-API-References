@@ -1,9 +1,9 @@
 ---
 title: is_array_formula недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 540
+weight: 560
 url: /ru/aspose.cells/cell/is_array_formula/
 is_root: false
 ---

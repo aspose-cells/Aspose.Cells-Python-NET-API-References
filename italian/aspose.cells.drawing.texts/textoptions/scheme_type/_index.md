@@ -1,6 +1,6 @@
 ---
 title: scheme_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 220
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  scheme_type proprietà
 
-Ottiene e imposta il tipo di schema del carattere.
+Ottiene e imposta il tipo di schema del font.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def scheme_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](../../)
-* classe [FontSchemeType](/cells/python-net/it/aspose.cells/fontschemetype)
-* classe [TextOptions](/cells/python-net/it/aspose.cells.drawing.texts/textoptions)
+* modulo [`aspose.cells.drawing.texts`](../../)
+* classe [`FontSchemeType`](/cells/python-net/it/aspose.cells/fontschemetype)
+* classe [`TextOptions`](/cells/python-net/it/aspose.cells.drawing.texts/textoptions)

@@ -1,15 +1,15 @@
 ---
 title: is_over_lay недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 240
+weight: 300
 url: /ru/aspose.cells.charts/legend/is_over_lay/
 is_root: false
 ---
 ##  is_over_lay недвижимость
 
-Получает или задает, разрешено ли другим элементам диаграммы перекрывать этот элемент диаграммы.
+Возвращает или задает, отображать ли легенду без перекрытия диаграммы.
 ###  Определение:
 ```python
 @property

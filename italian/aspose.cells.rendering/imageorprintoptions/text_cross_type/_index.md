@@ -1,15 +1,15 @@
 ---
 title: text_cross_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 330
+weight: 340
 url: /it/aspose.cells.rendering/imageorprintoptions/text_cross_type/
 is_root: false
 ---
 ##  text_cross_type proprietà
 
-Ottiene o imposta la visualizzazione del tipo di testo quando la larghezza del testo è maggiore della larghezza della cella.
+Ottiene o imposta il tipo di testo visualizzato quando la larghezza del testo è maggiore della larghezza della cella.
 ###  Definizione:
 ```python
 @property

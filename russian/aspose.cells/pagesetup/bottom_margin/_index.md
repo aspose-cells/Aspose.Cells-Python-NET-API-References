@@ -1,6 +1,6 @@
 ---
 title: bottom_margin недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 250
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom_margin недвижимость
 
-Представляет размер нижнего поля в сантиметрах.
+Обозначает размер нижнего поля в сантиметрах.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def bottom_margin(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PageSetup](/cells/python-net/ru/aspose.cells/pagesetup)
+* модуль [`aspose.cells`](../../)
+* класс [`PageSetup`](/cells/python-net/ru/aspose.cells/pagesetup)

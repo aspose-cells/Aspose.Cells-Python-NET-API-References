@@ -1,19 +1,19 @@
 ---
 title: GroupShape индексатор
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 270
+weight: 280
 url: /ru/aspose.cells.drawing/groupshape/__getitem__/
 is_root: false
 ---
 ##  GroupShape индексатор
 
-Получает дочернюю фигуру по индексу.
+Получает дочернюю форму по индексу.
 ###  Индексатор
 | Имя| Описание|
 | :- | :- |
-| index | индекс формы дочернего элемента.|
+| index | индекс формы ребенка.|
 
 
 

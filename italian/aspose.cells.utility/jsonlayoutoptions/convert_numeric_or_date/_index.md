@@ -1,6 +1,6 @@
 ---
 title: convert_numeric_or_date proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_numeric_or_date proprietà
 
-Ottiene o imposta un valore che indica se la stringa in json viene convertita in numerico o data.
+Indica se convertire la stringa in JSON in un valore numerico o in una data.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def convert_numeric_or_date(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.utility](../../)
-* classe [JsonLayoutOptions](/cells/python-net/it/aspose.cells.utility/jsonlayoutoptions)
+* modulo [`aspose.cells.utility`](../../)
+* classe [`JsonLayoutOptions`](/cells/python-net/it/aspose.cells.utility/jsonlayoutoptions)

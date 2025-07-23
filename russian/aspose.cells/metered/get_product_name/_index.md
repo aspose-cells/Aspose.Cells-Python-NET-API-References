@@ -1,22 +1,23 @@
 ---
 title: get_product_name метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
 url: /ru/aspose.cells/metered/get_product_name/
 is_root: false
 ---
-##  get_product_name {#}
+##  get_product_name(self) {#}
 Получает название продукта
 
 
 ###  Возврат
 
-наименование товара
+название продукта
 
 
 ```python
+
 def get_product_name(self):
     ...
 ```

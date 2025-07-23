@@ -1,6 +1,6 @@
 ---
 title: OpenDocumentFormatVersionType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
@@ -8,7 +8,7 @@ url: /ru/aspose.cells.ods/opendocumentformatversiontype/
 is_root: false
 ---
 ##  OpenDocumentFormatVersionType перечисление
-Тип версии формата открытого документа.
+Тип версии Open Document Format.
 
 
 
@@ -17,10 +17,10 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| NONE | Никакого строгого.|
-| ODF11 | ОДФ версии 1.1|
-| ODF12 | ОДФ версии 1.2|
-| ODF13 |ОДФ версии 1.3|
+| NONE | Строгих требований нет.|
+| ODF11 | ODF-версия 1.1|
+| ODF12 | ODF-версия 1.2|
+| ODF13 | ODF-версия 1.3|
 
 
 

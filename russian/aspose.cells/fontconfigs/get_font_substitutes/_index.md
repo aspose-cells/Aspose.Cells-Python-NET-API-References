@@ -1,33 +1,35 @@
 ---
 title: get_font_substitutes метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 30
+weight: 40
 url: /ru/aspose.cells/fontconfigs/get_font_substitutes/
 is_root: false
 ---
-##  get_font_substitutes(original_font_name) {#str}
+##  get_font_substitutes(, оригинальное_имя_шрифта){#str}
 Возвращает массив, содержащий имена заменителей шрифтов, которые будут использоваться, если исходный шрифт не представлен.
 
 
-###  Возвращает
+###  Возврат
 
 Массив, содержащий имена заменителей шрифтов, которые будут использоваться, если исходный шрифт не представлен.
 
 
 ```python
-def get_font_substitutes(self, original_font_name):
+
+@staticmethod
+def get_font_substitutes(original_font_name):
     ...
 ```
 
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| original_font_name | str | originalFontName|
+| original_font_name | str | оригинальноеНазваниеШрифта|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [FontConfigs](/cells/python-net/ru/aspose.cells/fontconfigs)
+* модуль [`aspose.cells`](../../)
+* класс [`FontConfigs`](/cells/python-net/ru/aspose.cells/fontconfigs)

@@ -1,28 +1,28 @@
 ---
-title: LineJoinType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione LineJoinType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 940
+weight: 930
 url: /it/aspose.cells.drawing/linejointype/
 is_root: false
 ---
-##  LineJoinType enumerazione
-Rappresenta gli stili di giunzione di una linea.
+##  Enumerazione LineJoinType
+Rappresenta gli stili di unione di una linea.
 
 
 
-Il tipo LineJoinType espone i membri seguenti:
+Il tipo LineJoinType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
-| ROUND | Giunto tondo|
+| ROUND | Giunto rotondo|
 | BEVEL | Giunto smussato|
-| MITER | Giunto obliquo|
-| NONE | Nessuno giunto|
+| MITER | Giunto a mitra|
+| NONE | Nessuna articolazione|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](..)
+* modulo [`aspose.cells.drawing`](..)

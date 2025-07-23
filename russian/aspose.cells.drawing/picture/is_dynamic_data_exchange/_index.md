@@ -1,15 +1,15 @@
 ---
 title: is_dynamic_data_exchange недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 620
+weight: 640
 url: /ru/aspose.cells.drawing/picture/is_dynamic_data_exchange/
 is_root: false
 ---
 ##  is_dynamic_data_exchange недвижимость
 
-Получает или задает, будет ли динамический обмен данными
+Возвращает или задает, используется ли динамический обмен данными
 ###  Определение:
 ```python
 @property

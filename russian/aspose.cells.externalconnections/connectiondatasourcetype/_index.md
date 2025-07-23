@@ -1,9 +1,9 @@
 ---
 title: ConnectionDataSourceType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 80
+weight: 70
 url: /ru/aspose.cells.externalconnections/connectiondatasourcetype/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип ConnectionDataSourceType предоставляет следующие члены:
+Тип ConnectionDataSourceType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -23,16 +23,16 @@ is_root: false
 | WEB_QUERY | Веб-запрос|
 | OLEDB_BASED_SOURCE | Источник на основе OLE DB|
 | TEXT_BASED_SOURCE | Текстовый источник|
-| ADO_RECORD_SET | Набор записей ADO|
+| ADO_RECORD_SET | Набор рекордов ADO|
 | DSP | DSP |
-| OLEDB_DATA_MODEL | Источник данных OLE DB, созданный с помощью модели данных электронных таблиц.|
-| DATA_FEED_DATA_MODEL |Источник данных потока данных, созданный с помощью модели данных электронной таблицы.|
+| OLEDB_DATA_MODEL | Источник данных OLE DB, созданный на основе модели данных электронных таблиц.|
+| DATA_FEED_DATA_MODEL |Источник данных потока данных, созданный моделью данных электронных таблиц.|
 | WORKSHEET_DATA_MODEL | Источник данных рабочего листа, созданный моделью данных электронных таблиц.|
 | TABLE | Источник данных рабочего листа, созданный моделью данных электронных таблиц.|
-| TEXT_DATA_MODEL | Текстовый источник данных, созданный моделью данных электронных таблиц.|
-| UNKNOWN | Текстовый источник данных, созданный моделью данных электронных таблиц.|
+| TEXT_DATA_MODEL | Источник текстовых данных, созданный моделью данных электронных таблиц.|
+| UNKNOWN | Источник текстовых данных, созданный моделью данных электронных таблиц.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.externalconnections](..)
+* модуль [`aspose.cells.externalconnections`](..)

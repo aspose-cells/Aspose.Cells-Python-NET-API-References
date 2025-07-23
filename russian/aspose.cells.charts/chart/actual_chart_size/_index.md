@@ -1,9 +1,9 @@
 ---
 title: actual_chart_size недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 150
+weight: 170
 url: /ru/aspose.cells.charts/chart/actual_chart_size/
 is_root: false
 ---
@@ -13,10 +13,10 @@ is_root: false
 
 ###  Примечания
 
- ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
- пожалуйста, используйте метод Chart.GetActualSize().
- Это свойство будет удалено через 12 месяцев, начиная с июля 2022 года.
-Aspose приносит извинения за возможные неудобства.
+ ПРИМЕЧАНИЕ: Этот элемент устарел. Вместо этого,
+ используйте метод Chart.GetActualSize().
+ Этот объект будет снесен через 12 месяцев, с июля 2022 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 ###  Определение:
 ```python
 @property
@@ -25,5 +25,5 @@ def actual_chart_size(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Chart](/cells/python-net/ru/aspose.cells.charts/chart)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Chart`](/cells/python-net/ru/aspose.cells.charts/chart)

@@ -1,18 +1,18 @@
 ---
-title: ShapeAnchorType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione ShapeAnchorType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1140
+weight: 1130
 url: /it/aspose.cells.drawing/shapeanchortype/
 is_root: false
 ---
-##  ShapeAnchorType enumerazione
-Rappresenta il tipo di ancoraggio.
+##  Enumerazione ShapeAnchorType
+Rappresenta il tipo di ancora.
 
 
 
-Il tipo ShapeAnchorType espone i membri seguenti:
+Il tipo ShapeAnchorType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -23,4 +23,4 @@ Il tipo ShapeAnchorType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](..)
+* modulo [`aspose.cells.drawing`](..)

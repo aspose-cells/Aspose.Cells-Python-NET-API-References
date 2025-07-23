@@ -1,15 +1,15 @@
 ---
 title: text недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 300
+weight: 360
 url: /ru/aspose.cells.charts/charttextframe/text/
 is_root: false
 ---
 ##  text недвижимость
 
-Получает или задает text заголовка кадра.
+Возвращает или задает text заголовка кадра.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [ChartTextFrame](/cells/python-net/ru/aspose.cells.charts/charttextframe)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`ChartTextFrame`](/cells/python-net/ru/aspose.cells.charts/charttextframe)

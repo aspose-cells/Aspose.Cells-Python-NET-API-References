@@ -1,15 +1,15 @@
 ---
 title: custom_list_sort proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 380
+weight: 480
 url: /it/aspose.cells.pivot/pivottable/custom_list_sort/
 is_root: false
 ---
 ##  custom_list_sort proprietà
 
-Indica se considerare l'elenco personalizzato integrato durante l'ordinamento dei dati
+Indica se considerare l'elenco personalizzato incorporato quando si ordinano i dati
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def custom_list_sort(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [PivotTable](/cells/python-net/it/aspose.cells.pivot/pivottable)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`PivotTable`](/cells/python-net/it/aspose.cells.pivot/pivottable)

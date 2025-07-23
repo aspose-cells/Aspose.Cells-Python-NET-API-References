@@ -1,9 +1,9 @@
 ---
 title: Top10 класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1550
+weight: 1460
 url: /ru/aspose.cells/top10/
 is_root: false
 ---
@@ -19,15 +19,15 @@ is_root: false
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [__init__](/cells/python-net/ru/aspose.cells/top10/__init__/#) | Создает новый экземпляр Top10.|
+| [`__init__(self)`](/cells/python-net/ru/aspose.cells/top10/__init__/#) | Создает новый экземпляр Top10|
 
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [is_percent](/cells/python-net/ru/aspose.cells/top10/is_percent) | Получите или установите, является ли правило «верхнее/нижнее n» правилом «верхнее/нижнее n процентов».<br/> Значение по умолчанию — ложь.|
-| [is_bottom](/cells/python-net/ru/aspose.cells/top10/is_bottom) | Получите или установите, является ли правило «верхнее/нижнее n» правилом «нижнее n».<br/> Значение по умолчанию — ложь.|
-| [rank](/cells/python-net/ru/aspose.cells/top10/rank) | Получите или установите значение «n» в правиле условного форматирования «верхнее/нижнее n».<br/>Если IsPercent имеет значение true, значение должно находиться в диапазоне от 0 до 100.<br/>В противном случае оно должно находиться в диапазоне от 0 до 1000.<br/> Значение по умолчанию — 10.|
+| [is_percent](/cells/python-net/ru/aspose.cells/top10/is_percent) | Получить или задать, является ли правило «верхние/нижние n» правилом «верхние/нижние n процентов».<br/> Значение по умолчанию — false.|
+| [is_bottom](/cells/python-net/ru/aspose.cells/top10/is_bottom) | Получить или задать, является ли правило «верхний/нижний n» правилом «нижний n».<br/> Значение по умолчанию — false.|
+| [rank](/cells/python-net/ru/aspose.cells/top10/rank) | Получить или задать значение «n» в правиле условного форматирования «верхнее/нижнее n».<br/>Если IsPercent имеет значение true, значение должно находиться в диапазоне от 0 до 100.<br/>В противном случае оно должно быть в диапазоне от 0 до 1000.<br/> Значение по умолчанию — 10.|
 
 
 

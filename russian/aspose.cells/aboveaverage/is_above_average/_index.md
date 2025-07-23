@@ -1,6 +1,6 @@
 ---
 title: is_above_average недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  is_above_average недвижимость
 
- Получите или установите флаг, указывающий, является ли правило правилом "выше среднего".
-true» означает «выше среднего».
-Значение по умолчанию — истина.
+ Получить или установить флаг, указывающий, является ли правило правилом «выше среднего».
+«истина» означает «выше среднего».
+Значение по умолчанию — true.
 ###  Определение:
 ```python
 @property
@@ -23,5 +23,5 @@ def is_above_average(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [AboveAverage](/cells/python-net/ru/aspose.cells/aboveaverage)
+* модуль [`aspose.cells`](../../)
+* класс [`AboveAverage`](/cells/python-net/ru/aspose.cells/aboveaverage)

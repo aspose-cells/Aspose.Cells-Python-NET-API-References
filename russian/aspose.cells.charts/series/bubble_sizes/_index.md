@@ -1,6 +1,6 @@
 ---
 title: bubble_sizes недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bubble_sizes недвижимость
 
-Получает или задает значения размеров пузырьков серии диаграмм.
+Возвращает или задает значения размеров пузырьков в серии диаграммы.
 ###  Определение:
 ```python
 @property

@@ -1,6 +1,6 @@
 ---
 title: group_name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 100
@@ -21,5 +21,5 @@ def group_name(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [RadioButtonActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`RadioButtonActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

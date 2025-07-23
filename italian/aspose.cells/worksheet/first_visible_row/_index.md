@@ -1,15 +1,15 @@
 ---
 title: first_visible_row proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 510
+weight: 530
 url: /it/aspose.cells/worksheet/first_visible_row/
 is_root: false
 ---
 ##  first_visible_row proprietà
 
-Rappresenta il primo indice di riga visibile.
+Rappresenta l'indice della prima riga visibile.
 ###  Definizione:
 ```python
 @property

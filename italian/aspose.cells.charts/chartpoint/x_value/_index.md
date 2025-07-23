@@ -1,9 +1,9 @@
 ---
 title: x_value proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 410
+weight: 420
 url: /it/aspose.cells.charts/chartpoint/x_value/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def x_value(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [ChartPoint](/cells/python-net/it/aspose.cells.charts/chartpoint)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`ChartPoint`](/cells/python-net/it/aspose.cells.charts/chartpoint)

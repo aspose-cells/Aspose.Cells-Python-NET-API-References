@@ -1,6 +1,6 @@
 ---
 title: cell_name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -18,5 +18,5 @@ def cell_name(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.revisions](../../)
-* classe [RevisionCellChange](/cells/python-net/it/aspose.cells.revisions/revisioncellchange)
+* modulo [`aspose.cells.revisions`](../../)
+* classe [`RevisionCellChange`](/cells/python-net/it/aspose.cells.revisions/revisioncellchange)

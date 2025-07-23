@@ -1,6 +1,6 @@
 ---
 title: metadata_table недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -19,6 +19,6 @@ def metadata_table(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.revisions](../../)
-* класс [RevisionHeader](/cells/python-net/ru/aspose.cells.revisions/revisionheader)
-* класс [RevisionLog](/cells/python-net/ru/aspose.cells.revisions/revisionlog)
+* модуль [`aspose.cells.revisions`](../../)
+* класс [`RevisionHeader`](/cells/python-net/ru/aspose.cells.revisions/revisionheader)
+* класс [`RevisionLog`](/cells/python-net/ru/aspose.cells.revisions/revisionlog)

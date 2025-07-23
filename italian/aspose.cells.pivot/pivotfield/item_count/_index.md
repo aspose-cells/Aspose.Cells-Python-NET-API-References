@@ -1,15 +1,15 @@
 ---
 title: item_count proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 460
+weight: 550
 url: /it/aspose.cells.pivot/pivotfield/item_count/
 is_root: false
 ---
 ##  item_count proprietà
 
-Ottiene il conteggio degli elementi di base di questo campo pivot.
+Ottiene il conteggio degli elementi base in questo campo pivot.
 ###  Definizione:
 ```python
 @property

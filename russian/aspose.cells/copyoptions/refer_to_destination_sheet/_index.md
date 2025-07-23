@@ -1,6 +1,6 @@
 ---
 title: refer_to_destination_sheet недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  refer_to_destination_sheet недвижимость
 
-При копировании диапазона в тот же файл, а диаграмма ссылается на исходный лист,
-False означает, что источник данных скопированного графика не будет изменен.
-True означает, что источник данных скопированной диаграммы относится к целевому листу.
+При копировании диапазона в тот же файл и при наличии ссылки на исходный лист в диаграмме,
+Значение False означает, что источник данных скопированной диаграммы не будет изменен.
+True означает, что источник данных скопированной диаграммы ссылается на целевой лист.
 
 ###  Примечания
 
@@ -27,5 +27,5 @@ def refer_to_destination_sheet(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CopyOptions](/cells/python-net/ru/aspose.cells/copyoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`CopyOptions`](/cells/python-net/ru/aspose.cells/copyoptions)

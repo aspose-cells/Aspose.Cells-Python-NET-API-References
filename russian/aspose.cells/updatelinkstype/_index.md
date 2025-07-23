@@ -1,14 +1,14 @@
 ---
 title: UpdateLinksType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2710
+weight: 2680
 url: /ru/aspose.cells/updatelinkstype/
 is_root: false
 ---
 ##  UpdateLinksType перечисление
-Представляет способ обновления ссылок на другие книги при открытии книги.
+Показывает, как обновлять ссылки на другие рабочие книги при открытии рабочей книги.
 
 
 
@@ -18,8 +18,8 @@ is_root: false
 | Поле| Описание|
 | :- | :- |
 | USER_SET | Предложить пользователю обновиться.|
-| NEVER | Не обновляйте и не запрашивайте пользователя.|
-| ALWAYS | Всегда обновляйте.|
+| NEVER | Не обновлять и не запрашивать информацию у пользователя.|
+| ALWAYS | Всегда обновляйтесь.|
 
 
 

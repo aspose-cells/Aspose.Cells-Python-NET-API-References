@@ -1,9 +1,9 @@
 ---
 title: export_all_sheets proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 80
+weight: 100
 url: /it/aspose.cells/txtsaveoptions/export_all_sheets/
 is_root: false
 ---
@@ -14,7 +14,7 @@ Se è falso, esporta solo il foglio attivo, proprio come MS Excel.
 
 ###  Osservazioni
 
-Il valore predefinito è falso.
+Il valore deflut è falso.
 ###  Definizione:
 ```python
 @property
@@ -26,5 +26,5 @@ def export_all_sheets(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [TxtSaveOptions](/cells/python-net/it/aspose.cells/txtsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`TxtSaveOptions`](/cells/python-net/it/aspose.cells/txtsaveoptions)

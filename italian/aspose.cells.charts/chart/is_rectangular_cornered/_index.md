@@ -1,6 +1,6 @@
 ---
 title: is_rectangular_cornered proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 350
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_rectangular_cornered proprietà
 
-Ottiene o imposta un valore che indica se l'area del grafico ha gli angoli rettangolari.
-L'impostazione predefinita è vera.
+Ottiene o imposta un valore che indica se l'area del grafico ha angoli rettangolari.
+L'impostazione predefinita è vero.
 ###  Definizione:
 ```python
 @property

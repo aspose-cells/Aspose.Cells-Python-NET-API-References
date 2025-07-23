@@ -1,9 +1,9 @@
 ---
 title: chart_data_table недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 200
+weight: 220
 url: /ru/aspose.cells.charts/chart/chart_data_table/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def chart_data_table(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Chart](/cells/python-net/ru/aspose.cells.charts/chart)
-* класс [ChartDataTable](/cells/python-net/ru/aspose.cells.charts/chartdatatable)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Chart`](/cells/python-net/ru/aspose.cells.charts/chart)
+* класс [`ChartDataTable`](/cells/python-net/ru/aspose.cells.charts/chartdatatable)

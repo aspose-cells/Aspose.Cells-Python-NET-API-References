@@ -1,15 +1,15 @@
 ---
 title: mso_drawing_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 850
+weight: 860
 url: /it/aspose.cells.drawing/spinner/mso_drawing_type/
 is_root: false
 ---
 ##  mso_drawing_type proprietà
 
-Ottiene il tipo di disegno MSO.
+Ottiene il tipo di disegno.
 
 ###  Esempio
 

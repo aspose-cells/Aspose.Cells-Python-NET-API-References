@@ -1,15 +1,15 @@
 ---
 title: precision_strategy недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 90
+weight: 70
 url: /ru/aspose.cells/calculationoptions/precision_strategy/
 is_root: false
 ---
 ##  precision_strategy недвижимость
 
-Указывает стратегию обработки точности вычислений.
+Задает стратегию обработки точности расчетов.
 ###  Определение:
 ```python
 @property

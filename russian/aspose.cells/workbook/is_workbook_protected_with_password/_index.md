@@ -1,9 +1,9 @@
 ---
 title: is_workbook_protected_with_password недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 630
+weight: 660
 url: /ru/aspose.cells/workbook/is_workbook_protected_with_password/
 is_root: false
 ---

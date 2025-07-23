@@ -1,16 +1,16 @@
 ---
 title: width_scale proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1210
+weight: 1220
 url: /it/aspose.cells.drawing/label/width_scale/
 is_root: false
 ---
 ##  width_scale proprietà
 
 Ottiene e imposta la scala della larghezza, in unità percentuali della larghezza dell'immagine originale.
-Se la forma non è un'immagine, la proprietà LarghezzaScale restituisce solo 100;
+Se la forma non è un'immagine, la proprietà WidthScale restituisce solo 100;
 
 ###  Esempio
 

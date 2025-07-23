@@ -1,9 +1,9 @@
 ---
 title: calculate_formula недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ru/aspose.cells/htmlsaveoptions/calculate_formula/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Значение по умолчанию неверно.
+Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property

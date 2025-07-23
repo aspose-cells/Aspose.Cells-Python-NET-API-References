@@ -1,6 +1,6 @@
 ---
 title: SmartTagProperty класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип SmartTagProperty предоставляет следующие члены:
+Тип SmartTagProperty предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
@@ -23,4 +23,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.markup](..)
+* модуль [`aspose.cells.markup`](..)

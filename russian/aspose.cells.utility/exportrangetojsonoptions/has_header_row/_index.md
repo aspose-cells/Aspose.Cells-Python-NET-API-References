@@ -1,6 +1,6 @@
 ---
 title: has_header_row недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -21,5 +21,5 @@ def has_header_row(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.utility](../../)
-* класс [ExportRangeToJsonOptions](/cells/python-net/ru/aspose.cells.utility/exportrangetojsonoptions)
+* модуль [`aspose.cells.utility`](../../)
+* класс [`ExportRangeToJsonOptions`](/cells/python-net/ru/aspose.cells.utility/exportrangetojsonoptions)

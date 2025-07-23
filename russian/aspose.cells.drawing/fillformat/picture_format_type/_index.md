@@ -1,6 +1,6 @@
 ---
 title: picture_format_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 170
@@ -21,6 +21,6 @@ def picture_format_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [FillFormat](/cells/python-net/ru/aspose.cells.drawing/fillformat)
-* класс [FillPictureType](/cells/python-net/ru/aspose.cells.drawing/fillpicturetype)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`FillFormat`](/cells/python-net/ru/aspose.cells.drawing/fillformat)
+* класс [`FillPictureType`](/cells/python-net/ru/aspose.cells.drawing/fillpicturetype)

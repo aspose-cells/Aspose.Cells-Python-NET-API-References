@@ -1,6 +1,6 @@
 ---
 title: line_by_line недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 100
@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  line_by_line недвижимость
 
-Указывает, обрабатывается ли интеллектуальный маркер построчно.
+Указывает, обрабатывается ли смарт-маркер построчно.
 
 ###  Примечания
 
-Значение по умолчанию верно.
-Если значение равно False, файл шаблона должен содержать диапазон с именем «_CellsSmartMarkers».
+Значение по умолчанию — true.
+Если False, файл шаблона должен содержать диапазон с именем «_CellsSmartMarkers».
 ###  Определение:
 ```python
 @property

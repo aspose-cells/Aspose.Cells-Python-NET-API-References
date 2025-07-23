@@ -1,6 +1,6 @@
 ---
 title: cap_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cap_type недвижимость
 
-Определяет конечные заглавные буквы.
+Указывает конечные заглавные буквы.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def cap_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Line](/cells/python-net/ru/aspose.cells.drawing/line)
-* класс [LineCapType](/cells/python-net/ru/aspose.cells.drawing/linecaptype)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Line`](/cells/python-net/ru/aspose.cells.drawing/line)
+* класс [`LineCapType`](/cells/python-net/ru/aspose.cells.drawing/linecaptype)

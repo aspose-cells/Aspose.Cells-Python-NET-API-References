@@ -1,6 +1,6 @@
 ---
 title: data_extract_load proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 140
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  data_extract_load proprietà
 
-indica se l'applicazione ha aperto l'ultima volta la cartella di lavoro per il ripristino dei dati.
+indica se l'applicazione ha aperto per ultima la cartella di lavoro per il recupero dei dati.
 ###  Definizione:
 ```python
 @property

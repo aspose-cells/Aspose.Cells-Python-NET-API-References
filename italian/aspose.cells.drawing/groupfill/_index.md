@@ -1,26 +1,24 @@
 ---
-title: classe GroupFill
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: GroupFill classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 260
+weight: 240
 url: /it/aspose.cells.drawing/groupfill/
 is_root: false
 ---
-##  classe GroupFill
-Rappresenta questo formato di riempimento dovrebbe ereditare le proprietà di riempimento del gruppo.
+##  GroupFill classe
+Rappresenta questo formato di riempimento che dovrebbe ereditare le proprietà di riempimento del gruppo.
 
 
 
-**Eredità:** [GroupFill](/cells/python-net/aspose.cells.drawing/groupfill) → 
-[Fill](/cells/python-net/it/aspose.cells.drawing/fill)
+**Eredità:** [`GroupFill`](/cells/python-net/it/aspose.cells.drawing/groupfill)
 
 
 
-Il tipo GroupFill espone i membri seguenti:
+Il tipo GroupFill espone i seguenti membri:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](..)
-* classe [Fill](/cells/python-net/it/aspose.cells.drawing/fill)
-* classe [GroupFill](/cells/python-net/it/aspose.cells.drawing/groupfill)
+* modulo [`aspose.cells.drawing`](..)
+* classe [`GroupFill`](/cells/python-net/it/aspose.cells.drawing/groupfill)

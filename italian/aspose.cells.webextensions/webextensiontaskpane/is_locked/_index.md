@@ -1,6 +1,6 @@
 ---
 title: is_locked proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_locked proprietà
 
-Indica se il riquadro attività è bloccato sul documento nell'interfaccia utente e non può essere chiuso dall'utente.
+Indica se il riquadro delle attività è bloccato sul documento nell'interfaccia utente e non può essere chiuso dall'utente.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_locked(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.webextensions](../../)
-* classe [WebExtensionTaskPane](/cells/python-net/it/aspose.cells.webextensions/webextensiontaskpane)
+* modulo [`aspose.cells.webextensions`](../../)
+* classe [`WebExtensionTaskPane`](/cells/python-net/it/aspose.cells.webextensions/webextensiontaskpane)

@@ -1,6 +1,6 @@
 ---
 title: resource_loading_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -21,6 +21,6 @@ def resource_loading_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ResourceLoadingType](/cells/python-net/it/aspose.cells/resourceloadingtype)
-* classe [StreamProviderOptions](/cells/python-net/it/aspose.cells/streamprovideroptions)
+* modulo [`aspose.cells`](../../)
+* classe [`ResourceLoadingType`](/cells/python-net/it/aspose.cells/resourceloadingtype)
+* classe [`StreamProviderOptions`](/cells/python-net/it/aspose.cells/streamprovideroptions)

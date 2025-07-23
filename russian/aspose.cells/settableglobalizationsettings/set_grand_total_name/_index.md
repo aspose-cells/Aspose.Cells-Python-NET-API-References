@@ -1,18 +1,19 @@
 ---
 title: set_grand_total_name метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 320
 url: /ru/aspose.cells/settableglobalizationsettings/set_grand_total_name/
 is_root: false
 ---
-##  set_grand_total_name {#aspose.cells.ConsolidationFunction-str}
-Устанавливает общее имя конкретной функции.
+##  set_grand_total_name(self, function_type, name) {#aspose.cells.ConsolidationFunction-str}
+Задает общее итоговое имя определенной функции.
 
 
 
 ```python
+
 def set_grand_total_name(self, function_type, name):
     ...
 ```

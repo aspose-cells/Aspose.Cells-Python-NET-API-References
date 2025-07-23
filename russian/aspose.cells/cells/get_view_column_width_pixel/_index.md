@@ -1,14 +1,14 @@
 ---
 title: get_view_column_width_pixel метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 500
+weight: 540
 url: /ru/aspose.cells/cells/get_view_column_width_pixel/
 is_root: false
 ---
-##  get_view_column_width_pixel {#int}
-Получите ширину в другом типе представления.
+##  get_view_column_width_pixel(self, column) {#int}
+Получите ширину в разных типах представления.
 
 
 ###  Возврат
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_view_column_width_pixel(self, column):
     ...
 ```

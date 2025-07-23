@@ -1,15 +1,15 @@
 ---
 title: is_selected proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 620
+weight: 650
 url: /it/aspose.cells/worksheet/is_selected/
 is_root: false
 ---
 ##  is_selected proprietà
 
-Indica se questo foglio di lavoro è selezionato quando la cartella di lavoro viene aperta.
+Indica se questo foglio di lavoro è selezionato quando si apre la cartella di lavoro.
 ###  Definizione:
 ```python
 @property

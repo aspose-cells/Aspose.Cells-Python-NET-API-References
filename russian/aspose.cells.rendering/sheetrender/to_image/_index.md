@@ -1,18 +1,19 @@
 ---
 title: to_image метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
 url: /ru/aspose.cells.rendering/sheetrender/to_image/
 is_root: false
 ---
-##  to_image {#int-str}
-Преобразовать определенную страницу в файл.
+##  to_image(self, page_index, file_name) {#int-str}
+Сохранение определенной страницы в файл.
 
 
 
 ```python
+
 def to_image(self, page_index, file_name):
     ...
 ```
@@ -20,12 +21,12 @@ def to_image(self, page_index, file_name):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| page_index | int | укажите, какую страницу нужно конвертировать|
+| page_index | int | указать, какая страница должна быть преобразована|
 | file_name | str | имя файла выходного изображения|
 
 ###  Пример
 
-Следующий код выводит первую страницу первого листа в изображение PNG.
+Следующий код выводит первую страницу первого листа в виде изображения png.
 
 ```python
 from aspose.cells import Workbook
@@ -45,12 +46,13 @@ sr.to_image(0, "output.png")
 ```
 
 
-##  to_image {#int-io.RawIOBase}
-Рендеринг определенной страницы в поток.
+##  to_image(self, page_index, stream) {#int-io.RawIOBase}
+Отобразить определенную страницу в потоке.
 
 
 
 ```python
+
 def to_image(self, page_index, stream):
     ...
 ```
@@ -58,7 +60,7 @@ def to_image(self, page_index, stream):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| page_index | int | укажите, какую страницу нужно конвертировать|
+| page_index | int | указать, какая страница должна быть преобразована|
 | stream | io.RawIOBase | поток выходного изображения|
 
 

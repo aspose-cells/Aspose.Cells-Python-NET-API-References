@@ -1,29 +1,30 @@
 ---
-title: classe Timeline
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Timeline classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 10
 url: /it/aspose.cells.timelines/timeline/
 is_root: false
 ---
-##  classe Timeline
-Descrizione sommaria di Timeline Visualizza
+##  Timeline classe
+Descrizione riassuntiva di Timeline Visualizza
 A causa di MS Excel, Excel 2003 non supporta Timeline
 
 
 
-Il tipo Timeline espone i membri seguenti:
+Il tipo Timeline espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [caption](/cells/python-net/it/aspose.cells.timelines/timeline/caption) | Restituisce o imposta la didascalia della linea temporale specificata.|
-| [name](/cells/python-net/it/aspose.cells.timelines/timeline/name) |Restituisce o imposta il nome della linea temporale specificata|
-| [left_pixel](/cells/python-net/it/aspose.cells.timelines/timeline/left_pixel) | Restituisce o imposta l'offset orizzontale della forma della sequenza temporale dalla colonna di sinistra, in pixel.|
-| [top_pixel](/cells/python-net/it/aspose.cells.timelines/timeline/top_pixel) | Restituisce o imposta l'offset verticale della forma della sequenza temporale dalla riga superiore, in pixel.|
+| [caption](/cells/python-net/it/aspose.cells.timelines/timeline/caption) | Restituisce o imposta la didascalia della sequenza temporale specificata.|
+| [shape](/cells/python-net/it/aspose.cells.timelines/timeline/shape) | Restituisce l'oggetto [`TimelineShape`](/cells/python-net/it/aspose.cells.drawing/timelineshape) associato a questa linea temporale. Di sola lettura.|
+| [name](/cells/python-net/it/aspose.cells.timelines/timeline/name) | Restituisce o imposta il nome della linea temporale specificata|
+| [left_pixel](/cells/python-net/it/aspose.cells.timelines/timeline/left_pixel) | Restituisce o imposta lo scostamento orizzontale della forma della sequenza temporale dalla sua colonna di sinistra, in pixel.|
+| [top_pixel](/cells/python-net/it/aspose.cells.timelines/timeline/top_pixel) | Restituisce o imposta lo scostamento verticale della forma della sequenza temporale dalla sua riga superiore, in pixel.|
 | [width_pixel](/cells/python-net/it/aspose.cells.timelines/timeline/width_pixel) | Restituisce o imposta la larghezza della sequenza temporale specificata, in pixel.|
-| [height_pixel](/cells/python-net/it/aspose.cells.timelines/timeline/height_pixel) | Restituisce o imposta l'altezza della linea temporale specificata, in pixel.|
+| [height_pixel](/cells/python-net/it/aspose.cells.timelines/timeline/height_pixel) | Restituisce o imposta l'altezza della sequenza temporale specificata, in pixel.|
 
 
 
@@ -32,7 +33,7 @@ Il tipo Timeline espone i membri seguenti:
 ```python
 from aspose.cells import CellsFactory, Workbook
 from aspose.cells.pivot import PivotFieldType, PivotTableStyleType
-import datetime
+from datetime import datetime
 
 book = Workbook()
 sheet = book.worksheets[0]
@@ -81,4 +82,5 @@ book.save("out.xlsx")
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.timelines](..)
+* modulo [`aspose.cells.timelines`](..)
+* classe [`TimelineShape`](/cells/python-net/it/aspose.cells.drawing/timelineshape)

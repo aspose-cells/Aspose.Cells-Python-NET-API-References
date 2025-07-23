@@ -1,9 +1,9 @@
 ---
 title: ParameterType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2430
+weight: 2400
 url: /ru/aspose.cells/parametertype/
 is_root: false
 ---

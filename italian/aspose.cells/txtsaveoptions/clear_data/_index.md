@@ -1,15 +1,15 @@
 ---
 title: clear_data proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 50
+weight: 60
 url: /it/aspose.cells/txtsaveoptions/clear_data/
 is_root: false
 ---
 ##  clear_data proprietà
 
-Rendi vuota la cartella di lavoro dopo aver salvato il file.
+Dopo aver salvato il file, svuotare la cartella di lavoro.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def clear_data(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [TxtSaveOptions](/cells/python-net/it/aspose.cells/txtsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`TxtSaveOptions`](/cells/python-net/it/aspose.cells/txtsaveoptions)

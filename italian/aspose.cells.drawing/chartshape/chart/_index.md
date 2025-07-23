@@ -1,15 +1,15 @@
 ---
 title: chart proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 320
+weight: 330
 url: /it/aspose.cells.drawing/chartshape/chart/
 is_root: false
 ---
 ##  chart proprietà
 
-Restituisce un oggetto Chart che rappresenta lo chart contenuto nell'oggetto.
+Restituisce un oggetto Chart che rappresenta il valore chart contenuto nell'oggetto.
 ###  Definizione:
 ```python
 @property

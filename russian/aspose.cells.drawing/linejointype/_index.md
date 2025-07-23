@@ -1,28 +1,28 @@
 ---
 title: LineJoinType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 940
+weight: 930
 url: /ru/aspose.cells.drawing/linejointype/
 is_root: false
 ---
 ##  LineJoinType перечисление
-Представляет стили соединения линии.
+Представляет стили соединения линий.
 
 
 
-Тип LineJoinType предоставляет следующие члены:
+Тип LineJoinType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
 | ROUND | Круглый сустав|
 | BEVEL | Скошенное соединение|
-| MITER | Митра сустав|
-| NONE | Нет сустава|
+| MITER | Соединение под углом|
+| NONE | Ни один сустав|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
+* модуль [`aspose.cells.drawing`](..)

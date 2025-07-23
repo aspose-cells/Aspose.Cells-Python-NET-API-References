@@ -1,22 +1,23 @@
 ---
 title: get_named_style метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 180
+weight: 190
 url: /ru/aspose.cells/workbook/get_named_style/
 is_root: false
 ---
-##  get_named_style(name) {#str}
+##  get_named_style(self, name) {#str}
 Получает именованный стиль в пуле стилей.
 
 
-###  Возвращает
+###  Возврат
 
-именованный стиль, возможно, null.
+именованный стиль, возможно нулевой.
 
 
 ```python
+
 def get_named_style(self, name):
     ...
 ```
@@ -29,5 +30,5 @@ def get_named_style(self, name):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Workbook](/cells/python-net/ru/aspose.cells/workbook)
+* модуль [`aspose.cells`](../../)
+* класс [`Workbook`](/cells/python-net/ru/aspose.cells/workbook)

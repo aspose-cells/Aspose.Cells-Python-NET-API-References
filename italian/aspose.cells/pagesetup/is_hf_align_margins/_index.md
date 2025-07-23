@@ -1,6 +1,6 @@
 ---
 title: is_hf_align_margins proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 380
@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  is_hf_align_margins proprietà
 
-Indica se i margini dell'intestazione e del piè di pagina sono allineati ai margini della pagina.
-Se questa proprietà è true, l'intestazione e il piè di pagina di sinistra saranno allineati con il margine sinistro,
-l'intestazione e il piè di pagina di destra saranno allineati con il margine destro.
+Indica se i margini dell'intestazione e del piè di pagina sono allineati con i margini della pagina.
+Se questa proprietà è vera, l'intestazione e il piè di pagina di sinistra saranno allineati con il margine sinistro,
+e l'intestazione e il piè di pagina di destra saranno allineati con il margine destro.
 Questa opzione è abilitata per impostazione predefinita.
 ###  Definizione:
 ```python
@@ -24,5 +24,5 @@ def is_hf_align_margins(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/it/aspose.cells/pagesetup)
+* modulo [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/it/aspose.cells/pagesetup)

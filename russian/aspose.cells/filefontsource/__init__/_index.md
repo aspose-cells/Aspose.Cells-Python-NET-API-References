@@ -1,18 +1,19 @@
 ---
 title: FileFontSource конструктор
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 10
 url: /ru/aspose.cells/filefontsource/__init__/
 is_root: false
 ---
-##  FileFontSource(file_path) {#str}
-Стор.
+##  \_\_init\_\_(self, file_path){#str}
+Ctor.
 
 
 
 ```python
+
 def __init__(self, file_path):
     ...
 ```
@@ -25,5 +26,5 @@ def __init__(self, file_path):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [FileFontSource](/cells/python-net/ru/aspose.cells/filefontsource)
+* модуль [`aspose.cells`](../../)
+* класс [`FileFontSource`](/cells/python-net/ru/aspose.cells/filefontsource)

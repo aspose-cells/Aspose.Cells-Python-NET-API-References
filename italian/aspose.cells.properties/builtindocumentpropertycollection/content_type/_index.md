@@ -1,9 +1,9 @@
 ---
 title: content_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 160
+weight: 170
 url: /it/aspose.cells.properties/builtindocumentpropertycollection/content_type/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def content_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.properties](../../)
-* classe [BuiltInDocumentPropertyCollection](/cells/python-net/it/aspose.cells.properties/builtindocumentpropertycollection)
+* modulo [`aspose.cells.properties`](../../)
+* classe [`BuiltInDocumentPropertyCollection`](/cells/python-net/it/aspose.cells.properties/builtindocumentpropertycollection)

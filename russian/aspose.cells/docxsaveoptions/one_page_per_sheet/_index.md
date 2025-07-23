@@ -1,17 +1,13 @@
 ---
 title: one_page_per_sheet недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 170
+weight: 220
 url: /ru/aspose.cells/docxsaveoptions/one_page_per_sheet/
 is_root: false
 ---
 ##  one_page_per_sheet недвижимость
-
- Если OnePagePerSheet имеет значение true , все содержимое одного листа в результате будет выведено только на одну страницу.
- Размер бумаги в настройках страницы будет недействительным, а другие настройки страницы
-все равно вступит в силу.
 ###  Определение:
 ```python
 @property

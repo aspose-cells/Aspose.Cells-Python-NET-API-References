@@ -1,6 +1,6 @@
 ---
 title: line_by_line proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 100
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  line_by_line proprietà
 
-Indica se elaborare lo smart marker riga per riga.
+Indica se l'elaborazione del marcatore intelligente avviene riga per riga.
 
 ###  Osservazioni
 

@@ -1,15 +1,15 @@
 ---
 title: formula недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 450
+weight: 460
 url: /ru/aspose.cells.drawing/picture/formula/
 is_root: false
 ---
 ##  formula недвижимость
 
-Получает и устанавливает данные formula.
+Получает и задает данные formula.
 ###  Определение:
 ```python
 @property

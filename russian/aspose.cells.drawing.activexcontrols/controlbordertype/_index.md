@@ -1,9 +1,9 @@
 ---
 title: ControlBorderType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 160
+weight: 140
 url: /ru/aspose.cells.drawing.activexcontrols/controlbordertype/
 is_root: false
 ---
@@ -12,15 +12,15 @@ is_root: false
 
 
 
-Тип ControlBorderType предоставляет следующие члены:
+Тип ControlBorderType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| NONE | Без границ.|
-| SINGLE | Единая линия.|
+| NONE | Границы нет.|
+| SINGLE | Одна линия.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](..)
+* модуль [`aspose.cells.drawing.activexcontrols`](..)

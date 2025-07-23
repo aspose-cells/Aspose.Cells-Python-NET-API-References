@@ -1,6 +1,6 @@
 ---
 title: full_object_bin proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 460
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  full_object_bin proprietà
 
-Ottiene i dati binari dell'oggetto Ole incorporati completi nel file modello.
+Ottiene i dati binari completi dell'oggetto ole incorporato nel file modello.
 ###  Definizione:
 ```python
 @property

@@ -1,14 +1,14 @@
 ---
 title: DataBarBorderType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1980
+weight: 1890
 url: /ru/aspose.cells/databarbordertype/
 is_root: false
 ---
 ##  DataBarBorderType перечисление
-Указывает тип границы панели данных.
+Задает тип границы панели данных.
 
 
 
@@ -17,8 +17,8 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| NONE | Панель данных не имеет границы.|
-| SOLID | Панель данных имеет сплошную рамку.|
+| NONE | Панель данных не имеет границ.|
+| SOLID | Панель данных имеет сплошную границу.|
 
 
 

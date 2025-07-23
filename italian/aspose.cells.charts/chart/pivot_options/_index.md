@@ -1,6 +1,6 @@
 ---
 title: pivot_options proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 420
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  pivot_options proprietà
 
-Specifica i controlli pivot visualizzati sul grafico
+Specifica i controlli pivot che appaiono sul grafico
 ###  Definizione:
 ```python
 @property

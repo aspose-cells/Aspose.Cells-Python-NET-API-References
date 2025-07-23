@@ -1,6 +1,6 @@
 ---
 title: leader_lines proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 310
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  leader_lines proprietà
 
- Rappresenta le linee direttrici su un grafico. Le linee direttrici collegano le etichette dei dati ai punti dati.
-Questo oggetto non è una raccolta; non c'è nessun oggetto che rappresenti una singola linea guida.
+ Rappresenta le linee guida su un grafico. Le linee guida collegano le etichette dati ai punti dati.
+Questo oggetto non è una raccolta; non esiste alcun oggetto che rappresenti una singola linea guida.
 ###  Definizione:
 ```python
 @property
@@ -19,6 +19,6 @@ def leader_lines(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Line](/cells/python-net/it/aspose.cells.drawing/line)
-* classe [Series](/cells/python-net/it/aspose.cells.charts/series)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Line`](/cells/python-net/it/aspose.cells.drawing/line)
+* classe [`Series`](/cells/python-net/it/aspose.cells.charts/series)

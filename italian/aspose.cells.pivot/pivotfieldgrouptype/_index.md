@@ -1,9 +1,9 @@
 ---
 title: Enumerazione PivotFieldGroupType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 270
+weight: 340
 url: /it/aspose.cells.pivot/pivotfieldgrouptype/
 is_root: false
 ---

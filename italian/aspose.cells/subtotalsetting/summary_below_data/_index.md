@@ -1,6 +1,6 @@
 ---
 title: summary_below_data proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -18,5 +18,5 @@ def summary_below_data(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [SubtotalSetting](/cells/python-net/it/aspose.cells/subtotalsetting)
+* modulo [`aspose.cells`](../../)
+* classe [`SubtotalSetting`](/cells/python-net/it/aspose.cells/subtotalsetting)

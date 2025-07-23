@@ -1,9 +1,9 @@
 ---
 title: PivotNumbericRangeGroupSettings classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 160
+weight: 200
 url: /it/aspose.cells.pivot/pivotnumbericrangegroupsettings/
 is_root: false
 ---

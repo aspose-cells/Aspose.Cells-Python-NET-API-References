@@ -1,15 +1,15 @@
 ---
 title: case_sensitive недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 60
+weight: 70
 url: /ru/aspose.cells/datasorter/case_sensitive/
 is_root: false
 ---
 ##  case_sensitive недвижимость
 
-Получает и устанавливает, учитывается ли регистр при сравнении строки.
+Возвращает и задает, учитывается ли регистр при сравнении строк.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def case_sensitive(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [DataSorter](/cells/python-net/ru/aspose.cells/datasorter)
+* модуль [`aspose.cells`](../../)
+* класс [`DataSorter`](/cells/python-net/ru/aspose.cells/datasorter)

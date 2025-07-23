@@ -1,6 +1,6 @@
 ---
 title: value proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value proprietà
 
-Ottiene e imposta lo value della proprietà.
+Ottiene e imposta il valore value della proprietà.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.markup](../../)
-* classe [SmartTagProperty](/cells/python-net/it/aspose.cells.markup/smarttagproperty)
+* modulo [`aspose.cells.markup`](../../)
+* classe [`SmartTagProperty`](/cells/python-net/it/aspose.cells.markup/smarttagproperty)

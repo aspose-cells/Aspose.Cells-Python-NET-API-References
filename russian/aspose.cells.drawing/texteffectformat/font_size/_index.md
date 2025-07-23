@@ -1,6 +1,6 @@
 ---
 title: font_size недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -21,5 +21,5 @@ def font_size(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [TextEffectFormat](/cells/python-net/ru/aspose.cells.drawing/texteffectformat)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`TextEffectFormat`](/cells/python-net/ru/aspose.cells.drawing/texteffectformat)

@@ -1,15 +1,13 @@
 ---
 title: save_password недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 350
+weight: 400
 url: /ru/aspose.cells.externalconnections/webqueryconnection/save_password/
 is_root: false
 ---
 ##  save_password недвижимость
-
-Истинно, если пароль должен быть сохранен как часть строки подключения; в противном случае Ложь.
 ###  Определение:
 ```python
 @property
@@ -21,5 +19,5 @@ def save_password(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.externalconnections](../../)
-* класс [WebQueryConnection](/cells/python-net/ru/aspose.cells.externalconnections/webqueryconnection)
+* модуль [`aspose.cells.externalconnections`](../../)
+* класс [`WebQueryConnection`](/cells/python-net/ru/aspose.cells.externalconnections/webqueryconnection)

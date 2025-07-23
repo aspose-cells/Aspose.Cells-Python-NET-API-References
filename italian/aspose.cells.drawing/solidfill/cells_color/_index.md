@@ -1,6 +1,6 @@
 ---
 title: cells_color proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cells_color proprietà
 
-Ottiene e imposta l'oggetto [SolidFill.cells_color](/cells/python-net/it/aspose.cells.drawing/solidfill#cells_color).
+Ottiene e imposta l'oggetto [`SolidFill.cells_color`](/cells/python-net/it/aspose.cells.drawing/solidfill#cells_color).
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def cells_color(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [CellsColor](/cells/python-net/it/aspose.cells/cellscolor)
-* classe [SolidFill](/cells/python-net/it/aspose.cells.drawing/solidfill)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`CellsColor`](/cells/python-net/it/aspose.cells/cellscolor)
+* classe [`SolidFill`](/cells/python-net/it/aspose.cells.drawing/solidfill)

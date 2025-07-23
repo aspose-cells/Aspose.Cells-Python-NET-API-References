@@ -1,6 +1,6 @@
 ---
 title: name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 390
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name proprietà
 
-Ottiene e imposta lo name del grafico.
+Ottiene e imposta il valore name del grafico.
 ###  Definizione:
 ```python
 @property

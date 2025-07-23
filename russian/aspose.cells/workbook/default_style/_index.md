@@ -1,15 +1,15 @@
 ---
 title: default_style недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 550
+weight: 580
 url: /ru/aspose.cells/workbook/default_style/
 is_root: false
 ---
 ##  default_style недвижимость
 
-Получает или задает объект книги по умолчанию [`Style`](/cells/python-net/ru/aspose.cells/style).
+Возвращает или задает объект [`Style`](/cells/python-net/ru/aspose.cells/style) по умолчанию для рабочей книги.
 
 ###  Примечания
 
@@ -17,7 +17,7 @@ is_root: false
 
 ###  Пример
 
-Следующий код создает и создает экземпляр новой книги и устанавливает для нее значение по умолчанию [`Style`](/cells/python-net/ru/aspose.cells/style).
+Следующий код создает и создает новую рабочую книгу и устанавливает для нее значение по умолчанию [`Style`](/cells/python-net/ru/aspose.cells/style).
 
 ```python
 from aspose.cells import Workbook

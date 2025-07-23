@@ -1,6 +1,6 @@
 ---
 title: field_index недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -21,5 +21,5 @@ def field_index(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [FilterColumn](/cells/python-net/ru/aspose.cells/filtercolumn)
+* модуль [`aspose.cells`](../../)
+* класс [`FilterColumn`](/cells/python-net/ru/aspose.cells/filtercolumn)

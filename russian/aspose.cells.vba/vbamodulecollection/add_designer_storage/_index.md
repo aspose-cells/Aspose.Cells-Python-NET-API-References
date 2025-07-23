@@ -1,18 +1,19 @@
 ---
 title: add_designer_storage метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
 url: /ru/aspose.cells.vba/vbamodulecollection/add_designer_storage/
 is_root: false
 ---
-##  add_designer_storage(name, data) {#str-bytes}
+##  add_designer_storage(self, name, data) {#str-bytes}
 
 
 
 
 ```python
+
 def add_designer_storage(self, name, data):
     ...
 ```
@@ -26,5 +27,5 @@ def add_designer_storage(self, name, data):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.vba](../../)
-* класс [VbaModuleCollection](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection)
+* модуль [`aspose.cells.vba`](../../)
+* класс [`VbaModuleCollection`](/cells/python-net/ru/aspose.cells.vba/vbamodulecollection)

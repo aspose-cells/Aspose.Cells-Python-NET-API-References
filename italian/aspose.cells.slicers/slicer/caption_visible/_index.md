@@ -1,6 +1,6 @@
 ---
 title: caption_visible proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  caption_visible proprietà
 
-Restituisce o imposta se l'intestazione che visualizza l'affettatrice Caption è visibile
+Restituisce o imposta se l'intestazione che visualizza la didascalia dell'affettatrice è visibile
 il valore predefinito è vero
 
 ###  Esempio
@@ -30,5 +30,5 @@ def caption_visible(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.slicers](../../)
-* classe [Slicer](/cells/python-net/it/aspose.cells.slicers/slicer)
+* modulo [`aspose.cells.slicers`](../../)
+* classe [`Slicer`](/cells/python-net/it/aspose.cells.slicers/slicer)

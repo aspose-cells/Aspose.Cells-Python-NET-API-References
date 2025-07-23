@@ -1,9 +1,9 @@
 ---
 title: PaneStateType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2410
+weight: 2380
 url: /ru/aspose.cells/panestatetype/
 is_root: false
 ---
@@ -17,10 +17,10 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| FROZEN | Стекла заморожены, но до этого не были заморожены.|
-| FROZEN_SPLIT | Стекла заморожены и были разделены перед замораживанием.|
-| SPLIT |Стекла разделены, но не заморожены.|
-| NORMAL | Стекла не замерзают и не раскалываются.|
+| FROZEN | Стекла заморожены, но до заморозки они таковыми не были.|
+| FROZEN_SPLIT | Стекла заморожены и были расколоты до замораживания.|
+| SPLIT | Окна разделены, но не заморожены.|
+| NORMAL | Стекла не замерзают и не трескаются.|
 
 
 

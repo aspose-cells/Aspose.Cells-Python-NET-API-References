@@ -1,9 +1,9 @@
 ---
 title: Enumerazione TextDirectionType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 2640
+weight: 2610
 url: /it/aspose.cells/textdirectiontype/
 is_root: false
 ---

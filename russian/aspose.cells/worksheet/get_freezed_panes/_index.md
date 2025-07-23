@@ -1,22 +1,23 @@
 ---
 title: get_freezed_panes метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 150
+weight: 160
 url: /ru/aspose.cells/worksheet/get_freezed_panes/
 is_root: false
 ---
-##  get_freezed_panes {#any-any-any-any}
-Получает замороженные панели.
+##  get_freezed_panes(self, row, column, freezed_rows, freezed_columns) {#any-any-any-any}
+Получает замороженные области.
 
 
 ###  Возврат
 
-Возвращает, заморожен ли лист
+Возвращает, заморожен ли рабочий лист
 
 
 ```python
+
 def get_freezed_panes(self, row, column, freezed_rows, freezed_columns):
     ...
 ```
@@ -27,7 +28,7 @@ def get_freezed_panes(self, row, column, freezed_rows, freezed_columns):
 | row | any | Индекс строки.|
 | column | any | Индекс столбца.|
 | freezed_rows | any | Количество видимых строк в верхней панели, не более индекса строки.|
-| freezed_columns | any | Количество видимых столбцов на левой панели, не более индекса столбца.|
+| freezed_columns | any | Количество видимых столбцов в левой панели, не более индекса столбца.|
 
 
 

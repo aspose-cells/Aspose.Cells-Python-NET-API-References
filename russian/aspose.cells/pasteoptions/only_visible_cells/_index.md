@@ -1,9 +1,9 @@
 ---
 title: only_visible_cells недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 30
+weight: 40
 url: /ru/aspose.cells/pasteoptions/only_visible_cells/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def only_visible_cells(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PasteOptions](/cells/python-net/ru/aspose.cells/pasteoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`PasteOptions`](/cells/python-net/ru/aspose.cells/pasteoptions)

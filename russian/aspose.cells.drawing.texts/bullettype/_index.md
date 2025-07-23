@@ -1,6 +1,6 @@
 ---
 title: BulletType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 140
@@ -8,21 +8,21 @@ url: /ru/aspose.cells.drawing.texts/bullettype/
 is_root: false
 ---
 ##  BulletType перечисление
-Представляет тип пули.
+Обозначает тип пули.
 
 
 
-Тип BulletType предоставляет следующие члены:
+Тип BulletType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| NONE | Нет пули.|
-| CHARACTER | Характерная пуля.|
-| PICTURE | Образная пуля.|
-| AUTO_NUMBERED | Автоматическая нумерованная пуля.|
+| NONE | Пули нет.|
+| CHARACTER | Характерный маркер.|
+| PICTURE | Изображение маркера.|
+| AUTO_NUMBERED | Автоматически пронумерованный маркер.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](..)
+* модуль [`aspose.cells.drawing.texts`](..)

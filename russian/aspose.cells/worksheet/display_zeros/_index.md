@@ -1,15 +1,15 @@
 ---
 title: display_zeros недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 480
+weight: 500
 url: /ru/aspose.cells/worksheet/display_zeros/
 is_root: false
 ---
 ##  display_zeros недвижимость
 
-Истинно, если отображаются нулевые значения.
+True, если отображаются нулевые значения.
 ###  Определение:
 ```python
 @property

@@ -1,6 +1,6 @@
 ---
 title: ChartTextDirectionType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 450
@@ -17,10 +17,10 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| HORIZONTAL | Тип горизонтального направления.|
-| VERTICAL | Тип вертикального направления.|
-| ROTATE90 | Поворот на угол 90.|
-| ROTATE270 | Поворот на угол 270.|
+| HORIZONTAL | Горизонтального типа направления.|
+| VERTICAL | Вертикального типа направления.|
+| ROTATE90 | Поворот на 90 градусов.|
+| ROTATE270 | Поворот на 270 градусов.|
 | STACKED | Сложенный текст.|
 
 

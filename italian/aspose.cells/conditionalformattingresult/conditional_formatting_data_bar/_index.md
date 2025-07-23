@@ -1,6 +1,6 @@
 ---
 title: conditional_formatting_data_bar proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -18,6 +18,6 @@ def conditional_formatting_data_bar(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ConditionalFormattingResult](/cells/python-net/it/aspose.cells/conditionalformattingresult)
-* classe [DataBar](/cells/python-net/it/aspose.cells/databar)
+* modulo [`aspose.cells`](../../)
+* classe [`ConditionalFormattingResult`](/cells/python-net/it/aspose.cells/conditionalformattingresult)
+* classe [`DataBar`](/cells/python-net/it/aspose.cells/databar)

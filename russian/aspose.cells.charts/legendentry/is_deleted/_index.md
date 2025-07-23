@@ -1,6 +1,6 @@
 ---
 title: is_deleted недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_deleted недвижимость
 
-Получает и задает, удаляется ли запись легенды.
+Возвращает и задает, удалена ли запись легенды.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_deleted(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [LegendEntry](/cells/python-net/ru/aspose.cells.charts/legendentry)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`LegendEntry`](/cells/python-net/ru/aspose.cells.charts/legendentry)

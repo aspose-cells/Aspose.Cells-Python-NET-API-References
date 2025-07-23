@@ -1,6 +1,6 @@
 ---
 title: linked_graphic proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -21,5 +21,5 @@ def linked_graphic(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.ods](../../)
-* classe [OdsPageBackground](/cells/python-net/it/aspose.cells.ods/odspagebackground)
+* modulo [`aspose.cells.ods`](../../)
+* classe [`OdsPageBackground`](/cells/python-net/it/aspose.cells.ods/odspagebackground)

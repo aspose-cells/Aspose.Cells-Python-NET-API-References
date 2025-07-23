@@ -1,22 +1,23 @@
 ---
 title: get_text_of_column_labels метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 50
+weight: 60
 url: /ru/aspose.cells.settings/pivotglobalizationsettings/get_text_of_column_labels/
 is_root: false
 ---
-##  get_text_of_column_labels {#}
+##  get_text_of_column_labels(self) {#}
 Получает текст метки «Метки столбцов» в сводной таблице.
 
 
 ###  Возврат
 
-Текст меток столбцов
+Текст заголовков столбцов
 
 
 ```python
+
 def get_text_of_column_labels(self):
     ...
 ```

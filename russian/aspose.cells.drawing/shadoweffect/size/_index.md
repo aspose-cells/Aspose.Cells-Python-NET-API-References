@@ -1,6 +1,6 @@
 ---
 title: size недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  size недвижимость
 
- Получает и задает size тени. Диапазон от 0 до 2,0.
+ Получает и задаёт значение тени size. Диапазон значений от 0 до 2,0.
 Бессмысленно во внутренней тени.
 ###  Определение:
 ```python
@@ -22,5 +22,5 @@ def size(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ShadowEffect](/cells/python-net/ru/aspose.cells.drawing/shadoweffect)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ShadowEffect`](/cells/python-net/ru/aspose.cells.drawing/shadoweffect)

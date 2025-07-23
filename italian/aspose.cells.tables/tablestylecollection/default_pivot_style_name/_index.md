@@ -1,9 +1,9 @@
 ---
 title: default_pivot_style_name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 110
+weight: 120
 url: /it/aspose.cells.tables/tablestylecollection/default_pivot_style_name/
 is_root: false
 ---

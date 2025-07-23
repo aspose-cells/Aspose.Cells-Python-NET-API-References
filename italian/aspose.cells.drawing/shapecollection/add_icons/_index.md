@@ -1,14 +1,14 @@
 ---
 title: Metodo add_icons
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 130
+weight: 140
 url: /it/aspose.cells.drawing/shapecollection/add_icons/
 is_root: false
 ---
-##  add_icons {#int-int-int-int-int-int-bytes-bytes}
-Aggiunge l'immagine SVG.
+##  add_icons(self, upper_left_row, top, upper_left_column, left, height, width, image_byte_data, compatible_image_data) {#int-int-int-int-int-int-bytes-bytes}
+Aggiunge l'immagine svg.
 
 
 ###  ritorna
@@ -17,6 +17,7 @@ Aggiunge l'immagine SVG.
 
 
 ```python
+
 def add_icons(self, upper_left_row, top, upper_left_column, left, height, width, image_byte_data, compatible_image_data):
     ...
 ```
@@ -25,13 +26,13 @@ def add_icons(self, upper_left_row, top, upper_left_column, left, height, width,
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
 | upper_left_row | int | Indice della riga in alto a sinistra.|
-| top | int | Rappresenta l'offset verticale della forma dalla riga sinistra, in unità di pixel.|
+| top | int | Rappresenta lo scostamento verticale della forma dalla sua riga sinistra, in pixel.|
 | upper_left_column | int | Indice della colonna in alto a sinistra.|
-| left | int | Lo scostamento orizzontale della forma dalla colonna di sinistra, in unità di pixel.|
+| left | int | Lo scostamento orizzontale della forma dalla sua colonna di sinistra, in unità di pixel.|
 | height | int | L'altezza della forma, in unità di pixel.|
-| width | int | La larghezza della forma, in unità di pixel.|
-| image_byte_data | bytes | I dati del byte dell'immagine.|
-| compatible_image_data | bytes | Dati immagine convertiti da SVG per essere compatibili con Excel 2016 o versioni precedenti.|
+| width | int | Larghezza della forma, in unità di pixel.|
+| image_byte_data | bytes | I dati in byte dell'immagine.|
+| compatible_image_data | bytes | Dati immagine convertiti da svg per renderli compatibili con Excel 2016 o versioni precedenti.|
 
 ###  Esempio
 

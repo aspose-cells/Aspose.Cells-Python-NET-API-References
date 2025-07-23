@@ -1,9 +1,9 @@
 ---
 title: capacity proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 120
+weight: 130
 url: /it/aspose.cells.charts/seriescollection/capacity/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [SeriesCollection](/cells/python-net/it/aspose.cells.charts/seriescollection)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`SeriesCollection`](/cells/python-net/it/aspose.cells.charts/seriescollection)

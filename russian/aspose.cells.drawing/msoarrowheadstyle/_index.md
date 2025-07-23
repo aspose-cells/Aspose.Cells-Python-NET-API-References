@@ -1,30 +1,30 @@
 ---
 title: MsoArrowheadStyle перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 980
+weight: 970
 url: /ru/aspose.cells.drawing/msoarrowheadstyle/
 is_root: false
 ---
 ##  MsoArrowheadStyle перечисление
-Перечисляет тип конца линии линии границы фигуры.
+Перечисляет тип окончания линии границы фигуры.
 
 
 
-Тип MsoArrowheadStyle предоставляет следующие члены:
+Тип MsoArrowheadStyle предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
 | NONE | Нет типа окончания строки.|
-| ARROW | Тип конца линии стрелки.|
-| ARROW_STEALTH | Тип конца линии Arrow Stealth.|
-| ARROW_DIAMOND | Тип конца ромбовидной стрелы.|
-| ARROW_OVAL | Овальная стрелка типа конца линии.|
-| ARROW_OPEN | Стрелка Открытый тип конца линии.|
+| ARROW | Тип окончания линии стрелки.|
+| ARROW_STEALTH | Тип окончания линии «Стрела Стелс».|
+| ARROW_DIAMOND | Тип окончания Arrow Diamond Line.|
+| ARROW_OVAL | Стрелка Овального типа окончания линии.|
+| ARROW_OPEN |Стрелка Открытая линия окончания типа.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
+* модуль [`aspose.cells.drawing`](..)

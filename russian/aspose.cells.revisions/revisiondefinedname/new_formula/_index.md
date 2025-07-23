@@ -1,6 +1,6 @@
 ---
 title: new_formula недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -18,5 +18,5 @@ def new_formula(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.revisions](../../)
-* класс [RevisionDefinedName](/cells/python-net/ru/aspose.cells.revisions/revisiondefinedname)
+* модуль [`aspose.cells.revisions`](../../)
+* класс [`RevisionDefinedName`](/cells/python-net/ru/aspose.cells.revisions/revisiondefinedname)

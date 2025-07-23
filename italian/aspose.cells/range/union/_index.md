@@ -1,22 +1,23 @@
 ---
 title: Metodo union
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 230
+weight: 320
 url: /it/aspose.cells/range/union/
 is_root: false
 ---
-##  union {#aspose.cells.Range}
-Restituisce lo union di due intervalli.
+##  union(self, range) {#aspose.cells.Range}
+Restituisce union di due intervalli.
 
 
 ###  ritorna
 
-Lo union di due fasce.
+union di due intervalli.
 
 
 ```python
+
 def union(self, range):
     ...
 ```
@@ -28,9 +29,9 @@ def union(self, range):
 ###  Osservazioni
 
 NOTA: questo metodo è ormai obsoleto. Invece,
-si prega di utilizzare il metodo Range.UnionRang().
- Questo metodo verrà rimosso 12 mesi dopo a partire da novembre 2023.
-Aspose si scusa per eventuali disagi riscontrati.
+si prega di utilizzare il metodo Range.UnionRanges().
+ Questo metodo verrà rimosso 12 mesi dopo, a partire da novembre 2023.
+Aspose si scusa per ogni eventuale disagio arrecato.
 
 
 ###  Guarda anche

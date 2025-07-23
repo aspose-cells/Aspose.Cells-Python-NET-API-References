@@ -1,6 +1,6 @@
 ---
 title: text_direction proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 290
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text_direction proprietà
 
-Verrà applicata l'impostazione della direzione del testo.
+Verrà applicata l'impostazione relativa alla direzione del testo.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def text_direction(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [StyleFlag](/cells/python-net/it/aspose.cells/styleflag)
+* modulo [`aspose.cells`](../../)
+* classe [`StyleFlag`](/cells/python-net/it/aspose.cells/styleflag)

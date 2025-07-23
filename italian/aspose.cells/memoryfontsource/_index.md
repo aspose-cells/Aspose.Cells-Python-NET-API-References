@@ -1,19 +1,18 @@
 ---
 title: MemoryFontSource classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1080
+weight: 970
 url: /it/aspose.cells/memoryfontsource/
 is_root: false
 ---
 ##  MemoryFontSource classe
-Rappresenta il singolo file di font TrueType archiviato in memoria.
+Rappresenta il singolo file di font TrueType memorizzato nella memoria.
 
 
 
-**Eredità:** [`MemoryFontSource`](/cells/python-net/aspose.cells/memoryfontsource) → 
-[`FontSourceBase`](/cells/python-net/it/aspose.cells/fontsourcebase)
+**Eredità:** [`MemoryFontSource`](/cells/python-net/it/aspose.cells/memoryfontsource)
 
 
 
@@ -22,18 +21,17 @@ Il tipo MemoryFontSource espone i seguenti membri:
 ###  Costruttori
 | Costruttore| Descrizione|
 | :- | :- |
-| [__init__](/cells/python-net/it/aspose.cells/memoryfontsource/__init__/#bytes) | Direttore.|
+| [`__init__(self, font_data)`](/cells/python-net/it/aspose.cells/memoryfontsource/__init__/#bytes) | Cttore.|
 
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [type](/cells/python-net/it/aspose.cells/memoryfontsource/type) | Restituisce il tipo dell'origine del carattere.|
-| [font_data](/cells/python-net/it/aspose.cells/memoryfontsource/font_data) | Dati di carattere binario.|
+| [type](/cells/python-net/it/aspose.cells/memoryfontsource/type) |Restituisce il tipo di origine del font.|
+| [font_data](/cells/python-net/it/aspose.cells/memoryfontsource/font_data) | Dati binari dei font.|
 
 
 
 ###  Guarda anche
 * modulo [`aspose.cells`](..)
-* classe [`FontSourceBase`](/cells/python-net/it/aspose.cells/fontsourcebase)
 * classe [`MemoryFontSource`](/cells/python-net/it/aspose.cells/memoryfontsource)

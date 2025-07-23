@@ -1,15 +1,15 @@
 ---
 title: function недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 330
+weight: 410
 url: /ru/aspose.cells.pivot/pivotfield/function/
 is_root: false
 ---
 ##  function недвижимость
 
-Представляет function, используемый для суммирования поля данных сводной таблицы.
+Представляет значение function, используемое для суммирования поля данных сводной таблицы.
 ###  Определение:
 ```python
 @property

@@ -1,6 +1,6 @@
 ---
 title: min недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 180
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  min недвижимость
 
-Получает и задает минимально допустимое значение.
+Получает и задает минимально приемлемое значение.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def min(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [ScrollBarActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`ScrollBarActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

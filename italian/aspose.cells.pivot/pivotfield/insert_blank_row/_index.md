@@ -1,9 +1,9 @@
 ---
 title: insert_blank_row proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 350
+weight: 430
 url: /it/aspose.cells.pivot/pivotfield/insert_blank_row/
 is_root: false
 ---

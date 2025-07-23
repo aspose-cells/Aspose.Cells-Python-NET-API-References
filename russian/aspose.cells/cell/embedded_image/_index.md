@@ -1,15 +1,15 @@
 ---
 title: embedded_image недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 470
+weight: 480
 url: /ru/aspose.cells/cell/embedded_image/
 is_root: false
 ---
 ##  embedded_image недвижимость
 
-Получает и задает внедренное изображение в ячейке.
+Получает и задает встроенное изображение в ячейке.
 ###  Определение:
 ```python
 @property

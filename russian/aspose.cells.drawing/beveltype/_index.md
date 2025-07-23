@@ -1,31 +1,31 @@
 ---
 title: BevelType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 780
+weight: 770
 url: /ru/aspose.cells.drawing/beveltype/
 is_root: false
 ---
 ##  BevelType перечисление
-Представляет набор настроек для типа скоса, который можно применить к фигуре в 3D.
+Представляет собой предустановку для типа скоса, который можно применить к форме в 3D.
 
 
 
-Тип BevelType предоставляет следующие члены:
+Тип BevelType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
 | NONE | Без скоса|
 | ANGLE | Угол|
-| ART_DECO | Арт-деко|
+| ART_DECO | ар-деко|
 | CIRCLE | Круг|
 | CONVEX | Выпуклый|
-| COOL_SLANT | Крутой наклон|
+| COOL_SLANT | Крутой уклон|
 | CROSS | Крест|
 | DIVOT | Дерн|
-| HARD_EDGE | Твердый край|
+| HARD_EDGE | Жесткий край|
 | RELAXED_INSET | Расслабленная вставка|
 | RIBLET | Риблет|
 | SLOPE | Склон|
@@ -34,4 +34,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
+* модуль [`aspose.cells.drawing`](..)

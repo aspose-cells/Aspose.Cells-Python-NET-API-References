@@ -1,9 +1,9 @@
 ---
 title: Enumerazione BuiltinStyleType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1870
+weight: 1770
 url: /it/aspose.cells/builtinstyletype/
 is_root: false
 ---

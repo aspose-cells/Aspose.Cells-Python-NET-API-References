@@ -1,9 +1,9 @@
 ---
 title: capacity недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 480
+weight: 530
 url: /ru/aspose.cells.drawing/shapecollection/capacity/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ShapeCollection](/cells/python-net/ru/aspose.cells.drawing/shapecollection)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ShapeCollection`](/cells/python-net/ru/aspose.cells.drawing/shapecollection)

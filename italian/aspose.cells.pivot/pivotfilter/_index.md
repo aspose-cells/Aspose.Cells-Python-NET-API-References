@@ -1,14 +1,14 @@
 ---
 title: PivotFilter classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 100
+weight: 140
 url: /it/aspose.cells.pivot/pivotfilter/
 is_root: false
 ---
 ##  PivotFilter classe
-Rappresenta uno PivotFilter nella Collezione PivotFilter.
+Rappresenta un PivotFilter nella collezione PivotFilter.
 
 
 
@@ -17,15 +17,28 @@ Il tipo PivotFilter espone i seguenti membri:
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
+| [use_whole_day](/cells/python-net/it/aspose.cells.pivot/pivotfilter/use_whole_day) | Indica se utilizza giorni interi nei suoi criteri di filtraggio.|
 | [auto_filter](/cells/python-net/it/aspose.cells.pivot/pivotfilter/auto_filter) | Ottiene il filtro automatico del filtro pivot.|
 | [filter_type](/cells/python-net/it/aspose.cells.pivot/pivotfilter/filter_type) | Ottiene il tipo di filtro automatico del filtro pivot.|
-| [field_index](/cells/python-net/it/aspose.cells.pivot/pivotfilter/field_index) | Ottiene l'indice del campo del filtro pivot.|
-| [value1](/cells/python-net/it/aspose.cells.pivot/pivotfilter/value1) | Ottiene il valore stringa1 del filtro pivot dell'etichetta.|
-| [value2](/cells/python-net/it/aspose.cells.pivot/pivotfilter/value2) |Ottiene il valore stringa2 del filtro pivot dell'etichetta.|
-| [measure_fld_index](/cells/python-net/it/aspose.cells.pivot/pivotfilter/measure_fld_index) | Ottiene l'indice del campo misura del filtro pivot.|
-| [member_property_field_index](/cells/python-net/it/aspose.cells.pivot/pivotfilter/member_property_field_index) | Ottiene l'indice del campo della proprietà del membro del filtro pivot.|
+| [field_index](/cells/python-net/it/aspose.cells.pivot/pivotfilter/field_index) | Ottiene l'indice del campo sorgente a cui viene applicato questo filtro pivot.|
+| [filter_category](/cells/python-net/it/aspose.cells.pivot/pivotfilter/filter_category) | Ottiene la categoria di questo filtro.|
+| [value1](/cells/python-net/it/aspose.cells.pivot/pivotfilter/value1) | Ottiene il valore stringa 1 del filtro pivot dell'etichetta.|
+| [value2](/cells/python-net/it/aspose.cells.pivot/pivotfilter/value2) | Ottiene il valore stringa2 del filtro pivot dell'etichetta.|
+| [measure_fld_index](/cells/python-net/it/aspose.cells.pivot/pivotfilter/measure_fld_index) | Ottiene l'indice del campo di misura del filtro pivot.|
+| [value_field_index](/cells/python-net/it/aspose.cells.pivot/pivotfilter/value_field_index) | Ottiene l'indice del campo valore nell'area valore.|
+| [measure_cube_field_index](/cells/python-net/it/aspose.cells.pivot/pivotfilter/measure_cube_field_index) | Specifica l'indice del campo del cubo di misura.<br/>Questa proprietà viene utilizzata solo dai filtri nei pivot OLAP e specifica su quale misura deve essere applicato un filtro valore.|
+| [member_property_field_index](/cells/python-net/it/aspose.cells.pivot/pivotfilter/member_property_field_index) | Ottiene l'indice del campo della proprietà membro del filtro pivot.|
 | [name](/cells/python-net/it/aspose.cells.pivot/pivotfilter/name) | Ottiene il nome del filtro pivot.|
 | [evaluation_order](/cells/python-net/it/aspose.cells.pivot/pivotfilter/evaluation_order) | Ottiene l'ordine di valutazione del filtro pivot.|
+
+
+###  Metodi
+| Metodo| Descrizione|
+| :- | :- |
+| [`get_top_10_value(self)`](/cells/python-net/it/aspose.cells.pivot/pivotfilter/get_top_10_value/#) | Ottiene le prime 10 impostazioni del filtro.|
+| [`get_labels(self)`](/cells/python-net/it/aspose.cells.pivot/pivotfilter/get_labels/#) | Ottiene le etichette del filtro didascalia.|
+| [`get_number_values(self)`](/cells/python-net/it/aspose.cells.pivot/pivotfilter/get_number_values/#) | Ottiene i valori del filtro numerico.|
+| [`get_date_time_values(self)`](/cells/python-net/it/aspose.cells.pivot/pivotfilter/get_date_time_values/#) | Ottiene i valori del filtro numerico.|
 
 
 
@@ -72,10 +85,8 @@ pivot.add_field_to_area(PivotFieldType.ROW, "fruit")
 pivot.add_field_to_area(PivotFieldType.COLUMN, "year")
 pivot.add_field_to_area(PivotFieldType.DATA, "amount")
 pivot.pivot_table_style_type = PivotTableStyleType.PIVOT_TABLE_STYLE_MEDIUM10
-# Add PivotFilter
-index = pivot.pivot_filters.add(0, PivotFilterType.COUNT)
-filter = pivot.pivot_filters[index]
-filter.auto_filter.filter_top10(0, False, False, 2)
+# Add top 10 filter
+pivot.base_fields[0].filter_top10(0, PivotFilterType.COUNT, False, 2)
 pivot.refresh_data()
 pivot.calculate_data()
 # do your business

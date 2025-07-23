@@ -1,6 +1,6 @@
 ---
 title: list недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  list недвижимость
 
-Возвращает значение, указывающее, основан ли слайсер, связанный с указанным кэшем слайсера, на источнике данных, отличном от OLAP. Только для чтения
+Возвращает, основан ли слайсер, связанный с указанным кэшем слайсеров, на источнике данных, отличном от OLAP. Только для чтения.
 
 ###  Пример
 
@@ -26,5 +26,5 @@ def list(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.slicers](../../)
-* класс [SlicerCache](/cells/python-net/ru/aspose.cells.slicers/slicercache)
+* модуль [`aspose.cells.slicers`](../../)
+* класс [`SlicerCache`](/cells/python-net/ru/aspose.cells.slicers/slicercache)

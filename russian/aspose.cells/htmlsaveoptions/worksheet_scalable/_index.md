@@ -1,15 +1,15 @@
 ---
 title: worksheet_scalable недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 730
+weight: 810
 url: /ru/aspose.cells/htmlsaveoptions/worksheet_scalable/
 is_root: false
 ---
 ##  worksheet_scalable недвижимость
 
-Указывает, увеличивается ли масштаб HTML с помощью уровня масштабирования листа при сохранении файла в формате HTML, значение по умолчанию — false.
+Указывает, увеличивается или уменьшается масштаб HTML с помощью уровня масштабирования листа при сохранении файла в формате HTML; значение по умолчанию — false.
 ###  Определение:
 ```python
 @property

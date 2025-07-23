@@ -1,6 +1,6 @@
 ---
 title: is_vertical недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 110
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_vertical недвижимость
 
-Истинно, если строка в файле книги представляет строку в DataTable. Значение false, если столбец в файле книги представляет строку в DataTable.
+True, если строка в файле Workbook представляет строку в DataTable. False, если столбец в файле Workbook представляет строку в DataTable.
 ###  Определение:
 ```python
 @property

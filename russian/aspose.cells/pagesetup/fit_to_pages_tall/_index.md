@@ -1,6 +1,6 @@
 ---
 title: fit_to_pages_tall недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 300
@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  fit_to_pages_tall недвижимость
 
-Представляет количество страниц в высоту, до которых будет масштабирован рабочий лист при печати.
+Представляет собой количество страниц, до которого будет масштабирован рабочий лист при печати.
 Значение по умолчанию — 1.
 
 ###  Примечания
 
-Вы должны установить FitToPagesWide равным нулю, если хотите разместить все строки на одной странице.
+Если вы хотите, чтобы все строки уместились на одной странице, необходимо установить значение FitToPagesWide равным нулю.
 ###  Определение:
 ```python
 @property
@@ -26,5 +26,5 @@ def fit_to_pages_tall(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PageSetup](/cells/python-net/ru/aspose.cells/pagesetup)
+* модуль [`aspose.cells`](../../)
+* класс [`PageSetup`](/cells/python-net/ru/aspose.cells/pagesetup)

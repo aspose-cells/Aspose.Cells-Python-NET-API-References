@@ -1,9 +1,9 @@
 ---
 title: PrintOrderType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2480
+weight: 2450
 url: /ru/aspose.cells/printordertype/
 is_root: false
 ---
@@ -17,8 +17,8 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| DOWN_THEN_OVER | Вниз, затем над|
-| OVER_THEN_DOWN | Верх, затем вниз|
+| DOWN_THEN_OVER | Вниз, затем вверх|
+| OVER_THEN_DOWN | Вверх, затем вниз|
 
 
 

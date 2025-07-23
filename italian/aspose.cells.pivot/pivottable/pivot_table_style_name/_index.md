@@ -1,9 +1,9 @@
 ---
 title: pivot_table_style_name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 740
+weight: 850
 url: /it/aspose.cells.pivot/pivottable/pivot_table_style_name/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def pivot_table_style_name(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [PivotTable](/cells/python-net/it/aspose.cells.pivot/pivottable)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`PivotTable`](/cells/python-net/it/aspose.cells.pivot/pivottable)

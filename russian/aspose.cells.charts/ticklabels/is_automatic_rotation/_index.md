@@ -1,6 +1,6 @@
 ---
 title: is_automatic_rotation недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_automatic_rotation недвижимость
 
-Указывает, является ли угол поворота автоматическим.
+Указывает, является ли угол поворота автоматическим
 ###  Определение:
 ```python
 @property

@@ -1,9 +1,9 @@
 ---
 title: sort_names proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 130
+weight: 150
 url: /it/aspose.cells/spreadsheetml2003saveoptions/sort_names/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def sort_names(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [SpreadsheetML2003SaveOptions](/cells/python-net/it/aspose.cells/spreadsheetml2003saveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`SpreadsheetML2003SaveOptions`](/cells/python-net/it/aspose.cells/spreadsheetml2003saveoptions)

@@ -1,14 +1,14 @@
 ---
-title: metodo extension_to_save_format
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo extension_to_save_format
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
 url: /it/aspose.cells/fileformatutil/extension_to_save_format/
 is_root: false
 ---
-##  extension_to_save_format(extension) {#str}
-Converte un'estensione del nome file in un valore SaveFormat.
+##  extension_to_save_format(, estensione){#str}
+Converte l'estensione di un nome file in un valore SaveFormat.
 
 
 ###  ritorna
@@ -17,20 +17,22 @@ Converte un'estensione del nome file in un valore SaveFormat.
 
 
 ```python
-def extension_to_save_format(self, extension):
+
+@staticmethod
+def extension_to_save_format(extension):
     ...
 ```
 
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| extension | str | L'estensione del file. Può essere con o senza punto iniziale. Senza distinzione tra maiuscole e minuscole.|
+| extension | str | L'estensione del file. Può essere con o senza punto iniziale. Non distingue tra maiuscole e minuscole.|
 ###  Osservazioni
 
-Se l'interno non può essere riconosciuto, restituisce [SaveFormat.UNKNOWN](/cells/python-net/it/aspose.cells/saveformat#UNKNOWN).
+Se l'estensione non può essere riconosciuta, restituisce [`SaveFormat.UNKNOWN`](/cells/python-net/it/aspose.cells/saveformat#UNKNOWN).
 
 
 ###  Guarda anche
 
-* modulo [aspose.cells](../../)
-* classe [FileFormatUtil](/cells/python-net/it/aspose.cells/fileformatutil)
+* modulo [`aspose.cells`](../../)
+* classe [`FileFormatUtil`](/cells/python-net/it/aspose.cells/fileformatutil)

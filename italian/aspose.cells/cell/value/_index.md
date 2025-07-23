@@ -1,15 +1,15 @@
 ---
 title: value proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 740
+weight: 770
 url: /it/aspose.cells/cell/value/
 is_root: false
 ---
 ##  value proprietà
 
-Ottiene/imposta lo value contenuto in questa cella.
+Ottiene/imposta il valore value contenuto in questa cella.
 
 ###  Osservazioni
 
@@ -21,20 +21,20 @@ nullo,
 Booleano,
 
 
-Appuntamento,
+Data e ora,
 
 
-Doppio,
+Raddoppiare,
 
 
-Numero intero
+Intero
 
 
 Corda.
 
 
-Per l'int value, può essere restituito come oggetto Integer o Double.
-E non vi è alcuna garanzia che lo value restituito venga mantenuto sempre come lo stesso tipo di oggetto.
+Per int value, può essere restituito come un oggetto Integer o un oggetto Double.
+E non vi è alcuna garanzia che l'oggetto restituito value verrà sempre mantenuto dello stesso tipo.
 ###  Definizione:
 ```python
 @property

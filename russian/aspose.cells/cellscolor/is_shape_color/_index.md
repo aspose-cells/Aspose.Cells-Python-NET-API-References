@@ -1,6 +1,6 @@
 ---
 title: is_shape_color недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  is_shape_color недвижимость
 
-Получает и устанавливает цвет, который должен применяться к ячейке или фигуре.
+Получает и задает цвет, который следует применить к ячейке или фигуре.
 
 ###  Примечания
 
-Выражение цвета клетки и формы различно.
-Например: цвет темы с одинаковым значением оттенка не будет совпадать в ячейке и фигуре.
+Выражение цвета и формы клетки различно.
+Например: цвет темы с одинаковым значением оттенка будет разным в ячейке и форме.
 ###  Определение:
 ```python
 @property
@@ -26,5 +26,5 @@ def is_shape_color(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CellsColor](/cells/python-net/ru/aspose.cells/cellscolor)
+* модуль [`aspose.cells`](../../)
+* класс [`CellsColor`](/cells/python-net/ru/aspose.cells/cellscolor)

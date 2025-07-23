@@ -1,15 +1,15 @@
 ---
 title: sort_names недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 660
+weight: 760
 url: /ru/aspose.cells.saving/ebooksaveoptions/sort_names/
 is_root: false
 ---
 ##  sort_names недвижимость
 
-Указывает, выполняется ли сортировка определенных имен перед сохранением файла.
+Указывает, сортируются ли определенные имена перед сохранением файла.
 ###  Определение:
 ```python
 @property

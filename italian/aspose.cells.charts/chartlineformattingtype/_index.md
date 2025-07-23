@@ -1,6 +1,6 @@
 ---
 title: Enumerazione ChartLineFormattingType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 420
@@ -18,8 +18,8 @@ Il tipo ChartLineFormattingType espone i seguenti membri:
 | Campo| Descrizione|
 | :- | :- |
 | AUTOMATIC | Rappresenta il tipo di formattazione automatica.|
-| SOLID | Rappresenta il tipo di formattazione continua.|
-| NONE |Non rappresenta alcun tipo di formattazione.|
+| SOLID | Rappresenta un tipo di formattazione solida.|
+| NONE | Non rappresenta alcun tipo di formattazione.|
 | GRADIENT | Pendenza|
 
 

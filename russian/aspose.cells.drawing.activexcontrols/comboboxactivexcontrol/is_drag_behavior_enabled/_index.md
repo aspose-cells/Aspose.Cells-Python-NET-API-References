@@ -1,6 +1,6 @@
 ---
 title: is_drag_behavior_enabled недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 190
@@ -21,5 +21,5 @@ def is_drag_behavior_enabled(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [ComboBoxActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`ComboBoxActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

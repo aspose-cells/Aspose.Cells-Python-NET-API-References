@@ -1,6 +1,6 @@
 ---
 title: has_leader_lines proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 210
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_leader_lines proprietà
 
-Vero se la serie ha linee guida.
+Vero se la serie ha delle linee guida.
 ###  Definizione:
 ```python
 @property

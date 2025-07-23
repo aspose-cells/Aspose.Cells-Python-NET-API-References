@@ -1,9 +1,9 @@
 ---
 title: Hyperlink класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 840
+weight: 820
 url: /ru/aspose.cells/hyperlink/
 is_root: false
 ---
@@ -18,16 +18,16 @@ is_root: false
 | Свойство| Описание|
 | :- | :- |
 | [address](/cells/python-net/ru/aspose.cells/hyperlink/address) | Представляет адрес гиперссылки.|
-| [text_to_display](/cells/python-net/ru/aspose.cells/hyperlink/text_to_display) | Представляет текст, отображаемый для указанной гиперссылки. Значением по умолчанию является адрес гиперссылки.|
+| [text_to_display](/cells/python-net/ru/aspose.cells/hyperlink/text_to_display) | Представляет текст, отображаемый для указанной гиперссылки. Значение по умолчанию — адрес гиперссылки.|
 | [area](/cells/python-net/ru/aspose.cells/hyperlink/area) | Получает диапазон гиперссылки.|
-| [screen_tip](/cells/python-net/ru/aspose.cells/hyperlink/screen_tip) | Возвращает или задает текст всплывающей подсказки для указанной гиперссылки.|
+| [screen_tip](/cells/python-net/ru/aspose.cells/hyperlink/screen_tip) | Возвращает или задает текст подсказки для указанной гиперссылки.|
 | [link_type](/cells/python-net/ru/aspose.cells/hyperlink/link_type) | Получает тип ссылки.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [delete](/cells/python-net/ru/aspose.cells/hyperlink/delete/#) |Удаляет эту гиперссылку|
+| [`delete(self)`](/cells/python-net/ru/aspose.cells/hyperlink/delete/#) | Удаляет эту гиперссылку|
 
 
 

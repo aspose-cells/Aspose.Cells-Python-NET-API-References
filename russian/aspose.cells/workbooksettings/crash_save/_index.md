@@ -1,6 +1,6 @@
 ---
 title: crash_save недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 130
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  crash_save недвижимость
 
-указывает, сохраняло ли приложение последний раз файл книги после сбоя.
+указывает, сохраняло ли приложение файл рабочей книги в последний раз после сбоя.
 ###  Определение:
 ```python
 @property

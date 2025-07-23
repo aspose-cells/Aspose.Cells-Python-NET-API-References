@@ -1,18 +1,19 @@
 ---
 title: is_rich_text метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 270
+weight: 280
 url: /ru/aspose.cells/cell/is_rich_text/
 is_root: false
 ---
-##  is_rich_text {#}
-Указывает, является ли строковое значение этой ячейки форматированным текстом.
+##  is_rich_text(self) {#}
+Указывает, является ли строковое значение этой ячейки текстом в расширенном формате.
 
 
 
 ```python
+
 def is_rich_text(self):
     ...
 ```

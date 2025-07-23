@@ -1,6 +1,6 @@
 ---
 title: original_data_source недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -21,5 +21,5 @@ def original_data_source(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ExternalLink](/cells/python-net/ru/aspose.cells/externallink)
+* модуль [`aspose.cells`](../../)
+* класс [`ExternalLink`](/cells/python-net/ru/aspose.cells/externallink)

@@ -1,18 +1,19 @@
 ---
-title: metodo set_license
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo set_license
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells/license/set_license/
 is_root: false
 ---
-##  set_license(license_name) {#str}
+##  set_license(self, license_name) {#str}
 Concede in licenza il componente.
 
 
 
 ```python
+
 def set_license(self, license_name):
     ...
 ```
@@ -23,25 +24,25 @@ def set_license(self, license_name):
 | license_name | str |  |
 ###  Osservazioni
 
-Tenta di trovare la licenza nelle seguenti posizioni:
+Prova a trovare la licenza nelle seguenti posizioni:
 
 
 1. Percorso esplicito.
 
 
-2. La cartella che contiene l'assieme del componente Aspose.
+2. La cartella che contiene l'assemblaggio del componente Aspose.
 
 
 3. La cartella che contiene l'assembly chiamante del client.
 
 
-4. La cartella che contiene l'assembly della voce (avvio).
+4. La cartella che contiene l'assembly di ingresso (avvio).
 
 
 5. Una risorsa incorporata nell'assembly chiamante del client.
 
 
-**Nota:** Nel Compact Framework .NET, tenta di trovare la licenza solo in queste posizioni:
+**Nota:**Nel Compact Framework .NET, prova a trovare la licenza solo in queste posizioni:
 
 
 1. Percorso esplicito.
@@ -56,7 +57,7 @@ In questo esempio, verrà effettuato un tentativo di trovare un file di licenza 
 
 
 il componente, nella cartella che contiene l'assembly chiamante,
-nella cartella dell'assembly di ingresso e quindi nelle risorse incorporate dell'assembly chiamante.
+nella cartella dell'assembly di immissione e quindi nelle risorse incorporate dell'assembly chiamante.
 
 ```python
 from aspose.cells import License
@@ -65,16 +66,17 @@ license = License()
 license.set_license("MyLicense.lic")
 
 ```
-Può essere un nome file completo o breve o il nome di una risorsa incorporata.
+Può essere il nome completo o breve di un file oppure il nome di una risorsa incorporata.
 Utilizzare una stringa vuota per passare alla modalità di valutazione.
 
 
-##  set_license(stream) {#io.RawIOBase}
+##  set_license(self, stream) {#io.RawIOBase}
 Concede in licenza il componente.
 
 
 
 ```python
+
 def set_license(self, stream):
     ...
 ```
@@ -82,10 +84,10 @@ def set_license(self, stream):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| stream | io.RawIOBase | Un flusso che contiene la licenza.|
+| stream | io.RawIOBase |Un flusso che contiene la licenza.|
 ###  Osservazioni
 
-Utilizzare questo metodo per caricare una licenza da un flusso.
+Utilizza questo metodo per caricare una licenza da uno stream.
 ###  Esempio
 
 
@@ -100,5 +102,5 @@ license.set_license(myStream)
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [License](/cells/python-net/it/aspose.cells/license)
+* modulo [`aspose.cells`](../../)
+* classe [`License`](/cells/python-net/it/aspose.cells/license)

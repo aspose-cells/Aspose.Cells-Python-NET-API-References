@@ -1,6 +1,6 @@
 ---
 title: gap_width недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 310
@@ -10,7 +10,7 @@ is_root: false
 ##  gap_width недвижимость
 
 Возвращает или задает расстояние между кластерами полос или столбцов в процентах от ширины полосы или столбца.
-Значение этого свойства должно находиться в диапазоне от 0 до 500.
+Значение этого свойства должно быть от 0 до 500.
 ###  Определение:
 ```python
 @property

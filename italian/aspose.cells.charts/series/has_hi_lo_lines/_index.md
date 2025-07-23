@@ -1,6 +1,6 @@
 ---
 title: has_hi_lo_lines proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 200
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  has_hi_lo_lines proprietà
 
- Vero se il grafico a linee presenta linee massimo-minimo.
-Si applica solo ai grafici a linee.
+ Vero se il grafico a linee presenta linee alte e basse.
+Si applica solo ai grafici lineari.
 ###  Definizione:
 ```python
 @property

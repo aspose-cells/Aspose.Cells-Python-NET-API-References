@@ -1,6 +1,6 @@
 ---
 title: WebExtensionBinding класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
@@ -8,16 +8,16 @@ url: /ru/aspose.cells.webextensions/webextensionbinding/
 is_root: false
 ---
 ##  WebExtensionBinding класс
-Представляет отношение привязки между надстройкой Office и данными в документе.
+Представляет собой обязательную связь между надстройкой Office и данными в документе.
 
 
 
-Тип WebExtensionBinding предоставляет следующие члены:
+Тип WebExtensionBinding предоставляет следующие элементы:
 
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [WebExtensionBinding()](/cells/python-net/ru/aspose.cells.webextensions/webextensionbinding/__init__/#) | Создает новый экземпляр WebExtensionBinding|
+| [`__init__(self)`](/cells/python-net/ru/aspose.cells.webextensions/webextensionbinding/__init__/#) |Создает новый экземпляр WebExtensionBinding|
 
 
 ###  Характеристики
@@ -25,9 +25,9 @@ is_root: false
 | :- | :- |
 | [id](/cells/python-net/ru/aspose.cells.webextensions/webextensionbinding/id) | Получает и задает идентификатор привязки.|
 | [type](/cells/python-net/ru/aspose.cells.webextensions/webextensionbinding/type) | Получает и задает тип привязки.|
-| [appref](/cells/python-net/ru/aspose.cells.webextensions/webextensionbinding/appref) | Получает и задает ключ привязки, используемый для сопоставления записи привязки в этом списке со связанными данными в документе.|
+| [appref](/cells/python-net/ru/aspose.cells.webextensions/webextensionbinding/appref) | Возвращает и задает ключ привязки, используемый для сопоставления записи привязки в этом списке со связанными данными в документе.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.webextensions](..)
+* модуль [`aspose.cells.webextensions`](..)

@@ -1,9 +1,9 @@
 ---
 title: width_cm proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1350
+weight: 1360
 url: /it/aspose.cells.drawing/oleobject/width_cm/
 is_root: false
 ---

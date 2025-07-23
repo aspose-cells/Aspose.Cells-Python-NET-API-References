@@ -1,6 +1,6 @@
 ---
 title: is_date_time proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 290
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_date_time proprietà
 
-Indica se il formato numero è un formato data.
+Indica se il formato numerico è un formato data.
 ###  Definizione:
 ```python
 @property

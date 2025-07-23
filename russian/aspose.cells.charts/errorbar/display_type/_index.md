@@ -1,6 +1,6 @@
 ---
 title: display_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 110
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_type недвижимость
 
-Представляет тип отображения полосы ошибок.
+Представляет собой тип отображения панели погрешностей.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def display_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [ErrorBar](/cells/python-net/ru/aspose.cells.charts/errorbar)
-* класс [ErrorBarDisplayType](/cells/python-net/ru/aspose.cells.charts/errorbardisplaytype)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`ErrorBar`](/cells/python-net/ru/aspose.cells.charts/errorbar)
+* класс [`ErrorBarDisplayType`](/cells/python-net/ru/aspose.cells.charts/errorbardisplaytype)

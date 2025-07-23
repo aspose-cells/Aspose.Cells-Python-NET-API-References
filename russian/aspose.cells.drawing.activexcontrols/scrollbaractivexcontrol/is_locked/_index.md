@@ -1,6 +1,6 @@
 ---
 title: is_locked недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 110
@@ -8,8 +8,6 @@ url: /ru/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/is_locked/
 is_root: false
 ---
 ##  is_locked недвижимость
-
-Указывает, заблокированы ли данные в элементе управления для редактирования.
 ###  Определение:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_locked(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [ScrollBarActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`ScrollBarActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

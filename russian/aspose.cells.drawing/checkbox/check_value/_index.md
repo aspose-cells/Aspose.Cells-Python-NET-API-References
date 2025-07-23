@@ -1,22 +1,22 @@
 ---
 title: check_value недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 320
+weight: 330
 url: /ru/aspose.cells.drawing/checkbox/check_value/
 is_root: false
 ---
 ##  check_value недвижимость
 
-Получает или устанавливает значение флажка.
+Получает или задает значение флажка.
 
 ###  Примечания
 
- ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
+ ПРИМЕЧАНИЕ: Этот элемент устарел. Вместо этого,
  используйте свойство CheckBox.CheckValueType.
- Этот объект недвижимости будет удален через 12 месяцев, начиная с июня 2010 года.
-Aspose приносит извинения за возможные неудобства.
+ Эта недвижимость будет снесена через 12 месяцев с июня 2010 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 ###  Определение:
 ```python
 @property

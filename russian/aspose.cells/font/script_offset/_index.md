@@ -1,6 +1,6 @@
 ---
 title: script_offset недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 170
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  script_offset недвижимость
 
-Получает и задает смещение скрипта в процентах
+Получает и задает смещение скрипта в процентах.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def script_offset(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Font](/cells/python-net/ru/aspose.cells/font)
+* модуль [`aspose.cells`](../../)
+* класс [`Font`](/cells/python-net/ru/aspose.cells/font)

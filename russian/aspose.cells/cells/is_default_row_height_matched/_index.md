@@ -1,9 +1,9 @@
 ---
 title: is_default_row_height_matched недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1050
+weight: 1080
 url: /ru/aspose.cells/cells/is_default_row_height_matched/
 is_root: false
 ---

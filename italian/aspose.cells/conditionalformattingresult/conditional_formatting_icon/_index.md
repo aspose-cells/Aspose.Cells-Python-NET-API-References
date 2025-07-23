@@ -1,6 +1,6 @@
 ---
 title: conditional_formatting_icon proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -18,6 +18,6 @@ def conditional_formatting_icon(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ConditionalFormattingIcon](/cells/python-net/it/aspose.cells/conditionalformattingicon)
-* classe [ConditionalFormattingResult](/cells/python-net/it/aspose.cells/conditionalformattingresult)
+* modulo [`aspose.cells`](../../)
+* classe [`ConditionalFormattingIcon`](/cells/python-net/it/aspose.cells/conditionalformattingicon)
+* classe [`ConditionalFormattingResult`](/cells/python-net/it/aspose.cells/conditionalformattingresult)

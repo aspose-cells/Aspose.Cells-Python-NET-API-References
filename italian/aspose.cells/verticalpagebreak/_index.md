@@ -1,9 +1,9 @@
 ---
 title: VerticalPageBreak classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1630
+weight: 1540
 url: /it/aspose.cells/verticalpagebreak/
 is_root: false
 ---

@@ -1,15 +1,16 @@
 ---
 title: is_printable proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 630
+weight: 640
 url: /it/aspose.cells.drawing/commentshape/is_printable/
 is_root: false
 ---
 ##  is_printable proprietà
 
-Vero se l'oggetto è stampabile
+Indica se l'oggetto è stampabile.
+Se False, questa forma non verrà stampata durante la stampa.
 
 ###  Esempio
 

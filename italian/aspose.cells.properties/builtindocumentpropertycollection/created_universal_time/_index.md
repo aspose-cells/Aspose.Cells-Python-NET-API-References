@@ -1,15 +1,15 @@
 ---
 title: created_universal_time proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 180
+weight: 190
 url: /it/aspose.cells.properties/builtindocumentpropertycollection/created_universal_time/
 is_root: false
 ---
 ##  created_universal_time proprietà
 
-Ottiene o imposta l'ora universale della creazione del documento.
+Ottiene o imposta l'ora universale di creazione del documento.
 
 ###  Osservazioni
 
@@ -25,5 +25,5 @@ def created_universal_time(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.properties](../../)
-* classe [BuiltInDocumentPropertyCollection](/cells/python-net/it/aspose.cells.properties/builtindocumentpropertycollection)
+* modulo [`aspose.cells.properties`](../../)
+* classe [`BuiltInDocumentPropertyCollection`](/cells/python-net/it/aspose.cells.properties/builtindocumentpropertycollection)

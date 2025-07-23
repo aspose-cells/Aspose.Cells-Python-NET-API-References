@@ -1,6 +1,6 @@
 ---
 title: header_margin proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 340
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  header_margin proprietà
 
-Rappresenta la distanza dalla parte superiore della pagina all'intestazione, in unità di centimetri.
+Rappresenta la distanza tra la parte superiore della pagina e l'intestazione, in centimetri.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def header_margin(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/it/aspose.cells/pagesetup)
+* modulo [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/it/aspose.cells/pagesetup)

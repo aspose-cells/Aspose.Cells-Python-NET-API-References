@@ -1,6 +1,6 @@
 ---
 title: group_level proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -15,8 +15,11 @@ Ottiene il livello di gruppo della colonna.
 @property
 def group_level(self):
     ...
+@group_level.setter
+def group_level(self, value):
+    ...
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Column](/cells/python-net/it/aspose.cells/column)
+* modulo [`aspose.cells`](../../)
+* classe [`Column`](/cells/python-net/it/aspose.cells/column)

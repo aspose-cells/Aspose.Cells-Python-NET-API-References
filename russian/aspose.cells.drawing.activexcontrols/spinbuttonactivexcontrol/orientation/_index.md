@@ -1,6 +1,6 @@
 ---
 title: orientation недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 200
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  orientation недвижимость
 
-Получает и задает вертикальную или горизонтальную ориентацию SpinButton или ScrollBar.
+Возвращает и задает вертикальную или горизонтальную ориентацию SpinButton или ScrollBar.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def orientation(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [ControlScrollOrientation](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/controlscrollorientation)
-* класс [SpinButtonActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`ControlScrollOrientation`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/controlscrollorientation)
+* класс [`SpinButtonActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

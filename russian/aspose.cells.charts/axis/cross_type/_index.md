@@ -1,6 +1,6 @@
 ---
 title: cross_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 120
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cross_type недвижимость
 
-Представляет [`Axis.cross_type`](/cells/python-net/ru/aspose.cells.charts/axis#cross_type) на указанной оси в месте пересечения другой оси.
+Представляет собой [`Axis.cross_type`](/cells/python-net/ru/aspose.cells.charts/axis#cross_type) на указанной оси, где пересекается другая ось.
 ###  Определение:
 ```python
 @property

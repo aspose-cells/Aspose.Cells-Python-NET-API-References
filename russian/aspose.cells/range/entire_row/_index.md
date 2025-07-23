@@ -1,15 +1,15 @@
 ---
 title: entire_row недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 310
+weight: 410
 url: /ru/aspose.cells/range/entire_row/
 is_root: false
 ---
 ##  entire_row недвижимость
 
-Получает объект Range, представляющий всю строку (или строки), содержащую указанный диапазон.
+Возвращает объект Range, представляющий всю строку (или строки), содержащую указанный диапазон.
 ###  Определение:
 ```python
 @property

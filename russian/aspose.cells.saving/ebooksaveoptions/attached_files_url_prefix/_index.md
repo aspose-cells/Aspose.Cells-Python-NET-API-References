@@ -1,15 +1,15 @@
 ---
 title: attached_files_url_prefix недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 50
+weight: 60
 url: /ru/aspose.cells.saving/ebooksaveoptions/attached_files_url_prefix/
 is_root: false
 ---
 ##  attached_files_url_prefix недвижимость
 
-Укажите префикс URL-адреса прикрепленных файлов, например изображения в html-файле.
+Укажите префикс URL прикрепленных файлов, например изображений в html-файле.
 Только для сохранения в html-поток.
 ###  Определение:
 ```python

@@ -1,19 +1,19 @@
 ---
 title: upper_delta_x недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1200
+weight: 1210
 url: /ru/aspose.cells.drawing/listbox/upper_delta_x/
 is_root: false
 ---
 ##  upper_delta_x недвижимость
 
-Получает или задает горизонтальное смещение фигуры от ее верхнего левого углового столбца.
+Возвращает или задает горизонтальное смещение фигуры от ее верхнего левого углового столбца.
 
 ###  Примечания
 
-Диапазон значений: от 0 до 1024.
+Диапазон значений — от 0 до 1024.
 
 ###  Пример
 

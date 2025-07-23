@@ -1,9 +1,9 @@
 ---
 title: url недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 390
+weight: 460
 url: /ru/aspose.cells.externalconnections/webqueryconnection/url/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def url(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.externalconnections](../../)
-* класс [WebQueryConnection](/cells/python-net/ru/aspose.cells.externalconnections/webqueryconnection)
+* модуль [`aspose.cells.externalconnections`](../../)
+* класс [`WebQueryConnection`](/cells/python-net/ru/aspose.cells.externalconnections/webqueryconnection)

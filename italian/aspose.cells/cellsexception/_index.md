@@ -1,14 +1,14 @@
 ---
 title: CellsException classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 220
+weight: 190
 url: /it/aspose.cells/cellsexception/
 is_root: false
 ---
 ##  CellsException classe
-L'eccezione che viene generata quando si verifica l'errore specificato Aspose.Cells.
+Eccezione generata quando si verifica l'errore specificato Aspose.Cells.
 
 
 

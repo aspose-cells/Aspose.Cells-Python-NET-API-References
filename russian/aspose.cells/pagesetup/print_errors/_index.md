@@ -1,6 +1,6 @@
 ---
 title: print_errors недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 550
@@ -21,6 +21,6 @@ def print_errors(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PageSetup](/cells/python-net/ru/aspose.cells/pagesetup)
-* класс [PrintErrorsType](/cells/python-net/ru/aspose.cells/printerrorstype)
+* модуль [`aspose.cells`](../../)
+* класс [`PageSetup`](/cells/python-net/ru/aspose.cells/pagesetup)
+* класс [`PrintErrorsType`](/cells/python-net/ru/aspose.cells/printerrorstype)

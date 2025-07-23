@@ -1,6 +1,6 @@
 ---
 title: check_excel_restriction proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  check_excel_restriction proprietà
 
-Se controllare la restrizione del file excel quando l'utente modifica gli oggetti relativi alle celle.
-Ad esempio, Excel non consente di inserire un valore di stringa più lungo di 32K.
-Quando inserisci un valore più lungo di 32K, ad esempio Cell.PutValue(string), se questa proprietà è true, otterrai un'eccezione.
+Se verificare la restrizione del file Excel quando l'utente modifica celle con oggetti correlati.
+Ad esempio, Excel non consente di immettere valori stringa più lunghi di 32K.
+Quando si immette un valore più lungo di 32K, ad esempio Cell.PutValue(string), se questa proprietà è vera, si otterrà un'eccezione.
 Se questa proprietà è falsa, accetteremo il valore della stringa di input come valore della cella in modo che in seguito
-puoi emettere il valore di stringa completo per altri formati di file come CSV.
-Tuttavia, se hai impostato un tipo di valore non valido per il formato di file excel,
-non dovresti salvare la cartella di lavoro come formato di file excel in un secondo momento. Altrimenti potrebbe esserci un errore imprevisto per il file excel generato.
+è possibile restituire il valore stringa completo per altri formati di file, ad esempio CSV.
+Tuttavia, se hai impostato un valore di questo tipo che non è valido per il formato di file Excel,
+Non salvare la cartella di lavoro in formato Excel in un secondo momento. In caso contrario, potrebbe verificarsi un errore imprevisto nel file Excel generato.
 ###  Definizione:
 ```python
 @property
@@ -27,5 +27,5 @@ def check_excel_restriction(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [XmlLoadOptions](/cells/python-net/it/aspose.cells/xmlloadoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`XmlLoadOptions`](/cells/python-net/it/aspose.cells/xmlloadoptions)

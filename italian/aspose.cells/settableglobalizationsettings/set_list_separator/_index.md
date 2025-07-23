@@ -1,18 +1,19 @@
 ---
 title: Metodo set_list_separator
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 330
 url: /it/aspose.cells/settableglobalizationsettings/set_list_separator/
 is_root: false
 ---
-##  set_list_separator {#char}
-Imposta il separatore per elenco, parametri di funzione, ... ecc.
+##  set_list_separator(self, c) {#char}
+Imposta il separatore per l'elenco, i parametri della funzione, ecc.
 
 
 
 ```python
+
 def set_list_separator(self, c):
     ...
 ```

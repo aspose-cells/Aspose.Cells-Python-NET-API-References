@@ -1,6 +1,6 @@
 ---
 title: alert_style proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 150
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  alert_style proprietà
 
-Rappresenta lo stile dell'avviso di convalida.
+Rappresenta lo stile di avviso di convalida.
 ###  Definizione:
 ```python
 @property

@@ -1,15 +1,15 @@
 ---
 title: bottom недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 310
+weight: 320
 url: /ru/aspose.cells.drawing/chartshape/bottom/
 is_root: false
 ---
 ##  bottom недвижимость
 
-Представляет ширину вертикального смещения фигуры от нижнего углового ряда bottom в пикселях.
+Представляет ширину вертикального смещения фигуры от ее нижней угловой строки bottom в пикселях.
 
 ###  Пример
 

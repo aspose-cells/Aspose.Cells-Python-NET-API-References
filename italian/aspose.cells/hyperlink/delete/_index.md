@@ -1,18 +1,19 @@
 ---
-title: metodo delete
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo delete
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells/hyperlink/delete/
 is_root: false
 ---
-##  delete() {#}
+##  delete(self) {#}
 Elimina questo collegamento ipertestuale
 
 
 
 ```python
+
 def delete(self):
     ...
 ```
@@ -22,5 +23,5 @@ def delete(self):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Hyperlink](/cells/python-net/it/aspose.cells/hyperlink)
+* modulo [`aspose.cells`](../../)
+* classe [`Hyperlink`](/cells/python-net/it/aspose.cells/hyperlink)

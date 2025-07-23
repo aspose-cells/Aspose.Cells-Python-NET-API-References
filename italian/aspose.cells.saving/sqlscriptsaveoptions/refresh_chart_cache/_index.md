@@ -1,9 +1,9 @@
 ---
 title: refresh_chart_cache proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 180
+weight: 200
 url: /it/aspose.cells.saving/sqlscriptsaveoptions/refresh_chart_cache/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def refresh_chart_cache(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.saving](../../)
-* classe [SqlScriptSaveOptions](/cells/python-net/it/aspose.cells.saving/sqlscriptsaveoptions)
+* modulo [`aspose.cells.saving`](../../)
+* classe [`SqlScriptSaveOptions`](/cells/python-net/it/aspose.cells.saving/sqlscriptsaveoptions)

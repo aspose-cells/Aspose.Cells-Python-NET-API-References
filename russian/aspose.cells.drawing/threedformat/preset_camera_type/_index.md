@@ -1,6 +1,6 @@
 ---
 title: preset_camera_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 150
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  preset_camera_type недвижимость
 
-Получает и задает тип предустановленной камеры выдавливания.
+Получает и задает тип камеры предустановки выдавливания.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def preset_camera_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [PresetCameraType](/cells/python-net/ru/aspose.cells.drawing/presetcameratype)
-* класс [ThreeDFormat](/cells/python-net/ru/aspose.cells.drawing/threedformat)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`PresetCameraType`](/cells/python-net/ru/aspose.cells.drawing/presetcameratype)
+* класс [`ThreeDFormat`](/cells/python-net/ru/aspose.cells.drawing/threedformat)

@@ -1,6 +1,6 @@
 ---
 title: threaded_comments недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 230
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  threaded_comments недвижимость
 
-Получает список цепочек комментариев;
+Получает список связанных комментариев;
 
 ###  Пример
 

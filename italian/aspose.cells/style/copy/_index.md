@@ -1,18 +1,19 @@
 ---
-title: metodo copy
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo copy
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells/style/copy/
 is_root: false
 ---
-##  copy(style) {#Style}
+##  copy(self, style) {#aspose.cells.Style}
 Copia i dati da un altro oggetto di stile
 
 
 
 ```python
+
 def copy(self, style):
     ...
 ```
@@ -20,14 +21,14 @@ def copy(self, style):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| style | [Style](/cells/python-net/it/aspose.cells/style) | Oggetto stile di origine|
+| style | [`Style`](/cells/python-net/it/aspose.cells/style) | Oggetto Stile sorgente|
 ###  Osservazioni
 
 Questo metodo non copy il nome dello stile.
-Se si desidera copy il nome, si prega di chiamare i seguenti codici dopo aver copiato lo stile:
-destStyle.Name = style.Name.
+Se vuoi conoscere il nome copy, chiama i seguenti codici dopo aver copiato lo stile:
+destStyle.Name = stile.Nome.
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Style](/cells/python-net/it/aspose.cells/style)
+* modulo [`aspose.cells`](../../)
+* classe [`Style`](/cells/python-net/it/aspose.cells/style)

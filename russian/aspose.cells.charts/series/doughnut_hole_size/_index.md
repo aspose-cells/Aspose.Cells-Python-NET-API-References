@@ -1,6 +1,6 @@
 ---
 title: doughnut_hole_size недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 120
@@ -10,7 +10,7 @@ is_root: false
 ##  doughnut_hole_size недвижимость
 
  Возвращает или задает размер отверстия в группе кольцевых диаграмм.
-Размер отверстия выражается в процентах от размера диаграммы (от 10 до 90 процентов).
+Размер отверстия выражается в процентах от размера диаграммы и составляет от 10 до 90 процентов.
 ###  Определение:
 ```python
 @property

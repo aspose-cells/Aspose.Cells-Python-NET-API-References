@@ -1,22 +1,22 @@
 ---
 title: source_full_name недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1070
+weight: 1080
 url: /ru/aspose.cells.drawing/oleobject/source_full_name/
 is_root: false
 ---
 ##  source_full_name недвижимость
 
-Возвращает исходное полное имя исходного файла для связанного объекта OLE.
+Возвращает полное имя исходного файла для связанного объекта OLE.
 
 ###  Примечания
 
- ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
+ ПРИМЕЧАНИЕ: Этот элемент устарел. Вместо этого,
 используйте свойство OleObject.ObjectSourceFullName.
- Этот объект недвижимости будет удален через 12 месяцев, начиная с ноября 2013 года.
-Aspose приносит извинения за возможные неудобства.
+ Это имущество будет снесено через 12 месяцев с ноября 2013 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 ###  Определение:
 ```python
 @property

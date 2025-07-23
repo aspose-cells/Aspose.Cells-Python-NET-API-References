@@ -1,6 +1,6 @@
 ---
 title: OdsGeneratorType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -8,11 +8,11 @@ url: /ru/aspose.cells.ods/odsgeneratortype/
 is_root: false
 ---
 ##  OdsGeneratorType перечисление
-Представляет собой генератор типа ODS.
+Представляет собой тип генератора ODS.
 
 
 
-Тип OdsGeneratorType предоставляет следующие члены:
+Тип OdsGeneratorType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -23,4 +23,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.ods](..)
+* модуль [`aspose.cells.ods`](..)

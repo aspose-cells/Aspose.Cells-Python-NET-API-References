@@ -1,28 +1,28 @@
 ---
-title: ActiveXPersistenceType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione ActiveXPersistenceType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 150
+weight: 130
 url: /it/aspose.cells.drawing.activexcontrols/activexpersistencetype/
 is_root: false
 ---
-##  ActiveXPersistenceType enumerazione
-Rappresenta il metodo di persistenza per persistere un controllo ActiveX.
+##  Enumerazione ActiveXPersistenceType
+Rappresenta il metodo di persistenza per rendere persistente un controllo ActiveX.
 
 
 
-Il tipo ActiveXPersistenceType espone i membri seguenti:
+Il tipo ActiveXPersistenceType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
 | PROPERTY_BAG | I dati vengono memorizzati come dati xml.|
-| STORAGE | I dati vengono archiviati come dati binari di archiviazione.|
-| STREAM | I dati vengono archiviati come un flusso di dati binari.|
+| STORAGE | I dati vengono memorizzati come dati binari di archiviazione.|
+| STREAM | I dati vengono memorizzati come flusso di dati binari.|
 | STREAM_INIT | I dati vengono memorizzati come dati binari streaminit.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](..)
+* modulo [`aspose.cells.drawing.activexcontrols`](..)

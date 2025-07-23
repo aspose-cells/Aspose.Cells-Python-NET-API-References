@@ -1,9 +1,9 @@
 ---
 title: sort_names proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 120
+weight: 140
 url: /it/aspose.cells/xlsbsaveoptions/sort_names/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def sort_names(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [XlsbSaveOptions](/cells/python-net/it/aspose.cells/xlsbsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`XlsbSaveOptions`](/cells/python-net/it/aspose.cells/xlsbsaveoptions)

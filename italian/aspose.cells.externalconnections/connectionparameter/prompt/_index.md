@@ -1,6 +1,6 @@
 ---
 title: prompt proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  prompt proprietà
 
- Stringa di prompt per il parametro. Presentato all'utente del foglio di calcolo insieme all'interfaccia utente di input
- per raccogliere il valore del parametro prima di aggiornare i dati esterni. Usato solo quando
+ Stringa di richiesta per il parametro. Presentata all'utente del foglio di calcolo insieme all'interfaccia utente di input.
+ per raccogliere il valore del parametro prima di aggiornare i dati esterni. Utilizzato solo quando
 parametroType = prompt.
 ###  Definizione:
 ```python
@@ -23,5 +23,5 @@ def prompt(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.externalconnections](../../)
-* classe [ConnectionParameter](/cells/python-net/it/aspose.cells.externalconnections/connectionparameter)
+* modulo [`aspose.cells.externalconnections`](../../)
+* classe [`ConnectionParameter`](/cells/python-net/it/aspose.cells.externalconnections/connectionparameter)

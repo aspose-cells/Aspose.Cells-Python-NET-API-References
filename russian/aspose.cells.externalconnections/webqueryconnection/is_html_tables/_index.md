@@ -1,9 +1,9 @@
 ---
 title: is_html_tables недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 140
+weight: 190
 url: /ru/aspose.cells.externalconnections/webqueryconnection/is_html_tables/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_html_tables(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.externalconnections](../../)
-* класс [WebQueryConnection](/cells/python-net/ru/aspose.cells.externalconnections/webqueryconnection)
+* модуль [`aspose.cells.externalconnections`](../../)
+* класс [`WebQueryConnection`](/cells/python-net/ru/aspose.cells.externalconnections/webqueryconnection)

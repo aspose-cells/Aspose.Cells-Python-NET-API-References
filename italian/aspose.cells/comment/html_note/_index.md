@@ -1,6 +1,6 @@
 ---
 title: html_note proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 150
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  html_note proprietà
 
-Ottiene e imposta la stringa html che contiene i dati e alcuni formati in questo commento.
+Ottiene e imposta la stringa HTML che contiene dati e alcuni formati in questo commento.
 
 ###  Osservazioni
 
-Se si tratta di un commento in thread, la nota non potrà essere modificata, altrimenti MS Excel non potrebbe elaborarla come commento in thread.
+Se si tratta di un commento concatenato, la nota non potrà essere modificata, altrimenti MS Excel non potrà elaborarla come commento concatenato.
 
 ###  Esempio
 

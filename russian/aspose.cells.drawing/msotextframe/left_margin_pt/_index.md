@@ -1,6 +1,6 @@
 ---
 title: left_margin_pt недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  left_margin_pt недвижимость
 
-Возвращает левое поле в баллах
+Возвращает левое поле в пунктах.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def left_margin_pt(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [MsoTextFrame](/cells/python-net/ru/aspose.cells.drawing/msotextframe)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`MsoTextFrame`](/cells/python-net/ru/aspose.cells.drawing/msotextframe)

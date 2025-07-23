@@ -1,22 +1,23 @@
 ---
 title: get_printing_page_breaks метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 170
+weight: 180
 url: /ru/aspose.cells/worksheet/get_printing_page_breaks/
 is_root: false
 ---
-##  get_printing_page_breaks {#aspose.cells.rendering.ImageOrPrintOptions}
-Получает автоматические разрывы страниц.
+##  get_printing_page_breaks(self, options) {#aspose.cells.rendering.ImageOrPrintOptions}
+Обеспечивает автоматические разрывы страниц.
 
 
 ###  Возврат
 
-Автоматическая страница разбивает области.
+Области автоматического разрыва страниц.
 
 
 ```python
+
 def get_printing_page_breaks(self, options):
     ...
 ```
@@ -24,10 +25,10 @@ def get_printing_page_breaks(self, options):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| options | aspose.cells.rendering.ImageOrPrintOptions | Варианты печати|
+| options | aspose.cells.rendering.ImageOrPrintOptions | Параметры печати|
 ###  Примечания
 
-Каждая область ячейки представляет собой бумагу.
+Каждая ячейка представляет собой лист бумаги.
 
 
 ###  Смотрите также

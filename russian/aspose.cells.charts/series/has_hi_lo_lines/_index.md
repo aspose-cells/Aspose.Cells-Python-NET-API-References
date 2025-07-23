@@ -1,6 +1,6 @@
 ---
 title: has_hi_lo_lines недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 200
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  has_hi_lo_lines недвижимость
 
- Истинно, если на линейном графике есть линии максимума и минимума.
-Применяется только к линейным графикам.
+ Истина, если на линейном графике имеются линии максимума и минимума.
+Применимо только к линейным диаграммам.
 ###  Определение:
 ```python
 @property

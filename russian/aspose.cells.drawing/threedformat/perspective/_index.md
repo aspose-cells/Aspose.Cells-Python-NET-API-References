@@ -1,6 +1,6 @@
 ---
 title: perspective недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 140
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  perspective недвижимость
 
-Получает и задает угол, под которым можно просматривать объект ThreeDFormat.
+Возвращает и задает угол, под которым можно просматривать объект ThreeDFormat.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def perspective(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ThreeDFormat](/cells/python-net/ru/aspose.cells.drawing/threedformat)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ThreeDFormat`](/cells/python-net/ru/aspose.cells.drawing/threedformat)

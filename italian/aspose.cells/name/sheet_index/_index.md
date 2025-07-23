@@ -1,6 +1,6 @@
 ---
 title: sheet_index proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 140
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  sheet_index proprietà
 
-Indica che questo nome appartiene a Cartella di lavoro o Foglio di lavoro.
-0 = nome globale, altrimenti indice al foglio (a base uno)
+Indica che questo nome appartiene alla cartella di lavoro o al foglio di lavoro.
+0 = Nome globale, altrimenti indice al foglio (basato su uno)
 ###  Definizione:
 ```python
 @property
@@ -22,5 +22,5 @@ def sheet_index(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Name](/cells/python-net/it/aspose.cells/name)
+* modulo [`aspose.cells`](../../)
+* classe [`Name`](/cells/python-net/it/aspose.cells/name)

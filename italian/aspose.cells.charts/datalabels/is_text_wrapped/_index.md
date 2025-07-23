@@ -1,9 +1,9 @@
 ---
 title: is_text_wrapped proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 250
+weight: 320
 url: /it/aspose.cells.charts/datalabels/is_text_wrapped/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_text_wrapped(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [DataLabels](/cells/python-net/it/aspose.cells.charts/datalabels)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`DataLabels`](/cells/python-net/it/aspose.cells.charts/datalabels)

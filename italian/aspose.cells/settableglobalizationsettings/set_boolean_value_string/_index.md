@@ -1,18 +1,19 @@
 ---
 title: Metodo set_boolean_value_string
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 290
 url: /it/aspose.cells/settableglobalizationsettings/set_boolean_value_string/
 is_root: false
 ---
-##  set_boolean_value_string {#bool-str}
-Imposta il valore della stringa di visualizzazione per il valore booleano della cella
+##  set_boolean_value_string(self, bv, name) {#bool-str}
+Imposta il valore della stringa visualizzata per il valore booleano della cella
 
 
 
 ```python
+
 def set_boolean_value_string(self, bv, name):
     ...
 ```

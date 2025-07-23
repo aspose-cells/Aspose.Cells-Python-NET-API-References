@@ -1,20 +1,20 @@
 ---
 title: width недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 410
+weight: 470
 url: /ru/aspose.cells.charts/legend/width/
 is_root: false
 ---
 ##  width недвижимость
 
-Получает или задает width кадра в единицах 1/4000 области диаграммы.
+Возвращает или задает width кадра в единицах 1/4000 области диаграммы.
 
 ###  Примечания
 
- Как преобразовать единицы 1/4000 в пиксели?
-Ширина в пикселях = Ширина * Chart.ChartObject.Height / 4000;
+ Как перевести единицы измерения 1/4000 в пиксели?
+Ширина в пикселях = Ширина * Chart.ChartObject.Height / 4000d;
 ###  Определение:
 ```python
 @property

@@ -1,6 +1,6 @@
 ---
 title: charset proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -21,5 +21,5 @@ def charset(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Font](/cells/python-net/it/aspose.cells/font)
+* modulo [`aspose.cells`](../../)
+* classe [`Font`](/cells/python-net/it/aspose.cells/font)

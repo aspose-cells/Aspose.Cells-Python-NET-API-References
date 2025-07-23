@@ -1,19 +1,19 @@
 ---
 title: optimization_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 290
+weight: 340
 url: /ru/aspose.cells/pdfsaveoptions/optimization_type/
 is_root: false
 ---
 ##  optimization_type недвижимость
 
-Получает и устанавливает тип оптимизации PDF.
+Получает и задает тип оптимизации PDF.
 
 ###  Примечания
 
-Значение по умолчанию: [PdfOptimizationType.STANDARD](/cells/python-net/ru/aspose.cells.rendering/pdfoptimizationtype#STANDARD).
+Значение по умолчанию: [`PdfOptimizationType.STANDARD`](/cells/python-net/ru/aspose.cells.rendering/pdfoptimizationtype#STANDARD)
 ###  Определение:
 ```python
 @property
@@ -25,6 +25,6 @@ def optimization_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PdfOptimizationType](/cells/python-net/ru/aspose.cells.rendering/pdfoptimizationtype)
-* класс [PdfSaveOptions](/cells/python-net/ru/aspose.cells/pdfsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`PdfOptimizationType`](/cells/python-net/ru/aspose.cells.rendering/pdfoptimizationtype)
+* класс [`PdfSaveOptions`](/cells/python-net/ru/aspose.cells/pdfsaveoptions)

@@ -1,6 +1,6 @@
 ---
 title: is_dropdown_visible proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -21,5 +21,5 @@ def is_dropdown_visible(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FilterColumn](/cells/python-net/it/aspose.cells/filtercolumn)
+* modulo [`aspose.cells`](../../)
+* classe [`FilterColumn`](/cells/python-net/it/aspose.cells/filtercolumn)

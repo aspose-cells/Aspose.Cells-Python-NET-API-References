@@ -1,15 +1,15 @@
 ---
 title: x недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1230
+weight: 1240
 url: /ru/aspose.cells.drawing/dialogbox/x/
 is_root: false
 ---
 ##  x недвижимость
 
-Получает и задает горизонтальное смещение фигуры от левой границы листа в пикселях.
+Возвращает и задает горизонтальное смещение фигуры от левой границы листа в пикселях.
 
 ###  Пример
 

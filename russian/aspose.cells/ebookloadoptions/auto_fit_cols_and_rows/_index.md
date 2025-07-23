@@ -1,6 +1,6 @@
 ---
 title: auto_fit_cols_and_rows недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  auto_fit_cols_and_rows недвижимость
 
-Указывает, подгоняются ли столбцы и строки автоматически. Значение по умолчанию неверно.
+Указывает, следует ли использовать автоподбор столбцов и строк. Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property

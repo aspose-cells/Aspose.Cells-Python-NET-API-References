@@ -1,23 +1,23 @@
 ---
-title: classe CellArea
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: CellArea classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 150
+weight: 120
 url: /it/aspose.cells/cellarea/
 is_root: false
 ---
-##  classe CellArea
-Rappresenta un'area di celle.
+##  CellArea classe
+Rappresenta un'area di cellule.
 
 
 
-Il tipo CellArea espone i membri seguenti:
+Il tipo CellArea espone i seguenti membri:
 
 ###  Costruttori
 | Costruttore| Descrizione|
 | :- | :- |
-| [CellArea()](/cells/python-net/it/aspose.cells/cellarea/__init__/#) | Costruisce una nuova istanza di CellArea|
+| [`__init__(self)`](/cells/python-net/it/aspose.cells/cellarea/__init__/#) | Costruisce una nuova istanza di CellArea|
 
 
 ###  Proprietà
@@ -25,16 +25,16 @@ Il tipo CellArea espone i membri seguenti:
 | :- | :- |
 | [start_row](/cells/python-net/it/aspose.cells/cellarea/start_row) | Ottiene o imposta la riga iniziale di quest'area.|
 | [end_row](/cells/python-net/it/aspose.cells/cellarea/end_row) | Ottiene o imposta la riga finale di quest'area.|
-| [start_column](/cells/python-net/it/aspose.cells/cellarea/start_column) |Ottiene o imposta la colonna iniziale di quest'area.|
+| [start_column](/cells/python-net/it/aspose.cells/cellarea/start_column) | Ottiene o imposta la colonna iniziale di quest'area.|
 | [end_column](/cells/python-net/it/aspose.cells/cellarea/end_column) | Ottiene o imposta la colonna finale di quest'area.|
 
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [create_cell_area(start_row, start_column, end_row, end_column)](/cells/python-net/it/aspose.cells/cellarea/create_cell_area/#int-int-int-int) | Crea un'area della cella.|
-| [create_cell_area(start_cell_name, end_cell_name)](/cells/python-net/it/aspose.cells/cellarea/create_cell_area/#str-str) | Crea un'area della cella.|
-| [compare_to(obj)](/cells/python-net/it/aspose.cells/cellarea/compare_to/#any) | Confronta due oggetti CellArea in base al loro angolo in alto a sinistra.|
+| [`create_cell_area(, start_row, start_column, end_row, end_column)`](/cells/python-net/it/aspose.cells/cellarea/create_cell_area/#int-int-int-int) | Crea un'area cella.|
+| [`create_cell_area(, start_cell_name, end_cell_name)`](/cells/python-net/it/aspose.cells/cellarea/create_cell_area/#str-str) | Crea un'area cella.|
+| [`compare_to(self, obj)`](/cells/python-net/it/aspose.cells/cellarea/compare_to/#any) | Confronta due oggetti CellArea in base al loro angolo in alto a sinistra.|
 
 
 
@@ -53,4 +53,4 @@ ca.end_column = 0
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](..)
+* modulo [`aspose.cells`](..)

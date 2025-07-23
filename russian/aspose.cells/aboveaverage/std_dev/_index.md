@@ -1,6 +1,6 @@
 ---
 title: std_dev недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -9,10 +9,10 @@ is_root: false
 ---
 ##  std_dev недвижимость
 
-Получите или задайте количество стандартных отклонений, которое должно быть выше или ниже среднего в
+Получить или задать количество стандартных отклонений, чтобы включить значения выше или ниже среднего в
  правило условного форматирования.
- Вводимое значение должно находиться в диапазоне от 0 до 3 (включая 0 и 3).
-Установка этого значения на 0 означает, что stdDev не установлен.
+ Входное значение должно быть в диапазоне от 0 до 3 (включая 0 и 3).
+Установка этого значения в 0 означает, что stdDev не установлен.
 Значение по умолчанию — 0.
 ###  Определение:
 ```python
@@ -25,5 +25,5 @@ def std_dev(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [AboveAverage](/cells/python-net/ru/aspose.cells/aboveaverage)
+* модуль [`aspose.cells`](../../)
+* класс [`AboveAverage`](/cells/python-net/ru/aspose.cells/aboveaverage)

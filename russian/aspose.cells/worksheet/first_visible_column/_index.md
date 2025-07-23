@@ -1,9 +1,9 @@
 ---
 title: first_visible_column недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 500
+weight: 520
 url: /ru/aspose.cells/worksheet/first_visible_column/
 is_root: false
 ---

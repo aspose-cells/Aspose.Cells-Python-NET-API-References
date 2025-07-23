@@ -1,37 +1,39 @@
 ---
 title: import_data метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
 url: /ru/aspose.cells.utility/jsonutility/import_data/
 is_root: false
 ---
-##  import_data(json, cells, row, column, option) {#str-Cells-int-int-JsonLayoutOptions}
-Импортируйте строку json.
+##  import_data(, json, ячейки, строка, столбец, параметр){#str-aspose.cells.Cells-int-int-aspose.cells.utility.JsonLayoutOptions}
+Импортируйте строку JSON.
 
 
-###  Возвращает
+###  Возврат
 
 
 
 
 ```python
-def import_data(self, json, cells, row, column, option):
+
+@staticmethod
+def import_data(json, cells, row, column, option):
     ...
 ```
 
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| json | str | Строка json.|
-| cells | [Cells](/cells/python-net/ru/aspose.cells/cells) | Cells.|
+| json | str | Строка JSON.|
+| cells | [`Cells`](/cells/python-net/ru/aspose.cells/cells) | Cells.|
 | row | int | Индекс строки.|
 | column | int | Индекс столбца.|
-| option | [JsonLayoutOptions](/cells/python-net/ru/aspose.cells.utility/jsonlayoutoptions) | Варианты импорта строки json.|
+| option | [`JsonLayoutOptions`](/cells/python-net/ru/aspose.cells.utility/jsonlayoutoptions) | Варианты импорта строки JSON.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.utility](../../)
-* класс [JsonUtility](/cells/python-net/ru/aspose.cells.utility/jsonutility)
+* модуль [`aspose.cells.utility`](../../)
+* класс [`JsonUtility`](/cells/python-net/ru/aspose.cells.utility/jsonutility)

@@ -1,6 +1,6 @@
 ---
 title: twiddledlibid недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  twiddledlibid недвижимость
 
-Получает и устанавливает измененную Libid ссылки.
+Получает и задает измененный Libid ссылки.
 
 ###  Примечания
 
@@ -25,5 +25,5 @@ def twiddledlibid(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.vba](../../)
-* класс [VbaProjectReference](/cells/python-net/ru/aspose.cells.vba/vbaprojectreference)
+* модуль [`aspose.cells.vba`](../../)
+* класс [`VbaProjectReference`](/cells/python-net/ru/aspose.cells.vba/vbaprojectreference)

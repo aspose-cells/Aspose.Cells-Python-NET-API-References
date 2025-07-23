@@ -1,6 +1,6 @@
 ---
 title: left недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  left недвижимость
 
-Получает или задает смещение left для растягивания изображения.
+Получает или задает смещение left для растяжения изображения.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def left(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [PicFormatOption](/cells/python-net/ru/aspose.cells.drawing/picformatoption)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`PicFormatOption`](/cells/python-net/ru/aspose.cells.drawing/picformatoption)

@@ -1,15 +1,15 @@
 ---
 title: export_grid_lines недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 260
+weight: 330
 url: /ru/aspose.cells/htmlsaveoptions/export_grid_lines/
 is_root: false
 ---
 ##  export_grid_lines недвижимость
 
-Указывает, экспортируется ли линия сетки. Значение по умолчанию — false.
+Указывает, экспортировать ли линии сетки. Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property

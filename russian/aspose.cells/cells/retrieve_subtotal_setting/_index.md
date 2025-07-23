@@ -1,14 +1,14 @@
 ---
 title: retrieve_subtotal_setting метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 820
+weight: 840
 url: /ru/aspose.cells/cells/retrieve_subtotal_setting/
 is_root: false
 ---
-##  retrieve_subtotal_setting {#aspose.cells.CellArea}
-Получает настройку промежуточных итогов диапазона.
+##  retrieve_subtotal_setting(self, ca) {#aspose.cells.CellArea}
+Извлекает настройки промежуточных итогов диапазона.
 
 
 ###  Возврат
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def retrieve_subtotal_setting(self, ca):
     ...
 ```

@@ -1,15 +1,15 @@
 ---
 title: treat_consecutive_delimiters_as_one proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 430
+weight: 410
 url: /it/aspose.cells/txtloadoptions/treat_consecutive_delimiters_as_one/
 is_root: false
 ---
 ##  treat_consecutive_delimiters_as_one proprietà
 
-Indica se i delimitatori consecutivi devono essere trattati come uno solo.
+Se i delimitatori consecutivi debbano essere trattati come uno solo.
 ###  Definizione:
 ```python
 @property

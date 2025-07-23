@@ -1,22 +1,23 @@
 ---
-title: metodo add_picture
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo add_picture
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 210
+weight: 230
 url: /it/aspose.cells.drawing/shapecollection/add_picture/
 is_root: false
 ---
-##  add_picture(upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream) {#int-int-int-int-io.RawIOBase}
+##  add_picture(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream) {#int-int-int-int-io.RawIOBase}
 Aggiunge un'immagine alla raccolta.
 
 
 ###  ritorna
 
-[Picture](/cells/python-net/it/aspose.cells.drawing/picture) Oggetto immagine.
+[`Picture`](/cells/python-net/it/aspose.cells.drawing/picture) Oggetto immagine.
 
 
 ```python
+
 def add_picture(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream):
     ...
 ```
@@ -25,10 +26,10 @@ def add_picture(self, upper_left_row, upper_left_column, lower_right_row, lower_
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
 | upper_left_row | int | Indice della riga in alto a sinistra.|
-| upper_left_column | int | Indice colonna in alto a sinistra.|
-| lower_right_row | int | Indice riga in basso a destra|
-| lower_right_column | int | Indice colonna in basso a destra|
-| stream | io.RawIOBase | Oggetto Stream che contiene i dati dell'immagine.|
+| upper_left_column | int | Indice della colonna in alto a sinistra.|
+| lower_right_row | int | Indice della riga inferiore destra|
+| lower_right_column | int | Indice della colonna in basso a destra|
+| stream | io.RawIOBase | Oggetto stream contenente i dati dell'immagine.|
 
 ###  Esempio
 
@@ -41,16 +42,17 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-##  add_picture(upper_left_row, upper_left_column, stream, width_scale, height_scale) {#int-int-io.RawIOBase-int-int}
+##  add_picture(self, upper_left_row, upper_left_column, stream, width_scale, height_scale) {#int-int-io.RawIOBase-int-int}
 Aggiunge un'immagine alla raccolta.
 
 
 ###  ritorna
 
-[Picture](/cells/python-net/it/aspose.cells.drawing/picture) Oggetto immagine.
+[`Picture`](/cells/python-net/it/aspose.cells.drawing/picture) Oggetto immagine.
 
 
 ```python
+
 def add_picture(self, upper_left_row, upper_left_column, stream, width_scale, height_scale):
     ...
 ```
@@ -59,10 +61,10 @@ def add_picture(self, upper_left_row, upper_left_column, stream, width_scale, he
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
 | upper_left_row | int | Indice della riga in alto a sinistra.|
-| upper_left_column | int | Indice colonna in alto a sinistra.|
-| stream | io.RawIOBase | Oggetto Stream che contiene i dati dell'immagine.|
-| width_scale | int | Scala della larghezza dell'immagine, una percentuale.|
-| height_scale | int | Scala dell'altezza dell'immagine, una percentuale.|
+| upper_left_column | int | Indice della colonna in alto a sinistra.|
+| stream | io.RawIOBase | Oggetto stream contenente i dati dell'immagine.|
+| width_scale | int | Scala della larghezza dell'immagine, in percentuale.|
+| height_scale | int | Scala dell'altezza dell'immagine, in percentuale.|
 
 ###  Esempio
 
@@ -77,6 +79,6 @@ with open("image.jpg", "rb") as fs:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Picture](/cells/python-net/it/aspose.cells.drawing/picture)
-* classe [ShapeCollection](/cells/python-net/it/aspose.cells.drawing/shapecollection)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Picture`](/cells/python-net/it/aspose.cells.drawing/picture)
+* classe [`ShapeCollection`](/cells/python-net/it/aspose.cells.drawing/shapecollection)

@@ -1,15 +1,15 @@
 ---
 title: index proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 550
+weight: 580
 url: /it/aspose.cells/worksheet/index/
 is_root: false
 ---
 ##  index proprietà
 
-Ottiene il numero index del foglio nella raccolta di fogli di lavoro.
+Ottiene il foglio index nella raccolta di fogli di lavoro.
 ###  Definizione:
 ```python
 @property

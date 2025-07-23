@@ -1,14 +1,14 @@
 ---
 title: ThreadedCommentAuthor classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1520
+weight: 1430
 url: /it/aspose.cells/threadedcommentauthor/
 is_root: false
 ---
 ##  ThreadedCommentAuthor classe
-Rappresenta la persona che crea i commenti in thread;
+Rappresenta la persona che crea i commenti thread;
 
 
 

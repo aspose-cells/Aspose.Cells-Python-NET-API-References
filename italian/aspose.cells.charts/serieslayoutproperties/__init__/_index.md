@@ -1,18 +1,19 @@
 ---
 title: SeriesLayoutProperties costruttore
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 10
 url: /it/aspose.cells.charts/serieslayoutproperties/__init__/
 is_root: false
 ---
-##  SeriesLayoutProperties() {#}
+##  \_\_init\_\_(self){#}
 Costruisce una nuova istanza di SeriesLayoutProperties
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [SeriesLayoutProperties](/cells/python-net/it/aspose.cells.charts/serieslayoutproperties)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`SeriesLayoutProperties`](/cells/python-net/it/aspose.cells.charts/serieslayoutproperties)

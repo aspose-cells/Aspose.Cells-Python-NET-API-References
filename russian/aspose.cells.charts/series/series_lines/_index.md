@@ -1,6 +1,6 @@
 ---
 title: series_lines недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 390
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  series_lines недвижимость
 
-Возвращает объект SeriesLines, представляющий линии ряда для гистограммы с накоплением или гистограммы с накоплением.
-Применяется только к линейчатым диаграммам с накоплением и столбчатым диаграммам с накоплением.
+Возвращает объект SeriesLines, представляющий линии ряда для столбчатой диаграммы с накоплением или столбчатой диаграммы с накоплением.
+Применимо только к столбчатым и линейчатым диаграммам с накоплением.
 ###  Определение:
 ```python
 @property
@@ -19,6 +19,6 @@ def series_lines(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Line](/cells/python-net/ru/aspose.cells.drawing/line)
-* класс [Series](/cells/python-net/ru/aspose.cells.charts/series)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Line`](/cells/python-net/ru/aspose.cells.drawing/line)
+* класс [`Series`](/cells/python-net/ru/aspose.cells.charts/series)

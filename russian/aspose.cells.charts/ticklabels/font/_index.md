@@ -1,6 +1,6 @@
 ---
 title: font недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font недвижимость
 
-Возвращает объект [`TickLabels.font`](/cells/python-net/ru/aspose.cells.charts/ticklabels#font), который представляет font указанного объекта TickLabels.
+Возвращает объект [`TickLabels.font`](/cells/python-net/ru/aspose.cells.charts/ticklabels#font), представляющий font указанного объекта TickLabels.
 ###  Определение:
 ```python
 @property

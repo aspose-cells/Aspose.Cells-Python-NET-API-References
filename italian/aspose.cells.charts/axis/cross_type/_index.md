@@ -1,6 +1,6 @@
 ---
 title: cross_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 120
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cross_type proprietà
 
-Rappresenta [`Axis.cross_type`](/cells/python-net/it/aspose.cells.charts/axis#cross_type) sull'asse specificato dove si incrocia l'altro asse.
+Rappresenta [`Axis.cross_type`](/cells/python-net/it/aspose.cells.charts/axis#cross_type) sull'asse specificato dove l'altro asse si incrocia.
 ###  Definizione:
 ```python
 @property

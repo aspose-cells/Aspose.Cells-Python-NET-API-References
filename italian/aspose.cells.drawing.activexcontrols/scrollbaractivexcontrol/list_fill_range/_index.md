@@ -1,6 +1,6 @@
 ---
 title: list_fill_range proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 160
@@ -8,8 +8,6 @@ url: /it/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/list_fill_
 is_root: false
 ---
 ##  list_fill_range proprietà
-
-Ottiene e imposta l'intervallo di riempimento dell'elenco.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +19,5 @@ def list_fill_range(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [ScrollBarActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ScrollBarActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

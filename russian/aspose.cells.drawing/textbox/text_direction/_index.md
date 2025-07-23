@@ -1,9 +1,9 @@
 ---
 title: text_direction недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 950
+weight: 970
 url: /ru/aspose.cells.drawing/textbox/text_direction/
 is_root: false
 ---

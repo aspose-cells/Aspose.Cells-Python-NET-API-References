@@ -1,9 +1,9 @@
 ---
 title: hyperlinks недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 180
+weight: 170
 url: /ru/aspose.cells/unionrange/hyperlinks/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def hyperlinks(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [UnionRange](/cells/python-net/ru/aspose.cells/unionrange)
+* модуль [`aspose.cells`](../../)
+* класс [`UnionRange`](/cells/python-net/ru/aspose.cells/unionrange)

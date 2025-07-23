@@ -1,6 +1,6 @@
 ---
 title: is_old_comment proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_old_comment proprietà
 
-Indica se si tratta di un vecchio commento.
+Indica se si tratta di un commento vecchio.
 ###  Definizione:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_old_comment(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.revisions](../../)
-* classe [RevisionCellComment](/cells/python-net/it/aspose.cells.revisions/revisioncellcomment)
+* modulo [`aspose.cells.revisions`](../../)
+* classe [`RevisionCellComment`](/cells/python-net/it/aspose.cells.revisions/revisioncellcomment)

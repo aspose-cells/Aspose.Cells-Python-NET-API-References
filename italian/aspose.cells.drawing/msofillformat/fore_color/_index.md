@@ -1,6 +1,6 @@
 ---
 title: fore_color proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -21,5 +21,5 @@ def fore_color(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [MsoFillFormat](/cells/python-net/it/aspose.cells.drawing/msofillformat)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`MsoFillFormat`](/cells/python-net/it/aspose.cells.drawing/msofillformat)

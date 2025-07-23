@@ -1,16 +1,16 @@
 ---
 title: selected_index недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 900
+weight: 910
 url: /ru/aspose.cells.drawing/combobox/selected_index/
 is_root: false
 ---
 ##  selected_index недвижимость
 
-Получает или задает порядковый номер выбранного в данный момент элемента в списке или поле со списком.
-С нуля.
+Возвращает или задает порядковый номер текущего выбранного элемента в списке или раскрывающемся списке.
+Начинается с нуля.
 
 ###  Примечания
 

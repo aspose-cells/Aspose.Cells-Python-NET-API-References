@@ -1,9 +1,9 @@
 ---
 title: text_orientation_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1070
+weight: 1080
 url: /ru/aspose.cells.drawing/scrollbar/text_orientation_type/
 is_root: false
 ---

@@ -1,15 +1,15 @@
 ---
 title: is_auto_text недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 180
+weight: 240
 url: /ru/aspose.cells.charts/legend/is_auto_text/
 is_root: false
 ---
 ##  is_auto_text недвижимость
 
-Указывает, что текст генерируется автоматически.
+Указывает, что текст сгенерирован автоматически.
 ###  Определение:
 ```python
 @property

@@ -1,19 +1,19 @@
 ---
 title: show_subtotal_at_top недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 590
+weight: 690
 url: /ru/aspose.cells.pivot/pivotfield/show_subtotal_at_top/
 is_root: false
 ---
 ##  show_subtotal_at_top недвижимость
 
-когда ShowInOutlineForm имеет значение true, промежуточные итоги отображаются вверху списка элементов, а не внизу.
+если ShowInOutlineForm имеет значение true, то отображать промежуточные итоги в верхней части списка элементов, а не в нижней.
 
 ###  Примечания
 
-Работает только тогда, когда ShowInOutlineForm имеет значение true.
+Работает только если ShowInOutlineForm имеет значение true.
 ###  Определение:
 ```python
 @property

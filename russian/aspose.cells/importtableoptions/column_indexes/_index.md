@@ -1,6 +1,6 @@
 ---
 title: column_indexes недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column_indexes недвижимость
 
-Получает или задает столбцы (на основе 0) для импорта из источника данных. null означает, что все столбцы должны быть импортированы.
+Возвращает или задает столбцы (начиная с 0) для импорта из источника данных. Значение null означает, что должны быть импортированы все столбцы.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def column_indexes(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ImportTableOptions](/cells/python-net/ru/aspose.cells/importtableoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`ImportTableOptions`](/cells/python-net/ru/aspose.cells/importtableoptions)

@@ -1,18 +1,18 @@
 ---
-title: AutoShapeType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione AutoShapeType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 760
+weight: 750
 url: /it/aspose.cells.drawing/autoshapetype/
 is_root: false
 ---
-##  AutoShapeType enumerazione
+##  Enumerazione AutoShapeType
 Rappresenta tutti i tipi di forma automatica incorporati.
 
 
 
-Il tipo AutoShapeType espone i membri seguenti:
+Il tipo AutoShapeType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -152,46 +152,46 @@ Il tipo AutoShapeType espone i membri seguenti:
 | FLOW_CHART_DIRECT_ACCESS_STORAGE |  |
 | FLOW_CHART_DISPLAY |  |
 | FLOW_CHART_DELAY |  |
-| TEXT_PLAIN_TEXT | Una forma di testo semplice.|
-| TEXT_STOP | Una forma di testo ottagonale.|
+| TEXT_PLAIN_TEXT | Una forma di testo normale.|
+| TEXT_STOP | Un testo di forma ottagonale.|
 | TEXT_TRIANGLE | Una forma di testo triangolare rivolta verso l'alto.|
 | TEXT_TRIANGLE_INVERTED | Una forma di testo triangolare rivolta verso il basso.|
-| TEXT_CHEVRON | Una forma di testo chevron rivolta verso l'alto.|
-| TEXT_CHEVRON_INVERTED | Una forma di testo chevron rivolta verso il basso.|
-| TEXT_RING_INSIDE |Una forma di testo circolare, come se leggesse un'iscrizione all'interno di un anello.|
-| TEXT_RING_OUTSIDE | Una forma di testo circolare, come se leggesse un'iscrizione all'esterno di un anello.|
-| TEXT_ARCH_UP_CURVE | Una forma di testo ricurva verso l'alto.|
-| TEXT_ARCH_DOWN_CURVE | Una forma di testo curva verso il basso.|
-| TEXT_CIRCLE_CURVE | Una forma di testo circolare.|
+| TEXT_CHEVRON | Una forma di testo a chevron rivolta verso l'alto.|
+| TEXT_CHEVRON_INVERTED | Una forma di testo a chevron rivolta verso il basso.|
+| TEXT_RING_INSIDE | Una forma di testo circolare, come se si leggesse un'iscrizione all'interno di un anello.|
+| TEXT_RING_OUTSIDE | Una forma di testo circolare, come se si leggesse un'iscrizione sulla parte esterna di un anello.|
+| TEXT_ARCH_UP_CURVE | Una forma di testo curva e arcuata verso l'alto.|
+| TEXT_ARCH_DOWN_CURVE | Una forma di testo curva e arcuata verso il basso.|
+| TEXT_CIRCLE_CURVE |Una forma di testo circolare.|
 | TEXT_BUTTON_CURVE | Una forma di testo che assomiglia a un pulsante.|
 | TEXT_ARCH_UP_POUR | Una forma di testo arcuata verso l'alto.|
 | TEXT_ARCH_DOWN_POUR | Una forma di testo arcuata verso il basso.|
-| TEXT_CIRCLE_POUR | Una forma di testo circolare.|
+| TEXT_CIRCLE_POUR |Una forma di testo circolare.|
 | TEXT_BUTTON_POUR | Una forma di testo che assomiglia a un pulsante.|
 | TEXT_CURVE_UP | Una forma di testo curva verso l'alto.|
 | TEXT_CURVE_DOWN | Una forma di testo curva verso il basso.|
-| TEXT_CASCADE_UP | Una forma di testo a cascata puntata verso l'alto.|
-| TEXT_CASCADE_DOWN | Una forma di testo a cascata puntata verso il basso.|
-| TEXT_WAVE1 | Una forma di testo ondulato.|
-| TEXT_WAVE2 | Una forma di testo ondulato.|
-| TEXT_DOUBLE_WAVE1 | Una forma di testo ondulato.|
-| TEXT_DOUBLE_WAVE2 | Una forma di testo ondulato.|
+| TEXT_CASCADE_UP | Una forma di testo a cascata rivolta verso l'alto.|
+| TEXT_CASCADE_DOWN | Una forma di testo a cascata rivolta verso il basso.|
+| TEXT_WAVE1 | Una forma di testo ondulata.|
+| TEXT_WAVE2 | Una forma di testo ondulata.|
+| TEXT_DOUBLE_WAVE1 | Una forma di testo ondulata.|
+| TEXT_DOUBLE_WAVE2 | Una forma di testo ondulata.|
 | TEXT_INFLATE | Una forma di testo che si espande verticalmente al centro.|
 | TEXT_DEFLATE | Una forma di testo che si restringe verticalmente al centro.|
-| TEXT_INFLATE_BOTTOM | Una forma di testo che si espande verso il basso nel mezzo.|
-| TEXT_DEFLATE_BOTTOM | Una forma di testo che si restringe verso l'alto nel mezzo.|
-| TEXT_INFLATE_TOP | Una forma di testo che si espande verso l'alto nel mezzo.|
-| TEXT_DEFLATE_TOP | Una forma di testo che si restringe verso il basso nel mezzo.|
-| TEXT_DEFLATE_INFLATE |Una forma di testo in cui le linee inferiori si espandono verso l'alto. Le linee superiori si restringono per compensare.|
-| TEXT_DEFLATE_INFLATE_DEFLATE | Una forma di testo in cui le linee al centro si espandono verticalmente. Le linee superiore e inferiore si restringono per compensare.|
+| TEXT_INFLATE_BOTTOM | Una forma di testo che si espande verso il basso al centro.|
+| TEXT_DEFLATE_BOTTOM | Una forma di testo che si restringe verso l'alto al centro.|
+| TEXT_INFLATE_TOP | Una forma di testo che si espande verso l'alto al centro.|
+| TEXT_DEFLATE_TOP | Una forma di testo che si restringe verso il basso nella parte centrale.|
+| TEXT_DEFLATE_INFLATE | Una forma di testo in cui le linee inferiori si espandono verso l'alto. Le linee superiori si restringono per compensare.|
+| TEXT_DEFLATE_INFLATE_DEFLATE | Una forma di testo in cui le linee centrali si espandono verticalmente. Le linee superiori e inferiori si restringono per compensare.|
 | TEXT_FADE_RIGHT | Una forma di testo che si restringe verticalmente sul lato destro.|
 | TEXT_FADE_LEFT | Una forma di testo che si restringe verticalmente sul lato sinistro.|
-| TEXT_FADE_UP | Una forma di testo che si restringe orizzontalmente in alto.|
-| TEXT_FADE_DOWN | Una forma di testo che si restringe orizzontalmente in basso.|
+| TEXT_FADE_UP |Una forma di testo che si restringe orizzontalmente nella parte superiore.|
+| TEXT_FADE_DOWN | Una forma di testo che si restringe orizzontalmente nella parte inferiore.|
 | TEXT_SLANT_UP | Una forma di testo inclinata verso l'alto.|
 | TEXT_SLANT_DOWN | Una forma di testo inclinata verso il basso.|
-| TEXT_CAN_UP | Una forma di testo curvata verso l'alto come se fosse letta sul lato di una lattina.|
-| TEXT_CAN_DOWN | Una forma di testo curvata verso il basso come se fosse letta sul lato di una lattina.|
+| TEXT_CAN_UP | Una forma di testo curvata verso l'alto, come se fosse letta sul lato di una lattina.|
+| TEXT_CAN_DOWN | Una forma di testo curvata verso il basso, come se fosse letta sul lato di una lattina.|
 | FLOW_CHART_ALTERNATE_PROCESS |  |
 | FLOW_CHART_OFFPAGE_CONNECTOR |  |
 | LINE_CALLOUT_NO_BORDER1 |  |
@@ -217,7 +217,7 @@ Il tipo AutoShapeType espone i membri seguenti:
 | DOCUMENT_ACTION_BUTTON |  |
 | SOUND_ACTION_BUTTON |  |
 | MOVIE_ACTION_BUTTON |  |
-| HOST_CONTROL | Questo valore NON DEVE essere utilizzato.|
+| HOST_CONTROL | Questo valore NON DOVREBBE essere utilizzato.|
 | TEXT_BOX |  |
 | HEPTAGON |  |
 | DECAGON |  |
@@ -265,14 +265,14 @@ Il tipo AutoShapeType espone i membri seguenti:
 | CHART_PLUS |  |
 | FRAME |  |
 | MODEL_3D |  |
-| ROUND_CALLOUT | Non esiste un tipo simile in Excel|
-| TEXT_ARCH_LEFT_POUR | Non esiste un tipo simile in Excel|
-| TEXT_ARCH_RIGHT_POUR | Non esiste un tipo simile in Excel|
-| TEXT_ARCH_LEFT_CURVE | Non esiste un tipo simile in Excel|
-| TEXT_ARCH_RIGHT_CURVE | Non esiste un tipo simile in Excel|
+| ROUND_CALLOUT | Non esiste un tipo del genere in Excel|
+| TEXT_ARCH_LEFT_POUR | Non esiste un tipo del genere in Excel|
+| TEXT_ARCH_RIGHT_POUR | Non esiste un tipo del genere in Excel|
+| TEXT_ARCH_LEFT_CURVE | Non esiste un tipo del genere in Excel|
+| TEXT_ARCH_RIGHT_CURVE | Non esiste un tipo del genere in Excel|
 | UNKNOWN |  |
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](..)
+* modulo [`aspose.cells.drawing`](..)

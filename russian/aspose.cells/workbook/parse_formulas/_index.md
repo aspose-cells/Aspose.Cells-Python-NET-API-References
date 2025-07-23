@@ -1,18 +1,19 @@
 ---
 title: parse_formulas метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 240
+weight: 260
 url: /ru/aspose.cells/workbook/parse_formulas/
 is_root: false
 ---
-##  parse_formulas(ignore_error) {#bool}
-Анализирует все формулы, которые не были проанализированы, когда они были загружены из файла шаблона или установлены в ячейку.
+##  parse_formulas(self, ignore_error) {#bool}
+Анализирует все формулы, которые не были проанализированы при загрузке из файла шаблона или установке в ячейку.
 
 
 
 ```python
+
 def parse_formulas(self, ignore_error):
     ...
 ```
@@ -20,10 +21,10 @@ def parse_formulas(self, ignore_error):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| ignore_error | bool | игнорировать ли ошибку для недопустимой формулы.<br/>Для одной недопустимой формулы, если игнорировать ошибку, эта формула будет проигнорирована<br/> и процесс будет продолжать анализировать другие формулы, иначе будет выдано исключение.|
+| ignore_error | bool | Игнорировать ли ошибку при недопустимой формуле.<br/>Для одной недопустимой формулы, если проигнорировать ошибку, то эта формула будет проигнорирована.<br/> и процесс продолжит анализ других формул, в противном случае будет выдано исключение.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Workbook](/cells/python-net/ru/aspose.cells/workbook)
+* модуль [`aspose.cells`](../../)
+* класс [`Workbook`](/cells/python-net/ru/aspose.cells/workbook)

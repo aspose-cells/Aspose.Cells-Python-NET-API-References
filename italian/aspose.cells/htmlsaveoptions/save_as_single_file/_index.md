@@ -1,9 +1,9 @@
 ---
 title: save_as_single_file proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 620
+weight: 710
 url: /it/aspose.cells/htmlsaveoptions/save_as_single_file/
 is_root: false
 ---
@@ -14,10 +14,10 @@ Il valore predefinito è falso.
 
 ###  Osservazioni
 
-Se nella cartella di lavoro sono presenti più fogli di lavoro o altre risorse richieste, ad esempio immagini,
- comunemente tali fogli di lavoro e altre risorse devono essere salvati in file separati.
-Per alcuni scenari, l'utente potrebbe aver bisogno di ottenere un solo file risultante, ad esempio per comodità di trasferimento.
-In tal caso, l'utente può impostare questa proprietà su true.
+Se nella cartella di lavoro sono presenti più fogli di lavoro o altre risorse richieste, come immagini,
+ di solito i fogli di lavoro e le altre risorse devono essere salvati in file separati.
+In alcuni scenari, l'utente potrebbe aver bisogno di ottenere un solo file risultante, ad esempio per comodità di trasferimento.
+In tal caso, l'utente può impostare questa proprietà come vera.
 ###  Definizione:
 ```python
 @property

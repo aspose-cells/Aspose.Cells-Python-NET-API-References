@@ -1,15 +1,15 @@
 ---
 title: is_display_unit_label_shown proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 230
+weight: 240
 url: /it/aspose.cells.charts/axis/is_display_unit_label_shown/
 is_root: false
 ---
 ##  is_display_unit_label_shown proprietà
 
-Indica se l'etichetta dell'unità di visualizzazione viene visualizzata sull'asse specificato.
+Indica se l'etichetta dell'unità di visualizzazione viene mostrata sull'asse specificato.
 
 ###  Osservazioni
 

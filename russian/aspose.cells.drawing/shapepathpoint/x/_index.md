@@ -1,6 +1,6 @@
 ---
 title: x недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  x недвижимость
 
-Получает и задает координату x для этой координаты положения.
+Получает и задает координату x для данной координаты положения.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def x(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ShapePathPoint](/cells/python-net/ru/aspose.cells.drawing/shapepathpoint)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ShapePathPoint`](/cells/python-net/ru/aspose.cells.drawing/shapepathpoint)

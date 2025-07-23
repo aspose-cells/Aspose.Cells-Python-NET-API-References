@@ -1,15 +1,15 @@
 ---
 title: minor_grid_lines proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 340
+weight: 350
 url: /it/aspose.cells.charts/axis/minor_grid_lines/
 is_root: false
 ---
 ##  minor_grid_lines proprietà
 
-Rappresenta le linee della griglia minori sull'asse del grafico.
+Rappresenta le linee della griglia secondaria su un asse del grafico.
 ###  Definizione:
 ```python
 @property

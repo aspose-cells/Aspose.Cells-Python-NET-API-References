@@ -1,6 +1,6 @@
 ---
 title: intercept недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 200
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  intercept недвижимость
 
-Возвращает или задает точку, в которой линия тренда пересекает ось значений.
+Возвращает или задает точку пересечения линии тренда с осью значений.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def intercept(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Trendline](/cells/python-net/ru/aspose.cells.charts/trendline)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Trendline`](/cells/python-net/ru/aspose.cells.charts/trendline)

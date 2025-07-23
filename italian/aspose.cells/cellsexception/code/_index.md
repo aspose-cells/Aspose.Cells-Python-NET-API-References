@@ -1,6 +1,6 @@
 ---
 title: code proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -18,6 +18,6 @@ def code(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CellsException](/cells/python-net/it/aspose.cells/cellsexception)
-* classe [ExceptionType](/cells/python-net/it/aspose.cells/exceptiontype)
+* modulo [`aspose.cells`](../../)
+* classe [`CellsException`](/cells/python-net/it/aspose.cells/cellsexception)
+* classe [`ExceptionType`](/cells/python-net/it/aspose.cells/exceptiontype)

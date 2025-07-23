@@ -1,6 +1,6 @@
 ---
 title: sheet_index недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 140
@@ -10,7 +10,7 @@ is_root: false
 ##  sheet_index недвижимость
 
 Указывает, что это имя принадлежит рабочей книге или рабочему листу.
-0 = глобальное имя, в противном случае индексировать лист (на основе единицы)
+0 = Глобальное имя, в противном случае индекс листа (начиная с единицы)
 ###  Определение:
 ```python
 @property
@@ -22,5 +22,5 @@ def sheet_index(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Name](/cells/python-net/ru/aspose.cells/name)
+* модуль [`aspose.cells`](../../)
+* класс [`Name`](/cells/python-net/ru/aspose.cells/name)

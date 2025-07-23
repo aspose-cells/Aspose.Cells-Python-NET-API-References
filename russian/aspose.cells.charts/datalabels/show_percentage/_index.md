@@ -1,15 +1,15 @@
 ---
 title: show_percentage недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 420
+weight: 490
 url: /ru/aspose.cells.charts/datalabels/show_percentage/
 is_root: false
 ---
 ##  show_percentage недвижимость
 
-Представляет поведение отображения процентного значения метки данных указанной диаграммы. True отображает процентное значение. Ложь, чтобы скрыть.
+Определяет поведение отображения процентного значения метки данных указанной диаграммы. Значение True отображает процентное значение. Значение False скрывает.
 ###  Определение:
 ```python
 @property

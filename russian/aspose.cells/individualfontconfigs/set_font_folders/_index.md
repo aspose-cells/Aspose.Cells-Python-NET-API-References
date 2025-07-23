@@ -1,18 +1,19 @@
 ---
 title: set_font_folders метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
 url: /ru/aspose.cells/individualfontconfigs/set_font_folders/
 is_root: false
 ---
-##  set_font_folders(font_folders, recursive) {#list-bool}
+##  set_font_folders(self, font_folders, recursive) {#list-bool}
 Устанавливает папки шрифтов
 
 
 
 ```python
+
 def set_font_folders(self, font_folders, recursive):
     ...
 ```
@@ -21,10 +22,10 @@ def set_font_folders(self, font_folders, recursive):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | font_folders | list | Папки, содержащие шрифты TrueType.|
-| recursive | bool | Определяет, сканировать ли вложенные папки.|
+| recursive | bool | Определяет, сканировать ли подпапки.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [IndividualFontConfigs](/cells/python-net/ru/aspose.cells/individualfontconfigs)
+* модуль [`aspose.cells`](../../)
+* класс [`IndividualFontConfigs`](/cells/python-net/ru/aspose.cells/individualfontconfigs)

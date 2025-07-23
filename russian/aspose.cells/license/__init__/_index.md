@@ -1,18 +1,19 @@
 ---
 title: License конструктор
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 10
 url: /ru/aspose.cells/license/__init__/
 is_root: false
 ---
-##  License() {#}
+##  \_\_init\_\_(self){#}
 Инициализирует новый экземпляр этого класса.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,7 +23,7 @@ def __init__(self):
 ###  Пример
 
 В этом примере будет предпринята попытка найти файл лицензии с именем MyLicense.lic.
- в папке, содержащей
+ в папке, которая содержит
 
 
 компонент в папке, содержащей вызывающую сборку,
@@ -39,5 +40,5 @@ license.set_license("MyLicense.lic")
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [License](/cells/python-net/ru/aspose.cells/license)
+* модуль [`aspose.cells`](../../)
+* класс [`License`](/cells/python-net/ru/aspose.cells/license)

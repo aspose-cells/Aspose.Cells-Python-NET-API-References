@@ -1,6 +1,6 @@
 ---
 title: style недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 610
@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  style недвижимость
 
-Получает и устанавливает встроенный style.
+Получает и задает встроенный style.
 
 ###  Примечания
 
-Оно должно быть между 1 и 48.
-Верните -1, если он не установлен.
+Значение должно быть от 1 до 48.
+Возвращает -1, если не установлено.
 ###  Определение:
 ```python
 @property

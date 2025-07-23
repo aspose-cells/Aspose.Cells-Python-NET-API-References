@@ -1,6 +1,6 @@
 ---
 title: custom недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 180
@@ -10,11 +10,11 @@ is_root: false
 ##  custom недвижимость
 
 Представляет строку числового формата custom этого объекта стиля.
-Если числовой формат custom не задан (например, числовой формат является встроенным), будет возвращено "".
+Если числовой формат custom не установлен (например, числовой формат встроен), будет возвращено "".
 
 ###  Примечания
 
-Возвращаемая строка custom не зависит от языка и региональных параметров.
+Возвращенная строка custom не зависит от языка и региональных параметров.
 ###  Определение:
 ```python
 @property
@@ -26,5 +26,5 @@ def custom(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Style](/cells/python-net/ru/aspose.cells/style)
+* модуль [`aspose.cells`](../../)
+* класс [`Style`](/cells/python-net/ru/aspose.cells/style)

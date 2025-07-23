@@ -1,6 +1,6 @@
 ---
 title: plot_on_second_axis proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 360
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_on_second_axis proprietà
 
-Indica se questa serie viene tracciata sul secondo asse dei valori.
+Indica se questa serie è tracciata sul secondo asse dei valori.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def plot_on_second_axis(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Series](/cells/python-net/it/aspose.cells.charts/series)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Series`](/cells/python-net/it/aspose.cells.charts/series)

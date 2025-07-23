@@ -1,14 +1,14 @@
 ---
 title: PivotDiscreteGroupSettings classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 60
+weight: 90
 url: /it/aspose.cells.pivot/pivotdiscretegroupsettings/
 is_root: false
 ---
 ##  PivotDiscreteGroupSettings classe
-Rrappresenta il gruppo discreto del campo pivot
+Rappresenta il gruppo discreto del campo pivot
 
 
 

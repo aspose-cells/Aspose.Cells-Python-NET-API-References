@@ -1,15 +1,15 @@
 ---
 title: match_color proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 80
+weight: 90
 url: /it/aspose.cells/xlssaveoptions/match_color/
 is_root: false
 ---
 ##  match_color proprietà
 
-Indica se corrisponde al colore del carattere perché ci sono 56 colori nella tavolozza dei colori standard.
+Indica se il colore del carattere corrisponde perché la tavolozza dei colori standard contiene 56 colori.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def match_color(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [XlsSaveOptions](/cells/python-net/it/aspose.cells/xlssaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`XlsSaveOptions`](/cells/python-net/it/aspose.cells/xlssaveoptions)

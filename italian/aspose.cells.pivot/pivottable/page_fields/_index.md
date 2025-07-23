@@ -1,9 +1,9 @@
 ---
 title: page_fields proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 710
+weight: 810
 url: /it/aspose.cells.pivot/pivottable/page_fields/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def page_fields(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [PivotFieldCollection](/cells/python-net/it/aspose.cells.pivot/pivotfieldcollection)
-* classe [PivotTable](/cells/python-net/it/aspose.cells.pivot/pivottable)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`PivotFieldCollection`](/cells/python-net/it/aspose.cells.pivot/pivotfieldcollection)
+* classe [`PivotTable`](/cells/python-net/it/aspose.cells.pivot/pivottable)

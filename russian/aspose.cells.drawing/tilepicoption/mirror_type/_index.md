@@ -1,6 +1,6 @@
 ---
 title: mirror_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -21,6 +21,6 @@ def mirror_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [MirrorType](/cells/python-net/ru/aspose.cells.drawing/mirrortype)
-* класс [TilePicOption](/cells/python-net/ru/aspose.cells.drawing/tilepicoption)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`MirrorType`](/cells/python-net/ru/aspose.cells.drawing/mirrortype)
+* класс [`TilePicOption`](/cells/python-net/ru/aspose.cells.drawing/tilepicoption)

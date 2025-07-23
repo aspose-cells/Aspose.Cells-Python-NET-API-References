@@ -1,20 +1,20 @@
 ---
 title: y proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 430
+weight: 530
 url: /it/aspose.cells.charts/legend/y/
 is_root: false
 ---
 ##  y proprietà
 
-Ottiene o imposta la coordinata y dell'angolo superiore sinistro in unità di 1/4000 dell'area del grafico.
+Ottiene o imposta la coordinata y dell'angolo in alto a sinistra in unità di 1/4000 dell'area del grafico.
 
 ###  Osservazioni
 
- Come convertire unità di 1/4000 in pixel?
-Y in pixel = Y * Chart.ChartObject.Height / 4000;
+ Come convertire le unità di 1/4000 in pixel?
+Y in pixel = Y * Chart.ChartObject.Height / 4000d;
 ###  Definizione:
 ```python
 @property

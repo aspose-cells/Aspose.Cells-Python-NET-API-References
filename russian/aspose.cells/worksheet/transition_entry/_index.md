@@ -1,15 +1,15 @@
 ---
 title: transition_entry недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 850
+weight: 870
 url: /ru/aspose.cells/worksheet/transition_entry/
 is_root: false
 ---
 ##  transition_entry недвижимость
 
-Указывает, включен ли параметр «Ввод формулы перехода» (совместимость с Lotus).
+Указывает, включена ли опция «Ввод формулы перехода» (совместимость с Lotus).
 ###  Определение:
 ```python
 @property

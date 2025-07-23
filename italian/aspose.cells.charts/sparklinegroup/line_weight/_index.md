@@ -1,6 +1,6 @@
 ---
 title: line_weight proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 100
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  line_weight proprietà
 
-Ottiene e imposta lo spessore della linea in ogni grafico sparkline nel gruppo di grafici sparkline, nell'unità di punti.
+Ottiene e imposta lo spessore della linea in ogni grafico sparkline del gruppo, nell'unità di punti.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def line_weight(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [SparklineGroup](/cells/python-net/it/aspose.cells.charts/sparklinegroup)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`SparklineGroup`](/cells/python-net/it/aspose.cells.charts/sparklinegroup)

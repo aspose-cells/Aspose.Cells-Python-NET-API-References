@@ -1,6 +1,6 @@
 ---
 title: selection_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 280
@@ -21,6 +21,6 @@ def selection_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [ListBoxActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
-* classe [SelectionType](/cells/python-net/it/aspose.cells.drawing/selectiontype)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ListBoxActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* classe [`SelectionType`](/cells/python-net/it/aspose.cells.drawing/selectiontype)

@@ -1,15 +1,15 @@
 ---
 title: upper_left_row proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1190
+weight: 1200
 url: /it/aspose.cells.drawing/radiobutton/upper_left_row/
 is_root: false
 ---
 ##  upper_left_row proprietà
 
-Rappresenta l'indice della riga nell'angolo superiore sinistro.
+Rappresenta l'indice della riga superiore.
 
 ###  Osservazioni
 

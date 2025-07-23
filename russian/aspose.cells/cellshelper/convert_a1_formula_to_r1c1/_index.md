@@ -1,13 +1,13 @@
 ---
 title: convert_a1_formula_to_r1c1 метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
 url: /ru/aspose.cells/cellshelper/convert_a1_formula_to_r1c1/
 is_root: false
 ---
-##  convert_a1_formula_to_r1c1 {#str-int-int}
+##  convert_a1_formula_to_r1c1(, формула, строка, столбец){#str-int-int}
 Преобразует формулу A1 ячейки в формулу r1c1.
 
 
@@ -17,7 +17,9 @@ is_root: false
 
 
 ```python
-def convert_a1_formula_to_r1c1(self, formula, row, column):
+
+@staticmethod
+def convert_a1_formula_to_r1c1(formula, row, column):
     ...
 ```
 
@@ -29,9 +31,9 @@ def convert_a1_formula_to_r1c1(self, formula, row, column):
 | column | int | Индекс столбца ячейки.|
 ###  Примечания
 
-ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо этого используйте метод Worksheet.ConvertFormulaReferenceStyle().
- Этот объект недвижимости будет удален через 12 месяцев, начиная с августа 2023 года.
-Aspose приносит извинения за возможные неудобства.
+ПРИМЕЧАНИЕ: Этот элемент устарел. Вместо него используйте метод Worksheet.ConvertFormulaReferenceStyle().
+ Эта недвижимость будет снесена через 12 месяцев с августа 2023 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 
 
 ###  Смотрите также

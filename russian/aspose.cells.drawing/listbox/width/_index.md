@@ -1,15 +1,15 @@
 ---
 title: width недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1240
+weight: 1250
 url: /ru/aspose.cells.drawing/listbox/width/
 is_root: false
 ---
 ##  width недвижимость
 
-Представляет width формы в пикселях.
+Представляет собой width формы в пикселях.
 
 ###  Пример
 

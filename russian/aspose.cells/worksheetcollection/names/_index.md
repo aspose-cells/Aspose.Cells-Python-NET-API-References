@@ -1,9 +1,9 @@
 ---
 title: names недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 320
+weight: 340
 url: /ru/aspose.cells/worksheetcollection/names/
 is_root: false
 ---

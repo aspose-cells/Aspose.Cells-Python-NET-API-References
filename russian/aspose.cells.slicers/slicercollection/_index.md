@@ -1,6 +1,6 @@
 ---
 title: SlicerCollection класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -8,38 +8,39 @@ url: /ru/aspose.cells.slicers/slicercollection/
 is_root: false
 ---
 ##  SlicerCollection класс
-Задает коллекцию всех объектов Slicer на указанном листе.
+Задает коллекцию всех объектов среза на указанном рабочем листе.
 
 
 
-Тип SlicerCollection предоставляет следующие члены:
+Тип SlicerCollection предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [capacity](/cells/python-net/ru/aspose.cells.slicers/slicercollection/capacity) | Получает или задает количество элементов, которые может содержать список массивов.|
+| [capacity](/cells/python-net/ru/aspose.cells.slicers/slicercollection/capacity) | Возвращает или задает количество элементов, которые может содержать список массива.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [add(pivot, dest_cell_name, base_field_name)](/cells/python-net/ru/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-str-str) | Добавьте новый слайсер, используя сводную таблицу в качестве источника данных.|
-| [add(pivot, row, column, base_field_name)](/cells/python-net/ru/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-int-int-str) | Добавьте новый слайсер, используя сводную таблицу в качестве источника данных.|
-| [add(pivot, row, column, base_field_index)](/cells/python-net/ru/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-int-int-int) | Добавьте новый слайсер, используя сводную таблицу в качестве источника данных.|
-| [add(pivot, dest_cell_name, base_field_index)](/cells/python-net/ru/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-str-int) | Добавьте новый слайсер, используя сводную таблицу в качестве источника данных.|
-| [add(pivot, row, column, base_field)](/cells/python-net/ru/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-int-int-aspose.cells.pivot.PivotField) | Добавьте новый слайсер, используя сводную таблицу в качестве источника данных.|
-| [add(pivot, dest_cell_name, base_field)](/cells/python-net/ru/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-str-aspose.cells.pivot.PivotField) | Добавьте новый слайсер, используя сводную таблицу в качестве источника данных.|
-| [add(table, index, dest_cell_name)](/cells/python-net/ru/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.ListObject-int-str) | Добавьте новый слайсер, используя ListObjet в качестве источника данных.|
-| [add(table, list_column, dest_cell_name)](/cells/python-net/ru/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-str) | Добавьте новый слайсер, используя ListObjet в качестве источника данных.|
-| [add(table, list_column, row, column)](/cells/python-net/ru/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-int-int) | Добавьте новый слайсер, используя ListObjet в качестве источника данных.|
-| [copy_to(array)](/cells/python-net/ru/aspose.cells.slicers/slicercollection/copy_to/#list) | Копирует весь список массивов в совместимый список одномерных массивов, начиная с начала целевого списка массивов.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/ru/aspose.cells.slicers/slicercollection/copy_to/#int-list-int-int) |Копирует диапазон элементов из списка массивов в совместимый список одномерных массивов, начиная с указанного индекса целевого списка массивов.|
-| [index_of(item, index)](/cells/python-net/ru/aspose.cells.slicers/slicercollection/index_of/#Slicer-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массивов, который простирается от указанного индекса до последнего элемента.|
-| [index_of(item, index, count)](/cells/python-net/ru/aspose.cells.slicers/slicercollection/index_of/#Slicer-int-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов в списке массивов, который начинается с указанного индекса и содержит указанное количество элементов.|
-| [last_index_of(item)](/cells/python-net/ru/aspose.cells.slicers/slicercollection/last_index_of/#Slicer) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения во всем списке массивов.|
-| [last_index_of(item, index)](/cells/python-net/ru/aspose.cells.slicers/slicercollection/last_index_of/#Slicer-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массивов, который простирается от первого элемента до указанного индекса.|
-| [last_index_of(item, index, count)](/cells/python-net/ru/aspose.cells.slicers/slicercollection/last_index_of/#Slicer-int-int) |Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов в списке массивов, который содержит указанное количество элементов и заканчивается указанным индексом.|
-| [binary_search(item)](/cells/python-net/ru/aspose.cells.slicers/slicercollection/binary_search/#Slicer) | Ищет элемент во всем отсортированном списке массивов, используя компаратор по умолчанию, и возвращает отсчитываемый от нуля индекс элемента.|
+| [`add(self, pivot, dest_cell_name, base_field_name)`](/cells/python-net/ru/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-str-str) | Добавить новый срез, используя сводную таблицу в качестве источника данных|
+| [`add(self, pivot, row, column, base_field_name)`](/cells/python-net/ru/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-str) | Добавить новый срез, используя сводную таблицу в качестве источника данных|
+| [`add(self, pivot, row, column, base_field_index)`](/cells/python-net/ru/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-int) | Добавить новый срез, используя сводную таблицу в качестве источника данных|
+| [`add(self, pivot, dest_cell_name, base_field_index)`](/cells/python-net/ru/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-str-int) | Добавить новый срез, используя сводную таблицу в качестве источника данных|
+| [`add(self, pivot, row, column, base_field)`](/cells/python-net/ru/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-aspose.cells.pivot.pivotfield) | Добавить новый срез, используя сводную таблицу в качестве источника данных|
+| [`add(self, pivot, dest_cell_name, base_field)`](/cells/python-net/ru/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-str-aspose.cells.pivot.pivotfield) | Добавить новый срез, используя сводную таблицу в качестве источника данных|
+| [`add(self, table, index, dest_cell_name)`](/cells/python-net/ru/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-int-str) | Добавить новый слайсер, используя ListObjet в качестве источника данных|
+| [`add(self, table, list_column, dest_cell_name)`](/cells/python-net/ru/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-aspose.cells.tables.listcolumn-str) | Добавить новый слайсер, используя ListObjet в качестве источника данных|
+| [`add(self, table, list_column, row, column)`](/cells/python-net/ru/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-aspose.cells.tables.listcolumn-int-int) | Добавить новый слайсер, используя ListObjet в качестве источника данных|
+| [`copy_to(self, array)`](/cells/python-net/ru/aspose.cells.slicers/slicercollection/copy_to/#list) |Копирует весь список массивов в совместимый одномерный список массивов, начиная с начала целевого списка массивов.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/ru/aspose.cells.slicers/slicercollection/copy_to/#int-list-int-int) | Копирует диапазон элементов из списка массивов в совместимый список одномерных массивов, начиная с указанного индекса целевого списка массивов.|
+| [`index_of(self, item, index)`](/cells/python-net/ru/aspose.cells.slicers/slicercollection/index_of/#aspose.cells.slicers.slicer-int) | Выполняет поиск указанного объекта и возвращает индекс (начиная с нуля) первого вхождения в диапазоне элементов списка массива, который простирается от указанного индекса до последнего элемента.|
+| [`index_of(self, item, index, count)`](/cells/python-net/ru/aspose.cells.slicers/slicercollection/index_of/#aspose.cells.slicers.slicer-int-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс первого вхождения в диапазоне элементов списка массива, который начинается с указанного индекса и содержит указанное количество элементов.|
+| [`last_index_of(self, item)`](/cells/python-net/ru/aspose.cells.slicers/slicercollection/last_index_of/#aspose.cells.slicers.slicer) | Выполняет поиск указанного объекта и возвращает нулевой индекс последнего вхождения во всем списке массива.|
+| [`last_index_of(self, item, index)`](/cells/python-net/ru/aspose.cells.slicers/slicercollection/last_index_of/#aspose.cells.slicers.slicer-int) |Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов списка массива, который простирается от первого элемента до указанного индекса.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/ru/aspose.cells.slicers/slicercollection/last_index_of/#aspose.cells.slicers.slicer-int-int) | Выполняет поиск указанного объекта и возвращает отсчитываемый от нуля индекс последнего вхождения в диапазоне элементов списка массива, который содержит указанное количество элементов и заканчивается на указанном индексе.|
+| [`get(self, name)`](/cells/python-net/ru/aspose.cells.slicers/slicercollection/get/#str) | Получает слайсер по имени слайсера.|
+| [`binary_search(self, item)`](/cells/python-net/ru/aspose.cells.slicers/slicercollection/binary_search/#aspose.cells.slicers.slicer) | Выполняет поиск элемента во всем отсортированном списке массивов, используя компаратор по умолчанию, и возвращает индекс элемента, отсчитываемый от нуля.|
 
 
 
@@ -97,4 +98,4 @@ book.save("out.xlsx")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.slicers](..)
+* модуль [`aspose.cells.slicers`](..)

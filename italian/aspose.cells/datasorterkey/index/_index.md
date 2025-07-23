@@ -1,6 +1,6 @@
 ---
 title: index proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  index proprietà
 
-Ottiene la colonna ordinata index (posizione assoluta, la colonna A è 0, B è 1, ...).
+Ottiene la colonna ordinata index (posizione assoluta, colonna A è 0, B è 1, ...).
 ###  Definizione:
 ```python
 @property
@@ -18,5 +18,5 @@ def index(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [DataSorterKey](/cells/python-net/it/aspose.cells/datasorterkey)
+* modulo [`aspose.cells`](../../)
+* classe [`DataSorterKey`](/cells/python-net/it/aspose.cells/datasorterkey)

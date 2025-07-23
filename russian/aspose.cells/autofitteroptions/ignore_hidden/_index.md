@@ -1,9 +1,9 @@
 ---
 title: ignore_hidden недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 80
+weight: 90
 url: /ru/aspose.cells/autofitteroptions/ignore_hidden/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def ignore_hidden(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [AutoFitterOptions](/cells/python-net/ru/aspose.cells/autofitteroptions)
+* модуль [`aspose.cells`](../../)
+* класс [`AutoFitterOptions`](/cells/python-net/ru/aspose.cells/autofitteroptions)

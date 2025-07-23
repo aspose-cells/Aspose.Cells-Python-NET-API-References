@@ -1,6 +1,6 @@
 ---
 title: graphic_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  graphic_type proprietà
 
-Ottiene e imposta il tipo grafico di sfondo della pagina.
+Ottiene e imposta il tipo di grafica di sfondo della pagina.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def graphic_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.ods](../../)
-* classe [OdsPageBackground](/cells/python-net/it/aspose.cells.ods/odspagebackground)
-* classe [OdsPageBackgroundGraphicType](/cells/python-net/it/aspose.cells.ods/odspagebackgroundgraphictype)
+* modulo [`aspose.cells.ods`](../../)
+* classe [`OdsPageBackground`](/cells/python-net/it/aspose.cells.ods/odspagebackground)
+* classe [`OdsPageBackgroundGraphicType`](/cells/python-net/it/aspose.cells.ods/odspagebackgroundgraphictype)

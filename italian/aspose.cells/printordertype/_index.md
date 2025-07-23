@@ -1,14 +1,14 @@
 ---
 title: Enumerazione PrintOrderType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 2480
+weight: 2450
 url: /it/aspose.cells/printordertype/
 is_root: false
 ---
 ##  Enumerazione PrintOrderType
-Rappresentano le costanti dell'ordine di stampa.
+Rappresenta le costanti dell'ordine di stampa.
 
 
 

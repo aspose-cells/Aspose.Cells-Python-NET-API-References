@@ -1,9 +1,9 @@
 ---
 title: Enumerazione TextOrientationType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 2650
+weight: 2620
 url: /it/aspose.cells/textorientationtype/
 is_root: false
 ---

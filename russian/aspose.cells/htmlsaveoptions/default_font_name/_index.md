@@ -1,17 +1,17 @@
 ---
 title: default_font_name недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 120
+weight: 150
 url: /ru/aspose.cells/htmlsaveoptions/default_font_name/
 is_root: false
 ---
 ##  default_font_name недвижимость
 
-Укажите имя шрифта по умолчанию для экспорта HTML. Шрифт по умолчанию будет использоваться, если шрифт стиля не существует.
-Если это свойство имеет значение null, Aspose.Cells будет использовать универсальный шрифт того же семейства, что и исходный шрифт.
-значение по умолчанию равно нулю.
+Укажите имя шрифта по умолчанию для экспорта HTML. Шрифт по умолчанию будет использоваться, если шрифт стиля отсутствует.
+Если это свойство равно null, Aspose.Cells будет использовать универсальный шрифт, имеющий то же семейство, что и исходный шрифт,
+значение по умолчанию — ноль.
 ###  Определение:
 ```python
 @property

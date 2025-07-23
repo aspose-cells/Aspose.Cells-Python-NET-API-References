@@ -1,9 +1,9 @@
 ---
 title: preserve_formatting proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 760
+weight: 870
 url: /it/aspose.cells.pivot/pivottable/preserve_formatting/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def preserve_formatting(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [PivotTable](/cells/python-net/it/aspose.cells.pivot/pivottable)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`PivotTable`](/cells/python-net/it/aspose.cells.pivot/pivottable)

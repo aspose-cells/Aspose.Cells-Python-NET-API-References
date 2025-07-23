@@ -1,16 +1,13 @@
 ---
 title: sheet_index недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 100
+weight: 120
 url: /ru/aspose.cells/svgsaveoptions/sheet_index/
 is_root: false
 ---
 ##  sheet_index недвижимость
-
-Получает и задает лист, который необходимо экспортировать.
-Если значение равно -1, активный рабочий лист будет экспортирован.
 ###  Определение:
 ```python
 @property
@@ -22,5 +19,5 @@ def sheet_index(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [SvgSaveOptions](/cells/python-net/ru/aspose.cells/svgsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`SvgSaveOptions`](/cells/python-net/ru/aspose.cells/svgsaveoptions)

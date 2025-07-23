@@ -1,17 +1,17 @@
 ---
 title: default_font_name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 120
+weight: 150
 url: /it/aspose.cells/htmlsaveoptions/default_font_name/
 is_root: false
 ---
 ##  default_font_name proprietà
 
-Specificare il nome del carattere predefinito per l'esportazione dell'HTML, il carattere predefinito verrà utilizzato quando il carattere dello stile non esiste,
-Se questa proprietà è nulla, Aspose.Cells utilizzerà il carattere universale che ha la stessa famiglia del carattere originale,
-il valore predefinito è nullo.
+Specificare il nome del font predefinito per l'esportazione HTML, il font predefinito verrà utilizzato quando il font dello stile non esiste,
+Se questa proprietà è null, Aspose.Cells utilizzerà un font universale che ha la stessa famiglia del font originale,
+il valore predefinito è null.
 ###  Definizione:
 ```python
 @property

@@ -1,6 +1,6 @@
 ---
 title: is_3_color_scale proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_3_color_scale proprietà
 
-Indica se la formattazione condizionale è una scala di 3 colori.
+Indica se la formattazione condizionale è in scala a 3 colori.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_3_color_scale(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ColorScale](/cells/python-net/it/aspose.cells/colorscale)
+* modulo [`aspose.cells`](../../)
+* classe [`ColorScale`](/cells/python-net/it/aspose.cells/colorscale)

@@ -1,9 +1,9 @@
 ---
 title: Enumerazione ViewType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 2740
+weight: 2710
 url: /it/aspose.cells/viewtype/
 is_root: false
 ---

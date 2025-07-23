@@ -1,6 +1,6 @@
 ---
 title: border_color недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border_color недвижимость
 
-Получает или задает объект FormatColor, который можно использовать для указания цвета границы отрицательных гистограмм.
+Возвращает или задает объект FormatColor, который можно использовать для указания цвета границы для отрицательных столбцов данных.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def border_color(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [NegativeBarFormat](/cells/python-net/ru/aspose.cells/negativebarformat)
+* модуль [`aspose.cells`](../../)
+* класс [`NegativeBarFormat`](/cells/python-net/ru/aspose.cells/negativebarformat)

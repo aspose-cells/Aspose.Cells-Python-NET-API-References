@@ -1,16 +1,16 @@
 ---
 title: prog_id недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 340
+weight: 320
 url: /ru/aspose.cells/htmlloadoptions/prog_id/
 is_root: false
 ---
 ##  prog_id недвижимость
 
 Получает идентификатор программы, создавшей файл.
-Только для файлов MHT.
+Только для MHT-файлов.
 ###  Определение:
 ```python
 @property

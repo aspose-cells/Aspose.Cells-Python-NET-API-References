@@ -1,15 +1,15 @@
 ---
 title: language_code недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ru/aspose.cells/odsloadoptions/language_code/
 is_root: false
 ---
 ##  language_code недвижимость
 
-Получает или задает язык пользовательского интерфейса версии Workbook на основе CountryCode, в котором сохранен файл.
+Возвращает или задает язык пользовательского интерфейса версии рабочей книги на основе кода страны, в которой сохранен файл.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def language_code(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CountryCode](/cells/python-net/ru/aspose.cells/countrycode)
-* класс [OdsLoadOptions](/cells/python-net/ru/aspose.cells/odsloadoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`CountryCode`](/cells/python-net/ru/aspose.cells/countrycode)
+* класс [`OdsLoadOptions`](/cells/python-net/ru/aspose.cells/odsloadoptions)

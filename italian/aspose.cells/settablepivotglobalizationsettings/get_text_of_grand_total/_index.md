@@ -1,22 +1,23 @@
 ---
 title: Metodo get_text_of_grand_total
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 90
+weight: 100
 url: /it/aspose.cells/settablepivotglobalizationsettings/get_text_of_grand_total/
 is_root: false
 ---
-##  get_text_of_grand_total {#}
+##  get_text_of_grand_total(self) {#}
 Ottiene il testo dell'etichetta "Totale complessivo" nella tabella pivot.
 
 
 ###  ritorna
 
-Il testo dell'etichetta "Grand Totale".
+Il testo dell'etichetta "Totale complessivo"
 
 
 ```python
+
 def get_text_of_grand_total(self):
     ...
 ```

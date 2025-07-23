@@ -1,19 +1,19 @@
 ---
 title: top proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1240
+weight: 1250
 url: /it/aspose.cells.drawing/oleobject/top/
 is_root: false
 ---
 ##  top proprietà
 
-Rappresenta l'offset verticale della forma dalla riga top, in unità di pixel.
+Rappresenta lo scostamento verticale della forma dalla sua riga top, in pixel.
 
 ###  Osservazioni
 
-Se la forma è nel grafico, rappresenta l'offset verticale della forma dal bordo top.
+Se la forma è nel grafico, rappresenta lo scostamento verticale della forma dal suo bordo top.
 
 ###  Esempio
 

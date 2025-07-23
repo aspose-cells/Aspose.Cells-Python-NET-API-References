@@ -1,6 +1,6 @@
 ---
 title: header_rows_count недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 170
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  header_rows_count недвижимость
 
-Число строк заголовков, которые будут повторяться для расширенных листов.
+Количество строк заголовков, которые необходимо повторить для расширенных листов.
 
 ###  Примечания
 
-Строки заголовков, указанные этим свойством, будут дублироваться для этих расширенных листов.
+Строки заголовков, указанные этим свойством, будут продублированы для этих расширенных листов.
 Это свойство вступает в силу только в том случае, если [`TxtLoadOptions.extend_to_next_sheet`](/cells/python-net/ru/aspose.cells/txtloadoptions#extend_to_next_sheet) имеет значение true.
 ###  Определение:
 ```python

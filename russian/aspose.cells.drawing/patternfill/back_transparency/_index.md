@@ -1,6 +1,6 @@
 ---
 title: back_transparency недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -21,5 +21,5 @@ def back_transparency(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [PatternFill](/cells/python-net/ru/aspose.cells.drawing/patternfill)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`PatternFill`](/cells/python-net/ru/aspose.cells.drawing/patternfill)

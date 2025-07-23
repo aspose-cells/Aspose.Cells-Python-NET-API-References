@@ -1,18 +1,18 @@
 ---
 title: show_all_items недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 560
+weight: 660
 url: /ru/aspose.cells.pivot/pivotfield/show_all_items/
 is_root: false
 ---
 ##  show_all_items недвижимость
 
- Указывает, отображаются ли все элементы в отчете сводной таблицы.
+ Указывает, отображаются ли все элементы в отчете сводной таблицы,
 даже если они не содержат сводных данных.
 показать элементы без данных
-Значение по умолчанию неверно.
+Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property

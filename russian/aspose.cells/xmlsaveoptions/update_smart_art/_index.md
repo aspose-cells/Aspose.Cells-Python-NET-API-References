@@ -1,16 +1,16 @@
 ---
 title: update_smart_art недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 140
+weight: 180
 url: /ru/aspose.cells/xmlsaveoptions/update_smart_art/
 is_root: false
 ---
 ##  update_smart_art недвижимость
 
 Указывает, обновляются ли настройки смарт-арта.
-Значение по умолчанию неверно.
+Значение по умолчанию — false.
 
 ###  Примечания
 
@@ -26,5 +26,5 @@ def update_smart_art(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [XmlSaveOptions](/cells/python-net/ru/aspose.cells/xmlsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`XmlSaveOptions`](/cells/python-net/ru/aspose.cells/xmlsaveoptions)

@@ -1,6 +1,6 @@
 ---
 title: center_y proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 100
@@ -18,5 +18,5 @@ def center_y(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Walls](/cells/python-net/it/aspose.cells.charts/walls)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Walls`](/cells/python-net/it/aspose.cells.charts/walls)

@@ -1,9 +1,9 @@
 ---
 title: default_table_style_name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 120
+weight: 130
 url: /it/aspose.cells.tables/tablestylecollection/default_table_style_name/
 is_root: false
 ---

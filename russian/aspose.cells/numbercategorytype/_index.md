@@ -1,14 +1,14 @@
 ---
 title: NumberCategoryType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2350
+weight: 2320
 url: /ru/aspose.cells/numbercategorytype/
 is_root: false
 ---
 ##  NumberCategoryType перечисление
-Представляет тип категории форматирования чисел ячейки.
+Представляет категорию типа числового форматирования ячейки.
 
 
 
@@ -22,7 +22,7 @@ is_root: false
 | NUMBER | Число|
 | DATE | Дата или Дата и время|
 | TIME | Время|
-| FRACTION | Доля|
+| FRACTION |Дробь|
 | SCIENTIFIC | Научный|
 
 

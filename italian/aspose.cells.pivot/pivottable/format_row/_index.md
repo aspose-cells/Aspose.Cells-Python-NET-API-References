@@ -1,18 +1,19 @@
 ---
-title: metodo format_row
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo format_row
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 120
 url: /it/aspose.cells.pivot/pivottable/format_row/
 is_root: false
 ---
-##  format_row(row, style) {#int-Style}
-Formatta i dati della riga nell'area della tabella pivot
+##  format_row(self, row, style) {#int-aspose.cells.Style}
+Formattare i dati di riga nell'area della tabella pivot
 
 
 
 ```python
+
 def format_row(self, row, style):
     ...
 ```
@@ -20,11 +21,11 @@ def format_row(self, row, style):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| row | int | Row Indice dell'oggetto Row|
-| style | [Style](/cells/python-net/it/aspose.cells/style) | Stile che è quello di formattare|
+| row | int | Indice di riga dell'oggetto Riga|
+| style | [`Style`](/cells/python-net/it/aspose.cells/style) | Stile che consiste nel formattare|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [PivotTable](/cells/python-net/it/aspose.cells.pivot/pivottable)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`PivotTable`](/cells/python-net/it/aspose.cells.pivot/pivottable)

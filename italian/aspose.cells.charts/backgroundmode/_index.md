@@ -1,6 +1,6 @@
 ---
 title: Enumerazione BackgroundMode
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 380
@@ -17,7 +17,7 @@ Il tipo BackgroundMode espone i seguenti membri:
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
-| AUTOMATIC |Automatico|
+| AUTOMATIC | Automatico|
 | OPAQUE | Opaco|
 | TRANSPARENT | Trasparente|
 

@@ -1,9 +1,9 @@
 ---
 title: first_row недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 330
+weight: 430
 url: /ru/aspose.cells/range/first_row/
 is_root: false
 ---

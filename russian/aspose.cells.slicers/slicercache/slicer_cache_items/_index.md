@@ -1,6 +1,6 @@
 ---
 title: slicer_cache_items недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  slicer_cache_items недвижимость
 
-Возвращает коллекцию SlicerCacheItem, содержащую коллекцию всех элементов в кэше среза. Только для чтения
+Возвращает коллекцию SlicerCacheItem, содержащую все элементы кэша слайсера. Только для чтения.
 
 ###  Пример
 
@@ -28,6 +28,6 @@ def slicer_cache_items(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.slicers](../../)
-* класс [SlicerCache](/cells/python-net/ru/aspose.cells.slicers/slicercache)
-* класс [SlicerCacheItemCollection](/cells/python-net/ru/aspose.cells.slicers/slicercacheitemcollection)
+* модуль [`aspose.cells.slicers`](../../)
+* класс [`SlicerCache`](/cells/python-net/ru/aspose.cells.slicers/slicercache)
+* класс [`SlicerCacheItemCollection`](/cells/python-net/ru/aspose.cells.slicers/slicercacheitemcollection)

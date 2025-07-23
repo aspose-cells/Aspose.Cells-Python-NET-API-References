@@ -1,18 +1,19 @@
 ---
 title: add метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells.properties/custompropertycollection/add/
 is_root: false
 ---
-##  add(name, value) {#str-str}
-Добавляет информацию о пользовательском свойстве.
+##  add(self, name, value) {#str-str}
+Добавляет пользовательскую информацию о свойствах.
 
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self, name, value):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.properties](../../)
-* класс [CustomPropertyCollection](/cells/python-net/ru/aspose.cells.properties/custompropertycollection)
+* модуль [`aspose.cells.properties`](../../)
+* класс [`CustomPropertyCollection`](/cells/python-net/ru/aspose.cells.properties/custompropertycollection)

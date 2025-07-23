@@ -1,15 +1,15 @@
 ---
 title: is_auto_text недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 170
+weight: 240
 url: /ru/aspose.cells.charts/datalabels/is_auto_text/
 is_root: false
 ---
 ##  is_auto_text недвижимость
 
-Указывает, что текст генерируется автоматически.
+Указывает, что текст сгенерирован автоматически.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_auto_text(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [DataLabels](/cells/python-net/ru/aspose.cells.charts/datalabels)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`DataLabels`](/cells/python-net/ru/aspose.cells.charts/datalabels)

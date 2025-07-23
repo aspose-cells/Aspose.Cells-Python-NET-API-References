@@ -1,16 +1,16 @@
 ---
 title: placement proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 840
+weight: 850
 url: /it/aspose.cells.drawing/commentshape/placement/
 is_root: false
 ---
 ##  placement proprietà
 
-Rappresenta il modo in cui l'oggetto di disegno è collegato alle celle sottostanti.
-La proprietà controlla lo placement di un oggetto su un foglio di lavoro.
+Rappresenta il modo in cui l'oggetto del disegno è collegato alle celle sottostanti.
+La proprietà controlla il valore placement di un oggetto in un foglio di lavoro.
 
 ###  Esempio
 

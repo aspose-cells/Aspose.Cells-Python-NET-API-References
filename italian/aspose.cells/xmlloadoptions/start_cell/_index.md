@@ -1,9 +1,9 @@
 ---
 title: start_cell proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 320
+weight: 300
 url: /it/aspose.cells/xmlloadoptions/start_cell/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Ottiene e imposta la cella iniziale.
 
 ###  Osservazioni
 
-Funziona solo quando il file non è spreadsheetML o non mappa XML su Excel.
+Funziona solo se il file non è spadsheetML o non sta mappando xml in Excel.
 ###  Definizione:
 ```python
 @property

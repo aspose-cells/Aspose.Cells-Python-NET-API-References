@@ -1,18 +1,19 @@
 ---
 title: unhide_rows метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 990
+weight: 1010
 url: /ru/aspose.cells/cells/unhide_rows/
 is_root: false
 ---
-##  unhide_rows {#int-int-float}
-Отображает скрытые строки.
+##  unhide_rows(self, row, total_rows, height) {#int-int-float}
+Показывает скрытые строки.
 
 
 
 ```python
+
 def unhide_rows(self, row, total_rows, height):
     ...
 ```
@@ -22,7 +23,7 @@ def unhide_rows(self, row, total_rows, height):
 | :- | :- | :- |
 | row | int | Индекс строки.|
 | total_rows | int | Номер строки.|
-| height | float | Высота строки. Высота строки будет изменена только в том случае, если строка скрыта и заданное значение высоты положительное.|
+| height | float |Высота строки. Высота строки будет изменена только в том случае, если строка скрыта и заданное значение высоты положительно.|
 
 
 

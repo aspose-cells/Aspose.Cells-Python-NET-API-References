@@ -1,15 +1,15 @@
 ---
 title: show_tabs proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 460
+weight: 490
 url: /it/aspose.cells/workbooksettings/show_tabs/
 is_root: false
 ---
 ##  show_tabs proprietà
 
-Ottiene o imposta un valore se vengono visualizzate le schede della cartella di lavoro.
+Ottiene o imposta un valore che specifica se visualizzare o meno le schede della cartella di lavoro.
 
 ###  Osservazioni
 

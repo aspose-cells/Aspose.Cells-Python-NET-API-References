@@ -1,31 +1,31 @@
 ---
-title: FillType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione FillType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 830
+weight: 820
 url: /it/aspose.cells.drawing/filltype/
 is_root: false
 ---
-##  FillType enumerazione
+##  Enumerazione FillType
 Tipo di formato di riempimento.
 
 
 
-Il tipo FillType espone i membri seguenti:
+Il tipo FillType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
 | AUTOMATIC | Rappresenta il tipo di formattazione automatica.|
-| NONE | Rappresenta nessun tipo di formattazione.|
+| NONE | Non rappresenta alcun tipo di formattazione.|
 | SOLID | Formato di riempimento solido.|
 | GRADIENT | Formato di riempimento sfumato.|
-| TEXTURE | Formato riempimento trama (include riempimento immagine).|
-| PATTERN | Formato di riempimento a motivo.|
+| TEXTURE | Formato di riempimento della texture (include il riempimento dell'immagine).|
+| PATTERN | Formato di riempimento del motivo.|
 | GROUP | Eredita le proprietà di riempimento del gruppo.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](..)
+* modulo [`aspose.cells.drawing`](..)

@@ -1,9 +1,9 @@
 ---
 title: TargetModeType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2600
+weight: 2570
 url: /ru/aspose.cells/targetmodetype/
 is_root: false
 ---

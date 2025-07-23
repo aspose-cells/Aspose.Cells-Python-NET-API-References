@@ -1,6 +1,6 @@
 ---
 title: name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name недвижимость
 
-Возвращает name кеша слайсера.
+Возвращает name кэша слайсера.
 
 ###  Пример
 
@@ -27,5 +27,5 @@ def name(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.slicers](../../)
-* класс [SlicerCache](/cells/python-net/ru/aspose.cells.slicers/slicercache)
+* модуль [`aspose.cells.slicers`](../../)
+* класс [`SlicerCache`](/cells/python-net/ru/aspose.cells.slicers/slicercache)

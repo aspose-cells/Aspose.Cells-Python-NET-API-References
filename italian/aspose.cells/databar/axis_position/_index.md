@@ -1,6 +1,6 @@
 ---
 title: axis_position proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  axis_position proprietà
 
-Ottiene o imposta la posizione dell'asse delle barre dei dati specificata da una regola di formattazione condizionale.
+Ottiene o imposta la posizione dell'asse delle barre dati specificate da una regola di formattazione condizionale.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def axis_position(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [DataBar](/cells/python-net/it/aspose.cells/databar)
-* classe [DataBarAxisPosition](/cells/python-net/it/aspose.cells/databaraxisposition)
+* modulo [`aspose.cells`](../../)
+* classe [`DataBar`](/cells/python-net/it/aspose.cells/databar)
+* classe [`DataBarAxisPosition`](/cells/python-net/it/aspose.cells/databaraxisposition)

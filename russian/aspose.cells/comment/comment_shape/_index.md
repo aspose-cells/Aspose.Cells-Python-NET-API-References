@@ -1,6 +1,6 @@
 ---
 title: comment_shape недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 100
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  comment_shape недвижимость
 
-Получите объект Shape, представляющий фигуру, прикрепленную к указанному комментарию.
+Получить объект Shape, представляющий форму, прикрепленную к указанному комментарию.
 
 ###  Пример
 

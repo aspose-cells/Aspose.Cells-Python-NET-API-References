@@ -1,9 +1,9 @@
 ---
 title: alt_start_path proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 210
+weight: 230
 url: /it/aspose.cells/cellshelper/alt_start_path/
 is_root: false
 ---
@@ -15,8 +15,8 @@ Ottiene o imposta il percorso di avvio alternativo, a cui fanno riferimento alcu
 @property
 def alt_start_path(self):
     ...
-@alt_start_path.setter
-def alt_start_path(self, value):
+@staticmethod
+def set_alt_start_path(value):
     ...
 ```
 

@@ -1,6 +1,6 @@
 ---
 title: FormatConditionCollection индексатор
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -13,14 +13,14 @@ is_root: false
 ###  Индексатор
 | Имя| Описание|
 | :- | :- |
-| index | индекс возвращаемого условия форматирования.|
+| index | индекс условия форматирования, которое необходимо вернуть.|
 
 
 
-###  Возвращает
+###  Возврат
 
 условие форматирования
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [FormatConditionCollection](/cells/python-net/ru/aspose.cells/formatconditioncollection)
+* модуль [`aspose.cells`](../../)
+* класс [`FormatConditionCollection`](/cells/python-net/ru/aspose.cells/formatconditioncollection)

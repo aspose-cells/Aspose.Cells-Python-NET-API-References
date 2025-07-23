@@ -1,6 +1,6 @@
 ---
 title: auto_fitter_options proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  auto_fitter_options proprietà
 
-Ottiene e imposta le opzioni di installazione automatica
+Ottiene e imposta le opzioni di adattamento automatico
 
 ###  Osservazioni
 
-Solo per xlsx, file spreadsheetML ora.
+Ora solo per file xlsx e spreadsheetML.
 ###  Definizione:
 ```python
 @property
@@ -25,6 +25,6 @@ def auto_fitter_options(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [AutoFitterOptions](/cells/python-net/it/aspose.cells/autofitteroptions)
-* classe [OdsLoadOptions](/cells/python-net/it/aspose.cells/odsloadoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`AutoFitterOptions`](/cells/python-net/it/aspose.cells/autofitteroptions)
+* classe [`OdsLoadOptions`](/cells/python-net/it/aspose.cells/odsloadoptions)

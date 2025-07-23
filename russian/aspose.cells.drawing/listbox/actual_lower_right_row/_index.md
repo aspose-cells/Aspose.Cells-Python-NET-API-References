@@ -1,15 +1,15 @@
 ---
 title: actual_lower_right_row недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 290
+weight: 300
 url: /ru/aspose.cells.drawing/listbox/actual_lower_right_row/
 is_root: false
 ---
 ##  actual_lower_right_row недвижимость
 
-Получите фактическую нижнюю строку.
+Возьмите реальный нижний ряд.
 
 ###  Пример
 

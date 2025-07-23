@@ -1,6 +1,6 @@
 ---
 title: type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 640
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type недвижимость
 
-Получает или задает номер диаграммы type.
+Получает или задает type диаграммы.
 ###  Определение:
 ```python
 @property

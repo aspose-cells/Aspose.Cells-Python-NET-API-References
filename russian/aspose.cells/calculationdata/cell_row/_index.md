@@ -1,6 +1,6 @@
 ---
 title: cell_row недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cell_row недвижимость
 
-Получает индекс строки ячейки, в которой находится функция.
+Возвращает индекс строки ячейки, в которой находится функция.
 ###  Определение:
 ```python
 @property

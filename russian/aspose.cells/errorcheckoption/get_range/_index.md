@@ -1,22 +1,23 @@
 ---
 title: get_range метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
 url: /ru/aspose.cells/errorcheckoption/get_range/
 is_root: false
 ---
-##  get_range(index) {#int}
+##  get_range(self, index) {#int}
 Получает диапазон влияния этого параметра по заданному индексу.
 
 
-###  Возвращает
+###  Возврат
 
-доходность, на которую влияет диапазон при заданном индексе.
+диапазон влияния доходности по заданному индексу.
 
 
 ```python
+
 def get_range(self, index):
     ...
 ```
@@ -29,5 +30,5 @@ def get_range(self, index):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ErrorCheckOption](/cells/python-net/ru/aspose.cells/errorcheckoption)
+* модуль [`aspose.cells`](../../)
+* класс [`ErrorCheckOption`](/cells/python-net/ru/aspose.cells/errorcheckoption)

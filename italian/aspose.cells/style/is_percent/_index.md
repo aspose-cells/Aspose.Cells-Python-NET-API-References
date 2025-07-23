@@ -1,6 +1,6 @@
 ---
 title: is_percent proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 370
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_percent proprietà
 
-Indica se il formato numero è un formato percentuale.
+Indica se il formato del numero è un formato percentuale.
 ###  Definizione:
 ```python
 @property

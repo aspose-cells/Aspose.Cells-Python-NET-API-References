@@ -1,23 +1,23 @@
 ---
 title: is_cell_auto_fit недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 160
+weight: 170
 url: /ru/aspose.cells.rendering/imageorprintoptions/is_cell_auto_fit/
 is_root: false
 ---
 ##  is_cell_auto_fit недвижимость
 
- Указывает, подгоняется ли ширина и высота ячеек автоматически по значению ячейки.
-Значение по умолчанию неверно.
+ Указывает, будет ли ширина и высота ячеек автоматически подбираться в соответствии со значением ячейки.
+Значение по умолчанию — false.
 
 ###  Примечания
 
- ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
-пожалуйста, используйте [`Worksheet.auto_fit_columns`](/cells/python-net/ru/aspose.cells/worksheet/auto_fit_columns) и [`Worksheet.auto_fit_rows`](/cells/python-net/ru/aspose.cells/worksheet/auto_fit_rows).
- Этот объект недвижимости будет удален через 12 месяцев, начиная с августа 2022 года.
-Aspose приносит извинения за возможные неудобства.
+ ПРИМЕЧАНИЕ: Этот элемент устарел. Вместо этого,
+это свойство не используется, пожалуйста, удалите это свойство.
+ Эта недвижимость будет снесена через 12 месяцев, начиная с августа 2022 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 ###  Определение:
 ```python
 @property

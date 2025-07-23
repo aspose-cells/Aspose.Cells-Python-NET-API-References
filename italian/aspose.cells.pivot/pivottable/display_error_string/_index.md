@@ -1,15 +1,15 @@
 ---
 title: display_error_string proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 440
+weight: 540
 url: /it/aspose.cells.pivot/pivottable/display_error_string/
 is_root: false
 ---
 ##  display_error_string proprietà
 
-Indica se il rapporto di tabella pivot visualizza una stringa personalizzata nelle celle che contengono errori.
+Indica se il report della tabella pivot visualizza una stringa personalizzata nelle celle che contengono errori.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def display_error_string(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [PivotTable](/cells/python-net/it/aspose.cells.pivot/pivottable)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`PivotTable`](/cells/python-net/it/aspose.cells.pivot/pivottable)

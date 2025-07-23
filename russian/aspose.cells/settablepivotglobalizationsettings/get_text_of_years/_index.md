@@ -1,14 +1,14 @@
 ---
 title: get_text_of_years метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 220
+weight: 230
 url: /ru/aspose.cells/settablepivotglobalizationsettings/get_text_of_years/
 is_root: false
 ---
-##  get_text_of_years {#}
-Получает локальный текст "Годы".
+##  get_text_of_years(self) {#}
+Получает локальный текст «Годы».
 
 
 ###  Возврат
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_text_of_years(self):
     ...
 ```

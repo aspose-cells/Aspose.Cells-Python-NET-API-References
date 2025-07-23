@@ -1,9 +1,9 @@
 ---
 title: current_page_item proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 250
+weight: 330
 url: /it/aspose.cells.pivot/pivotfield/current_page_item/
 is_root: false
 ---

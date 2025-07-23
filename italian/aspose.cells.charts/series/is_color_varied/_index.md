@@ -1,6 +1,6 @@
 ---
 title: is_color_varied proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 270
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_color_varied proprietà
 
- Rappresenta se il colore dei punti è vario.
+ Rappresenta se il colore dei punti è variato.
 Il grafico deve contenere una sola serie.
 ###  Definizione:
 ```python

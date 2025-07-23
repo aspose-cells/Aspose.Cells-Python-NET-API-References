@@ -1,15 +1,15 @@
 ---
 title: is_visible proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 630
+weight: 660
 url: /it/aspose.cells/worksheet/is_visible/
 is_root: false
 ---
 ##  is_visible proprietà
 
-Rappresenta se il foglio di lavoro è visibile.
+Indica se il foglio di lavoro è visibile.
 ###  Definizione:
 ```python
 @property

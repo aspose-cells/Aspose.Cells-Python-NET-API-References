@@ -1,6 +1,6 @@
 ---
 title: filter_operator_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -21,6 +21,6 @@ def filter_operator_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CustomFilter](/cells/python-net/it/aspose.cells/customfilter)
-* classe [FilterOperatorType](/cells/python-net/it/aspose.cells/filteroperatortype)
+* modulo [`aspose.cells`](../../)
+* classe [`CustomFilter`](/cells/python-net/it/aspose.cells/customfilter)
+* classe [`FilterOperatorType`](/cells/python-net/it/aspose.cells/filteroperatortype)

@@ -1,6 +1,6 @@
 ---
 title: page_setup недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 400
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  page_setup недвижимость
 
-Представляет описание настройки страницы на этой диаграмме.
+Представляет описание настройки страницы в этой диаграмме.
 ###  Определение:
 ```python
 @property

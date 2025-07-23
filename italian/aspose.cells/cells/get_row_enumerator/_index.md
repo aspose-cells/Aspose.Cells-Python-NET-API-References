@@ -1,22 +1,23 @@
 ---
 title: Metodo get_row_enumerator
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 450
+weight: 490
 url: /it/aspose.cells/cells/get_row_enumerator/
 is_root: false
 ---
-##  get_row_enumerator {#}
-Ottiene l'enumeratore di righe.
+##  get_row_enumerator(self) {#}
+Ottiene l'enumeratore delle righe.
 
 
 ###  ritorna
 
-L'enumeratore di righe.
+Enumeratore delle righe.
 
 
 ```python
+
 def get_row_enumerator(self):
     ...
 ```
@@ -25,9 +26,9 @@ def get_row_enumerator(self):
 ###  Osservazioni
 
 NOTA: questo membro è ora obsoleto. Invece,
-utilizzare il metodo RowCollection.GetEnumerator().
+si prega di utilizzare il metodo RowCollection.GetEnumerator().
 Questo metodo verrà rimosso 12 mesi dopo, a partire da maggio 2023.
-Aspose si scusa per eventuali disagi riscontrati.
+Aspose si scusa per ogni eventuale disagio arrecato.
 
 
 ###  Guarda anche

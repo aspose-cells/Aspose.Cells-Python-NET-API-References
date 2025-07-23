@@ -1,6 +1,6 @@
 ---
 title: border_style proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -21,6 +21,6 @@ def border_style(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [ControlBorderType](/cells/python-net/it/aspose.cells.drawing.activexcontrols/controlbordertype)
-* classe [LabelActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/labelactivexcontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ControlBorderType`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/controlbordertype)
+* classe [`LabelActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/labelactivexcontrol)

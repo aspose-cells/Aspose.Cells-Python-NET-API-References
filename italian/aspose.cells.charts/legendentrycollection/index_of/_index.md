@@ -1,22 +1,23 @@
 ---
-title: metodo index_of
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo index_of
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
 url: /it/aspose.cells.charts/legendentrycollection/index_of/
 is_root: false
 ---
-##  index_of(item, index) {#LegendEntry-int}
-Cerca l'oggetto specificato e restituisce l'indice in base zero della prima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrici che si estende dall'indice specificato all'ultimo elemento.
+##  index_of(self, item, index) {#aspose.cells.charts.LegendEntry-int}
+Cerca l'oggetto specificato e restituisce l'indice a partire da zero della prima occorrenza nell'intervallo di elementi nell'elenco di array che si estende dall'indice specificato all'ultimo elemento.
 
 
 ###  ritorna
 
-L'indice in base zero della prima occorrenza di value all'interno dell'intervallo di elementi nell'elenco di matrici che si estende da startIndex all'ultimo elemento, se trovato; altrimenti, -1.
+Indice a partire da zero della prima occorrenza di valore nell'intervallo di elementi nell'elenco di array che si estende da startIndex all'ultimo elemento, se trovato; in caso contrario, -1.
 
 
 ```python
+
 def index_of(self, item, index):
     ...
 ```
@@ -24,20 +25,21 @@ def index_of(self, item, index):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| item | [LegendEntry](/cells/python-net/it/aspose.cells.charts/legendentry) | L'oggetto da individuare nell'elenco dell'array. Il valore può essere nullo.|
-| index | int | L'indice iniziale in base zero della ricerca. 0 (zero) è valido in una lista vuota.|
+| item | [`LegendEntry`](/cells/python-net/it/aspose.cells.charts/legendentry) | L'oggetto da individuare nell'elenco dell'array. Il valore può essere null.|
+| index | int | Indice iniziale della ricerca basato su zero. 0 (zero) è valido in un elenco vuoto.|
 
 
-##  index_of(item, index, count) {#LegendEntry-int-int}
-Cerca l'oggetto specificato e restituisce l'indice in base zero della prima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrici che inizia dall'indice specificato e contiene il numero specificato di elementi.
+##  index_of(self, item, index, count) {#aspose.cells.charts.LegendEntry-int-int}
+Cerca l'oggetto specificato e restituisce l'indice a partire da zero della prima occorrenza nell'intervallo di elementi nell'elenco di array che inizia dall'indice specificato e contiene il numero specificato di elementi.
 
 
 ###  ritorna
 
-L'indice in base zero della prima occorrenza di value all'interno dell'intervallo di elementi nell'elenco di matrici che inizia da startIndex e contiene il numero count di elementi, se trovato; altrimenti, -1.
+Indice a partire da zero della prima occorrenza di valore nell'intervallo di elementi nell'elenco di array che inizia da startIndex e contiene il numero di elementi, se trovato; in caso contrario, -1.
 
 
 ```python
+
 def index_of(self, item, index, count):
     ...
 ```
@@ -45,12 +47,12 @@ def index_of(self, item, index, count):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| item | [LegendEntry](/cells/python-net/it/aspose.cells.charts/legendentry) | L'oggetto da individuare nell'elenco dell'array. Il valore può essere nullo.|
-| index | int | L'indice iniziale in base zero della ricerca. 0 (zero) è valido in una lista vuota.|
-| count | int | Il numero di elementi nella sezione da cercare.|
+| item | [`LegendEntry`](/cells/python-net/it/aspose.cells.charts/legendentry) | L'oggetto da individuare nell'elenco dell'array. Il valore può essere null.|
+| index | int | Indice iniziale della ricerca basato su zero. 0 (zero) è valido in un elenco vuoto.|
+| count | int | Numero di elementi nella sezione da cercare.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [LegendEntryCollection](/cells/python-net/it/aspose.cells.charts/legendentrycollection)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`LegendEntryCollection`](/cells/python-net/it/aspose.cells.charts/legendentrycollection)

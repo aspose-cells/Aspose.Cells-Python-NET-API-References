@@ -1,6 +1,6 @@
 ---
 title: transparency недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 160
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  transparency недвижимость
 
-Возвращает или задает степень transparency области как значение от 0,0 (непрозрачный) до 1,0 (прозрачный).
+Возвращает или задает степень transparency области как значение от 0,0 (непрозрачная) до 1,0 (прозрачная).
 ###  Определение:
 ```python
 @property

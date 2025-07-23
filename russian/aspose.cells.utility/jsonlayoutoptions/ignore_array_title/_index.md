@@ -1,6 +1,6 @@
 ---
 title: ignore_array_title недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  ignore_array_title недвижимость
 
-Указывает, следует ли игнорировать заголовок, если массив является свойством объекта.
+Указывает, игнорировать ли заголовок, если массив является свойством объекта.
 
 ###  Примечания
 
- ПРИМЕЧАНИЕ. Это свойство устарело.
+ ПРИМЕЧАНИЕ: Это свойство теперь устарело.
 Вместо этого используйте свойство JsonLayoutOptions.IgnoreTitle.
- Это свойство будет удалено через 6 месяцев с февраля 2023 года.
-Aspose приносит извинения за возможные неудобства.
+ Эта недвижимость будет снесена через 6 месяцев с февраля 2023 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 ###  Определение:
 ```python
 @property
@@ -28,5 +28,5 @@ def ignore_array_title(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.utility](../../)
-* класс [JsonLayoutOptions](/cells/python-net/ru/aspose.cells.utility/jsonlayoutoptions)
+* модуль [`aspose.cells.utility`](../../)
+* класс [`JsonLayoutOptions`](/cells/python-net/ru/aspose.cells.utility/jsonlayoutoptions)

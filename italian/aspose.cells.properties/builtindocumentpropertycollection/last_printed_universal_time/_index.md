@@ -1,9 +1,9 @@
 ---
 title: last_printed_universal_time proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 240
+weight: 250
 url: /it/aspose.cells.properties/builtindocumentpropertycollection/last_printed_universal_time/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def last_printed_universal_time(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.properties](../../)
-* classe [BuiltInDocumentPropertyCollection](/cells/python-net/it/aspose.cells.properties/builtindocumentpropertycollection)
+* modulo [`aspose.cells.properties`](../../)
+* classe [`BuiltInDocumentPropertyCollection`](/cells/python-net/it/aspose.cells.properties/builtindocumentpropertycollection)

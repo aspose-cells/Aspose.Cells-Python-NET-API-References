@@ -1,6 +1,6 @@
 ---
 title: items недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  items недвижимость
 
-Получает дискретный номер items.
+Получает дискретное значение items.
 ###  Определение:
 ```python
 @property

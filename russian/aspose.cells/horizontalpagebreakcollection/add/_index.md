@@ -1,22 +1,23 @@
 ---
 title: add метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells/horizontalpagebreakcollection/add/
 is_root: false
 ---
-##  add(row) {#int}
-Добавляет в коллекцию горизонтальный разрыв страницы.
+##  add(self, row) {#int}
+Добавляет горизонтальный разрыв страницы в коллекцию.
 
 
-###  Возвращает
+###  Возврат
 
-[HorizontalPageBreak](/cells/python-net/ru/aspose.cells/horizontalpagebreak) индекс объекта.
+Индекс объекта [`HorizontalPageBreak`](/cells/python-net/ru/aspose.cells/horizontalpagebreak).
 
 
 ```python
+
 def add(self, row):
     ...
 ```
@@ -28,18 +29,19 @@ def add(self, row):
 ###  Примечания
 
 Разрыв страницы добавляется в левом верхнем углу ячейки.
-Пожалуйста, установите горизонтальный разрыв страницы и вертикальный разрыв страницы одновременно.
+Установите горизонтальный и вертикальный разрыв страницы одновременно.
 
-##  add(cell_name) {#str}
-Добавляет в коллекцию горизонтальный разрыв страницы.
+##  add(self, cell_name) {#str}
+Добавляет горизонтальный разрыв страницы в коллекцию.
 
 
-###  Возвращает
+###  Возврат
 
-[HorizontalPageBreak](/cells/python-net/ru/aspose.cells/horizontalpagebreak) индекс объекта.
+Индекс объекта [`HorizontalPageBreak`](/cells/python-net/ru/aspose.cells/horizontalpagebreak).
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -51,18 +53,19 @@ def add(self, cell_name):
 ###  Примечания
 
 Разрыв страницы добавляется в левом верхнем углу ячейки.
-Пожалуйста, установите горизонтальный разрыв страницы и вертикальный разрыв страницы одновременно.
+Установите горизонтальный и вертикальный разрыв страницы одновременно.
 
-##  add(row, column) {#int-int}
-Добавляет в коллекцию горизонтальный разрыв страницы.
+##  add(self, row, column) {#int-int}
+Добавляет горизонтальный разрыв страницы в коллекцию.
 
 
-###  Возвращает
+###  Возврат
 
-[HorizontalPageBreak](/cells/python-net/ru/aspose.cells/horizontalpagebreak) индекс объекта.
+Индекс объекта [`HorizontalPageBreak`](/cells/python-net/ru/aspose.cells/horizontalpagebreak).
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -71,22 +74,23 @@ def add(self, row, column):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | row | int | Cell индекс строки, отсчитываемый от нуля.|
-| column | int | Cell индекс столбца, отсчитываемый от нуля.|
+| column | int | Индекс столбца Cell, отсчитывается от нуля.|
 ###  Примечания
 
 Разрыв страницы добавляется в левом верхнем углу ячейки.
-Пожалуйста, установите горизонтальный разрыв страницы и вертикальный разрыв страницы одновременно.
+Установите горизонтальный и вертикальный разрыв страницы одновременно.
 
-##  add(row, start_column, end_column) {#int-int-int}
-Добавляет в коллекцию горизонтальный разрыв страницы.
+##  add(self, row, start_column, end_column) {#int-int-int}
+Добавляет горизонтальный разрыв страницы в коллекцию.
 
 
-###  Возвращает
+###  Возврат
 
-[HorizontalPageBreak](/cells/python-net/ru/aspose.cells/horizontalpagebreak) индекс объекта.
+Индекс объекта [`HorizontalPageBreak`](/cells/python-net/ru/aspose.cells/horizontalpagebreak).
 
 
 ```python
+
 def add(self, row, start_column, end_column):
     ...
 ```
@@ -95,8 +99,8 @@ def add(self, row, start_column, end_column):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | row | int | Индекс строки, отсчитываемый от нуля.|
-| start_column | int | Индекс начального столбца, отсчитываемый от нуля.|
-| end_column | int | Индекс конечного столбца, отсчитываемый от нуля.|
+| start_column | int | Начальный индекс столбца, отсчитывается от нуля.|
+| end_column | int | Конечный индекс столбца, отсчитывается от нуля.|
 ###  Примечания
 
 Этот метод используется для add горизонтального разрыва страницы в области печати.
@@ -104,6 +108,6 @@ def add(self, row, start_column, end_column):
 
 ###  Смотрите также
 
-* модуль [aspose.cells](../../)
-* класс [HorizontalPageBreak](/cells/python-net/ru/aspose.cells/horizontalpagebreak)
-* класс [HorizontalPageBreakCollection](/cells/python-net/ru/aspose.cells/horizontalpagebreakcollection)
+* модуль [`aspose.cells`](../../)
+* класс [`HorizontalPageBreak`](/cells/python-net/ru/aspose.cells/horizontalpagebreak)
+* класс [`HorizontalPageBreakCollection`](/cells/python-net/ru/aspose.cells/horizontalpagebreakcollection)

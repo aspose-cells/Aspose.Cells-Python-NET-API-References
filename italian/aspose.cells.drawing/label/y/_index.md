@@ -1,15 +1,15 @@
 ---
 title: y proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1240
+weight: 1250
 url: /it/aspose.cells.drawing/label/y/
 is_root: false
 ---
 ##  y proprietà
 
-Ottiene e imposta l'offset verticale della forma dal bordo superiore del foglio di lavoro, in unità di pixel.
+Ottiene e imposta lo scostamento verticale della forma dal bordo superiore del foglio di lavoro, in pixel.
 
 ###  Esempio
 

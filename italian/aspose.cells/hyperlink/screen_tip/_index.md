@@ -1,6 +1,6 @@
 ---
 title: screen_tip proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -21,5 +21,5 @@ def screen_tip(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Hyperlink](/cells/python-net/it/aspose.cells/hyperlink)
+* modulo [`aspose.cells`](../../)
+* classe [`Hyperlink`](/cells/python-net/it/aspose.cells/hyperlink)

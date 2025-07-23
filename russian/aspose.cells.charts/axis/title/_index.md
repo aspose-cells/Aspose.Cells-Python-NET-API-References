@@ -1,15 +1,15 @@
 ---
 title: title недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 420
+weight: 430
 url: /ru/aspose.cells.charts/axis/title/
 is_root: false
 ---
 ##  title недвижимость
 
-Получает номер оси title.
+Получает ось title.
 ###  Определение:
 ```python
 @property

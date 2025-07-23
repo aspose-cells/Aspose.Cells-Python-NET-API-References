@@ -1,6 +1,6 @@
 ---
 title: is_protected_with_password недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_protected_with_password недвижимость
 
-Указывает, защищены ли листы паролем.
+Указывает, защищены ли рабочие листы паролем.
 ###  Определение:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_protected_with_password(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ProtectedRange](/cells/python-net/ru/aspose.cells/protectedrange)
+* модуль [`aspose.cells`](../../)
+* класс [`ProtectedRange`](/cells/python-net/ru/aspose.cells/protectedrange)

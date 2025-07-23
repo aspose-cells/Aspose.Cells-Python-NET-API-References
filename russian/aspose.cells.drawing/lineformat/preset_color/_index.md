@@ -1,6 +1,6 @@
 ---
 title: preset_color недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 280
@@ -18,6 +18,6 @@ def preset_color(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [GradientPresetType](/cells/python-net/ru/aspose.cells.drawing/gradientpresettype)
-* класс [LineFormat](/cells/python-net/ru/aspose.cells.drawing/lineformat)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`GradientPresetType`](/cells/python-net/ru/aspose.cells.drawing/gradientpresettype)
+* класс [`LineFormat`](/cells/python-net/ru/aspose.cells.drawing/lineformat)

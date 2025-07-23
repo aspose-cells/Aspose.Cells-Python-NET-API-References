@@ -1,6 +1,6 @@
 ---
 title: center_vertically proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 280
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  center_vertically proprietà
 
-Indica se il foglio viene stampato centrato verticalmente.
+Indica se il foglio è stampato centrato verticalmente.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def center_vertically(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/it/aspose.cells/pagesetup)
+* modulo [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/it/aspose.cells/pagesetup)

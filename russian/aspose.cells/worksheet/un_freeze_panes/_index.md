@@ -1,18 +1,19 @@
 ---
 title: un_freeze_panes метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 310
+weight: 330
 url: /ru/aspose.cells/worksheet/un_freeze_panes/
 is_root: false
 ---
-##  un_freeze_panes {#}
-Размораживает панели на листе.
+##  un_freeze_panes(self) {#}
+Отменяет закрепление областей на листе.
 
 
 
 ```python
+
 def un_freeze_panes(self):
     ...
 ```

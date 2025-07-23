@@ -1,6 +1,6 @@
 ---
 title: is_transparent proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 180
@@ -8,8 +8,6 @@ url: /it/aspose.cells.drawing.activexcontrols/listboxactivexcontrol/is_transpare
 is_root: false
 ---
 ##  is_transparent proprietà
-
-Indica se il controllo è trasparente.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_transparent(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [ListBoxActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ListBoxActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

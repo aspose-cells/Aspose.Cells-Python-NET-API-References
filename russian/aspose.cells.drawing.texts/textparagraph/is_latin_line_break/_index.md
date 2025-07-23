@@ -1,6 +1,6 @@
 ---
 title: is_latin_line_break недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 130
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_latin_line_break недвижимость
 
-Указывает, можно ли разделить латинское слово пополам и перенести на следующую строку без добавления дефиса.
+Определяет, можно ли разбить латинское слово пополам и перенести на следующую строку без добавления дефиса.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_latin_line_break(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [TextParagraph](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraph)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`TextParagraph`](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraph)

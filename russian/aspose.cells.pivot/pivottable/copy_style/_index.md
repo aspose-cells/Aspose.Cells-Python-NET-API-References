@@ -1,18 +1,19 @@
 ---
 title: copy_style метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
 url: /ru/aspose.cells.pivot/pivottable/copy_style/
 is_root: false
 ---
-##  copy_style(pivot_table) {#PivotTable}
+##  copy_style(self, pivot_table) {#aspose.cells.pivot.PivotTable}
 Копирует именованный стиль из другой сводной таблицы.
 
 
 
 ```python
+
 def copy_style(self, pivot_table):
     ...
 ```
@@ -20,10 +21,10 @@ def copy_style(self, pivot_table):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| pivot_table | [PivotTable](/cells/python-net/ru/aspose.cells.pivot/pivottable) |Исходная сводная таблица.|
+| pivot_table | [`PivotTable`](/cells/python-net/ru/aspose.cells.pivot/pivottable) | Исходная сводная таблица.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotTable](/cells/python-net/ru/aspose.cells.pivot/pivottable)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotTable`](/cells/python-net/ru/aspose.cells.pivot/pivottable)

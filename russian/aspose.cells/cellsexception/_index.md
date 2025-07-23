@@ -1,14 +1,14 @@
 ---
 title: CellsException класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 220
+weight: 190
 url: /ru/aspose.cells/cellsexception/
 is_root: false
 ---
 ##  CellsException класс
-Исключение, которое выдается при возникновении указанной ошибки Aspose.Cells.
+Исключение, которое возникает при возникновении указанной ошибки Aspose.Cells.
 
 
 
@@ -17,7 +17,7 @@ is_root: false
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [code](/cells/python-net/ru/aspose.cells/cellsexception/code) | Представляет пользовательский код исключения.|
+| [code](/cells/python-net/ru/aspose.cells/cellsexception/code) | Представляет собой пользовательский код исключения.|
 
 
 

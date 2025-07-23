@@ -1,9 +1,9 @@
 ---
 title: tab_id недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 820
+weight: 840
 url: /ru/aspose.cells/worksheet/tab_id/
 is_root: false
 ---

@@ -1,15 +1,15 @@
 ---
 title: value proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 420
+weight: 520
 url: /it/aspose.cells/range/value/
 is_root: false
 ---
 ##  value proprietà
 
-Ottiene e imposta lo value dell'intervallo.
+Ottiene e imposta il valore value dell'intervallo.
 
 ###  Osservazioni
 

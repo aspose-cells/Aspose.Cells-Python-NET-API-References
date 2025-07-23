@@ -1,6 +1,6 @@
 ---
 title: is_threaded_comment недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 160
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_threaded_comment недвижимость
 
-Указывает, является ли этот комментарий цепочкой комментариев.
+Указывает, является ли этот комментарий древовидным.
 
 ###  Пример
 

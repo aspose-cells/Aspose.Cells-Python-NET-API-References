@@ -1,15 +1,15 @@
 ---
 title: is_automatic_major_unit недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 190
+weight: 200
 url: /ru/aspose.cells.charts/axis/is_automatic_major_unit/
 is_root: false
 ---
 ##  is_automatic_major_unit недвижимость
 
-Указывает, назначается ли основная единица оси автоматически.
+Указывает, назначается ли автоматически основная единица оси.
 ###  Определение:
 ```python
 @property

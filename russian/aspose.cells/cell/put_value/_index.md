@@ -1,18 +1,19 @@
 ---
 title: put_value метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 280
+weight: 290
 url: /ru/aspose.cells/cell/put_value/
 is_root: false
 ---
-##  put_value {#bool}
-Помещает логическое значение в ячейку.
+##  put_value(self, bool_value) {#bool}
+Помещает в ячейку логическое значение.
 
 
 
 ```python
+
 def put_value(self, bool_value):
     ...
 ```
@@ -23,12 +24,13 @@ def put_value(self, bool_value):
 | bool_value | bool |  |
 
 
-##  put_value {#int}
+##  put_value(self, int_value) {#int}
 Помещает в ячейку целочисленное значение.
 
 
 
 ```python
+
 def put_value(self, int_value):
     ...
 ```
@@ -39,12 +41,13 @@ def put_value(self, int_value):
 | int_value | int | Входное значение|
 
 
-##  put_value {#float}
+##  put_value(self, double_value) {#float}
 Помещает в ячейку двойное значение.
 
 
 
 ```python
+
 def put_value(self, double_value):
     ...
 ```
@@ -55,12 +58,13 @@ def put_value(self, double_value):
 | double_value | float | Входное значение|
 
 
-##  put_value {#str}
+##  put_value(self, string_value) {#str}
 Помещает строковое значение в ячейку.
 
 
 
 ```python
+
 def put_value(self, string_value):
     ...
 ```
@@ -71,12 +75,13 @@ def put_value(self, string_value):
 | string_value | str | Входное значение|
 
 
-##  put_value {#DateTime}
-Помещает в ячейку значение DateTime.
+##  put_value(self, date_time) {#DateTime}
+Помещает значение DateTime в ячейку.
 
 
 
 ```python
+
 def put_value(self, date_time):
     ...
 ```
@@ -87,14 +92,14 @@ def put_value(self, date_time):
 | date_time | DateTime | Входное значение|
 ###  Примечания
 
-Установка значения DateTime для дозы ячейки не означает, что ячейка будет автоматически отформатирована как дата и время.
-Значение DateTime сохранялось как числовое значение в модели данных MS Excel и Aspose.Cells.
-Будет ли числовое значение восприниматься как само числовое значение или дата и время.
-зависит от числового формата, примененного к этой ячейке. Если эта ячейка не была отформатирована как дата и время,
-оно будет отображаться как числовое значение, даже если вы вводите DateTime.
+Установка значения DateTime для ячейки не означает, что ячейка будет автоматически отформатирована как дата и время.
+Значение DateTime сохранялось как числовое значение в модели данных как MS Excel, так и Aspose.Cells.
+Будет ли числовое значение принято как само числовое значение или как дата и время
+зависит от числового формата, примененного к этой ячейке. Если эта ячейка не отформатирована как дата и время,
+оно будет отображено как числовое значение, даже если вы ввели DateTime.
 ###  Пример
 
-В этом примере показано, как установить значение DateTime для ячейки и отобразить его как дату и время.
+В этом примере показано, как присвоить ячейке значение DateTime и отобразить его как дату и время.
 
 ```python
 from aspose.cells import Workbook
@@ -112,12 +117,13 @@ cell.set_style(style)
 ```
 
 
-##  put_value {#any}
+##  put_value(self, object_value) {#any}
 Помещает значение объекта в ячейку.
 
 
 
 ```python
+
 def put_value(self, object_value):
     ...
 ```
@@ -128,12 +134,13 @@ def put_value(self, object_value):
 | object_value | any | входное значение|
 
 
-##  put_value {#str-bool}
+##  put_value(self, string_value, is_converted) {#str-bool}
 Помещает строковое значение в ячейку и при необходимости преобразует значение в другой тип данных.
 
 
 
 ```python
+
 def put_value(self, string_value, is_converted):
     ...
 ```
@@ -142,15 +149,16 @@ def put_value(self, string_value, is_converted):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | string_value | str | Входное значение|
-| is_converted | bool | True: преобразуется в другой тип данных, если это необходимо.|
+| is_converted | bool | True: преобразовано в другой тип данных при необходимости.|
 
 
-##  put_value {#str-bool-bool}
-Помещает значение в ячейку. При необходимости значение будет преобразовано в другой тип данных, а числовой формат ячейки будет сброшен.
+##  put_value(self, string_value, is_converted, set_style) {#str-bool-bool}
+Помещает значение в ячейку, при необходимости значение будет преобразовано в другой тип данных, а числовой формат ячейки будет сброшен.
 
 
 
 ```python
+
 def put_value(self, string_value, is_converted, set_style):
     ...
 ```
@@ -159,8 +167,8 @@ def put_value(self, string_value, is_converted, set_style):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | string_value | str | Входное значение|
-| is_converted | bool | True: преобразуется в другой тип данных, если это необходимо.|
-| set_style | bool | True: установите числовой формат в соответствии со стилем ячейки при преобразовании в другой тип данных.|
+| is_converted | bool | True: преобразовано в другой тип данных при необходимости.|
+| set_style | bool | True: установить числовой формат в соответствии со стилем ячейки при преобразовании в другой тип данных.|
 
 
 

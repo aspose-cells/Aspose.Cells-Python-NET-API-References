@@ -1,6 +1,6 @@
 ---
 title: border_width_px недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 180
@@ -18,5 +18,5 @@ def border_width_px(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [ChartPoint](/cells/python-net/ru/aspose.cells.charts/chartpoint)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`ChartPoint`](/cells/python-net/ru/aspose.cells.charts/chartpoint)

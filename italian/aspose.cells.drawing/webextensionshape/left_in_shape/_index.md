@@ -1,16 +1,16 @@
 ---
 title: left_in_shape proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 690
+weight: 700
 url: /it/aspose.cells.drawing/webextensionshape/left_in_shape/
 is_root: false
 ---
 ##  left_in_shape proprietà
 
- Rappresenta l'offset orizzontale della forma dal bordo sinistro della forma genitore,
-in unità di 1/4000 della larghezza della forma principale.
+ Rappresenta lo spostamento orizzontale della forma dal bordo sinistro della forma padre,
+in unità di 1/4000 della larghezza della forma madre.
 
 ###  Osservazioni
 

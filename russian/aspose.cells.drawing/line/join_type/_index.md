@@ -1,6 +1,6 @@
 ---
 title: join_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 180
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  join_type недвижимость
 
-Определяет соединительные заглавные буквы.
+Указывает соединительные заглушки.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def join_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Line](/cells/python-net/ru/aspose.cells.drawing/line)
-* класс [LineJoinType](/cells/python-net/ru/aspose.cells.drawing/linejointype)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Line`](/cells/python-net/ru/aspose.cells.drawing/line)
+* класс [`LineJoinType`](/cells/python-net/ru/aspose.cells.drawing/linejointype)

@@ -1,9 +1,9 @@
 ---
 title: is_hidden proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 680
+weight: 700
 url: /it/aspose.cells.drawing/picture/is_hidden/
 is_root: false
 ---

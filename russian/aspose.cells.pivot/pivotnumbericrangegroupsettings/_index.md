@@ -1,14 +1,14 @@
 ---
 title: PivotNumbericRangeGroupSettings класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 160
+weight: 200
 url: /ru/aspose.cells.pivot/pivotnumbericrangegroupsettings/
 is_root: false
 ---
 ##  PivotNumbericRangeGroupSettings класс
-Представляет группу числовых диапазонов сводного поля.
+Представляет группу числовых диапазонов поля сводки.
 
 
 

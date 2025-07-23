@@ -1,6 +1,6 @@
 ---
 title: axis_between_categories proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  axis_between_categories proprietà
 
-Rappresenta se l'asse dei valori incrocia l'asse delle categorie tra le categorie.
+Rappresenta se l'asse dei valori interseca l'asse delle categorie tra le categorie.
 
 ###  Osservazioni
 

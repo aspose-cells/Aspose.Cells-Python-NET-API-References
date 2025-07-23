@@ -1,6 +1,6 @@
 ---
 title: locale_dependent недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  locale_dependent недвижимость
 
-Отформатирована ли формула в локали. По умолчанию — ложь.
+Отформатирована ли формула в соответствии с региональными настройками. Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property

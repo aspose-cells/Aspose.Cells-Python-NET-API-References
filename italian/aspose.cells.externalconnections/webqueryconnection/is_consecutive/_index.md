@@ -1,15 +1,15 @@
 ---
 title: is_consecutive proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 120
+weight: 170
 url: /it/aspose.cells.externalconnections/webqueryconnection/is_consecutive/
 is_root: false
 ---
 ##  is_consecutive proprietà
 
-Flag che indica se i delimitatori consecutivi devono essere trattati come un solo delimitatore.
+Flag che indica se i delimitatori consecutivi devono essere trattati come un unico delimitatore.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_consecutive(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.externalconnections](../../)
-* classe [WebQueryConnection](/cells/python-net/it/aspose.cells.externalconnections/webqueryconnection)
+* modulo [`aspose.cells.externalconnections`](../../)
+* classe [`WebQueryConnection`](/cells/python-net/it/aspose.cells.externalconnections/webqueryconnection)

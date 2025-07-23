@@ -1,18 +1,19 @@
 ---
-title: metodo set_chart_data_range
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo set_chart_data_range
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 100
+weight: 120
 url: /it/aspose.cells.charts/chart/set_chart_data_range/
 is_root: false
 ---
-##  set_chart_data_range(area, is_vertical) {#str-bool}
+##  set_chart_data_range(self, area, is_vertical) {#str-bool}
 Specifica l'intervallo di dati per un grafico.
 
 
 
 ```python
+
 def set_chart_data_range(self, area, is_vertical):
     ...
 ```
@@ -26,5 +27,5 @@ def set_chart_data_range(self, area, is_vertical):
 
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Chart](/cells/python-net/it/aspose.cells.charts/chart)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Chart`](/cells/python-net/it/aspose.cells.charts/chart)

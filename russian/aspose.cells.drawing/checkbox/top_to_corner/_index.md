@@ -1,15 +1,15 @@
 ---
 title: top_to_corner недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /ru/aspose.cells.drawing/checkbox/top_to_corner/
 is_root: false
 ---
 ##  top_to_corner недвижимость
 
-Получает и задает вертикальное смещение фигуры от верхней границы листа в пикселях.
+Возвращает и задает вертикальное смещение фигуры от верхней границы листа в пикселях.
 
 ###  Пример
 

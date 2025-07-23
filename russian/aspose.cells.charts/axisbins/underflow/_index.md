@@ -1,6 +1,6 @@
 ---
 title: underflow недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  underflow недвижимость
 
-Получает или задает underflow бинов осей
+Получает или задает underflow ячеек оси
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def underflow(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [AxisBins](/cells/python-net/ru/aspose.cells.charts/axisbins)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`AxisBins`](/cells/python-net/ru/aspose.cells.charts/axisbins)

@@ -1,6 +1,6 @@
 ---
 title: modify_document_permission недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 100
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  modify_document_permission недвижимость
 
- Указывает, разрешено ли изменять содержимое документа с помощью операций, отличных от контролируемых.
-по номерам [`PdfSecurityOptions.annotations_permission`](/cells/python-net/ru/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#annotations_permission), [`PdfSecurityOptions.fill_forms_permission`](/cells/python-net/ru/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#fill_forms_permission) и [`PdfSecurityOptions.assemble_document_permission`](/cells/python-net/ru/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#assemble_document_permission).
+ Указывает, разрешено ли изменять содержимое документа с помощью операций, отличных от контролируемых
+по телефонам [`PdfSecurityOptions.annotations_permission`](/cells/python-net/ru/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#annotations_permission), [`PdfSecurityOptions.fill_forms_permission`](/cells/python-net/ru/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#fill_forms_permission) и [`PdfSecurityOptions.assemble_document_permission`](/cells/python-net/ru/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#assemble_document_permission).
 ###  Определение:
 ```python
 @property

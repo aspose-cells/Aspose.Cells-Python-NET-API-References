@@ -1,6 +1,6 @@
 ---
 title: encoding недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 110
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  encoding недвижимость
 
-Получает и задает значение по умолчанию encoding. Применяется только для CSV-файла.
+Получает и задает значение по умолчанию encoding. Применимо только к CSV-файлу.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def encoding(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [AbstractTextLoadOptions](/cells/python-net/ru/aspose.cells/abstracttextloadoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`AbstractTextLoadOptions`](/cells/python-net/ru/aspose.cells/abstracttextloadoptions)

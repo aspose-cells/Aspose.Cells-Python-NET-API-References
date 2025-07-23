@@ -1,9 +1,9 @@
 ---
 title: Row indicizzatore
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 90
+weight: 100
 url: /it/aspose.cells/row/__getitem__/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Ottiene la cella.
 ###  Indicizzatore
 | Nome| Descrizione|
 | :- | :- |
-| index | L'indice di colonna|
+| index | L'indice della colonna|
 
 
 
@@ -22,5 +22,5 @@ Ottiene la cella.
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Row](/cells/python-net/it/aspose.cells/row)
+* modulo [`aspose.cells`](../../)
+* classe [`Row`](/cells/python-net/it/aspose.cells/row)

@@ -1,6 +1,6 @@
 ---
 title: is_range_set недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_range_set недвижимость
 
-Указывает, установлен ли искомый диапазон.
+Указывает, установлен ли диапазон поиска.
 ###  Определение:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_range_set(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [FindOptions](/cells/python-net/ru/aspose.cells/findoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`FindOptions`](/cells/python-net/ru/aspose.cells/findoptions)

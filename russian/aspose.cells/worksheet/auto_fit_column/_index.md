@@ -1,18 +1,19 @@
 ---
 title: auto_fit_column метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
 url: /ru/aspose.cells/worksheet/auto_fit_column/
 is_root: false
 ---
-##  auto_fit_column(column_index) {#int}
-Автоподбор ширины столбца.
+##  auto_fit_column(self, column_index) {#int}
+Автоматически подбирает ширину столбца.
 
 
 
 ```python
+
 def auto_fit_column(self, column_index):
     ...
 ```
@@ -25,13 +26,14 @@ def auto_fit_column(self, column_index):
 
 AutoFitColumn — неточная функция.
 
-##  auto_fit_column(column_index, first_row, last_row) {#int-int-int}
+##  auto_fit_column(self, column_index, first_row, last_row) {#int-int-int}
 
-Автоподбор ширины столбца.
+Автоматически подбирает ширину столбца.
 
 
 
 ```python
+
 def auto_fit_column(self, column_index, first_row, last_row):
     ...
 ```
@@ -44,10 +46,10 @@ def auto_fit_column(self, column_index, first_row, last_row):
 | last_row | int | Индекс последней строки.|
 ###  Примечания
 
-Этот метод автоматически подбирает строку на основе содержимого диапазона ячеек в строке.
+Этот метод автоматически подбирает строку на основе содержимого диапазона ячеек внутри строки.
 
 
 ###  Смотрите также
 
-* модуль [aspose.cells](../../)
-* класс [Worksheet](/cells/python-net/ru/aspose.cells/worksheet)
+* модуль [`aspose.cells`](../../)
+* класс [`Worksheet`](/cells/python-net/ru/aspose.cells/worksheet)

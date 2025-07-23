@@ -1,6 +1,6 @@
 ---
 title: line_style proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -21,6 +21,6 @@ def line_style(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Border](/cells/python-net/it/aspose.cells/border)
-* classe [CellBorderType](/cells/python-net/it/aspose.cells/cellbordertype)
+* modulo [`aspose.cells`](../../)
+* classe [`Border`](/cells/python-net/it/aspose.cells/border)
+* classe [`CellBorderType`](/cells/python-net/it/aspose.cells/cellbordertype)

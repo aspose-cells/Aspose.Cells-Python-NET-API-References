@@ -1,22 +1,23 @@
 ---
 title: set_picture метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 220
 url: /ru/aspose.cells/pagesetup/set_picture/
 is_root: false
 ---
-##  set_picture(is_first, is_even, is_header, section, image_data) {#bool-bool-bool-int-bytes}
-Устанавливает изображение в верхний/нижний колонтитул листа.
+##  set_picture(self, is_first, is_even, is_header, section, image_data) {#bool-bool-bool-int-bytes}
+Устанавливает изображение в верхний/нижний колонтитул рабочего листа.
 
 
-###  Возвращает
+###  Возврат
 
-Возвращает объект [Picture](/cells/python-net/ru/aspose.cells.drawing/picture).
+Возвращает объект [`Picture`](/cells/python-net/ru/aspose.cells.drawing/picture).
 
 
 ```python
+
 def set_picture(self, is_first, is_even, is_header, section, image_data):
     ...
 ```
@@ -24,15 +25,15 @@ def set_picture(self, is_first, is_even, is_header, section, image_data):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| is_first | bool | Указывает, устанавливается ли изображение верхнего/нижнего колонтитула первой страницы.|
-| is_even | bool | Указывает, устанавливается ли изображение четного верхнего/нижнего колонтитула страницы.|
-| is_header | bool | Указывает, устанавливается ли изображение верхнего/нижнего колонтитула.|
-| section | int | 0: левая часть, 1: центральная часть, 2: правая часть.|
+| is_first | bool | Указывает, установлена ли картинка верхнего/нижнего колонтитула первой страницы.|
+| is_even | bool | Указывает, установлена ли картинка верхнего/нижнего колонтитула четной страницы.|
+| is_header | bool | Указывает, установлена ли картинка верхнего/нижнего колонтитула.|
+| section | int |0: Левая секция, 1: Центральная секция, 2: Правая секция.|
 | image_data | bytes | Данные изображения.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PageSetup](/cells/python-net/ru/aspose.cells/pagesetup)
-* класс [Picture](/cells/python-net/ru/aspose.cells.drawing/picture)
+* модуль [`aspose.cells`](../../)
+* класс [`PageSetup`](/cells/python-net/ru/aspose.cells/pagesetup)
+* класс [`Picture`](/cells/python-net/ru/aspose.cells.drawing/picture)

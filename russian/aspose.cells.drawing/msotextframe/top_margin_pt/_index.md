@@ -1,6 +1,6 @@
 ---
 title: top_margin_pt недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  top_margin_pt недвижимость
 
-Возвращает верхнюю границу в баллах
+Возвращает верхнее поле в пунктах.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def top_margin_pt(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [MsoTextFrame](/cells/python-net/ru/aspose.cells.drawing/msotextframe)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`MsoTextFrame`](/cells/python-net/ru/aspose.cells.drawing/msotextframe)

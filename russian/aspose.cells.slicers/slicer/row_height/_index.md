@@ -1,6 +1,6 @@
 ---
 title: row_height недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 220
@@ -15,7 +15,7 @@ is_root: false
 
 ```python
 
-slicer.row_height = 20
+slicer.row_height = 20.0
 
 ```
 ###  Определение:
@@ -29,5 +29,5 @@ def row_height(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.slicers](../../)
-* класс [Slicer](/cells/python-net/ru/aspose.cells.slicers/slicer)
+* модуль [`aspose.cells.slicers`](../../)
+* класс [`Slicer`](/cells/python-net/ru/aspose.cells.slicers/slicer)

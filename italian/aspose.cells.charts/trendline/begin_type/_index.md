@@ -1,6 +1,6 @@
 ---
 title: begin_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  begin_type proprietà
 
-Specifica una freccia per l'inizio di una riga.
+Specifica una punta di freccia per l'inizio di una riga.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def begin_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [MsoArrowheadStyle](/cells/python-net/it/aspose.cells.drawing/msoarrowheadstyle)
-* classe [Trendline](/cells/python-net/it/aspose.cells.charts/trendline)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`MsoArrowheadStyle`](/cells/python-net/it/aspose.cells.drawing/msoarrowheadstyle)
+* classe [`Trendline`](/cells/python-net/it/aspose.cells.charts/trendline)

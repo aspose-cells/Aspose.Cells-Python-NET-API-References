@@ -1,6 +1,6 @@
 ---
 title: is_auto_margin недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -21,5 +21,5 @@ def is_auto_margin(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [MsoTextFrame](/cells/python-net/ru/aspose.cells.drawing/msotextframe)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`MsoTextFrame`](/cells/python-net/ru/aspose.cells.drawing/msotextframe)

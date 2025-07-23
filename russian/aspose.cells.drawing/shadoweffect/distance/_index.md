@@ -1,6 +1,6 @@
 ---
 title: distance недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  distance недвижимость
 
-Получает и задает distance тени. Диапазон от 0 до 200 баллов.
+Получает и задаёт значение тени distance. Диапазон значений от 0 до 200 точек.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def distance(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ShadowEffect](/cells/python-net/ru/aspose.cells.drawing/shadoweffect)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ShadowEffect`](/cells/python-net/ru/aspose.cells.drawing/shadoweffect)

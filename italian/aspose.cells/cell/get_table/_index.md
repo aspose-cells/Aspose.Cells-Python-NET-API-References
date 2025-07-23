@@ -1,13 +1,13 @@
 ---
-title: metodo get_table
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo get_table
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 220
+weight: 230
 url: /it/aspose.cells/cell/get_table/
 is_root: false
 ---
-##  get_table() {#}
+##  get_table(self) {#}
 Ottiene la tabella che contiene questa cella.
 
 
@@ -17,6 +17,7 @@ Ottiene la tabella che contiene questa cella.
 
 
 ```python
+
 def get_table(self):
     ...
 ```
@@ -26,6 +27,6 @@ def get_table(self):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cell](/cells/python-net/it/aspose.cells/cell)
-* classe [ListObject](/cells/python-net/it/aspose.cells.tables/listobject)
+* modulo [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/it/aspose.cells/cell)
+* classe [`ListObject`](/cells/python-net/it/aspose.cells.tables/listobject)

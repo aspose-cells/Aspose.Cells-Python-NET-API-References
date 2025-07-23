@@ -1,9 +1,9 @@
 ---
 title: merge_areas proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 140
+weight: 170
 url: /it/aspose.cells/jsonsaveoptions/merge_areas/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def merge_areas(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [JsonSaveOptions](/cells/python-net/it/aspose.cells/jsonsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`JsonSaveOptions`](/cells/python-net/it/aspose.cells/jsonsaveoptions)

@@ -1,13 +1,13 @@
 ---
-title: metodo add_range
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo add_range
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells/errorcheckoption/add_range/
 is_root: false
 ---
-##  add_range(ca) {#CellArea}
+##  add_range(self, ca) {#aspose.cells.CellArea}
 Aggiunge un intervallo influenzato da questa impostazione.
 
 
@@ -17,6 +17,7 @@ l'indice dell'intervallo aggiunto nell'elenco degli intervalli di questa imposta
 
 
 ```python
+
 def add_range(self, ca):
     ...
 ```
@@ -24,10 +25,10 @@ def add_range(self, ca):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| ca | [CellArea](/cells/python-net/it/aspose.cells/cellarea) | l'intervallo da aggiungere.|
+| ca | [`CellArea`](/cells/python-net/it/aspose.cells/cellarea) | l'intervallo da aggiungere.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ErrorCheckOption](/cells/python-net/it/aspose.cells/errorcheckoption)
+* modulo [`aspose.cells`](../../)
+* classe [`ErrorCheckOption`](/cells/python-net/it/aspose.cells/errorcheckoption)

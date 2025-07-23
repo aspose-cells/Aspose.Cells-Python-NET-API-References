@@ -1,14 +1,14 @@
 ---
 title: LookAtType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2300
+weight: 2260
 url: /ru/aspose.cells/lookattype/
 is_root: false
 ---
 ##  LookAtType перечисление
-Представляет взгляд на тип.
+Представляет собой взгляд на тип.
 
 
 
@@ -17,10 +17,10 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| CONTAINS | Значение Cell Содержит объект поиска.|
-| START_WITH | Значение Cell Начинается с объекта поиска.|
-| END_WITH | Значение Cell заканчивается на искомый объект.|
-| ENTIRE_CONTENT | Значение Cell такое же, как и у объекта поиска.|
+| CONTAINS | Значение Cell содержит искомый объект.|
+| START_WITH | Значение Cell начинается с найденного объекта.|
+| END_WITH | Значение Cell заканчивается найденным объектом.|
+| ENTIRE_CONTENT | Значение Cell совпадает с найденным объектом.|
 
 
 

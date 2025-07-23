@@ -1,9 +1,9 @@
 ---
 title: export_single_tab proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 360
+weight: 420
 url: /it/aspose.cells/htmlsaveoptions/export_single_tab/
 is_root: false
 ---

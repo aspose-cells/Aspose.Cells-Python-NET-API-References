@@ -1,6 +1,6 @@
 ---
 title: gamma proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gamma proprietà
 
-Rappresenta lo gamma della foto.
+Rappresenta gamma dell'immagine.
 ###  Definizione:
 ```python
 @property

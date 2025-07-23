@@ -1,15 +1,15 @@
 ---
 title: show_table_style_first_column недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 220
+weight: 230
 url: /ru/aspose.cells.tables/listobject/show_table_style_first_column/
 is_root: false
 ---
 ##  show_table_style_first_column недвижимость
 
-Указывает, следует ли применять стиль к первому столбцу в таблице.
+Указывает, следует ли применять стиль к первому столбцу таблицы.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_table_style_first_column(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.tables](../../)
-* класс [ListObject](/cells/python-net/ru/aspose.cells.tables/listobject)
+* модуль [`aspose.cells.tables`](../../)
+* класс [`ListObject`](/cells/python-net/ru/aspose.cells.tables/listobject)

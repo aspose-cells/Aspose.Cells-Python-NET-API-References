@@ -1,6 +1,6 @@
 ---
 title: end_arrowhead_style proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 390
@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  end_arrowhead_style proprietà
 
-Ottiene e imposta lo stile della punta della freccia finale della linea.
+Ottiene e imposta lo stile della freccia finale della linea.
 
 ###  Osservazioni
 
  NOTA: questo membro è ora obsoleto. Invece,
- utilizzare la proprietà Shape.Line.EndArrowheadStyle.
+ si prega di utilizzare la proprietà Shape.Line.EndArrowheadStyle.
  Questa proprietà verrà rimossa 12 mesi dopo, a partire da agosto 2016.
-Aspose si scusa per eventuali disagi riscontrati.
+Aspose si scusa per ogni eventuale disagio arrecato.
 ###  Definizione:
 ```python
 @property

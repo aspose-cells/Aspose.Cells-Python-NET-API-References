@@ -1,6 +1,6 @@
 ---
 title: alignment_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  alignment_type недвижимость
 
-Получает и задает выравнивание текста для меток делений на оси.
+Получает и задает выравнивание текста для меток на оси.
 ###  Определение:
 ```python
 @property

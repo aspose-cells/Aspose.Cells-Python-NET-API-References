@@ -1,9 +1,9 @@
 ---
 title: PdfOptimizationType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 210
+weight: 240
 url: /ru/aspose.cells.rendering/pdfoptimizationtype/
 is_root: false
 ---
@@ -12,15 +12,15 @@ is_root: false
 
 
 
-Тип PdfOptimizationType предоставляет следующие члены:
+Тип PdfOptimizationType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| STANDARD |Высокое качество печати|
+| STANDARD | Высокое качество печати|
 | MINIMUM_SIZE | Размер файла важнее качества печати|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering](..)
+* модуль [`aspose.cells.rendering`](..)

@@ -1,15 +1,15 @@
 ---
 title: position недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 300
+weight: 370
 url: /ru/aspose.cells.charts/datalabels/position/
 is_root: false
 ---
 ##  position недвижимость
 
-Представляет position метки данных.
+Представляет собой position метки данных.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def position(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [DataLabels](/cells/python-net/ru/aspose.cells.charts/datalabels)
-* класс [LabelPositionType](/cells/python-net/ru/aspose.cells.charts/labelpositiontype)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`DataLabels`](/cells/python-net/ru/aspose.cells.charts/datalabels)
+* класс [`LabelPositionType`](/cells/python-net/ru/aspose.cells.charts/labelpositiontype)

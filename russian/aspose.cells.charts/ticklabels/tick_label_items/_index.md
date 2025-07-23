@@ -1,6 +1,6 @@
 ---
 title: tick_label_items недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 170
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  tick_label_items недвижимость
 
-Получает информацию о каждом элементе метки деления оси.
+Получает метки делений отображения оси.
 
 ###  Примечания
 

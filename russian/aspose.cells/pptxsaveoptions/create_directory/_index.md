@@ -1,19 +1,13 @@
 ---
 title: create_directory недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ru/aspose.cells/pptxsaveoptions/create_directory/
 is_root: false
 ---
 ##  create_directory недвижимость
-
-Если это правда и каталог не существует, каталог будет автоматически создан перед сохранением файла.
-
-###  Примечания
-
-Значение по умолчанию неверно.
 ###  Определение:
 ```python
 @property

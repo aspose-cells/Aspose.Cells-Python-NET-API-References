@@ -1,9 +1,9 @@
 ---
 title: HeaderFooterCommand classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 770
+weight: 750
 url: /it/aspose.cells/headerfootercommand/
 is_root: false
 ---
@@ -17,8 +17,8 @@ Il tipo HeaderFooterCommand espone i seguenti membri:
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [type](/cells/python-net/it/aspose.cells/headerfootercommand/type) | Ottiene il tipo di comando dell'intestazione/piè di pagina.|
-| [font](/cells/python-net/it/aspose.cells/headerfootercommand/font) | Ottiene il carattere del valore del comando.|
+| [type](/cells/python-net/it/aspose.cells/headerfootercommand/type) | Ottiene il tipo di comando 'intestazione/piè di pagina'.|
+| [font](/cells/python-net/it/aspose.cells/headerfootercommand/font) | Ottiene il font del valore del comando.|
 | [text](/cells/python-net/it/aspose.cells/headerfootercommand/text) | Ottiene il testo del comando.|
 
 

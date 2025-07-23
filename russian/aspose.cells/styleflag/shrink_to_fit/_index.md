@@ -1,6 +1,6 @@
 ---
 title: shrink_to_fit недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 280
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  shrink_to_fit недвижимость
 
-Будет применена настройка сжатия.
+Будет применен параметр «Сжать до соответствия».
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def shrink_to_fit(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [StyleFlag](/cells/python-net/ru/aspose.cells/styleflag)
+* модуль [`aspose.cells`](../../)
+* класс [`StyleFlag`](/cells/python-net/ru/aspose.cells/styleflag)

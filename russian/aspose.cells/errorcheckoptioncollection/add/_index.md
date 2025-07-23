@@ -1,22 +1,23 @@
 ---
 title: add метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells/errorcheckoptioncollection/add/
 is_root: false
 ---
-##  add() {#}
-Добавьте опцию проверки ошибок.
+##  add(self) {#}
+Добавьте возможность проверки ошибок.
 
 
-###  Возвращает
+###  Возврат
 
 
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ErrorCheckOptionCollection](/cells/python-net/ru/aspose.cells/errorcheckoptioncollection)
+* модуль [`aspose.cells`](../../)
+* класс [`ErrorCheckOptionCollection`](/cells/python-net/ru/aspose.cells/errorcheckoptioncollection)

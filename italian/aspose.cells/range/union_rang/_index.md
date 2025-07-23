@@ -1,13 +1,13 @@
 ---
 title: Metodo union_rang
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 240
+weight: 330
 url: /it/aspose.cells/range/union_rang/
 is_root: false
 ---
-##  union_rang {#aspose.cells.Range}
+##  union_rang(self, range) {#aspose.cells.Range}
 Restituisce il risultato dell'unione di due intervalli.
 
 
@@ -17,6 +17,7 @@ L'unione di due gamme.
 
 
 ```python
+
 def union_rang(self, range):
     ...
 ```
@@ -25,7 +26,12 @@ def union_rang(self, range):
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
 | range | [`Range`](/cells/python-net/it/aspose.cells/range) | La gamma|
+###  Osservazioni
 
+NOTA: questo metodo è ormai obsoleto. Invece,
+si prega di utilizzare il metodo Range.UnionRanges().
+ Questo metodo verrà rimosso 12 mesi dopo, a partire da maggio 2024.
+Aspose si scusa per ogni eventuale disagio arrecato.
 
 
 ###  Guarda anche

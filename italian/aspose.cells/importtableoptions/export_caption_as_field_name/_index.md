@@ -1,6 +1,6 @@
 ---
 title: export_caption_as_field_name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  export_caption_as_field_name proprietà
 
-Indica se esportare la didascalia come nome campo
+Indica se esportare la didascalia come nome del campo
 
 ###  Osservazioni
 
@@ -25,5 +25,5 @@ def export_caption_as_field_name(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ImportTableOptions](/cells/python-net/it/aspose.cells/importtableoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`ImportTableOptions`](/cells/python-net/it/aspose.cells/importtableoptions)

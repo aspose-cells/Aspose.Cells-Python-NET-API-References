@@ -1,6 +1,6 @@
 ---
 title: input_cells недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -18,6 +18,6 @@ def input_cells(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Scenario](/cells/python-net/ru/aspose.cells/scenario)
-* класс [ScenarioInputCellCollection](/cells/python-net/ru/aspose.cells/scenarioinputcellcollection)
+* модуль [`aspose.cells`](../../)
+* класс [`Scenario`](/cells/python-net/ru/aspose.cells/scenario)
+* класс [`ScenarioInputCellCollection`](/cells/python-net/ru/aspose.cells/scenarioinputcellcollection)

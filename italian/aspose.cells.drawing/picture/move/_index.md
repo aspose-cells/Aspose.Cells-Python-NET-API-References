@@ -1,18 +1,19 @@
 ---
 title: Metodo move
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 170
+weight: 180
 url: /it/aspose.cells.drawing/picture/move/
 is_root: false
 ---
-##  move {#int-int}
-Sposta l'immagine in una posizione specificata.
+##  move(self, upper_left_row, upper_left_column) {#int-int}
+Sposta l'immagine nella posizione specificata.
 
 
 
 ```python
+
 def move(self, upper_left_row, upper_left_column):
     ...
 ```

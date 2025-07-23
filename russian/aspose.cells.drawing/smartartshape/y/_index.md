@@ -1,15 +1,15 @@
 ---
 title: y недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1240
+weight: 1250
 url: /ru/aspose.cells.drawing/smartartshape/y/
 is_root: false
 ---
 ##  y недвижимость
 
-Получает и задает вертикальное смещение фигуры от верхней границы листа в пикселях.
+Возвращает и задает вертикальное смещение фигуры от верхней границы листа в пикселях.
 
 ###  Пример
 

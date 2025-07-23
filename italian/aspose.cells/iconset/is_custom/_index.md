@@ -1,6 +1,6 @@
 ---
 title: is_custom proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -19,5 +19,5 @@ def is_custom(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [IconSet](/cells/python-net/it/aspose.cells/iconset)
+* modulo [`aspose.cells`](../../)
+* classe [`IconSet`](/cells/python-net/it/aspose.cells/iconset)

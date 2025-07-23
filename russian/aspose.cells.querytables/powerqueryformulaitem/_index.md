@@ -1,6 +1,6 @@
 ---
 title: PowerQueryFormulaItem класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -8,11 +8,11 @@ url: /ru/aspose.cells.querytables/powerqueryformulaitem/
 is_root: false
 ---
 ##  PowerQueryFormulaItem класс
-Представляет элемент формулы мощного запроса.
+Представляет элемент формулы запроса мощности.
 
 
 
-Тип PowerQueryFormulaItem предоставляет следующие члены:
+Тип PowerQueryFormulaItem предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
@@ -23,4 +23,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.querytables](..)
+* модуль [`aspose.cells.querytables`](..)

@@ -1,22 +1,23 @@
 ---
 title: add метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells/externallinkcollection/add/
 is_root: false
 ---
-##  add(file_name, sheet_names) {#str-list}
+##  add(self, file_name, sheet_names) {#str-list}
 Добавляет внешнюю ссылку.
 
 
-###  Возвращает
+###  Возврат
 
-Позиция внешнего имени в этом списке.
+Положение внешнего имени в этом списке.
 
 
 ```python
+
 def add(self, file_name, sheet_names):
     ...
 ```
@@ -28,16 +29,17 @@ def add(self, file_name, sheet_names):
 | sheet_names | list | Все имена листов внешнего файла.|
 
 
-##  add(directory_type, file_name, sheet_names) {#DirectoryType-str-list}
-Добавьте внешнюю ссылку.
+##  add(self, directory_type, file_name, sheet_names) {#aspose.cells.DirectoryType-str-list}
+Добавить внешнюю ссылку.
 
 
-###  Возвращает
+###  Возврат
 
-Позиция внешнего имени в этом списке.
+Положение внешнего имени в этом списке.
 
 
 ```python
+
 def add(self, directory_type, file_name, sheet_names):
     ...
 ```
@@ -45,12 +47,12 @@ def add(self, directory_type, file_name, sheet_names):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| directory_type | [DirectoryType](/cells/python-net/ru/aspose.cells/directorytype) |Тип каталога имени файла.|
+| directory_type | [`DirectoryType`](/cells/python-net/ru/aspose.cells/directorytype) | Тип каталога имени файла.|
 | file_name | str | имя файла.|
 | sheet_names | list | Все имена листов внешнего файла.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ExternalLinkCollection](/cells/python-net/ru/aspose.cells/externallinkcollection)
+* модуль [`aspose.cells`](../../)
+* класс [`ExternalLinkCollection`](/cells/python-net/ru/aspose.cells/externallinkcollection)

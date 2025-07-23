@@ -1,6 +1,6 @@
 ---
 title: rename_strategy недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 150
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rename_strategy недвижимость
 
-Стратегия дублирования названий столбцов.
+Стратегия в отношении дублирующихся названий столбцов.
 ###  Определение:
 ```python
 @property

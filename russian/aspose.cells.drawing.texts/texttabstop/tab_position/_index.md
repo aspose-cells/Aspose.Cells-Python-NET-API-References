@@ -1,6 +1,6 @@
 ---
 title: tab_position недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  tab_position недвижимость
 
-Определяет положение позиции табуляции относительно левого поля.
+Задает положение позиции табуляции относительно левого поля.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def tab_position(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [TextTabStop](/cells/python-net/ru/aspose.cells.drawing.texts/texttabstop)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`TextTabStop`](/cells/python-net/ru/aspose.cells.drawing.texts/texttabstop)

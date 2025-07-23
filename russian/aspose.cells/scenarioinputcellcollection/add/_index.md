@@ -1,22 +1,23 @@
 ---
 title: add метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells/scenarioinputcellcollection/add/
 is_root: false
 ---
-##  add(row, column, value) {#int-int-str}
+##  add(self, row, column, value) {#int-int-str}
 Добавляет ячейку ввода.
 
 
-###  Возвращает
+###  Возврат
 
 
 
 
 ```python
+
 def add(self, row, column, value):
     ...
 ```
@@ -31,5 +32,5 @@ def add(self, row, column, value):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ScenarioInputCellCollection](/cells/python-net/ru/aspose.cells/scenarioinputcellcollection)
+* модуль [`aspose.cells`](../../)
+* класс [`ScenarioInputCellCollection`](/cells/python-net/ru/aspose.cells/scenarioinputcellcollection)

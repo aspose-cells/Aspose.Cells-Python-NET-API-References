@@ -1,9 +1,9 @@
 ---
 title: zoom proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 940
+weight: 960
 url: /it/aspose.cells/worksheet/zoom/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Rappresenta il fattore di scala in percentuale. Dovrebbe essere compreso tra 10 
 
 ###  Osservazioni
 
-Imposta prima il tipo di visualizzazione.
+Impostare prima il tipo di visualizzazione.
 ###  Definizione:
 ```python
 @property

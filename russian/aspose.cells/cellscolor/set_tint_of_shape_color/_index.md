@@ -1,18 +1,19 @@
 ---
 title: set_tint_of_shape_color метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells/cellscolor/set_tint_of_shape_color/
 is_root: false
 ---
-##  set_tint_of_shape_color(tint) {#float}
-Установите оттенок цвета фигуры
+##  set_tint_of_shape_color(self, tint) {#float}
+Установить оттенок цвета фигуры
 
 
 
 ```python
+
 def set_tint_of_shape_color(self, tint):
     ...
 ```
@@ -25,5 +26,5 @@ def set_tint_of_shape_color(self, tint):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CellsColor](/cells/python-net/ru/aspose.cells/cellscolor)
+* модуль [`aspose.cells`](../../)
+* класс [`CellsColor`](/cells/python-net/ru/aspose.cells/cellscolor)

@@ -1,6 +1,6 @@
 ---
 title: height_px proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 180
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height_px proprietà
 
-Ottiene l'altezza dall'alto verso il basso in unità di pixel dopo aver chiamato il metodo Chart.Calculate().
+Ottiene l'altezza dall'alto al basso in unità di pixel dopo aver chiamato il metodo Chart.Calculate().
 ###  Definizione:
 ```python
 @property
@@ -18,5 +18,5 @@ def height_px(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Walls](/cells/python-net/it/aspose.cells.charts/walls)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Walls`](/cells/python-net/it/aspose.cells.charts/walls)

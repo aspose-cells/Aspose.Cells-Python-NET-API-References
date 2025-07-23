@@ -1,6 +1,6 @@
 ---
 title: name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 340
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name недвижимость
 
-Получает или задает name ряда данных.
+Возвращает или задает name ряда данных.
 
 ###  Пример
 
@@ -32,5 +32,5 @@ def name(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Series](/cells/python-net/ru/aspose.cells.charts/series)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Series`](/cells/python-net/ru/aspose.cells.charts/series)

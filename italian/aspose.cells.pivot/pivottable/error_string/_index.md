@@ -1,9 +1,9 @@
 ---
 title: error_string proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 520
+weight: 620
 url: /it/aspose.cells.pivot/pivottable/error_string/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def error_string(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [PivotTable](/cells/python-net/it/aspose.cells.pivot/pivottable)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`PivotTable`](/cells/python-net/it/aspose.cells.pivot/pivottable)

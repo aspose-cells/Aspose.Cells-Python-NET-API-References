@@ -1,22 +1,23 @@
 ---
 title: add метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells/namecollection/add/
 is_root: false
 ---
-##  add(text) {#str}
+##  add(self, text) {#str}
 Определяет новое имя.
 
 
-###  Возвращает
+###  Возврат
 
-[Name](/cells/python-net/ru/aspose.cells/name) индекс объекта.
+Индекс объекта [`Name`](/cells/python-net/ru/aspose.cells/name).
 
 
 ```python
+
 def add(self, text):
     ...
 ```
@@ -24,14 +25,14 @@ def add(self, text):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| text | str | Текст для использования в качестве имени.|
+| text | str | Текст, который будет использоваться в качестве имени.|
 ###  Примечания
 
-Имя не может содержать пробелы и не может выглядеть как ссылка на ячейку.
+Имя не может содержать пробелы и не может быть похоже на ссылки на ячейки.
 
 
 ###  Смотрите также
 
-* модуль [aspose.cells](../../)
-* класс [Name](/cells/python-net/ru/aspose.cells/name)
-* класс [NameCollection](/cells/python-net/ru/aspose.cells/namecollection)
+* модуль [`aspose.cells`](../../)
+* класс [`Name`](/cells/python-net/ru/aspose.cells/name)
+* класс [`NameCollection`](/cells/python-net/ru/aspose.cells/namecollection)

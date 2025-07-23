@@ -1,6 +1,6 @@
 ---
 title: reverse недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  reverse недвижимость
 
-Получите или установите флаг, указывающий, следует ли изменить порядок значков по умолчанию в этом наборе значков.
-Значение по умолчанию — ложь.
+Получите или задайте флаг, указывающий, следует ли изменить порядок значков по умолчанию в этом наборе значков на обратный.
+Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property
@@ -22,5 +22,5 @@ def reverse(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [IconSet](/cells/python-net/ru/aspose.cells/iconset)
+* модуль [`aspose.cells`](../../)
+* класс [`IconSet`](/cells/python-net/ru/aspose.cells/iconset)

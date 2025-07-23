@@ -1,6 +1,6 @@
 ---
 title: ErrorBarDisplayType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 500
@@ -8,11 +8,11 @@ url: /ru/aspose.cells.charts/errorbardisplaytype/
 is_root: false
 ---
 ##  ErrorBarDisplayType перечисление
-Представляет тип отображения полосы ошибок.
+Представляет собой тип отображения панели погрешностей.
 
 
 
-Тип ErrorBarDisplayType предоставляет следующие члены:
+Тип ErrorBarDisplayType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -25,4 +25,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](..)
+* модуль [`aspose.cells.charts`](..)

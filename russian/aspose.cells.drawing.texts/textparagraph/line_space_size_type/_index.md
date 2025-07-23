@@ -1,6 +1,6 @@
 ---
 title: line_space_size_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 170
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  line_space_size_type недвижимость
 
-Получает и задает объем вертикального пробела, который будет использоваться в абзаце.
+Возвращает и задает размер вертикального пробела, который будет использоваться внутри абзаца.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def line_space_size_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [LineSpaceSizeType](/cells/python-net/ru/aspose.cells.drawing.texts/linespacesizetype)
-* класс [TextParagraph](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraph)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`LineSpaceSizeType`](/cells/python-net/ru/aspose.cells.drawing.texts/linespacesizetype)
+* класс [`TextParagraph`](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraph)

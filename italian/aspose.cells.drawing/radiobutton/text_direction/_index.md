@@ -1,15 +1,15 @@
 ---
 title: text_direction proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 980
+weight: 1000
 url: /it/aspose.cells.drawing/radiobutton/text_direction/
 is_root: false
 ---
 ##  text_direction proprietà
 
-Ottiene/imposta la direzione del flusso del testo per questo oggetto.
+Ottiene/imposta la direzione del flusso di testo per questo oggetto.
 
 ###  Esempio
 

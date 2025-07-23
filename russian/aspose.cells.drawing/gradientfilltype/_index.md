@@ -1,9 +1,9 @@
 ---
 title: GradientFillType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 870
+weight: 860
 url: /ru/aspose.cells.drawing/gradientfilltype/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип GradientFillType предоставляет следующие члены:
+Тип GradientFillType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -25,4 +25,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
+* модуль [`aspose.cells.drawing`](..)

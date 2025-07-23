@@ -1,6 +1,6 @@
 ---
 title: emf_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 120
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  emf_type proprietà
 
-Ottiene o imposta un EmfType che specifica il formato del Metafile..
+Ottiene o imposta un EmfType che specifica il formato del Metafile.
 Il valore predefinito è EmfPlusDual.
 ###  Definizione:
 ```python

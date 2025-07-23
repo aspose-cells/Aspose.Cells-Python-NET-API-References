@@ -1,6 +1,6 @@
 ---
 title: is_justify_distributed proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 340
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  is_justify_distributed proprietà
 
-Indica se sull'ultima riga di testo deve essere utilizzato l'allineamento giustificato o distribuito delle celle.
+Indica se nell'ultima riga di testo deve essere utilizzato l'allineamento giustificato o distribuito.
 
 ###  Osservazioni
 
-Questo è tipico degli allineamenti dell’Asia orientale ma non è tipico di altri contesti.
+Ciò è tipico degli allineamenti dell'Asia orientale, ma non è tipico di altri contesti.
 ###  Definizione:
 ```python
 @property

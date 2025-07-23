@@ -1,6 +1,6 @@
 ---
 title: allow_editing_scenario недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 100
@@ -21,5 +21,5 @@ def allow_editing_scenario(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Protection](/cells/python-net/ru/aspose.cells/protection)
+* модуль [`aspose.cells`](../../)
+* класс [`Protection`](/cells/python-net/ru/aspose.cells/protection)

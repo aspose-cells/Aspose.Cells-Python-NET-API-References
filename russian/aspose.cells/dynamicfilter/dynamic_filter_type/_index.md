@@ -1,6 +1,6 @@
 ---
 title: dynamic_filter_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -21,6 +21,6 @@ def dynamic_filter_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [DynamicFilter](/cells/python-net/ru/aspose.cells/dynamicfilter)
-* класс [DynamicFilterType](/cells/python-net/ru/aspose.cells/dynamicfiltertype)
+* модуль [`aspose.cells`](../../)
+* класс [`DynamicFilter`](/cells/python-net/ru/aspose.cells/dynamicfilter)
+* класс [`DynamicFilterType`](/cells/python-net/ru/aspose.cells/dynamicfiltertype)

@@ -1,6 +1,6 @@
 ---
 title: adjust_font_size_for_row_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  adjust_font_size_for_row_type недвижимость
 
-Указывает, какой тип строки необходимо изменить, размер шрифта, если высота строки мала.
+Показывает, для какого типа строки необходимо скорректировать размер шрифта, если высота строки маленькая.
 ###  Определение:
 ```python
 @property

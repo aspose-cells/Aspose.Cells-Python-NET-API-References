@@ -1,15 +1,15 @@
 ---
 title: worksheet недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 750
+weight: 780
 url: /ru/aspose.cells/cell/worksheet/
 is_root: false
 ---
 ##  worksheet недвижимость
 
-Получает родительский номер worksheet.
+Получает родителя worksheet.
 ###  Определение:
 ```python
 @property

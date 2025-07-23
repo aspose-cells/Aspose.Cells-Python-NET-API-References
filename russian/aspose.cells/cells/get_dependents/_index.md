@@ -1,14 +1,14 @@
 ---
 title: get_dependents метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 360
+weight: 390
 url: /ru/aspose.cells/cells/get_dependents/
 is_root: false
 ---
-##  get_dependents {#bool-int-int}
-Получите все ячейки, которые относятся к определенной ячейке.
+##  get_dependents(self, is_all, row, column) {#bool-int-int}
+Получить все ячейки, ссылающиеся на определенную ячейку.
 
 
 ###  Возврат
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_dependents(self, is_all, row, column):
     ...
 ```
@@ -24,7 +25,7 @@ def get_dependents(self, is_all, row, column):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| is_all | bool | Указывает, проверять ли другие рабочие листы|
+| is_all | bool | Указывает, нужно ли проверять другие рабочие листы|
 | row | int | Индекс строки.|
 | column | int | Индекс столбца.|
 

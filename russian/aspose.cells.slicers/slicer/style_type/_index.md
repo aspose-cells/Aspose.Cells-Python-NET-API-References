@@ -1,9 +1,9 @@
 ---
 title: style_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 250
+weight: 260
 url: /ru/aspose.cells.slicers/slicer/style_type/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def style_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.slicers](../../)
-* класс [Slicer](/cells/python-net/ru/aspose.cells.slicers/slicer)
-* класс [SlicerStyleType](/cells/python-net/ru/aspose.cells.slicers/slicerstyletype)
+* модуль [`aspose.cells.slicers`](../../)
+* класс [`Slicer`](/cells/python-net/ru/aspose.cells.slicers/slicer)
+* класс [`SlicerStyleType`](/cells/python-net/ru/aspose.cells.slicers/slicerstyletype)

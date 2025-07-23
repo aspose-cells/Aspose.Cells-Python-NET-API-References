@@ -1,15 +1,15 @@
 ---
 title: spt proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 980
+weight: 990
 url: /it/aspose.cells.drawing/scrollbar/spt/
 is_root: false
 ---
 ##  spt proprietà
 
-Specifica un numero facoltativo che un'applicazione può utilizzare per associare la forma particolare a un tipo di forma definito.
+Specifica un numero facoltativo che un'applicazione può utilizzare per associare una particolare forma a un tipo di forma definito.
 
 ###  Esempio
 

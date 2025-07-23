@@ -1,6 +1,6 @@
 ---
 title: theme_color недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  theme_color недвижимость
 
-Получает цвет темы. Применяется только для цветового типа темы.
+Получает цвет темы. Применяется только к типу цвета темы.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def theme_color(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CellsColor](/cells/python-net/ru/aspose.cells/cellscolor)
-* класс [ThemeColor](/cells/python-net/ru/aspose.cells/themecolor)
+* модуль [`aspose.cells`](../../)
+* класс [`CellsColor`](/cells/python-net/ru/aspose.cells/cellscolor)
+* класс [`ThemeColor`](/cells/python-net/ru/aspose.cells/themecolor)

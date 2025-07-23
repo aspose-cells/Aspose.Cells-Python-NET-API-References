@@ -1,9 +1,9 @@
 ---
 title: text_shape_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 130
+weight: 140
 url: /ru/aspose.cells.drawing.texts/shapetextalignment/text_shape_type/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def text_shape_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [AutoShapeType](/cells/python-net/ru/aspose.cells.drawing/autoshapetype)
-* класс [ShapeTextAlignment](/cells/python-net/ru/aspose.cells.drawing.texts/shapetextalignment)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`AutoShapeType`](/cells/python-net/ru/aspose.cells.drawing/autoshapetype)
+* класс [`ShapeTextAlignment`](/cells/python-net/ru/aspose.cells.drawing.texts/shapetextalignment)

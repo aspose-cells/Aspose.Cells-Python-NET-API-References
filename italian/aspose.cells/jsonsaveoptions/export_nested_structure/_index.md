@@ -1,15 +1,15 @@
 ---
 title: export_nested_structure proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 110
+weight: 130
 url: /it/aspose.cells/jsonsaveoptions/export_nested_structure/
 is_root: false
 ---
 ##  export_nested_structure proprietà
 
-Esportato come struttura Json della gerarchia padre-figlio.
+Esportata come struttura JSON della gerarchia padre-figlio.
 
 ###  Osservazioni
 
@@ -25,5 +25,5 @@ def export_nested_structure(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [JsonSaveOptions](/cells/python-net/it/aspose.cells/jsonsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`JsonSaveOptions`](/cells/python-net/it/aspose.cells/jsonsaveoptions)

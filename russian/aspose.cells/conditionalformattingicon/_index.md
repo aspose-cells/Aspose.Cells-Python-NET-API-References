@@ -1,14 +1,14 @@
 ---
 title: ConditionalFormattingIcon класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 320
+weight: 290
 url: /ru/aspose.cells/conditionalformattingicon/
 is_root: false
 ---
 ##  ConditionalFormattingIcon класс
-Представляет настраиваемый значок правила условного форматирования.
+Представляет собой пользовательский значок правила условного форматирования.
 
 
 
@@ -25,8 +25,8 @@ is_root: false
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [get_icon_image_data](/cells/python-net/ru/aspose.cells/conditionalformattingicon/get_icon_image_data/#aspose.cells.IconSetType-int) | Получить данные набора значков|
-| [get_image_data](/cells/python-net/ru/aspose.cells/conditionalformattingicon/get_image_data/#aspose.cells.Cell) | Получает данные изображения с настройкой ячейки.|
+| [`get_icon_image_data(, type, index)`](/cells/python-net/ru/aspose.cells/conditionalformattingicon/get_icon_image_data/#aspose.cells.iconsettype-int) | Получить данные набора иконок|
+| [`get_image_data(self, cell)`](/cells/python-net/ru/aspose.cells/conditionalformattingicon/get_image_data/#aspose.cells.cell) | Получает данные изображения с настройкой ячейки.|
 
 
 

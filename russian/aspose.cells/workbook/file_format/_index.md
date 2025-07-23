@@ -1,9 +1,9 @@
 ---
 title: file_format недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 560
+weight: 590
 url: /ru/aspose.cells/workbook/file_format/
 is_root: false
 ---

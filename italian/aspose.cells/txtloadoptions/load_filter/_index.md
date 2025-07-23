@@ -1,9 +1,9 @@
 ---
 title: load_filter proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 260
+weight: 240
 url: /it/aspose.cells/txtloadoptions/load_filter/
 is_root: false
 ---

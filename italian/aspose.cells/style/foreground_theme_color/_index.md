@@ -1,6 +1,6 @@
 ---
 title: foreground_theme_color proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 220
@@ -25,6 +25,6 @@ def foreground_theme_color(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Style](/cells/python-net/it/aspose.cells/style)
-* classe [ThemeColor](/cells/python-net/it/aspose.cells/themecolor)
+* modulo [`aspose.cells`](../../)
+* classe [`Style`](/cells/python-net/it/aspose.cells/style)
+* classe [`ThemeColor`](/cells/python-net/it/aspose.cells/themecolor)

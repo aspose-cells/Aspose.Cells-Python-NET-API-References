@@ -1,9 +1,9 @@
 ---
 title: Enumerazione BackgroundType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1850
+weight: 1750
 url: /it/aspose.cells/backgroundtype/
 is_root: false
 ---
@@ -17,25 +17,25 @@ Il tipo BackgroundType espone i seguenti membri:
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
-| DIAGONAL_CROSSHATCH | Rappresenta il modello di tratteggio incrociato diagonale.|
-| DIAGONAL_STRIPE | Rappresenta il motivo a strisce diagonali.|
-| GRAY6 | Rappresenta il 6,25% di motivo grigio|
-| GRAY12 | Rappresenta il 12,5% di motivo grigio|
-| GRAY25 | Rappresenta il 25% di motivo grigio.|
-| GRAY50 | Rappresenta il 50% di motivo grigio.|
-| GRAY75 | Rappresenta il 75% di motivo grigio.|
-| HORIZONTAL_STRIPE | Rappresenta il motivo a strisce orizzontali.|
-| NONE |Non rappresenta lo sfondo.|
-| REVERSE_DIAGONAL_STRIPE | Rappresenta il motivo a strisce diagonali inverse.|
-| SOLID | Rappresenta un modello solido.|
+| DIAGONAL_CROSSHATCH | Rappresenta un motivo a tratteggio diagonale.|
+| DIAGONAL_STRIPE | Rappresenta un motivo a strisce diagonali.|
+| GRAY6 | Rappresenta il 6,25% del modello grigio|
+| GRAY12 | Rappresenta il 12,5% del modello grigio|
+| GRAY25 | Rappresenta il 25% del modello grigio.|
+| GRAY50 | Rappresenta il 50% del modello grigio.|
+| GRAY75 | Rappresenta il 75% del modello grigio.|
+| HORIZONTAL_STRIPE | Rappresenta un motivo a strisce orizzontali.|
+| NONE | Non rappresenta alcun contesto.|
+| REVERSE_DIAGONAL_STRIPE | Rappresenta un motivo a strisce diagonali inverse.|
+| SOLID |Rappresenta un modello solido.|
 | THICK_DIAGONAL_CROSSHATCH | Rappresenta un motivo a tratteggio incrociato diagonale spesso.|
-| THIN_DIAGONAL_CROSSHATCH | Rappresenta un motivo a tratteggio incrociato diagonale sottile.|
+| THIN_DIAGONAL_CROSSHATCH | Rappresenta un sottile motivo a tratteggio diagonale.|
 | THIN_DIAGONAL_STRIPE | Rappresenta un motivo a strisce diagonali sottili.|
-| THIN_HORIZONTAL_CROSSHATCH | Rappresenta un modello di tratteggio incrociato orizzontale sottile.|
+| THIN_HORIZONTAL_CROSSHATCH | Rappresenta un sottile motivo a tratteggio orizzontale.|
 | THIN_HORIZONTAL_STRIPE | Rappresenta un motivo a strisce orizzontali sottili.|
-| THIN_REVERSE_DIAGONAL_STRIPE | Rappresenta un sottile motivo a strisce diagonali inverse.|
+| THIN_REVERSE_DIAGONAL_STRIPE | Rappresenta un motivo a strisce diagonali sottili e invertite.|
 | THIN_VERTICAL_STRIPE | Rappresenta un motivo a strisce verticali sottili.|
-| VERTICAL_STRIPE | Rappresenta il motivo a strisce verticali.|
+| VERTICAL_STRIPE | Rappresenta un motivo a strisce verticali.|
 
 
 

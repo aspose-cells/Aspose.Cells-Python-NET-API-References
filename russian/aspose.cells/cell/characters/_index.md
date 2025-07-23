@@ -1,22 +1,23 @@
 ---
 title: characters метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
 url: /ru/aspose.cells/cell/characters/
 is_root: false
 ---
-##  characters(start_index, length) {#int-int}
-Возвращает объект символов, представляющий диапазон characters в тексте ячейки.
+##  characters(self, start_index, length) {#int-int}
+Возвращает объект Characters, представляющий диапазон characters в тексте ячейки.
 
 
-###  Возвращает
+###  Возврат
 
-Возражают персонажи.
+Персонажи возражают.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -24,11 +25,11 @@ def characters(self, start_index, length):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| start_index | int | Индекс начала персонажа.|
+| start_index | int | Индекс начала символа.|
 | length | int | Количество символов.|
 ###  Примечания
 
-Этот метод работает только с ячейкой со строковым значением.
+Этот метод работает только с ячейками со строковым значением.
 ###  Пример
 
 
@@ -47,5 +48,5 @@ cells.get("A1").characters(5, 5).font.color = Color.blue
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cell](/cells/python-net/ru/aspose.cells/cell)
+* модуль [`aspose.cells`](../../)
+* класс [`Cell`](/cells/python-net/ru/aspose.cells/cell)

@@ -1,28 +1,28 @@
 ---
-title: classe Area
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Area classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells.drawing/area/
 is_root: false
 ---
-##  classe Area
+##  Area classe
 Incapsula l'oggetto che rappresenta un formato area.
 
 
 
-Il tipo Area espone i membri seguenti:
+Il tipo Area espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [background_color](/cells/python-net/it/aspose.cells.drawing/area/background_color) | Ottiene o imposta il colore di sfondo di [Area](/cells/python-net/it/aspose.cells.drawing/area).|
-| [foreground_color](/cells/python-net/it/aspose.cells.drawing/area/foreground_color) | Ottiene o imposta il Color in primo piano.|
+| [background_color](/cells/python-net/it/aspose.cells.drawing/area/background_color) | Ottiene o imposta il colore di sfondo di [`Area`](/cells/python-net/it/aspose.cells.drawing/area).|
+| [foreground_color](/cells/python-net/it/aspose.cells.drawing/area/foreground_color) | Ottiene o imposta il colore di primo piano.|
 | [formatting](/cells/python-net/it/aspose.cells.drawing/area/formatting) | Rappresenta la formattazione dell'area.|
 | [invert_if_negative](/cells/python-net/it/aspose.cells.drawing/area/invert_if_negative) | Se la proprietà è vera e il valore del punto del grafico è un numero negativo,<br/> il colore di primo piano e il colore di sfondo verranno scambiati.|
-| [fill_format](/cells/python-net/it/aspose.cells.drawing/area/fill_format) | Rappresenta un oggetto [Area.fill_format](/cells/python-net/it/aspose.cells.drawing/area#fill_format) che contiene le proprietà di formattazione del riempimento per il grafico o la forma specificati.|
-| [transparency](/cells/python-net/it/aspose.cells.drawing/area/transparency) | Restituisce o imposta il grado di trasparenza dell'area come valore compreso tra 0,0 (opaco) e 1,0 (trasparente).|
+| [fill_format](/cells/python-net/it/aspose.cells.drawing/area/fill_format) | Rappresenta un oggetto [`Area.fill_format`](/cells/python-net/it/aspose.cells.drawing/area#fill_format) che contiene proprietà di formattazione di riempimento per il grafico o la forma specificati.|
+| [transparency](/cells/python-net/it/aspose.cells.drawing/area/transparency) |Restituisce o imposta il grado di trasparenza dell'area come valore compreso tra 0,0 (opaco) e 1,0 (trasparente).|
 
 
 
@@ -71,5 +71,5 @@ workbook.save("book1.xls")
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](..)
-* classe [Area](/cells/python-net/it/aspose.cells.drawing/area)
+* modulo [`aspose.cells.drawing`](..)
+* classe [`Area`](/cells/python-net/it/aspose.cells.drawing/area)

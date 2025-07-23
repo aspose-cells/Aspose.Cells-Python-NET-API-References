@@ -1,9 +1,9 @@
 ---
 title: is_equation proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 540
+weight: 550
 url: /it/aspose.cells.drawing/combobox/is_equation/
 is_root: false
 ---

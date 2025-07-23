@@ -1,18 +1,19 @@
 ---
 title: Metodo set_shared_formula
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 350
+weight: 360
 url: /it/aspose.cells/cell/set_shared_formula/
 is_root: false
 ---
-##  set_shared_formula {#str-int-int}
+##  set_shared_formula(self, shared_formula, row_number, column_number) {#str-int-int}
 Imposta le formule condivise su un intervallo di celle.
 
 
 
 ```python
+
 def set_shared_formula(self, shared_formula, row_number, column_number):
     ...
 ```
@@ -27,13 +28,14 @@ def set_shared_formula(self, shared_formula, row_number, column_number):
 
 
 
-##  set_shared_formula {#str-int-int-aspose.cells.FormulaParseOptions}
+##  set_shared_formula(self, shared_formula, row_number, column_number, options) {#str-int-int-aspose.cells.FormulaParseOptions}
 
 Imposta le formule condivise su un intervallo di celle.
 
 
 
 ```python
+
 def set_shared_formula(self, shared_formula, row_number, column_number, options):
     ...
 ```
@@ -47,12 +49,13 @@ def set_shared_formula(self, shared_formula, row_number, column_number, options)
 | options | [`FormulaParseOptions`](/cells/python-net/it/aspose.cells/formulaparseoptions) | Opzioni per l'analisi della formula.|
 
 
-##  set_shared_formula {#str-int-int-bool-bool}
+##  set_shared_formula(self, shared_formula, row_number, column_number, is_r1c1, is_local) {#str-int-int-bool-bool}
 Imposta una formula su un intervallo di celle.
 
 
 
 ```python
+
 def set_shared_formula(self, shared_formula, row_number, column_number, is_r1c1, is_local):
     ...
 ```
@@ -69,15 +72,16 @@ def set_shared_formula(self, shared_formula, row_number, column_number, is_r1c1,
 
 NOTA: questa classe è ora obsoleta. Invece,
 si prega di utilizzare Cell.SetSharedFormula(string,int,int,FormulaParseOptions).
-Questa proprietà verrà rimossa 12 mesi dopo a partire da dicembre 2019.
-Aspose si scusa per eventuali disagi riscontrati.
+Questa proprietà verrà rimossa 12 mesi dopo, a partire da dicembre 2019.
+Aspose si scusa per ogni eventuale disagio arrecato.
 
-##  set_shared_formula {#str-int-int-aspose.cells.FormulaParseOptions-list}
+##  set_shared_formula(self, shared_formula, row_number, column_number, options, values) {#str-int-int-aspose.cells.FormulaParseOptions-list}
 Imposta le formule condivise su un intervallo di celle.
 
 
 
 ```python
+
 def set_shared_formula(self, shared_formula, row_number, column_number, options, values):
     ...
 ```
@@ -89,7 +93,7 @@ def set_shared_formula(self, shared_formula, row_number, column_number, options,
 | row_number | int | Numero di righe per popolare la formula.|
 | column_number | int | Numero di colonne per popolare la formula.|
 | options | [`FormulaParseOptions`](/cells/python-net/it/aspose.cells/formulaparseoptions) | Opzioni per l'analisi della formula.|
-| values | list | valori per quelle celle con una determinata formula condivisa|
+| values | list | valori per quelle celle con la formula condivisa fornita|
 
 
 

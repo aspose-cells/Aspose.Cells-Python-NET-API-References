@@ -1,6 +1,6 @@
 ---
 title: r1c1_style proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  r1c1_style proprietà
 
-Indica se la formula è uno stile di riferimento R1C1. L'impostazione predefinita è falsa.
+Specifica se la formula è in stile di riferimento R1C1. Il valore predefinito è "false".
 ###  Definizione:
 ```python
 @property

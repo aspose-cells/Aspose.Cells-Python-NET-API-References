@@ -1,6 +1,6 @@
 ---
 title: is_old_comment недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -18,5 +18,5 @@ def is_old_comment(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.revisions](../../)
-* класс [RevisionCellComment](/cells/python-net/ru/aspose.cells.revisions/revisioncellcomment)
+* модуль [`aspose.cells.revisions`](../../)
+* класс [`RevisionCellComment`](/cells/python-net/ru/aspose.cells.revisions/revisioncellcomment)

@@ -1,6 +1,6 @@
 ---
 title: AutoNumberedBulletValue класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 10
@@ -8,21 +8,20 @@ url: /ru/aspose.cells.drawing.texts/autonumberedbulletvalue/
 is_root: false
 ---
 ##  AutoNumberedBulletValue класс
-Представляет автоматически пронумерованный маркер.
+Представляет собой автоматически пронумерованный маркер.
 
 
 
-**Наследование:** [AutoNumberedBulletValue](/cells/python-net/aspose.cells.drawing.texts/autonumberedbulletvalue) → 
-[BulletValue](/cells/python-net/ru/aspose.cells.drawing.texts/bulletvalue)
+**Наследование:** [`AutoNumberedBulletValue`](/cells/python-net/ru/aspose.cells.drawing.texts/autonumberedbulletvalue)
 
 
 
-Тип AutoNumberedBulletValue предоставляет следующие члены:
+Тип AutoNumberedBulletValue предоставляет следующие элементы:
 
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [AutoNumberedBulletValue()](/cells/python-net/ru/aspose.cells.drawing.texts/autonumberedbulletvalue/__init__/#) | Создает новый экземпляр AutoNumberedBulletValue.|
+| [`__init__(self)`](/cells/python-net/ru/aspose.cells.drawing.texts/autonumberedbulletvalue/__init__/#) | Создает новый экземпляр AutoNumberedBulletValue|
 
 
 ###  Характеристики
@@ -35,6 +34,5 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](..)
-* класс [AutoNumberedBulletValue](/cells/python-net/ru/aspose.cells.drawing.texts/autonumberedbulletvalue)
-* класс [BulletValue](/cells/python-net/ru/aspose.cells.drawing.texts/bulletvalue)
+* модуль [`aspose.cells.drawing.texts`](..)
+* класс [`AutoNumberedBulletValue`](/cells/python-net/ru/aspose.cells.drawing.texts/autonumberedbulletvalue)

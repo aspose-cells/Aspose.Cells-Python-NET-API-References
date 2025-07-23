@@ -1,9 +1,9 @@
 ---
 title: TextNodeType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 180
+weight: 190
 url: /ru/aspose.cells.drawing.texts/textnodetype/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-Тип TextNodeType предоставляет следующие члены:
+Тип TextNodeType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
 | TEXT_RUN | Представляет текстовый узел.|
-| TEXT_PARAGRAPH | Представляет абзац текста.|
+| TEXT_PARAGRAPH | Представляет собой текстовый абзац.|
 | EQUATION | Представляет текст уравнения.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](..)
+* модуль [`aspose.cells.drawing.texts`](..)

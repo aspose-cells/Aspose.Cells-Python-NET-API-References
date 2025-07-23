@@ -1,26 +1,26 @@
 ---
 title: DrawObjectEnum перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 160
+weight: 180
 url: /ru/aspose.cells.rendering/drawobjectenum/
 is_root: false
 ---
 ##  DrawObjectEnum перечисление
-Укажите Cell или Изображение DrawObject.
+Укажите Cell или изображение DrawObject.
 
 
 
-Тип DrawObjectEnum предоставляет следующие члены:
+Тип DrawObjectEnum предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| IMAGE | Укажите, что DrawObject является изображением|
-| CELL | указать, что DrawObject является Cell|
+| IMAGE | Указать, что DrawObject — это изображение|
+| CELL |указать, что DrawObject — это Cell|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering](..)
+* модуль [`aspose.cells.rendering`](..)

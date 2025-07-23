@@ -1,9 +1,9 @@
 ---
 title: capacity недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 270
+weight: 290
 url: /ru/aspose.cells/worksheetcollection/capacity/
 is_root: false
 ---

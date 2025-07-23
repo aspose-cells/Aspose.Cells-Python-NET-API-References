@@ -1,16 +1,16 @@
 ---
 title: is_resize_shape_to_fit_text недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 230
+weight: 290
 url: /ru/aspose.cells.charts/title/is_resize_shape_to_fit_text/
 is_root: false
 ---
 ##  is_resize_shape_to_fit_text недвижимость
 
-Получает или задает значение, указывающее, должна ли фигура автоматически подбираться, чтобы полностью содержать описанный в ней текст. Автоподгонка есть
-когда текст внутри фигуры масштабируется, чтобы содержать весь текст внутри.
+Возвращает или задаёт, должна ли фигура автоматически подгоняться под размер текста, описанного внутри неё. Автоматическая подгонка — это
+когда текст внутри фигуры масштабируется так, чтобы вместить весь текст внутри.
 ###  Определение:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_resize_shape_to_fit_text(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Title](/cells/python-net/ru/aspose.cells.charts/title)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Title`](/cells/python-net/ru/aspose.cells.charts/title)

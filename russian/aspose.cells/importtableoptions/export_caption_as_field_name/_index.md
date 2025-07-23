@@ -1,6 +1,6 @@
 ---
 title: export_caption_as_field_name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  export_caption_as_field_name недвижимость
 
-Указывает, экспортируется ли заголовок как имя поля.
+Указывает, экспортируется ли заголовок как имя поля
 
 ###  Примечания
 
@@ -25,5 +25,5 @@ def export_caption_as_field_name(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ImportTableOptions](/cells/python-net/ru/aspose.cells/importtableoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`ImportTableOptions`](/cells/python-net/ru/aspose.cells/importtableoptions)

@@ -1,15 +1,15 @@
 ---
 title: is_protected недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 270
+weight: 300
 url: /ru/aspose.cells/workbooksettings/is_protected/
 is_root: false
 ---
 ##  is_protected недвижимость
 
-Получает значение, указывающее, защищена ли структура или окно книги.
+Возвращает значение, указывающее, защищена ли структура или окно рабочей книги.
 ###  Определение:
 ```python
 @property

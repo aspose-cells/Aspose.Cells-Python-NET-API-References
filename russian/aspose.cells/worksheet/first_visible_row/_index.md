@@ -1,15 +1,15 @@
 ---
 title: first_visible_row недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 510
+weight: 530
 url: /ru/aspose.cells/worksheet/first_visible_row/
 is_root: false
 ---
 ##  first_visible_row недвижимость
 
-Представляет первый видимый индекс строки.
+Представляет индекс первой видимой строки.
 ###  Определение:
 ```python
 @property

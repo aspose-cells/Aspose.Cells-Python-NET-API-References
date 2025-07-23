@@ -1,35 +1,36 @@
 ---
-title: classe ShapeTextAlignment
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: ShapeTextAlignment classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 80
+weight: 70
 url: /it/aspose.cells.drawing.texts/shapetextalignment/
 is_root: false
 ---
-##  classe ShapeTextAlignment
+##  ShapeTextAlignment classe
 Rappresenta l'impostazione dell'allineamento del testo della forma;
 
 
 
-Il tipo ShapeTextAlignment espone i membri seguenti:
+Il tipo ShapeTextAlignment espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [is_text_wrapped](/cells/python-net/it/aspose.cells.drawing.texts/shapetextalignment/is_text_wrapped) | Ottiene e imposta il tipo di testo a capo della forma che contiene il testo.|
-| [rotate_text_with_shape](/cells/python-net/it/aspose.cells.drawing.texts/shapetextalignment/rotate_text_with_shape) | Indica se ruotare il testo con la forma.|
+| [is_text_wrapped](/cells/python-net/it/aspose.cells.drawing.texts/shapetextalignment/is_text_wrapped) | Ottiene o imposta il tipo di testo racchiuso nella forma che contiene testo.|
+| [rotate_text_with_shape](/cells/python-net/it/aspose.cells.drawing.texts/shapetextalignment/rotate_text_with_shape) | Indica se ruotare il testo con forma.|
 | [text_vertical_overflow](/cells/python-net/it/aspose.cells.drawing.texts/shapetextalignment/text_vertical_overflow) | Ottiene e imposta il tipo di overflow verticale del testo della casella di testo.|
 | [text_horizontal_overflow](/cells/python-net/it/aspose.cells.drawing.texts/shapetextalignment/text_horizontal_overflow) | Ottiene e imposta il tipo di overflow orizzontale del testo della casella di testo.|
 | [rotation_angle](/cells/python-net/it/aspose.cells.drawing.texts/shapetextalignment/rotation_angle) | Ottiene e imposta la rotazione della forma.|
 | [text_vertical_type](/cells/python-net/it/aspose.cells.drawing.texts/shapetextalignment/text_vertical_type) | Ottiene e imposta la direzione del testo.|
-| [auto_size](/cells/python-net/it/aspose.cells.drawing.texts/shapetextalignment/auto_size) |Indica se la dimensione della forma viene regolata automaticamente in base al suo contenuto.|
+| [is_locked_text](/cells/python-net/it/aspose.cells.drawing.texts/shapetextalignment/is_locked_text) | Indica se la forma è bloccata quando il foglio di lavoro è protetto.|
+| [auto_size](/cells/python-net/it/aspose.cells.drawing.texts/shapetextalignment/auto_size) | Indica se la dimensione della forma viene regolata automaticamente in base al suo contenuto.|
 | [text_shape_type](/cells/python-net/it/aspose.cells.drawing.texts/shapetextalignment/text_shape_type) | Ottiene e imposta il tipo di trasformazione del testo.|
 | [top_margin_pt](/cells/python-net/it/aspose.cells.drawing.texts/shapetextalignment/top_margin_pt) | Restituisce il margine superiore in unità di punti|
 | [bottom_margin_pt](/cells/python-net/it/aspose.cells.drawing.texts/shapetextalignment/bottom_margin_pt) | Restituisce il margine inferiore in unità di punti|
 | [left_margin_pt](/cells/python-net/it/aspose.cells.drawing.texts/shapetextalignment/left_margin_pt) | Restituisce il margine sinistro in unità di punti|
 | [right_margin_pt](/cells/python-net/it/aspose.cells.drawing.texts/shapetextalignment/right_margin_pt) | Restituisce il margine destro in unità di punti|
-| [is_auto_margin](/cells/python-net/it/aspose.cells.drawing.texts/shapetextalignment/is_auto_margin) | Indica se il margine della cornice di testo è automatico.|
+| [is_auto_margin](/cells/python-net/it/aspose.cells.drawing.texts/shapetextalignment/is_auto_margin) |Indica se il margine della cornice di testo è automatico.|
 | [number_of_columns](/cells/python-net/it/aspose.cells.drawing.texts/shapetextalignment/number_of_columns) | Ottiene e imposta il numero di colonne di testo nel rettangolo di delimitazione.|
 
 
@@ -47,4 +48,4 @@ shapeTextAlignment = shape.text_body.text_alignment
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](..)
+* modulo [`aspose.cells.drawing.texts`](..)

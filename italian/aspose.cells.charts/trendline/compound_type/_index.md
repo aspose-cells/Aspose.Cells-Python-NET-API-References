@@ -1,6 +1,6 @@
 ---
 title: compound_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -21,6 +21,6 @@ def compound_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [MsoLineStyle](/cells/python-net/it/aspose.cells.drawing/msolinestyle)
-* classe [Trendline](/cells/python-net/it/aspose.cells.charts/trendline)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`MsoLineStyle`](/cells/python-net/it/aspose.cells.drawing/msolinestyle)
+* classe [`Trendline`](/cells/python-net/it/aspose.cells.charts/trendline)

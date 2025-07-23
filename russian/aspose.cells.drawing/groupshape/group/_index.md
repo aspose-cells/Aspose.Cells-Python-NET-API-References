@@ -1,15 +1,15 @@
 ---
 title: group недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 430
+weight: 420
 url: /ru/aspose.cells.drawing/groupshape/group/
 is_root: false
 ---
 ##  group недвижимость
 
-Получает фигуру group, содержащую эту фигуру.
+Получает форму group, содержащую эту форму.
 
 ###  Пример
 

@@ -1,6 +1,6 @@
 ---
 title: font proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font proprietà
 
-Ottiene font del valore del comando.
+Ottiene il valore font del comando.
 
 ###  Osservazioni
 
@@ -22,6 +22,6 @@ def font(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Font](/cells/python-net/it/aspose.cells/font)
-* classe [HeaderFooterCommand](/cells/python-net/it/aspose.cells/headerfootercommand)
+* modulo [`aspose.cells`](../../)
+* classe [`Font`](/cells/python-net/it/aspose.cells/font)
+* classe [`HeaderFooterCommand`](/cells/python-net/it/aspose.cells/headerfootercommand)

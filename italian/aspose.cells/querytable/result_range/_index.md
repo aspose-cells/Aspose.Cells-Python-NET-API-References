@@ -1,6 +1,6 @@
 ---
 title: result_range proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -18,6 +18,6 @@ def result_range(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [QueryTable](/cells/python-net/it/aspose.cells/querytable)
-* classe [Range](/cells/python-net/it/aspose.cells/range)
+* modulo [`aspose.cells`](../../)
+* classe [`QueryTable`](/cells/python-net/it/aspose.cells/querytable)
+* classe [`Range`](/cells/python-net/it/aspose.cells/range)

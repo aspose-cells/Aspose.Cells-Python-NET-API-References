@@ -1,15 +1,15 @@
 ---
 title: language недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 220
+weight: 230
 url: /ru/aspose.cells.properties/builtindocumentpropertycollection/language/
 is_root: false
 ---
 ##  language недвижимость
 
-Получает или задает номер документа language.
+Получает или задает код документа language.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def language(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.properties](../../)
-* класс [BuiltInDocumentPropertyCollection](/cells/python-net/ru/aspose.cells.properties/builtindocumentpropertycollection)
+* модуль [`aspose.cells.properties`](../../)
+* класс [`BuiltInDocumentPropertyCollection`](/cells/python-net/ru/aspose.cells.properties/builtindocumentpropertycollection)

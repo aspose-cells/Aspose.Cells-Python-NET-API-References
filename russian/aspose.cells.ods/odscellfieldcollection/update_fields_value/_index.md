@@ -1,18 +1,19 @@
 ---
 title: update_fields_value метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
 url: /ru/aspose.cells.ods/odscellfieldcollection/update_fields_value/
 is_root: false
 ---
-##  update_fields_value() {#}
-Обновите значение полей в ячейках.
+##  update_fields_value(self) {#}
+Обновить значения полей в ячейках.
 
 
 
 ```python
+
 def update_fields_value(self):
     ...
 ```
@@ -22,5 +23,5 @@ def update_fields_value(self):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.ods](../../)
-* класс [OdsCellFieldCollection](/cells/python-net/ru/aspose.cells.ods/odscellfieldcollection)
+* модуль [`aspose.cells.ods`](../../)
+* класс [`OdsCellFieldCollection`](/cells/python-net/ru/aspose.cells.ods/odscellfieldcollection)

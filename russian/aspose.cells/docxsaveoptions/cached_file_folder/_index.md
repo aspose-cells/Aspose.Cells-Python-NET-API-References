@@ -1,15 +1,13 @@
 ---
 title: cached_file_folder недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 30
+weight: 50
 url: /ru/aspose.cells/docxsaveoptions/cached_file_folder/
 is_root: false
 ---
 ##  cached_file_folder недвижимость
-
-Папка с кэшированными файлами используется для хранения больших данных.
 ###  Определение:
 ```python
 @property
@@ -21,5 +19,5 @@ def cached_file_folder(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [DocxSaveOptions](/cells/python-net/ru/aspose.cells/docxsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`DocxSaveOptions`](/cells/python-net/ru/aspose.cells/docxsaveoptions)

@@ -1,15 +1,15 @@
 ---
 title: window_top_cm недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 590
+weight: 600
 url: /ru/aspose.cells/workbooksettings/window_top_cm/
 is_root: false
 ---
 ##  window_top_cm недвижимость
 
-Расстояние от верхнего края клиентской области до верхнего края окна в сантиметрах.
+Расстояние от верхнего края клиентской зоны до верхнего края окна, в сантиметрах.
 ###  Определение:
 ```python
 @property

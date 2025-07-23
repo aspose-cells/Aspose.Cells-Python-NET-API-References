@@ -1,6 +1,6 @@
 ---
 title: preset_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  preset_type proprietà
 
-Ottiene e imposta il tipo di ombra predefinito dell'ombra.
+Ottiene e imposta il tipo di ombra preimpostato.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def preset_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [PresetShadowType](/cells/python-net/it/aspose.cells.drawing/presetshadowtype)
-* classe [ShadowEffect](/cells/python-net/it/aspose.cells.drawing/shadoweffect)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`PresetShadowType`](/cells/python-net/it/aspose.cells.drawing/presetshadowtype)
+* classe [`ShadowEffect`](/cells/python-net/it/aspose.cells.drawing/shadoweffect)

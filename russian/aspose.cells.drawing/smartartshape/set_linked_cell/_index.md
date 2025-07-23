@@ -1,18 +1,19 @@
 ---
 title: set_linked_cell метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 200
+weight: 210
 url: /ru/aspose.cells.drawing/smartartshape/set_linked_cell/
 is_root: false
 ---
-##  set_linked_cell {#str-bool-bool}
+##  set_linked_cell(self, formula, is_r1c1, is_local) {#str-bool-bool}
 Устанавливает диапазон, связанный со значением элемента управления.
 
 
 
 ```python
+
 def set_linked_cell(self, formula, is_r1c1, is_local):
     ...
 ```
@@ -22,7 +23,7 @@ def set_linked_cell(self, formula, is_r1c1, is_local):
 | :- | :- | :- |
 | formula | str | Диапазон, связанный со значением элемента управления.|
 | is_r1c1 | bool | Необходимо ли форматировать формулу как R1C1.|
-| is_local | bool | Необходимо ли форматировать формулу по локали.|
+| is_local | bool | Необходимо ли форматировать формулу в соответствии с локалью.|
 
 ###  Пример
 

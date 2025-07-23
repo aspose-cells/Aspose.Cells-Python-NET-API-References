@@ -1,6 +1,6 @@
 ---
 title: name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 200
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name proprietà
 
-Ottiene e imposta name della forma.
+Ottiene e imposta il valore name della forma.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](../../)
-* classe [TextOptions](/cells/python-net/it/aspose.cells.drawing.texts/textoptions)
+* modulo [`aspose.cells.drawing.texts`](../../)
+* classe [`TextOptions`](/cells/python-net/it/aspose.cells.drawing.texts/textoptions)

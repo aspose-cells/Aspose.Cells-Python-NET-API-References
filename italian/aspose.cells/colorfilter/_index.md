@@ -1,9 +1,9 @@
 ---
 title: ColorFilter classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 250
+weight: 220
 url: /it/aspose.cells/colorfilter/
 is_root: false
 ---
@@ -23,7 +23,7 @@ Il tipo ColorFilter espone i seguenti membri:
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [get_color](/cells/python-net/it/aspose.cells/colorfilter/get_color/#aspose.cells.WorksheetCollection) | Ottiene il colore di questo filtro.|
+| [`get_color(self, sheets)`](/cells/python-net/it/aspose.cells/colorfilter/get_color/#aspose.cells.worksheetcollection) | Ottiene il colore di questo filtro.|
 
 
 

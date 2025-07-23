@@ -1,15 +1,15 @@
 ---
 title: max_row недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 310
+weight: 340
 url: /ru/aspose.cells/workbooksettings/max_row/
 is_root: false
 ---
 ##  max_row недвижимость
 
-Получает максимальный индекс строки, отсчитываемый от нуля.
+Получает максимальный индекс строки, начиная с нуля.
 
 ###  Примечания
 

@@ -1,15 +1,15 @@
 ---
 title: minor_unit недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 360
+weight: 370
 url: /ru/aspose.cells.charts/axis/minor_unit/
 is_root: false
 ---
 ##  minor_unit недвижимость
 
-Представляет второстепенные единицы оси.
+Представляет собой малые единицы для оси.
 
 ###  Примечания
 

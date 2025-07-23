@@ -1,9 +1,9 @@
 ---
 title: colors proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 470
+weight: 490
 url: /it/aspose.cells/workbook/colors/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Restituisce colors nella tavolozza del foglio di calcolo.
 
 ###  Osservazioni
 
-La tavolozza ha 56 voci, ciascuna rappresentata da un valore RGB.
+La tavolozza è composta da 56 voci, ciascuna rappresentata da un valore RGB.
 ###  Definizione:
 ```python
 @property

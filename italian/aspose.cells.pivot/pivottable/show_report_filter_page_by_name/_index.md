@@ -1,18 +1,19 @@
 ---
-title: metodo show_report_filter_page_by_name
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo show_report_filter_page_by_name
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 280
+weight: 350
 url: /it/aspose.cells.pivot/pivottable/show_report_filter_page_by_name/
 is_root: false
 ---
-##  show_report_filter_page_by_name(field_name) {#str}
-Mostra tutte le pagine del filtro del report in base al nome del PivotField, il PivotField deve trovarsi nei PageField.
+##  show_report_filter_page_by_name(self, field_name) {#str}
+Mostra tutte le pagine del filtro del report in base al nome del PivotField; il PivotField deve trovarsi nei PageFields.
 
 
 
 ```python
+
 def show_report_filter_page_by_name(self, field_name):
     ...
 ```
@@ -25,5 +26,5 @@ def show_report_filter_page_by_name(self, field_name):
 
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [PivotTable](/cells/python-net/it/aspose.cells.pivot/pivottable)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`PivotTable`](/cells/python-net/it/aspose.cells.pivot/pivottable)

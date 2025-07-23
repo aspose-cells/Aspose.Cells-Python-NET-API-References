@@ -1,18 +1,19 @@
 ---
 title: update_linked_property_value метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 80
+weight: 90
 url: /ru/aspose.cells.properties/customdocumentpropertycollection/update_linked_property_value/
 is_root: false
 ---
-##  update_linked_property_value() {#}
-Обновите значение пользовательского свойства документа, которое ссылается на содержимое.
+##  update_linked_property_value(self) {#}
+Обновить значение свойства документа, ссылающегося на контент.
 
 
 
 ```python
+
 def update_linked_property_value(self):
     ...
 ```
@@ -22,5 +23,5 @@ def update_linked_property_value(self):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.properties](../../)
-* класс [CustomDocumentPropertyCollection](/cells/python-net/ru/aspose.cells.properties/customdocumentpropertycollection)
+* модуль [`aspose.cells.properties`](../../)
+* класс [`CustomDocumentPropertyCollection`](/cells/python-net/ru/aspose.cells.properties/customdocumentpropertycollection)

@@ -1,6 +1,6 @@
 ---
 title: height_pixel proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 120
@@ -10,6 +10,13 @@ is_root: false
 ##  height_pixel proprietà
 
 Restituisce o imposta l'altezza dell'affettatrice specificata, in pixel.
+
+###  Osservazioni
+
+ NOTA: questo membro è ora obsoleto. Invece,
+ si prega di utilizzare la proprietà Shape.Height.
+ Questa proprietà verrà rimossa 12 mesi dopo, a partire da maggio 2025.
+Aspose si scusa per ogni eventuale disagio arrecato.
 
 ###  Esempio
 
@@ -29,5 +36,5 @@ def height_pixel(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.slicers](../../)
-* classe [Slicer](/cells/python-net/it/aspose.cells.slicers/slicer)
+* modulo [`aspose.cells.slicers`](../../)
+* classe [`Slicer`](/cells/python-net/it/aspose.cells.slicers/slicer)

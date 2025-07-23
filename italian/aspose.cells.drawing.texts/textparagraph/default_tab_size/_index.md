@@ -1,6 +1,6 @@
 ---
 title: default_tab_size proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -21,5 +21,5 @@ def default_tab_size(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](../../)
-* classe [TextParagraph](/cells/python-net/it/aspose.cells.drawing.texts/textparagraph)
+* modulo [`aspose.cells.drawing.texts`](../../)
+* classe [`TextParagraph`](/cells/python-net/it/aspose.cells.drawing.texts/textparagraph)

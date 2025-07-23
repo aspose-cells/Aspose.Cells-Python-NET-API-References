@@ -1,15 +1,15 @@
 ---
 title: subject proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 360
+weight: 370
 url: /it/aspose.cells.properties/builtindocumentpropertycollection/subject/
 is_root: false
 ---
 ##  subject proprietà
 
-Ottiene o imposta il numero subject del documento.
+Ottiene o imposta l'indirizzo subject del documento.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def subject(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.properties](../../)
-* classe [BuiltInDocumentPropertyCollection](/cells/python-net/it/aspose.cells.properties/builtindocumentpropertycollection)
+* modulo [`aspose.cells.properties`](../../)
+* classe [`BuiltInDocumentPropertyCollection`](/cells/python-net/it/aspose.cells.properties/builtindocumentpropertycollection)

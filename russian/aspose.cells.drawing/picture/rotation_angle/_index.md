@@ -1,22 +1,24 @@
 ---
 title: rotation_angle недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1040
+weight: 1060
 url: /ru/aspose.cells.drawing/picture/rotation_angle/
 is_root: false
 ---
 ##  rotation_angle недвижимость
 
-Получает и задает вращение фигуры.
+Получает и задает поворот фигуры.
 
 ###  Пример
 
 ```python
 
-if shape.rotation_angle == 45:
-    shape.rotation_angle = 60.0
+# Gets rotation angle of the shape.
+angle = shape.rotation_angle
+# Gets rotation angle of the shape.
+shape.rotation_angle = 60.0
 
 ```
 ###  Определение:

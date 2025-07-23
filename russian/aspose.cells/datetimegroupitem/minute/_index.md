@@ -1,6 +1,6 @@
 ---
 title: minute недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -21,5 +21,5 @@ def minute(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [DateTimeGroupItem](/cells/python-net/ru/aspose.cells/datetimegroupitem)
+* модуль [`aspose.cells`](../../)
+* класс [`DateTimeGroupItem`](/cells/python-net/ru/aspose.cells/datetimegroupitem)

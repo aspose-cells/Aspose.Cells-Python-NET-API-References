@@ -1,6 +1,6 @@
 ---
 title: author недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Он не установлен, сначала проверьте [BuiltInDocumentPropertyCollection.author](/cells/python-net/ru/aspose.cells.properties/builtindocumentpropertycollection#author), затем проверьте пользователя среды.
+Он не установлен, сначала проверьте [`BuiltInDocumentPropertyCollection.author`](/cells/python-net/ru/aspose.cells.properties/builtindocumentpropertycollection#author), затем проверьте пользователя Environment.
 ###  Определение:
 ```python
 @property
@@ -25,5 +25,5 @@ def author(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WorkbookSettings](/cells/python-net/ru/aspose.cells/workbooksettings)
+* модуль [`aspose.cells`](../../)
+* класс [`WorkbookSettings`](/cells/python-net/ru/aspose.cells/workbooksettings)

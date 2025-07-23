@@ -1,9 +1,9 @@
 ---
 title: format_picture proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 440
+weight: 450
 url: /it/aspose.cells.drawing/picture/format_picture/
 is_root: false
 ---

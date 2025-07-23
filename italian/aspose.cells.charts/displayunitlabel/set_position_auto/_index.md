@@ -1,18 +1,19 @@
 ---
-title: metodo set_position_auto
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo set_position_auto
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
 url: /it/aspose.cells.charts/displayunitlabel/set_position_auto/
 is_root: false
 ---
-##  set_position_auto() {#}
-Imposta la posizione della cornice su automatico
+##  set_position_auto(self) {#}
+Imposta la posizione del frame su automatico
 
 
 
 ```python
+
 def set_position_auto(self):
     ...
 ```
@@ -22,5 +23,5 @@ def set_position_auto(self):
 
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [DisplayUnitLabel](/cells/python-net/it/aspose.cells.charts/displayunitlabel)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`DisplayUnitLabel`](/cells/python-net/it/aspose.cells.charts/displayunitlabel)

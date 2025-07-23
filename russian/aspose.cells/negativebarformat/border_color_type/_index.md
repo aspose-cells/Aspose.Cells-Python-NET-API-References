@@ -1,6 +1,6 @@
 ---
 title: border_color_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border_color_type недвижимость
 
-Получает, следует ли использовать тот же цвет границы, что и положительные гистограммы.
+Определяет, использовать ли тот же цвет границы, что и для положительных столбцов данных.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def border_color_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [DataBarNegativeColorType](/cells/python-net/ru/aspose.cells/databarnegativecolortype)
-* класс [NegativeBarFormat](/cells/python-net/ru/aspose.cells/negativebarformat)
+* модуль [`aspose.cells`](../../)
+* класс [`DataBarNegativeColorType`](/cells/python-net/ru/aspose.cells/databarnegativecolortype)
+* класс [`NegativeBarFormat`](/cells/python-net/ru/aspose.cells/negativebarformat)

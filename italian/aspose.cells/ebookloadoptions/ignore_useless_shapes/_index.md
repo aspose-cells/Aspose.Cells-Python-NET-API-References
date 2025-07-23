@@ -1,6 +1,6 @@
 ---
 title: ignore_useless_shapes proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 190
@@ -13,9 +13,9 @@ Indica se ignorare le forme inutili.
 
 ###  Osservazioni
 
-Funziona solo con file xlsx,xlsb e xlsm.
+Funziona solo per i file xlsx, xlsb e xlsm.
  Ci sono molte forme identiche sovrapposte che sono inutili in alcuni file,
-possiamo inserirli durante il caricamento dei file.
+possiamo ignorarli quando carichiamo i file.
 ###  Definizione:
 ```python
 @property

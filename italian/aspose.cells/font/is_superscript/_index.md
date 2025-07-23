@@ -1,6 +1,6 @@
 ---
 title: is_superscript proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 140
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_superscript proprietà
 
-Ottiene o imposta un valore che indica se il tipo di carattere è super script.
+Ottiene o imposta un valore che indica se il font è in apice.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_superscript(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Font](/cells/python-net/it/aspose.cells/font)
+* modulo [`aspose.cells`](../../)
+* classe [`Font`](/cells/python-net/it/aspose.cells/font)

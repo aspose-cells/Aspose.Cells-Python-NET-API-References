@@ -1,6 +1,6 @@
 ---
 title: allow_sorting недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 200
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_sorting недвижимость
 
-Указывает, разрешен ли параметр сортировки на защищенном листе.
+Указывает, разрешена ли опция сортировки на защищенном листе.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_sorting(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Protection](/cells/python-net/ru/aspose.cells/protection)
+* модуль [`aspose.cells`](../../)
+* класс [`Protection`](/cells/python-net/ru/aspose.cells/protection)

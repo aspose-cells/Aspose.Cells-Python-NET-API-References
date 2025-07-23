@@ -1,9 +1,9 @@
 ---
 title: show_table_style_first_column proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 220
+weight: 230
 url: /it/aspose.cells.tables/listobject/show_table_style_first_column/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_table_style_first_column(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.tables](../../)
-* classe [ListObject](/cells/python-net/it/aspose.cells.tables/listobject)
+* modulo [`aspose.cells.tables`](../../)
+* classe [`ListObject`](/cells/python-net/it/aspose.cells.tables/listobject)

@@ -1,9 +1,9 @@
 ---
 title: ExternalLinkType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2100
+weight: 2020
 url: /ru/aspose.cells/externallinktype/
 is_root: false
 ---
@@ -17,7 +17,7 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| DDE_LINK | Представляет ссылку DDE.|
+| DDE_LINK | Представляет собой связь DDE.|
 | EXTERNAL | Представляет внешнюю ссылку.|
 
 

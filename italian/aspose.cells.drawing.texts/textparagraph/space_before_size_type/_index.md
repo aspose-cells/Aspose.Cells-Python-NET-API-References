@@ -1,6 +1,6 @@
 ---
 title: space_before_size_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 220
@@ -21,6 +21,6 @@ def space_before_size_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](../../)
-* classe [LineSpaceSizeType](/cells/python-net/it/aspose.cells.drawing.texts/linespacesizetype)
-* classe [TextParagraph](/cells/python-net/it/aspose.cells.drawing.texts/textparagraph)
+* modulo [`aspose.cells.drawing.texts`](../../)
+* classe [`LineSpaceSizeType`](/cells/python-net/it/aspose.cells.drawing.texts/linespacesizetype)
+* classe [`TextParagraph`](/cells/python-net/it/aspose.cells.drawing.texts/textparagraph)

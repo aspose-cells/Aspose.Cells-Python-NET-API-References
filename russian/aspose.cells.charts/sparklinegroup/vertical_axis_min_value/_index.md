@@ -1,6 +1,6 @@
 ---
 title: vertical_axis_min_value недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 300
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  vertical_axis_min_value недвижимость
 
-Получает и задает пользовательское минимальное значение для вертикальной оси.
+Получает и задает минимальное значение для вертикальной оси.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def vertical_axis_min_value(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [SparklineGroup](/cells/python-net/ru/aspose.cells.charts/sparklinegroup)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`SparklineGroup`](/cells/python-net/ru/aspose.cells.charts/sparklinegroup)

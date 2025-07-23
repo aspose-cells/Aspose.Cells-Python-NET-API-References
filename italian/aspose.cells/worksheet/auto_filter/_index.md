@@ -1,9 +1,9 @@
 ---
 title: auto_filter proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 370
+weight: 390
 url: /it/aspose.cells/worksheet/auto_filter/
 is_root: false
 ---

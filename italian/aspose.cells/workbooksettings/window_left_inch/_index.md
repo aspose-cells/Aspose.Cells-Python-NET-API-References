@@ -1,16 +1,16 @@
 ---
 title: window_left_inch proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 570
+weight: 580
 url: /it/aspose.cells/workbooksettings/window_left_inch/
 is_root: false
 ---
 ##  window_left_inch proprietà
 
-La distanza dal bordo sinistro dell'area client al bordo sinistro della finestra.
-In unità di pollice.
+Distanza tra il bordo sinistro dell'area client e il bordo sinistro della finestra.
+In unità di pollici.
 ###  Definizione:
 ```python
 @property

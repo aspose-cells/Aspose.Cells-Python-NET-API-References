@@ -1,13 +1,13 @@
 ---
-title: metodo get_icon_image_data
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo get_icon_image_data
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells/conditionalformattingicon/get_icon_image_data/
 is_root: false
 ---
-##  get_icon_image_data(type, index) {#IconSetType-int}
+##  get_icon_image_data(, tipo, indice){#aspose.cells.IconSetType-int}
 Ottieni i dati del set di icone
 
 
@@ -17,18 +17,20 @@ Ottieni i dati del set di icone
 
 
 ```python
-def get_icon_image_data(self, type, index):
+
+@staticmethod
+def get_icon_image_data(type, index):
     ...
 ```
 
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| type | [IconSetType](/cells/python-net/it/aspose.cells/iconsettype) | tipo di icona|
+| type | [`IconSetType`](/cells/python-net/it/aspose.cells/iconsettype) | tipo di icona|
 | index | int | indice dell'icona|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ConditionalFormattingIcon](/cells/python-net/it/aspose.cells/conditionalformattingicon)
+* modulo [`aspose.cells`](../../)
+* classe [`ConditionalFormattingIcon`](/cells/python-net/it/aspose.cells/conditionalformattingicon)

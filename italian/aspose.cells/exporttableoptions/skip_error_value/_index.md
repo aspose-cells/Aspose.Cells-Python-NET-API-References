@@ -1,6 +1,6 @@
 ---
 title: skip_error_value proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 160
@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  skip_error_value proprietà
 
-Indica se ignorare il valore non valido per la colonna.
- Ad esempio, se il tipo di colonna è decimal, il valore è maggiore di decimal.MaxValue
-e questa proprietà è vera, non genereremo nuovamente un'eccezione.
+Indica se ignorare un valore non valido per la colonna.
+ Ad esempio, se il tipo di colonna è decimale, il valore è maggiore di decimale.MaxValue
+e se questa proprietà è vera, non genereremo più eccezioni.
 Il valore predefinito è falso.
 ###  Definizione:
 ```python

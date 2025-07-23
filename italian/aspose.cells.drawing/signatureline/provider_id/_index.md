@@ -1,6 +1,6 @@
 ---
 title: provider_id proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  provider_id proprietà
 
-Ottiene e imposta l'ID del provider di firme.
+Ottiene o imposta l'ID del fornitore della firma.
 
 ###  Osservazioni
 
@@ -23,7 +23,7 @@ from uuid import uuid4
 
 #  Create signature line object
 s2 = SignatureLine()
-s2.provider_id = uuid4()
+s2.provider_id = uuid4("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx")
 
 ```
 ###  Definizione:
@@ -37,5 +37,5 @@ def provider_id(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [SignatureLine](/cells/python-net/it/aspose.cells.drawing/signatureline)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`SignatureLine`](/cells/python-net/it/aspose.cells.drawing/signatureline)

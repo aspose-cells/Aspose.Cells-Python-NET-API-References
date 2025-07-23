@@ -1,9 +1,9 @@
 ---
 title: right_margin_pt proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 90
+weight: 100
 url: /it/aspose.cells.drawing.texts/shapetextalignment/right_margin_pt/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def right_margin_pt(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](../../)
-* classe [ShapeTextAlignment](/cells/python-net/it/aspose.cells.drawing.texts/shapetextalignment)
+* modulo [`aspose.cells.drawing.texts`](../../)
+* classe [`ShapeTextAlignment`](/cells/python-net/it/aspose.cells.drawing.texts/shapetextalignment)

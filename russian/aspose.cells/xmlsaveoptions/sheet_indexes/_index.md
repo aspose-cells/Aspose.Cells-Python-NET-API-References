@@ -1,9 +1,9 @@
 ---
 title: sheet_indexes недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 110
+weight: 140
 url: /ru/aspose.cells/xmlsaveoptions/sheet_indexes/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def sheet_indexes(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [XmlSaveOptions](/cells/python-net/ru/aspose.cells/xmlsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`XmlSaveOptions`](/cells/python-net/ru/aspose.cells/xmlsaveoptions)

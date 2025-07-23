@@ -1,15 +1,15 @@
 ---
 title: data_field_header_name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 410
+weight: 510
 url: /it/aspose.cells.pivot/pivottable/data_field_header_name/
 is_root: false
 ---
 ##  data_field_header_name proprietà
 
-Ottiene e imposta il nome dell'intestazione del campo dell'area del valore nella tabella pivot.
+Ottiene e imposta il nome dell'intestazione del campo dell'area valore nella tabella pivot.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def data_field_header_name(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [PivotTable](/cells/python-net/it/aspose.cells.pivot/pivottable)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`PivotTable`](/cells/python-net/it/aspose.cells.pivot/pivottable)

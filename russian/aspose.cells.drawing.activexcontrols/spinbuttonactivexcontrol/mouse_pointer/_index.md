@@ -1,6 +1,6 @@
 ---
 title: mouse_pointer недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 190
@@ -8,8 +8,6 @@ url: /ru/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/mouse_poi
 is_root: false
 ---
 ##  mouse_pointer недвижимость
-
-Получает и задает тип значка, отображаемого в качестве указателя мыши для элемента управления.
 ###  Определение:
 ```python
 @property
@@ -21,6 +19,6 @@ def mouse_pointer(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [ControlMousePointerType](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/controlmousepointertype)
-* класс [SpinButtonActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`ControlMousePointerType`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/controlmousepointertype)
+* класс [`SpinButtonActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

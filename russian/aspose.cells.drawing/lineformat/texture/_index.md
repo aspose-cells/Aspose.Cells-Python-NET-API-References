@@ -1,6 +1,6 @@
 ---
 title: texture недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 320
@@ -21,6 +21,6 @@ def texture(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [LineFormat](/cells/python-net/ru/aspose.cells.drawing/lineformat)
-* класс [TextureType](/cells/python-net/ru/aspose.cells.drawing/texturetype)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`LineFormat`](/cells/python-net/ru/aspose.cells.drawing/lineformat)
+* класс [`TextureType`](/cells/python-net/ru/aspose.cells.drawing/texturetype)

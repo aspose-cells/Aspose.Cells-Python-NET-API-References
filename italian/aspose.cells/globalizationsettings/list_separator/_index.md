@@ -1,6 +1,6 @@
 ---
 title: list_separator proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 320
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  list_separator proprietà
 
-Ottiene il separatore per elenco, parametri di funzione, ... ecc.
+Ottiene il separatore per l'elenco, i parametri della funzione, ecc.
 ###  Definizione:
 ```python
 @property

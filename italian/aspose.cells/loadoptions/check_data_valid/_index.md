@@ -1,6 +1,6 @@
 ---
 title: check_data_valid proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  check_data_valid proprietà
 
-Verificare se i dati sono validi nel file modello.
+Controllare se i dati nel file modello sono validi.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def check_data_valid(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [LoadOptions](/cells/python-net/it/aspose.cells/loadoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`LoadOptions`](/cells/python-net/it/aspose.cells/loadoptions)

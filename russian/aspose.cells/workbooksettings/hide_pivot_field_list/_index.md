@@ -1,15 +1,15 @@
 ---
 title: hide_pivot_field_list недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 210
+weight: 240
 url: /ru/aspose.cells/workbooksettings/hide_pivot_field_list/
 is_root: false
 ---
 ##  hide_pivot_field_list недвижимость
 
-Получает и устанавливает, нужно ли скрывать список полей сводной таблицы.
+Возвращает и задает, скрыть ли список полей для сводной таблицы.
 ###  Определение:
 ```python
 @property

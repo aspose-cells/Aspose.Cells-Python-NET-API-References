@@ -1,9 +1,9 @@
 ---
 title: ConditionalFormattingIcon classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 320
+weight: 290
 url: /it/aspose.cells/conditionalformattingicon/
 is_root: false
 ---
@@ -25,8 +25,8 @@ Il tipo ConditionalFormattingIcon espone i seguenti membri:
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [get_icon_image_data](/cells/python-net/it/aspose.cells/conditionalformattingicon/get_icon_image_data/#aspose.cells.IconSetType-int) | Ottieni i dati del set di icone|
-| [get_image_data](/cells/python-net/it/aspose.cells/conditionalformattingicon/get_image_data/#aspose.cells.Cell) | Ottiene i dati dell'immagine con l'impostazione di cell.|
+| [`get_icon_image_data(, type, index)`](/cells/python-net/it/aspose.cells/conditionalformattingicon/get_icon_image_data/#aspose.cells.iconsettype-int) | Ottieni i dati del set di icone|
+| [`get_image_data(self, cell)`](/cells/python-net/it/aspose.cells/conditionalformattingicon/get_image_data/#aspose.cells.cell) | Ottiene i dati dell'immagine con l'impostazione della cella.|
 
 
 

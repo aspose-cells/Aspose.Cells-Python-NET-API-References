@@ -1,28 +1,28 @@
 ---
-title: TextTabAlignmentType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione TextTabAlignmentType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 190
+weight: 200
 url: /it/aspose.cells.drawing.texts/texttabalignmenttype/
 is_root: false
 ---
-##  TextTabAlignmentType enumerazione
-Rappresenta i tipi di allineamento delle tabulazioni di testo.
+##  Enumerazione TextTabAlignmentType
+Rappresenta i tipi di allineamento delle tabulazioni del testo.
 
 
 
-Il tipo TextTabAlignmentType espone i membri seguenti:
+Il tipo TextTabAlignmentType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
 | CENTER | Il testo in questa tabulazione è allineato al centro.|
-| DECIMAL | A questa tabulazione, i decimali sono allineati.|
+| DECIMAL | In questa tabulazione i decimali sono allineati.|
 | LEFT | Il testo in questa tabulazione è allineato a sinistra.|
 | RIGHT | Il testo in questa tabulazione è allineato a destra.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](..)
+* modulo [`aspose.cells.drawing.texts`](..)

@@ -1,9 +1,9 @@
 ---
 title: soft_edges proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 970
+weight: 980
 url: /it/aspose.cells.drawing/listbox/soft_edges/
 is_root: false
 ---

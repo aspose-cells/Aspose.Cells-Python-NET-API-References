@@ -1,6 +1,6 @@
 ---
 title: smoothing_mode недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 310
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  smoothing_mode недвижимость
 
-Указывает, применяется ли сглаживание (сглаживание) к линиям и кривым, а также к краям заполненных областей.
+Указывает, применяется ли сглаживание (антиалиасинг) к линиям и кривым, а также к краям заполненных областей.
 Значение по умолчанию — SmoothingMode.None.
 ###  Определение:
 ```python

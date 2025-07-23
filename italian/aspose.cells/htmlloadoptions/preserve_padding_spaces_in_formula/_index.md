@@ -1,16 +1,16 @@
 ---
 title: preserve_padding_spaces_in_formula proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 330
+weight: 310
 url: /it/aspose.cells/htmlloadoptions/preserve_padding_spaces_in_formula/
 is_root: false
 ---
 ##  preserve_padding_spaces_in_formula proprietà
 
-Indica se preservare gli spazi e le interruzioni di riga riempiti tra i token della formula
-durante l'acquisizione e l'impostazione delle formule.
+Indica se conservare gli spazi e le interruzioni di riga che vengono aggiunti tra i token della formula
+durante l'ottenimento e l'impostazione delle formule.
 Il valore predefinito è falso.
 
 ###  Osservazioni

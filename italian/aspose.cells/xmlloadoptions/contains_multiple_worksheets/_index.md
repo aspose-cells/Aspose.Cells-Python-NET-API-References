@@ -1,6 +1,6 @@
 ---
 title: contains_multiple_worksheets proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  contains_multiple_worksheets proprietà
 
-Indica se importare xml come più fogli di lavoro.
+Indica se importare XML come più fogli di lavoro.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def contains_multiple_worksheets(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [XmlLoadOptions](/cells/python-net/it/aspose.cells/xmlloadoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`XmlLoadOptions`](/cells/python-net/it/aspose.cells/xmlloadoptions)

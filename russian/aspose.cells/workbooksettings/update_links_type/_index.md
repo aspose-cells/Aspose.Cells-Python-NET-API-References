@@ -1,15 +1,15 @@
 ---
 title: update_links_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 500
+weight: 520
 url: /ru/aspose.cells/workbooksettings/update_links_type/
 is_root: false
 ---
 ##  update_links_type недвижимость
 
-Получает и задает способ обновления внешних ссылок при открытии книги.
+Возвращает и задает способ обновления внешних ссылок при открытии книги.
 ###  Определение:
 ```python
 @property

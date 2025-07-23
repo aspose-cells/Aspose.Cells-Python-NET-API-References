@@ -1,6 +1,6 @@
 ---
 title: axis_line proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  axis_line proprietà
 
-Ottiene l'aspetto di un asse.
+Ottiene l'aspetto di un Asse.
 ###  Definizione:
 ```python
 @property

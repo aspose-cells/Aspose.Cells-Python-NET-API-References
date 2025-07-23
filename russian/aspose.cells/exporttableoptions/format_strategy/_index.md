@@ -1,6 +1,6 @@
 ---
 title: format_strategy недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  format_strategy недвижимость
 
-Получает и задает стратегию форматирования при экспорте значения в виде строкового значения.
+Возвращает и задает стратегию форматирования при экспорте значения как строкового значения.
 ###  Определение:
 ```python
 @property

@@ -1,9 +1,9 @@
 ---
 title: query_table proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 190
+weight: 200
 url: /it/aspose.cells.tables/listobject/query_table/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def query_table(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.tables](../../)
-* classe [ListObject](/cells/python-net/it/aspose.cells.tables/listobject)
-* classe [QueryTable](/cells/python-net/it/aspose.cells/querytable)
+* modulo [`aspose.cells.tables`](../../)
+* classe [`ListObject`](/cells/python-net/it/aspose.cells.tables/listobject)
+* classe [`QueryTable`](/cells/python-net/it/aspose.cells/querytable)

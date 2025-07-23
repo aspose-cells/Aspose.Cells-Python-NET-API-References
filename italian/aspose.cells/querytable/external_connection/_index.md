@@ -1,6 +1,6 @@
 ---
 title: external_connection proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -18,6 +18,5 @@ def external_connection(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ExternalConnection](/cells/python-net/it/aspose.cells.externalconnections/externalconnection)
-* classe [QueryTable](/cells/python-net/it/aspose.cells/querytable)
+* modulo [`aspose.cells`](../../)
+* classe [`QueryTable`](/cells/python-net/it/aspose.cells/querytable)

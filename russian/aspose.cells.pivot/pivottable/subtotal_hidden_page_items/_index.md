@@ -1,17 +1,17 @@
 ---
 title: subtotal_hidden_page_items недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1000
+weight: 1150
 url: /ru/aspose.cells.pivot/pivottable/subtotal_hidden_page_items/
 is_root: false
 ---
 ##  subtotal_hidden_page_items недвижимость
 
-Указывает, будут ли элементы поля скрытой страницы в отчете сводной таблицы
-включаются в промежуточные итоги строк и столбцов, итоги блоков и общие итоги.
-Значение по умолчанию неверно.
+Указывает, скрыты ли элементы полей страницы в отчете сводной таблицы.
+включены в промежуточные итоги по строкам и столбцам, итоги по блокам и общие итоги.
+Значение по умолчанию — Ложь.
 ###  Определение:
 ```python
 @property
@@ -23,5 +23,5 @@ def subtotal_hidden_page_items(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotTable](/cells/python-net/ru/aspose.cells.pivot/pivottable)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotTable`](/cells/python-net/ru/aspose.cells.pivot/pivottable)

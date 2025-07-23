@@ -1,6 +1,6 @@
 ---
 title: begin_arrow_width proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  begin_arrow_width proprietà
 
-Specifica la larghezza della punta della freccia per l'inizio di una riga.
+Specifica la larghezza della punta della freccia all'inizio di una linea.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def begin_arrow_width(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [ErrorBar](/cells/python-net/it/aspose.cells.charts/errorbar)
-* classe [MsoArrowheadWidth](/cells/python-net/it/aspose.cells.drawing/msoarrowheadwidth)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`ErrorBar`](/cells/python-net/it/aspose.cells.charts/errorbar)
+* classe [`MsoArrowheadWidth`](/cells/python-net/it/aspose.cells.drawing/msoarrowheadwidth)

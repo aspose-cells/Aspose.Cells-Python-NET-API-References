@@ -1,13 +1,13 @@
 ---
-title: metodo get_locked_property
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo get_locked_property
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 110
+weight: 130
 url: /it/aspose.cells.drawing/chartshape/get_locked_property/
 is_root: false
 ---
-##  get_locked_property(type) {#ShapeLockType}
+##  get_locked_property(self, type) {#aspose.cells.drawing.ShapeLockType}
 Ottiene il valore della proprietà bloccata.
 
 
@@ -17,6 +17,7 @@ Restituisce il valore della proprietà bloccata.
 
 
 ```python
+
 def get_locked_property(self, type):
     ...
 ```
@@ -24,7 +25,7 @@ def get_locked_property(self, type):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| type | [ShapeLockType](/cells/python-net/it/aspose.cells.drawing/shapelocktype) | Il tipo della proprietà bloccata della forma.|
+| type | [`ShapeLockType`](/cells/python-net/it/aspose.cells.drawing/shapelocktype) | Tipo di proprietà bloccata della forma.|
 
 ###  Esempio
 
@@ -40,5 +41,5 @@ if shape.get_locked_property(ShapeLockType.ADJUST_HANDLES):
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ChartShape](/cells/python-net/it/aspose.cells.drawing/chartshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ChartShape`](/cells/python-net/it/aspose.cells.drawing/chartshape)

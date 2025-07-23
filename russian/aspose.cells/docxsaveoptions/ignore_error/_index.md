@@ -1,16 +1,13 @@
 ---
 title: ignore_error недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 140
+weight: 190
 url: /ru/aspose.cells/docxsaveoptions/ignore_error/
 is_root: false
 ---
 ##  ignore_error недвижимость
-
-Указывает, нужно ли скрыть ошибку при рендеринге.
-Ошибка может заключаться в ошибке формы, изображения, отрисовки диаграммы и т. д.
 ###  Определение:
 ```python
 @property

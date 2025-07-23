@@ -1,14 +1,14 @@
 ---
 title: PasteType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2450
+weight: 2420
 url: /ru/aspose.cells/pastetype/
 is_root: false
 ---
 ##  PasteType перечисление
-Представляет специальный тип пасты.
+Представляет собой специальный тип пасты.
 
 
 
@@ -18,19 +18,19 @@ is_root: false
 | Поле| Описание|
 | :- | :- |
 | ALL | Копирует все данные диапазона.|
-| DEFAULT | Это работает как поведение «Все» MS Excel.|
-| ALL_EXCEPT_BORDERS | Копирует все данные диапазона без диапазона.|
-| DEFAULT_EXCEPT_BORDERS | Это работает как поведение MS Excel «Все, кроме границ».|
+| DEFAULT |Работает как «Все» поведение MS Excel.|
+| ALL_EXCEPT_BORDERS | Копирует все данные диапазона без самого диапазона.|
+| DEFAULT_EXCEPT_BORDERS | Работает аналогично поведению MS Excel «Все, кроме границ».|
 | COLUMN_WIDTHS | Копирует только ширину диапазона.|
 | ROW_HEIGHTS | Копирует только высоты диапазона.|
-| COMMENTS |  |
-| FORMATS |  |
-| FORMULAS |  |
-| FORMULAS_AND_NUMBER_FORMATS |  |
-| VALIDATION |  |
-| VALUES |  |
-| VALUES_AND_FORMATS |  |
-| VALUES_AND_NUMBER_FORMATS |  |
+| COMMENTS | Копирует только комментарии в диапазоне.|
+| FORMATS | Копирует только форматы в указанном диапазоне.|
+| FORMULAS | Копирует только формулы в диапазоне.|
+| FORMULAS_AND_NUMBER_FORMATS | Копирует только формулы и числовые форматы в диапазоне.|
+| VALIDATION | Копирует только проверки в диапазоне.|
+| VALUES | Копирует только значения в диапазоне.|
+| VALUES_AND_FORMATS | Копирует только значения и форматы в диапазоне.|
+| VALUES_AND_NUMBER_FORMATS | Копирует только значения и числовые форматы в диапазоне.|
 
 
 

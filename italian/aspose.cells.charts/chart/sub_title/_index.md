@@ -1,6 +1,6 @@
 ---
 title: sub_title proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 620
@@ -10,7 +10,7 @@ is_root: false
 ##  sub_title proprietà
 
 Ottiene il sottotitolo del grafico.
-Solo per file in formato ODS.
+Solo per il formato file ODS.
 ###  Definizione:
 ```python
 @property

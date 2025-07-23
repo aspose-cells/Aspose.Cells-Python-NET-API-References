@@ -1,6 +1,6 @@
 ---
 title: preserve_formatting proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  preserve_formatting proprietà
 
-Restituisce o imposta PreserveFormatting dell'oggetto.
+Restituisce o imposta il PreserveFormatting dell'oggetto.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def preserve_formatting(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [QueryTable](/cells/python-net/it/aspose.cells/querytable)
+* modulo [`aspose.cells`](../../)
+* classe [`QueryTable`](/cells/python-net/it/aspose.cells/querytable)

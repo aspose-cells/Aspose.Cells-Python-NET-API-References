@@ -1,13 +1,13 @@
 ---
-title: metodo get_linked_cell
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo get_linked_cell
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 100
+weight: 120
 url: /it/aspose.cells.drawing/cellsdrawing/get_linked_cell/
 is_root: false
 ---
-##  get_linked_cell(is_r1c1, is_local) {#bool-bool}
+##  get_linked_cell(self, is_r1c1, is_local) {#bool-bool}
 Ottiene l'intervallo collegato al valore del controllo.
 
 
@@ -17,6 +17,7 @@ L'intervallo collegato al valore del controllo.
 
 
 ```python
+
 def get_linked_cell(self, is_r1c1, is_local):
     ...
 ```
@@ -39,5 +40,5 @@ link = shape.get_linked_cell(False, False)
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [CellsDrawing](/cells/python-net/it/aspose.cells.drawing/cellsdrawing)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`CellsDrawing`](/cells/python-net/it/aspose.cells.drawing/cellsdrawing)

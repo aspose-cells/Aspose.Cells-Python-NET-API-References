@@ -1,9 +1,9 @@
 ---
 title: SortOnType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2570
+weight: 2540
 url: /ru/aspose.cells/sortontype/
 is_root: false
 ---

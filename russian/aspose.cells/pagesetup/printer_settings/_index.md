@@ -1,6 +1,6 @@
 ---
 title: printer_settings недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 610
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  printer_settings недвижимость
 
-Получает и задает параметры принтера по умолчанию.
+Получает и задает настройки принтера по умолчанию.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def printer_settings(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PageSetup](/cells/python-net/ru/aspose.cells/pagesetup)
+* модуль [`aspose.cells`](../../)
+* класс [`PageSetup`](/cells/python-net/ru/aspose.cells/pagesetup)

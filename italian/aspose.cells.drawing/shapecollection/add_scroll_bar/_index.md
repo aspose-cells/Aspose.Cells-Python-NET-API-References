@@ -1,14 +1,14 @@
 ---
 title: Metodo add_scroll_bar
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 260
+weight: 270
 url: /it/aspose.cells.drawing/shapecollection/add_scroll_bar/
 is_root: false
 ---
-##  add_scroll_bar {#int-int-int-int-int-int}
-Aggiunge una ScrollBar al foglio di lavoro.
+##  add_scroll_bar(self, upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
+Aggiunge una barra di scorrimento al foglio di lavoro.
 
 
 ###  ritorna
@@ -17,6 +17,7 @@ Un oggetto ScrollBar.
 
 
 ```python
+
 def add_scroll_bar(self, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```
@@ -25,11 +26,11 @@ def add_scroll_bar(self, upper_left_row, top, upper_left_column, left, height, w
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
 | upper_left_row | int | Indice della riga in alto a sinistra.|
-| top | int | Rappresenta l'offset verticale di ScrollBar dalla riga sinistra, in unità di pixel.|
+| top | int |Rappresenta lo scostamento verticale di ScrollBar dalla sua riga sinistra, in pixel.|
 | upper_left_column | int | Indice della colonna in alto a sinistra.|
-| left | int | Rappresenta l'offset orizzontale di ScrollBar dalla colonna di sinistra, in unità di pixel.|
-| height | int | Rappresenta l'altezza di ScrollBar, in unità di pixel.|
-| width | int | Rappresenta la larghezza di ScrollBar, in unità di pixel.|
+| left | int | Rappresenta lo scostamento orizzontale di ScrollBar dalla sua colonna di sinistra, in pixel.|
+| height | int | Rappresenta l'altezza di ScrollBar, in pixel.|
+| width | int | Rappresenta la larghezza della barra di scorrimento, in pixel.|
 
 ###  Esempio
 

@@ -1,15 +1,15 @@
 ---
 title: check_boxes proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 420
+weight: 440
 url: /it/aspose.cells/worksheet/check_boxes/
 is_root: false
 ---
 ##  check_boxes proprietà
 
-Ottiene una raccolta [`CheckBox`](/cells/python-net/it/aspose.cells.drawing/checkbox).
+Ottiene una collezione [`CheckBox`](/cells/python-net/it/aspose.cells.drawing/checkbox).
 ###  Definizione:
 ```python
 @property

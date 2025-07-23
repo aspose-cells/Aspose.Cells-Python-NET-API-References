@@ -1,6 +1,6 @@
 ---
 title: integral_height недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 150
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  integral_height недвижимость
 
-Указывает, будет ли элемент управления отображать только полные строки текста без отображения каких-либо частичных строк.
+Указывает, будет ли элемент управления отображать только полные строки текста, не отображая частичные строки.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def integral_height(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [TextBoxActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`TextBoxActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

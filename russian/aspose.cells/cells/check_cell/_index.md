@@ -1,23 +1,24 @@
 ---
 title: check_cell метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
 url: /ru/aspose.cells/cells/check_cell/
 is_root: false
 ---
-##  check_cell(row, column) {#int-int}
-Получает элемент [Cell](/cells/python-net/ru/aspose.cells/cell) или значение NULL по указанному индексу строки ячейки и индексу столбца.
+##  check_cell(self, row, column) {#int-int}
+Возвращает элемент [`Cell`](/cells/python-net/ru/aspose.cells/cell) или значение NULL по указанному индексу строки ячейки и индексу столбца.
 
 
-###  Возвращает
+###  Возврат
 
-Возвращает объект Cell, если объект Cell существует.
+Возвращает объект Cell, если существует объект Cell.
 Возвращает null, если ячейка не существует.
 
 
 ```python
+
 def check_cell(self, row, column):
     ...
 ```
@@ -31,6 +32,6 @@ def check_cell(self, row, column):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cell](/cells/python-net/ru/aspose.cells/cell)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
+* модуль [`aspose.cells`](../../)
+* класс [`Cell`](/cells/python-net/ru/aspose.cells/cell)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)

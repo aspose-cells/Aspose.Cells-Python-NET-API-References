@@ -1,6 +1,6 @@
 ---
 title: ListColumn класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 10
@@ -8,28 +8,32 @@ url: /ru/aspose.cells.tables/listcolumn/
 is_root: false
 ---
 ##  ListColumn класс
-Представляет столбец в списке.
+Представляет столбец в таблице.
 
 
 
-Тип ListColumn предоставляет следующие члены:
+Тип ListColumn предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
 | [name](/cells/python-net/ru/aspose.cells.tables/listcolumn/name) | Получает и задает имя столбца.|
-| [totals_calculation](/cells/python-net/ru/aspose.cells.tables/listcolumn/totals_calculation) | Получает и задает тип вычисления в строке Totals столбца списка.|
+| [totals_calculation](/cells/python-net/ru/aspose.cells.tables/listcolumn/totals_calculation) | Возвращает и задает тип расчета в строке «Итоги» столбца списка.|
 | [range](/cells/python-net/ru/aspose.cells.tables/listcolumn/range) | Получает диапазон этого столбца списка.|
+| [is_array_formula](/cells/python-net/ru/aspose.cells.tables/listcolumn/is_array_formula) | Указывает, является ли формула формулой массива.|
 | [formula](/cells/python-net/ru/aspose.cells.tables/listcolumn/formula) | Получает и задает формулу столбца списка.|
+| [totals_row_label](/cells/python-net/ru/aspose.cells.tables/listcolumn/totals_row_label) | Получает и задает отображаемые метки общей строки.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [get_custom_totals_row_formula(is_r1c1, is_local)](/cells/python-net/ru/aspose.cells.tables/listcolumn/get_custom_totals_row_formula/#bool-bool) | Получает формулу итоговой строки этого столбца списка.|
-| [set_custom_totals_row_formula(formula, is_r1c1, is_local)](/cells/python-net/ru/aspose.cells.tables/listcolumn/set_custom_totals_row_formula/#str-bool-bool) | Получает формулу итоговой строки этого столбца списка.|
-| [get_custom_calculated_formula(is_r1c1, is_local)](/cells/python-net/ru/aspose.cells.tables/listcolumn/get_custom_calculated_formula/#bool-bool) | Получает формулу этого столбца списка.|
-| [set_custom_calculated_formula(formula, is_r1c1, is_local)](/cells/python-net/ru/aspose.cells.tables/listcolumn/set_custom_calculated_formula/#str-bool-bool) | Задает формулу для этого столбца списка.|
+| [`get_custom_totals_row_formula(self, is_r1c1, is_local)`](/cells/python-net/ru/aspose.cells.tables/listcolumn/get_custom_totals_row_formula/#bool-bool) | Получает формулу итоговой строки этого столбца списка.|
+| [`set_custom_totals_row_formula(self, formula, is_r1c1, is_local)`](/cells/python-net/ru/aspose.cells.tables/listcolumn/set_custom_totals_row_formula/#str-bool-bool) | Получает формулу итоговой строки этого столбца списка.|
+| [`get_custom_calculated_formula(self, is_r1c1, is_local)`](/cells/python-net/ru/aspose.cells.tables/listcolumn/get_custom_calculated_formula/#bool-bool) | Получает формулу этого столбца списка.|
+| [`set_custom_calculated_formula(self, formula, is_r1c1, is_local)`](/cells/python-net/ru/aspose.cells.tables/listcolumn/set_custom_calculated_formula/#str-bool-bool) | Задает формулу для этого столбца списка.|
+| [`get_data_style(self)`](/cells/python-net/ru/aspose.cells.tables/listcolumn/get_data_style/#) | Получает стиль данных в этом столбце таблицы.|
+| [`set_data_style(self, style)`](/cells/python-net/ru/aspose.cells.tables/listcolumn/set_data_style/#aspose.cells.style) | Задает стиль данных в этом столбце таблицы.|
 
 
 
@@ -58,4 +62,4 @@ workbook.save(r"Book1.xlsx")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.tables](..)
+* модуль [`aspose.cells.tables`](..)

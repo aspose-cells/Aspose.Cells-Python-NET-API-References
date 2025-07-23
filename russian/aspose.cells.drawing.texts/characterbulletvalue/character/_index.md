@@ -1,6 +1,6 @@
 ---
 title: character недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  character недвижимость
 
-Получает и устанавливает character пули.
+Получает и задает character пули.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def character(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [CharacterBulletValue](/cells/python-net/ru/aspose.cells.drawing.texts/characterbulletvalue)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`CharacterBulletValue`](/cells/python-net/ru/aspose.cells.drawing.texts/characterbulletvalue)

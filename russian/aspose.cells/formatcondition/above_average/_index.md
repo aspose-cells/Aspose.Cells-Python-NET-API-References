@@ -1,6 +1,6 @@
 ---
 title: above_average недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -9,10 +9,10 @@ is_root: false
 ---
 ##  above_average недвижимость
 
-Получите экземпляр условного форматирования «AboveAverage».
+Получите экземпляр условного форматирования «Выше среднего».
  Правило экземпляра по умолчанию выделяет ячейки, которые
 выше среднего для всех значений в диапазоне.
-Допустимо только для типа = AboveAverage.
+Действительно только для типа = ВышеСреднего.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def above_average(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [AboveAverage](/cells/python-net/ru/aspose.cells/aboveaverage)
-* класс [FormatCondition](/cells/python-net/ru/aspose.cells/formatcondition)
+* модуль [`aspose.cells`](../../)
+* класс [`AboveAverage`](/cells/python-net/ru/aspose.cells/aboveaverage)
+* класс [`FormatCondition`](/cells/python-net/ru/aspose.cells/formatcondition)

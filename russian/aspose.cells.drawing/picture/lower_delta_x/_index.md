@@ -1,19 +1,19 @@
 ---
 title: lower_delta_x недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 860
+weight: 880
 url: /ru/aspose.cells.drawing/picture/lower_delta_x/
 is_root: false
 ---
 ##  lower_delta_x недвижимость
 
-Получает или задает горизонтальное смещение фигуры от ее нижнего правого углового столбца.
+Возвращает или задает горизонтальное смещение фигуры от ее нижнего правого углового столбца.
 
 ###  Примечания
 
-Диапазон значений: от 0 до 1024.
+Диапазон значений — от 0 до 1024.
 
 ###  Пример
 

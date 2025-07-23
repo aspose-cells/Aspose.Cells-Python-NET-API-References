@@ -1,6 +1,6 @@
 ---
 title: max_color proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -21,5 +21,5 @@ def max_color(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ColorScale](/cells/python-net/it/aspose.cells/colorscale)
+* modulo [`aspose.cells`](../../)
+* classe [`ColorScale`](/cells/python-net/it/aspose.cells/colorscale)

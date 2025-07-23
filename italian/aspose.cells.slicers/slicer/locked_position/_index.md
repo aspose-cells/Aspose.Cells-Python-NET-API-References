@@ -1,6 +1,6 @@
 ---
 title: locked_position proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 170
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  locked_position proprietà
 
-Indica se l'affettatrice specificata può essere spostata o ridimensionata utilizzando l'interfaccia utente.
+Indica se l'affettatrice specificata può essere spostata o ridimensionata tramite l'interfaccia utente.
 
 ###  Esempio
 
@@ -29,5 +29,5 @@ def locked_position(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.slicers](../../)
-* classe [Slicer](/cells/python-net/it/aspose.cells.slicers/slicer)
+* modulo [`aspose.cells.slicers`](../../)
+* classe [`Slicer`](/cells/python-net/it/aspose.cells.slicers/slicer)

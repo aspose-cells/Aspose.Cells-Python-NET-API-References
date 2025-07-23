@@ -1,9 +1,9 @@
 ---
 title: separator_string proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 390
+weight: 370
 url: /it/aspose.cells/txtloadoptions/separator_string/
 is_root: false
 ---

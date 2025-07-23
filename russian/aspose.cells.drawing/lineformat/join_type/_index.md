@@ -1,6 +1,6 @@
 ---
 title: join_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 240
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  join_type недвижимость
 
-Задает тип соединения линий.
+Указывает тип соединения линий.
 
 ###  Пример
 
@@ -30,6 +30,6 @@ def join_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [LineFormat](/cells/python-net/ru/aspose.cells.drawing/lineformat)
-* класс [LineJoinType](/cells/python-net/ru/aspose.cells.drawing/linejointype)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`LineFormat`](/cells/python-net/ru/aspose.cells.drawing/lineformat)
+* класс [`LineJoinType`](/cells/python-net/ru/aspose.cells.drawing/linejointype)

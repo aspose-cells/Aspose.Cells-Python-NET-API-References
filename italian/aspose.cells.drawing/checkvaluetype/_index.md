@@ -1,27 +1,27 @@
 ---
-title: CheckValueType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione CheckValueType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 790
+weight: 780
 url: /it/aspose.cells.drawing/checkvaluetype/
 is_root: false
 ---
-##  CheckValueType enumerazione
+##  Enumerazione CheckValueType
 Rappresenta il tipo di valore di controllo della casella di controllo.
 
 
 
-Il tipo CheckValueType espone i membri seguenti:
+Il tipo CheckValueType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
-| UN_CHECKED | Deselezionato|
+| UN_CHECKED | Non selezionato|
 | CHECKED | Controllato|
 | MIXED | Misto|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](..)
+* modulo [`aspose.cells.drawing`](..)

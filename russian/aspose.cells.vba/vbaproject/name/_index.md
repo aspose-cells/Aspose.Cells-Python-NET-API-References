@@ -1,9 +1,9 @@
 ---
 title: name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 130
+weight: 140
 url: /ru/aspose.cells.vba/vbaproject/name/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.vba](../../)
-* класс [VbaProject](/cells/python-net/ru/aspose.cells.vba/vbaproject)
+* модуль [`aspose.cells.vba`](../../)
+* класс [`VbaProject`](/cells/python-net/ru/aspose.cells.vba/vbaproject)

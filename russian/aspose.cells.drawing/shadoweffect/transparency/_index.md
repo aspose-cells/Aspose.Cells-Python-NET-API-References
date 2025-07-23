@@ -1,6 +1,6 @@
 ---
 title: transparency недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  transparency недвижимость
 
-Получает и задает степень transparency тени. Диапазон значений от 0,0 (непрозрачный) до 1,0 (прозрачный).
+Возвращает и задаёт степень тени transparency. Диапазон значений от 0,0 (непрозрачная) до 1,0 (прозрачная).
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def transparency(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ShadowEffect](/cells/python-net/ru/aspose.cells.drawing/shadoweffect)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ShadowEffect`](/cells/python-net/ru/aspose.cells.drawing/shadoweffect)

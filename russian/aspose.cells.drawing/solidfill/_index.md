@@ -1,9 +1,9 @@
 ---
 title: SolidFill класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 660
+weight: 640
 url: /ru/aspose.cells.drawing/solidfill/
 is_root: false
 ---
@@ -12,23 +12,21 @@ is_root: false
 
 
 
-**Наследование:** [SolidFill](/cells/python-net/aspose.cells.drawing/solidfill) → 
-[Fill](/cells/python-net/ru/aspose.cells.drawing/fill)
+**Наследование:** [`SolidFill`](/cells/python-net/ru/aspose.cells.drawing/solidfill)
 
 
 
-Тип SolidFill предоставляет следующие члены:
+Тип SolidFill предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [color](/cells/python-net/ru/aspose.cells.drawing/solidfill/color) | Получает или задает Color.|
-| [cells_color](/cells/python-net/ru/aspose.cells.drawing/solidfill/cells_color) |Получает и задает объект [SolidFill.cells_color](/cells/python-net/ru/aspose.cells.drawing/solidfill#cells_color).|
-| [transparency](/cells/python-net/ru/aspose.cells.drawing/solidfill/transparency) | Возвращает или задает степень прозрачности области в виде значения от 0,0 (непрозрачная) до 1,0 (прозрачная).|
+| [color](/cells/python-net/ru/aspose.cells.drawing/solidfill/color) | Получает или задает цвет.|
+| [cells_color](/cells/python-net/ru/aspose.cells.drawing/solidfill/cells_color) | Получает и задает объект [`SolidFill.cells_color`](/cells/python-net/ru/aspose.cells.drawing/solidfill#cells_color).|
+| [transparency](/cells/python-net/ru/aspose.cells.drawing/solidfill/transparency) |Возвращает или задает степень прозрачности области как значение от 0,0 (непрозрачная) до 1,0 (прозрачная).|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
-* класс [Fill](/cells/python-net/ru/aspose.cells.drawing/fill)
-* класс [SolidFill](/cells/python-net/ru/aspose.cells.drawing/solidfill)
+* модуль [`aspose.cells.drawing`](..)
+* класс [`SolidFill`](/cells/python-net/ru/aspose.cells.drawing/solidfill)

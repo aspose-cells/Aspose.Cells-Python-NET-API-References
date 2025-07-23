@@ -1,15 +1,15 @@
 ---
 title: text_vertical_overflow недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ru/aspose.cells.drawing.texts/shapetextalignment/text_vertical_overflow/
 is_root: false
 ---
 ##  text_vertical_overflow недвижимость
 
-Получает и задает тип вертикального переполнения текста для текстового поля.
+Получает и задает тип вертикального переполнения текста текстового поля.
 
 ###  Пример
 
@@ -30,6 +30,6 @@ def text_vertical_overflow(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [ShapeTextAlignment](/cells/python-net/ru/aspose.cells.drawing.texts/shapetextalignment)
-* класс [TextOverflowType](/cells/python-net/ru/aspose.cells.drawing/textoverflowtype)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`ShapeTextAlignment`](/cells/python-net/ru/aspose.cells.drawing.texts/shapetextalignment)
+* класс [`TextOverflowType`](/cells/python-net/ru/aspose.cells.drawing/textoverflowtype)

@@ -1,9 +1,9 @@
 ---
 title: create_id proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 380
+weight: 390
 url: /it/aspose.cells.drawing/picture/create_id/
 is_root: false
 ---

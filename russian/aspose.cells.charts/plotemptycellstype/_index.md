@@ -1,6 +1,6 @@
 ---
 title: PlotEmptyCellsType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 590
@@ -8,20 +8,20 @@ url: /ru/aspose.cells.charts/plotemptycellstype/
 is_root: false
 ---
 ##  PlotEmptyCellsType перечисление
-Представляет все пустые ячейки диаграммы.
+Представляет собой тип диаграммы «Все пустые ячейки графика».
 
 
 
-Тип PlotEmptyCellsType предоставляет следующие члены:
+Тип PlotEmptyCellsType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| NOT_PLOTTED | Не нанесено (оставьте пробел)|
-| ZERO | Нуль|
+| NOT_PLOTTED | Не нанесено на график (оставить пробел)|
+| ZERO | Ноль|
 | INTERPOLATED | Интерполированный|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](..)
+* модуль [`aspose.cells.charts`](..)

@@ -1,9 +1,9 @@
 ---
 title: operation_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 40
+weight: 50
 url: /ru/aspose.cells/pasteoptions/operation_type/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def operation_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PasteOperationType](/cells/python-net/ru/aspose.cells/pasteoperationtype)
-* класс [PasteOptions](/cells/python-net/ru/aspose.cells/pasteoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`PasteOperationType`](/cells/python-net/ru/aspose.cells/pasteoperationtype)
+* класс [`PasteOptions`](/cells/python-net/ru/aspose.cells/pasteoptions)

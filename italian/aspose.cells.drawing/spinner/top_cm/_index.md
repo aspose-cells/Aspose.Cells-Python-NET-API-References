@@ -1,15 +1,15 @@
 ---
 title: top_cm proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /it/aspose.cells.drawing/spinner/top_cm/
 is_root: false
 ---
 ##  top_cm proprietà
 
-Rappresenta l'offset verticale della forma dalla riga superiore, in unità di centimetri.
+Rappresenta lo scostamento verticale della forma dalla sua riga superiore, in centimetri.
 
 ###  Esempio
 

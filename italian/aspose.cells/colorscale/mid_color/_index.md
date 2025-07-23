@@ -1,6 +1,6 @@
 ---
 title: mid_color proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  mid_color proprietà
 
-Ottieni o imposta il colore del gradiente per il valore medio nell'intervallo.
+Ottieni o imposta il colore del gradiente per il valore centrale nell'intervallo.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def mid_color(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ColorScale](/cells/python-net/it/aspose.cells/colorscale)
+* modulo [`aspose.cells`](../../)
+* classe [`ColorScale`](/cells/python-net/it/aspose.cells/colorscale)

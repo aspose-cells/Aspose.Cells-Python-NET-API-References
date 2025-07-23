@@ -1,9 +1,9 @@
 ---
 title: width_cm недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1170
+weight: 1180
 url: /ru/aspose.cells.drawing/rectangleshape/width_cm/
 is_root: false
 ---

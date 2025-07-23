@@ -1,15 +1,22 @@
 ---
 title: data_display_format недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 260
+weight: 340
 url: /ru/aspose.cells.pivot/pivotfield/data_display_format/
 is_root: false
 ---
 ##  data_display_format недвижимость
 
-Представляет способ отображения значений, содержащихся в поле данных.
+Показывает, как отображать значения в поле данных сводного отчета.
+
+###  Примечания
+
+ ПРИМЕЧАНИЕ: Это свойство устарело. Вместо этого
+Вместо этого используйте свойство PivotField.ShowValuesSetting.CalculationType.
+Этот метод будет удален через 12 месяцев, с июня 2024 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 ###  Определение:
 ```python
 @property

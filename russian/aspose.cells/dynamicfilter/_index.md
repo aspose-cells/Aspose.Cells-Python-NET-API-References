@@ -1,14 +1,14 @@
 ---
 title: DynamicFilter класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 530
+weight: 510
 url: /ru/aspose.cells/dynamicfilter/
 is_root: false
 ---
 ##  DynamicFilter класс
-Представляет динамический фильтр.
+Представляет собой динамический фильтр.
 
 
 

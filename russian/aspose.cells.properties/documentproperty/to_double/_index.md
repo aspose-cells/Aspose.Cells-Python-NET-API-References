@@ -1,18 +1,19 @@
 ---
 title: to_double метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
 url: /ru/aspose.cells.properties/documentproperty/to_double/
 is_root: false
 ---
-##  to_double() {#}
-Возвращает значение свойства как двойное.
+##  to_double(self) {#}
+Возвращает значение свойства как число двойной точности.
 
 
 
 ```python
+
 def to_double(self):
     ...
 ```
@@ -25,5 +26,5 @@ def to_double(self):
 
 ###  Смотрите также
 
-* модуль [aspose.cells.properties](../../)
-* класс [DocumentProperty](/cells/python-net/ru/aspose.cells.properties/documentproperty)
+* модуль [`aspose.cells.properties`](../../)
+* класс [`DocumentProperty`](/cells/python-net/ru/aspose.cells.properties/documentproperty)

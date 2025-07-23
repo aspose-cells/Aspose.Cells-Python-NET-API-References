@@ -1,9 +1,9 @@
 ---
 title: vba_project недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 670
+weight: 700
 url: /ru/aspose.cells/workbook/vba_project/
 is_root: false
 ---

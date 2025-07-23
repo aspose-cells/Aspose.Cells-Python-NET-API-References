@@ -1,18 +1,19 @@
 ---
 title: ReplaceOptions конструктор
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 10
 url: /ru/aspose.cells/replaceoptions/__init__/
 is_root: false
 ---
-##  ReplaceOptions() {#}
-Создает новый экземпляр ReplaceOptions
+##  \_\_init\_\_(self){#}
+Создает новый экземпляр ReplaceOptions.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ReplaceOptions](/cells/python-net/ru/aspose.cells/replaceoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`ReplaceOptions`](/cells/python-net/ru/aspose.cells/replaceoptions)

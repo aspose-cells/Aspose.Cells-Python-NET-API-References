@@ -1,9 +1,9 @@
 ---
 title: alternative_text недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 300
+weight: 310
 url: /ru/aspose.cells.drawing/groupshape/alternative_text/
 is_root: false
 ---

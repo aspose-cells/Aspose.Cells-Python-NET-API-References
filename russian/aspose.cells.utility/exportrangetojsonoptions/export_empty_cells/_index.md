@@ -1,6 +1,6 @@
 ---
 title: export_empty_cells недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  export_empty_cells недвижимость
 
-Указывает, экспортируются ли пустые ячейки как нулевые.
+Указывает, следует ли экспортировать пустые ячейки как NULL.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def export_empty_cells(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.utility](../../)
-* класс [ExportRangeToJsonOptions](/cells/python-net/ru/aspose.cells.utility/exportrangetojsonoptions)
+* модуль [`aspose.cells.utility`](../../)
+* класс [`ExportRangeToJsonOptions`](/cells/python-net/ru/aspose.cells.utility/exportrangetojsonoptions)

@@ -1,9 +1,9 @@
 ---
 title: PivotFieldType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 290
+weight: 360
 url: /ru/aspose.cells.pivot/pivotfieldtype/
 is_root: false
 ---
@@ -17,11 +17,11 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| UNDEFINED | Представляет базовый тип сводного поля.|
+| UNDEFINED |Представляет базовый тип поля сводки.|
 | ROW | Представляет тип поля сводной строки.|
-| COLUMN | Представляет тип поля сводки столбца.|
-| PAGE | Представляет тип поля сводки страницы.|
-| DATA | Представляет тип поля сводки данных.|
+| COLUMN | Представляет тип поля сводной колонки.|
+| PAGE | Представляет тип поля сводной страницы.|
+| DATA | Представляет тип поля сводных данных.|
 
 
 

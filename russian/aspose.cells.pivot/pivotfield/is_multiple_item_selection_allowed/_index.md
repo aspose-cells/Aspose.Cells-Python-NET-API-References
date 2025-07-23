@@ -1,17 +1,17 @@
 ---
 title: is_multiple_item_selection_allowed недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 440
+weight: 520
 url: /ru/aspose.cells.pivot/pivotfield/is_multiple_item_selection_allowed/
 is_root: false
 ---
 ##  is_multiple_item_selection_allowed недвижимость
 
-указывает, может ли поле содержать несколько элементов
+указывает, может ли поле иметь несколько элементов
 выбрано в поле страницы
-Значение по умолчанию неверно.
+Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property

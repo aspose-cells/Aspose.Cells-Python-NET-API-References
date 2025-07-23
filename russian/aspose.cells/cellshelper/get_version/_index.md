@@ -1,23 +1,25 @@
 ---
 title: get_version метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ru/aspose.cells/cellshelper/get_version/
 is_root: false
 ---
 ##  get_version() {#}
-Получить релизную версию.
+Получите релизную версию.
 
 
-###  Возвращает
+###  Возврат
 
 Релизная версия.
 
 
 ```python
-def get_version(self):
+
+@staticmethod
+def get_version():
     ...
 ```
 
@@ -26,5 +28,5 @@ def get_version(self):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CellsHelper](/cells/python-net/ru/aspose.cells/cellshelper)
+* модуль [`aspose.cells`](../../)
+* класс [`CellsHelper`](/cells/python-net/ru/aspose.cells/cellshelper)

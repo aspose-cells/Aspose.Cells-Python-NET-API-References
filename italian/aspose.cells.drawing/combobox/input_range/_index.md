@@ -1,9 +1,9 @@
 ---
 title: input_range proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 530
+weight: 520
 url: /it/aspose.cells.drawing/combobox/input_range/
 is_root: false
 ---

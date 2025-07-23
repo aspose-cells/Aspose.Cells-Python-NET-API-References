@@ -1,13 +1,13 @@
 ---
 title: Metodo get_text_of_column_labels
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 50
+weight: 60
 url: /it/aspose.cells/settablepivotglobalizationsettings/get_text_of_column_labels/
 is_root: false
 ---
-##  get_text_of_column_labels {#}
+##  get_text_of_column_labels(self) {#}
 Ottiene il testo dell'etichetta "Etichette colonne" nella tabella pivot.
 
 
@@ -17,6 +17,7 @@ Il testo delle etichette delle colonne
 
 
 ```python
+
 def get_text_of_column_labels(self):
     ...
 ```

@@ -1,9 +1,9 @@
 ---
 title: is_automatic_min_value proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 210
+weight: 220
 url: /it/aspose.cells.charts/axis/is_automatic_min_value/
 is_root: false
 ---

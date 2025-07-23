@@ -1,6 +1,6 @@
 ---
 title: print_headings недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 570
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_headings недвижимость
 
-Указывает, печатаются ли заголовки строк и столбцов на этой странице.
+Указывает, печатаются ли на этой странице заголовки строк и столбцов.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def print_headings(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PageSetup](/cells/python-net/ru/aspose.cells/pagesetup)
+* модуль [`aspose.cells`](../../)
+* класс [`PageSetup`](/cells/python-net/ru/aspose.cells/pagesetup)

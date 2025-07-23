@@ -1,18 +1,19 @@
 ---
 title: auto_fit_columns метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
 url: /ru/aspose.cells/worksheet/auto_fit_columns/
 is_root: false
 ---
-##  auto_fit_columns() {#}
-Автоподбор всех столбцов на этом листе.
+##  auto_fit_columns(self) {#}
+Автоматически подбирает размер всех столбцов на этом листе.
 
 
 
 ```python
+
 def auto_fit_columns(self):
     ...
 ```
@@ -20,12 +21,13 @@ def auto_fit_columns(self):
 
 
 
-##  auto_fit_columns(options) {#AutoFitterOptions}
-Автоподбор всех столбцов на этом листе.
+##  auto_fit_columns(self, options) {#aspose.cells.AutoFitterOptions}
+Автоматически подбирает размер всех столбцов на этом листе.
 
 
 
 ```python
+
 def auto_fit_columns(self, options):
     ...
 ```
@@ -33,15 +35,16 @@ def auto_fit_columns(self, options):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| options | [AutoFitterOptions](/cells/python-net/ru/aspose.cells/autofitteroptions) | Параметры автоподгонки|
+| options | [`AutoFitterOptions`](/cells/python-net/ru/aspose.cells/autofitteroptions) | Параметры автоматической подгонки|
 
 
-##  auto_fit_columns(first_column, last_column) {#int-int}
-Автоподбор ширины столбцов.
+##  auto_fit_columns(self, first_column, last_column) {#int-int}
+Автоматически подбирает ширину столбцов.
 
 
 
 ```python
+
 def auto_fit_columns(self, first_column, last_column):
     ...
 ```
@@ -55,13 +58,14 @@ def auto_fit_columns(self, first_column, last_column):
 
 AutoFitColumn — неточная функция.
 
-##  auto_fit_columns(first_column, last_column, options) {#int-int-AutoFitterOptions}
+##  auto_fit_columns(self, first_column, last_column, options) {#int-int-aspose.cells.AutoFitterOptions}
 
-Автоподбор ширины столбцов.
+Автоматически подбирает ширину столбцов.
 
 
 
 ```python
+
 def auto_fit_columns(self, first_column, last_column, options):
     ...
 ```
@@ -71,18 +75,19 @@ def auto_fit_columns(self, first_column, last_column, options):
 | :- | :- | :- |
 | first_column | int | Индекс первого столбца.|
 | last_column | int | Индекс последнего столбца.|
-| options | [AutoFitterOptions](/cells/python-net/ru/aspose.cells/autofitteroptions) | Параметры автоподгонки|
+| options | [`AutoFitterOptions`](/cells/python-net/ru/aspose.cells/autofitteroptions) | Параметры автоматической подгонки|
 ###  Примечания
 
 AutoFitColumn — неточная функция.
 
-##  auto_fit_columns(first_row, first_column, last_row, last_column) {#int-int-int-int}
+##  auto_fit_columns(self, first_row, first_column, last_row, last_column) {#int-int-int-int}
 
-Автоподбор ширины столбцов.
+Автоматически подбирает ширину столбцов.
 
 
 
 ```python
+
 def auto_fit_columns(self, first_row, first_column, last_row, last_column):
     ...
 ```
@@ -98,13 +103,14 @@ def auto_fit_columns(self, first_row, first_column, last_row, last_column):
 
 AutoFitColumn — неточная функция.
 
-##  auto_fit_columns(first_row, first_column, last_row, last_column, options) {#int-int-int-int-AutoFitterOptions}
+##  auto_fit_columns(self, first_row, first_column, last_row, last_column, options) {#int-int-int-int-aspose.cells.AutoFitterOptions}
 
-Автоподбор ширины столбцов.
+Автоматически подбирает ширину столбцов.
 
 
 
 ```python
+
 def auto_fit_columns(self, first_row, first_column, last_row, last_column, options):
     ...
 ```
@@ -116,7 +122,7 @@ def auto_fit_columns(self, first_row, first_column, last_row, last_column, optio
 | first_column | int | Индекс первого столбца.|
 | last_row | int | Индекс последней строки.|
 | last_column | int | Индекс последнего столбца.|
-| options | [AutoFitterOptions](/cells/python-net/ru/aspose.cells/autofitteroptions) | Параметры автоподгонки|
+| options | [`AutoFitterOptions`](/cells/python-net/ru/aspose.cells/autofitteroptions) | Параметры автоматической подгонки|
 ###  Примечания
 
 AutoFitColumn — неточная функция.
@@ -124,5 +130,5 @@ AutoFitColumn — неточная функция.
 
 ###  Смотрите также
 
-* модуль [aspose.cells](../../)
-* класс [Worksheet](/cells/python-net/ru/aspose.cells/worksheet)
+* модуль [`aspose.cells`](../../)
+* класс [`Worksheet`](/cells/python-net/ru/aspose.cells/worksheet)

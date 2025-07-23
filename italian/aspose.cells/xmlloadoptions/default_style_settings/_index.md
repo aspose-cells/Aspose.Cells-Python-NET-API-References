@@ -1,9 +1,9 @@
 ---
 title: default_style_settings proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 90
+weight: 110
 url: /it/aspose.cells/xmlloadoptions/default_style_settings/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def default_style_settings(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [DefaultStyleSettings](/cells/python-net/it/aspose.cells/defaultstylesettings)
-* classe [XmlLoadOptions](/cells/python-net/it/aspose.cells/xmlloadoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`DefaultStyleSettings`](/cells/python-net/it/aspose.cells/defaultstylesettings)
+* classe [`XmlLoadOptions`](/cells/python-net/it/aspose.cells/xmlloadoptions)

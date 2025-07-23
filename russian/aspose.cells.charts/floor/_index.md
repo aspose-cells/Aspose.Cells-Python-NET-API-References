@@ -1,6 +1,6 @@
 ---
 title: Floor класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 170
@@ -8,7 +8,7 @@ url: /ru/aspose.cells.charts/floor/
 is_root: false
 ---
 ##  Floor класс
-Инкапсулирует объект, представляющий нижнюю часть трехмерной диаграммы.
+Инкапсулирует объект, представляющий собой пол трехмерной диаграммы.
 
 
 
@@ -22,12 +22,12 @@ is_root: false
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [background_color](/cells/python-net/ru/aspose.cells.charts/floor/background_color) | Получает или задает цвет фона [`Area`](/cells/python-net/ru/aspose.cells.drawing/area).|
+| [background_color](/cells/python-net/ru/aspose.cells.charts/floor/background_color) | Получает или задает цвет фона для [`Area`](/cells/python-net/ru/aspose.cells.drawing/area).|
 | [foreground_color](/cells/python-net/ru/aspose.cells.charts/floor/foreground_color) | Получает или задает цвет переднего плана.|
 | [formatting](/cells/python-net/ru/aspose.cells.charts/floor/formatting) | Представляет форматирование области.|
-| [invert_if_negative](/cells/python-net/ru/aspose.cells.charts/floor/invert_if_negative) | Если свойство имеет значение true и значение точки диаграммы является отрицательным числом,<br/> цвет переднего плана и цвет фона будут заменены.|
+| [invert_if_negative](/cells/python-net/ru/aspose.cells.charts/floor/invert_if_negative) | Если свойство истинно и значение точки диаграммы — отрицательное число,<br/> цвет переднего плана и цвет фона поменяются местами.|
 | [fill_format](/cells/python-net/ru/aspose.cells.charts/floor/fill_format) | Представляет объект [`Area.fill_format`](/cells/python-net/ru/aspose.cells.drawing/area#fill_format), содержащий свойства форматирования заливки для указанной диаграммы или фигуры.|
-| [transparency](/cells/python-net/ru/aspose.cells.charts/floor/transparency) |Возвращает или задает степень прозрачности области как значение от 0,0 (непрозрачный) до 1,0 (прозрачный).|
+| [transparency](/cells/python-net/ru/aspose.cells.charts/floor/transparency) |Возвращает или задает степень прозрачности области как значение от 0,0 (непрозрачная) до 1,0 (прозрачная).|
 | [border](/cells/python-net/ru/aspose.cells.charts/floor/border) | Получает или задает границу [`Line`](/cells/python-net/ru/aspose.cells.drawing/line).|
 
 

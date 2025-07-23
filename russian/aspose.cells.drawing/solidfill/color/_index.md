@@ -1,6 +1,6 @@
 ---
 title: color недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color недвижимость
 
-Получает или задает Color.
+Получает или задает цвет.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [SolidFill](/cells/python-net/ru/aspose.cells.drawing/solidfill)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`SolidFill`](/cells/python-net/ru/aspose.cells.drawing/solidfill)

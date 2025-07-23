@@ -1,16 +1,13 @@
 ---
 title: ignore_error недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 240
+weight: 290
 url: /ru/aspose.cells/pdfsaveoptions/ignore_error/
 is_root: false
 ---
 ##  ignore_error недвижимость
-
-Указывает, нужно ли скрыть ошибку при рендеринге.
-Ошибка может быть ошибкой в форме, изображении, рендеринге диаграммы и т. д.
 ###  Определение:
 ```python
 @property
@@ -22,5 +19,5 @@ def ignore_error(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PdfSaveOptions](/cells/python-net/ru/aspose.cells/pdfsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`PdfSaveOptions`](/cells/python-net/ru/aspose.cells/pdfsaveoptions)

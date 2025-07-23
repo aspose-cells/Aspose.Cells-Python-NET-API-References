@@ -1,9 +1,9 @@
 ---
 title: start_cell недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 280
+weight: 270
 url: /ru/aspose.cells/jsonloadoptions/start_cell/
 is_root: false
 ---

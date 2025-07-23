@@ -1,22 +1,23 @@
 ---
-title: metodo get_matching_color
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo get_matching_color
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 170
+weight: 180
 url: /it/aspose.cells/workbook/get_matching_color/
 is_root: false
 ---
-##  get_matching_color(raw_color) {#aspose.pydrawing.Color}
-Trova il miglior colore corrispondente nella tavolozza corrente.
+##  get_matching_color(self, raw_color) {#aspose.pydrawing.Color}
+Trova il colore più corrispondente nella tavolozza corrente.
 
 
 ###  ritorna
 
-Miglior colore corrispondente.
+Il colore più corrispondente.
 
 
 ```python
+
 def get_matching_color(self, raw_color):
     ...
 ```
@@ -29,5 +30,5 @@ def get_matching_color(self, raw_color):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Workbook](/cells/python-net/it/aspose.cells/workbook)
+* modulo [`aspose.cells`](../../)
+* classe [`Workbook`](/cells/python-net/it/aspose.cells/workbook)

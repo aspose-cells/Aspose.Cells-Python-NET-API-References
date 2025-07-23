@@ -1,9 +1,9 @@
 ---
 title: ThemeColorType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2670
+weight: 2640
 url: /ru/aspose.cells/themecolortype/
 is_root: false
 ---
@@ -29,7 +29,7 @@ is_root: false
 | ACCENT6 |  |
 | HYPERLINK |  |
 | FOLLOWED_HYPERLINK |  |
-| STYLE_COLOR | Внутренний б/у.<br/> Цвет, используемый в определениях тем, что означает использование цвета стиля.|
+| STYLE_COLOR | Внутренний б/у.<br/> Цвет, используемый в определениях темы, что означает использование цвета стиля.|
 
 
 

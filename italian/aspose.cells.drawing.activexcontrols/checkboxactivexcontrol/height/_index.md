@@ -1,6 +1,6 @@
 ---
 title: height proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 110
@@ -8,8 +8,6 @@ url: /it/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol/height/
 is_root: false
 ---
 ##  height proprietà
-
-Ottiene e imposta height del controllo in unità di punti.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +19,5 @@ def height(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [CheckBoxActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`CheckBoxActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

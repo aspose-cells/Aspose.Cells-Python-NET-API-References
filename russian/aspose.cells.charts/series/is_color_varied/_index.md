@@ -1,6 +1,6 @@
 ---
 title: is_color_varied недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 270
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_color_varied недвижимость
 
- Указывает, различается ли цвет точек.
+ Показывает, является ли цвет точек разным.
 Диаграмма должна содержать только одну серию.
 ###  Определение:
 ```python

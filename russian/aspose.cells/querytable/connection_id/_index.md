@@ -1,6 +1,6 @@
 ---
 title: connection_id недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -18,5 +18,5 @@ def connection_id(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [QueryTable](/cells/python-net/ru/aspose.cells/querytable)
+* модуль [`aspose.cells`](../../)
+* класс [`QueryTable`](/cells/python-net/ru/aspose.cells/querytable)

@@ -1,14 +1,14 @@
 ---
 title: PivotTableSelectionType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 350
+weight: 450
 url: /ru/aspose.cells.pivot/pivottableselectiontype/
 is_root: false
 ---
 ##  PivotTableSelectionType перечисление
-Указывает, что можно выбрать в сводной таблице во время структурированного выбора.
+Указывает, что можно выбрать в сводной таблице при структурированном выборе.
 Эти константы можно комбинировать для выбора нескольких типов.
 
 
@@ -18,9 +18,9 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| DATA_AND_LABEL |Данные и метки|
-| DATA_ONLY | Только выбирает данные|
-| LABEL_ONLY | Выбирает только ярлыки|
+| DATA_AND_LABEL | Данные и метки|
+| DATA_ONLY | Выбирает только данные|
+| LABEL_ONLY | Выбирает только метки|
 
 
 

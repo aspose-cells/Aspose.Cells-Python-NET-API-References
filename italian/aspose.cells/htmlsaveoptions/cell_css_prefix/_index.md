@@ -1,15 +1,15 @@
 ---
 title: cell_css_prefix proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 80
+weight: 90
 url: /it/aspose.cells/htmlsaveoptions/cell_css_prefix/
 is_root: false
 ---
 ##  cell_css_prefix proprietà
 
-Ottiene e imposta il prefisso del nome CSS, il valore predefinito è "".
+Ottiene e imposta il prefisso del nome css, il valore predefinito è "".
 ###  Definizione:
 ```python
 @property

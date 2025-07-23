@@ -1,6 +1,6 @@
 ---
 title: options недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -18,6 +18,6 @@ def options(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.metadata](../../)
-* класс [MetadataOptions](/cells/python-net/ru/aspose.cells.metadata/metadataoptions)
-* класс [WorkbookMetadata](/cells/python-net/ru/aspose.cells.metadata/workbookmetadata)
+* модуль [`aspose.cells.metadata`](../../)
+* класс [`MetadataOptions`](/cells/python-net/ru/aspose.cells.metadata/metadataoptions)
+* класс [`WorkbookMetadata`](/cells/python-net/ru/aspose.cells.metadata/workbookmetadata)

@@ -1,6 +1,6 @@
 ---
 title: LoadNumbersTableType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
@@ -8,11 +8,11 @@ url: /ru/aspose.cells.numbers/loadnumberstabletype/
 is_root: false
 ---
 ##  LoadNumbersTableType перечисление
-Указывает тип загрузки таблиц, когда некоторые таблицы находятся на листе.
+Указывает тип загрузки таблиц, когда несколько таблиц находятся на листе.
 
 
 
-Тип LoadNumbersTableType предоставляет следующие члены:
+Тип LoadNumbersTableType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -24,4 +24,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.numbers](..)
+* модуль [`aspose.cells.numbers`](..)

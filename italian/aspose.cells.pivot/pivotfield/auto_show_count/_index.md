@@ -1,9 +1,9 @@
 ---
 title: auto_show_count proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 180
+weight: 260
 url: /it/aspose.cells.pivot/pivotfield/auto_show_count/
 is_root: false
 ---

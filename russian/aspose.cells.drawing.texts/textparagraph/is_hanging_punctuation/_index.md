@@ -1,6 +1,6 @@
 ---
 title: is_hanging_punctuation недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 120
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_hanging_punctuation недвижимость
 
-Определяет, должны ли знаки препинания принудительно размещаться в строке текста или помещаться в другую строку текста.
+Указывает, следует ли принудительно расставлять знаки препинания в строке текста или помещать в другую строку текста.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_hanging_punctuation(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [TextParagraph](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraph)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`TextParagraph`](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraph)

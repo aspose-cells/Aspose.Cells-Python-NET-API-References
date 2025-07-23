@@ -1,14 +1,14 @@
 ---
 title: add_copy метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
 url: /ru/aspose.cells/worksheetcollection/add_copy/
 is_root: false
 ---
-##  add_copy {#str}
-Добавляет лист в коллекцию и копирует данные из существующего листа.
+##  add_copy(self, sheet_name) {#str}
+Добавляет рабочий лист в коллекцию и копирует данные из существующего рабочего листа.
 
 
 ###  Возврат
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add_copy(self, sheet_name):
     ...
 ```
@@ -24,17 +25,17 @@ def add_copy(self, sheet_name):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| sheet_name | str | Имя исходного листа.|
+| sheet_name | str | Имя исходного рабочего листа.|
 ###  Исключения
 | Исключение| Описание|
 | :- | :- |
-| [`CellsException`](/cells/python-net/ru/aspose.cells/cellsexception) | Указывает недопустимое имя листа.|
+| [`CellsException`](/cells/python-net/ru/aspose.cells/cellsexception) | Указывает недопустимое имя рабочего листа.|
 
 
 
 
-##  add_copy {#int}
-Добавляет лист в коллекцию и копирует данные из существующего листа.
+##  add_copy(self, sheet_index) {#int}
+Добавляет рабочий лист в коллекцию и копирует данные из существующего рабочего листа.
 
 
 ###  Возврат
@@ -43,6 +44,7 @@ def add_copy(self, sheet_name):
 
 
 ```python
+
 def add_copy(self, sheet_index):
     ...
 ```
@@ -50,15 +52,16 @@ def add_copy(self, sheet_index):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| sheet_index | int | Указатель исходного листа.|
+| sheet_index | int | Индекс исходного рабочего листа.|
 
 
-##  add_copy {#list-list}
-Скопируйте группу листов.
+##  add_copy(self, source, dest_sheet_names) {#list-list}
+Скопируйте группу рабочих листов.
 
 
 
 ```python
+
 def add_copy(self, source, dest_sheet_names):
     ...
 ```
@@ -66,8 +69,8 @@ def add_copy(self, source, dest_sheet_names):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| source | list | Исходные листы.|
-| dest_sheet_names | list | Имена копируемых листов.|
+| source | list | Исходные рабочие листы.|
+| dest_sheet_names | list | Названия скопированных листов.|
 
 
 

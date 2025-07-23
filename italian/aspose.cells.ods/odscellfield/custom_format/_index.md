@@ -1,6 +1,6 @@
 ---
 title: custom_format proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -21,5 +21,5 @@ def custom_format(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.ods](../../)
-* classe [OdsCellField](/cells/python-net/it/aspose.cells.ods/odscellfield)
+* modulo [`aspose.cells.ods`](../../)
+* classe [`OdsCellField`](/cells/python-net/it/aspose.cells.ods/odscellfield)

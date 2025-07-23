@@ -1,6 +1,6 @@
 ---
 title: is_automatic proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_automatic proprietà
 
-Indica se i raccoglitori dell'asse sono automatici.
+Indica se i contenitori degli assi sono automatici.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_automatic(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [AxisBins](/cells/python-net/it/aspose.cells.charts/axisbins)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`AxisBins`](/cells/python-net/it/aspose.cells.charts/axisbins)

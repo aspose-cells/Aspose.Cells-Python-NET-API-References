@@ -1,6 +1,6 @@
 ---
 title: value proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 300
@@ -21,6 +21,6 @@ def value(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [CheckValueType](/cells/python-net/it/aspose.cells.drawing/checkvaluetype)
-* classe [RadioButtonActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`CheckValueType`](/cells/python-net/it/aspose.cells.drawing/checkvaluetype)
+* classe [`RadioButtonActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

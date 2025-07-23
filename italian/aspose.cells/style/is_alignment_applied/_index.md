@@ -1,6 +1,6 @@
 ---
 title: is_alignment_applied proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 270
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  is_alignment_applied proprietà
 
-Indicare se deve essere applicata la formattazione dell'allineamento.
+Indica se deve essere applicata la formattazione dell'allineamento.
 
 ###  Osservazioni
 
-Solo per lo stile con nome.
+Solo per lo stile denominato.
 ###  Definizione:
 ```python
 @property

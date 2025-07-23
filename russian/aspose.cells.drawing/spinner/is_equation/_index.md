@@ -1,15 +1,15 @@
 ---
 title: is_equation недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 550
+weight: 560
 url: /ru/aspose.cells.drawing/spinner/is_equation/
 is_root: false
 ---
 ##  is_equation недвижимость
 
-Указывает, содержит ли фигура только уравнение.
+Указывает, содержит ли форма только уравнение.
 
 ###  Пример
 

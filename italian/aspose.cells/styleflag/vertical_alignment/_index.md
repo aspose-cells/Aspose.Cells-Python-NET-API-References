@@ -1,6 +1,6 @@
 ---
 title: vertical_alignment proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 310
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  vertical_alignment proprietà
 
-Verrà applicata l'impostazione dell'allineamento verticale.
+Verrà applicata l'impostazione di allineamento verticale.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def vertical_alignment(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [StyleFlag](/cells/python-net/it/aspose.cells/styleflag)
+* modulo [`aspose.cells`](../../)
+* classe [`StyleFlag`](/cells/python-net/it/aspose.cells/styleflag)

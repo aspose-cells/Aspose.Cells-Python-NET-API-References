@@ -1,14 +1,14 @@
 ---
 title: ConditionalFormattingResult classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 340
+weight: 310
 url: /it/aspose.cells/conditionalformattingresult/
 is_root: false
 ---
 ##  ConditionalFormattingResult classe
-Rappresenta il risultato della formattazione condizionale che si applica a una cella.
+Rappresenta il risultato della formattazione condizionale applicata a una cella.
 
 
 

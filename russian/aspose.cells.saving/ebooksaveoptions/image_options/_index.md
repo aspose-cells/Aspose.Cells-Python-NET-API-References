@@ -1,15 +1,15 @@
 ---
 title: image_options недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 460
+weight: 530
 url: /ru/aspose.cells.saving/ebooksaveoptions/image_options/
 is_root: false
 ---
 ##  image_options недвижимость
 
-Получите объект ImageOrPrintOptions перед экспортом.
+Получите объект ImageOrPrintOptions перед экспортом
 ###  Определение:
 ```python
 @property

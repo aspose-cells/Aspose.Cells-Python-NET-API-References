@@ -1,15 +1,15 @@
 ---
 title: transition_evaluation недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 860
+weight: 880
 url: /ru/aspose.cells/worksheet/transition_evaluation/
 is_root: false
 ---
 ##  transition_evaluation недвижимость
 
-Указывает, включена ли опция «Оценка формулы перехода» (совместимость с Lotus).
+Указывает, включена ли опция оценки формулы перехода (совместимость с Lotus).
 ###  Определение:
 ```python
 @property

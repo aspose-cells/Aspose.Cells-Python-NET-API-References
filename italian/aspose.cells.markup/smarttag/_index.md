@@ -1,18 +1,18 @@
 ---
-title: classe SmartTag
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: SmartTag classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
 url: /it/aspose.cells.markup/smarttag/
 is_root: false
 ---
-##  classe SmartTag
-Rappresenta uno smart tag.
+##  SmartTag classe
+Rappresenta un tag intelligente.
 
 
 
-Il tipo SmartTag espone i membri seguenti:
+Il tipo SmartTag espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
@@ -26,9 +26,9 @@ Il tipo SmartTag espone i membri seguenti:
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [set_link(uri, name)](/cells/python-net/it/aspose.cells.markup/smarttag/set_link/#str-str) | Modificare il nome e l'URI dello spazio dei nomi dello smart tag.|
+| [`set_link(self, uri, name)`](/cells/python-net/it/aspose.cells.markup/smarttag/set_link/#str-str) |Modificare il nome e l'URI dello spazio dei nomi dello smart tag.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.markup](..)
+* modulo [`aspose.cells.markup`](..)

@@ -1,19 +1,19 @@
 ---
 title: page_index недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 230
+weight: 240
 url: /ru/aspose.cells.rendering/imageorprintoptions/page_index/
 is_root: false
 ---
 ##  page_index недвижимость
 
-Получает или задает индекс первой сохраняемой страницы, отсчитываемый от 0.
+Возвращает или задает индекс (начиная с 0) первой страницы для сохранения.
 
 ###  Примечания
 
-По умолчанию — 0.
+Значение по умолчанию — 0.
 ###  Определение:
 ```python
 @property

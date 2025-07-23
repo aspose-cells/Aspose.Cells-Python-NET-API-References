@@ -1,6 +1,6 @@
 ---
 title: regex_key недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  regex_key недвижимость
 
-Указывает, является ли искомый ключ регулярным выражением. Если это правда, то искомый ключ будет восприниматься как регулярное выражение.
+Указывает, является ли искомый ключ регулярным выражением. Если значение равно true, то искомый ключ будет принят за регулярное выражение.
 ###  Определение:
 ```python
 @property

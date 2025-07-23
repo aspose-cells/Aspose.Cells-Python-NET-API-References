@@ -1,6 +1,6 @@
 ---
 title: summary_column_right недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  summary_column_right недвижимость
 
-Указывает, будет ли столбец сводки располагаться справа от столбцов сведений в структуре.
+Указывает, будет ли столбец сводки располагаться справа от столбцов подробностей в структуре.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def summary_column_right(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Outline](/cells/python-net/ru/aspose.cells/outline)
+* модуль [`aspose.cells`](../../)
+* класс [`Outline`](/cells/python-net/ru/aspose.cells/outline)

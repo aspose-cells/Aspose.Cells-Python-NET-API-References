@@ -1,18 +1,19 @@
 ---
 title: get_result_of_smart_art метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 130
+weight: 140
 url: /ru/aspose.cells.drawing/groupbox/get_result_of_smart_art/
 is_root: false
 ---
-##  get_result_of_smart_art {#}
-Преобразование смарт-арта в сгруппированные фигуры.
+##  get_result_of_smart_art(self) {#}
+Преобразование интеллектуального искусства в сгруппированные фигуры.
 
 
 
 ```python
+
 def get_result_of_smart_art(self):
     ...
 ```

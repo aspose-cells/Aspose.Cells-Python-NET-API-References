@@ -1,9 +1,9 @@
 ---
 title: height_inch недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 480
+weight: 470
 url: /ru/aspose.cells.drawing/listbox/height_inch/
 is_root: false
 ---

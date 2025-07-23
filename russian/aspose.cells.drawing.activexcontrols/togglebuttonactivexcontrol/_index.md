@@ -1,9 +1,9 @@
 ---
 title: ToggleButtonActiveXControl класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 130
+weight: 110
 url: /ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/
 is_root: false
 ---
@@ -12,44 +12,42 @@ is_root: false
 
 
 
-**Наследование:** [ToggleButtonActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol) → 
-[ActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol) → 
-[ActiveXControlBase](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/activexcontrolbase)
+**Наследование:** [`ToggleButtonActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
 
 
 
-Тип ToggleButtonActiveXControl предоставляет следующие члены:
+Тип ToggleButtonActiveXControl предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [workbook](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/workbook) | Получает объект [ActiveXControlBase.workbook](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook).|
+| [workbook](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/workbook) |  |
 | [type](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/type) | Получает тип элемента управления ActiveX.|
-| [width](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/width) |Получает и задает ширину элемента управления в пунктах.|
-| [height](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/height) | Получает и задает высоту элемента управления в пунктах.|
-| [mouse_icon](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/mouse_icon) | Получает и задает настраиваемый значок для отображения в качестве указателя мыши для элемента управления.|
-| [mouse_pointer](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/mouse_pointer) | Получает и задает тип значка, отображаемого в качестве указателя мыши для элемента управления.|
-| [fore_ole_color](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/fore_ole_color) | Получает и задает основной цвет переднего плана.|
-| [back_ole_color](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/back_ole_color) | Получает и задает цвет фона.|
-| [is_visible](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_visible) | Указывает, виден ли этот элемент управления.|
-| [shadow](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/shadow) | Указывает, показывать ли тень.|
-| [linked_cell](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/linked_cell) | Получает и задает связанную ячейку.|
-| [list_fill_range](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/list_fill_range) | Получает и задает диапазон заполнения списка.|
-| [data](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/data) | Получает и задает двоичные данные элемента управления.|
-| [is_enabled](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_enabled) | Указывает, может ли элемент управления получать фокус и реагировать на события, созданные пользователем.|
-| [is_locked](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_locked) | Указывает, заблокированы ли данные в элементе управления для редактирования.|
-| [is_transparent](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_transparent) | Указывает, является ли элемент управления прозрачным.|
-| [is_auto_size](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_auto_size) | Указывает, будет ли автоматически изменяться размер элемента управления для отображения всего его содержимого.|
-| [ime_mode](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/ime_mode) |Получает и задает режим времени выполнения по умолчанию редактора метода ввода для элемента управления, когда он получает фокус.|
-| [font](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/font) | Представляет шрифт элемента управления.|
-| [text_align](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/text_align) | Представляет, как выровнять текст, используемый элементом управления.|
-| [caption](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/caption) | Получает и задает описательный текст, отображаемый в элементе управления.|
-| [picture_position](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/picture_position) | Получает и задает расположение изображения элемента управления относительно его заголовка.|
+| [width](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/width) |  |
+| [height](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/height) |  |
+| [mouse_icon](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/mouse_icon) |  |
+| [mouse_pointer](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/mouse_pointer) |  |
+| [fore_ole_color](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/fore_ole_color) |  |
+| [back_ole_color](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/back_ole_color) |  |
+| [is_visible](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_visible) |  |
+| [shadow](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/shadow) |  |
+| [linked_cell](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/linked_cell) |  |
+| [list_fill_range](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/list_fill_range) |  |
+| [data](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/data) |  |
+| [is_enabled](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_enabled) |  |
+| [is_locked](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_locked) |  |
+| [is_transparent](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_transparent) |  |
+| [is_auto_size](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_auto_size) |  |
+| [ime_mode](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/ime_mode) |  |
+| [font](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/font) |  |
+| [text_align](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/text_align) |  |
+| [caption](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/caption) | Получает и задает описательный текст, отображаемый на элементе управления.|
+| [picture_position](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/picture_position) |Получает и задает расположение изображения элемента управления относительно его подписи.|
 | [special_effect](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/special_effect) | Получает и задает специальный эффект элемента управления.|
-| [picture](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/picture) | Получает и устанавливает данные изображения.|
-| [accelerator](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/accelerator) | Получает и задает клавишу быстрого доступа для элемента управления.|
-| [value](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/value) |Указывает, проверен элемент управления или нет.|
-| [is_triple_state](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_triple_state) | Указывает, как указанный элемент управления будет отображать значения Null.|
+| [picture](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/picture) | Получает и задает данные изображения.|
+| [accelerator](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/accelerator) | Получает и задает клавишу-акселератор для элемента управления.|
+| [value](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/value) | Указывает, проверен ли элемент управления или нет.|
+| [is_triple_state](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_triple_state) | Указывает, как указанный элемент управления будет отображать значения NULL.|
 
 
 
@@ -72,7 +70,5 @@ book.save("exmaple.xlsx")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](..)
-* класс [ActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/activexcontrol)
-* класс [ActiveXControlBase](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/activexcontrolbase)
-* класс [ToggleButtonActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](..)
+* класс [`ToggleButtonActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

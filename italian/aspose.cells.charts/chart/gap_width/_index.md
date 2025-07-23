@@ -1,6 +1,6 @@
 ---
 title: gap_width proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 310
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gap_width proprietà
 
-Restituisce o imposta lo spazio tra i gruppi di barre o colonne, come percentuale della larghezza della barra o della colonna.
+Restituisce o imposta lo spazio tra i cluster di barre o colonne, come percentuale della larghezza della barra o della colonna.
 Il valore di questa proprietà deve essere compreso tra 0 e 500.
 ###  Definizione:
 ```python

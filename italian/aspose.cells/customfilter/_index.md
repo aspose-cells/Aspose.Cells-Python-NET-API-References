@@ -1,9 +1,9 @@
 ---
 title: CustomFilter classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 380
+weight: 350
 url: /it/aspose.cells/customfilter/
 is_root: false
 ---
@@ -24,7 +24,7 @@ Il tipo CustomFilter espone i seguenti membri:
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [set_criteria](/cells/python-net/it/aspose.cells/customfilter/set_criteria/#aspose.cells.FilterOperatorType-any) | Imposta i criteri di filtro.|
+| [`set_criteria(self, filter_operator, criteria)`](/cells/python-net/it/aspose.cells/customfilter/set_criteria/#aspose.cells.filteroperatortype-any) | Imposta i criteri di filtro.|
 
 
 

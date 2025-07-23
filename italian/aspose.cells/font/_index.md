@@ -1,14 +1,14 @@
 ---
 title: Font classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 680
+weight: 660
 url: /it/aspose.cells/font/
 is_root: false
 ---
 ##  Font classe
-Incapsula l'oggetto carattere utilizzato in un foglio di calcolo.
+Incapsula l'oggetto font utilizzato in un foglio di calcolo.
 
 
 
@@ -21,26 +21,26 @@ Il tipo Font espone i seguenti membri:
 | [is_italic](/cells/python-net/it/aspose.cells/font/is_italic) | Ottiene o imposta un valore che indica se il carattere è corsivo.|
 | [is_bold](/cells/python-net/it/aspose.cells/font/is_bold) | Ottiene o imposta un valore che indica se il carattere è in grassetto.|
 | [caps_type](/cells/python-net/it/aspose.cells/font/caps_type) | Ottiene e imposta il tipo di maiuscole del testo.|
-| [strike_type](/cells/python-net/it/aspose.cells/font/strike_type) | Ottiene il tipo di avvertimento del testo.|
-| [is_strikeout](/cells/python-net/it/aspose.cells/font/is_strikeout) | Ottiene o imposta un valore che indica se il carattere è barrato singolo.|
-| [script_offset](/cells/python-net/it/aspose.cells/font/script_offset) | Ottiene e imposta l'offset dello script, in unità di percentuale|
-| [is_superscript](/cells/python-net/it/aspose.cells/font/is_superscript) | Ottiene o imposta un valore che indica se il carattere è un superscript.|
-| [is_subscript](/cells/python-net/it/aspose.cells/font/is_subscript) | Ottiene o imposta un valore che indica se il carattere è un pedice.|
+| [strike_type](/cells/python-net/it/aspose.cells/font/strike_type) | Ottiene il tipo di barrato del testo.|
+| [is_strikeout](/cells/python-net/it/aspose.cells/font/is_strikeout) | Ottiene o imposta un valore che indica se il font è barrato singolo.|
+| [script_offset](/cells/python-net/it/aspose.cells/font/script_offset) | Ottiene e imposta l'offset dello script, in unità percentuale|
+| [is_superscript](/cells/python-net/it/aspose.cells/font/is_superscript) | Ottiene o imposta un valore che indica se il font è in apice.|
+| [is_subscript](/cells/python-net/it/aspose.cells/font/is_subscript) | Ottiene o imposta un valore che indica se il font è in pedice.|
 | [underline](/cells/python-net/it/aspose.cells/font/underline) | Ottiene o imposta il tipo di sottolineatura del carattere.|
 | [name](/cells/python-net/it/aspose.cells/font/name) | Ottiene o imposta il nome di [`Font`](/cells/python-net/it/aspose.cells/font).|
-| [double_size](/cells/python-net/it/aspose.cells/font/double_size) | Ottiene e imposta la dimensione doppia del carattere.|
+| [double_size](/cells/python-net/it/aspose.cells/font/double_size) | Ottiene e imposta la dimensione doppia del font.|
 | [size](/cells/python-net/it/aspose.cells/font/size) | Ottiene o imposta la dimensione del carattere.|
 | [theme_color](/cells/python-net/it/aspose.cells/font/theme_color) | Ottiene e imposta il colore del tema.|
-| [color](/cells/python-net/it/aspose.cells/font/color) | Ottiene o imposta il colore del carattere.|
+| [color](/cells/python-net/it/aspose.cells/font/color) | Ottiene o imposta il colore del font.|
 | [argb_color](/cells/python-net/it/aspose.cells/font/argb_color) | Ottiene e imposta il colore con un valore ARGB a 32 bit.|
-| [is_normalize_heights](/cells/python-net/it/aspose.cells/font/is_normalize_heights) | Indica se eseguire la normalizzazione dell'altezza da applicare al testo.|
-| [scheme_type](/cells/python-net/it/aspose.cells/font/scheme_type) |Ottiene e imposta il tipo di schema del carattere.|
+| [is_normalize_heights](/cells/python-net/it/aspose.cells/font/is_normalize_heights) | Indica se la normalizzazione dell'altezza da applicare al testo deve essere eseguita.|
+| [scheme_type](/cells/python-net/it/aspose.cells/font/scheme_type) |Ottiene e imposta il tipo di schema del font.|
 
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [equals](/cells/python-net/it/aspose.cells/font/equals/#aspose.cells.Font) | Controlla se due caratteri sono uguali.|
+| [`equals(self, font)`](/cells/python-net/it/aspose.cells/font/equals/#aspose.cells.font) | Controlla se due font sono uguali.|
 
 
 

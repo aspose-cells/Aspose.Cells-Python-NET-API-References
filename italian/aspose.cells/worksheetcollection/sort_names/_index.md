@@ -1,18 +1,19 @@
 ---
 title: Metodo sort_names
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 210
+weight: 230
 url: /it/aspose.cells/worksheetcollection/sort_names/
 is_root: false
 ---
-##  sort_names {#}
+##  sort_names(self) {#}
 Ordina i nomi definiti.
 
 
 
 ```python
+
 def sort_names(self):
     ...
 ```
@@ -20,7 +21,7 @@ def sort_names(self):
 
 ###  Osservazioni
 
-Se crei una grande quantità di intervalli denominati nel file Excel,
+Se si crea una grande quantità di intervalli denominati nel file Excel,
 si prega di chiamare questo metodo dopo aver creato tutti gli intervalli denominati e prima di salvare
 
 

@@ -1,14 +1,14 @@
 ---
 title: get_text_of_months метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 120
+weight: 130
 url: /ru/aspose.cells/settablepivotglobalizationsettings/get_text_of_months/
 is_root: false
 ---
-##  get_text_of_months {#}
-Получает локальный текст "Месяцы".
+##  get_text_of_months(self) {#}
+Получает локальный текст «Месяцы».
 
 
 ###  Возврат
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_text_of_months(self):
     ...
 ```

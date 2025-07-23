@@ -1,18 +1,19 @@
 ---
 title: Metered costruttore
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 10
 url: /it/aspose.cells/metered/__init__/
 is_root: false
 ---
-##  Metered() {#}
+##  \_\_init\_\_(self){#}
 Inizializza una nuova istanza di questa classe.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Metered](/cells/python-net/it/aspose.cells/metered)
+* modulo [`aspose.cells`](../../)
+* classe [`Metered`](/cells/python-net/it/aspose.cells/metered)

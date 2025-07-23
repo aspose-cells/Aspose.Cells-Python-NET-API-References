@@ -1,15 +1,15 @@
 ---
 title: validations недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 890
+weight: 910
 url: /ru/aspose.cells/worksheet/validations/
 is_root: false
 ---
 ##  validations недвижимость
 
-Получает коллекцию параметров проверки данных на листе.
+Получает коллекцию настроек проверки данных на рабочем листе.
 ###  Определение:
 ```python
 @property

@@ -1,6 +1,6 @@
 ---
 title: drop_zones_visible недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  drop_zones_visible недвижимость
 
-Указывает, могут ли на сводной диаграмме отображаться какие-либо элементы управления сводкой.
+Указывает, могут ли на сводной диаграмме отображаться какие-либо элементы управления.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def drop_zones_visible(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [PivotOptions](/cells/python-net/ru/aspose.cells.charts/pivotoptions)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`PivotOptions`](/cells/python-net/ru/aspose.cells.charts/pivotoptions)

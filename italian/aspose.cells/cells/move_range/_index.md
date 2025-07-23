@@ -1,18 +1,19 @@
 ---
 title: Metodo move_range
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 790
+weight: 810
 url: /it/aspose.cells/cells/move_range/
 is_root: false
 ---
-##  move_range {#aspose.cells.CellArea-int-int}
+##  move_range(self, source_area, dest_row, dest_column) {#aspose.cells.CellArea-int-int}
 Sposta l'intervallo.
 
 
 
 ```python
+
 def move_range(self, source_area, dest_row, dest_column):
     ...
 ```
@@ -22,7 +23,7 @@ def move_range(self, source_area, dest_row, dest_column):
 | :- | :- | :- |
 | source_area | [`CellArea`](/cells/python-net/it/aspose.cells/cellarea) | L'intervallo che dovrebbe essere spostato.|
 | dest_row | int | La riga di destinazione.|
-| dest_column | int | La colonna di destinazione.|
+| dest_column | int | La colonna dest.|
 
 
 

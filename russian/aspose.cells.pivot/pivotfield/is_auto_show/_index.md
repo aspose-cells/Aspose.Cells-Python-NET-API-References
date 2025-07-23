@@ -1,15 +1,15 @@
 ---
 title: is_auto_show недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 380
+weight: 460
 url: /ru/aspose.cells.pivot/pivotfield/is_auto_show/
 is_root: false
 ---
 ##  is_auto_show недвижимость
 
-Указывает, отображается ли указанное поле сводной таблицы автоматически. Действует только для Excel 2003.
+Указывает, отображается ли указанное поле сводной таблицы автоматически. Действительно только для Excel 2003.
 ###  Определение:
 ```python
 @property

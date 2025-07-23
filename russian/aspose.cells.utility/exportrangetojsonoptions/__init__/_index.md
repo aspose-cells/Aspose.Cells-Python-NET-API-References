@@ -1,18 +1,19 @@
 ---
 title: ExportRangeToJsonOptions конструктор
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 10
 url: /ru/aspose.cells.utility/exportrangetojsonoptions/__init__/
 is_root: false
 ---
-##  ExportRangeToJsonOptions() {#}
-Создает новый экземпляр ExportRangeToJsonOptions
+##  \_\_init\_\_(self){#}
+Создает новый экземпляр ExportRangeToJsonOptions.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.utility](../../)
-* класс [ExportRangeToJsonOptions](/cells/python-net/ru/aspose.cells.utility/exportrangetojsonoptions)
+* модуль [`aspose.cells.utility`](../../)
+* класс [`ExportRangeToJsonOptions`](/cells/python-net/ru/aspose.cells.utility/exportrangetojsonoptions)

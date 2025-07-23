@@ -1,15 +1,15 @@
 ---
 title: non_auto_sort_default proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 490
+weight: 580
 url: /it/aspose.cells.pivot/pivotfield/non_auto_sort_default/
 is_root: false
 ---
 ##  non_auto_sort_default proprietà
 
-Indica se un'operazione di ordinamento che verrà applicata a questo campo pivot è un'operazione di ordinamento automatico o un semplice ordinamento di dati.
+Indica se un'operazione di ordinamento che verrà applicata a questo campo pivot è un'operazione di ordinamento automatico o un semplice ordinamento dei dati.
 ###  Definizione:
 ```python
 @property

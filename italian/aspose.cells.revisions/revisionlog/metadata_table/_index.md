@@ -1,6 +1,6 @@
 ---
 title: metadata_table proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  metadata_table proprietà
 
-Ottiene la tabella che contiene i metadati relativi a un elenco di modifiche specifiche che hanno avuto luogo
+Ottiene la tabella che contiene i metadati su un elenco di modifiche specifiche che hanno avuto luogo
 per questa cartella di lavoro.
 ###  Definizione:
 ```python
@@ -19,6 +19,6 @@ def metadata_table(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.revisions](../../)
-* classe [RevisionHeader](/cells/python-net/it/aspose.cells.revisions/revisionheader)
-* classe [RevisionLog](/cells/python-net/it/aspose.cells.revisions/revisionlog)
+* modulo [`aspose.cells.revisions`](../../)
+* classe [`RevisionHeader`](/cells/python-net/it/aspose.cells.revisions/revisionheader)
+* classe [`RevisionLog`](/cells/python-net/it/aspose.cells.revisions/revisionlog)

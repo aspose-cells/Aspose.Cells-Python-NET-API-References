@@ -1,6 +1,6 @@
 ---
 title: drop_lines proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 140
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  drop_lines proprietà
 
-Restituisce un oggetto [`Line`](/cells/python-net/it/aspose.cells.drawing/line) che rappresenta le linee di rilascio per una serie nel grafico a linee o nel grafico ad area.
-Si applica solo ai grafici a linee o ai grafici ad area.
+Restituisce un oggetto [`Line`](/cells/python-net/it/aspose.cells.drawing/line) che rappresenta le linee di caduta per una serie sul grafico a linee o sul grafico ad area.
+Si applica solo ai grafici a linee o ad area.
 ###  Definizione:
 ```python
 @property

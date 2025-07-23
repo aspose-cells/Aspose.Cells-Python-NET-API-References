@@ -1,9 +1,9 @@
 ---
 title: is_protected_with_password proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 340
+weight: 220
 url: /it/aspose.cells/protection/is_protected_with_password/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_protected_with_password(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Protection](/cells/python-net/it/aspose.cells/protection)
+* modulo [`aspose.cells`](../../)
+* classe [`Protection`](/cells/python-net/it/aspose.cells/protection)

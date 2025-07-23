@@ -1,9 +1,9 @@
 ---
 title: text_horizontal_alignment недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1050
+weight: 1060
 url: /ru/aspose.cells.drawing/listbox/text_horizontal_alignment/
 is_root: false
 ---

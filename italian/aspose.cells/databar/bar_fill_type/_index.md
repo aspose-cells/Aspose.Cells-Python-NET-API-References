@@ -1,6 +1,6 @@
 ---
 title: bar_fill_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bar_fill_type proprietà
 
-Ottiene o imposta il modo in cui una barra dei dati viene riempita di colore.
+Ottiene o imposta il modo in cui una barra dati viene riempita con il colore.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def bar_fill_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [DataBar](/cells/python-net/it/aspose.cells/databar)
-* classe [DataBarFillType](/cells/python-net/it/aspose.cells/databarfilltype)
+* modulo [`aspose.cells`](../../)
+* classe [`DataBar`](/cells/python-net/it/aspose.cells/databar)
+* classe [`DataBarFillType`](/cells/python-net/it/aspose.cells/databarfilltype)

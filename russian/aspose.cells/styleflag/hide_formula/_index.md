@@ -1,6 +1,6 @@
 ---
 title: hide_formula недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 190
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  hide_formula недвижимость
 
-Параметр «Скрыть формулу» будет применен.
+Будет применена настройка «Скрыть формулу».
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def hide_formula(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [StyleFlag](/cells/python-net/ru/aspose.cells/styleflag)
+* модуль [`aspose.cells`](../../)
+* класс [`StyleFlag`](/cells/python-net/ru/aspose.cells/styleflag)

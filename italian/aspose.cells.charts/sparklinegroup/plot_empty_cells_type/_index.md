@@ -1,6 +1,6 @@
 ---
 title: plot_empty_cells_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 140
@@ -21,6 +21,6 @@ def plot_empty_cells_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [PlotEmptyCellsType](/cells/python-net/it/aspose.cells.charts/plotemptycellstype)
-* classe [SparklineGroup](/cells/python-net/it/aspose.cells.charts/sparklinegroup)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`PlotEmptyCellsType`](/cells/python-net/it/aspose.cells.charts/plotemptycellstype)
+* classe [`SparklineGroup`](/cells/python-net/it/aspose.cells.charts/sparklinegroup)

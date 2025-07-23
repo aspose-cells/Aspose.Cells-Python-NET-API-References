@@ -1,6 +1,6 @@
 ---
 title: value недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  value недвижимость
 
-Нецелое числовое значение value, целое число value, строковое значение value или логическое значение value
-для использования в качестве параметра запроса. Используется, только если параметрType равен value.
+Нецелое число value, Целое число value, Строка value или Логическое значение value
+Для использования в качестве параметра запроса. Используется только если параметр parameterType равен value.
 ###  Определение:
 ```python
 @property
@@ -22,5 +22,5 @@ def value(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.externalconnections](../../)
-* класс [ConnectionParameter](/cells/python-net/ru/aspose.cells.externalconnections/connectionparameter)
+* модуль [`aspose.cells.externalconnections`](../../)
+* класс [`ConnectionParameter`](/cells/python-net/ru/aspose.cells.externalconnections/connectionparameter)

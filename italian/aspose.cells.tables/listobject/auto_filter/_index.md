@@ -1,9 +1,9 @@
 ---
 title: auto_filter proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 110
+weight: 120
 url: /it/aspose.cells.tables/listobject/auto_filter/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def auto_filter(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.tables](../../)
-* classe [AutoFilter](/cells/python-net/it/aspose.cells/autofilter)
-* classe [ListObject](/cells/python-net/it/aspose.cells.tables/listobject)
+* modulo [`aspose.cells.tables`](../../)
+* classe [`AutoFilter`](/cells/python-net/it/aspose.cells/autofilter)
+* classe [`ListObject`](/cells/python-net/it/aspose.cells.tables/listobject)

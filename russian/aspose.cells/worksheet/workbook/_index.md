@@ -1,9 +1,9 @@
 ---
 title: workbook недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 930
+weight: 950
 url: /ru/aspose.cells/worksheet/workbook/
 is_root: false
 ---

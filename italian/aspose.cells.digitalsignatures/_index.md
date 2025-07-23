@@ -1,6 +1,6 @@
 ---
 title: aspose.cells.digitalsignatures
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 10
@@ -12,13 +12,13 @@ is_root: false
 ###  Classi
 | Classe| Descrizione|
 | :- | :- |
-| [DigitalSignature](/cells/python-net/it/aspose.cells.digitalsignatures/digitalsignature) | Firma in archivio.|
-| [DigitalSignatureCollection](/cells/python-net/it/aspose.cells.digitalsignatures/digitalsignaturecollection) | Fornisce una raccolta di firme digitali allegate a un documento.|
+| [`DigitalSignature`](/cells/python-net/it/aspose.cells.digitalsignatures/digitalsignature) | Firma nel file.|
+| [`DigitalSignatureCollection`](/cells/python-net/it/aspose.cells.digitalsignatures/digitalsignaturecollection) | Fornisce una raccolta di firme digitali allegate a un documento.|
 
 
 ###  Enumerazioni
-|Enumerazione| Descrizione|
+| Enumerazione| Descrizione|
 | :- | :- |
-| [XAdESType](/cells/python-net/it/aspose.cells.digitalsignatures/xadestype) | Tipo di firma elettronica avanzata XML (XAdES).|
+| [`XAdESType`](/cells/python-net/it/aspose.cells.digitalsignatures/xadestype) | Tipo di firma elettronica avanzata XML (XAdES).|
 
 

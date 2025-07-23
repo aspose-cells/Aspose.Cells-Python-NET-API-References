@@ -1,6 +1,6 @@
 ---
 title: top10 proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 200
@@ -10,9 +10,9 @@ is_root: false
 ##  top10 proprietà
 
 Ottieni l'istanza "Top10" della formattazione condizionale.
-La regola dell'istanza predefinita evidenzia le celle cui
+La regola dell'istanza predefinita evidenzia le celle la cui
 i valori rientrano nella fascia dei primi 10.
-Valido solo per il tipo è Top10.
+Valido solo per il tipo Top10.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def top10(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FormatCondition](/cells/python-net/it/aspose.cells/formatcondition)
-* classe [Top10](/cells/python-net/it/aspose.cells/top10)
+* modulo [`aspose.cells`](../../)
+* classe [`FormatCondition`](/cells/python-net/it/aspose.cells/formatcondition)
+* classe [`Top10`](/cells/python-net/it/aspose.cells/top10)

@@ -1,6 +1,6 @@
 ---
 title: source недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 100
@@ -18,5 +18,5 @@ def source(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.properties](../../)
-* класс [DocumentProperty](/cells/python-net/ru/aspose.cells.properties/documentproperty)
+* модуль [`aspose.cells.properties`](../../)
+* класс [`DocumentProperty`](/cells/python-net/ru/aspose.cells.properties/documentproperty)

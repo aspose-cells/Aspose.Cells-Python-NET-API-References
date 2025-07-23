@@ -1,18 +1,18 @@
 ---
-title: MapChartProjectionType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione MapChartProjectionType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 560
 url: /it/aspose.cells.charts/mapchartprojectiontype/
 is_root: false
 ---
-##  MapChartProjectionType enumerazione
-Rappresenta il tipo di proiezione del grafico a mappa.
+##  Enumerazione MapChartProjectionType
+Rappresenta il tipo di proiezione del grafico della mappa.
 
 
 
-Il tipo MapChartProjectionType espone i membri seguenti:
+Il tipo MapChartProjectionType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -25,4 +25,4 @@ Il tipo MapChartProjectionType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](..)
+* modulo [`aspose.cells.charts`](..)

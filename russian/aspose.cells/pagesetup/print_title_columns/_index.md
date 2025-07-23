@@ -1,6 +1,6 @@
 ---
 title: print_title_columns недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 590
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_title_columns недвижимость
 
-Представляет столбцы, содержащие повторяющиеся ячейки в левой части каждой страницы.
+Представляет столбцы, содержащие ячейки, которые будут повторяться на левой стороне каждой страницы.
 
 ###  Пример
 
@@ -30,5 +30,5 @@ def print_title_columns(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PageSetup](/cells/python-net/ru/aspose.cells/pagesetup)
+* модуль [`aspose.cells`](../../)
+* класс [`PageSetup`](/cells/python-net/ru/aspose.cells/pagesetup)

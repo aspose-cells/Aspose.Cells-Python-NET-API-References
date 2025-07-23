@@ -1,6 +1,6 @@
 ---
 title: horizontal_alignment proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 200
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  horizontal_alignment proprietà
 
-Verrà applicata l'impostazione dell'allineamento orizzontale.
+Verrà applicata l'impostazione di allineamento orizzontale.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def horizontal_alignment(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [StyleFlag](/cells/python-net/it/aspose.cells/styleflag)
+* modulo [`aspose.cells`](../../)
+* classe [`StyleFlag`](/cells/python-net/it/aspose.cells/styleflag)

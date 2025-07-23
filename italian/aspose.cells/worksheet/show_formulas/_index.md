@@ -1,15 +1,15 @@
 ---
 title: show_formulas proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 760
+weight: 790
 url: /it/aspose.cells/worksheet/show_formulas/
 is_root: false
 ---
 ##  show_formulas proprietà
 
-Indica se mostrare le formule o i relativi risultati.
+Indica se visualizzare le formule o i relativi risultati.
 ###  Definizione:
 ```python
 @property

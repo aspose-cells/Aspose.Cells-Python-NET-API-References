@@ -1,6 +1,6 @@
 ---
 title: ignore_null недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  ignore_null недвижимость
 
-Указывает, игнорируется ли нулевое значение.
+Указывает, следует ли игнорировать нулевое значение.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def ignore_null(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.utility](../../)
-* класс [JsonLayoutOptions](/cells/python-net/ru/aspose.cells.utility/jsonlayoutoptions)
+* модуль [`aspose.cells.utility`](../../)
+* класс [`JsonLayoutOptions`](/cells/python-net/ru/aspose.cells.utility/jsonlayoutoptions)

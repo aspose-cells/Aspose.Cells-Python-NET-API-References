@@ -1,6 +1,6 @@
 ---
 title: end_arrowhead_width недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 400
@@ -13,10 +13,10 @@ is_root: false
 
 ###  Примечания
 
- ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
+ ПРИМЕЧАНИЕ: Этот элемент устарел. Вместо этого,
  используйте свойство Shape.Line.EndArrowheadWidth.
- Этот объект недвижимости будет удален через 12 месяцев, начиная с августа 2016 года.
-Aspose приносит извинения за возможные неудобства.
+ Эта недвижимость будет снесена через 12 месяцев с августа 2016 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 ###  Определение:
 ```python
 @property

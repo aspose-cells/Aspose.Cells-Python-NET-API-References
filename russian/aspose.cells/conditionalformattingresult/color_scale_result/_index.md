@@ -1,6 +1,6 @@
 ---
 title: color_scale_result недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -18,5 +18,5 @@ def color_scale_result(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ConditionalFormattingResult](/cells/python-net/ru/aspose.cells/conditionalformattingresult)
+* модуль [`aspose.cells`](../../)
+* класс [`ConditionalFormattingResult`](/cells/python-net/ru/aspose.cells/conditionalformattingresult)

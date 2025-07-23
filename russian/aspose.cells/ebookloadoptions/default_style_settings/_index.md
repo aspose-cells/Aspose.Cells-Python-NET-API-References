@@ -1,6 +1,6 @@
 ---
 title: default_style_settings недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 130
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  default_style_settings недвижимость
 
-Получает настройки стиля по умолчанию для инициализации стилей книги.
+Получает настройки стиля по умолчанию для инициализации стилей рабочей книги.
 ###  Определение:
 ```python
 @property

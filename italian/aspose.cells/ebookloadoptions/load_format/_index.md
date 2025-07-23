@@ -1,9 +1,9 @@
 ---
 title: load_format proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 260
+weight: 240
 url: /it/aspose.cells/ebookloadoptions/load_format/
 is_root: false
 ---

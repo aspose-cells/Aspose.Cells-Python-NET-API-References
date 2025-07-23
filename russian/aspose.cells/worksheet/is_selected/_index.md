@@ -1,15 +1,15 @@
 ---
 title: is_selected недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 620
+weight: 650
 url: /ru/aspose.cells/worksheet/is_selected/
 is_root: false
 ---
 ##  is_selected недвижимость
 
-Указывает, выбран ли этот лист при открытии книги.
+Указывает, выбран ли этот рабочий лист при открытии рабочей книги.
 ###  Определение:
 ```python
 @property

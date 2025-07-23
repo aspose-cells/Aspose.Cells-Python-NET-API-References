@@ -1,9 +1,9 @@
 ---
 title: PivotDateTimeRangeGroupSettings класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 50
+weight: 80
 url: /ru/aspose.cells.pivot/pivotdatetimerangegroupsettings/
 is_root: false
 ---
@@ -22,17 +22,17 @@ is_root: false
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [type](/cells/python-net/ru/aspose.cells.pivot/pivotdatetimerangegroupsettings/type) | Получает тип временной группы данных.|
-| [start](/cells/python-net/ru/aspose.cells.pivot/pivotdatetimerangegroupsettings/start) | Получает дату начала группы.|
-| [end](/cells/python-net/ru/aspose.cells.pivot/pivotdatetimerangegroupsettings/end) | Получает время окончания группы.|
-| [interval](/cells/python-net/ru/aspose.cells.pivot/pivotdatetimerangegroupsettings/interval) | Получает внутреннюю информацию о группе.|
+| [type](/cells/python-net/ru/aspose.cells.pivot/pivotdatetimerangegroupsettings/type) | Получает тип группы времени данных.|
+| [start](/cells/python-net/ru/aspose.cells.pivot/pivotdatetimerangegroupsettings/start) | Получает дату и время начала группы.|
+| [end](/cells/python-net/ru/aspose.cells.pivot/pivotdatetimerangegroupsettings/end) | Получает дату и время окончания группы.|
+| [interval](/cells/python-net/ru/aspose.cells.pivot/pivotdatetimerangegroupsettings/interval) | Получает внутреннюю часть группы.|
 | [group_by_types](/cells/python-net/ru/aspose.cells.pivot/pivotdatetimerangegroupsettings/group_by_types) | Получает типы группировки по дате и времени.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [is_grouped_by](/cells/python-net/ru/aspose.cells.pivot/pivotdatetimerangegroupsettings/is_grouped_by/#aspose.cells.pivot.PivotGroupByType) | Проверьте, сгруппировано ли поле по типу.|
+| [`is_grouped_by(self, type)`](/cells/python-net/ru/aspose.cells.pivot/pivotdatetimerangegroupsettings/is_grouped_by/#aspose.cells.pivot.pivotgroupbytype) | Проверьте, сгруппировано ли поле по типу.|
 
 
 

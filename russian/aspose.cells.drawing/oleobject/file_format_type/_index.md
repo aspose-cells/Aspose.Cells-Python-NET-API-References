@@ -1,6 +1,6 @@
 ---
 title: file_format_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 410
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  file_format_type недвижимость
 
-Получает и задает тип файла данных встроенного ole-объекта.
+Получает и задает тип файла данных встроенного OLE-объекта
 ###  Определение:
 ```python
 @property

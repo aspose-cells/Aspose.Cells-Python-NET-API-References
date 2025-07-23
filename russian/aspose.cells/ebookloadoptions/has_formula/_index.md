@@ -1,6 +1,6 @@
 ---
 title: has_formula недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 170
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_formula недвижимость
 
-Указывает, является ли текст формулой, если он начинается с "=".
+Указывает, является ли текст формулой, если он начинается с «=».
 ###  Определение:
 ```python
 @property

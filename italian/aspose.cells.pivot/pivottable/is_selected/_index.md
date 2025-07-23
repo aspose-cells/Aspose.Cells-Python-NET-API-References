@@ -1,15 +1,15 @@
 ---
 title: is_selected proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 620
+weight: 720
 url: /it/aspose.cells.pivot/pivottable/is_selected/
 is_root: false
 ---
 ##  is_selected proprietà
 
-Indica se la tabella pivot è selezionata.
+Indica se questa tabella pivot è selezionata.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_selected(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [PivotTable](/cells/python-net/it/aspose.cells.pivot/pivottable)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`PivotTable`](/cells/python-net/it/aspose.cells.pivot/pivottable)

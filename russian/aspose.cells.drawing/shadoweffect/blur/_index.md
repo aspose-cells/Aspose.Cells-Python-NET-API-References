@@ -1,6 +1,6 @@
 ---
 title: blur недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  blur недвижимость
 
-Получает и задает blur тени. Диапазон от 0 до 100 баллов.
+Получает и задаёт значение тени blur. Диапазон значений от 0 до 100.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def blur(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ShadowEffect](/cells/python-net/ru/aspose.cells.drawing/shadoweffect)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ShadowEffect`](/cells/python-net/ru/aspose.cells.drawing/shadoweffect)

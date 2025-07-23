@@ -1,22 +1,23 @@
 ---
 title: get_connection_points метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 80
+weight: 100
 url: /ru/aspose.cells.drawing/listbox/get_connection_points/
 is_root: false
 ---
-##  get_connection_points() {#}
-Получите точки подключения
+##  get_connection_points(self) {#}
+Получить точки подключения
 
 
-###  Возвращает
+###  Возврат
 
-[X,Y] пары точки соединения. Каждый элемент представляет собой массив с плавающей запятой[2], [0] представляет x, а [1] представляет y.
+Пары [X,Y] точки соединения. Каждый элемент — массив float[2], где [0] представляет x, а [1] — y.
 
 
 ```python
+
 def get_connection_points(self):
     ...
 ```
@@ -34,5 +35,5 @@ points = shape.get_connection_points()
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ListBox](/cells/python-net/ru/aspose.cells.drawing/listbox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ListBox`](/cells/python-net/ru/aspose.cells.drawing/listbox)

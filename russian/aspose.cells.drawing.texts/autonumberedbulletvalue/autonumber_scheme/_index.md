@@ -1,6 +1,6 @@
 ---
 title: autonumber_scheme недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -21,6 +21,6 @@ def autonumber_scheme(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [AutoNumberedBulletValue](/cells/python-net/ru/aspose.cells.drawing.texts/autonumberedbulletvalue)
-* класс [TextAutonumberScheme](/cells/python-net/ru/aspose.cells.drawing.texts/textautonumberscheme)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`AutoNumberedBulletValue`](/cells/python-net/ru/aspose.cells.drawing.texts/autonumberedbulletvalue)
+* класс [`TextAutonumberScheme`](/cells/python-net/ru/aspose.cells.drawing.texts/textautonumberscheme)

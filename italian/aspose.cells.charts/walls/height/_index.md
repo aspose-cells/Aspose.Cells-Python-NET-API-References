@@ -1,6 +1,6 @@
 ---
 title: height proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 170
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height proprietà
 
-Ottiene height dall'alto verso il basso in unità di 1/4000 di height del grafico dopo aver chiamato il metodo Chart.Calculate().
+Ottiene il valore height dall'alto verso il basso in unità di 1/4000 del valore height del grafico dopo aver chiamato il metodo Chart.Calculate().
 ###  Definizione:
 ```python
 @property
@@ -18,5 +18,5 @@ def height(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Walls](/cells/python-net/it/aspose.cells.charts/walls)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Walls`](/cells/python-net/it/aspose.cells.charts/walls)

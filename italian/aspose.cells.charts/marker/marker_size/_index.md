@@ -1,6 +1,6 @@
 ---
 title: marker_size proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  marker_size proprietà
 
-Rappresenta la dimensione del marcatore in unità di punti. Si applica al grafico a linee, al grafico a dispersione o al grafico a radar.
+Rappresenta la dimensione del marcatore in unità di punti. Si applica a grafici a linee, a dispersione o a radar.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def marker_size(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Marker](/cells/python-net/it/aspose.cells.charts/marker)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Marker`](/cells/python-net/it/aspose.cells.charts/marker)

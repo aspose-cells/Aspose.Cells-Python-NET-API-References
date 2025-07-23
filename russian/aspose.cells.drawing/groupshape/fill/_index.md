@@ -1,6 +1,6 @@
 ---
 title: fill недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 370
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fill недвижимость
 
-Возвращает объект [`Shape.fill_format`](/cells/python-net/ru/aspose.cells.drawing/shape#fill_format), содержащий свойства форматирования fill для указанной фигуры.
+Возвращает объект [`Shape.fill_format`](/cells/python-net/ru/aspose.cells.drawing/shape#fill_format), содержащий fill свойств форматирования для указанной фигуры.
 
 ###  Пример
 

@@ -1,9 +1,9 @@
 ---
 title: map_label_layout недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 50
+weight: 60
 url: /ru/aspose.cells.charts/serieslayoutproperties/map_label_layout/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def map_label_layout(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [MapChartLabelLayout](/cells/python-net/ru/aspose.cells.charts/mapchartlabellayout)
-* класс [SeriesLayoutProperties](/cells/python-net/ru/aspose.cells.charts/serieslayoutproperties)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`MapChartLabelLayout`](/cells/python-net/ru/aspose.cells.charts/mapchartlabellayout)
+* класс [`SeriesLayoutProperties`](/cells/python-net/ru/aspose.cells.charts/serieslayoutproperties)

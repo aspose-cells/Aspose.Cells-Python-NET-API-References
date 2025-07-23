@@ -1,6 +1,6 @@
 ---
 title: OLEDBCommandType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 120
@@ -12,19 +12,20 @@ is_root: false
 
 
 
-Тип OLEDBCommandType предоставляет следующие члены:
+Тип OLEDBCommandType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
 | NONE | Тип команды не указан.|
-| CUBE_NAME | Указывает имя куба|
-| SQL_STATEMENT | Задает оператор SQL|
-| TABLE_NAME | Задает имя таблицы|
-| DEFAULT_INFORMATION | Указывает, что была предоставлена информация по умолчанию, а интерпретация зависит от поставщика.|
-| WEB_BASED_LIST |Указывает запрос, который относится к веб-поставщику данных списка.|
+| CUBE_NAME | Задает имя куба|
+| SQL_STATEMENT | Определяет оператор SQL|
+| TABLE_NAME | Указывает имя таблицы|
+| DEFAULT_INFORMATION | Указывает, что предоставлена информация по умолчанию, и поставщик вправе самостоятельно ее интерпретировать.|
+| WEB_BASED_LIST | Указывает запрос к поставщику данных списков, работающему в Интернете.|
+| TABLE_COLLECTION | Задает список таблиц.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.externalconnections](..)
+* модуль [`aspose.cells.externalconnections`](..)

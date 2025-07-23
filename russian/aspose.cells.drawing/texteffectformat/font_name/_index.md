@@ -1,6 +1,6 @@
 ---
 title: font_name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_name недвижимость
 
-Имя шрифта, используемого в WordArt.
+Название шрифта, используемого в WordArt.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_name(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [TextEffectFormat](/cells/python-net/ru/aspose.cells.drawing/texteffectformat)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`TextEffectFormat`](/cells/python-net/ru/aspose.cells.drawing/texteffectformat)

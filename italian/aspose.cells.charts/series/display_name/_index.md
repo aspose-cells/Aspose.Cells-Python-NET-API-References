@@ -1,6 +1,6 @@
 ---
 title: display_name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 110
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_name proprietà
 
-Ottiene il nome della serie visualizzato nel grafico del grafico.
+Ottiene il nome della serie visualizzato nel grafico.
 ###  Definizione:
 ```python
 @property

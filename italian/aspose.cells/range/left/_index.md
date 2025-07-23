@@ -1,9 +1,9 @@
 ---
 title: left proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 360
+weight: 460
 url: /it/aspose.cells/range/left/
 is_root: false
 ---

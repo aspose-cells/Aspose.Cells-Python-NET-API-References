@@ -1,9 +1,9 @@
 ---
 title: lower_right_column proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 770
+weight: 780
 url: /it/aspose.cells.drawing/dialogbox/lower_right_column/
 is_root: false
 ---

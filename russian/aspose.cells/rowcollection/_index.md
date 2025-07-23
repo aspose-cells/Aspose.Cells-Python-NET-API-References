@@ -1,14 +1,14 @@
 ---
 title: RowCollection класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1350
+weight: 1240
 url: /ru/aspose.cells/rowcollection/
 is_root: false
 ---
 ##  RowCollection класс
-Собирает объекты [`Row`](/cells/python-net/ru/aspose.cells/row), представляющие отдельные строки на листе.
+Собирает объекты [`Row`](/cells/python-net/ru/aspose.cells/row), представляющие отдельные строки на рабочем листе.
 
 
 
@@ -21,7 +21,7 @@ is_root: false
 
 
 
-Получает объект [`Row`](/cells/python-net/ru/aspose.cells/row) по заданному индексу строки. Будет создан экземпляр объекта Row с заданным индексом строки, если он не существовал ранее.
+Получает объект [`Row`](/cells/python-net/ru/aspose.cells/row) по указанному индексу строки. Объект Row с указанным индексом строки будет создан, если он ранее не существовал.
 ###  Индексатор
 | Имя| Описание|
 | :- | :- |
@@ -31,10 +31,10 @@ is_root: false
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [get_enumerator](/cells/python-net/ru/aspose.cells/rowcollection/get_enumerator/#bool-bool) | Получает перечислитель, который перебирает строки в этой коллекции.|
-| [get_row_by_index](/cells/python-net/ru/aspose.cells/rowcollection/get_row_by_index/#int) | Получает объект строки по позиции в списке.|
-| [clear](/cells/python-net/ru/aspose.cells/rowcollection/clear/#) | Очистите все строки и ячейки.|
-| [remove_at](/cells/python-net/ru/aspose.cells/rowcollection/remove_at/#int) | Удалите элемент строки по указанному индексу (позиции) в этой коллекции.|
+| [`get_enumerator(self, reversed, sync)`](/cells/python-net/ru/aspose.cells/rowcollection/get_enumerator/#bool-bool) | Получает перечислитель, который перебирает строки в этой коллекции.|
+| [`get_row_by_index(self, index)`](/cells/python-net/ru/aspose.cells/rowcollection/get_row_by_index/#int) | Получает объект строки по позиции в списке.|
+| [`clear(self)`](/cells/python-net/ru/aspose.cells/rowcollection/clear/#) | Очистить все строки и ячейки.|
+| [`remove_at(self, index)`](/cells/python-net/ru/aspose.cells/rowcollection/remove_at/#int) | Удалить элемент строки по указанному индексу (позиции) в этой коллекции.|
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: position proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -21,5 +21,5 @@ def position(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [GradientStop](/cells/python-net/it/aspose.cells.drawing/gradientstop)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`GradientStop`](/cells/python-net/it/aspose.cells.drawing/gradientstop)

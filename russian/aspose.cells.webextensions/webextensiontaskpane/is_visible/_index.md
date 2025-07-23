@@ -1,6 +1,6 @@
 ---
 title: is_visible недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_visible недвижимость
 
-Указывает, отображается ли панель задач как видимая по умолчанию при открытии документа.
+Указывает, отображается ли панель задач по умолчанию при открытии документа.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.webextensions](../../)
-* класс [WebExtensionTaskPane](/cells/python-net/ru/aspose.cells.webextensions/webextensiontaskpane)
+* модуль [`aspose.cells.webextensions`](../../)
+* класс [`WebExtensionTaskPane`](/cells/python-net/ru/aspose.cells.webextensions/webextensiontaskpane)

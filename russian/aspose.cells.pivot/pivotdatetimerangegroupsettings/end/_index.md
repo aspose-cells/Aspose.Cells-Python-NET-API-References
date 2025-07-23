@@ -1,6 +1,6 @@
 ---
 title: end недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end недвижимость
 
-Получает дату и время группы end.
+Получает дату и время end группы.
 ###  Определение:
 ```python
 @property

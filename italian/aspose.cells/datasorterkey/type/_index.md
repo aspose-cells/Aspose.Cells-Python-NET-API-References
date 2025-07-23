@@ -1,6 +1,6 @@
 ---
 title: type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type proprietà
 
-Rappresenta lo type di smistamento.
+Rappresenta il type dell'ordinamento.
 ###  Definizione:
 ```python
 @property
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [DataSorterKey](/cells/python-net/it/aspose.cells/datasorterkey)
-* classe [SortOnType](/cells/python-net/it/aspose.cells/sortontype)
+* modulo [`aspose.cells`](../../)
+* classe [`DataSorterKey`](/cells/python-net/it/aspose.cells/datasorterkey)
+* classe [`SortOnType`](/cells/python-net/it/aspose.cells/sortontype)

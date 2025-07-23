@@ -1,19 +1,19 @@
 ---
 title: transparent недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 380
+weight: 390
 url: /ru/aspose.cells.rendering/imageorprintoptions/transparent/
 is_root: false
 ---
 ##  transparent недвижимость
 
-Указывает, должен ли фон сгенерированного изображения иметь номер transparent.
+Указывает, должен ли фон создаваемого изображения быть transparent.
 
 ###  Примечания
 
-Значение по умолчанию неверно. Это означает, что фон сгенерированных изображений белый.
+Значение по умолчанию — false. Это означает, что фон генерируемых изображений белый.
 ###  Определение:
 ```python
 @property

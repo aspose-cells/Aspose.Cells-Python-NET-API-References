@@ -1,15 +1,15 @@
 ---
 title: ribbon_xml недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 640
+weight: 670
 url: /ru/aspose.cells/workbook/ribbon_xml/
 is_root: false
 ---
 ##  ribbon_xml недвижимость
 
-Получает и задает XML-файл, определяющий пользовательский интерфейс ленты.
+Получает и задает XML-файл, определяющий пользовательский интерфейс Ribbon.
 ###  Определение:
 ```python
 @property

@@ -1,18 +1,19 @@
 ---
 title: Metodo remove_areas
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 110
 url: /it/aspose.cells/validation/remove_areas/
 is_root: false
 ---
-##  remove_areas {#list}
-Rimuove questa convalida da determinate aree.
+##  remove_areas(self, areas) {#list}
+Rimuove questa convalida dalle aree specificate.
 
 
 
 ```python
+
 def remove_areas(self, areas):
     ...
 ```

@@ -1,16 +1,16 @@
 ---
 title: show_legend_key недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 410
+weight: 480
 url: /ru/aspose.cells.charts/datalabels/show_legend_key/
 is_root: false
 ---
 ##  show_legend_key недвижимость
 
 Представляет поведение отображения клавиши легенды метки данных указанной диаграммы.
-Истинно, если ключ легенды метки данных виден.
+True, если ключ легенды метки данных виден.
 ###  Определение:
 ```python
 @property

@@ -1,6 +1,6 @@
 ---
-title: metodo get_consumption_credit
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo get_consumption_credit
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
@@ -17,7 +17,9 @@ quantità di consumo
 
 
 ```python
-def get_consumption_credit(self):
+
+@staticmethod
+def get_consumption_credit():
     ...
 ```
 
@@ -26,5 +28,5 @@ def get_consumption_credit(self):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Metered](/cells/python-net/it/aspose.cells/metered)
+* modulo [`aspose.cells`](../../)
+* classe [`Metered`](/cells/python-net/it/aspose.cells/metered)

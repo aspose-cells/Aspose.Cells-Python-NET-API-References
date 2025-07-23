@@ -1,16 +1,16 @@
 ---
 title: attached_files_directory недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 40
+weight: 50
 url: /ru/aspose.cells/htmlsaveoptions/attached_files_directory/
 is_root: false
 ---
 ##  attached_files_directory недвижимость
 
-Каталог, в который будут сохранены вложенные файлы.
-Только для сохранения в html поток.
+Каталог, в котором будут сохранены прикрепленные файлы.
+Только для сохранения в html-поток.
 ###  Определение:
 ```python
 @property
@@ -22,5 +22,5 @@ def attached_files_directory(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [HtmlSaveOptions](/cells/python-net/ru/aspose.cells/htmlsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`HtmlSaveOptions`](/cells/python-net/ru/aspose.cells/htmlsaveoptions)

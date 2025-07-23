@@ -1,15 +1,15 @@
 ---
 title: row недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 690
+weight: 720
 url: /ru/aspose.cells/cell/row/
 is_root: false
 ---
 ##  row недвижимость
 
-Получает номер ячейки row (отсчитываемый от нуля).
+Получает номер ячейки row (начиная с нуля).
 ###  Определение:
 ```python
 @property

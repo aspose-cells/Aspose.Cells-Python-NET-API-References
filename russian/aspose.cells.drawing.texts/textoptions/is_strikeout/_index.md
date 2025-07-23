@@ -1,6 +1,6 @@
 ---
 title: is_strikeout недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 140
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_strikeout недвижимость
 
-Получает или задает значение, указывающее, является ли шрифт одинарным перечеркнутым.
+Возвращает или задает значение, указывающее, является ли шрифт одинарным зачеркиванием.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_strikeout(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [TextOptions](/cells/python-net/ru/aspose.cells.drawing.texts/textoptions)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`TextOptions`](/cells/python-net/ru/aspose.cells.drawing.texts/textoptions)

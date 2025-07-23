@@ -1,9 +1,9 @@
 ---
 title: FolderFontSource класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 670
+weight: 650
 url: /ru/aspose.cells/folderfontsource/
 is_root: false
 ---
@@ -12,8 +12,7 @@ is_root: false
 
 
 
-**Наследование:** [`FolderFontSource`](/cells/python-net/aspose.cells/folderfontsource) → 
-[`FontSourceBase`](/cells/python-net/ru/aspose.cells/fontsourcebase)
+**Наследование:** [`FolderFontSource`](/cells/python-net/ru/aspose.cells/folderfontsource)
 
 
 
@@ -22,13 +21,13 @@ is_root: false
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [__init__](/cells/python-net/ru/aspose.cells/folderfontsource/__init__/#str-bool) | Ктор.|
+| [`__init__(self, folder_path, scan_subfolders)`](/cells/python-net/ru/aspose.cells/folderfontsource/__init__/#str-bool) | Ctor.|
 
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [type](/cells/python-net/ru/aspose.cells/folderfontsource/type) | Возвращает тип источника шрифта.|
+| [type](/cells/python-net/ru/aspose.cells/folderfontsource/type) |Возвращает тип источника шрифта.|
 | [folder_path](/cells/python-net/ru/aspose.cells/folderfontsource/folder_path) | Путь к папке со шрифтами.|
 | [scan_sub_folders](/cells/python-net/ru/aspose.cells/folderfontsource/scan_sub_folders) | Определяет, следует ли сканировать подпапки.|
 
@@ -37,4 +36,3 @@ is_root: false
 ###  Смотрите также
 * модуль [`aspose.cells`](..)
 * класс [`FolderFontSource`](/cells/python-net/ru/aspose.cells/folderfontsource)
-* класс [`FontSourceBase`](/cells/python-net/ru/aspose.cells/fontsourcebase)

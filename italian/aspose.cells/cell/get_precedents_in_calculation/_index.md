@@ -1,14 +1,14 @@
 ---
-title: metodo get_precedents_in_calculation
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo get_precedents_in_calculation
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 190
 url: /it/aspose.cells/cell/get_precedents_in_calculation/
 is_root: false
 ---
-##  get_precedents_in_calculation() {#}
-Ottiene tutti i precedenti (riferimento alle celle nella cartella di lavoro corrente) utilizzati dalla formula di questa cella durante il calcolo.
+##  get_precedents_in_calculation(self) {#}
+Ottiene tutti i precedenti (riferimenti alle celle nella cartella di lavoro corrente) utilizzati dalla formula di questa cella durante il calcolo.
 
 
 ###  ritorna
@@ -17,6 +17,7 @@ Enumeratore per enumerare tutti i riferimenti (ReferredArea)
 
 
 ```python
+
 def get_precedents_in_calculation(self):
     ...
 ```
@@ -24,8 +25,8 @@ def get_precedents_in_calculation(self):
 
 ###  Osservazioni
 
-Questo metodo può funzionare solo con la situazione che [FormulaSettings.enable_calculation_chain](/cells/python-net/it/aspose.cells/formulasettings#enable_calculation_chain)
-è vero per la cartella di lavoro e la cartella di lavoro è stata calcolata completamente.
+Questo metodo può funzionare solo con la situazione [`FormulaSettings.enable_calculation_chain`](/cells/python-net/it/aspose.cells/formulasettings#enable_calculation_chain)
+è vero per la cartella di lavoro e la cartella di lavoro è stata completamente calcolata.
 Se questa cella non è una formula o non fa riferimento ad altre celle, verrà restituito null.
 ###  Esempio
 
@@ -47,5 +48,5 @@ for r in en:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cell](/cells/python-net/it/aspose.cells/cell)
+* modulo [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/it/aspose.cells/cell)

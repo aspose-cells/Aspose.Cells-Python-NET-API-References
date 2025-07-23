@@ -1,6 +1,6 @@
 ---
 title: column недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column недвижимость
 
-Получает индекс column объекта, содержащего комментарий.
+Получает индекс column, содержащий комментарий.
 ###  Определение:
 ```python
 @property
@@ -18,5 +18,5 @@ def column(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.revisions](../../)
-* класс [RevisionCellComment](/cells/python-net/ru/aspose.cells.revisions/revisioncellcomment)
+* модуль [`aspose.cells.revisions`](../../)
+* класс [`RevisionCellComment`](/cells/python-net/ru/aspose.cells.revisions/revisioncellcomment)

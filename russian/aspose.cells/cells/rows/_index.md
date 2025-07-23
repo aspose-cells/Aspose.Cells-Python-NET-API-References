@@ -1,15 +1,15 @@
 ---
 title: rows недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1230
+weight: 1260
 url: /ru/aspose.cells/cells/rows/
 is_root: false
 ---
 ##  rows недвижимость
 
-Получает коллекцию объектов [`Row`](/cells/python-net/ru/aspose.cells/row), представляющую отдельный номер rows на этом листе.
+Получает коллекцию объектов [`Row`](/cells/python-net/ru/aspose.cells/row), представляющую отдельный объект rows на этом листе.
 ###  Определение:
 ```python
 @property

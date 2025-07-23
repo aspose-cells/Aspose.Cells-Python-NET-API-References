@@ -1,19 +1,13 @@
 ---
 title: gridline_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 130
+weight: 180
 url: /ru/aspose.cells/docxsaveoptions/gridline_type/
 is_root: false
 ---
 ##  gridline_type недвижимость
-
-Получает или задает тип линии сетки.
-
-###  Примечания
-
-По умолчанию используется пунктирный тип.
 ###  Определение:
 ```python
 @property

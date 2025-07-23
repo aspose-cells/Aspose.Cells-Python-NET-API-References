@@ -1,9 +1,9 @@
 ---
 title: compression_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 50
+weight: 60
 url: /it/aspose.cells/ooxmlsaveoptions/compression_type/
 is_root: false
 ---
@@ -25,6 +25,6 @@ def compression_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [OoxmlCompressionType](/cells/python-net/it/aspose.cells/ooxmlcompressiontype)
-* classe [OoxmlSaveOptions](/cells/python-net/it/aspose.cells/ooxmlsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`OoxmlCompressionType`](/cells/python-net/it/aspose.cells/ooxmlcompressiontype)
+* classe [`OoxmlSaveOptions`](/cells/python-net/it/aspose.cells/ooxmlsaveoptions)

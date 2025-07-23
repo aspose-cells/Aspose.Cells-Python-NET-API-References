@@ -1,15 +1,15 @@
 ---
 title: external_links proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 300
+weight: 320
 url: /it/aspose.cells/worksheetcollection/external_links/
 is_root: false
 ---
 ##  external_links proprietà
 
-Rappresenta collegamenti esterni in una cartella di lavoro.
+Rappresenta i collegamenti esterni in una cartella di lavoro.
 ###  Definizione:
 ```python
 @property

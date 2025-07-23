@@ -1,9 +1,9 @@
 ---
 title: linked_source недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 260
+weight: 320
 url: /ru/aspose.cells.charts/title/linked_source/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def linked_source(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Title](/cells/python-net/ru/aspose.cells.charts/title)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Title`](/cells/python-net/ru/aspose.cells.charts/title)

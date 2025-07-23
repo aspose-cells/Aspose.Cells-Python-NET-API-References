@@ -1,23 +1,24 @@
 ---
 title: Metodo get_text_of_total
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 210
+weight: 220
 url: /it/aspose.cells.settings/pivotglobalizationsettings/get_text_of_total/
 is_root: false
 ---
-##  get_text_of_total {#}
+##  get_text_of_total(self) {#}
 Ottiene il testo dell'etichetta "Totale" nella tabella pivot.
 È necessario sovrascrivere questo metodo quando la tabella pivot contiene due o più campi pivot nell'area dati.
 
 
 ###  ritorna
 
-Il testo dell'etichetta "Totale".
+Il testo dell'etichetta "Totale"
 
 
 ```python
+
 def get_text_of_total(self):
     ...
 ```

@@ -1,22 +1,23 @@
 ---
 title: refresh метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 140
 url: /ru/aspose.cells/autofilter/refresh/
 is_root: false
 ---
-##  refresh() {#}
+##  refresh(self) {#}
 Обновите автоматические фильтры, чтобы скрыть или отобразить строки.
 
 
-###  Возвращает
+###  Возврат
 
 Возвращает индексы всех скрытых строк.
 
 
 ```python
+
 def refresh(self):
     ...
 ```
@@ -24,16 +25,17 @@ def refresh(self):
 
 
 
-##  refresh(hide_rows) {#bool}
+##  refresh(self, hide_rows) {#bool}
 Получает индексы всех скрытых строк.
 
 
-###  Возвращает
+###  Возврат
 
 Возвращает все индексы скрытых строк.
 
 
 ```python
+
 def refresh(self, hide_rows):
     ...
 ```
@@ -46,5 +48,5 @@ def refresh(self, hide_rows):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [AutoFilter](/cells/python-net/ru/aspose.cells/autofilter)
+* модуль [`aspose.cells`](../../)
+* класс [`AutoFilter`](/cells/python-net/ru/aspose.cells/autofilter)

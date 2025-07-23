@@ -1,15 +1,15 @@
 ---
 title: spt недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 950
+weight: 960
 url: /ru/aspose.cells.drawing/radiobutton/spt/
 is_root: false
 ---
 ##  spt недвижимость
 
-Указывает необязательный номер, который приложение может использовать для связи конкретной фигуры с определенным типом фигуры.
+Указывает необязательное число, которое приложение может использовать для связи конкретной фигуры с определенным типом фигуры.
 
 ###  Пример
 

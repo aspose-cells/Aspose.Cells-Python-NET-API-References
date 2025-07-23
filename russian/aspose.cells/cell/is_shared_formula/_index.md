@@ -1,9 +1,9 @@
 ---
 title: is_shared_formula недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 630
+weight: 660
 url: /ru/aspose.cells/cell/is_shared_formula/
 is_root: false
 ---

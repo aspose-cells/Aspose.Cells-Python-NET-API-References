@@ -1,9 +1,9 @@
 ---
 title: paper_size недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 360
+weight: 390
 url: /ru/aspose.cells/workbooksettings/paper_size/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Если размер бумаги не задан, MS Excel будет использовать настройки принтера по умолчанию.
+Если настройки размера бумаги не заданы, MS Excel будет использовать настройки принтера по умолчанию.
 ###  Определение:
 ```python
 @property

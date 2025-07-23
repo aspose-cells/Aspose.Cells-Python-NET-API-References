@@ -1,18 +1,19 @@
 ---
 title: move метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 170
+weight: 210
 url: /ru/aspose.cells.pivot/pivottable/move/
 is_root: false
 ---
-##  move(dest_cell_name) {#str}
+##  move(self, dest_cell_name) {#str}
 Перемещает сводную таблицу в другое место на листе.
 
 
 
 ```python
+
 def move(self, dest_cell_name):
     ...
 ```
@@ -20,15 +21,21 @@ def move(self, dest_cell_name):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| dest_cell_name | str | имя целевой ячейки.|
+| dest_cell_name | str | имя ячейки назначения.|
+###  Примечания
 
+ПРИМЕЧАНИЕ: Это свойство устарело. Вместо этого
+пожалуйста, используйте метод PivotTable.MoveTo().
+ Этот метод будет удален через 12 месяцев, с декабря 2024 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 
-##  move(row, column) {#int-int}
+##  move(self, row, column) {#int-int}
 Перемещает сводную таблицу в другое место на листе.
 
 
 
 ```python
+
 def move(self, row, column):
     ...
 ```
@@ -38,9 +45,14 @@ def move(self, row, column):
 | :- | :- | :- |
 | row | int | индекс строки.|
 | column | int | индекс столбца.|
+###  Примечания
 
+ПРИМЕЧАНИЕ: Это свойство устарело. Вместо этого
+пожалуйста, используйте метод PivotTable.MoveTo().
+ Этот метод будет удален через 12 месяцев, с декабря 2024 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotTable](/cells/python-net/ru/aspose.cells.pivot/pivottable)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotTable`](/cells/python-net/ru/aspose.cells.pivot/pivottable)

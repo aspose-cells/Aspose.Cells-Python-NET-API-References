@@ -1,15 +1,15 @@
 ---
 title: group_settings proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 340
+weight: 420
 url: /it/aspose.cells.pivot/pivotfield/group_settings/
 is_root: false
 ---
 ##  group_settings proprietà
 
-Ottiene le impostazioni del gruppo del campo pivot.
+Ottiene le impostazioni di gruppo del campo pivot.
 
 ###  Osservazioni
 

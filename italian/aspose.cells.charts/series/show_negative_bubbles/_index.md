@@ -1,6 +1,6 @@
 ---
 title: show_negative_bubbles proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 420
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_negative_bubbles proprietà
 
-True se vengono visualizzate bolle negative per il gruppo di grafici. Valido solo per i grafici a bolle.
+Vero se vengono visualizzate bolle negative per il gruppo di grafici. Valido solo per i grafici a bolle.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_negative_bubbles(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Series](/cells/python-net/it/aspose.cells.charts/series)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Series`](/cells/python-net/it/aspose.cells.charts/series)

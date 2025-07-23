@@ -1,9 +1,9 @@
 ---
 title: page_count proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 220
+weight: 230
 url: /it/aspose.cells.rendering/imageorprintoptions/page_count/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Ottiene o imposta il numero di pagine da salvare.
 
 ###  Osservazioni
 
-L'impostazione predefinita è System.Int32.MaxValue, il che significa che verrà eseguito il rendering di tutte le pagine.
+Il valore predefinito è System.Int32.MaxValue, il che significa che verranno visualizzate tutte le pagine.
 ###  Definizione:
 ```python
 @property

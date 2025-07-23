@@ -1,15 +1,15 @@
 ---
 title: text proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 450
+weight: 520
 url: /it/aspose.cells.charts/datalabels/text/
 is_root: false
 ---
 ##  text proprietà
 
-Ottiene o imposta lo text dell'etichetta dati.
+Ottiene o imposta l'etichetta dati text.
 ###  Definizione:
 ```python
 @property

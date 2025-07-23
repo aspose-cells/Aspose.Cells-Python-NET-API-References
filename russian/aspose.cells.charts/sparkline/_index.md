@@ -1,6 +1,6 @@
 ---
 title: Sparkline класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 270
@@ -8,7 +8,7 @@ url: /ru/aspose.cells.charts/sparkline/
 is_root: false
 ---
 ##  Sparkline класс
-Спарклайн представляет собой небольшую диаграмму или рисунок в ячейке листа, который обеспечивает визуальное представление данных.
+Спарклайн представляет собой небольшую диаграмму или график в ячейке рабочего листа, который обеспечивает визуальное представление данных.
 
 
 
@@ -25,8 +25,8 @@ is_root: false
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [to_image](/cells/python-net/ru/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) | Преобразует спарклайн в изображение.|
-| [to_image](/cells/python-net/ru/aspose.cells.charts/sparkline/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) | Преобразует спарклайн в изображение.|
+| [`to_image(self, file_name, options)`](/cells/python-net/ru/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.imageorprintoptions) | Преобразует спарклайн в изображение.|
+| [`to_image(self, stream, options)`](/cells/python-net/ru/aspose.cells.charts/sparkline/to_image/#io.rawiobase-aspose.cells.rendering.imageorprintoptions) | Преобразует спарклайн в изображение.|
 
 
 
@@ -49,10 +49,10 @@ ca.start_column = 4
 ca.end_column = 4
 ca.start_row = 0
 ca.end_row = 0
-idx = sheet.sparkline_group_collection.add(SparklineType.LINE, sheet.name + "!A1:D1", False, ca)
-group = sheet.sparkline_group_collection[idx]
-idx = group.sparkline_collection.add(sheet.name + "!A1:D1", 0, 4)
-line = group.sparkline_collection[idx]
+idx = sheet.sparkline_groups.add(SparklineType.LINE, sheet.name + "!A1:D1", False, ca)
+group = sheet.sparkline_groups[idx]
+idx = group.sparklines.add(sheet.name + "!A1:D1", 0, 4)
+line = group.sparklines[idx]
 print("Saprkline data range: "  + line.data_range + ", row: "  + str(line.row) + ", column: "  + str(line.column))
 line.to_image("output.png", ImageOrPrintOptions())
 

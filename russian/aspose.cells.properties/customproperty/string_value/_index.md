@@ -1,6 +1,6 @@
 ---
 title: string_value недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -13,10 +13,10 @@ is_root: false
 
 ###  Примечания
 
- ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
+ ПРИМЕЧАНИЕ: Этот элемент устарел. Вместо этого,
  используйте свойство CustomProperty.Value.
- Это свойство будет удалено через 12 месяцев, начиная с июня 2010 года.
-Aspose приносит извинения за возможные неудобства.
+ Эта недвижимость будет снесена через 12 месяцев с июня 2010 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 ###  Определение:
 ```python
 @property
@@ -28,5 +28,5 @@ def string_value(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.properties](../../)
-* класс [CustomProperty](/cells/python-net/ru/aspose.cells.properties/customproperty)
+* модуль [`aspose.cells.properties`](../../)
+* класс [`CustomProperty`](/cells/python-net/ru/aspose.cells.properties/customproperty)

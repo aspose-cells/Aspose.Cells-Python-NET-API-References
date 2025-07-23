@@ -1,15 +1,15 @@
 ---
 title: lower_delta_y proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 760
+weight: 770
 url: /it/aspose.cells.drawing/oval/lower_delta_y/
 is_root: false
 ---
 ##  lower_delta_y proprietà
 
-Ottiene o imposta l'offset verticale della forma dalla riga dell'angolo inferiore destro.
+Ottiene o imposta lo scostamento verticale della forma dalla riga dell'angolo inferiore destro.
 
 ###  Osservazioni
 

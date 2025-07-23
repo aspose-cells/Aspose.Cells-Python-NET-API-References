@@ -1,15 +1,15 @@
 ---
 title: transition_entry proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 850
+weight: 870
 url: /it/aspose.cells/worksheet/transition_entry/
 is_root: false
 ---
 ##  transition_entry proprietà
 
-Indica se l'opzione Immissione formula di transizione (compatibilità Lotus) è abilitata.
+Indica se è abilitata l'opzione Inserimento formula di transizione (compatibilità con Lotus).
 ###  Definizione:
 ```python
 @property

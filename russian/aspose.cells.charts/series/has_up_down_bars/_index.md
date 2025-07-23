@@ -1,6 +1,6 @@
 ---
 title: has_up_down_bars недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 240
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  has_up_down_bars недвижимость
 
-Истинно, если на линейном графике есть полосы вверх и вниз.
-Применяется только к линейным графикам.
+True, если линейный график имеет восходящие и нисходящие полосы.
+Применимо только к линейным диаграммам.
 ###  Определение:
 ```python
 @property

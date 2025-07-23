@@ -1,6 +1,6 @@
 ---
 title: width_cm proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 250
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width_cm proprietà
 
-Rappresenta la larghezza del commento, in unità di centimetri.
+Rappresenta la larghezza del commento, in centimetri.
 
 ###  Esempio
 

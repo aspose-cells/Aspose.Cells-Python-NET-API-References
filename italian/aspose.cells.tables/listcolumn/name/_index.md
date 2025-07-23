@@ -1,19 +1,19 @@
 ---
 title: name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 80
+weight: 110
 url: /it/aspose.cells.tables/listcolumn/name/
 is_root: false
 ---
 ##  name proprietà
 
-Ottiene e imposta name della colonna.
+Ottiene e imposta il valore name della colonna.
 
 ###  Osservazioni
 
-Se imposta lo name della colonna, verrà modificato anche il valore della cella corrispondente.
+Se si imposta name della colonna, verrà modificato anche il valore della cella corrispondente.
 ###  Definizione:
 ```python
 @property
@@ -25,5 +25,5 @@ def name(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.tables](../../)
-* classe [ListColumn](/cells/python-net/it/aspose.cells.tables/listcolumn)
+* modulo [`aspose.cells.tables`](../../)
+* classe [`ListColumn`](/cells/python-net/it/aspose.cells.tables/listcolumn)

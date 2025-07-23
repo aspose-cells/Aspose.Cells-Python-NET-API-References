@@ -1,6 +1,6 @@
 ---
 title: axis_labels proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -15,8 +15,8 @@ Ottiene le etichette dell'asse dopo la chiamata al metodo Chart.Calculate().
 
  NOTA: questo membro è ora obsoleto. Invece,
 si prega di utilizzare il metodo Axis.GetAxisTexts.
- Questa proprietà verrà rimossa 12 mesi dopo a partire da novembre 2023.
-Aspose si scusa per eventuali disagi riscontrati.
+ Questa proprietà verrà rimossa 12 mesi dopo, a partire da novembre 2023.
+Aspose si scusa per ogni eventuale disagio arrecato.
 ###  Definizione:
 ```python
 @property

@@ -1,6 +1,6 @@
 ---
 title: mid_color недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  mid_color недвижимость
 
-Получите или установите цвет градиента для среднего значения в диапазоне.
+Получить или задать цвет градиента для среднего значения в диапазоне.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def mid_color(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ColorScale](/cells/python-net/ru/aspose.cells/colorscale)
+* модуль [`aspose.cells`](../../)
+* класс [`ColorScale`](/cells/python-net/ru/aspose.cells/colorscale)

@@ -1,6 +1,6 @@
 ---
 title: is_encrypted proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_encrypted proprietà
 
-Restituisce true se il documento è crittografato e richiede una password per essere aperto.
+Restituisce true se il documento è crittografato e richiede una password per aprirlo.
 ###  Definizione:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_encrypted(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FileFormatInfo](/cells/python-net/it/aspose.cells/fileformatinfo)
+* modulo [`aspose.cells`](../../)
+* classe [`FileFormatInfo`](/cells/python-net/it/aspose.cells/fileformatinfo)

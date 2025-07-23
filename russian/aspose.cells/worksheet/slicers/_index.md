@@ -1,15 +1,15 @@
 ---
 title: slicers недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 770
+weight: 800
 url: /ru/aspose.cells/worksheet/slicers/
 is_root: false
 ---
 ##  slicers недвижимость
 
-Получить коллекцию Slicer на листе
+Получить коллекцию слайсеров на рабочем листе
 ###  Определение:
 ```python
 @property

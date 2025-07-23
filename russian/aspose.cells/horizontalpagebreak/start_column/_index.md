@@ -1,6 +1,6 @@
 ---
 title: start_column недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -18,5 +18,5 @@ def start_column(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [HorizontalPageBreak](/cells/python-net/ru/aspose.cells/horizontalpagebreak)
+* модуль [`aspose.cells`](../../)
+* класс [`HorizontalPageBreak`](/cells/python-net/ru/aspose.cells/horizontalpagebreak)

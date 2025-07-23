@@ -1,6 +1,6 @@
 ---
 title: sheet_index недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  sheet_index недвижимость
 
-Указывает индекс текущего листа DrawObject.
+Указывает текущий индекс листа DrawObject.
 ###  Определение:
 ```python
 @property
@@ -18,5 +18,5 @@ def sheet_index(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering](../../)
-* класс [DrawObject](/cells/python-net/ru/aspose.cells.rendering/drawobject)
+* модуль [`aspose.cells.rendering`](../../)
+* класс [`DrawObject`](/cells/python-net/ru/aspose.cells.rendering/drawobject)

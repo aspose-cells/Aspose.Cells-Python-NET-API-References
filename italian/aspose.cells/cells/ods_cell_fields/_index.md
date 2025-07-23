@@ -1,15 +1,15 @@
 ---
 title: ods_cell_fields proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1200
+weight: 1230
 url: /it/aspose.cells/cells/ods_cell_fields/
 is_root: false
 ---
 ##  ods_cell_fields proprietà
 
-Ottiene l'elenco dei campi di od.
+Ottiene l'elenco dei campi di ods.
 ###  Definizione:
 ```python
 @property

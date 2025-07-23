@@ -1,18 +1,18 @@
 ---
-title: ControlSpecialEffectType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione ControlSpecialEffectType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 260
+weight: 240
 url: /it/aspose.cells.drawing.activexcontrols/controlspecialeffecttype/
 is_root: false
 ---
-##  ControlSpecialEffectType enumerazione
+##  Enumerazione ControlSpecialEffectType
 Rappresenta il tipo di effetto speciale.
 
 
 
-Il tipo ControlSpecialEffectType espone i membri seguenti:
+Il tipo ControlSpecialEffectType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -26,4 +26,4 @@ Il tipo ControlSpecialEffectType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](..)
+* modulo [`aspose.cells.drawing.activexcontrols`](..)

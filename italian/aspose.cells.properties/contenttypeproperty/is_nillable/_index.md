@@ -1,6 +1,6 @@
 ---
 title: is_nillable proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -21,5 +21,5 @@ def is_nillable(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.properties](../../)
-* classe [ContentTypeProperty](/cells/python-net/it/aspose.cells.properties/contenttypeproperty)
+* modulo [`aspose.cells.properties`](../../)
+* classe [`ContentTypeProperty`](/cells/python-net/it/aspose.cells.properties/contenttypeproperty)

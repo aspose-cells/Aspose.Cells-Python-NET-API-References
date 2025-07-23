@@ -1,6 +1,6 @@
 ---
 title: left_margin_inch proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 440
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  left_margin_inch proprietà
 
-Rappresenta la dimensione del margine sinistro, in unità di pollici.
+Rappresenta la dimensione del margine sinistro, in pollici.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def left_margin_inch(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/it/aspose.cells/pagesetup)
+* modulo [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/it/aspose.cells/pagesetup)

@@ -1,6 +1,6 @@
 ---
 title: direction proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  direction proprietà
 
-Ottiene e imposta direction della rampa del gradiente alfa relativa alla forma stessa.
+Ottiene e imposta il valore direction della rampa del gradiente alfa in relazione alla forma stessa.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def direction(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ReflectionEffect](/cells/python-net/it/aspose.cells.drawing/reflectioneffect)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ReflectionEffect`](/cells/python-net/it/aspose.cells.drawing/reflectioneffect)
