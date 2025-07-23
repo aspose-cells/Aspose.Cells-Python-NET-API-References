@@ -17,11 +17,11 @@ Der Typ OdsPageBackgroundGraphicType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| POSITION | Legen Sie das Bild an einer bestimmten Position fest.|
-| AREA | Strecken Sie das Bild.|
-| TILE |Wiederholen und wiederholen Sie das Bild.|
+| POSITION | Platzieren Sie das Bild an einer bestimmten Position.|
+| AREA | Dehnen Sie das Bild.|
+| TILE | Wiederholen Sie das Bild immer wieder.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.ods](..)
+* Modul [`aspose.cells.ods`](..)

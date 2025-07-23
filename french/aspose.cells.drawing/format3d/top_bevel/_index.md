@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  top_bevel propriété
 
-Obtient l'objet [Bevel](/cells/python-net/fr/aspose.cells.drawing/bevel) qui contient les propriétés associées à la définition d'un biseau sur la face supérieure ou avant d'une forme.
+Obtient l'objet [`Bevel`](/cells/python-net/fr/aspose.cells.drawing/bevel) qui contient les propriétés associées à la définition d'un biseau sur la face supérieure ou avant d'une forme.
 ###  Définition:
 ```python
 @property
@@ -18,6 +18,6 @@ def top_bevel(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Bevel](/cells/python-net/fr/aspose.cells.drawing/bevel)
-* classe [Format3D](/cells/python-net/fr/aspose.cells.drawing/format3d)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Bevel`](/cells/python-net/fr/aspose.cells.drawing/bevel)
+* classe [`Format3D`](/cells/python-net/fr/aspose.cells.drawing/format3d)

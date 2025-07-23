@@ -3,7 +3,7 @@ title: is_flipped_vertically propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 570
+weight: 580
 url: /fr/aspose.cells.drawing/commentshape/is_flipped_vertically/
 is_root: false
 ---

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  size propriété
 
-Obtient et définit la position finale (le long de la rampe de gradient alpha) de la valeur alpha finale, en pourcentage
+Obtient et définit la position finale (le long de la rampe de gradient alpha) de la valeur alpha finale, en unité de pourcentage
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def size(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ReflectionEffect](/cells/python-net/fr/aspose.cells.drawing/reflectioneffect)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ReflectionEffect`](/cells/python-net/fr/aspose.cells.drawing/reflectioneffect)

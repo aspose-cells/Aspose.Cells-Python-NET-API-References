@@ -7,8 +7,8 @@ weight: 50
 url: /de/aspose.cells/fileformatutil/is_template_format/
 is_root: false
 ---
-##  is_template_format(extension) {#str}
-Gibt true zurück, wenn die Erweiterung .xlt, .xltX, .xltm, .ots ist.
+##  is_template_format(, Erweiterung){#str}
+Gibt „true“ zurück, wenn die Erweiterung .xlt, .xltX, .xltm oder .ots ist.
 
 
 ###  Kehrt zurück
@@ -17,7 +17,9 @@ Gibt true zurück, wenn die Erweiterung .xlt, .xltX, .xltm, .ots ist.
 
 
 ```python
-def is_template_format(self, extension):
+
+@staticmethod
+def is_template_format(extension):
     ...
 ```
 
@@ -29,5 +31,5 @@ def is_template_format(self, extension):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FileFormatUtil](/cells/python-net/de/aspose.cells/fileformatutil)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FileFormatUtil`](/cells/python-net/de/aspose.cells/fileformatutil)

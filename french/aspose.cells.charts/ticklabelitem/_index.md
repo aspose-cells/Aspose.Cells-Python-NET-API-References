@@ -17,10 +17,10 @@ Le type TickLabelItem expose les membres suivants :
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
-| [x](/cells/python-net/fr/aspose.cells.charts/ticklabelitem/x) | Coordonnées X de l'élément Ticklabel en rapport avec la largeur du graphique.|
-| [y](/cells/python-net/fr/aspose.cells.charts/ticklabelitem/y) | Coordonnées Y de l’élément Ticklabel en rapport avec la hauteur du graphique.|
-| [width](/cells/python-net/fr/aspose.cells.charts/ticklabelitem/width) | Largeur de l'élément Ticklabel en fonction de la largeur du graphique.|
-| [height](/cells/python-net/fr/aspose.cells.charts/ticklabelitem/height) |Hauteur de l’élément Ticklabel par rapport à la hauteur du graphique.|
+| [x](/cells/python-net/fr/aspose.cells.charts/ticklabelitem/x) | Coordonnées X de l'élément Ticklabel en fonction de la largeur du graphique.|
+| [y](/cells/python-net/fr/aspose.cells.charts/ticklabelitem/y) | Coordonnées Y de l'élément Ticklabel par rapport à la hauteur du graphique.|
+| [width](/cells/python-net/fr/aspose.cells.charts/ticklabelitem/width) | Largeur de l'élément Ticklabel par rapport à la largeur du graphique.|
+| [height](/cells/python-net/fr/aspose.cells.charts/ticklabelitem/height) |Hauteur de l'élément Ticklabel par rapport à la hauteur du graphique.|
 
 
 

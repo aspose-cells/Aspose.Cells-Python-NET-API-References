@@ -3,7 +3,7 @@ title: manual_update Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 640
+weight: 740
 url: /de/aspose.cells.pivot/pivottable/manual_update/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def manual_update(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotTable](/cells/python-net/de/aspose.cells.pivot/pivottable)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotTable`](/cells/python-net/de/aspose.cells.pivot/pivottable)

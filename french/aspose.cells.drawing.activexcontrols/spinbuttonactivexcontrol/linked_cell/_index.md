@@ -8,8 +8,6 @@ url: /fr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/linked_ce
 is_root: false
 ---
 ##  linked_cell propriété
-
-Obtient et définit la cellule liée.
 ###  Définition:
 ```python
 @property
@@ -21,5 +19,5 @@ def linked_cell(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [SpinButtonActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`SpinButtonActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

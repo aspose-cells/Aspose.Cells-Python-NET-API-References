@@ -1,14 +1,14 @@
 ---
-title: ControlCaptionAlignmentType dénombrement
+title: ControlCaptionAlignmentType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 170
+weight: 150
 url: /fr/aspose.cells.drawing.activexcontrols/controlcaptionalignmenttype/
 is_root: false
 ---
-##  ControlCaptionAlignmentType dénombrement
-Représente la position du Caption par rapport au contrôle.
+##  ControlCaptionAlignmentType énumération
+Représente la position de la légende par rapport au contrôle.
 
 
 
@@ -23,4 +23,4 @@ Le type ControlCaptionAlignmentType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](..)
+* module [`aspose.cells.drawing.activexcontrols`](..)

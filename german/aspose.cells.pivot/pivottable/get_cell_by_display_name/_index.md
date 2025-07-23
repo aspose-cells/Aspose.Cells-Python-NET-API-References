@@ -7,16 +7,17 @@ weight: 130
 url: /de/aspose.cells.pivot/pivottable/get_cell_by_display_name/
 is_root: false
 ---
-##  get_cell_by_display_name {#str}
-Ruft das [`Cell`](/cells/python-net/de/aspose.cells/cell)-Objekt über den Anzeigenamen von PivotField ab.
+##  get_cell_by_display_name(self, display_name) {#str}
+Ruft das Objekt [`Cell`](/cells/python-net/de/aspose.cells/cell) anhand des Anzeigenamens von PivotField ab.
 
 
 ###  Kehrt zurück
 
-das Cell-Objekt
+das Objekt Cell
 
 
 ```python
+
 def get_cell_by_display_name(self, display_name):
     ...
 ```
@@ -24,7 +25,7 @@ def get_cell_by_display_name(self, display_name):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| display_name | str | der DisplayName von PivotField|
+| display_name | str | der Anzeigename des PivotFields|
 
 
 

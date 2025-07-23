@@ -8,8 +8,6 @@ url: /fr/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol/is_tra
 is_root: false
 ---
 ##  is_transparent propriété
-
-Indique si le champ est transparent.
 ###  Définition:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_transparent(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [CommandButtonActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`CommandButtonActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)

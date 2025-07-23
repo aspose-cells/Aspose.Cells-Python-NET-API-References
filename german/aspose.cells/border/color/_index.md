@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color Eigentum
 
-Ruft die Farbe des Rahmens ab oder legt diese fest.
+Ruft die Farbe des Rahmens ab oder legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Border](/cells/python-net/de/aspose.cells/border)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Border`](/cells/python-net/de/aspose.cells/border)

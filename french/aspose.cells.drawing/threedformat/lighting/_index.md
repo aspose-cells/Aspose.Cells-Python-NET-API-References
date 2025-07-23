@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  lighting propriété
 
-Obtient et définit le type de rig léger.
+Obtient et définit le type de plate-forme d'éclairage.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def lighting(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [LightRigType](/cells/python-net/fr/aspose.cells.drawing/lightrigtype)
-* classe [ThreeDFormat](/cells/python-net/fr/aspose.cells.drawing/threedformat)
+* module [`aspose.cells.drawing`](../../)
+* classe [`LightRigType`](/cells/python-net/fr/aspose.cells.drawing/lightrigtype)
+* classe [`ThreeDFormat`](/cells/python-net/fr/aspose.cells.drawing/threedformat)

@@ -19,7 +19,7 @@ Der Typ TickMarkType macht die folgenden Member verfügbar:
 | :- | :- |
 | CROSS | Der Markierungstyp ist Kreuz.|
 | INSIDE | Der Häkchentyp ist „Innen“.|
-| NONE | Der Markierungstyp ist „Keine“.|
+| NONE | Der Häkchentyp ist „Keine“.|
 | OUTSIDE | Der Markierungstyp ist „Außen“.|
 
 

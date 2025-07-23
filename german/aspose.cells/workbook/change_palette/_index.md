@@ -7,12 +7,13 @@ weight: 50
 url: /de/aspose.cells/workbook/change_palette/
 is_root: false
 ---
-##  change_palette(color, index) {#aspose.pydrawing.Color-int}
-Ändert die Palette für das Arbeitsblatt im angegebenen Index.
+##  change_palette(self, color, index) {#aspose.pydrawing.Color-int}
+Ändert die Palette für die Tabelle im angegebenen Index.
 
 
 
 ```python
+
 def change_palette(self, color, index):
     ...
 ```
@@ -24,7 +25,7 @@ def change_palette(self, color, index):
 | index | int | Palettenindex, 0 - 55.|
 ###  Bemerkungen
 
-Die Palette hat 56 Einträge, die jeweils durch einen RGB-Wert dargestellt werden.
+Die Palette verfügt über 56 Einträge, die jeweils durch einen RGB-Wert dargestellt werden.
 
 
 Wenn Sie eine Farbe einstellen, die nicht in der Palette enthalten ist, wird sie nicht wirksam.
@@ -33,12 +34,12 @@ Wenn Sie eine Farbe einstellen, die nicht in der Palette enthalten ist, wird sie
 Wenn Sie also eine benutzerdefinierte Farbe festlegen möchten, ändern Sie bitte zuerst die Palette.
 
 
-Das Folgende ist die Standardfarbpalette.
+Nachfolgend sehen Sie die Standardfarbpalette.
 
 | Farbe| Rot| Grün| Blau|
 | :- | :- | :- | :- |
 | Schwarz| 0| 0| 0 |
-| Weiss| 255| 255| 255 |
+| Weiß| 255| 255| 255 |
 | Rot| 255| 0| 0 |
 | Kalk| 0| 255| 0 |
 | Blau| 0| 0| 255 |
@@ -53,7 +54,7 @@ Das Folgende ist die Standardfarbpalette.
 | Blaugrün| 0| 128| 128 |
 | Silber| 192| 192| 192 |
 | Grau| 128| 128| 128 |
-| Farbe17| 153| 153| 255 |
+|Farbe17| 153| 153| 255 |
 | Farbe18| 153| 51| 102 |
 | Farbe19| 255| 255| 204 |
 | Farbe20| 204| 255| 255 |
@@ -90,12 +91,12 @@ Das Folgende ist die Standardfarbpalette.
 | Farbe51| 0| 51| 0 |
 | Farbe52| 51| 51| 0 |
 | Farbe53| 153| 51| 0 |
-|Farbe54| 153| 51| 102 |
+| Farbe54| 153| 51| 102 |
 | Farbe55| 51| 51| 153 |
 | Farbe56| 51| 51| 51 |
 
 
 ###  Siehe auch
 
-* Modul [aspose.cells](../../)
-* Klasse [Workbook](/cells/python-net/de/aspose.cells/workbook)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Workbook`](/cells/python-net/de/aspose.cells/workbook)

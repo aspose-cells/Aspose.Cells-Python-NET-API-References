@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  marker_size_px propriété
 
-Représente la taille du marqueur en pixels. S'applique au graphique en courbes, au graphique en nuage de points ou au graphique en radar.
+Représente la taille du marqueur en pixels. S'applique aux graphiques linéaires, aux graphiques en nuage de points et aux graphiques radar.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def marker_size_px(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Marker](/cells/python-net/fr/aspose.cells.charts/marker)
+* module [`aspose.cells.charts`](../../)
+* classe [`Marker`](/cells/python-net/fr/aspose.cells.charts/marker)

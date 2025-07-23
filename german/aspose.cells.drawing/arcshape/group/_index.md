@@ -3,7 +3,7 @@ title: group Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 470
+weight: 460
 url: /de/aspose.cells.drawing/arcshape/group/
 is_root: false
 ---

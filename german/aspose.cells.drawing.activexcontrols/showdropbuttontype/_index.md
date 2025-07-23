@@ -3,7 +3,7 @@ title: ShowDropButtonType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 300
+weight: 280
 url: /de/aspose.cells.drawing.activexcontrols/showdropbuttontype/
 is_root: false
 ---
@@ -17,11 +17,11 @@ Der Typ ShowDropButtonType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| NEVER | Niemals den Drop-Button anzeigen.|
+| NEVER | Zeigen Sie niemals die Drop-Schaltfläche an.|
 | FOCUS | Zeigen Sie die Drop-Schaltfläche an, wenn das Steuerelement den Fokus hat.|
-| ALWAYS | Immer den Drop-Button anzeigen.|
+| ALWAYS | Immer die Drop-Schaltfläche anzeigen.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](..)
+* Modul [`aspose.cells.drawing.activexcontrols`](..)

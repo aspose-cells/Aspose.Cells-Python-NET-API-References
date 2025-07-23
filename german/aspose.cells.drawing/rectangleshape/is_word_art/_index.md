@@ -3,13 +3,13 @@ title: is_word_art Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 660
+weight: 670
 url: /de/aspose.cells.drawing/rectangleshape/is_word_art/
 is_root: false
 ---
 ##  is_word_art Eigentum
 
-Gibt an, ob es sich bei dieser Form um eine Wortkunst handelt.
+Gibt an, ob es sich bei dieser Form um eine WordArt handelt.
 
 ###  Bemerkungen
 

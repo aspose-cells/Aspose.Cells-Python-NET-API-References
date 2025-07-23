@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  left_crop_inch propriété
 
-Représente l’emplacement de la gauche du rectangle de recadrage exprimé en pouces.
+Représente l'emplacement de la gauche du rectangle de recadrage exprimé, en unités de pouces.
 ###  Définition:
 ```python
 @property

@@ -3,13 +3,13 @@ title: id Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 590
+weight: 580
 url: /de/aspose.cells.drawing/oleobject/id/
 is_root: false
 ---
 ##  id Eigentum
 
-Ruft den Bezeichner dieser Form ab.
+Ruft die Kennung dieser Form ab.
 
 ###  Beispiel
 

@@ -3,7 +3,7 @@ title: view_type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 910
+weight: 930
 url: /fr/aspose.cells/worksheet/view_type/
 is_root: false
 ---

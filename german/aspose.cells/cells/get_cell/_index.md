@@ -7,8 +7,8 @@ weight: 310
 url: /de/aspose.cells/cells/get_cell/
 is_root: false
 ---
-##  get_cell {#int-int}
-Ruft das Element [`Cell`](/cells/python-net/de/aspose.cells/cell) oder null am angegebenen Zeilenindex und Spaltenindex der Zelle ab.
+##  get_cell(self, row, column) {#int-int}
+Ruft das Element [`Cell`](/cells/python-net/de/aspose.cells/cell) oder null am angegebenen Zeilen- und Spaltenindex der Zelle ab.
 
 
 ###  Kehrt zurück
@@ -18,6 +18,7 @@ Gibt null zurück, wenn die Zelle nicht existiert.
 
 
 ```python
+
 def get_cell(self, row, column):
     ...
 ```
@@ -29,10 +30,10 @@ def get_cell(self, row, column):
 | column | int | Spaltenindex|
 ###  Bemerkungen
 
-HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
-Bitte verwenden Sie die CheckCell-Methode (int row, int columns).
- Diese Methode wird 12 Monate später seit Februar 2024 entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+HINWEIS: Dieses Mitglied ist mittlerweile veraltet. Stattdessen
+Bitte verwenden Sie die Methode CheckCell(int row, int column).
+ Diese Methode wird 12 Monate später ab Februar 2024 entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 
 
 ###  Siehe auch

@@ -7,12 +7,13 @@ weight: 50
 url: /fr/aspose.cells/rowcollection/remove_at/
 is_root: false
 ---
-##  remove_at {#int}
+##  remove_at(self, index) {#int}
 Supprimez l'élément de ligne à l'index (position) spécifié dans cette collection.
 
 
 
 ```python
+
 def remove_at(self, index):
     ...
 ```
@@ -20,7 +21,7 @@ def remove_at(self, index):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| index | int |index de base zéro (position, pas [`Row.index`](/cells/python-net/fr/aspose.cells/row#index)) de l'élément de ligne existant dans cette collection.|
+| index | int | index de base zéro (position, pas [`Row.index`](/cells/python-net/fr/aspose.cells/row#index)) de l'élément de ligne existant dans cette collection.|
 
 
 

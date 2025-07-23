@@ -7,7 +7,7 @@ weight: 30
 url: /de/aspose.cells/calculationdata/get_param_value/
 is_root: false
 ---
-##  get_param_value {#int}
+##  get_param_value(self, index) {#int}
 Ruft das dargestellte Wertobjekt des Parameters am angegebenen Index ab.
 
 
@@ -17,6 +17,7 @@ Der berechnete Wert des Parameters.
 
 
 ```python
+
 def get_param_value(self, index):
     ...
 ```
@@ -35,17 +36,17 @@ Wenn es sich um einen einfachen Wert handelt, wird der einfache Wert selbst zur�
 Wenn es sich um eine Referenz handelt, wird das ReferredArea-Objekt zurückgegeben.
 
 
-Wenn auf Datensätze mit mehreren Werten verwiesen wird, wird ein Array von Objekten zurückgegeben.
+Wenn es auf Datensätze mit mehreren Werten verweist, wird ein Array von Objekten zurückgegeben.
 
 
 
-Wenn es sich um einen Ausdruck handelt, der berechnet werden muss, erfolgt die Berechnung im Wertmodus
-und im Allgemeinen wird ein einzelner Wert entsprechend der aktuellen Zellbasis zurückgegeben. Zum Beispiel,
-Wenn ein Parameter der Formel von D2 A:A+B:B ist, wird A2+B2 berechnet und zurückgegeben.
+Wenn es sich um eine Art Ausdruck handelt, der berechnet werden muss, wird er im Wertmodus berechnet
+Im Allgemeinen wird ein einzelner Wert entsprechend der aktuellen Zellbasis zurückgegeben. Beispiel:
+Wenn beispielsweise ein Parameter der Formel von D2 A:A+B:B ist, wird A2+B2 berechnet und zurückgegeben.
 Wenn dieser Parameter jedoch als Array-Modus angegeben wurde
-(bis [`Workbook.update_custom_function_definition`](/cells/python-net/de/aspose.cells/workbook/update_custom_function_definition)
+(von [`Workbook.update_custom_function_definition`](/cells/python-net/de/aspose.cells/workbook/update_custom_function_definition)
 oder [`FormulaParseOptions.custom_function_definition`](/cells/python-net/de/aspose.cells/formulaparseoptions#custom_function_definition)),
-dann wird ein Array(object[][]) zurückgegeben, dessen Elemente A1+B1,A2+B2,... sind.
+dann wird ein Array (Objekt[][]) zurückgegeben, dessen Elemente A1+B1, A2+B2, … sind.
 
 
 ###  Siehe auch

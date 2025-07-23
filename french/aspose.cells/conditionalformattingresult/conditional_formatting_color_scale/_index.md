@@ -18,6 +18,6 @@ def conditional_formatting_color_scale(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ColorScale](/cells/python-net/fr/aspose.cells/colorscale)
-* classe [ConditionalFormattingResult](/cells/python-net/fr/aspose.cells/conditionalformattingresult)
+* module [`aspose.cells`](../../)
+* classe [`ColorScale`](/cells/python-net/fr/aspose.cells/colorscale)
+* classe [`ConditionalFormattingResult`](/cells/python-net/fr/aspose.cells/conditionalformattingresult)

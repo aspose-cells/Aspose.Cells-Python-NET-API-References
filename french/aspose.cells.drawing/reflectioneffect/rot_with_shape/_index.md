@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rot_with_shape propriété
 
-Obtient et définit si la réflexion doit pivoter avec la forme.
+Obtient et définit si la réflexion doit tourner avec la forme.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def rot_with_shape(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ReflectionEffect](/cells/python-net/fr/aspose.cells.drawing/reflectioneffect)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ReflectionEffect`](/cells/python-net/fr/aspose.cells.drawing/reflectioneffect)

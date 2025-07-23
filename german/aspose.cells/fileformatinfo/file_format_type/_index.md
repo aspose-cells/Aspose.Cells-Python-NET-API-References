@@ -18,6 +18,6 @@ def file_format_type(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FileFormatInfo](/cells/python-net/de/aspose.cells/fileformatinfo)
-* Klasse [FileFormatType](/cells/python-net/de/aspose.cells/fileformattype)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FileFormatInfo`](/cells/python-net/de/aspose.cells/fileformatinfo)
+* Klasse [`FileFormatType`](/cells/python-net/de/aspose.cells/fileformattype)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  points Eigentum
 
-Ruft points im Pfadsegment ab
+Ruft die points im Pfadsegment ab
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def points(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ShapePathPointCollection](/cells/python-net/de/aspose.cells.drawing/shapepathpointcollection)
-* Klasse [ShapeSegmentPath](/cells/python-net/de/aspose.cells.drawing/shapesegmentpath)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ShapePathPointCollection`](/cells/python-net/de/aspose.cells.drawing/shapepathpointcollection)
+* Klasse [`ShapeSegmentPath`](/cells/python-net/de/aspose.cells.drawing/shapesegmentpath)

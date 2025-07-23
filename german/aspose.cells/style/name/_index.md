@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name Eigentum
 
-Ruft die name des Stils ab oder legt diese fest.
+Ruft die name des Stils ab oder legt sie fest.
 ###  Definition:
 ```python
 @property

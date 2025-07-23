@@ -7,13 +7,14 @@ weight: 130
 url: /de/aspose.cells/pagesetup/set_even_footer/
 is_root: false
 ---
-##  set_even_footer(section, footer_script) {#int-str}
-Legt ein Skript fest, das die gerade Seitenfußzeile einer Excel-Datei formatiert.
-Nur in Excel 2007 wirksam, wenn IsHFDiffOddEven wahr ist.
+##  set_even_footer(self, section, footer_script) {#int-str}
+Legt ein Skript fest, das die Fußzeile einer Excel-Datei formatiert.
+Wirkt sich nur in Excel 2007 aus, wenn IsHFDiffOddEven wahr ist.
 
 
 
 ```python
+
 def set_even_footer(self, section, footer_script):
     ...
 ```
@@ -21,11 +22,11 @@ def set_even_footer(self, section, footer_script):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| section | int | 0: Linker Abschnitt, 1: Mittlerer Abschnitt, 2: Rechter Abschnitt.|
-| footer_script | str | Skript für das Fußzeilenformat.|
+| section | int |0: Linker Abschnitt, 1: Mittlerer Abschnitt, 2: Rechter Abschnitt.|
+| footer_script | str | Skript zum Fußzeilenformat.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

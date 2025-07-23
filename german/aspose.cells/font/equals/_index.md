@@ -7,16 +7,17 @@ weight: 20
 url: /de/aspose.cells/font/equals/
 is_root: false
 ---
-##  equals(font) {#Font}
+##  equals(self, font) {#aspose.cells.Font}
 Überprüft, ob zwei Schriftarten equals sind.
 
 
 ###  Kehrt zurück
 
-True, wenn gleich dem verglichenen Schriftobjekt.
+Wahr, wenn gleich dem verglichenen Schriftartobjekt.
 
 
 ```python
+
 def equals(self, font):
     ...
 ```
@@ -24,10 +25,10 @@ def equals(self, font):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| font | [Font](/cells/python-net/de/aspose.cells/font) |Verglichenes Schriftobjekt.|
+| font | [`Font`](/cells/python-net/de/aspose.cells/font) | Font-Objekt verglichen.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Font](/cells/python-net/de/aspose.cells/font)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Font`](/cells/python-net/de/aspose.cells/font)

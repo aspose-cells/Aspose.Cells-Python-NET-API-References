@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_open Eigentum
 
-Wenn diese Eigenschaft wahr ist, wird die Lesezeichenliste erweitert, andernfalls wird sie zusammenbrechen.
+Wenn diese Eigenschaft wahr ist, wird das Lesezeichenverzeichnis erweitert, andernfalls wird es reduziert.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_open(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](../../)
-* Klasse [PdfBookmarkEntry](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry)
+* Modul [`aspose.cells.rendering`](../../)
+* Klasse [`PdfBookmarkEntry`](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry)

@@ -3,13 +3,13 @@ title: ignore_hidden_rows Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 170
+weight: 210
 url: /de/aspose.cells/pptxsaveoptions/ignore_hidden_rows/
 is_root: false
 ---
 ##  ignore_hidden_rows Eigentum
 
-Gibt an, ob ausgeblendete Zeilen beim Konvertieren von Excel in PowerPoint ignoriert werden.
+Gibt an, ob ausgeblendete Zeilen beim Konvertieren von Excel in PowerPoint ignoriert werden sollen.
 ###  Definition:
 ```python
 @property

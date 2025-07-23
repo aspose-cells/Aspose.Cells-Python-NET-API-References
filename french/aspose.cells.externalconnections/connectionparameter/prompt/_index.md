@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  prompt propriété
 
- Chaîne d'invite pour le paramètre. Présenté à l'utilisateur de la feuille de calcul avec l'interface utilisateur d'entrée
+ Chaîne d'invite pour le paramètre. Présentée à l'utilisateur de la feuille de calcul avec l'interface de saisie.
  pour collecter la valeur du paramètre avant d'actualiser les données externes. Utilisé uniquement lorsque
 paramètreType = prompt.
 ###  Définition:
@@ -23,5 +23,5 @@ def prompt(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.externalconnections](../../)
-* classe [ConnectionParameter](/cells/python-net/fr/aspose.cells.externalconnections/connectionparameter)
+* module [`aspose.cells.externalconnections`](../../)
+* classe [`ConnectionParameter`](/cells/python-net/fr/aspose.cells.externalconnections/connectionparameter)

@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  owner_password propriété
 
-Obtient ou définit le mot de passe du propriétaire du document PDF chiffré.
+Obtient ou définit le mot de passe du propriétaire pour le document crypté PDF.
 
 ###  Remarques
 
-Le mot de passe propriétaire permet à l'utilisateur d'ouvrir un document crypté PDF sans aucune restriction d'accès spécifiée.
+Le mot de passe du propriétaire permet à l'utilisateur d'ouvrir un document crypté PDF sans aucune restriction d'accès spécifiée.
 ###  Définition:
 ```python
 @property

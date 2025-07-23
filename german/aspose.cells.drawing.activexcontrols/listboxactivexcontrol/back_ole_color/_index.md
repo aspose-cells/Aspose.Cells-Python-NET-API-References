@@ -8,8 +8,6 @@ url: /de/aspose.cells.drawing.activexcontrols/listboxactivexcontrol/back_ole_col
 is_root: false
 ---
 ##  back_ole_color Eigentum
-
-Ruft die Ole-Farbe des Hintergrunds ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def back_ole_color(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [ListBoxActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`ListBoxActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

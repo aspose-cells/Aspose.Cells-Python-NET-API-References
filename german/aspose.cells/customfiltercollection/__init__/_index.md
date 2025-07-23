@@ -7,12 +7,13 @@ weight: 10
 url: /de/aspose.cells/customfiltercollection/__init__/
 is_root: false
 ---
-##  __drin__ {#}
-Konstruiert eine neue Instanz.
+##  \_\_init\_\_(selbst){#}
+Erstellt eine neue Instanz.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

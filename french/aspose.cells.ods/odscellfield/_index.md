@@ -19,10 +19,10 @@ Le type OdsCellField expose les membres suivants :
 | :- | :- |
 | [custom_format](/cells/python-net/fr/aspose.cells.ods/odscellfield/custom_format) | Représente le format personnalisé de la valeur du champ.|
 | [field_type](/cells/python-net/fr/aspose.cells.ods/odscellfield/field_type) | Obtient et définit le type du champ.|
-| [row](/cells/python-net/fr/aspose.cells.ods/odscellfield/row) | Obtient et définit l'index de ligne de la cellule.|
-| [column](/cells/python-net/fr/aspose.cells.ods/odscellfield/column) | Obtient et définit l'index de colonne de la cellule.|
+| [row](/cells/python-net/fr/aspose.cells.ods/odscellfield/row) | Obtenir et définir l'index de ligne de la cellule.|
+| [column](/cells/python-net/fr/aspose.cells.ods/odscellfield/column) |Obtenir et définir l'index de colonne de la cellule.|
 
 
 
 ###  Voir également
-* module [aspose.cells.ods](..)
+* module [`aspose.cells.ods`](..)

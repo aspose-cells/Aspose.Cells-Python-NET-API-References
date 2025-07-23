@@ -3,12 +3,12 @@ title: ViewType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2740
+weight: 2710
 url: /fr/aspose.cells/viewtype/
 is_root: false
 ---
 ##  ViewType énumération
-Représente le type d'affichage de la feuille de calcul.
+Représente le type de vue de la feuille de calcul.
 
 
 

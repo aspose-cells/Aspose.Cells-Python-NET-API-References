@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  area propriété
 
-Représente l'arrière-plan area de l'objet Series.
+Représente l'arrière-plan area de l'objet Série.
 ###  Définition:
 ```python
 @property
@@ -18,6 +18,6 @@ def area(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Area](/cells/python-net/fr/aspose.cells.drawing/area)
-* classe [Series](/cells/python-net/fr/aspose.cells.charts/series)
+* module [`aspose.cells.charts`](../../)
+* classe [`Area`](/cells/python-net/fr/aspose.cells.drawing/area)
+* classe [`Series`](/cells/python-net/fr/aspose.cells.charts/series)

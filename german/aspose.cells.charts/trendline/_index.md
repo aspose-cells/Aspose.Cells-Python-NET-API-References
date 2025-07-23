@@ -22,40 +22,40 @@ Der Typ Trendline macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [compound_type](/cells/python-net/de/aspose.cells.charts/trendline/compound_type) | Gibt den Typ der zusammengesetzten Linie an|
+| [compound_type](/cells/python-net/de/aspose.cells.charts/trendline/compound_type) | Gibt den zusammengesetzten Linientyp an|
 | [dash_type](/cells/python-net/de/aspose.cells.charts/trendline/dash_type) | Gibt den Strichlinientyp an|
-| [cap_type](/cells/python-net/de/aspose.cells.charts/trendline/cap_type) |Gibt die Endkappen an.|
-| [join_type](/cells/python-net/de/aspose.cells.charts/trendline/join_type) | Gibt die Verbindungsobergrenzen an.|
-| [begin_type](/cells/python-net/de/aspose.cells.charts/trendline/begin_type) | Gibt eine Pfeilspitze für den Anfang einer Linie an.|
-| [end_type](/cells/python-net/de/aspose.cells.charts/trendline/end_type) | Gibt eine Pfeilspitze für das Ende einer Linie an.|
-| [begin_arrow_length](/cells/python-net/de/aspose.cells.charts/trendline/begin_arrow_length) | Gibt die Länge der Pfeilspitze für den Anfang einer Linie an.|
+| [cap_type](/cells/python-net/de/aspose.cells.charts/trendline/cap_type) | Gibt die Endkappen an.|
+| [join_type](/cells/python-net/de/aspose.cells.charts/trendline/join_type) | Gibt die Verbindungskappen an.|
+| [begin_type](/cells/python-net/de/aspose.cells.charts/trendline/begin_type) | Gibt eine Pfeilspitze für den Anfang einer Zeile an.|
+| [end_type](/cells/python-net/de/aspose.cells.charts/trendline/end_type) | Gibt eine Pfeilspitze für das Ende einer Zeile an.|
+| [begin_arrow_length](/cells/python-net/de/aspose.cells.charts/trendline/begin_arrow_length) | Gibt die Länge der Pfeilspitze für den Beginn einer Linie an.|
 | [end_arrow_length](/cells/python-net/de/aspose.cells.charts/trendline/end_arrow_length) | Gibt die Länge der Pfeilspitze für das Ende einer Linie an.|
 | [begin_arrow_width](/cells/python-net/de/aspose.cells.charts/trendline/begin_arrow_width) | Gibt die Breite der Pfeilspitze für den Anfang einer Linie an.|
 | [end_arrow_width](/cells/python-net/de/aspose.cells.charts/trendline/end_arrow_width) | Gibt die Breite der Pfeilspitze für das Ende einer Linie an.|
 | [theme_color](/cells/python-net/de/aspose.cells.charts/trendline/theme_color) | Ruft die Designfarbe ab und legt sie fest.|
 | [color](/cells/python-net/de/aspose.cells.charts/trendline/color) | Stellt die Farbe der Linie dar.|
-| [transparency](/cells/python-net/de/aspose.cells.charts/trendline/transparency) | Gibt den Grad der Transparenz der Linie als Wert von 0,0 (undurchsichtig) bis 1,0 (klar) zurück oder legt ihn fest.|
+| [transparency](/cells/python-net/de/aspose.cells.charts/trendline/transparency) | Gibt den Transparenzgrad der Linie als Wert zwischen 0,0 (undurchsichtig) und 1,0 (transparent) zurück oder legt ihn fest.|
 | [style](/cells/python-net/de/aspose.cells.charts/trendline/style) | Stellt den Stil der Linie dar.|
-| [weight](/cells/python-net/de/aspose.cells.charts/trendline/weight) | Ruft die [`WeightType`](/cells/python-net/de/aspose.cells.drawing/weighttype) der Zeile ab oder legt diese fest.|
-| [weight_pt](/cells/python-net/de/aspose.cells.charts/trendline/weight_pt) | Ruft die Stärke der Linie in Punkteinheiten ab oder legt diese fest.|
-| [weight_px](/cells/python-net/de/aspose.cells.charts/trendline/weight_px) | Ruft die Stärke der Linie in Pixeleinheiten ab oder legt diese fest.|
+| [weight](/cells/python-net/de/aspose.cells.charts/trendline/weight) | Ruft die [`WeightType`](/cells/python-net/de/aspose.cells.drawing/weighttype) der Zeile ab oder legt sie fest.|
+| [weight_pt](/cells/python-net/de/aspose.cells.charts/trendline/weight_pt) |Ruft die Linienstärke in Punkten ab oder legt sie fest.|
+| [weight_px](/cells/python-net/de/aspose.cells.charts/trendline/weight_px) | Ruft die Linienstärke in Pixeln ab oder legt sie fest.|
 | [formatting_type](/cells/python-net/de/aspose.cells.charts/trendline/formatting_type) | Ruft den Formattyp ab oder legt ihn fest.|
-| [is_automatic_color](/cells/python-net/de/aspose.cells.charts/trendline/is_automatic_color) | Gibt an, ob die Farbe der Linie automatisch zugewiesen wird.|
+| [is_automatic_color](/cells/python-net/de/aspose.cells.charts/trendline/is_automatic_color) | Gibt an, ob die Linienfarbe automatisch zugewiesen wird.|
 | [is_visible](/cells/python-net/de/aspose.cells.charts/trendline/is_visible) | Gibt an, ob die Linie sichtbar ist.|
-| [is_auto](/cells/python-net/de/aspose.cells.charts/trendline/is_auto) |Gibt an, ob dieser Linienstil automatisch zugewiesen wird.|
+| [is_auto](/cells/python-net/de/aspose.cells.charts/trendline/is_auto) | Gibt an, ob dieser Linienstil automatisch zugewiesen wird.|
 | [gradient_fill](/cells/python-net/de/aspose.cells.charts/trendline/gradient_fill) | Stellt eine Verlaufsfüllung dar.|
-| [is_name_auto](/cells/python-net/de/aspose.cells.charts/trendline/is_name_auto) | Gibt zurück, wenn Microsoft. Excel ermittelt automatisch den Namen der Trendlinie.|
+| [is_name_auto](/cells/python-net/de/aspose.cells.charts/trendline/is_name_auto) | Gibt zurück, wenn Microsoft. Excel bestimmt automatisch den Namen der Trendlinie.|
 | [type](/cells/python-net/de/aspose.cells.charts/trendline/type) | Gibt den Trendlinientyp zurück.|
 | [name](/cells/python-net/de/aspose.cells.charts/trendline/name) | Gibt den Namen der Trendlinie zurück.|
-| [order](/cells/python-net/de/aspose.cells.charts/trendline/order) | Gibt die Trendlinienreihenfolge (eine Ganzzahl größer als 1) zurück oder legt sie fest, wenn der Trendlinientyp Polynom ist.<br/>Die Reihenfolge muss zwischen 2 und 6 liegen.|
-| [period](/cells/python-net/de/aspose.cells.charts/trendline/period) | Gibt den Zeitraum für die Trendlinie des gleitenden Durchschnitts zurück oder legt diesen fest.|
-| [forward](/cells/python-net/de/aspose.cells.charts/trendline/forward) | Gibt die Anzahl der Perioden (oder Einheiten in einem Streudiagramm) zurück, um die sich die Trendlinie nach vorne erstreckt, oder legt sie fest.<br/> Die Anzahl der Perioden muss größer oder gleich Null sein.|
-| [backward](/cells/python-net/de/aspose.cells.charts/trendline/backward) | Gibt die Anzahl der Perioden (oder Einheiten in einem Streudiagramm) zurück, um die sich die Trendlinie nach hinten erstreckt, oder legt sie fest.<br/>Die Anzahl der Perioden muss größer oder gleich Null sein.<br/> Wenn es sich beim Diagrammtyp um eine Spalte handelt, muss die Anzahl der Perioden zwischen 0 und 0,5 liegen|
-| [display_equation](/cells/python-net/de/aspose.cells.charts/trendline/display_equation) | Stellt dar, ob die Gleichung für die Trendlinie im Diagramm angezeigt wird (in derselben Datenbeschriftung wie der R-Quadrat-Wert). Wenn Sie diese Eigenschaft auf „True“ setzen, werden Datenbeschriftungen automatisch aktiviert.|
-| [display_r_squared](/cells/python-net/de/aspose.cells.charts/trendline/display_r_squared) | Stellt dar, ob der R-Quadrat-Wert der Trendlinie im Diagramm angezeigt wird (in derselben Datenbeschriftung wie die Gleichung). Wenn Sie diese Eigenschaft auf „True“ setzen, werden Datenbeschriftungen automatisch aktiviert.|
-| [intercept](/cells/python-net/de/aspose.cells.charts/trendline/intercept) | Gibt den Punkt zurück, an dem die Trendlinie die Werteachse schneidet, oder legt diesen fest.|
-| [data_labels](/cells/python-net/de/aspose.cells.charts/trendline/data_labels) |Stellt das DataLabels-Objekt für die angegebene Serie dar.|
-| [legend_entry](/cells/python-net/de/aspose.cells.charts/trendline/legend_entry) | Ruft den Legendeneintrag gemäß dieser Trendlinie ab|
+| [order](/cells/python-net/de/aspose.cells.charts/trendline/order) | Gibt die Trendlinienreihenfolge (eine Ganzzahl größer als 1) zurück oder legt sie fest, wenn der Trendlinientyp „Polynom“ ist.<br/> Die Reihenfolge muss zwischen 2 und 6 liegen.|
+| [period](/cells/python-net/de/aspose.cells.charts/trendline/period) | Gibt den Zeitraum für die gleitende Durchschnittstrendlinie zurück oder legt ihn fest.|
+| [forward](/cells/python-net/de/aspose.cells.charts/trendline/forward) | Gibt die Anzahl der Perioden (oder Einheiten in einem Streudiagramm) zurück, um die sich die Trendlinie nach vorne erstreckt, oder legt diese fest.<br/> Die Anzahl der Perioden muss größer oder gleich Null sein.|
+| [backward](/cells/python-net/de/aspose.cells.charts/trendline/backward) | Gibt die Anzahl der Perioden (oder Einheiten in einem Streudiagramm) zurück, um die sich die Trendlinie nach hinten erstreckt, oder legt diese fest.<br/>Die Anzahl der Perioden muss größer oder gleich Null sein.<br/> Wenn der Diagrammtyp ein Säulendiagramm ist, muss die Anzahl der Perioden zwischen 0 und 0,5 liegen.|
+| [display_equation](/cells/python-net/de/aspose.cells.charts/trendline/display_equation) |Gibt an, ob die Gleichung für die Trendlinie im Diagramm angezeigt wird (in derselben Datenbeschriftung wie der R-Quadrat-Wert). Wenn Sie diese Eigenschaft auf „True“ setzen, werden Datenbeschriftungen automatisch aktiviert.|
+| [display_r_squared](/cells/python-net/de/aspose.cells.charts/trendline/display_r_squared) | Gibt an, ob der R-Quadrat-Wert der Trendlinie im Diagramm angezeigt wird (in derselben Datenbeschriftung wie die Gleichung). Wenn Sie diese Eigenschaft auf „True“ setzen, werden Datenbeschriftungen automatisch aktiviert.|
+| [intercept](/cells/python-net/de/aspose.cells.charts/trendline/intercept) | Gibt den Punkt zurück oder legt ihn fest, an dem die Trendlinie die Werteachse schneidet.|
+| [data_labels](/cells/python-net/de/aspose.cells.charts/trendline/data_labels) | Stellt das DataLabels-Objekt für die angegebene Reihe dar.|
+| [legend_entry](/cells/python-net/de/aspose.cells.charts/trendline/legend_entry) | Ruft den Legendeneintrag entsprechend dieser Trendlinie ab|
 
 
 

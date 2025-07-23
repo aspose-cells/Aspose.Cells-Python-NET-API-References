@@ -1,13 +1,13 @@
 ---
-title: MsoDrawingType dénombrement
+title: MsoDrawingType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1000
+weight: 990
 url: /fr/aspose.cells.drawing/msodrawingtype/
 is_root: false
 ---
-##  MsoDrawingType dénombrement
+##  MsoDrawingType énumération
 Représente le type d'objets de dessin de bureau.
 
 
@@ -20,7 +20,7 @@ Le type MsoDrawingType expose les membres suivants :
 | GROUP | Groupe|
 | LINE | Doubler|
 | RECTANGLE | Rectangle|
-| OVAL | ovale|
+| OVAL | Ovale|
 | ARC | Arc|
 | CHART | Graphique|
 | TEXT_BOX | Zone de texte|
@@ -29,13 +29,13 @@ Le type MsoDrawingType expose les membres suivants :
 | POLYGON | Polygone|
 | CHECK_BOX | Case à cocher|
 | RADIO_BUTTON | Bouton radio|
-| LABEL | Étiqueter|
-| DIALOG_BOX | Boite de dialogue|
+| LABEL | Étiquette|
+| DIALOG_BOX | Boîte de dialogue|
 | SPINNER | Fileur|
 | SCROLL_BAR | Barre de défilement|
-| LIST_BOX | Zone de liste|
+| LIST_BOX | Liste déroulante|
 | GROUP_BOX | GroupBox|
-| COMBO_BOX | Boîte combo|
+| COMBO_BOX | ComboBox|
 | COMMENT | Commentaire|
 | OLE_OBJECT | OleObject|
 | CELLS_DRAWING | Uniquement pour conserver l'objet de dessin dans le fichier modèle.|
@@ -43,11 +43,11 @@ Le type MsoDrawingType expose les membres suivants :
 | SLICER | Trancheuse|
 | WEB_EXTENSION | Extension Web|
 | SMART_ART | Art intelligent|
-| CUSTOM_XML | Forme xml personnalisée, telle que Ink.|
-| TIMELINE | Calendrier|
-| MODEL_3D | modèle 3D|
+| CUSTOM_XML | Forme XML personnalisée, telle que Ink.|
+| TIMELINE | Chronologie|
+| MODEL_3D | Modèle 3D|
 
 
 
 ###  Voir également
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

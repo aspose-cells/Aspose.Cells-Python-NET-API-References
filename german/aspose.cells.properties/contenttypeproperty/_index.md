@@ -8,7 +8,7 @@ url: /de/aspose.cells.properties/contenttypeproperty/
 is_root: false
 ---
 ##  ContentTypeProperty Klasse
-Stellt Kennungsinformationen dar.
+Stellt Identifikationsinformationen dar.
 
 
 
@@ -18,7 +18,7 @@ Der Typ ContentTypeProperty macht die folgenden Member verfügbar:
 | Eigentum| Beschreibung|
 | :- | :- |
 | [name](/cells/python-net/de/aspose.cells.properties/contenttypeproperty/name) | Gibt den Namen des Objekts zurück oder legt ihn fest.|
-| [value](/cells/python-net/de/aspose.cells.properties/contenttypeproperty/value) | Gibt den Wert der Eigenschaft des Inhaltstyps zurück oder legt ihn fest.|
+| [value](/cells/python-net/de/aspose.cells.properties/contenttypeproperty/value) | Gibt den Wert der Inhaltstyp-Eigenschaft zurück oder legt ihn fest.|
 | [type](/cells/python-net/de/aspose.cells.properties/contenttypeproperty/type) | Ruft den Typ der Eigenschaft ab und legt ihn fest.|
 | [is_nillable](/cells/python-net/de/aspose.cells.properties/contenttypeproperty/is_nillable) | Gibt an, ob der Wert leer sein könnte.|
 
@@ -39,4 +39,4 @@ workbook.save("book1.xlsm")
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.properties](..)
+* Modul [`aspose.cells.properties`](..)

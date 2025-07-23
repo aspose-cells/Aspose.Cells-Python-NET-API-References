@@ -8,8 +8,6 @@ url: /de/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/mouse_pointe
 is_root: false
 ---
 ##  mouse_pointer Eigentum
-
-Ruft den Symboltyp ab, der als Mauszeiger für das Steuerelement angezeigt wird, und legt diesen fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +19,6 @@ def mouse_pointer(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [ControlMousePointerType](/cells/python-net/de/aspose.cells.drawing.activexcontrols/controlmousepointertype)
-* Klasse [TextBoxActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`ControlMousePointerType`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/controlmousepointertype)
+* Klasse [`TextBoxActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value1 Eigentum
 
-Stellt den ersten Wert dar, der der Datenvalidierung zugeordnet ist.
+Stellt den ersten mit der Datenvalidierung verknüpften Wert dar.
 ###  Definition:
 ```python
 @property

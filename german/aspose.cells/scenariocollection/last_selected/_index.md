@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  last_selected Eigentum
 
-Zeigt an, welches Szenario zuletzt vom Benutzer zur Ausführung/Anzeige ausgewählt wurde.
+Gibt an, welches Szenario vom Benutzer zuletzt zur Ausführung/Anzeige ausgewählt wurde.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def last_selected(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ScenarioCollection](/cells/python-net/de/aspose.cells/scenariocollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ScenarioCollection`](/cells/python-net/de/aspose.cells/scenariocollection)

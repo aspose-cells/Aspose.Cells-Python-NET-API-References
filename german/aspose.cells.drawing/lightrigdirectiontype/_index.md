@@ -3,12 +3,12 @@ title: LightRigDirectionType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 910
+weight: 900
 url: /de/aspose.cells.drawing/lightrigdirectiontype/
 is_root: false
 ---
 ##  LightRigDirectionType Aufzählung
-Repräsentiert den Richtungstyp des leichten Rigs.
+Stellt den Richtungstyp der Lichtanlage dar.
 
 
 
@@ -17,7 +17,7 @@ Der Typ LightRigDirectionType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| BOTTOM | Unterseite|
+| BOTTOM | Unten|
 | BOTTOM_LEFT | Unten links.|
 | BOTTOM_RIGHT | Unten rechts.|
 | LEFT | Links.|
@@ -29,4 +29,4 @@ Der Typ LightRigDirectionType macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](..)
+* Modul [`aspose.cells.drawing`](..)

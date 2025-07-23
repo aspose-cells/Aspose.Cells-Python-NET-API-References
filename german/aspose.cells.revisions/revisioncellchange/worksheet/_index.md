@@ -8,8 +8,6 @@ url: /de/aspose.cells.revisions/revisioncellchange/worksheet/
 is_root: false
 ---
 ##  worksheet Eigentum
-
-Ruft die worksheet ab.
 ###  Definition:
 ```python
 @property
@@ -18,6 +16,6 @@ def worksheet(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.revisions](../../)
-* Klasse [RevisionCellChange](/cells/python-net/de/aspose.cells.revisions/revisioncellchange)
-* Klasse [Worksheet](/cells/python-net/de/aspose.cells/worksheet)
+* Modul [`aspose.cells.revisions`](../../)
+* Klasse [`RevisionCellChange`](/cells/python-net/de/aspose.cells.revisions/revisioncellchange)
+* Klasse [`Worksheet`](/cells/python-net/de/aspose.cells/worksheet)

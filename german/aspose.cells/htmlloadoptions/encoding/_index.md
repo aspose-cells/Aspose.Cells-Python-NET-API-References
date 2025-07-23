@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  encoding Eigentum
 
-Ruft den Standardwert encoding ab und legt ihn fest. Gilt nur für CSV-Datei.
+Ruft den Standardwert encoding ab und legt ihn fest. Gilt nur für CSV-Dateien.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def encoding(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [HtmlLoadOptions](/cells/python-net/de/aspose.cells/htmlloadoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`HtmlLoadOptions`](/cells/python-net/de/aspose.cells/htmlloadoptions)

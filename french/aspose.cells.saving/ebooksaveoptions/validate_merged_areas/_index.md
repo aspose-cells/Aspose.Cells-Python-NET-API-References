@@ -3,17 +3,17 @@ title: validate_merged_areas propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 700
+weight: 790
 url: /fr/aspose.cells.saving/ebooksaveoptions/validate_merged_areas/
 is_root: false
 ---
 ##  validate_merged_areas propriété
 
-Indique si vous validez les cellules fusionnées avant d'enregistrer le fichier.
+Indique si les cellules fusionnées doivent être validées avant d'enregistrer le fichier.
 
 ###  Remarques
 
-La valeur par défaut est fausse.
+La valeur par défaut est false.
 ###  Définition:
 ```python
 @property

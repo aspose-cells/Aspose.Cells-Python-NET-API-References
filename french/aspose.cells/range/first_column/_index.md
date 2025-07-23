@@ -3,7 +3,7 @@ title: first_column propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 320
+weight: 420
 url: /fr/aspose.cells/range/first_column/
 is_root: false
 ---

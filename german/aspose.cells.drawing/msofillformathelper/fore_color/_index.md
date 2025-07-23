@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fore_color Eigentum
 
-Ruft die Füllvorderfarbe ab und legt sie fest.
+Ruft die Füllfarbe ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def fore_color(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [MsoFillFormatHelper](/cells/python-net/de/aspose.cells.drawing/msofillformathelper)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`MsoFillFormatHelper`](/cells/python-net/de/aspose.cells.drawing/msofillformathelper)

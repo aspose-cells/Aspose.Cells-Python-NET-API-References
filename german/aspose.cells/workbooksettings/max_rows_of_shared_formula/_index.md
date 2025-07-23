@@ -3,13 +3,13 @@ title: max_rows_of_shared_formula Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 320
+weight: 350
 url: /de/aspose.cells/workbooksettings/max_rows_of_shared_formula/
 is_root: false
 ---
 ##  max_rows_of_shared_formula Eigentum
 
-Ruft die maximale Zeilenanzahl der gemeinsam genutzten Formel ab und legt diese fest.
+Ruft die maximale Zeilenanzahl der freigegebenen Formel ab und legt sie fest.
 
 ###  Bemerkungen
 

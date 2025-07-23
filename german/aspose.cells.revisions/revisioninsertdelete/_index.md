@@ -8,12 +8,11 @@ url: /de/aspose.cells.revisions/revisioninsertdelete/
 is_root: false
 ---
 ##  RevisionInsertDelete Klasse
-Stellt einen Revisionsdatensatz einer Aktion zum Einfügen/Löschen von Zeilen/Spalten dar.
+Stellt einen Revisionsdatensatz einer Zeilen-/Spalteneinfüge-/Löschaktion dar.
 
 
 
-**Nachlass:** [RevisionInsertDelete](/cells/python-net/aspose.cells.revisions/revisioninsertdelete) → 
-[Revision](/cells/python-net/de/aspose.cells.revisions/revision)
+**Nachlass:** [`RevisionInsertDelete`](/cells/python-net/de/aspose.cells.revisions/revisioninsertdelete)
 
 
 
@@ -23,15 +22,14 @@ Der Typ RevisionInsertDelete macht die folgenden Member verfügbar:
 | Eigentum| Beschreibung|
 | :- | :- |
 | [type](/cells/python-net/de/aspose.cells.revisions/revisioninsertdelete/type) | Stellt den Revisionstyp dar.|
-| [worksheet](/cells/python-net/de/aspose.cells.revisions/revisioninsertdelete/worksheet) | Ruft das Arbeitsblatt ab.|
-| [id](/cells/python-net/de/aspose.cells.revisions/revisioninsertdelete/id) | Ruft die Nummer dieser Revision ab.|
+| [worksheet](/cells/python-net/de/aspose.cells.revisions/revisioninsertdelete/worksheet) |  |
+| [id](/cells/python-net/de/aspose.cells.revisions/revisioninsertdelete/id) |  |
 | [cell_area](/cells/python-net/de/aspose.cells.revisions/revisioninsertdelete/cell_area) | Ruft den Einfüge-/Löschbereich ab.|
 | [action_type](/cells/python-net/de/aspose.cells.revisions/revisioninsertdelete/action_type) | Ruft den Aktionstyp dieser Revision ab.|
-| [revisions](/cells/python-net/de/aspose.cells.revisions/revisioninsertdelete/revisions) | Ruft die Revisionsliste durch diese Operation ab.|
+| [revisions](/cells/python-net/de/aspose.cells.revisions/revisioninsertdelete/revisions) | Ruft durch diesen Vorgang eine Revisionsliste ab.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.revisions](..)
-* Klasse [Revision](/cells/python-net/de/aspose.cells.revisions/revision)
-* Klasse [RevisionInsertDelete](/cells/python-net/de/aspose.cells.revisions/revisioninsertdelete)
+* Modul [`aspose.cells.revisions`](..)
+* Klasse [`RevisionInsertDelete`](/cells/python-net/de/aspose.cells.revisions/revisioninsertdelete)

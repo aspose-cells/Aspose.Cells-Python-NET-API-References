@@ -3,13 +3,13 @@ title: left_inch Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 700
+weight: 710
 url: /de/aspose.cells.drawing/cellsdrawing/left_inch/
 is_root: false
 ---
 ##  left_inch Eigentum
 
-Stellt den horizontalen Versatz der Form von ihrer linken Spalte in der Einheit Zoll dar.
+Stellt den horizontalen Versatz der Form von ihrer linken Spalte in Zoll dar.
 
 ###  Beispiel
 

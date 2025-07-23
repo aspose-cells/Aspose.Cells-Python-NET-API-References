@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text_horizontal_alignment Eigentum
 
-Ruft den horizontalen Textausrichtungstyp des Kommentars ab und legt diesen fest.
+Ruft den horizontalen Textausrichtungstyp des Kommentars ab und legt ihn fest.
 
 ###  Beispiel
 

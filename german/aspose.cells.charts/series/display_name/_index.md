@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_name Eigentum
 
-Ruft den Namen der Reihe ab, der im Diagrammdiagramm angezeigt wird.
+Ruft den Namen der Serie ab, der im Diagramm angezeigt wird.
 ###  Definition:
 ```python
 @property

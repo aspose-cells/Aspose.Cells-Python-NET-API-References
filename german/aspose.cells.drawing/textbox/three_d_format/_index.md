@@ -3,7 +3,7 @@ title: three_d_format Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1050
+weight: 1060
 url: /de/aspose.cells.drawing/textbox/three_d_format/
 is_root: false
 ---

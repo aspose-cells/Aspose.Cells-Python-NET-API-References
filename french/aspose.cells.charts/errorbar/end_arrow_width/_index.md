@@ -21,6 +21,6 @@ def end_arrow_width(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [ErrorBar](/cells/python-net/fr/aspose.cells.charts/errorbar)
-* classe [MsoArrowheadWidth](/cells/python-net/fr/aspose.cells.drawing/msoarrowheadwidth)
+* module [`aspose.cells.charts`](../../)
+* classe [`ErrorBar`](/cells/python-net/fr/aspose.cells.charts/errorbar)
+* classe [`MsoArrowheadWidth`](/cells/python-net/fr/aspose.cells.drawing/msoarrowheadwidth)

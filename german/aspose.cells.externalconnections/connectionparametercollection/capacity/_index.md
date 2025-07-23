@@ -3,7 +3,7 @@ title: capacity Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 70
+weight: 80
 url: /de/aspose.cells.externalconnections/connectionparametercollection/capacity/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.externalconnections](../../)
-* Klasse [ConnectionParameterCollection](/cells/python-net/de/aspose.cells.externalconnections/connectionparametercollection)
+* Modul [`aspose.cells.externalconnections`](../../)
+* Klasse [`ConnectionParameterCollection`](/cells/python-net/de/aspose.cells.externalconnections/connectionparametercollection)

@@ -3,7 +3,7 @@ title: UnknownControl Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 140
+weight: 120
 url: /de/aspose.cells.drawing.activexcontrols/unknowncontrol/
 is_root: false
 ---
@@ -12,9 +12,7 @@ Unbekannte Kontrolle.
 
 
 
-**Nachlass:** [UnknownControl](/cells/python-net/aspose.cells.drawing.activexcontrols/unknowncontrol) → 
-[ActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol) → 
-[ActiveXControlBase](/cells/python-net/de/aspose.cells.drawing.activexcontrols/activexcontrolbase)
+**Nachlass:** [`UnknownControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol)
 
 
 
@@ -23,38 +21,35 @@ Der Typ UnknownControl macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [workbook](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/workbook) | Ruft das [ActiveXControlBase.workbook](/cells/python-net/de/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook)-Objekt ab.|
+| [workbook](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/workbook) |  |
 | [type](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/type) | Ruft den Typ des ActiveX-Steuerelements ab.|
-| [width](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/width) |Ruft die Breite des Steuerelements in Punkteinheiten ab und legt sie fest.|
-| [height](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/height) | Ruft die Höhe des Steuerelements in Punkteinheiten ab und legt sie fest.|
-| [mouse_icon](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/mouse_icon) | Ruft ein benutzerdefiniertes Symbol ab und legt es fest, das als Mauszeiger für das Steuerelement angezeigt wird.|
-| [mouse_pointer](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/mouse_pointer) | Ruft den Symboltyp ab, der als Mauszeiger für das Steuerelement angezeigt wird, und legt diesen fest.|
-| [fore_ole_color](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/fore_ole_color) | Ruft die alte Farbe des Vordergrunds ab und legt sie fest.|
-| [back_ole_color](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/back_ole_color) | Ruft die Ole-Farbe des Hintergrunds ab und legt sie fest.|
-| [is_visible](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/is_visible) | Gibt an, ob dieses Steuerelement sichtbar ist.|
-| [shadow](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/shadow) | Gibt an, ob ein Schatten angezeigt werden soll.|
-| [linked_cell](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/linked_cell) | Ruft die verknüpfte Zelle ab und legt sie fest.|
-| [list_fill_range](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/list_fill_range) | Ruft den Füllbereich der Liste ab und legt ihn fest.|
+| [width](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/width) |  |
+| [height](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/height) |  |
+| [mouse_icon](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/mouse_icon) |  |
+| [mouse_pointer](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/mouse_pointer) |  |
+| [fore_ole_color](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/fore_ole_color) |  |
+| [back_ole_color](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/back_ole_color) |  |
+| [is_visible](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/is_visible) |  |
+| [shadow](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/shadow) |  |
+| [linked_cell](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/linked_cell) |  |
+| [list_fill_range](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/list_fill_range) |  |
 | [data](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/data) | Ruft die Binärdaten des Steuerelements ab und legt sie fest.|
-| [is_enabled](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/is_enabled) | Gibt an, ob das Steuerelement den Fokus erhalten und auf vom Benutzer generierte Ereignisse reagieren kann.|
-| [is_locked](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/is_locked) | Gibt an, ob Daten im Steuerelement zur Bearbeitung gesperrt sind.|
-| [is_transparent](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/is_transparent) | Gibt an, ob das Steuerelement transparent ist.|
-| [is_auto_size](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/is_auto_size) | Gibt an, ob die Größe des Steuerelements automatisch geändert wird, um seinen gesamten Inhalt anzuzeigen.|
-| [ime_mode](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/ime_mode) |Ruft den standardmäßigen Laufzeitmodus des Eingabemethoden-Editors für das Steuerelement ab und legt diesen fest, wenn es den Fokus erhält.|
-| [font](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/font) | Stellt die Schriftart des Steuerelements dar.|
-| [text_align](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/text_align) | Stellt dar, wie der vom Steuerelement verwendete Text ausgerichtet wird.|
-| [persistence_type](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/persistence_type) | Ruft die Persistenzmethode zum Beibehalten eines ActiveX-Steuerelements ab.|
+| [is_enabled](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/is_enabled) |  |
+| [is_locked](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/is_locked) |  |
+| [is_transparent](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/is_transparent) |  |
+| [is_auto_size](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/is_auto_size) |  |
+| [ime_mode](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/ime_mode) |  |
+| [font](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/font) |  |
+| [text_align](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/text_align) |  |
 
 
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [get_relationship_data(rel_id)](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/get_relationship_data/#str) | Ruft die zugehörigen Daten ab.|
+| [`get_relationship_data(self, rel_id)`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol/get_relationship_data/#str) | Ruft die zugehörigen Daten ab.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](..)
-* Klasse [ActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/activexcontrol)
-* Klasse [ActiveXControlBase](/cells/python-net/de/aspose.cells.drawing.activexcontrols/activexcontrolbase)
-* Klasse [UnknownControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](..)
+* Klasse [`UnknownControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  scroll_bars Eigentum
 
-Gibt an, ob das Steuerelement über vertikale Bildlaufleisten, horizontale Bildlaufleisten, beides oder keine verfügt.
+Gibt an, ob das Steuerelement vertikale Bildlaufleisten, horizontale Bildlaufleisten, beides oder keines von beiden hat.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def scroll_bars(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [ControlScrollBarType](/cells/python-net/de/aspose.cells.drawing.activexcontrols/controlscrollbartype)
-* Klasse [TextBoxActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`ControlScrollBarType`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/controlscrollbartype)
+* Klasse [`TextBoxActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

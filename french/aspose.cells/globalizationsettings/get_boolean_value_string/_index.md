@@ -1,5 +1,5 @@
 ---
-title: get_boolean_value_string méthode
+title: méthode get_boolean_value_string
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 40
 url: /fr/aspose.cells/globalizationsettings/get_boolean_value_string/
 is_root: false
 ---
-##  get_boolean_value_string(bv) {#bool}
+##  get_boolean_value_string(self, bv) {#bool}
 Obtient la valeur de la chaîne d'affichage pour la valeur booléenne de la cellule
 
 
 ###  Retour
 
-La valeur par défaut renvoie "TRUE" pour la valeur vraie et "FALSE" pour la valeur fausse.
+Par défaut, renvoie « TRUE » pour la valeur vraie et « FALSE » pour la valeur fausse.
 
 
 ```python
+
 def get_boolean_value_string(self, bv):
     ...
 ```
@@ -29,5 +30,5 @@ def get_boolean_value_string(self, bv):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [GlobalizationSettings](/cells/python-net/fr/aspose.cells/globalizationsettings)
+* module [`aspose.cells`](../../)
+* classe [`GlobalizationSettings`](/cells/python-net/fr/aspose.cells/globalizationsettings)

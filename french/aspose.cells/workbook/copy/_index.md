@@ -1,18 +1,19 @@
 ---
-title: copy méthode
+title: méthode copy
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 80
+weight: 90
 url: /fr/aspose.cells/workbook/copy/
 is_root: false
 ---
-##  copy(source) {#Workbook}
+##  copy(self, source) {#aspose.cells.Workbook}
 Copie les données d'un objet Workbook source.
 
 
 
 ```python
+
 def copy(self, source):
     ...
 ```
@@ -20,15 +21,16 @@ def copy(self, source):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| source | [Workbook](/cells/python-net/fr/aspose.cells/workbook) | Objet Workbook source.|
+| source | [`Workbook`](/cells/python-net/fr/aspose.cells/workbook) | Objet Classeur source.|
 
 
-##  copy(source, copy_options) {#Workbook-CopyOptions}
-Copie les données d'un objet Workbook source.
+##  copy(self, source, copy_options) {#aspose.cells.Workbook-aspose.cells.CopyOptions}
+Copie un autre objet Workbook.
 
 
 
 ```python
+
 def copy(self, source, copy_options):
     ...
 ```
@@ -36,11 +38,14 @@ def copy(self, source, copy_options):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| source | [Workbook](/cells/python-net/fr/aspose.cells/workbook) | Objet Workbook source.|
-| copy_options | [CopyOptions](/cells/python-net/fr/aspose.cells/copyoptions) |  |
+| source | [`Workbook`](/cells/python-net/fr/aspose.cells/workbook) | Objet Classeur source.|
+| copy_options | [`CopyOptions`](/cells/python-net/fr/aspose.cells/copyoptions) | Les options de copie d'un autre classeur.|
+###  Remarques
 
+Il est très simple de cloner un fichier Excel.
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Workbook](/cells/python-net/fr/aspose.cells/workbook)
+
+* module [`aspose.cells`](../../)
+* classe [`Workbook`](/cells/python-net/fr/aspose.cells/workbook)

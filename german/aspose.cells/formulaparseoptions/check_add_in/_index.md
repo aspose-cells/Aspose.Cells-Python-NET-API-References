@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  check_add_in Eigentum
 
-Ob Add-ins in bestehenden externen Links der aktuellen Arbeitsmappe auf benutzerdefinierte Funktion ohne externen Link prüfen.
-Der Standardwert ist wahr (wenn die benutzerdefinierte Funktion mit einem Add-in in vorhandenen externen Links übereinstimmt, dann nehmen Sie es als das Add-in).
+Ob Add-Ins in vorhandenen externen Links der aktuellen Arbeitsmappe auf benutzerdefinierte Funktionen ohne externen Link geprüft werden sollen.
+Der Standardwert ist „true“ (wenn die benutzerdefinierte Funktion mit einem Add-In in vorhandenen externen Links übereinstimmt, wird es als Add-In verwendet).
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def check_add_in(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FormulaParseOptions](/cells/python-net/de/aspose.cells/formulaparseoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FormulaParseOptions`](/cells/python-net/de/aspose.cells/formulaparseoptions)

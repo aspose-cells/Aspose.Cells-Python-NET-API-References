@@ -19,7 +19,7 @@ Le type AxisType expose les membres suivants :
 | :- | :- |
 | CATEGORY | Axe des catégories|
 | VALUE | Axe des valeurs|
-| SERIES | Axe série|
+| SERIES | Axe des séries|
 
 
 

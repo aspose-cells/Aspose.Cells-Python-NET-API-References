@@ -3,7 +3,7 @@ title: alternative_description Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 90
+weight: 100
 url: /de/aspose.cells.tables/listobject/alternative_description/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def alternative_description(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.tables](../../)
-* Klasse [ListObject](/cells/python-net/de/aspose.cells.tables/listobject)
+* Modul [`aspose.cells.tables`](../../)
+* Klasse [`ListObject`](/cells/python-net/de/aspose.cells.tables/listobject)

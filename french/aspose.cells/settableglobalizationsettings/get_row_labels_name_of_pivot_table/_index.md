@@ -7,7 +7,7 @@ weight: 180
 url: /fr/aspose.cells/settableglobalizationsettings/get_row_labels_name_of_pivot_table/
 is_root: false
 ---
-##  get_row_labels_name_of_pivot_table {#}
+##  get_row_labels_name_of_pivot_table(self) {#}
 Obtient le nom de l'étiquette « Étiquettes de ligne » dans le tableau croisé dynamique.
 
 
@@ -17,6 +17,7 @@ Le nom des étiquettes de ligne
 
 
 ```python
+
 def get_row_labels_name_of_pivot_table(self):
     ...
 ```
@@ -24,10 +25,10 @@ def get_row_labels_name_of_pivot_table(self):
 
 ###  Remarques
 
-REMARQUE : ce membre est désormais obsolète. Plutôt,
+REMARQUE : Ce membre est désormais obsolète. À la place,
 veuillez utiliser la méthode PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
- Ce bien sera supprimé 12 mois plus tard depuis décembre 2022.
-Le Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ Cette propriété sera supprimée 12 mois plus tard soit décembre 2022.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 
 
 ###  Voir également

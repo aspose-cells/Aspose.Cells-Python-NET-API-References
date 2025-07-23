@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  axis_position Eigentum
 
-Ruft die Position der Achse der Datenbalken ab, die durch eine bedingte Formatierungsregel angegeben ist, oder legt diese fest.
+Ruft die Position der Achse der Datenbalken ab oder legt sie fest, die durch eine Regel zur bedingten Formatierung angegeben wird.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def axis_position(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [DataBar](/cells/python-net/de/aspose.cells/databar)
-* Klasse [DataBarAxisPosition](/cells/python-net/de/aspose.cells/databaraxisposition)
+* Modul [`aspose.cells`](../../)
+* Klasse [`DataBar`](/cells/python-net/de/aspose.cells/databar)
+* Klasse [`DataBarAxisPosition`](/cells/python-net/de/aspose.cells/databaraxisposition)

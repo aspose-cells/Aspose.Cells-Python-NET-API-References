@@ -8,8 +8,6 @@ url: /de/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol/is_visible/
 is_root: false
 ---
 ##  is_visible Eigentum
-
-Gibt an, ob dieses Steuerelement sichtbar ist.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_visible(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [CheckBoxActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`CheckBoxActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

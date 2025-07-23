@@ -18,5 +18,5 @@ def index(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Column](/cells/python-net/de/aspose.cells/column)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Column`](/cells/python-net/de/aspose.cells/column)

@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  type Eigentum
 
-Holen oder setzen Sie den Symbolsatz type zur Anzeige.
-Wenn Sie type einstellen, wird automatisch überprüft, ob der aktuelle Cfvos-Zähler ist
- Übereinstimmung mit der neuen type. Bei Nichtübereinstimmung werden alte Cfvos gereinigt und
+Rufen Sie den anzuzeigenden Symbolsatz type ab oder legen Sie ihn fest.
+Durch die Einstellung von type wird automatisch geprüft, ob die aktuelle Cfvos-Zählung
+ Übereinstimmung mit der neuen type. Wenn nicht übereinstimmen, werden alte Cfvos gereinigt und
 Standard-Cfvos werden hinzugefügt.
 ###  Definition:
 ```python
@@ -24,6 +24,6 @@ def type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [IconSet](/cells/python-net/de/aspose.cells/iconset)
-* Klasse [IconSetType](/cells/python-net/de/aspose.cells/iconsettype)
+* Modul [`aspose.cells`](../../)
+* Klasse [`IconSet`](/cells/python-net/de/aspose.cells/iconset)
+* Klasse [`IconSetType`](/cells/python-net/de/aspose.cells/iconsettype)

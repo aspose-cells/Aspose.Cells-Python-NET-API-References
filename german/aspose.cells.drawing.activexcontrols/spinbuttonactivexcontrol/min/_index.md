@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  min Eigentum
 
-Ruft den akzeptablen Mindestwert ab und legt ihn fest.
+Ruft den minimal akzeptablen Wert ab und legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def min(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [SpinButtonActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`SpinButtonActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

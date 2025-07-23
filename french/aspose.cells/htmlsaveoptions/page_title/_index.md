@@ -3,7 +3,7 @@ title: page_title propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 580
+weight: 670
 url: /fr/aspose.cells/htmlsaveoptions/page_title/
 is_root: false
 ---

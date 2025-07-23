@@ -3,7 +3,7 @@ title: generator_type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 60
+weight: 80
 url: /fr/aspose.cells/odssaveoptions/generator_type/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def generator_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [OdsGeneratorType](/cells/python-net/fr/aspose.cells.ods/odsgeneratortype)
-* classe [OdsSaveOptions](/cells/python-net/fr/aspose.cells/odssaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`OdsGeneratorType`](/cells/python-net/fr/aspose.cells.ods/odsgeneratortype)
+* classe [`OdsSaveOptions`](/cells/python-net/fr/aspose.cells/odssaveoptions)

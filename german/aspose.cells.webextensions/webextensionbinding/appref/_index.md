@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  appref Eigentum
 
-Ruft den Bindungsschlüssel ab und legt diesen fest, der verwendet wird, um den Bindungseintrag in dieser Liste den gebundenen Daten im Dokument zuzuordnen.
+Ruft den Bindungsschlüssel ab und legt ihn fest, der zum Zuordnen des Bindungseintrags in dieser Liste zu den gebundenen Daten im Dokument verwendet wird.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def appref(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.webextensions](../../)
-* Klasse [WebExtensionBinding](/cells/python-net/de/aspose.cells.webextensions/webextensionbinding)
+* Modul [`aspose.cells.webextensions`](../../)
+* Klasse [`WebExtensionBinding`](/cells/python-net/de/aspose.cells.webextensions/webextensionbinding)

@@ -3,17 +3,16 @@ title: CharacterBulletValue classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 40
+weight: 30
 url: /fr/aspose.cells.drawing.texts/characterbulletvalue/
 is_root: false
 ---
 ##  CharacterBulletValue classe
-Représente la puce de caractère.
+Représente la puce du caractère.
 
 
 
-**Héritage:** [CharacterBulletValue](/cells/python-net/aspose.cells.drawing.texts/characterbulletvalue) → 
-[BulletValue](/cells/python-net/fr/aspose.cells.drawing.texts/bulletvalue)
+**Héritage:** [`CharacterBulletValue`](/cells/python-net/fr/aspose.cells.drawing.texts/characterbulletvalue)
 
 
 
@@ -22,18 +21,17 @@ Le type CharacterBulletValue expose les membres suivants :
 ###  Constructeurs
 | Constructeur| Description|
 | :- | :- |
-| [CharacterBulletValue()](/cells/python-net/fr/aspose.cells.drawing.texts/characterbulletvalue/__init__/#) | Construit une nouvelle instance de CharacterBulletValue|
+| [`__init__(self)`](/cells/python-net/fr/aspose.cells.drawing.texts/characterbulletvalue/__init__/#) | Construit une nouvelle instance de CharacterBulletValue|
 
 
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
 | [type](/cells/python-net/fr/aspose.cells.drawing.texts/characterbulletvalue/type) | Obtient le type de balle.|
-| [character](/cells/python-net/fr/aspose.cells.drawing.texts/characterbulletvalue/character) | Obtient et définit le caractère de la puce.|
+| [character](/cells/python-net/fr/aspose.cells.drawing.texts/characterbulletvalue/character) | Obtient et définit le caractère de la balle.|
 
 
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](..)
-* classe [BulletValue](/cells/python-net/fr/aspose.cells.drawing.texts/bulletvalue)
-* classe [CharacterBulletValue](/cells/python-net/fr/aspose.cells.drawing.texts/characterbulletvalue)
+* module [`aspose.cells.drawing.texts`](..)
+* classe [`CharacterBulletValue`](/cells/python-net/fr/aspose.cells.drawing.texts/characterbulletvalue)

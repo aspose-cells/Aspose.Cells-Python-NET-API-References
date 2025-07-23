@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gradient_stops Eigentum
 
-Stellt die Gradientenstopp-Auflistung dar.
+Stellt die Gradientenstopp-Sammlung dar.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def gradient_stops(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [GradientFill](/cells/python-net/de/aspose.cells.drawing/gradientfill)
-* Klasse [GradientStopCollection](/cells/python-net/de/aspose.cells.drawing/gradientstopcollection)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`GradientFill`](/cells/python-net/de/aspose.cells.drawing/gradientfill)
+* Klasse [`GradientStopCollection`](/cells/python-net/de/aspose.cells.drawing/gradientstopcollection)

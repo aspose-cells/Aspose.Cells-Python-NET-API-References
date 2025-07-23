@@ -1,5 +1,5 @@
 ---
-title: XAdESType dénombrement
+title: XAdESType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 30
 url: /fr/aspose.cells.digitalsignatures/xadestype/
 is_root: false
 ---
-##  XAdESType dénombrement
+##  XAdESType énumération
 Type de signature électronique avancée XML (XAdES).
 
 
@@ -23,4 +23,4 @@ Le type XAdESType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.digitalsignatures](..)
+* module [`aspose.cells.digitalsignatures`](..)

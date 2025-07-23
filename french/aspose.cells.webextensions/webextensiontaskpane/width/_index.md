@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width propriété
 
-Obtient et définit la valeur par défaut width pour cette instance de volet des tâches.
+Obtient et définit la valeur par défaut width pour cette instance du volet des tâches.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def width(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.webextensions](../../)
-* classe [WebExtensionTaskPane](/cells/python-net/fr/aspose.cells.webextensions/webextensiontaskpane)
+* module [`aspose.cells.webextensions`](../../)
+* classe [`WebExtensionTaskPane`](/cells/python-net/fr/aspose.cells.webextensions/webextensiontaskpane)

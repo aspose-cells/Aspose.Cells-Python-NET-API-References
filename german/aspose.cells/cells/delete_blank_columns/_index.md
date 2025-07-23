@@ -7,12 +7,13 @@ weight: 200
 url: /de/aspose.cells/cells/delete_blank_columns/
 is_root: false
 ---
-##  delete_blank_columns() {#}
+##  delete_blank_columns(self) {#}
 Löschen Sie alle leeren Spalten, die keine Daten enthalten.
 
 
 
 ```python
+
 def delete_blank_columns(self):
     ...
 ```
@@ -20,12 +21,13 @@ def delete_blank_columns(self):
 
 
 
-##  delete_blank_columns(options) {#DeleteOptions}
+##  delete_blank_columns(self, options) {#aspose.cells.DeleteOptions}
 Löschen Sie alle leeren Spalten, die keine Daten enthalten.
 
 
 
 ```python
+
 def delete_blank_columns(self, options):
     ...
 ```
@@ -33,10 +35,10 @@ def delete_blank_columns(self, options):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| options | [DeleteOptions](/cells/python-net/de/aspose.cells/deleteoptions) | Die Optionen zum Löschen des Bereichs.|
+| options | [`DeleteOptions`](/cells/python-net/de/aspose.cells/deleteoptions) | Die Optionen zum Löschen des Bereichs.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

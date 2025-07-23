@@ -3,13 +3,13 @@ title: top_cm propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1080
+weight: 1090
 url: /fr/aspose.cells.drawing/textbox/top_cm/
 is_root: false
 ---
 ##  top_cm propriété
 
-Représente le décalage vertical de la forme par rapport à sa rangée supérieure, en unités de centimètres.
+Représente le décalage vertical de la forme par rapport à sa rangée supérieure, en centimètres.
 
 ###  Exemple
 

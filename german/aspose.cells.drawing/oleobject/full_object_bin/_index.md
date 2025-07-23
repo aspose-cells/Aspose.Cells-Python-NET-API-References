@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  full_object_bin Eigentum
 
-Ruft die vollständigen Binärdaten des eingebetteten Ole-Objekts in der Vorlagendatei ab.
+Ruft die vollständigen eingebetteten Binärdaten des OLE-Objekts in der Vorlagendatei ab.
 ###  Definition:
 ```python
 @property

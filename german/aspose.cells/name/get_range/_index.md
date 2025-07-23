@@ -7,8 +7,8 @@ weight: 20
 url: /de/aspose.cells/name/get_range/
 is_root: false
 ---
-##  get_range() {#}
-Ruft den Bereich ab, wenn sich dieser Name auf einen Bereich bezieht.
+##  get_range(self) {#}
+Ruft den Bereich ab, wenn dieser Name auf einen Bereich verweist.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Die Reichweite.
 
 
 ```python
+
 def get_range(self):
     ...
 ```
@@ -24,8 +25,8 @@ def get_range(self):
 
 
 
-##  get_range(recalculate) {#bool}
-Ruft den Bereich ab, wenn sich dieser Name auf einen Bereich bezieht
+##  get_range(self, recalculate) {#bool}
+Ruft den Bereich ab, wenn dieser Name auf einen Bereich verweist
 
 
 ###  Kehrt zurück
@@ -34,6 +35,7 @@ Die Reichweite.
 
 
 ```python
+
 def get_range(self, recalculate):
     ...
 ```
@@ -41,12 +43,12 @@ def get_range(self, recalculate):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| recalculate | bool | ob er neu berechnet wird, wenn dieser Name vor diesem Aufruf berechnet wurde.|
+| recalculate | bool | ob es neu berechnet werden soll, wenn dieser Name vor diesem Aufruf berechnet wurde.|
 
 
-##  get_range(sheet_index, row, column) {#int-int-int}
-Ruft den Bereich ab, wenn sich dieser Name auf einen Bereich bezieht.
-Wenn die Referenz dieses Namens nicht absolut ist, kann der Bereich für verschiedene Zellen unterschiedlich sein.
+##  get_range(self, sheet_index, row, column) {#int-int-int}
+Ruft den Bereich ab, wenn dieser Name auf einen Bereich verweist.
+Wenn der Bezug dieses Namens nicht absolut ist, kann der Bereich für verschiedene Zellen unterschiedlich sein.
 
 
 ###  Kehrt zurück
@@ -55,6 +57,7 @@ Die Reichweite.
 
 
 ```python
+
 def get_range(self, sheet_index, row, column):
     ...
 ```
@@ -62,12 +65,12 @@ def get_range(self, sheet_index, row, column):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| sheet_index | int | Der zugehörige Blattindex.|
+| sheet_index | int | Der entsprechende Blattindex.|
 | row | int | Der entsprechende Zeilenindex.|
 | column | int | Der entsprechende Spaltenindex|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Name](/cells/python-net/de/aspose.cells/name)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Name`](/cells/python-net/de/aspose.cells/name)

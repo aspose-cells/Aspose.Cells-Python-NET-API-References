@@ -3,14 +3,14 @@ title: null_string Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 680
+weight: 780
 url: /de/aspose.cells.pivot/pivottable/null_string/
 is_root: false
 ---
 ##  null_string Eigentum
 
 Ruft die Zeichenfolge ab, die in Zellen angezeigt wird, die Nullwerte enthalten
-wenn die DisplayNullString-Eigenschaft wahr ist. Der Standardwert ist eine leere Zeichenfolge.
+wenn die Eigenschaft DisplayNullString true ist. Der Standardwert ist eine leere Zeichenfolge.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def null_string(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotTable](/cells/python-net/de/aspose.cells.pivot/pivottable)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotTable`](/cells/python-net/de/aspose.cells.pivot/pivottable)

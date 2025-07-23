@@ -21,5 +21,5 @@ def criteria(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CustomFilter](/cells/python-net/fr/aspose.cells/customfilter)
+* module [`aspose.cells`](../../)
+* classe [`CustomFilter`](/cells/python-net/fr/aspose.cells/customfilter)

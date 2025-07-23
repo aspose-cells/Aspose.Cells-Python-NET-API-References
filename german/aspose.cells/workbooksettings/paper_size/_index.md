@@ -3,17 +3,17 @@ title: paper_size Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 360
+weight: 390
 url: /de/aspose.cells/workbooksettings/paper_size/
 is_root: false
 ---
 ##  paper_size Eigentum
 
-Ruft das Standarddruckpapierformat ab und legt es fest.
+Ruft die Standardgröße des Druckpapiers ab und legt sie fest.
 
 ###  Bemerkungen
 
-Wenn es keine Einstellung zum Papierformat gibt, verwendet MS Excel die Standarddruckereinstellung.
+Wenn keine Einstellung für die Papiergröße vorhanden ist, verwendet MS Excel die Standardeinstellungen des Druckers.
 ###  Definition:
 ```python
 @property

@@ -3,17 +3,17 @@ title: compliance Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 110
+weight: 120
 url: /de/aspose.cells/pdfsaveoptions/compliance/
 is_root: false
 ---
 ##  compliance Eigentum
 
-Ruft die compliance-Standardebene für Ausgabedokumente ab oder legt diese fest.
+Ruft die Standardebene PDF bzw. compliance für Ausgabedokumente ab oder legt diese fest.
 
 ###  Bemerkungen
 
-Der Standardwert ist PDF17.
+Standard ist Pdf17.
 ###  Definition:
 ```python
 @property

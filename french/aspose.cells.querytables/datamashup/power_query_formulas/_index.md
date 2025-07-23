@@ -18,6 +18,6 @@ def power_query_formulas(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.querytables](../../)
-* classe [DataMashup](/cells/python-net/fr/aspose.cells.querytables/datamashup)
-* classe [PowerQueryFormulaCollection](/cells/python-net/fr/aspose.cells.querytables/powerqueryformulacollection)
+* module [`aspose.cells.querytables`](../../)
+* classe [`DataMashup`](/cells/python-net/fr/aspose.cells.querytables/datamashup)
+* classe [`PowerQueryFormulaCollection`](/cells/python-net/fr/aspose.cells.querytables/powerqueryformulacollection)

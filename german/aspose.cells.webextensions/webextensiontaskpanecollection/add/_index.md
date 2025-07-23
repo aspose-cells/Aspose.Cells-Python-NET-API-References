@@ -7,8 +7,8 @@ weight: 20
 url: /de/aspose.cells.webextensions/webextensiontaskpanecollection/add/
 is_root: false
 ---
-##  add() {#}
-Aufgabenbereich hinzugefügt.
+##  add(self) {#}
+Fügt einen Aufgabenbereich hinzu.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Der Index.
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.webextensions](../../)
-* Klasse [WebExtensionTaskPaneCollection](/cells/python-net/de/aspose.cells.webextensions/webextensiontaskpanecollection)
+* Modul [`aspose.cells.webextensions`](../../)
+* Klasse [`WebExtensionTaskPaneCollection`](/cells/python-net/de/aspose.cells.webextensions/webextensiontaskpanecollection)

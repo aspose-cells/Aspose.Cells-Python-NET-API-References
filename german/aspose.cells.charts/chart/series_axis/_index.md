@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  series_axis Eigentum
 
-Ruft die Reihenachse des Diagramms ab.
+Ruft die Serienachse des Diagramms ab.
 ###  Definition:
 ```python
 @property

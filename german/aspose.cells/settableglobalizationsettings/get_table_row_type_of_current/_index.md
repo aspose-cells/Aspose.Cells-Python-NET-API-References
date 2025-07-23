@@ -7,16 +7,17 @@ weight: 240
 url: /de/aspose.cells/settableglobalizationsettings/get_table_row_type_of_current/
 is_root: false
 ---
-##  get_table_row_type_of_current {#}
-Ruft den Typnamen der Tabellenzeilen ab, der aus der aktuellen Zeile in der referenzierten Tabelle besteht.
+##  get_table_row_type_of_current(self) {#}
+Ruft den Typnamen der Tabellenzeilen ab, die aus der aktuellen Zeile in der referenzierten Tabelle bestehen.
 
 
 ###  Kehrt zurück
 
-der Typname von Tabellenzeilen
+der Typname der Tabellenzeilen
 
 
 ```python
+
 def get_table_row_type_of_current(self):
     ...
 ```

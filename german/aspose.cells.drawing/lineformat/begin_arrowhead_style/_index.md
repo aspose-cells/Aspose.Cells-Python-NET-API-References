@@ -30,6 +30,6 @@ def begin_arrowhead_style(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [LineFormat](/cells/python-net/de/aspose.cells.drawing/lineformat)
-* Klasse [MsoArrowheadStyle](/cells/python-net/de/aspose.cells.drawing/msoarrowheadstyle)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`LineFormat`](/cells/python-net/de/aspose.cells.drawing/lineformat)
+* Klasse [`MsoArrowheadStyle`](/cells/python-net/de/aspose.cells.drawing/msoarrowheadstyle)

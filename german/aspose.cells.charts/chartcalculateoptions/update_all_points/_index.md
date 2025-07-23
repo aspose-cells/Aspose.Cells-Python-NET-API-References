@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  update_all_points Eigentum
 
- Ob alle Datenpunkte aktualisiert werden, wenn die Diagrammberechnung durchgeführt wird. Standard: Falsch.
-Wenn Sie den Wert für jeden Datenpunkt im Diagramm gezielt abrufen möchten, legen Sie ihn auf „true“ fest.
-Wenn dieser Parameter auf „True“ gesetzt ist, werden möglicherweise neue Datenpunkte generiert, wenn das Diagramm berechnet wird. Dadurch könnte die Excel-Datei größer werden.
+ Ob alle Datenpunkte bei der Diagrammberechnung aktualisiert werden sollen. Standard: False.
+Wenn Sie den Wert für jeden Datenpunkt im Diagramm gezielt abrufen möchten, setzen Sie ihn auf „true“.
+Wenn dieser Parameter auf „True“ gesetzt ist, werden bei der Diagrammberechnung möglicherweise neue Datenpunkte generiert. Dies kann zu einer Vergrößerung der Excel-Datei führen.
 ###  Definition:
 ```python
 @property

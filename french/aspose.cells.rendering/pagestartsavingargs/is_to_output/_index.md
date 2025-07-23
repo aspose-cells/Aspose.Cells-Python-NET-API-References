@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_to_output propriété
 
- Obtient ou définit une valeur indiquant si la page doit être sortie.
-La valeur par défaut est true.
+ Obtient ou définit une valeur indiquant si la page doit être affichée.
+La valeur par défaut est vrai.
 ###  Définition:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_to_output(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.rendering](../../)
-* classe [PageStartSavingArgs](/cells/python-net/fr/aspose.cells.rendering/pagestartsavingargs)
+* module [`aspose.cells.rendering`](../../)
+* classe [`PageStartSavingArgs`](/cells/python-net/fr/aspose.cells.rendering/pagestartsavingargs)

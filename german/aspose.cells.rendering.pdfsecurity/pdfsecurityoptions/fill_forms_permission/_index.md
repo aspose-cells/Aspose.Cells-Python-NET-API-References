@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fill_forms_permission Eigentum
 
- Gibt an, ob das Ausfüllen vorhandener interaktiver Formularfelder (einschließlich Signaturfeldern) zulässig ist.
+ Gibt an, ob das Ausfüllen vorhandener interaktiver Formularfelder (einschließlich Signaturfelder) erlaubt sein soll.
 auch wenn [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/de/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) klar ist.
 ###  Definition:
 ```python

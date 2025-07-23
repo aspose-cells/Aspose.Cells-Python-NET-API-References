@@ -7,12 +7,13 @@ weight: 90
 url: /de/aspose.cells.drawing.texts/fontsettingcollection/insert_text/
 is_root: false
 ---
-##  insert_text(index, text) {#int-str}
-Index an Position einfügen.
+##  insert_text(self, index, text) {#int-str}
+Fügen Sie den Index an der Position ein.
 
 
 
 ```python
+
 def insert_text(self, index, text):
     ...
 ```
@@ -26,5 +27,5 @@ def insert_text(self, index, text):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [FontSettingCollection](/cells/python-net/de/aspose.cells.drawing.texts/fontsettingcollection)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`FontSettingCollection`](/cells/python-net/de/aspose.cells.drawing.texts/fontsettingcollection)

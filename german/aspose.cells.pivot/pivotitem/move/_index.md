@@ -3,16 +3,17 @@ title: move Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 50
+weight: 60
 url: /de/aspose.cells.pivot/pivotitem/move/
 is_root: false
 ---
-##  move(count, is_same_parent) {#int-bool}
+##  move(self, count, is_same_parent) {#int-bool}
 Verschiebt das Element nach oben oder unten
 
 
 
 ```python
+
 def move(self, count, is_same_parent):
     ...
 ```
@@ -20,11 +21,11 @@ def move(self, count, is_same_parent):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| count | int | Die Anzahl der Bewegungen nach oben oder unten.<br/>Verschieben Sie das Element nach oben, wenn dies kleiner als Null ist;<br/>Verschieben Sie das Element nach unten, wenn dies größer als Null ist.|
-| is_same_parent | bool | Angeben, ob sich der Verschiebevorgang im selben übergeordneten Knoten befindet oder nicht|
+| count | int | Die Anzahl der Auf- oder Abwärtsbewegungen.<br/>Wenn dieser Wert kleiner als Null ist, verschieben Sie das Element nach oben.<br/> Wenn dieser Wert größer als Null ist, wird das Element nach unten verschoben.|
+| is_same_parent | bool | Festlegen, ob der Verschiebevorgang im selben übergeordneten Knoten erfolgt oder nicht|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotItem](/cells/python-net/de/aspose.cells.pivot/pivotitem)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotItem`](/cells/python-net/de/aspose.cells.pivot/pivotitem)

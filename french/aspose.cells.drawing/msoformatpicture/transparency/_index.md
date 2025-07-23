@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  transparency propriété
 
-Renvoie ou définit le degré transparency de la zone sous la forme d'une valeur comprise entre 0,0 (opaque) et 1,0 (clair).
+Renvoie ou définit le degré de transparency de la zone sous forme de valeur comprise entre 0,0 (opaque) et 1,0 (clair).
 ###  Définition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  size_with_window Eigentum
 
-True, wenn Microsoft Excel die Größe des Diagramms an die Größe des Diagrammblattfensters anpasst.
+Wahr, wenn Microsoft Excel die Größe des Diagramms an die Größe des Diagrammblattfensters anpasst.
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  transparent_color Eigentum
 
-Ruft die transparente Farbe des Bildes ab und legt diese fest.
+Ruft die transparente Farbe des Bildes ab und legt sie fest.
 ###  Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: export_as_string propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 80
+weight: 100
 url: /fr/aspose.cells/jsonsaveoptions/export_as_string/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def export_as_string(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [JsonSaveOptions](/cells/python-net/fr/aspose.cells/jsonsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`JsonSaveOptions`](/cells/python-net/fr/aspose.cells/jsonsaveoptions)

@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  hi_lo_lines propriété
 
-Renvoie un objet HiLoLines qui représente les lignes haut-bas d'une série sur un graphique linéaire.
-S'applique uniquement aux graphiques en courbes.
+Renvoie un objet HiLoLines qui représente les lignes hautes-basses d'une série sur un graphique linéaire.
+S'applique uniquement aux graphiques linéaires.
 ###  Définition:
 ```python
 @property

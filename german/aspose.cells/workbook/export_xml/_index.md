@@ -3,16 +3,17 @@ title: export_xml Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 140
+weight: 150
 url: /de/aspose.cells/workbook/export_xml/
 is_root: false
 ---
-##  export_xml(map_name, path) {#str-str}
-XML-Daten exportieren, die durch die angegebene XML-Zuordnung verknüpft sind.
+##  export_xml(self, map_name, path) {#str-str}
+Exportieren Sie XML-Daten, die durch die angegebene XML-Zuordnung verknüpft sind.
 
 
 
 ```python
+
 def export_xml(self, map_name, path):
     ...
 ```
@@ -21,11 +22,11 @@ def export_xml(self, map_name, path):
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | map_name | str | Name der zu exportierenden XML-Map|
-| path | str | den Exportpfad|
+| path | str | der Exportpfad|
 
 ###  Beispiel
 
-Der folgende Code exportierte die von der ersten XmlMap verknüpften Daten.
+Der folgende Code exportierte die durch die erste XmlMap verknüpften Daten.
 
 ```python
 from aspose.cells import Workbook
@@ -38,12 +39,13 @@ wb.export_xml(xmlMap.name, "output.xml")
 ```
 
 
-##  export_xml(map_name, stream) {#str-io.RawIOBase}
+##  export_xml(self, map_name, stream) {#str-io.RawIOBase}
 XML-Daten exportieren.
 
 
 
 ```python
+
 def export_xml(self, map_name, stream):
     ...
 ```
@@ -52,10 +54,10 @@ def export_xml(self, map_name, stream):
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | map_name | str | Name der zu exportierenden XML-Map|
-| stream | io.RawIOBase | der Exportstrom|
+| stream | io.RawIOBase | der Exportstream|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Workbook](/cells/python-net/de/aspose.cells/workbook)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Workbook`](/cells/python-net/de/aspose.cells/workbook)

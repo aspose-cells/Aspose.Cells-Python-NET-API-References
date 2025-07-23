@@ -8,7 +8,7 @@ url: /de/aspose.cells.ods/odscellfield/
 is_root: false
 ---
 ##  OdsCellField Klasse
-Repräsentiert das Zellenfeld von ods.
+Stellt das Zellenfeld von ods dar.
 
 
 
@@ -18,11 +18,11 @@ Der Typ OdsCellField macht die folgenden Member verfügbar:
 | Eigentum| Beschreibung|
 | :- | :- |
 | [custom_format](/cells/python-net/de/aspose.cells.ods/odscellfield/custom_format) | Stellt das benutzerdefinierte Format des Feldwerts dar.|
-| [field_type](/cells/python-net/de/aspose.cells.ods/odscellfield/field_type) | Ruft den Feldtyp ab und legt ihn fest.|
+| [field_type](/cells/python-net/de/aspose.cells.ods/odscellfield/field_type) | Ruft den Typ des Felds ab und legt ihn fest.|
 | [row](/cells/python-net/de/aspose.cells.ods/odscellfield/row) | Ruft den Zeilenindex der Zelle ab und legt ihn fest.|
-| [column](/cells/python-net/de/aspose.cells.ods/odscellfield/column) | Ruft den Spaltenindex der Zelle ab und legt ihn fest.|
+| [column](/cells/python-net/de/aspose.cells.ods/odscellfield/column) |Ruft den Spaltenindex der Zelle ab und legt ihn fest.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.ods](..)
+* Modul [`aspose.cells.ods`](..)

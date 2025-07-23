@@ -3,12 +3,12 @@ title: FilterOperatorType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2120
+weight: 2050
 url: /de/aspose.cells/filteroperatortype/
 is_root: false
 ---
 ##  FilterOperatorType Aufzählung
-Typ des benutzerdefinierten Filteroperators.
+Benutzerdefinierter Filteroperatortyp.
 
 
 
@@ -27,7 +27,9 @@ Der Typ FilterOperatorType macht die folgenden Member verfügbar:
 | BEGINS_WITH | Beginnt mit dem Text.|
 | ENDS_WITH | Endet mit dem Text.|
 | CONTAINS | Enthält den Text.|
-| NOT_CONTAINS | Enthält den Text nicht.|
+| NOT_CONTAINS | Enthält keinen Text.|
+| NOT_BEGINS_WITH | Beginnt nicht mit dem Text.|
+| NOT_ENDS_WITH | Endet nicht mit dem Text.|
 
 
 

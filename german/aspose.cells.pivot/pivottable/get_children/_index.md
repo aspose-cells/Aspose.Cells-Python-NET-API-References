@@ -7,8 +7,8 @@ weight: 140
 url: /de/aspose.cells.pivot/pivottable/get_children/
 is_root: false
 ---
-##  get_children() {#}
-Ruft die untergeordneten PivotTables ab, die diese PivotTable-Daten als Datenquelle verwenden.
+##  get_children(self) {#}
+Ruft die untergeordneten Pivot-Tabellen ab, die diese Pivot-Tabellendaten als Datenquelle verwenden.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ das PivotTable-Array-Objekt
 
 
 ```python
+
 def get_children(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_children(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotTable](/cells/python-net/de/aspose.cells.pivot/pivottable)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotTable`](/cells/python-net/de/aspose.cells.pivot/pivottable)

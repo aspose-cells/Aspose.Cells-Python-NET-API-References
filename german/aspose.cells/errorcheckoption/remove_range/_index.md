@@ -7,12 +7,13 @@ weight: 60
 url: /de/aspose.cells/errorcheckoption/remove_range/
 is_root: false
 ---
-##  remove_range(index) {#int}
-Entfernt einen Bereich nach gegebenem Index.
+##  remove_range(self, index) {#int}
+Entfernt einen Bereich anhand des angegebenen Index.
 
 
 
 ```python
+
 def remove_range(self, index):
     ...
 ```
@@ -25,5 +26,5 @@ def remove_range(self, index):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ErrorCheckOption](/cells/python-net/de/aspose.cells/errorcheckoption)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ErrorCheckOption`](/cells/python-net/de/aspose.cells/errorcheckoption)

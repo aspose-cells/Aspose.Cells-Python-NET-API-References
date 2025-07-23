@@ -3,7 +3,7 @@ title: created_time propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 170
+weight: 180
 url: /fr/aspose.cells.properties/builtindocumentpropertycollection/created_time/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def created_time(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.properties](../../)
-* classe [BuiltInDocumentPropertyCollection](/cells/python-net/fr/aspose.cells.properties/builtindocumentpropertycollection)
+* module [`aspose.cells.properties`](../../)
+* classe [`BuiltInDocumentPropertyCollection`](/cells/python-net/fr/aspose.cells.properties/builtindocumentpropertycollection)

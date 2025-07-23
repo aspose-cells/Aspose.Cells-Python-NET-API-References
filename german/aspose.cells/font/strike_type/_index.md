@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  strike_type Eigentum
 
-Ruft den Strike-Typ des Textes ab.
+Ruft den Durchstreichungstyp des Textes ab.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def strike_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Font](/cells/python-net/de/aspose.cells/font)
-* Klasse [TextStrikeType](/cells/python-net/de/aspose.cells/textstriketype)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Font`](/cells/python-net/de/aspose.cells/font)
+* Klasse [`TextStrikeType`](/cells/python-net/de/aspose.cells/textstriketype)

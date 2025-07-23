@@ -7,7 +7,7 @@ weight: 20
 url: /de/aspose.cells.charts/seriescollection/add/
 is_root: false
 ---
-##  add {#str-bool}
+##  add(self, area, is_vertical) {#str-bool}
 Fügt die Sammlung [`Series`](/cells/python-net/de/aspose.cells.charts/series) einem Diagramm hinzu.
 
 
@@ -17,6 +17,7 @@ Gibt den ersten Index der hinzugefügten ASeries in der NSeries zurück.
 
 
 ```python
+
 def add(self, area, is_vertical):
     ...
 ```
@@ -24,13 +25,13 @@ def add(self, area, is_vertical):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| area | str | Gibt Werte an, anhand derer die Datenreihe dargestellt werden soll|
-| is_vertical | bool |Gibt an, ob die Reihe aus einem Bereich von Zellwerten zeilen- oder spaltenweise dargestellt werden soll.|
+| area | str | Gibt Werte an, aus denen die Datenreihe dargestellt werden soll|
+| is_vertical | bool | Gibt an, ob die Reihe aus einem Bereich von Zellenwerten zeilen- oder spaltenweise dargestellt werden soll.|
 ###  Bemerkungen
 
 
 
-##  add {#str-bool-bool}
+##  add(self, area, is_vertical, check_labels) {#str-bool-bool}
 
 Fügt die Sammlung [`Series`](/cells/python-net/de/aspose.cells.charts/series) einem Diagramm hinzu.
 
@@ -41,6 +42,7 @@ Gibt den ersten Index der hinzugefügten ASeries in der NSeries zurück.
 
 
 ```python
+
 def add(self, area, is_vertical, check_labels):
     ...
 ```
@@ -48,9 +50,9 @@ def add(self, area, is_vertical, check_labels):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| area | str | Gibt Werte an, anhand derer die Datenreihe dargestellt werden soll|
-| is_vertical | bool |Gibt an, ob die Reihe aus einem Bereich von Zellwerten zeilen- oder spaltenweise dargestellt werden soll.|
-| check_labels | bool | Gibt an, ob der Bereich den Namen der Serie enthält|
+| area | str | Gibt Werte an, aus denen die Datenreihe dargestellt werden soll|
+| is_vertical | bool | Gibt an, ob die Reihe aus einem Bereich von Zellenwerten zeilen- oder spaltenweise dargestellt werden soll.|
+| check_labels | bool | Gibt an, ob der Bereich den Seriennamen enthält|
 ###  Bemerkungen
 
 

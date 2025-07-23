@@ -3,15 +3,15 @@ title: image_scalable propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 470
+weight: 540
 url: /fr/aspose.cells.saving/ebooksaveoptions/image_scalable/
 is_root: false
 ---
 ##  image_scalable propriété
 
-Indique si vous utilisez une unité évolutive pour décrire la largeur de l'image
+Indique si une unité évolutive est utilisée pour décrire la largeur de l'image
 lors de l'utilisation d'une unité évolutive pour décrire la largeur de la colonne.
-La valeur par défaut est vraie.
+La valeur par défaut est vrai.
 ###  Définition:
 ```python
 @property

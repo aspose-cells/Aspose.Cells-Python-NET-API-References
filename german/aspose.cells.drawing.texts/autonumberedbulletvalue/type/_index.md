@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [AutoNumberedBulletValue](/cells/python-net/de/aspose.cells.drawing.texts/autonumberedbulletvalue)
-* Klasse [BulletType](/cells/python-net/de/aspose.cells.drawing.texts/bullettype)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`AutoNumberedBulletValue`](/cells/python-net/de/aspose.cells.drawing.texts/autonumberedbulletvalue)
+* Klasse [`BulletType`](/cells/python-net/de/aspose.cells.drawing.texts/bullettype)

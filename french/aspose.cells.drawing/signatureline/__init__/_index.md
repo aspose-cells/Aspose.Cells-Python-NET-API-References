@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells.drawing/signatureline/__init__/
 is_root: false
 ---
-##  SignatureLine() {#}
+##  \_\_init\_\_(self){#}
 Construit une nouvelle instance de SignatureLine
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [SignatureLine](/cells/python-net/fr/aspose.cells.drawing/signatureline)
+* module [`aspose.cells.drawing`](../../)
+* classe [`SignatureLine`](/cells/python-net/fr/aspose.cells.drawing/signatureline)

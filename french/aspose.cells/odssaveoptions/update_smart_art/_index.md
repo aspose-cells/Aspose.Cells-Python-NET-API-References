@@ -3,18 +3,18 @@ title: update_smart_art propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 140
+weight: 170
 url: /fr/aspose.cells/odssaveoptions/update_smart_art/
 is_root: false
 ---
 ##  update_smart_art propriété
 
-Indique si la mise à jour des paramètres d'art intelligent est effectuée.
-La valeur par défaut est fausse.
+Indique si la mise à jour du paramètre Smart Art est en cours.
+La valeur par défaut est false.
 
 ###  Remarques
 
-Seuls les effets après l’appel de la méthode Shape.GetResultOfSmartArt() et les formes mises en cache existent dans le fichier modèle.
+Seuls les effets après l'appel de la méthode Shape.GetResultOfSmartArt() et les formes mises en cache existent dans le fichier modèle.
 ###  Définition:
 ```python
 @property

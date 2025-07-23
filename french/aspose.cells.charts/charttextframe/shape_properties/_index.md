@@ -3,13 +3,13 @@ title: shape_properties propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 290
+weight: 350
 url: /fr/aspose.cells.charts/charttextframe/shape_properties/
 is_root: false
 ---
 ##  shape_properties propriété
 
-Obtient l'objet [ChartFrame.shape_properties](/cells/python-net/fr/aspose.cells.charts/chartframe#shape_properties).
+Obtient l'objet [`ChartFrame.shape_properties`](/cells/python-net/fr/aspose.cells.charts/chartframe#shape_properties).
 ###  Définition:
 ```python
 @property
@@ -18,6 +18,6 @@ def shape_properties(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [ChartTextFrame](/cells/python-net/fr/aspose.cells.charts/charttextframe)
-* classe [ShapePropertyCollection](/cells/python-net/fr/aspose.cells.drawing/shapepropertycollection)
+* module [`aspose.cells.charts`](../../)
+* classe [`ChartTextFrame`](/cells/python-net/fr/aspose.cells.charts/charttextframe)
+* classe [`ShapePropertyCollection`](/cells/python-net/fr/aspose.cells.drawing/shapepropertycollection)

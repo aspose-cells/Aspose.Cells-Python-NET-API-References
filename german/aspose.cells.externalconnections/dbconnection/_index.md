@@ -12,8 +12,7 @@ Gibt alle Eigenschaften an, die einer externen ODBC- oder OLE DB-Datenverbindung
 
 
 
-**Nachlass:** [DBConnection](/cells/python-net/aspose.cells.externalconnections/dbconnection) → 
-[ExternalConnection](/cells/python-net/de/aspose.cells.externalconnections/externalconnection)
+**Nachlass:** [`DBConnection`](/cells/python-net/de/aspose.cells.externalconnections/dbconnection)
 
 
 
@@ -22,38 +21,41 @@ Der Typ DBConnection macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [id](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/id) | Ruft die ID der Verbindung ab.|
-| [power_query_formula](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/power_query_formula) | Ruft die Definition der Leistungsabfrageformel ab.|
-| [type](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/type) | Ruft den DataSource-Typ der externen Verbindung ab oder legt diesen fest.|
-| [source_file](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/source_file) | Wird verwendet, wenn die externe Datenquelle dateibasiert ist. Bei einer Verbindung zu solchen Daten<br/> source fehlschlägt, versucht die Tabellenkalkulationsanwendung, eine direkte Verbindung zu dieser Datei herzustellen. Vielleicht<br/> ausgedrückt in URI oder systemspezifischer Dateipfadnotation.|
-| [sso_id](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/sso_id) | Bezeichner für Single Sign On (SSO), der für die Authentifizierung zwischen einem Intermediate verwendet wird<br/> SpreadsheetML-Server und die externe Datenquelle.|
-| [save_password](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/save_password) | True, wenn das Kennwort als Teil der Verbindungszeichenfolge gespeichert werden soll; andernfalls falsch.|
-| [save_data](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/save_data) | True, wenn die über die Verbindung abgerufenen externen Daten zum Füllen einer Tabelle gespeichert werden sollen<br/> mit dem Arbeitsbuch; andernfalls falsch.|
-| [refresh_on_load](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/refresh_on_load) | True, wenn diese Verbindung beim Öffnen der Datei aktualisiert werden soll; andernfalls falsch.|
-| [reconnection_method_type](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/reconnection_method_type) | Gibt an, was die Tabellenkalkulationsanwendung tun soll, wenn eine Verbindung fehlschlägt.<br/>Der Standardwert ist ReConnectionMethodType.Required.|
-| [reconnection_method](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/reconnection_method) | Gibt an, was die Tabellenkalkulationsanwendung tun soll, wenn eine Verbindung fehlschlägt.<br/>Der Standardwert ist ReConnectionMethodType.Required.|
-| [only_use_connection_file](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/only_use_connection_file) | Gibt an, ob die Tabellenkalkulationsanwendung immer und nur die verwenden soll<br/> Verbindungsinformationen in der externen Verbindungsdatei, die durch das Attribut odcFile angegeben wird<br/> wenn die Verbindung aktualisiert wird. Wenn falsch, dann die Tabellenkalkulationsanwendung<br/> sollte dem durch das Attribut reconnectionMethod angegebenen Verfahren folgen|
-| [odc_file](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/odc_file) | Gibt den vollständigen Pfad zur externen Verbindungsdatei an, von der diese Verbindung stammt<br/> erstellt. Wenn eine Verbindung beim Versuch, Daten zu aktualisieren, fehlschlägt und reconnectionMethod=1,<br/> dann versucht die Tabellenkalkulationsanwendung erneut, Informationen aus der externen Verbindungsdatei zu verwenden<br/> anstelle des in die Arbeitsmappe eingebetteten Verbindungsobjekts.|
-| [is_new](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/is_new) | True, wenn die Verbindung nicht zum ersten Mal aktualisiert wurde; andernfalls falsch.<br/> Dieser Zustand kann eintreten, wenn der Benutzer die Datei speichert, bevor eine Abfrage die Rückgabe beendet hat.|
-| [name](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/name) | Gibt den Namen der Verbindung an. Jede Verbindung muss einen eindeutigen Namen haben.|
-| [keep_alive](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/keep_alive) | True, wenn das Tabellenkalkulationsprogramm Anstrengungen unternehmen soll, um die Verbindung aufrechtzuerhalten<br/>offen. Bei „false“ sollte die Anwendung die Verbindung nach dem Abrufen von schließen<br/> Information.|
-| [refresh_internal](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/refresh_internal) | Gibt die Anzahl der Minuten zwischen automatischen Aktualisierungen der Verbindung an.|
-| [connection_id](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/connection_id) | Gibt den eindeutigen Bezeichner dieser Verbindung an.|
-| [connection_description](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/connection_description) | Gibt die Benutzerbeschreibung für diese Verbindung an|
-| [is_deleted](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/is_deleted) |Gibt an, ob die zugehörige Arbeitsmappenverbindung gelöscht wurde. wahr, wenn die<br/> Verbindung wurde gelöscht; andernfalls falsch.|
-| [credentials_method_type](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/credentials_method_type) | Gibt die Authentifizierungsmethode an, die beim Herstellen (oder Wiederherstellen) der Verbindung verwendet werden soll.|
-| [credentials](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/credentials) | Gibt die Authentifizierungsmethode an, die beim Herstellen (oder Wiederherstellen) der Verbindung verwendet werden soll.|
-| [background_refresh](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/background_refresh) | Gibt an, ob die Verbindung im Hintergrund (asynchron) aktualisiert werden kann.<br/>true, wenn die bevorzugte Verwendung der Verbindung die asynchrone Aktualisierung im Hintergrund ist;<br/> false, wenn die bevorzugte Verwendung der Verbindung die synchrone Aktualisierung im Vordergrund ist.|
-| [parameters](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/parameters) | Ruft [ConnectionParameterCollection](/cells/python-net/de/aspose.cells.externalconnections/connectionparametercollection) für eine ODBC- oder Webabfrage ab.|
+| [id](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/id) |  |
+| [connection_id](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/connection_id) |  |
+| [class_type](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/class_type) | Ruft den Typ dieses ExternalConnection-Objekts ab.|
+| [power_query_formula](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/power_query_formula) | Ruft die Definition der Power Query-Formel ab.|
+| [type](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/type) |  |
+| [source_type](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/source_type) |  |
+| [sso_id](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/sso_id) |  |
+| [save_password](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/save_password) |  |
+| [save_data](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/save_data) |  |
+| [refresh_on_load](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/refresh_on_load) |  |
+| [reconnection_method_type](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/reconnection_method_type) |  |
+| [reconnection_method](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/reconnection_method) |  |
+| [only_use_connection_file](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/only_use_connection_file) |  |
+| [odc_file](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/odc_file) |  |
+| [source_file](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/source_file) |  |
+| [connection_file](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/connection_file) |  |
+| [is_new](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/is_new) |  |
+| [name](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/name) |  |
+| [keep_alive](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/keep_alive) |  |
+| [refresh_internal](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/refresh_internal) |  |
+| [connection_description](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/connection_description) |  |
+| [is_deleted](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/is_deleted) |  |
+| [credentials_method_type](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/credentials_method_type) |  |
+| [credentials](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/credentials) |  |
+| [background_refresh](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/background_refresh) |  |
+| [parameters](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/parameters) |  |
+| [command](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/command) | Die Zeichenfolge, die den Datenbankbefehl enthält, der an den Datenanbieter API übergeben werden soll, der<br/> Interagieren Sie mit der externen Quelle, um Daten abzurufen|
+| [command_type](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/command_type) | Gibt den OLE DB-Befehlstyp an.<br/>1. Abfrage gibt einen Cube-Namen an<br/>2. Abfrage gibt eine SQL-Anweisung an<br/>3. Abfrage gibt einen Tabellennamen an<br/>4. Die Abfrage gibt an, dass Standardinformationen angegeben wurden und die Interpretation dem Anbieter überlassen bleibt.<br/>5. Die Abfrage erfolgt an einen webbasierten Listendatenanbieter.|
+| [connection_string](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/connection_string) | Die Verbindungsinformationszeichenfolge wird verwendet, um Kontakt mit einer OLE DB- oder ODBC-Datenquelle herzustellen.|
+| [second_command](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/second_command) | Gibt eine zweite Befehlstextzeichenfolge an, die beibehalten wird, wenn PivotTable serverbasiert<br/> Seitenfelder werden verwendet.<br/> Bei ODBC-Verbindungen ist serverCommand normalerweise eine umfassendere Abfrage als command (keine<br/>WHERE-Klausel ist im ersteren vorhanden). Basierend auf diesen beiden Befehlen (Command und ServerCommand),<br/> Parameter-UI kann befüllt und parametrisierte Abfragen können erstellt werden|
 | [connection_info](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/connection_info) | Die Verbindungsinformationszeichenfolge wird verwendet, um Kontakt mit einer OLE DB- oder ODBC-Datenquelle herzustellen.|
-| [command_type](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/command_type) | Gibt den OLE DB-Befehlstyp an.<br/>1. Die Abfrage gibt einen Cube-Namen an<br/>2. Query gibt eine SQL-Anweisung an<br/>3. Abfrage gibt einen Tabellennamen an<br/>4. Die Abfrage gibt an, dass Standardinformationen angegeben wurden, und es dem Anbieter überlassen ist, wie er interpretiert.<br/> 5. Die Abfrage erfolgt gegen einen webbasierten Listendatenanbieter.|
-| [command](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/command) | Die Zeichenfolge, die den Datenbankbefehl enthält, der an den Datenanbieter API übergeben werden soll<br/> mit der externen Quelle interagieren, um Daten abzurufen|
-| [sever_command](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/sever_command) |Gibt eine zweite Befehlstextzeichenfolge an, die beibehalten wird, wenn PivotTable serverbasiert ist<br/> Seitenfelder werden verwendet.<br/> Für ODBC-Verbindungen ist serverCommand normalerweise eine breitere Abfrage als Befehl (Nr<br/>WHERE-Klausel ist in der ersteren vorhanden). Basierend auf diesen 2 Befehlen (Command und ServerCommand),<br/> Die Parameter-UI kann ausgefüllt und parametrisierte Abfragen erstellt werden|
+| [sever_command](/cells/python-net/de/aspose.cells.externalconnections/dbconnection/sever_command) | Gibt eine zweite Befehlstextzeichenfolge an, die beibehalten wird, wenn PivotTable serverbasiert<br/> Seitenfelder werden verwendet.<br/> Bei ODBC-Verbindungen ist serverCommand normalerweise eine umfassendere Abfrage als command (keine<br/>WHERE-Klausel ist im ersteren vorhanden). Basierend auf diesen beiden Befehlen (Command und ServerCommand),<br/> Parameter-UI kann befüllt und parametrisierte Abfragen können erstellt werden|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.externalconnections](..)
-* Klasse [ConnectionParameterCollection](/cells/python-net/de/aspose.cells.externalconnections/connectionparametercollection)
-* Klasse [DBConnection](/cells/python-net/de/aspose.cells.externalconnections/dbconnection)
-* Klasse [ExternalConnection](/cells/python-net/de/aspose.cells.externalconnections/externalconnection)
+* Modul [`aspose.cells.externalconnections`](..)
+* Klasse [`DBConnection`](/cells/python-net/de/aspose.cells.externalconnections/dbconnection)

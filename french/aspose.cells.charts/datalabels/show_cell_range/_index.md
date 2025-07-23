@@ -3,13 +3,13 @@ title: show_cell_range propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 400
+weight: 470
 url: /fr/aspose.cells.charts/datalabels/show_cell_range/
 is_root: false
 ---
 ##  show_cell_range propriété
 
-Indique si la plage de cellules est affichée comme étiquettes de données.
+Indique si la plage de cellules doit être affichée comme étiquettes de données.
 ###  Définition:
 ```python
 @property

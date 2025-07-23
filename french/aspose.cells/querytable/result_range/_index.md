@@ -18,6 +18,6 @@ def result_range(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [QueryTable](/cells/python-net/fr/aspose.cells/querytable)
-* classe [Range](/cells/python-net/fr/aspose.cells/range)
+* module [`aspose.cells`](../../)
+* classe [`QueryTable`](/cells/python-net/fr/aspose.cells/querytable)
+* classe [`Range`](/cells/python-net/fr/aspose.cells/range)

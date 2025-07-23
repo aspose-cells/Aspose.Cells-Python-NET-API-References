@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  image_data propriété
 
-Obtient et définit les données d'image de la puce.
+Obtient et définit les données d'image de la balle.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def image_data(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [PictureBulletValue](/cells/python-net/fr/aspose.cells.drawing.texts/picturebulletvalue)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`PictureBulletValue`](/cells/python-net/fr/aspose.cells.drawing.texts/picturebulletvalue)

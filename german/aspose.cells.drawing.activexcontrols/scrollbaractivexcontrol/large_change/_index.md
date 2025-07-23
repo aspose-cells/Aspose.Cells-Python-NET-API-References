@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  large_change Eigentum
 
-Ruft den Betrag ab, um den sich die Position-Eigenschaft ändert, und legt diesen fest
+Ruft den Betrag ab und legt ihn fest, um den sich die Eigenschaft „Position“ ändert.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def large_change(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [ScrollBarActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`ScrollBarActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

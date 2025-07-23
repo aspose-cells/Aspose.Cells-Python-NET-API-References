@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  input_message propriété
 
-Représente le message d’entrée de validation des données.
+Représente le message d'entrée de validation des données.
 ###  Définition:
 ```python
 @property

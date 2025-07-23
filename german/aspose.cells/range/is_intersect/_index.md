@@ -3,20 +3,21 @@ title: is_intersect Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 140
+weight: 190
 url: /de/aspose.cells/range/is_intersect/
 is_root: false
 ---
-##  is_intersect {#aspose.cells.Range}
-Gibt an, ob der Bereich überschnitten ist.
+##  is_intersect(self, range) {#aspose.cells.Range}
+Gibt an, ob der Bereich eine Schnittmenge ist.
 
 
 ###  Kehrt zurück
 
-Ob sich der Bereich überschneidet.
+Ob der Bereich sich überschneidet.
 
 
 ```python
+
 def is_intersect(self, range):
     ...
 ```
@@ -27,7 +28,7 @@ def is_intersect(self, range):
 | range | [`Range`](/cells/python-net/de/aspose.cells/range) | Die Reichweite.|
 ###  Bemerkungen
 
-Wenn sich die beiden Bereiche nicht im selben Arbeitsblatt befinden, wird „false“ zurückgegeben.
+Wenn sich die beiden Bereiche nicht im selben Arbeitsblatt befinden, wird „False“ zurückgegeben.
 
 
 ###  Siehe auch

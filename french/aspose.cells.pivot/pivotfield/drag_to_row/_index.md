@@ -3,14 +3,14 @@ title: drag_to_row propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 320
+weight: 400
 url: /fr/aspose.cells.pivot/pivotfield/drag_to_row/
 is_root: false
 ---
 ##  drag_to_row propriété
 
-Indique si le champ spécifié peut être glissé vers la position de la ligne.
-La valeur par défaut est vraie.
+Indique si le champ spécifié peut être déplacé vers la position de la ligne.
+La valeur par défaut est vrai.
 ###  Définition:
 ```python
 @property

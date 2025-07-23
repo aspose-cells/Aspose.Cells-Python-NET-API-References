@@ -3,7 +3,7 @@ title: title Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1060
+weight: 1070
 url: /de/aspose.cells.drawing/chartshape/title/
 is_root: false
 ---

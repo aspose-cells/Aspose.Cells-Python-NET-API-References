@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  evaluated_page_count propriété
 
-Évaluer le nombre total de pages de cette feuille de calcul
+Évaluez le nombre total de pages de cette feuille de travail
 
 ###  Exemple
 
-Le code suivant montre le moyen le plus rapide d'obtenir le nombre de pages d'une feuille de calcul.
+Le code suivant montre le moyen le plus rapide d’obtenir le nombre de pages d’une feuille de calcul.
 
 ```python
 from aspose.cells import Workbook
@@ -33,5 +33,5 @@ def evaluated_page_count(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.rendering](../../)
-* classe [SheetPrintingPreview](/cells/python-net/fr/aspose.cells.rendering/sheetprintingpreview)
+* module [`aspose.cells.rendering`](../../)
+* classe [`SheetPrintingPreview`](/cells/python-net/fr/aspose.cells.rendering/sheetprintingpreview)

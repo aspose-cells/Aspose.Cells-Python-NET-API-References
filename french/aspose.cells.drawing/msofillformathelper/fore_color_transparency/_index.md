@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fore_color_transparency propriété
 
-Renvoie ou définit le degré de couleur de premier plan du remplissage spécifié sous la forme d'une valeur comprise entre 0,0 (opaque) et 1,0 (transparent).
+Renvoie ou définit le degré de couleur d'avant-plan du remplissage spécifié sous la forme d'une valeur comprise entre 0,0 (opaque) et 1,0 (clair).
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def fore_color_transparency(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [MsoFillFormatHelper](/cells/python-net/fr/aspose.cells.drawing/msofillformathelper)
+* module [`aspose.cells.drawing`](../../)
+* classe [`MsoFillFormatHelper`](/cells/python-net/fr/aspose.cells.drawing/msofillformathelper)

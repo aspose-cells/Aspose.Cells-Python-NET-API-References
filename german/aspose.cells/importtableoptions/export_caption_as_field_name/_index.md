@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  export_caption_as_field_name Eigentum
 
-Gibt an, ob Beschriftung als Feldname exportiert wird
+Gibt an, ob die Beschriftung als Feldname exportiert wird
 
 ###  Bemerkungen
 
@@ -25,5 +25,5 @@ def export_caption_as_field_name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ImportTableOptions](/cells/python-net/de/aspose.cells/importtableoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ImportTableOptions`](/cells/python-net/de/aspose.cells/importtableoptions)

@@ -3,7 +3,7 @@ title: name_of_application propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 310
+weight: 320
 url: /fr/aspose.cells.properties/builtindocumentpropertycollection/name_of_application/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def name_of_application(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.properties](../../)
-* classe [BuiltInDocumentPropertyCollection](/cells/python-net/fr/aspose.cells.properties/builtindocumentpropertycollection)
+* module [`aspose.cells.properties`](../../)
+* classe [`BuiltInDocumentPropertyCollection`](/cells/python-net/fr/aspose.cells.properties/builtindocumentpropertycollection)

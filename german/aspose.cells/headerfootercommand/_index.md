@@ -3,12 +3,12 @@ title: HeaderFooterCommand Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 770
+weight: 750
 url: /de/aspose.cells/headerfootercommand/
 is_root: false
 ---
 ##  HeaderFooterCommand Klasse
-Stellt den Befehl für Kopf-/Fußzeile dar
+Stellt den Befehl Kopf-/Fußzeile dar
 
 
 

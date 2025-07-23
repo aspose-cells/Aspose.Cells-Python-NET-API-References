@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  extend_to_next_sheet propriété
 
-Indique si les données s'étendent à la feuille suivante lorsque les lignes ou les colonnes de données dépassent la limite.
-La valeur par défaut est fausse.
+S'étend aux données sur la feuille suivante lorsque les lignes ou les colonnes de données dépassent la limite.
+La valeur par défaut est faux.
 
 ###  Remarques
 
-Si cette propriété est vraie, les données supplémentaires seront placées dans la feuille suivante derrière la feuille actuelle.
-(si la feuille actuelle est la dernière, la nouvelle feuille sera ajoutée au classeur actuel).
+Si cette propriété est vraie, des données supplémentaires seront placées dans la feuille suivante après la feuille actuelle
+(si la feuille actuelle est la dernière, une nouvelle feuille sera ajoutée au classeur actuel).
 Si cette propriété est fausse, les données dépassant la limite seront ignorées.
 ###  Définition:
 ```python

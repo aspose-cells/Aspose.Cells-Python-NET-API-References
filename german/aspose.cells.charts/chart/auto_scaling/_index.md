@@ -3,13 +3,13 @@ title: auto_scaling Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 160
+weight: 180
 url: /de/aspose.cells.charts/chart/auto_scaling/
 is_root: false
 ---
 ##  auto_scaling Eigentum
 
- True, wenn Microsoft Excel ein 3D-Diagramm so skaliert, dass es der Größe des entsprechenden 2D-Diagramms näher kommt.
+ Wahr, wenn Microsoft Excel ein 3D-Diagramm so skaliert, dass es in der Größe näher an das entsprechende 2D-Diagramm heranreicht.
 Die RightAngleAxes-Eigenschaft muss True sein.
 ###  Definition:
 ```python
@@ -22,5 +22,5 @@ def auto_scaling(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Chart](/cells/python-net/de/aspose.cells.charts/chart)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Chart`](/cells/python-net/de/aspose.cells.charts/chart)

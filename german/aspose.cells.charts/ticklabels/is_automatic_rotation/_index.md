@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_automatic_rotation Eigentum
 
-Gibt an, ob der Drehwinkel automatisch erfolgt
+Gibt an, ob der Drehwinkel automatisch ist
 ###  Definition:
 ```python
 @property

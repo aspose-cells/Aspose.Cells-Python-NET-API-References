@@ -3,7 +3,7 @@ title: Hyperlink Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 840
+weight: 820
 url: /de/aspose.cells/hyperlink/
 is_root: false
 ---
@@ -27,7 +27,7 @@ Der Typ Hyperlink macht die folgenden Member verfügbar:
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [delete](/cells/python-net/de/aspose.cells/hyperlink/delete/#) |Löscht diesen Hyperlink|
+| [`delete(self)`](/cells/python-net/de/aspose.cells/hyperlink/delete/#) | Löscht diesen Hyperlink|
 
 
 

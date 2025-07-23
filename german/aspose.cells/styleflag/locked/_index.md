@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  locked Eigentum
 
-Die Sperreinstellung wird angewendet.
+Die gesperrte Einstellung wird angewendet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def locked(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [StyleFlag](/cells/python-net/de/aspose.cells/styleflag)
+* Modul [`aspose.cells`](../../)
+* Klasse [`StyleFlag`](/cells/python-net/de/aspose.cells/styleflag)

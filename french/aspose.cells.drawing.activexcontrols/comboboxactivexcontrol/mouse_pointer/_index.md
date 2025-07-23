@@ -8,8 +8,6 @@ url: /fr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/mouse_point
 is_root: false
 ---
 ##  mouse_pointer propriété
-
-Obtient et définit le type d'icône affichée comme pointeur de souris pour le contrôle.
 ###  Définition:
 ```python
 @property
@@ -21,6 +19,6 @@ def mouse_pointer(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [ComboBoxActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
-* classe [ControlMousePointerType](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/controlmousepointertype)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ComboBoxActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* classe [`ControlMousePointerType`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/controlmousepointertype)

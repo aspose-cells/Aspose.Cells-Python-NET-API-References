@@ -18,6 +18,6 @@ def source_worksheet(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.revisions](../../)
-* classe [RevisionCellMove](/cells/python-net/fr/aspose.cells.revisions/revisioncellmove)
-* classe [Worksheet](/cells/python-net/fr/aspose.cells/worksheet)
+* module [`aspose.cells.revisions`](../../)
+* classe [`RevisionCellMove`](/cells/python-net/fr/aspose.cells.revisions/revisioncellmove)
+* classe [`Worksheet`](/cells/python-net/fr/aspose.cells/worksheet)

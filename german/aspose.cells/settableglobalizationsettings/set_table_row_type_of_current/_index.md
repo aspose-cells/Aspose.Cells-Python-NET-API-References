@@ -7,12 +7,13 @@ weight: 410
 url: /de/aspose.cells/settableglobalizationsettings/set_table_row_type_of_current/
 is_root: false
 ---
-##  set_table_row_type_of_current {#str}
-Legt den Typnamen der Tabellenzeilen fest, der aus der aktuellen Zeile in der referenzierten Tabelle besteht.
+##  set_table_row_type_of_current(self, name) {#str}
+Legt den Typnamen der Tabellenzeilen fest, die aus der aktuellen Zeile in der referenzierten Tabelle bestehen.
 
 
 
 ```python
+
 def set_table_row_type_of_current(self, name):
     ...
 ```
@@ -20,7 +21,7 @@ def set_table_row_type_of_current(self, name):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| name | str | der Typname von Tabellenzeilen|
+| name | str | der Typname der Tabellenzeilen|
 
 
 

@@ -3,7 +3,7 @@ title: reading_order Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 310
+weight: 370
 url: /de/aspose.cells.charts/legend/reading_order/
 is_root: false
 ---

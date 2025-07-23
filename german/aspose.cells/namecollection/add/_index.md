@@ -7,16 +7,17 @@ weight: 20
 url: /de/aspose.cells/namecollection/add/
 is_root: false
 ---
-##  add(text) {#str}
+##  add(self, text) {#str}
 Definiert einen neuen Namen.
 
 
 ###  Kehrt zurück
 
-[Name](/cells/python-net/de/aspose.cells/name) Objektindex.
+[`Name`](/cells/python-net/de/aspose.cells/name) Objektindex.
 
 
 ```python
+
 def add(self, text):
     ...
 ```
@@ -27,11 +28,11 @@ def add(self, text):
 | text | str | Der als Name zu verwendende Text.|
 ###  Bemerkungen
 
-Der Name darf keine Leerzeichen enthalten und darf nicht wie Zellbezüge aussehen.
+Der Name darf keine Leerzeichen enthalten und darf nicht wie Zellreferenzen aussehen.
 
 
 ###  Siehe auch
 
-* Modul [aspose.cells](../../)
-* Klasse [Name](/cells/python-net/de/aspose.cells/name)
-* Klasse [NameCollection](/cells/python-net/de/aspose.cells/namecollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Name`](/cells/python-net/de/aspose.cells/name)
+* Klasse [`NameCollection`](/cells/python-net/de/aspose.cells/namecollection)

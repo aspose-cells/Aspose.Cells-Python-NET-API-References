@@ -1,14 +1,14 @@
 ---
-title: ShapeLockType dénombrement
+title: ShapeLockType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1150
+weight: 1140
 url: /fr/aspose.cells.drawing/shapelocktype/
 is_root: false
 ---
-##  ShapeLockType dénombrement
-Représente le type de la propriété à verrouiller.
+##  ShapeLockType énumération
+Représente le type de propriété à verrouiller.
 
 
 
@@ -21,10 +21,10 @@ Le type ShapeLockType expose les membres suivants :
 | ADJUST_HANDLES | Ajuster les poignées|
 | TEXT | Texte|
 | POINTS | Points|
-| CROP |Culture|
+| CROP | Recadrer|
 | SELECTION | Sélection|
-| MOVE | Déplacer|
-| ASPECT_RATIO | Ratio d'aspect|
+| MOVE | Se déplacer|
+| ASPECT_RATIO | Rapport hauteur/largeur|
 | ROTATION | Rotation|
 | UNGROUP | Dissocier|
 | RESIZE | Redimensionner|
@@ -34,4 +34,4 @@ Le type ShapeLockType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

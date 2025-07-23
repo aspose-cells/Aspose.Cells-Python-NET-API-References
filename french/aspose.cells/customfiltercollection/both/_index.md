@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  both propriété
 
-Indique si les deux critères ont une relation "et".
+Indique si les deux critères ont une relation « et ».
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def both(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CustomFilterCollection](/cells/python-net/fr/aspose.cells/customfiltercollection)
+* module [`aspose.cells`](../../)
+* classe [`CustomFilterCollection`](/cells/python-net/fr/aspose.cells/customfiltercollection)

@@ -21,6 +21,6 @@ def language_code(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [CountryCode](/cells/python-net/de/aspose.cells/countrycode)
-* Klasse [TextOptions](/cells/python-net/de/aspose.cells.drawing.texts/textoptions)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`CountryCode`](/cells/python-net/de/aspose.cells/countrycode)
+* Klasse [`TextOptions`](/cells/python-net/de/aspose.cells.drawing.texts/textoptions)

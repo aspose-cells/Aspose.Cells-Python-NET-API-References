@@ -3,18 +3,18 @@ title: max_column propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1080
+weight: 1110
 url: /fr/aspose.cells/cells/max_column/
 is_root: false
 ---
 ##  max_column propriété
 
-Index de colonne maximum des cellules qui ont été instanciées dans la collection (n'inclut pas la colonne
-où le style est défini pour toute la colonne mais aucune cellule n'y a été instanciée).
+Index de colonne maximal des cellules qui ont été instanciées dans la collection (n'inclut pas la colonne)
+où le style est défini pour la colonne entière mais aucune cellule n'y a été instanciée).
 
 ###  Remarques
 
-Renvoie -1 s'il n'y a pas de cellule.
+Renvoie -1 si aucune cellule n'a été instanciée.
 ###  Définition:
 ```python
 @property

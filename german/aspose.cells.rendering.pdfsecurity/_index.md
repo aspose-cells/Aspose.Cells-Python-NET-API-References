@@ -7,7 +7,7 @@ weight: 10
 url: /de/aspose.cells.rendering.pdfsecurity/
 is_root: false
 ---
- Der**Aspose.Cells.Rendering.PdfSecurity** Der Namespace bietet Klassensicherheitsoptionen für das Rendern von PDFs.
+ Der**Aspose.Cells.Rendering.PdfSecurity** Der Namespace bietet Klassensicherheitsoptionen für das Rendern von PDF.
 
 ###  Klassen
 | Klasse| Beschreibung|

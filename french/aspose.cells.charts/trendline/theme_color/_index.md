@@ -13,7 +13,7 @@ Obtient et définit la couleur du thème.
 
 ###  Remarques
 
-Si la couleur de premier plan n'est pas une couleur de thème, NULL sera retourné.
+Si la couleur de premier plan n'est pas une couleur de thème, NULL sera renvoyé.
 ###  Définition:
 ```python
 @property
@@ -25,6 +25,6 @@ def theme_color(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [ThemeColor](/cells/python-net/fr/aspose.cells/themecolor)
-* classe [Trendline](/cells/python-net/fr/aspose.cells.charts/trendline)
+* module [`aspose.cells.charts`](../../)
+* classe [`ThemeColor`](/cells/python-net/fr/aspose.cells/themecolor)
+* classe [`Trendline`](/cells/python-net/fr/aspose.cells.charts/trendline)

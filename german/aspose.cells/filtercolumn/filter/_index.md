@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  filter Eigentum
 
-Ruft die Bedingung zum Filtern von Daten ab und legt sie fest.
+Ruft die Bedingungen zum Filtern von Daten ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def filter(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FilterColumn](/cells/python-net/de/aspose.cells/filtercolumn)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FilterColumn`](/cells/python-net/de/aspose.cells/filtercolumn)

@@ -3,16 +3,17 @@ title: ungroup Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 160
+weight: 240
 url: /de/aspose.cells.pivot/pivotfield/ungroup/
 is_root: false
 ---
-##  ungroup {#}
+##  ungroup(self) {#}
 Gruppierung des Pivot-Felds aufheben.
 
 
 
 ```python
+
 def ungroup(self):
     ...
 ```

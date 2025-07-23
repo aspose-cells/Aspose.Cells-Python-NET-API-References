@@ -21,5 +21,5 @@ def cell_name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CellWatch](/cells/python-net/de/aspose.cells/cellwatch)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CellWatch`](/cells/python-net/de/aspose.cells/cellwatch)

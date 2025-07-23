@@ -13,7 +13,7 @@ Obtient et définit les options d'ajustement automatique
 
 ###  Remarques
 
-Uniquement pour xlsx, fichier spreadsheetML maintenant.
+Uniquement pour les fichiers xlsx et spreadsheetML désormais.
 ###  Définition:
 ```python
 @property
@@ -25,6 +25,6 @@ def auto_fitter_options(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [AutoFitterOptions](/cells/python-net/fr/aspose.cells/autofitteroptions)
-* classe [JsonLoadOptions](/cells/python-net/fr/aspose.cells/jsonloadoptions)
+* module [`aspose.cells`](../../)
+* classe [`AutoFitterOptions`](/cells/python-net/fr/aspose.cells/autofitteroptions)
+* classe [`JsonLoadOptions`](/cells/python-net/fr/aspose.cells/jsonloadoptions)

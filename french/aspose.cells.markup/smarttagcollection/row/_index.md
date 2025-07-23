@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row propriété
 
-Obtient le row des balises actives de la cellule.
+Obtient le row des balises intelligentes de cellule.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def row(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.markup](../../)
-* classe [SmartTagCollection](/cells/python-net/fr/aspose.cells.markup/smarttagcollection)
+* module [`aspose.cells.markup`](../../)
+* classe [`SmartTagCollection`](/cells/python-net/fr/aspose.cells.markup/smarttagcollection)

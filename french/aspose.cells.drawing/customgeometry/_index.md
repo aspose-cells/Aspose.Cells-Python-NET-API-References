@@ -12,8 +12,7 @@ Représente une forme géométrique personnalisée.
 
 
 
-**Héritage:** [CustomGeometry](/cells/python-net/aspose.cells.drawing/customgeometry) → 
-[Geometry](/cells/python-net/fr/aspose.cells.drawing/geometry)
+**Héritage:** [`CustomGeometry`](/cells/python-net/fr/aspose.cells.drawing/customgeometry)
 
 
 
@@ -22,12 +21,11 @@ Le type CustomGeometry expose les membres suivants :
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
-| [shape_adjust_values](/cells/python-net/fr/aspose.cells.drawing/customgeometry/shape_adjust_values) | Obtient une collection de valeur d'ajustement de forme|
+| [shape_adjust_values](/cells/python-net/fr/aspose.cells.drawing/customgeometry/shape_adjust_values) |  |
 | [paths](/cells/python-net/fr/aspose.cells.drawing/customgeometry/paths) | Obtient des informations sur la collection de chemins lorsque la forme est une forme automatique NotPrimitive|
 
 
 
 ###  Voir également
-* module [aspose.cells.drawing](..)
-* classe [CustomGeometry](/cells/python-net/fr/aspose.cells.drawing/customgeometry)
-* classe [Geometry](/cells/python-net/fr/aspose.cells.drawing/geometry)
+* module [`aspose.cells.drawing`](..)
+* classe [`CustomGeometry`](/cells/python-net/fr/aspose.cells.drawing/customgeometry)

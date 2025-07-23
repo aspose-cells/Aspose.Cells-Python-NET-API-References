@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  has_more_pages propriété
 
-Obtient ou définit une valeur indiquant si plusieurs pages doivent être générées.
-La valeur par défaut est true.
+Obtient ou définit une valeur indiquant s'il y a plus de pages à sortir.
+La valeur par défaut est vrai.
 ###  Définition:
 ```python
 @property
@@ -22,5 +22,5 @@ def has_more_pages(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.rendering](../../)
-* classe [PageEndSavingArgs](/cells/python-net/fr/aspose.cells.rendering/pageendsavingargs)
+* module [`aspose.cells.rendering`](../../)
+* classe [`PageEndSavingArgs`](/cells/python-net/fr/aspose.cells.rendering/pageendsavingargs)

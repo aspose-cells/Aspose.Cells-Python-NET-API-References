@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  print_permission Eigentum
 
-Gibt an, ob das Drucken des Dokuments zugelassen werden soll.
+Gibt an, ob das Drucken des Dokuments zulässig ist.
 
 ###  Bemerkungen
 
- Möglicherweise nicht auf höchstem Qualitätsniveau,
-abhängig davon, ob auch [`PdfSecurityOptions.full_quality_print_permission`](/cells/python-net/de/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#full_quality_print_permission) eingestellt ist.
+ Möglicherweise nicht auf dem höchsten Qualitätsniveau,
+je nachdem ob auch [`PdfSecurityOptions.full_quality_print_permission`](/cells/python-net/de/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#full_quality_print_permission) gesetzt ist.
 ###  Definition:
 ```python
 @property

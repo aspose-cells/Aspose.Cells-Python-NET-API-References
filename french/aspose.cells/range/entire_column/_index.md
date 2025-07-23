@@ -3,13 +3,13 @@ title: entire_column propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 300
+weight: 400
 url: /fr/aspose.cells/range/entire_column/
 is_root: false
 ---
 ##  entire_column propriété
 
-Obtient un objet Range qui représente la ou les colonnes entières contenant la plage spécifiée.
+Obtient un objet Range qui représente la colonne entière (ou les colonnes) qui contient la plage spécifiée.
 ###  Définition:
 ```python
 @property

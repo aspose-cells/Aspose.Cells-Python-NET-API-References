@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  kerning Eigentum
 
-Gibt die minimale Schriftgröße an, bei der das Zeichen kerning für diesen Textlauf auftritt.
+Gibt die minimale Schriftgröße an, bei der das Zeichen kerning für diesen Textlauf vorkommt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def kerning(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [TextOptions](/cells/python-net/de/aspose.cells.drawing.texts/textoptions)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`TextOptions`](/cells/python-net/de/aspose.cells.drawing.texts/textoptions)

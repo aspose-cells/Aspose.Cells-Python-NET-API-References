@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value2 Eigentum
 
-Stellt den zweiten Wert dar, der der Datenvalidierung zugeordnet ist.
+Stellt den zweiten Wert dar, der mit der Datenvalidierung verknüpft ist.
 ###  Definition:
 ```python
 @property

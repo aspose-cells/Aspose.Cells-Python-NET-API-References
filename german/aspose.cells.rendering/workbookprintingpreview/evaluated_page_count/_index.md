@@ -13,7 +13,7 @@ Bewerten Sie die Gesamtseitenzahl dieser Arbeitsmappe
 
 ###  Beispiel
 
-Der folgende Code zeigt den schnellsten Weg, um die Seitenanzahl einer Arbeitsmappe zu ermitteln.
+Der folgende Code zeigt den schnellsten Weg, die Seitenanzahl einer Arbeitsmappe zu ermitteln.
 
 ```python
 from aspose.cells import Workbook
@@ -33,5 +33,5 @@ def evaluated_page_count(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](../../)
-* Klasse [WorkbookPrintingPreview](/cells/python-net/de/aspose.cells.rendering/workbookprintingpreview)
+* Modul [`aspose.cells.rendering`](../../)
+* Klasse [`WorkbookPrintingPreview`](/cells/python-net/de/aspose.cells.rendering/workbookprintingpreview)

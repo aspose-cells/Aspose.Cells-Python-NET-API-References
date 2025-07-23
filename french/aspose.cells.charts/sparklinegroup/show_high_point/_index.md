@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_high_point propriété
 
-Indique s'il faut mettre en surbrillance les points de données les plus élevés dans le groupe de graphiques sparkline.
+Indique s'il faut mettre en évidence les points de données les plus élevés dans le groupe Sparkline.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_high_point(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [SparklineGroup](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)
+* module [`aspose.cells.charts`](../../)
+* classe [`SparklineGroup`](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)

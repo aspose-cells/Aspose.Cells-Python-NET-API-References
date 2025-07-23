@@ -30,5 +30,5 @@ def is_line(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [SignatureLine](/cells/python-net/fr/aspose.cells.drawing/signatureline)
+* module [`aspose.cells.drawing`](../../)
+* classe [`SignatureLine`](/cells/python-net/fr/aspose.cells.drawing/signatureline)

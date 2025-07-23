@@ -3,14 +3,14 @@ title: drag_to_column Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 280
+weight: 360
 url: /de/aspose.cells.pivot/pivotfield/drag_to_column/
 is_root: false
 ---
 ##  drag_to_column Eigentum
 
 Gibt an, ob das angegebene Feld an die Spaltenposition gezogen werden kann.
-Der Standardwert ist wahr.
+Der Standardwert ist „true“.
 ###  Definition:
 ```python
 @property

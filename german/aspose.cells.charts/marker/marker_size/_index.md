@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  marker_size Eigentum
 
-Repräsentiert die Markergröße in Punkteinheiten. Gilt für Liniendiagramme, Streudiagramme oder Netzdiagramme.
+Stellt die Markierungsgröße in Punkten dar. Gilt für Liniendiagramme, Streudiagramme und Netzdiagramme.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def marker_size(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Marker](/cells/python-net/de/aspose.cells.charts/marker)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Marker`](/cells/python-net/de/aspose.cells.charts/marker)

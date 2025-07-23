@@ -3,7 +3,7 @@ title: command_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 50
+weight: 60
 url: /de/aspose.cells.externalconnections/dbconnection/command_type/
 is_root: false
 ---
@@ -11,10 +11,10 @@ is_root: false
 
  Gibt den OLE DB-Befehlstyp an.
 1. Abfrage gibt einen Cube-Namen an
-2. Query gibt eine SQL-Anweisung an
+2. Abfrage gibt eine SQL-Anweisung an
 3. Abfrage gibt einen Tabellennamen an
-4. Die Abfrage gibt an, dass Standardinformationen angegeben wurden, und es dem Anbieter überlassen ist, wie er interpretiert.
-5. Die Abfrage erfolgt gegen einen webbasierten Listendatenanbieter.
+4. Die Abfrage gibt an, dass Standardinformationen angegeben wurden und die Interpretation dem Anbieter überlassen bleibt.
+5. Die Abfrage erfolgt an einen webbasierten Listendatenanbieter.
 ###  Definition:
 ```python
 @property
@@ -26,6 +26,6 @@ def command_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.externalconnections](../../)
-* Klasse [DBConnection](/cells/python-net/de/aspose.cells.externalconnections/dbconnection)
-* Klasse [OLEDBCommandType](/cells/python-net/de/aspose.cells.externalconnections/oledbcommandtype)
+* Modul [`aspose.cells.externalconnections`](../../)
+* Klasse [`DBConnection`](/cells/python-net/de/aspose.cells.externalconnections/dbconnection)
+* Klasse [`OLEDBCommandType`](/cells/python-net/de/aspose.cells.externalconnections/oledbcommandtype)

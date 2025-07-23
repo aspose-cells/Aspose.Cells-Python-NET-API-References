@@ -3,16 +3,17 @@ title: set_text_of_grand_total Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 270
+weight: 280
 url: /de/aspose.cells/settablepivotglobalizationsettings/set_text_of_grand_total/
 is_root: false
 ---
-##  set_text_of_grand_total {#str}
-Legt den Text der Bezeichnung „Gesamtsumme“ in der PivotTable fest.
+##  set_text_of_grand_total(self, text) {#str}
+Legt den Text der Beschriftung „Gesamtsumme“ in der PivotTable fest.
 
 
 
 ```python
+
 def set_text_of_grand_total(self, text):
     ...
 ```

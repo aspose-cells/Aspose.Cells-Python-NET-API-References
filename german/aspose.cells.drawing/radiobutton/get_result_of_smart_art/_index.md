@@ -3,16 +3,17 @@ title: get_result_of_smart_art Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 140
+weight: 150
 url: /de/aspose.cells.drawing/radiobutton/get_result_of_smart_art/
 is_root: false
 ---
-##  get_result_of_smart_art {#}
+##  get_result_of_smart_art(self) {#}
 Konvertieren von Smart Art in gruppierte Formen.
 
 
 
 ```python
+
 def get_result_of_smart_art(self):
     ...
 ```

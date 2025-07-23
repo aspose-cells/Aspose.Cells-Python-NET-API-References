@@ -3,7 +3,7 @@ title: line_format Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 730
+weight: 740
 url: /de/aspose.cells.drawing/label/line_format/
 is_root: false
 ---
@@ -13,10 +13,10 @@ Gibt ein MsoLineFormat-Objekt zurück, das Linienformatierungseigenschaften für
 
 ###  Bemerkungen
 
- HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
+ HINWEIS: Dieses Mitglied ist mittlerweile veraltet. Stattdessen
  Bitte verwenden Sie die Shape.Line-Eigenschaft.
- Diese Eigenschaft wird seit Juli 2016 12 Monate später entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+ Diese Eigenschaft wird 12 Monate später (ab Juli 2016) entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 ###  Definition:
 ```python
 @property

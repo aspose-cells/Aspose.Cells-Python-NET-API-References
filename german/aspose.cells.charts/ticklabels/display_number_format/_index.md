@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_number_format Eigentum
 
-Ruft das Anzeigenummernformat von Teilstrichbeschriftungen ab und legt es fest.
+Ruft das Anzeigenummernformat der Teilstrichbeschriftungen ab und legt es fest.
 ###  Definition:
 ```python
 @property

@@ -13,10 +13,10 @@ Autorisation de copier ou d'extraire du contenu Obsolète selon la référence P
 
 ###  Remarques
 
-REMARQUE : ce membre est désormais obsolète. Plutôt,
+REMARQUE : Ce membre est désormais obsolète. À la place,
 veuillez utiliser la propriété ExtractContentPermission.
- Ce bien sera supprimé 12 mois plus tard depuis septembre 2023.
-Le Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ Cette propriété sera supprimée 12 mois plus tard soit en septembre 2023.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 ###  Définition:
 ```python
 @property

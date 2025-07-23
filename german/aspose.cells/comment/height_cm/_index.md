@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height_cm Eigentum
 
-Stellt die Höhe des Kommentars in der Einheit Zentimeter dar.
+Stellt die Höhe des Kommentars in Zentimetern dar.
 
 ###  Beispiel
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  load_style_strategy propriété
 
-Indique la stratégie pour appliquer le style aux valeurs analysées lors de la conversion d'une valeur de chaîne en nombre ou en date/heure.
+Indique la stratégie à appliquer pour appliquer le style aux valeurs analysées lors de la conversion d'une valeur de chaîne en nombre ou en date/heure.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def load_style_strategy(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [HtmlLoadOptions](/cells/python-net/fr/aspose.cells/htmlloadoptions)
-* classe [TxtLoadStyleStrategy](/cells/python-net/fr/aspose.cells/txtloadstylestrategy)
+* module [`aspose.cells`](../../)
+* classe [`HtmlLoadOptions`](/cells/python-net/fr/aspose.cells/htmlloadoptions)
+* classe [`TxtLoadStyleStrategy`](/cells/python-net/fr/aspose.cells/txtloadstylestrategy)

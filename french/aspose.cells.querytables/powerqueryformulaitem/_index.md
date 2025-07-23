@@ -8,7 +8,7 @@ url: /fr/aspose.cells.querytables/powerqueryformulaitem/
 is_root: false
 ---
 ##  PowerQueryFormulaItem classe
-Représente l'élément de la formule de requête avancée.
+Représente l'élément de la formule de requête de puissance.
 
 
 
@@ -23,4 +23,4 @@ Le type PowerQueryFormulaItem expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.querytables](..)
+* module [`aspose.cells.querytables`](..)

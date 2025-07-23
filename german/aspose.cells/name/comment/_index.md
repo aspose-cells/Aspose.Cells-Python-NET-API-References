@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  comment Eigentum
 
-Ruft die comment des Namens ab und legt diese fest.
+Ruft die comment des Namens ab und legt sie fest.
 Gilt nur für Excel 2007 oder höhere Versionen.
 ###  Definition:
 ```python

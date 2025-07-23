@@ -13,10 +13,10 @@ Gibt den Wert der benutzerdefinierten Eigenschaft zurück oder legt ihn fest.
 
 ###  Bemerkungen
 
- HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
- Bitte verwenden Sie die CustomProperty.Value-Eigenschaft.
- Diese Eigenschaft wird 12 Monate später seit Juni 2010 entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+ HINWEIS: Dieses Mitglied ist mittlerweile veraltet. Stattdessen
+ Bitte verwenden Sie die Eigenschaft CustomProperty.Value.
+ Diese Eigenschaft wird 12 Monate später (ab Juni 2010) entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 ###  Definition:
 ```python
 @property
@@ -28,5 +28,5 @@ def string_value(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.properties](../../)
-* Klasse [CustomProperty](/cells/python-net/de/aspose.cells.properties/customproperty)
+* Modul [`aspose.cells.properties`](../../)
+* Klasse [`CustomProperty`](/cells/python-net/de/aspose.cells.properties/customproperty)

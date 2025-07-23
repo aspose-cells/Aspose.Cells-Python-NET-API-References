@@ -3,13 +3,13 @@ title: is_missing Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 100
+weight: 140
 url: /de/aspose.cells.pivot/pivotitem/is_missing/
 is_root: false
 ---
 ##  is_missing Eigentum
 
-Gibt an, ob für das Element ein Wert fehlt.
+Gibt an, ob das Element aus der Datenquelle entfernt wurde.
 
 ###  Bemerkungen
 

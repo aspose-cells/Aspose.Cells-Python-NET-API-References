@@ -7,8 +7,8 @@ weight: 20
 url: /de/aspose.cells/writeprotection/validate_password/
 is_root: false
 ---
-##  validate_password(password) {#str}
-Gibt true zurück, wenn das angegebene Passwort mit dem Schreibschutzpasswort übereinstimmt, mit dem die Datei geschützt wurde.
+##  validate_password(self, password) {#str}
+Gibt „true“ zurück, wenn das angegebene Kennwort mit dem Schreibschutzkennwort übereinstimmt, mit dem die Datei geschützt wurde.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Gibt true zurück, wenn das angegebene Passwort mit dem Schreibschutzpasswort ü
 
 
 ```python
+
 def validate_password(self, password):
     ...
 ```
@@ -29,5 +30,5 @@ def validate_password(self, password):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [WriteProtection](/cells/python-net/de/aspose.cells/writeprotection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`WriteProtection`](/cells/python-net/de/aspose.cells/writeprotection)

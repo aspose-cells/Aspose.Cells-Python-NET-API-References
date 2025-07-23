@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  layout_properties Eigentum
 
-Repräsentiert die Eigenschaften des Layouts.
+Stellt die Eigenschaften des Layouts dar.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def layout_properties(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Series](/cells/python-net/de/aspose.cells.charts/series)
-* Klasse [SeriesLayoutProperties](/cells/python-net/de/aspose.cells.charts/serieslayoutproperties)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Series`](/cells/python-net/de/aspose.cells.charts/series)
+* Klasse [`SeriesLayoutProperties`](/cells/python-net/de/aspose.cells.charts/serieslayoutproperties)

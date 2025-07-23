@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gradient_fill Eigentum
 
-Ruft [FillFormat.gradient_fill](/cells/python-net/de/aspose.cells.drawing/fillformat#gradient_fill)-Objekt ab.
+Ruft das Objekt [`FillFormat.gradient_fill`](/cells/python-net/de/aspose.cells.drawing/fillformat#gradient_fill) ab.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def gradient_fill(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [FillFormat](/cells/python-net/de/aspose.cells.drawing/fillformat)
-* Klasse [GradientFill](/cells/python-net/de/aspose.cells.drawing/gradientfill)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`FillFormat`](/cells/python-net/de/aspose.cells.drawing/fillformat)
+* Klasse [`GradientFill`](/cells/python-net/de/aspose.cells.drawing/gradientfill)

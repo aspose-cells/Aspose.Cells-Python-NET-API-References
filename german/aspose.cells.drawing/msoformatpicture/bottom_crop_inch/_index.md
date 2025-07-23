@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom_crop_inch Eigentum
 
-Stellt die Position der Unterseite des Zuschneiderechtecks dar, ausgedrückt in der Einheit Zoll.
+Stellt die Position der Unterseite des Zuschneiderechtecks in Zoll dar.
 ###  Definition:
 ```python
 @property

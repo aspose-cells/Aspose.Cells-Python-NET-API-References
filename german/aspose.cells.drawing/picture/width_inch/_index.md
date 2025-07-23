@@ -3,13 +3,13 @@ title: width_inch Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1380
+weight: 1400
 url: /de/aspose.cells.drawing/picture/width_inch/
 is_root: false
 ---
 ##  width_inch Eigentum
 
-Stellt die Breite der Form in der Einheit Zoll dar.
+Stellt die Breite der Form in Zoll dar.
 
 ###  Beispiel
 

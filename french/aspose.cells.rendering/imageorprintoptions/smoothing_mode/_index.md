@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  smoothing_mode propriété
 
-Spécifie si le lissage (anticrénelage) est appliqué aux lignes et courbes ainsi qu'aux bords des zones remplies.
+Spécifie si le lissage (anticrénelage) est appliqué aux lignes et aux courbes ainsi qu'aux bords des zones remplies.
 La valeur par défaut est SmoothingMode.None
 ###  Définition:
 ```python

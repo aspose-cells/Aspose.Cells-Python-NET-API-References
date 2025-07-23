@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  Timeline Klasse
 Zusammenfassende Beschreibung von Timeline Ansicht
-Aufgrund von MS Excel unterstützt Excel 2003 Timeline nicht
+Aufgrund von MS Excel unterstützt Excel 2003 nicht Timeline
 
 
 
@@ -19,11 +19,12 @@ Der Typ Timeline macht die folgenden Member verfügbar:
 | Eigentum| Beschreibung|
 | :- | :- |
 | [caption](/cells/python-net/de/aspose.cells.timelines/timeline/caption) | Gibt die Beschriftung der angegebenen Zeitleiste zurück oder legt sie fest.|
-| [name](/cells/python-net/de/aspose.cells.timelines/timeline/name) |Gibt den Namen der angegebenen Timeline zurück oder legt ihn fest|
-| [left_pixel](/cells/python-net/de/aspose.cells.timelines/timeline/left_pixel) | Gibt den horizontalen Versatz der Zeitachsenform von der linken Spalte in Pixel zurück oder legt ihn fest.|
-| [top_pixel](/cells/python-net/de/aspose.cells.timelines/timeline/top_pixel) | Gibt den vertikalen Versatz der Zeitachsenform von der obersten Zeile in Pixel zurück oder legt ihn fest.|
-| [width_pixel](/cells/python-net/de/aspose.cells.timelines/timeline/width_pixel) | Gibt die Breite der angegebenen Zeitleiste in Pixel zurück oder legt sie fest.|
-| [height_pixel](/cells/python-net/de/aspose.cells.timelines/timeline/height_pixel) | Gibt die Höhe der angegebenen Zeitleiste in Pixel zurück oder legt sie fest.|
+| [shape](/cells/python-net/de/aspose.cells.timelines/timeline/shape) | Gibt das mit dieser Zeitleiste verknüpfte Objekt [`TimelineShape`](/cells/python-net/de/aspose.cells.drawing/timelineshape) zurück. Schreibgeschützt.|
+| [name](/cells/python-net/de/aspose.cells.timelines/timeline/name) | Gibt den Namen der angegebenen Timeline zurück oder setzt ihn|
+| [left_pixel](/cells/python-net/de/aspose.cells.timelines/timeline/left_pixel) | Gibt den horizontalen Versatz der Zeitleistenform von ihrer linken Spalte in Pixeln zurück oder legt ihn fest.|
+| [top_pixel](/cells/python-net/de/aspose.cells.timelines/timeline/top_pixel) | Gibt den vertikalen Versatz der Zeitleistenform von ihrer obersten Zeile in Pixeln zurück oder legt ihn fest.|
+| [width_pixel](/cells/python-net/de/aspose.cells.timelines/timeline/width_pixel) | Gibt die Breite der angegebenen Zeitleiste in Pixeln zurück oder legt sie fest.|
+| [height_pixel](/cells/python-net/de/aspose.cells.timelines/timeline/height_pixel) | Gibt die Höhe der angegebenen Zeitleiste in Pixeln zurück oder legt sie fest.|
 
 
 
@@ -32,7 +33,7 @@ Der Typ Timeline macht die folgenden Member verfügbar:
 ```python
 from aspose.cells import CellsFactory, Workbook
 from aspose.cells.pivot import PivotFieldType, PivotTableStyleType
-import datetime
+from datetime import datetime
 
 book = Workbook()
 sheet = book.worksheets[0]
@@ -81,4 +82,5 @@ book.save("out.xlsx")
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.timelines](..)
+* Modul [`aspose.cells.timelines`](..)
+* Klasse [`TimelineShape`](/cells/python-net/de/aspose.cells.drawing/timelineshape)

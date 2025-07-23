@@ -17,10 +17,11 @@ Der Typ SlicerCacheItemSortType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
+| NATURAL | Ursprüngliche Datenreihenfolge.|
 | ASCENDING | Aufsteigender Sortiertyp|
-| DESCENDING | Absteigender Sortiertyp|
+| DESCENDING |Absteigender Sortiertyp|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.slicers](..)
+* Modul [`aspose.cells.slicers`](..)

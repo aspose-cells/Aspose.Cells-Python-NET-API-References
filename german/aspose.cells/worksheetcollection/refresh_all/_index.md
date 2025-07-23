@@ -7,12 +7,13 @@ weight: 160
 url: /de/aspose.cells/worksheetcollection/refresh_all/
 is_root: false
 ---
-##  refresh_all {#}
-Aktualisieren Sie alle Pivot-Tabellen und Diagramme mit der Pivot-Quelle.
+##  refresh_all(self) {#}
+Aktualisieren Sie alle Pivot-Tabellen und Diagramme mit Pivot-Quelle.
 
 
 
 ```python
+
 def refresh_all(self):
     ...
 ```

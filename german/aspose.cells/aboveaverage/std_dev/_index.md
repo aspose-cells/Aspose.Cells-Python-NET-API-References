@@ -9,10 +9,10 @@ is_root: false
 ---
 ##  std_dev Eigentum
 
-Rufen Sie die Anzahl der Standardabweichungen ab oder legen Sie sie fest, die über oder unter dem Durchschnitt in die eingeschlossen werden sollen
- Bedingte Formatierungsregel.
- Der Eingabewert muss zwischen 0 und 3 liegen (einschließlich 0 und 3).
-Das Festlegen dieses Werts auf 0 bedeutet, dass stdDev nicht festgelegt ist.
+Ermitteln oder Festlegen der Anzahl der Standardabweichungen, die über oder unter dem Durchschnitt liegen sollen.
+ Regel zur bedingten Formatierung.
+ Der Eingabewert muss zwischen 0 und 3 liegen (0 und 3 einschließen).
+Wenn Sie diesen Wert auf 0 setzen, bedeutet dies, dass stdDev nicht festgelegt ist.
 Der Standardwert ist 0.
 ###  Definition:
 ```python
@@ -25,5 +25,5 @@ def std_dev(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [AboveAverage](/cells/python-net/de/aspose.cells/aboveaverage)
+* Modul [`aspose.cells`](../../)
+* Klasse [`AboveAverage`](/cells/python-net/de/aspose.cells/aboveaverage)

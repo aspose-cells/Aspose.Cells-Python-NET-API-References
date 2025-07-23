@@ -3,17 +3,17 @@ title: lower_delta_x propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 780
+weight: 790
 url: /fr/aspose.cells.drawing/scrollbar/lower_delta_x/
 is_root: false
 ---
 ##  lower_delta_x propriété
 
-Obtient ou définit le décalage horizontal de la forme par rapport à sa colonne du coin inférieur droit.
+Obtient ou définit le décalage horizontal de la forme par rapport à sa colonne d'angle inférieur droit.
 
 ###  Remarques
 
-La plage de valeurs va de 0 à 1024.
+La plage de valeurs est de 0 à 1024.
 
 ###  Exemple
 

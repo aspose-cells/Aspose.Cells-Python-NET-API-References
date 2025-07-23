@@ -3,13 +3,13 @@ title: top_to_corner Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1160
+weight: 1170
 url: /de/aspose.cells.drawing/lineshape/top_to_corner/
 is_root: false
 ---
 ##  top_to_corner Eigentum
 
-Ruft den vertikalen Versatz der Form vom oberen Rand des Arbeitsblatts in Pixeleinheiten ab und legt ihn fest.
+Ruft den vertikalen Versatz der Form vom oberen Rand des Arbeitsblatts in Pixeln ab und legt ihn fest.
 
 ###  Beispiel
 

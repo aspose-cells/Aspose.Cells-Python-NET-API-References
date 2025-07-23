@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  index Eigentum
 
-Ruft die index des Symbols im Symbolsatz ab und legt sie fest.
+Ruft die Nummer index des Symbols ab und legt sie im Symbolsatz fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def index(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ConditionalFormattingIcon](/cells/python-net/de/aspose.cells/conditionalformattingicon)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ConditionalFormattingIcon`](/cells/python-net/de/aspose.cells/conditionalformattingicon)

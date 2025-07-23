@@ -3,13 +3,13 @@ title: major_grid_lines Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 280
+weight: 290
 url: /de/aspose.cells.charts/axis/major_grid_lines/
 is_root: false
 ---
 ##  major_grid_lines Eigentum
 
-Stellt Hauptgitterlinien auf einer Diagrammachse dar.
+Stellt die wichtigsten Gitternetzlinien auf einer Diagrammachse dar.
 
 ###  Beispiel
 

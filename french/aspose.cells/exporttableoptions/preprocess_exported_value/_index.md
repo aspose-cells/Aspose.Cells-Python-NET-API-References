@@ -7,16 +7,17 @@ weight: 20
 url: /fr/aspose.cells/exporttableoptions/preprocess_exported_value/
 is_root: false
 ---
-##  preprocess_exported_value {#int-int-aspose.cells.CellValue}
-Prétraitez la valeur de la cellule actuelle à exporter.
+##  preprocess_exported_value(self, cell_row, cell_column, value) {#int-int-aspose.cells.CellValue}
+Prétraiter la valeur de la cellule actuelle à exporter.
 
 
 ###  Retour
 
-Si la cellule actuelle a été remplacée par un type et/ou une valeur différente.
+Si la cellule actuelle a été remplacée par un type et/ou une valeur différents.
 
 
 ```python
+
 def preprocess_exported_value(self, cell_row, cell_column, value):
     ...
 ```

@@ -7,7 +7,7 @@ weight: 20
 url: /de/aspose.cells.markup/customxmlpartcollection/add/
 is_root: false
 ---
-##  add(data, shema_data) {#bytes-bytes}
+##  add(self, data, shema_data) {#bytes-bytes}
 Fügt der Sammlung ein Element hinzu.
 
 
@@ -17,6 +17,7 @@ Fügt der Sammlung ein Element hinzu.
 
 
 ```python
+
 def add(self, data, shema_data):
     ...
 ```
@@ -30,5 +31,5 @@ def add(self, data, shema_data):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.markup](../../)
-* Klasse [CustomXmlPartCollection](/cells/python-net/de/aspose.cells.markup/customxmlpartcollection)
+* Modul [`aspose.cells.markup`](../../)
+* Klasse [`CustomXmlPartCollection`](/cells/python-net/de/aspose.cells.markup/customxmlpartcollection)

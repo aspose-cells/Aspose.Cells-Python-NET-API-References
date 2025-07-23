@@ -3,13 +3,13 @@ title: auto_format_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 320
+weight: 400
 url: /de/aspose.cells.pivot/pivottable/auto_format_type/
 is_root: false
 ---
 ##  auto_format_type Eigentum
 
-Ruft den automatischen PivotTable-Formattyp ab.
+Ruft den automatischen Formattyp der PivotTable ab und legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def auto_format_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotTable](/cells/python-net/de/aspose.cells.pivot/pivottable)
-* Klasse [PivotTableAutoFormatType](/cells/python-net/de/aspose.cells.pivot/pivottableautoformattype)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotTable`](/cells/python-net/de/aspose.cells.pivot/pivottable)
+* Klasse [`PivotTableAutoFormatType`](/cells/python-net/de/aspose.cells.pivot/pivottableautoformattype)

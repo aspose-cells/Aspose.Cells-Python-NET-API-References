@@ -3,17 +3,17 @@ title: created_time propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 130
+weight: 140
 url: /fr/aspose.cells/pdfsaveoptions/created_time/
 is_root: false
 ---
 ##  created_time propriété
 
-Obtient et définit l'heure de génération du document pdf.
+Obtient et définit l'heure de génération du document PDF.
 
 ###  Remarques
 
-s'il n'est pas défini, ce sera le moment de générer le pdf.
+si ce n'est pas défini, ce sera le moment de générer le pdf.
 ###  Définition:
 ```python
 @property
@@ -25,5 +25,5 @@ def created_time(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PdfSaveOptions](/cells/python-net/fr/aspose.cells/pdfsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`PdfSaveOptions`](/cells/python-net/fr/aspose.cells/pdfsaveoptions)

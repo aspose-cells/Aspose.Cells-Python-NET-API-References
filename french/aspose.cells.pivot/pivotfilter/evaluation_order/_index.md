@@ -3,7 +3,7 @@ title: evaluation_order propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 40
+weight: 80
 url: /fr/aspose.cells.pivot/pivotfilter/evaluation_order/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def evaluation_order(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.pivot](../../)
-* classe [PivotFilter](/cells/python-net/fr/aspose.cells.pivot/pivotfilter)
+* module [`aspose.cells.pivot`](../../)
+* classe [`PivotFilter`](/cells/python-net/fr/aspose.cells.pivot/pivotfilter)

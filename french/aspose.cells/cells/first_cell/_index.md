@@ -3,7 +3,7 @@ title: first_cell propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1040
+weight: 1060
 url: /fr/aspose.cells/cells/first_cell/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Obtient la première cellule de cette feuille de calcul.
 
 ###  Remarques
 
-Renvoie null s'il n'y a aucune donnée dans la feuille de calcul.
+Renvoie null s'il n'y a pas de données dans la feuille de calcul.
 ###  Définition:
 ```python
 @property

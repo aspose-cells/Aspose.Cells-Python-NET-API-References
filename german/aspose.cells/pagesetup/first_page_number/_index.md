@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  first_page_number Eigentum
 
-Stellt die erste Seitenzahl dar, die verwendet wird, wenn dieses Blatt gedruckt wird.
+Stellt die erste Seitenzahl dar, die beim Drucken dieses Blattes verwendet wird.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def first_page_number(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

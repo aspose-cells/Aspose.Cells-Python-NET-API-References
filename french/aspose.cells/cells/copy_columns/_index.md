@@ -1,5 +1,5 @@
 ---
-title: copy_columns méthode
+title: méthode copy_columns
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 160
 url: /fr/aspose.cells/cells/copy_columns/
 is_root: false
 ---
-##  copy_columns(source_cells0, source_column_index, destination_column_index, column_number) {#Cells-int-int-int}
+##  copy_columns(self, source_cells0, source_column_index, destination_column_index, column_number) {#aspose.cells.Cells-int-int-int}
 Copie les données et les formats d'une colonne entière.
 
 
 
 ```python
+
 def copy_columns(self, source_cells0, source_column_index, destination_column_index, column_number):
     ...
 ```
@@ -20,18 +21,19 @@ def copy_columns(self, source_cells0, source_column_index, destination_column_in
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| source_cells0 | [Cells](/cells/python-net/fr/aspose.cells/cells) | L'objet source Cells contient les données et les formats à copier.|
+| source_cells0 | [`Cells`](/cells/python-net/fr/aspose.cells/cells) | L'objet source Cells contient des données et des formats à copier.|
 | source_column_index | int | Index de la colonne source.|
 | destination_column_index | int | Index de la colonne de destination.|
 | column_number | int | Le numéro de colonne copié.|
 
 
-##  copy_columns(source_cells0, source_column_index, destination_column_index, column_number, paste_options) {#Cells-int-int-int-PasteOptions}
+##  copy_columns(self, source_cells0, source_column_index, destination_column_index, column_number, paste_options) {#aspose.cells.Cells-int-int-int-aspose.cells.PasteOptions}
 Copie les données et les formats d'une colonne entière.
 
 
 
 ```python
+
 def copy_columns(self, source_cells0, source_column_index, destination_column_index, column_number, paste_options):
     ...
 ```
@@ -39,19 +41,20 @@ def copy_columns(self, source_cells0, source_column_index, destination_column_in
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| source_cells0 | [Cells](/cells/python-net/fr/aspose.cells/cells) | L'objet source Cells contient les données et les formats à copier.|
+| source_cells0 | [`Cells`](/cells/python-net/fr/aspose.cells/cells) | L'objet source Cells contient des données et des formats à copier.|
 | source_column_index | int | Index de la colonne source.|
 | destination_column_index | int | Index de la colonne de destination.|
 | column_number | int | Le numéro de colonne copié.|
-| paste_options | [PasteOptions](/cells/python-net/fr/aspose.cells/pasteoptions) | les options de collage.|
+| paste_options | [`PasteOptions`](/cells/python-net/fr/aspose.cells/pasteoptions) | les options de collage.|
 
 
-##  copy_columns(source_cells, source_column_index, source_total_columns, destination_column_index, destination_total_columns) {#Cells-int-int-int-int}
+##  copy_columns(self, source_cells, source_column_index, source_total_columns, destination_column_index, destination_total_columns) {#aspose.cells.Cells-int-int-int-int}
 Copie les données et les formats de toutes les colonnes.
 
 
 
 ```python
+
 def copy_columns(self, source_cells, source_column_index, source_total_columns, destination_column_index, destination_total_columns):
     ...
 ```
@@ -59,14 +62,14 @@ def copy_columns(self, source_cells, source_column_index, source_total_columns, 
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| source_cells | [Cells](/cells/python-net/fr/aspose.cells/cells) | L'objet source Cells contient les données et les formats à copier.|
+| source_cells | [`Cells`](/cells/python-net/fr/aspose.cells/cells) | L'objet source Cells contient des données et des formats à copier.|
 | source_column_index | int | Index de la colonne source.|
-| source_total_columns | int | Le nombre de colonnes source.|
+| source_total_columns | int | Le nombre de colonnes sources.|
 | destination_column_index | int | Index de la colonne de destination.|
 | destination_total_columns | int | Le nombre de colonnes de destination.|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Cells](/cells/python-net/fr/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* classe [`Cells`](/cells/python-net/fr/aspose.cells/cells)

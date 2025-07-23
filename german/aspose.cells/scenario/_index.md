@@ -3,7 +3,7 @@ title: Scenario Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1370
+weight: 1260
 url: /de/aspose.cells/scenario/
 is_root: false
 ---

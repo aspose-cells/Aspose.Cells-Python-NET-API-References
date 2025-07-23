@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  backward propriété
 
- Renvoie ou définit le nombre de périodes (ou d'unités sur un graphique en nuage de points) que la courbe de tendance étend backward.
+ Renvoie ou définit le nombre de périodes (ou d'unités sur un graphique en nuage de points) pendant lesquelles la ligne de tendance s'étend backward.
 Le nombre de périodes doit être supérieur ou égal à zéro.
-Si le type de graphique est colonne, le nombre de périodes doit être compris entre 0 et 0,5
+Si le type de graphique est à colonnes, le nombre de périodes doit être compris entre 0 et 0,5
 ###  Définition:
 ```python
 @property
@@ -23,5 +23,5 @@ def backward(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Trendline](/cells/python-net/fr/aspose.cells.charts/trendline)
+* module [`aspose.cells.charts`](../../)
+* classe [`Trendline`](/cells/python-net/fr/aspose.cells.charts/trendline)

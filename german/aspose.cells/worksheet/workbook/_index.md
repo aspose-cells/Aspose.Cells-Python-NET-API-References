@@ -3,13 +3,13 @@ title: workbook Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 930
+weight: 950
 url: /de/aspose.cells/worksheet/workbook/
 is_root: false
 ---
 ##  workbook Eigentum
 
-Ruft das workbook-Objekt ab, das dieses Blatt enthält.
+Ruft das Objekt workbook ab, das dieses Blatt enthält.
 ###  Definition:
 ```python
 @property

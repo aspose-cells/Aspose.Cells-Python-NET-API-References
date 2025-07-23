@@ -13,7 +13,7 @@ Stellt den Inhalt des Kommentars dar.
 
 ###  Bemerkungen
 
-Wenn es sich um einen Thread-Kommentar handelt, könnte die note nicht geändert werden, da MS Excel ihn sonst nicht als Thread-Kommentar verarbeiten könnte.
+Wenn es sich um einen Thread-Kommentar handelt, kann note nicht geändert werden, da MS Excel ihn sonst nicht als Thread-Kommentar verarbeiten könnte.
 
 ###  Beispiel
 

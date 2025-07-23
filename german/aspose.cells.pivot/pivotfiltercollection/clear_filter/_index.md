@@ -3,16 +3,17 @@ title: clear_filter Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 40
+weight: 80
 url: /de/aspose.cells.pivot/pivotfiltercollection/clear_filter/
 is_root: false
 ---
-##  clear_filter(field_index) {#int}
-Löschen Sie PivotFilter aus dem spezifischen PivotField
+##  clear_filter(self, field_index) {#int}
+PivotFilter aus dem spezifischen PivotField löschen
 
 
 
 ```python
+
 def clear_filter(self, field_index):
     ...
 ```
@@ -25,5 +26,5 @@ def clear_filter(self, field_index):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotFilterCollection](/cells/python-net/de/aspose.cells.pivot/pivotfiltercollection)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotFilterCollection`](/cells/python-net/de/aspose.cells.pivot/pivotfiltercollection)

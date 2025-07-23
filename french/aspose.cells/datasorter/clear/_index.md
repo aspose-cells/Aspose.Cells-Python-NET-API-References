@@ -1,18 +1,19 @@
 ---
-title: clear méthode
+title: méthode clear
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 30
+weight: 40
 url: /fr/aspose.cells/datasorter/clear/
 is_root: false
 ---
-##  clear() {#}
-Effacez tous les paramètres.
+##  clear(self) {#}
+Effacer tous les paramètres.
 
 
 
 ```python
+
 def clear(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear(self):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DataSorter](/cells/python-net/fr/aspose.cells/datasorter)
+* module [`aspose.cells`](../../)
+* classe [`DataSorter`](/cells/python-net/fr/aspose.cells/datasorter)

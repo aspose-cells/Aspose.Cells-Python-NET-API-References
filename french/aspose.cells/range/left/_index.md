@@ -3,13 +3,13 @@ title: left propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 360
+weight: 460
 url: /fr/aspose.cells/range/left/
 is_root: false
 ---
 ##  left propriété
 
-Obtient la distance, en points, entre le bord left de la colonne A et le bord left de la plage.
+Obtient la distance, en points, du bord left de la colonne A au bord left de la plage.
 ###  Définition:
 ```python
 @property

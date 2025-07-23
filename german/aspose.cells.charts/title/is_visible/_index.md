@@ -3,13 +3,13 @@ title: is_visible Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 250
+weight: 310
 url: /de/aspose.cells.charts/title/is_visible/
 is_root: false
 ---
 ##  is_visible Eigentum
 
-Stellt dar, ob der Titel sichtbar ist.
+Gibt an, ob der Titel sichtbar ist.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Title](/cells/python-net/de/aspose.cells.charts/title)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Title`](/cells/python-net/de/aspose.cells.charts/title)

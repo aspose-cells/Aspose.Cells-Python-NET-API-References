@@ -1,5 +1,5 @@
 ---
-title: add méthode
+title: méthode add
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 20
 url: /fr/aspose.cells/worksheetcollection/add/
 is_root: false
 ---
-##  add() {#}
+##  add(self) {#}
 Ajoute une feuille de calcul à la collection.
 
 
 ###  Retour
 
-[Worksheet](/cells/python-net/fr/aspose.cells/worksheet) indice d'objet.
+[`Worksheet`](/cells/python-net/fr/aspose.cells/worksheet) index d'objet.
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -24,16 +25,17 @@ def add(self):
 
 
 
-##  add(type) {#SheetType}
+##  add(self, type) {#aspose.cells.SheetType}
 Ajoute une feuille de calcul à la collection.
 
 
 ###  Retour
 
-[Worksheet](/cells/python-net/fr/aspose.cells/worksheet) indice d'objet.
+[`Worksheet`](/cells/python-net/fr/aspose.cells/worksheet) index d'objet.
 
 
 ```python
+
 def add(self, type):
     ...
 ```
@@ -41,7 +43,7 @@ def add(self, type):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| type | [SheetType](/cells/python-net/fr/aspose.cells/sheettype) | Type de feuille de calcul.|
+| type | [`SheetType`](/cells/python-net/fr/aspose.cells/sheettype) | Type de feuille de calcul.|
 
 ###  Exemple
 
@@ -65,16 +67,17 @@ chart.n_series.add("Sheet1!C2:C6", True)
 ```
 
 
-##  add(sheet_name) {#str}
+##  add(self, sheet_name) {#str}
 Ajoute une feuille de calcul à la collection.
 
 
 ###  Retour
 
-[Worksheet](/cells/python-net/fr/aspose.cells/worksheet) objet.
+[`Worksheet`](/cells/python-net/fr/aspose.cells/worksheet) objet.
 
 
 ```python
+
 def add(self, sheet_name):
     ...
 ```
@@ -82,11 +85,11 @@ def add(self, sheet_name):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| sheet_name | str | Nom de la feuille de calcul|
+| sheet_name | str | Nom de la feuille de travail|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Worksheet](/cells/python-net/fr/aspose.cells/worksheet)
-* classe [WorksheetCollection](/cells/python-net/fr/aspose.cells/worksheetcollection)
+* module [`aspose.cells`](../../)
+* classe [`Worksheet`](/cells/python-net/fr/aspose.cells/worksheet)
+* classe [`WorksheetCollection`](/cells/python-net/fr/aspose.cells/worksheetcollection)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  explosion Eigentum
 
-Der Abstand eines offenen Tortenstücks von der Mitte des Tortendiagramms wird als Prozentsatz des Tortendurchmessers ausgedrückt.
+Der Abstand eines offenen Kreissegments von der Mitte des Kreisdiagramms wird als Prozentsatz des Kreisdurchmessers ausgedrückt.
 ###  Definition:
 ```python
 @property

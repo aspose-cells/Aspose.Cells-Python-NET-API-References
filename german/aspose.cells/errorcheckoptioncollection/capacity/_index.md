@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ErrorCheckOptionCollection](/cells/python-net/de/aspose.cells/errorcheckoptioncollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ErrorCheckOptionCollection`](/cells/python-net/de/aspose.cells/errorcheckoptioncollection)

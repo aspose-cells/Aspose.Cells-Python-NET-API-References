@@ -1,5 +1,5 @@
 ---
-title: clear_header_footer méthode
+title: méthode clear_header_footer
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 20
 url: /fr/aspose.cells/pagesetup/clear_header_footer/
 is_root: false
 ---
-##  clear_header_footer() {#}
+##  clear_header_footer(self) {#}
 Efface les paramètres d'en-tête et de pied de page.
 
 
 
 ```python
+
 def clear_header_footer(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear_header_footer(self):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/fr/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/fr/aspose.cells/pagesetup)

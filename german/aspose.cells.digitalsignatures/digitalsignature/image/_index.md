@@ -3,7 +3,7 @@ title: image Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 50
+weight: 60
 url: /de/aspose.cells.digitalsignatures/digitalsignature/image/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def image(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.digitalsignatures](../../)
-* Klasse [DigitalSignature](/cells/python-net/de/aspose.cells.digitalsignatures/digitalsignature)
+* Modul [`aspose.cells.digitalsignatures`](../../)
+* Klasse [`DigitalSignature`](/cells/python-net/de/aspose.cells.digitalsignatures/digitalsignature)

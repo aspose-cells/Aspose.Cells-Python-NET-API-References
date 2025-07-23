@@ -30,6 +30,6 @@ def begin_arrowhead_length(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [LineFormat](/cells/python-net/de/aspose.cells.drawing/lineformat)
-* Klasse [MsoArrowheadLength](/cells/python-net/de/aspose.cells.drawing/msoarrowheadlength)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`LineFormat`](/cells/python-net/de/aspose.cells.drawing/lineformat)
+* Klasse [`MsoArrowheadLength`](/cells/python-net/de/aspose.cells.drawing/msoarrowheadlength)

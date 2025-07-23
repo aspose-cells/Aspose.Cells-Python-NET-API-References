@@ -3,13 +3,13 @@ title: merged_cells Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1140
+weight: 1170
 url: /de/aspose.cells/cells/merged_cells/
 is_root: false
 ---
 ##  merged_cells Eigentum
 
-Ruft die Sammlung zusammengeführter Zellen ab.
+Ruft die Sammlung der zusammengeführten Zellen ab.
 
 ###  Bemerkungen
 

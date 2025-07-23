@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  page_setup Eigentum
 
-Stellt die Beschreibung der Seiteneinrichtung in diesem Diagramm dar.
+Stellt die Seiteneinrichtungsbeschreibung in diesem Diagramm dar.
 ###  Definition:
 ```python
 @property

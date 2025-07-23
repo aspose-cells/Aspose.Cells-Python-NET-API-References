@@ -3,7 +3,7 @@ title: ranges Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 210
+weight: 200
 url: /de/aspose.cells/unionrange/ranges/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def ranges(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [UnionRange](/cells/python-net/de/aspose.cells/unionrange)
+* Modul [`aspose.cells`](../../)
+* Klasse [`UnionRange`](/cells/python-net/de/aspose.cells/unionrange)

@@ -7,8 +7,8 @@ weight: 60
 url: /de/aspose.cells.charts/chartcollection/get/
 is_root: false
 ---
-##  get(index) {#int}
-Fügen Sie API for Python über .Net hinzu, da dies [int index] nicht unterstützt wird
+##  get(self, index) {#int}
+Add API for Python Via .Net.since this[int index] wird nicht unterstützt
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Fügen Sie API for Python über .Net hinzu, da dies [int index] nicht unterstüt
 
 
 ```python
+
 def get(self, index):
     ...
 ```
@@ -27,8 +28,8 @@ def get(self, index):
 | index | int | Der nullbasierte Index des Elements.|
 
 
-##  get(name) {#str}
-Fügen Sie API for Python über .Net hinzu, da diese [Zeichenfolgentabelle] nicht unterstützt wird
+##  get(self, name) {#str}
+Hinzufügen API for Python Via .Net.since this[string Chart] is unsupported
 
 
 ###  Kehrt zurück
@@ -37,6 +38,7 @@ Fügen Sie API for Python über .Net hinzu, da diese [Zeichenfolgentabelle] nich
 
 
 ```python
+
 def get(self, name):
     ...
 ```
@@ -44,10 +46,10 @@ def get(self, name):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| name | str |Diagrammname|
+| name | str | Diagrammname|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ChartCollection](/cells/python-net/de/aspose.cells.charts/chartcollection)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ChartCollection`](/cells/python-net/de/aspose.cells.charts/chartcollection)

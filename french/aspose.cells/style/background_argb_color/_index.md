@@ -21,5 +21,5 @@ def background_argb_color(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Style](/cells/python-net/fr/aspose.cells/style)
+* module [`aspose.cells`](../../)
+* classe [`Style`](/cells/python-net/fr/aspose.cells/style)

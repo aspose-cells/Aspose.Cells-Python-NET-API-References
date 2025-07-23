@@ -3,7 +3,7 @@ title: is_text_dates propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 180
+weight: 230
 url: /fr/aspose.cells.externalconnections/webqueryconnection/is_text_dates/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_text_dates(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.externalconnections](../../)
-* classe [WebQueryConnection](/cells/python-net/fr/aspose.cells.externalconnections/webqueryconnection)
+* module [`aspose.cells.externalconnections`](../../)
+* classe [`WebQueryConnection`](/cells/python-net/fr/aspose.cells.externalconnections/webqueryconnection)

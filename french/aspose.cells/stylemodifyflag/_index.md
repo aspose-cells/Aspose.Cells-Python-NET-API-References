@@ -3,12 +3,12 @@ title: StyleModifyFlag énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2590
+weight: 2560
 url: /fr/aspose.cells/stylemodifyflag/
 is_root: false
 ---
 ##  StyleModifyFlag énumération
-Le style des drapeaux modifiés.
+Les drapeaux de style modifié.
 
 
 
@@ -19,38 +19,40 @@ Le type StyleModifyFlag expose les membres suivants :
 | :- | :- |
 | LEFT_BORDER | Indique si la bordure gauche a été modifiée pour le style.|
 | RIGHT_BORDER | Indique si la bordure droite a été modifiée pour le style.|
-| TOP_BORDER |Indique si la bordure supérieure a été modifiée pour le style.|
+| TOP_BORDER | Indique si la bordure supérieure a été modifiée pour le style.|
 | BOTTOM_BORDER | Indique si la bordure inférieure a été modifiée pour le style.|
 | DIAGONAL_DOWN_BORDER | Indique si la bordure diagonale vers le bas a été modifiée pour le style.|
 | DIAGONAL_UP_BORDER | Indique si la bordure diagonale vers le haut a été modifiée pour le style.|
-| DIAGONAL | Indique si une ou plusieurs bordures diagonales([`StyleModifyFlag.DIAGONAL_DOWN_BORDER`](/cells/python-net/fr/aspose.cells/stylemodifyflag#DIAGONAL_DOWN_BORDER),<br/> [`StyleModifyFlag.DIAGONAL_UP_BORDER`](/cells/python-net/fr/aspose.cells/stylemodifyflag#DIAGONAL_UP_BORDER)) ont été modifiés pour le style.|
-| HORIZONTAL_BORDER | Indique si la bordure horizontale a été modifiée pour le style.<br/> Uniquement pour le style dynamique, tel que la mise en forme conditionnelle.|
+| HORIZONTAL_BORDER |Indique si la bordure horizontale a été modifiée pour le style.<br/> Uniquement pour le style dynamique, tel que la mise en forme conditionnelle.|
 | VERTICAL_BORDER | Indique si la bordure verticale a été modifiée pour le style.<br/> Uniquement pour le style dynamique, tel que la mise en forme conditionnelle.|
-| BORDERS | Indique si une ou plusieurs bordures([`StyleModifyFlag.LEFT_BORDER`](/cells/python-net/fr/aspose.cells/stylemodifyflag#LEFT_BORDER),<br/>[`StyleModifyFlag.RIGHT_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#RIGHT_BORDER), [`StyleModifyFlag.TOP_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#TOP_BORDER), [`StyleModifyFlag.BOTTOM_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#BOTTOM_BORDER),<br/>[`StyleModifyFlag.DIAGONAL`](/cells/python-net/aspose.cells/stylemodifyflag#DIAGONAL), [`StyleModifyFlag.HORIZONTAL_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#HORIZONTAL_BORDER), [`StyleModifyFlag.VERTICAL_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#VERTICAL_BORDER))<br/> ont été modifiés pour le style.|
+| SIDE_BORDERS | Indique les quatre bordures latérales : [`StyleModifyFlag.LEFT_BORDER`](/cells/python-net/fr/aspose.cells/stylemodifyflag#LEFT_BORDER),<br/> [`StyleModifyFlag.RIGHT_BORDER`](/cells/python-net/fr/aspose.cells/stylemodifyflag#RIGHT_BORDER), [`StyleModifyFlag.TOP_BORDER`](/cells/python-net/fr/aspose.cells/stylemodifyflag#TOP_BORDER) et [`StyleModifyFlag.BOTTOM_BORDER`](/cells/python-net/fr/aspose.cells/stylemodifyflag#BOTTOM_BORDER).|
+| DIAGONAL | Indique les bordures diagonales : [`StyleModifyFlag.DIAGONAL_DOWN_BORDER`](/cells/python-net/fr/aspose.cells/stylemodifyflag#DIAGONAL_DOWN_BORDER) et [`StyleModifyFlag.DIAGONAL_UP_BORDER`](/cells/python-net/fr/aspose.cells/stylemodifyflag#DIAGONAL_UP_BORDER).|
+| DYNAMIC_STYLE_BORDERS | Indique les bordures de style dynamique : [`StyleModifyFlag.HORIZONTAL_BORDER`](/cells/python-net/fr/aspose.cells/stylemodifyflag#HORIZONTAL_BORDER) et [`StyleModifyFlag.VERTICAL_BORDER`](/cells/python-net/fr/aspose.cells/stylemodifyflag#VERTICAL_BORDER).|
+| BORDERS | Indique si une ou plusieurs bordures ([`StyleModifyFlag.LEFT_BORDER`](/cells/python-net/fr/aspose.cells/stylemodifyflag#LEFT_BORDER),<br/>[`StyleModifyFlag.RIGHT_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#RIGHT_BORDER), [`StyleModifyFlag.TOP_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#TOP_BORDER), [`StyleModifyFlag.BOTTOM_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#BOTTOM_BORDER),<br/>[`StyleModifyFlag.DIAGONAL`](/cells/python-net/aspose.cells/stylemodifyflag#DIAGONAL), [`StyleModifyFlag.HORIZONTAL_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#HORIZONTAL_BORDER), [`StyleModifyFlag.VERTICAL_BORDER`](/cells/python-net/aspose.cells/stylemodifyflag#VERTICAL_BORDER))<br/> ont été modifiés pour le style.|
 | NUMBER_FORMAT | Indique si le format du nombre a été modifié.|
 | HORIZONTAL_ALIGNMENT | Indique si l'alignement horizontal a été modifié.|
 | VERTICAL_ALIGNMENT | Indique si l'alignement vertical a été modifié.|
-| INDENT | Indique si la propriété indent a été modifiée.|
-| ROTATION |Indique si la propriété de rotation a été modifiée.|
-| WRAP_TEXT | Indique si la propriété Wrap Text a été modifiée.|
-| SHRINK_TO_FIT | Indique si la propriété Réduire pour s’adapter a été modifiée.|
+| INDENT | Indique si la propriété d'indentation a été modifiée.|
+| ROTATION | Indique si la propriété de rotation a été modifiée.|
+| WRAP_TEXT | Indique si la propriété de texte d'habillage a été modifiée.|
+| SHRINK_TO_FIT | Indique si la propriété de rétrécissement pour s'adapter a été modifiée.|
 | TEXT_DIRECTION | Indique si la propriété de direction du texte a été modifiée.|
-| RELATIVE_INDENT | Indique si la propriété de retrait relatif a été modifiée pour le style.<br/> Uniquement pour le style dynamique, tel que la mise en forme conditionnelle.|
-| ALIGNMENT_SETTINGS | Indique si une ou plusieurs propriétés liées à l'alignement([`StyleModifyFlag.HORIZONTAL_ALIGNMENT`](/cells/python-net/fr/aspose.cells/stylemodifyflag#HORIZONTAL_ALIGNMENT),<br/>[`StyleModifyFlag.VERTICAL_ALIGNMENT`](/cells/python-net/aspose.cells/stylemodifyflag#VERTICAL_ALIGNMENT), [`StyleModifyFlag.ROTATION`](/cells/python-net/aspose.cells/stylemodifyflag#ROTATION), [`StyleModifyFlag.WRAP_TEXT`](/cells/python-net/aspose.cells/stylemodifyflag#WRAP_TEXT),<br/>[`StyleModifyFlag.WRAP_TEXT`](/cells/python-net/aspose.cells/stylemodifyflag#WRAP_TEXT), [`StyleModifyFlag.INDENT`](/cells/python-net/aspose.cells/stylemodifyflag#INDENT), [`StyleModifyFlag.SHRINK_TO_FIT`](/cells/python-net/aspose.cells/stylemodifyflag#SHRINK_TO_FIT), [`StyleModifyFlag.TEXT_DIRECTION`](/cells/python-net/aspose.cells/stylemodifyflag#TEXT_DIRECTION),<br/> [`StyleModifyFlag.RELATIVE_INDENT`](/cells/python-net/fr/aspose.cells/stylemodifyflag#RELATIVE_INDENT)) ont été modifiés.|
+| RELATIVE_INDENT |Indique si la propriété de retrait relatif a été modifiée pour le style.<br/> Uniquement pour le style dynamique, tel que la mise en forme conditionnelle.|
+| ALIGNMENT_SETTINGS | Indique si une ou plusieurs propriétés liées à l'alignement ([`StyleModifyFlag.HORIZONTAL_ALIGNMENT`](/cells/python-net/fr/aspose.cells/stylemodifyflag#HORIZONTAL_ALIGNMENT),<br/>[`StyleModifyFlag.VERTICAL_ALIGNMENT`](/cells/python-net/aspose.cells/stylemodifyflag#VERTICAL_ALIGNMENT), [`StyleModifyFlag.ROTATION`](/cells/python-net/aspose.cells/stylemodifyflag#ROTATION), [`StyleModifyFlag.WRAP_TEXT`](/cells/python-net/aspose.cells/stylemodifyflag#WRAP_TEXT),<br/>[`StyleModifyFlag.WRAP_TEXT`](/cells/python-net/aspose.cells/stylemodifyflag#WRAP_TEXT), [`StyleModifyFlag.INDENT`](/cells/python-net/aspose.cells/stylemodifyflag#INDENT), [`StyleModifyFlag.SHRINK_TO_FIT`](/cells/python-net/aspose.cells/stylemodifyflag#SHRINK_TO_FIT), [`StyleModifyFlag.TEXT_DIRECTION`](/cells/python-net/aspose.cells/stylemodifyflag#TEXT_DIRECTION),<br/> [`StyleModifyFlag.RELATIVE_INDENT`](/cells/python-net/fr/aspose.cells/stylemodifyflag#RELATIVE_INDENT)) ont été modifiés.|
 | PATTERN | Indique si le motif de l'ombrage a été modifié.|
 | FOREGROUND_COLOR | Indique si la couleur de premier plan a été modifiée.|
-| BACKGROUND_COLOR | Indique si la couleur de fond a été modifiée.|
-| CELL_SHADING | Indique si une ou plusieurs propriétés liées à l'ombrage([`StyleModifyFlag.PATTERN`](/cells/python-net/fr/aspose.cells/stylemodifyflag#PATTERN),<br/> [`StyleModifyFlag.FOREGROUND_COLOR`](/cells/python-net/fr/aspose.cells/stylemodifyflag#FOREGROUND_COLOR), [`StyleModifyFlag.BACKGROUND_COLOR`](/cells/python-net/fr/aspose.cells/stylemodifyflag#BACKGROUND_COLOR)) ont été modifiés.|
+| BACKGROUND_COLOR | Indique si la couleur d'arrière-plan a été modifiée.|
+| CELL_SHADING | Indique si une ou plusieurs propriétés liées à l'ombrage ([`StyleModifyFlag.PATTERN`](/cells/python-net/fr/aspose.cells/stylemodifyflag#PATTERN),<br/> [`StyleModifyFlag.FOREGROUND_COLOR`](/cells/python-net/fr/aspose.cells/stylemodifyflag#FOREGROUND_COLOR), [`StyleModifyFlag.BACKGROUND_COLOR`](/cells/python-net/fr/aspose.cells/stylemodifyflag#BACKGROUND_COLOR)) ont été modifiés.|
 | LOCKED | Indique si la propriété verrouillée a été modifiée.|
 | HIDE_FORMULA | Indique si la formule de masquage a été modifiée.|
-| PROTECTION_SETTINGS | Indique si une ou plusieurs propriétés liées à la protection([`StyleModifyFlag.LOCKED`](/cells/python-net/fr/aspose.cells/stylemodifyflag#LOCKED),<br/> [`StyleModifyFlag.HIDE_FORMULA`](/cells/python-net/fr/aspose.cells/stylemodifyflag#HIDE_FORMULA)) ont été modifiés.|
+| PROTECTION_SETTINGS | Indique si une ou plusieurs propriétés liées à la protection ([`StyleModifyFlag.LOCKED`](/cells/python-net/fr/aspose.cells/stylemodifyflag#LOCKED),<br/> [`StyleModifyFlag.HIDE_FORMULA`](/cells/python-net/fr/aspose.cells/stylemodifyflag#HIDE_FORMULA)) ont été modifiés.|
 | FONT_SIZE | Indique si la taille de la police a été modifiée.|
-| FONT_NAME |Indique si le nom de la police a été modifié.|
+| FONT_NAME | Indique si le nom de la police a été modifié.|
 | FONT_COLOR | Indique si la couleur de la police a été modifiée.|
-| FONT_WEIGHT | Indique si l'épaisseur de la police a été modifiée.|
+| FONT_WEIGHT | Indique si le poids de la police a été modifié.|
 | FONT_ITALIC | Indique si la propriété italique de la police a été modifiée.|
-| FONT_UNDERLINE | Indique si la propriété de soulignement de la police a été modifiée.|
-| FONT_STRIKE | Indique si la police de la propriété strike a été modifiée.|
+| FONT_UNDERLINE |Indique si la propriété de soulignement de la police a été modifiée.|
+| FONT_STRIKE | Indique si la police de propriété de frappe a été modifiée.|
 | FONT_SCRIPT | Indique si la propriété d'indice ou d'exposant de la police a été modifiée.|
 | FONT_FAMILY | Indique si la famille de polices a été modifiée.|
 | FONT_CHARSET | Indique si le jeu de caractères de la police a été modifié.|
@@ -64,9 +66,16 @@ Le type StyleModifyFlag expose les membres suivants :
 | FONT_CAP | inutilisé.|
 | FONT_VERTICAL_TEXT |  |
 | FONT | Indique si une ou plusieurs propriétés ont été modifiées pour la police du style.|
-| ALL | Indique si une ou plusieurs propriétés ont été modifiées pour le style.|
+| ALL | Toutes les propriétés qui peuvent être modifiées pour le style.|
+| NONE | Aucune propriété n'a été spécifiée.|
 
 
+
+###  Remarques
+
+Des combinaisons de plusieurs propriétés sont définies pour la commodité de l'utilisateur.
+Lors de la vérification s'ils sont modifiés pour un style, la valeur renvoyée indique
+si une ou plusieurs propriétés de la combinaison ont été modifiées.
 
 ###  Voir également
 * module [`aspose.cells`](..)

@@ -3,7 +3,7 @@ title: image_type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 620
+weight: 610
 url: /fr/aspose.cells.drawing/oleobject/image_type/
 is_root: false
 ---

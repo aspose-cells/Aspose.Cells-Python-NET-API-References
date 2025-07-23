@@ -3,17 +3,17 @@ title: top Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1080
+weight: 1090
 url: /de/aspose.cells.drawing/groupshape/top/
 is_root: false
 ---
 ##  top Eigentum
 
-Stellt den vertikalen Versatz der Form von ihrer Zeile top in Pixeleinheiten dar.
+Stellt den vertikalen Versatz der Form von ihrer Zeile top in Pixeln dar.
 
 ###  Bemerkungen
 
-Wenn sich die Form im Diagramm befindet, stellt dies den vertikalen Versatz der Form von ihrem top-Rand dar.
+Wenn sich die Form im Diagramm befindet, stellt dies den vertikalen Versatz der Form von ihrem Rand top dar.
 
 ###  Beispiel
 

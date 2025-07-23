@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_border_applied propriété
 
-Indiquez si le formatage des bordures doit être appliqué.
+Indiquez si la mise en forme de la bordure doit être appliquée.
 
 ###  Remarques
 

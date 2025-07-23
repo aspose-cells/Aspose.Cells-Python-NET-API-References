@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  style propriété
 
-Obtient ou définit style de plages de cellules formatées conditionnelles.
+Obtient ou définit style plages de cellules formatées conditionnellement.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def style(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FormatCondition](/cells/python-net/fr/aspose.cells/formatcondition)
-* classe [Style](/cells/python-net/fr/aspose.cells/style)
+* module [`aspose.cells`](../../)
+* classe [`FormatCondition`](/cells/python-net/fr/aspose.cells/formatcondition)
+* classe [`Style`](/cells/python-net/fr/aspose.cells/style)

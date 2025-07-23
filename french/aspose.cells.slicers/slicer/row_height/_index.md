@@ -15,7 +15,7 @@ Renvoie ou définit la hauteur, en points, de chaque ligne dans le segment spéc
 
 ```python
 
-slicer.row_height = 20
+slicer.row_height = 20.0
 
 ```
 ###  Définition:
@@ -29,5 +29,5 @@ def row_height(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.slicers](../../)
-* classe [Slicer](/cells/python-net/fr/aspose.cells.slicers/slicer)
+* module [`aspose.cells.slicers`](../../)
+* classe [`Slicer`](/cells/python-net/fr/aspose.cells.slicers/slicer)

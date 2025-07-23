@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  shadow_effect Eigentum
 
-Stellt ein [ShapePropertyCollection.shadow_effect](/cells/python-net/de/aspose.cells.drawing/shapepropertycollection#shadow_effect)-Objekt dar, das den Schatteneffekt für das Diagrammelement oder die Form angibt.
+Stellt ein [`ShapePropertyCollection.shadow_effect`](/cells/python-net/de/aspose.cells.drawing/shapepropertycollection#shadow_effect)-Objekt dar, das den Schatteneffekt für das Diagrammelement oder die Form angibt.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def shadow_effect(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ShadowEffect](/cells/python-net/de/aspose.cells.drawing/shadoweffect)
-* Klasse [ShapePropertyCollection](/cells/python-net/de/aspose.cells.drawing/shapepropertycollection)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ShadowEffect`](/cells/python-net/de/aspose.cells.drawing/shadoweffect)
+* Klasse [`ShapePropertyCollection`](/cells/python-net/de/aspose.cells.drawing/shapepropertycollection)

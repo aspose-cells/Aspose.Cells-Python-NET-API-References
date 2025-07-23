@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [FontSettingCollection](/cells/python-net/fr/aspose.cells.drawing.texts/fontsettingcollection)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`FontSettingCollection`](/cells/python-net/fr/aspose.cells.drawing.texts/fontsettingcollection)

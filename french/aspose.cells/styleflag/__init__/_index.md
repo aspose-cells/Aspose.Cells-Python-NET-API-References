@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells/styleflag/__init__/
 is_root: false
 ---
-##  StyleFlag() {#}
-Construit un objet avec tous les drapeaux comme faux.
+##  \_\_init\_\_(self){#}
+Construit un objet avec tous les indicateurs comme faux.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [StyleFlag](/cells/python-net/fr/aspose.cells/styleflag)
+* module [`aspose.cells`](../../)
+* classe [`StyleFlag`](/cells/python-net/fr/aspose.cells/styleflag)

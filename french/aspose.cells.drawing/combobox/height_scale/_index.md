@@ -3,7 +3,7 @@ title: height_scale propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 490
+weight: 480
 url: /fr/aspose.cells.drawing/combobox/height_scale/
 is_root: false
 ---

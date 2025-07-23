@@ -7,12 +7,13 @@ weight: 330
 url: /fr/aspose.cells/settableglobalizationsettings/set_list_separator/
 is_root: false
 ---
-##  set_list_separator {#char}
-Définit le séparateur pour la liste, les paramètres de la fonction, ... etc.
+##  set_list_separator(self, c) {#char}
+Définit le séparateur pour la liste, les paramètres de fonction, ...etc.
 
 
 
 ```python
+
 def set_list_separator(self, c):
     ...
 ```

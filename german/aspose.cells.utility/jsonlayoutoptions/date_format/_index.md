@@ -21,5 +21,5 @@ def date_format(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.utility](../../)
-* Klasse [JsonLayoutOptions](/cells/python-net/de/aspose.cells.utility/jsonlayoutoptions)
+* Modul [`aspose.cells.utility`](../../)
+* Klasse [`JsonLayoutOptions`](/cells/python-net/de/aspose.cells.utility/jsonlayoutoptions)

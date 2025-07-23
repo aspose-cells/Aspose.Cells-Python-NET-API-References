@@ -7,12 +7,13 @@ weight: 30
 url: /de/aspose.cells.charts/legend/get_legend_labels/
 is_root: false
 ---
-##  get_legend_labels {#}
-Ruft die Beschriftungen der Legendeneinträge nach dem Aufruf der Chart.Calculate()-Methode ab.
+##  get_legend_labels(self) {#}
+Ruft die Beschriftungen der Legendeneinträge nach dem Aufruf der Methode Chart.Calculate() ab.
 
 
 
 ```python
+
 def get_legend_labels(self):
     ...
 ```

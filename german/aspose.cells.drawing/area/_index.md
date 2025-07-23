@@ -17,12 +17,12 @@ Der Typ Area macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [background_color](/cells/python-net/de/aspose.cells.drawing/area/background_color) | Ruft die Hintergrundfarbe von [Area](/cells/python-net/de/aspose.cells.drawing/area) ab oder legt sie fest.|
+| [background_color](/cells/python-net/de/aspose.cells.drawing/area/background_color) | Ruft die Hintergrundfarbe von [`Area`](/cells/python-net/de/aspose.cells.drawing/area) ab oder legt sie fest.|
 | [foreground_color](/cells/python-net/de/aspose.cells.drawing/area/foreground_color) | Ruft die Vordergrundfarbe ab oder legt sie fest.|
-| [formatting](/cells/python-net/de/aspose.cells.drawing/area/formatting) | Repräsentiert die Formatierung des Bereichs.|
-| [invert_if_negative](/cells/python-net/de/aspose.cells.drawing/area/invert_if_negative) | Wenn die Eigenschaft wahr ist und der Wert des Diagrammpunkts eine negative Zahl ist,<br/> Vorder- und Hintergrundfarbe werden vertauscht.|
-| [fill_format](/cells/python-net/de/aspose.cells.drawing/area/fill_format) | Stellt ein [Area.fill_format](/cells/python-net/de/aspose.cells.drawing/area#fill_format)-Objekt dar, das Füllformatierungseigenschaften für das angegebene Diagramm oder Shape enthält.|
-| [transparency](/cells/python-net/de/aspose.cells.drawing/area/transparency) | Gibt den Transparenzgrad des Bereichs als Wert von 0,0 (deckend) bis 1,0 (durchsichtig) zurück oder legt ihn fest.|
+| [formatting](/cells/python-net/de/aspose.cells.drawing/area/formatting) | Stellt die Formatierung des Bereichs dar.|
+| [invert_if_negative](/cells/python-net/de/aspose.cells.drawing/area/invert_if_negative) | Wenn die Eigenschaft wahr ist und der Wert des Diagrammpunkts eine negative Zahl ist,<br/> Dabei werden Vordergrundfarbe und Hintergrundfarbe vertauscht.|
+| [fill_format](/cells/python-net/de/aspose.cells.drawing/area/fill_format) | Stellt ein [`Area.fill_format`](/cells/python-net/de/aspose.cells.drawing/area#fill_format)-Objekt dar, das Füllformatierungseigenschaften für das angegebene Diagramm oder die angegebene Form enthält.|
+| [transparency](/cells/python-net/de/aspose.cells.drawing/area/transparency) |Gibt den Transparenzgrad des Bereichs als Wert zwischen 0,0 (undurchsichtig) und 1,0 (durchsichtig) zurück oder legt ihn fest.|
 
 
 
@@ -71,5 +71,5 @@ workbook.save("book1.xls")
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](..)
-* Klasse [Area](/cells/python-net/de/aspose.cells.drawing/area)
+* Modul [`aspose.cells.drawing`](..)
+* Klasse [`Area`](/cells/python-net/de/aspose.cells.drawing/area)

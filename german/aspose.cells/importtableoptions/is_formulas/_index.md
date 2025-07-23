@@ -21,5 +21,5 @@ def is_formulas(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ImportTableOptions](/cells/python-net/de/aspose.cells/importtableoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ImportTableOptions`](/cells/python-net/de/aspose.cells/importtableoptions)

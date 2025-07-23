@@ -3,12 +3,12 @@ title: PivotDiscreteGroupSettings Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 60
+weight: 90
 url: /de/aspose.cells.pivot/pivotdiscretegroupsettings/
 is_root: false
 ---
 ##  PivotDiscreteGroupSettings Klasse
-R stellt die diskrete Gruppe von Pivotfeldern dar
+Stellt die diskrete Gruppe von Pivot-Feldern dar
 
 
 

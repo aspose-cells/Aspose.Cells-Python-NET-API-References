@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  rank propriété
 
-Obtenez ou définissez la valeur de "n" dans une règle de mise en forme conditionnelle "top/bottom n".
+Obtenir ou définir la valeur de « n » dans une règle de mise en forme conditionnelle « n supérieur/inférieur ».
 Si IsPercent est vrai, la valeur doit être comprise entre 0 et 100.
-Sinon il doit être compris entre 0 et 1000.
+Sinon, il doit être compris entre 0 et 1000.
 La valeur par défaut est 10.
 ###  Définition:
 ```python
@@ -24,5 +24,5 @@ def rank(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Top10](/cells/python-net/fr/aspose.cells/top10)
+* module [`aspose.cells`](../../)
+* classe [`Top10`](/cells/python-net/fr/aspose.cells/top10)

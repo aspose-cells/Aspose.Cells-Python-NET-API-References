@@ -1,5 +1,5 @@
 ---
-title: verify_password méthode
+title: méthode verify_password
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,17 +7,19 @@ weight: 100
 url: /fr/aspose.cells/fileformatutil/verify_password/
 is_root: false
 ---
-##  verify_password(stream, password) {#io.RawIOBase-str}
+##  verify_password(, flux, mot de passe){#io.RawIOBase-str}
 Détecte et renvoie les informations sur un format d'un fichier Excel stocké dans un flux.
 
 
 ###  Retour
 
-Retourne si le mot de passe est corrigé.
+Renvoie si le mot de passe est corrigé.
 
 
 ```python
-def verify_password(self, stream, password):
+
+@staticmethod
+def verify_password(stream, password):
     ...
 ```
 
@@ -25,10 +27,10 @@ def verify_password(self, stream, password):
 | Paramètre| Taper| Description|
 | :- | :- | :- |
 | stream | io.RawIOBase |  |
-| password | str | Le mot de passe pour les fichiers ooxml chiffrés.|
+| password | str | Le mot de passe pour les fichiers ooxml cryptés.|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FileFormatUtil](/cells/python-net/fr/aspose.cells/fileformatutil)
+* module [`aspose.cells`](../../)
+* classe [`FileFormatUtil`](/cells/python-net/fr/aspose.cells/fileformatutil)

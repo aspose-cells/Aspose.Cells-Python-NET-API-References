@@ -21,5 +21,5 @@ def left(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [PicFormatOption](/cells/python-net/fr/aspose.cells.drawing/picformatoption)
+* module [`aspose.cells.drawing`](../../)
+* classe [`PicFormatOption`](/cells/python-net/fr/aspose.cells.drawing/picformatoption)

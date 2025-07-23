@@ -3,22 +3,23 @@ title: get_style_in_pool Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 190
+weight: 200
 url: /de/aspose.cells/workbook/get_style_in_pool/
 is_root: false
 ---
-##  get_style_in_pool(index) {#int}
-Holt den Stil in den Stilpool.
+##  get_style_in_pool(self, index) {#int}
+Ruft den Stil im Stilpool ab.
 Alle Stile in der Arbeitsmappe werden in einem Pool gesammelt.
-Es gibt nur einen einfachen Referenzindex in den Zellen.
+In den Zellen befindet sich lediglich ein einfacher Referenzindex.
 
 
 ###  Kehrt zurück
 
-Der Stil im Pool entspricht dem angegebenen Index, kann null sein.
+Der Stil im Pool entspricht dem angegebenen Index und kann null sein.
 
 
 ```python
+
 def get_style_in_pool(self, index):
     ...
 ```
@@ -29,10 +30,10 @@ def get_style_in_pool(self, index):
 | index | int | Der Index.|
 ###  Bemerkungen
 
-Wenn der zurückgegebene Stil geändert wird, wird der Stil aller Zellen (die sich auf diesen Stil beziehen) geändert.
+Wenn der zurückgegebene Stil geändert wird, wird der Stil aller Zellen (die auf diesen Stil verweisen) geändert.
 
 
 ###  Siehe auch
 
-* Modul [aspose.cells](../../)
-* Klasse [Workbook](/cells/python-net/de/aspose.cells/workbook)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Workbook`](/cells/python-net/de/aspose.cells/workbook)

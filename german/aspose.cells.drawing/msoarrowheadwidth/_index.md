@@ -3,7 +3,7 @@ title: MsoArrowheadWidth Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 990
+weight: 980
 url: /de/aspose.cells.drawing/msoarrowheadwidth/
 is_root: false
 ---
@@ -17,11 +17,11 @@ Der Typ MsoArrowheadWidth macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| NARROW | Breite des kurzen Linienendes.|
-| MEDIUM | Mittlere Breite des Linienendes.|
-| WIDE | Breites Linienende.|
+| NARROW | Breite des kurzen Zeilenendes.|
+| MEDIUM | Mittlere Linienendbreite.|
+| WIDE | Breite Linienendbreite.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](..)
+* Modul [`aspose.cells.drawing`](..)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  precision_as_displayed Eigentum
 
-Ob die Genauigkeit des berechneten Ergebnisses so eingestellt werden soll, wie sie beim Berechnen von Formeln angezeigt wird
+Ob die Genauigkeit der berechneten Ergebnisse so eingestellt werden soll, wie sie beim Berechnen von Formeln angezeigt werden
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def precision_as_displayed(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FormulaSettings](/cells/python-net/de/aspose.cells/formulasettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FormulaSettings`](/cells/python-net/de/aspose.cells/formulasettings)

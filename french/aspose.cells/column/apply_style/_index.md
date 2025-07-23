@@ -1,5 +1,5 @@
 ---
-title: apply_style méthode
+title: méthode apply_style
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 20
 url: /fr/aspose.cells/column/apply_style/
 is_root: false
 ---
-##  apply_style(style, flag) {#Style-StyleFlag}
-Applique les formats pour une colonne entière.
+##  apply_style(self, style, flag) {#aspose.cells.Style-aspose.cells.StyleFlag}
+Applique des formats pour une colonne entière.
 
 
 
 ```python
+
 def apply_style(self, style, flag):
     ...
 ```
@@ -20,11 +21,11 @@ def apply_style(self, style, flag):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| style | [Style](/cells/python-net/fr/aspose.cells/style) | L'objet de style qui sera appliqué.|
-| flag | [StyleFlag](/cells/python-net/fr/aspose.cells/styleflag) |Indicateurs indiquant les propriétés de formatage appliquées.|
+| style | [`Style`](/cells/python-net/fr/aspose.cells/style) | L'objet de style qui sera appliqué.|
+| flag | [`StyleFlag`](/cells/python-net/fr/aspose.cells/styleflag) | Drapeaux indiquant les propriétés de formatage appliquées.|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Column](/cells/python-net/fr/aspose.cells/column)
+* module [`aspose.cells`](../../)
+* classe [`Column`](/cells/python-net/fr/aspose.cells/column)

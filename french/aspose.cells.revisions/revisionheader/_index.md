@@ -8,7 +8,7 @@ url: /fr/aspose.cells.revisions/revisionheader/
 is_root: false
 ---
 ##  RevisionHeader classe
-Représente une liste des modifications spécifiques qui ont eu lieu pour ce classeur.
+Représente une liste de modifications spécifiques qui ont eu lieu pour ce classeur.
 
 
 
@@ -17,7 +17,7 @@ Le type RevisionHeader expose les membres suivants :
 ###  Constructeurs
 | Constructeur| Description|
 | :- | :- |
-| [RevisionHeader()](/cells/python-net/fr/aspose.cells.revisions/revisionheader/__init__/#) | Construit une nouvelle instance de RevisionHeader|
+| [`__init__(self)`](/cells/python-net/fr/aspose.cells.revisions/revisionheader/__init__/#) | Construit une nouvelle instance de RevisionHeader|
 
 
 ###  Propriétés
@@ -29,4 +29,4 @@ Le type RevisionHeader expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.revisions](..)
+* module [`aspose.cells.revisions`](..)

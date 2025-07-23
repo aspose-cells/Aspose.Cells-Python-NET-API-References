@@ -3,7 +3,7 @@ title: version propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 400
+weight: 410
 url: /fr/aspose.cells.properties/builtindocumentpropertycollection/version/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Représente le numéro version de l'application qui a créé le document.
 
 ###  Remarques
 
-Son format est "00.0000", par exemple : 12.0000
+Son format est « 00.0000 », par exemple : 12.0000
 ###  Définition:
 ```python
 @property
@@ -25,5 +25,5 @@ def version(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.properties](../../)
-* classe [BuiltInDocumentPropertyCollection](/cells/python-net/fr/aspose.cells.properties/builtindocumentpropertycollection)
+* module [`aspose.cells.properties`](../../)
+* classe [`BuiltInDocumentPropertyCollection`](/cells/python-net/fr/aspose.cells.properties/builtindocumentpropertycollection)

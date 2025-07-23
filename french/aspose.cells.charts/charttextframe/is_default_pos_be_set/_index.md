@@ -3,7 +3,7 @@ title: is_default_pos_be_set propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 200
+weight: 260
 url: /fr/aspose.cells.charts/charttextframe/is_default_pos_be_set/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_default_pos_be_set(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [ChartTextFrame](/cells/python-net/fr/aspose.cells.charts/charttextframe)
+* module [`aspose.cells.charts`](../../)
+* classe [`ChartTextFrame`](/cells/python-net/fr/aspose.cells.charts/charttextframe)

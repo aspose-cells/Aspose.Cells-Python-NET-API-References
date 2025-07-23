@@ -18,6 +18,6 @@ def data_labels(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [DataLabels](/cells/python-net/de/aspose.cells.charts/datalabels)
-* Klasse [Trendline](/cells/python-net/de/aspose.cells.charts/trendline)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`DataLabels`](/cells/python-net/de/aspose.cells.charts/datalabels)
+* Klasse [`Trendline`](/cells/python-net/de/aspose.cells.charts/trendline)

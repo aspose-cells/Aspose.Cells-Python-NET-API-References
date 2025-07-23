@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  image_data Eigentum
 
-Ruft Bilddaten des Aufzählungszeichens ab und legt diese fest.
+Ruft die Bilddaten des Aufzählungszeichens ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def image_data(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [PictureBulletValue](/cells/python-net/de/aspose.cells.drawing.texts/picturebulletvalue)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`PictureBulletValue`](/cells/python-net/de/aspose.cells.drawing.texts/picturebulletvalue)

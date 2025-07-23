@@ -3,7 +3,7 @@ title: ScenarioInputCell Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1390
+weight: 1280
 url: /de/aspose.cells/scenarioinputcell/
 is_root: false
 ---

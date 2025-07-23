@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  paper_width Eigentum
 
-Ruft die Breite des Papiers in Zoll ab, berücksichtigte Seitenausrichtung.
+Ruft die Breite des Papiers in Zoll ab, unter Berücksichtigung der Seitenausrichtung.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def paper_width(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

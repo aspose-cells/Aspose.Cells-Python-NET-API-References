@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_data_table Eigentum
 
-Ruft einen Wert ab, der angibt, ob das Diagramm eine Datentabelle anzeigt, oder legt diesen fest.
+Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob das Diagramm eine Datentabelle anzeigt.
 ###  Definition:
 ```python
 @property

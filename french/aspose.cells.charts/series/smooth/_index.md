@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  smooth propriété
 
- Représente le lissage de la courbe.
-True si le lissage des courbes est activé pour le graphique en courbes ou le graphique en nuage de points.
-S'applique uniquement aux graphiques linéaires et en nuage de points reliés par des graphiques linéaires.
+ Représente le lissage des courbes.
+Vrai si le lissage des courbes est activé pour le graphique linéaire ou le graphique en nuage de points.
+S'applique uniquement aux graphiques en lignes et en nuages de points reliés par des lignes.
 ###  Définition:
 ```python
 @property
@@ -23,5 +23,5 @@ def smooth(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Series](/cells/python-net/fr/aspose.cells.charts/series)
+* module [`aspose.cells.charts`](../../)
+* classe [`Series`](/cells/python-net/fr/aspose.cells.charts/series)

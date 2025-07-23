@@ -1,9 +1,9 @@
 ---
-title: get_version méthode
+title: méthode get_version
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 140
+weight: 150
 url: /fr/aspose.cells/cellshelper/get_version/
 is_root: false
 ---
@@ -17,7 +17,9 @@ La version de sortie.
 
 
 ```python
-def get_version(self):
+
+@staticmethod
+def get_version():
     ...
 ```
 
@@ -26,5 +28,5 @@ def get_version(self):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CellsHelper](/cells/python-net/fr/aspose.cells/cellshelper)
+* module [`aspose.cells`](../../)
+* classe [`CellsHelper`](/cells/python-net/fr/aspose.cells/cellshelper)

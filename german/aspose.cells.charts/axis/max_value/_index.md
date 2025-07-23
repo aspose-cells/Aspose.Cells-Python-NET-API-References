@@ -3,7 +3,7 @@ title: max_value Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 320
+weight: 330
 url: /de/aspose.cells.charts/axis/max_value/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Stellt den Maximalwert auf der Werteachse dar.
 
 ###  Bemerkungen
 
-Der Typ „maxValue“ kann nur „double“ oder „DateTime“ sein
+Der Typ „maxValue“ kann nur „double“ oder „DateTime“ sein.
 ###  Definition:
 ```python
 @property

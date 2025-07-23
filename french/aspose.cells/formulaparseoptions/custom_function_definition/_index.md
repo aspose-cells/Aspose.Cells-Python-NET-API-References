@@ -13,9 +13,9 @@ Définition pour l'analyse des fonctions personnalisées.
 
 ###  Remarques
 
-Pour certaines exigences particulières, telles que lors du calcul d'une fonction personnalisée dans le moteur personnalisé de l'utilisateur,
+Pour certaines exigences particulières, comme lors du calcul d'une fonction personnalisée dans le moteur personnalisé de l'utilisateur,
 certains paramètres doivent être calculés en mode tableau, l'utilisation de cette propriété peut marquer ces paramètres
-comme mode tableau lors de l’analyse de la formule. Sinon, l'utilisateur doit mettre à jour ces fonctions personnalisées ultérieurement en
+en mode tableau lors de l'analyse de la formule. Sinon, l'utilisateur devra mettre à jour ces fonctions personnalisées ultérieurement en
 [`Workbook.update_custom_function_definition`](/cells/python-net/fr/aspose.cells/workbook/update_custom_function_definition) pour obtenir le même résultat.
 ###  Définition:
 ```python

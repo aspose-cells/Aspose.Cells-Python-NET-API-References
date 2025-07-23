@@ -3,7 +3,7 @@ title: shared propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 440
+weight: 470
 url: /fr/aspose.cells/workbooksettings/shared/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Obtient ou définit une valeur qui indique si le classeur est shared.
 
 ###  Remarques
 
-La valeur par défaut est fausse.
+La valeur par défaut est false.
 ###  Définition:
 ```python
 @property

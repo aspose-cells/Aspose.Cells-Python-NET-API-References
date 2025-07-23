@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  caption Eigentum
 
-Ruft den beschreibenden Text ab, der auf einem Steuerelement angezeigt wird, und legt diesen fest.
+Ruft den beschreibenden Text ab, der auf einem Steuerelement angezeigt wird, und legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def caption(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [CheckBoxActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`CheckBoxActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

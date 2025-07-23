@@ -3,15 +3,15 @@ title: is_multiple_item_selection_allowed Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 440
+weight: 520
 url: /de/aspose.cells.pivot/pivotfield/is_multiple_item_selection_allowed/
 is_root: false
 ---
 ##  is_multiple_item_selection_allowed Eigentum
 
-Gibt an, ob das Feld mehrere Elemente enthalten kann
-im Seitenfeld ausgewählt werden
-Der Standardwert ist false.
+gibt an, ob das Feld mehrere Elemente enthalten kann
+im Seitenfeld ausgewählt
+Der Standardwert ist „false“.
 ###  Definition:
 ```python
 @property

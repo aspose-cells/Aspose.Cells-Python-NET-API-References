@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  enter_key_behavior Eigentum
 
-Gibt das Verhalten der EINGABETASTE an.
+Gibt das Verhalten der Eingabetaste an.
 True gibt an, dass durch Drücken der EINGABETASTE eine neue Zeile erstellt wird.
-False gibt an, dass das Drücken der EINGABETASTE den Fokus auf das nächste Objekt in der Tab-Reihenfolge verschiebt.
+„False“ gibt an, dass durch Drücken der EINGABETASTE der Fokus auf das nächste Objekt in der Tabulatorreihenfolge verschoben wird.
 ###  Definition:
 ```python
 @property
@@ -23,5 +23,5 @@ def enter_key_behavior(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [TextBoxActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`TextBoxActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

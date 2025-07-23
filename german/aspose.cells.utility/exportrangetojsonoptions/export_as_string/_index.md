@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  export_as_string Eigentum
 
-Exportiert den Zeichenfolgenwert der Zellen nach json.
+Exportiert den Zeichenfolgenwert der Zellen nach JSON.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def export_as_string(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.utility](../../)
-* Klasse [ExportRangeToJsonOptions](/cells/python-net/de/aspose.cells.utility/exportrangetojsonoptions)
+* Modul [`aspose.cells.utility`](../../)
+* Klasse [`ExportRangeToJsonOptions`](/cells/python-net/de/aspose.cells.utility/exportrangetojsonoptions)

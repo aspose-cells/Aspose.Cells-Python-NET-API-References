@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_row Eigentum
 
-Ruft den Endzeilenindex des vertikalen Seitenumbruchs ab.
+Ruft den Index der letzten Zeile des vertikalen Seitenumbruchs ab.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def end_row(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [VerticalPageBreak](/cells/python-net/de/aspose.cells/verticalpagebreak)
+* Modul [`aspose.cells`](../../)
+* Klasse [`VerticalPageBreak`](/cells/python-net/de/aspose.cells/verticalpagebreak)

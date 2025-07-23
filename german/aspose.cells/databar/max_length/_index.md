@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  max_length Eigentum
 
-Repräsentiert die maximale Länge des Datenbalkens.
+Stellt die maximale Länge des Datenbalkens dar.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def max_length(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [DataBar](/cells/python-net/de/aspose.cells/databar)
+* Modul [`aspose.cells`](../../)
+* Klasse [`DataBar`](/cells/python-net/de/aspose.cells/databar)

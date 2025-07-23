@@ -21,5 +21,5 @@ def font_name(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [TextEffectFormat](/cells/python-net/fr/aspose.cells.drawing/texteffectformat)
+* module [`aspose.cells.drawing`](../../)
+* classe [`TextEffectFormat`](/cells/python-net/fr/aspose.cells.drawing/texteffectformat)

@@ -7,12 +7,13 @@ weight: 190
 url: /de/aspose.cells/worksheetcollection/remove_at/
 is_root: false
 ---
-##  remove_at {#str}
-Entfernt das Element unter einem angegebenen Namen.
+##  remove_at(self, name) {#str}
+Entfernt das Element mit einem angegebenen Namen.
 
 
 
 ```python
+
 def remove_at(self, name):
     ...
 ```

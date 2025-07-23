@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  depth_px Eigentum
 
-Ruft die Tiefe von vorne nach hinten in Pixeleinheiten ab, nachdem die Chart.Calculate()-Methode aufgerufen wurde.
+Ruft die Tiefe von vorne nach hinten in Pixeleinheiten ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def depth_px(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Walls](/cells/python-net/de/aspose.cells.charts/walls)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Walls`](/cells/python-net/de/aspose.cells.charts/walls)

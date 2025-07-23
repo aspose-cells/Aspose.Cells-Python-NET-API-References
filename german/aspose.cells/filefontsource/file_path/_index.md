@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  file_path Eigentum
 
-Pfad zur Schriftdatei.
+Pfad zur Schriftartdatei.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def file_path(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FileFontSource](/cells/python-net/de/aspose.cells/filefontsource)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FileFontSource`](/cells/python-net/de/aspose.cells/filefontsource)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_fill_applied propriété
 
-Indiquez si le formatage de remplissage doit être appliqué.
+Indiquez si la mise en forme de remplissage doit être appliquée.
 
 ###  Remarques
 

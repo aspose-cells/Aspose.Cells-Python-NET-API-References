@@ -3,16 +3,17 @@ title: set_text_of_all Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 230
+weight: 240
 url: /de/aspose.cells/settablepivotglobalizationsettings/set_text_of_all/
 is_root: false
 ---
-##  set_text_of_all {#str}
+##  set_text_of_all(self, text) {#str}
 Legt den Text der Beschriftung „(Alle)“ in der PivotTable fest.
 
 
 
 ```python
+
 def set_text_of_all(self, text):
     ...
 ```

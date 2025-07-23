@@ -7,7 +7,7 @@ weight: 80
 url: /fr/aspose.cells/cellshelper/convert_r1c1_formula_to_a1/
 is_root: false
 ---
-##  convert_r1c1_formula_to_a1 {#str-int-int}
+##  convert_r1c1_formula_to_a1(, r_1c1_formula, ligne, colonne){#str-int-int}
 Convertit la formule r1c1 de la cellule en formule A1.
 
 
@@ -17,7 +17,9 @@ La formule A1.
 
 
 ```python
-def convert_r1c1_formula_to_a1(self, r_1c1_formula, row, column):
+
+@staticmethod
+def convert_r1c1_formula_to_a1(r_1c1_formula, row, column):
     ...
 ```
 
@@ -29,9 +31,9 @@ def convert_r1c1_formula_to_a1(self, r_1c1_formula, row, column):
 | column | int | L'index de colonne de la cellule.|
 ###  Remarques
 
-REMARQUE : ce membre est désormais obsolète. Au lieu de cela, veuillez utiliser la méthode Worksheet.ConvertFormulaReferenceStyle().
- Ce bien sera supprimé 12 mois plus tard depuis août 2023.
-Le Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+REMARQUE : Ce membre est désormais obsolète. Utilisez plutôt la méthode Worksheet.ConvertFormulaReferenceStyle().
+ Cette propriété sera supprimée 12 mois plus tard soit en août 2023.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 
 
 ###  Voir également

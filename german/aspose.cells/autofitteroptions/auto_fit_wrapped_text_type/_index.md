@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  auto_fit_wrapped_text_type Eigentum
 
-Ruft den Typ des automatisch angepassten umbrochenen Texts ab und legt ihn fest.
+Ruft den Typ des automatisch angepassten umbrochenen Textes ab und legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def auto_fit_wrapped_text_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [AutoFitWrappedTextType](/cells/python-net/de/aspose.cells/autofitwrappedtexttype)
-* Klasse [AutoFitterOptions](/cells/python-net/de/aspose.cells/autofitteroptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`AutoFitWrappedTextType`](/cells/python-net/de/aspose.cells/autofitwrappedtexttype)
+* Klasse [`AutoFitterOptions`](/cells/python-net/de/aspose.cells/autofitteroptions)

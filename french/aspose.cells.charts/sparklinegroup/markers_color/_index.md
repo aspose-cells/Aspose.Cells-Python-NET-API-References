@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  markers_color propriété
 
-Obtient et définit la couleur des points dans chaque ligne sparkline du groupe de lignes sparkline.
+Obtient et définit la couleur des points dans chaque ligne sparkline du groupe sparkline.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def markers_color(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [CellsColor](/cells/python-net/fr/aspose.cells/cellscolor)
-* classe [SparklineGroup](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)
+* module [`aspose.cells.charts`](../../)
+* classe [`CellsColor`](/cells/python-net/fr/aspose.cells/cellscolor)
+* classe [`SparklineGroup`](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)

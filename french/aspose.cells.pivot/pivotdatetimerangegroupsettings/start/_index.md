@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  start propriété
 
-Obtient la date/heure start du groupe.
+Obtient la date et l'heure start du groupe.
 ###  Définition:
 ```python
 @property

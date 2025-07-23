@@ -7,12 +7,13 @@ weight: 20
 url: /de/aspose.cells.drawing/shapepathpointcollection/add/
 is_root: false
 ---
-##  add(x, y) {#int-int}
+##  add(self, x, y) {#int-int}
 Fügt einen Pfadpunkt hinzu.
 
 
 
 ```python
+
 def add(self, x, y):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self, x, y):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ShapePathPointCollection](/cells/python-net/de/aspose.cells.drawing/shapepathpointcollection)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ShapePathPointCollection`](/cells/python-net/de/aspose.cells.drawing/shapepathpointcollection)

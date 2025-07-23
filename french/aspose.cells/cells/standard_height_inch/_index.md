@@ -3,13 +3,13 @@ title: standard_height_inch propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1250
+weight: 1280
 url: /fr/aspose.cells/cells/standard_height_inch/
 is_root: false
 ---
 ##  standard_height_inch propriété
 
-Obtient ou définit la hauteur de ligne par défaut dans cette feuille de calcul, en unités de pouces.
+Obtient ou définit la hauteur de ligne par défaut dans cette feuille de calcul, en pouces.
 ###  Définition:
 ```python
 @property

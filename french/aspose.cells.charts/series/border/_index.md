@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border propriété
 
-Représente border de l’objet Series.
+Représente border de l'objet Série.
 ###  Définition:
 ```python
 @property

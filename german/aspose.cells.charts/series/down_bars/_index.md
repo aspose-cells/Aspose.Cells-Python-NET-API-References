@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  down_bars Eigentum
 
-Gibt ein [`DropBars`](/cells/python-net/de/aspose.cells.charts/dropbars)-Objekt zurück, das die unteren Balken in einem Liniendiagramm darstellt.
+Gibt ein [`DropBars`](/cells/python-net/de/aspose.cells.charts/dropbars)-Objekt zurück, das die Abwärtsbalken in einem Liniendiagramm darstellt.
 Gilt nur für Liniendiagramme.
 ###  Definition:
 ```python

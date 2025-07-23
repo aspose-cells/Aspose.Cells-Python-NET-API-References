@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  material Eigentum
 
-Stellt die Voreinstellung material dar, die mit den Beleuchtungseigenschaften kombiniert wird, um die zu geben
-endgültiges Aussehen und Gefühl einer Form.
+Stellt die Voreinstellung material dar, die mit den Beleuchtungseigenschaften kombiniert wird, um das
+endgültiges Erscheinungsbild einer Form.
 ###  Definition:
 ```python
 @property
@@ -22,6 +22,6 @@ def material(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [PresetMaterialType](/cells/python-net/de/aspose.cells.drawing/presetmaterialtype)
-* Klasse [ThreeDFormat](/cells/python-net/de/aspose.cells.drawing/threedformat)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`PresetMaterialType`](/cells/python-net/de/aspose.cells.drawing/presetmaterialtype)
+* Klasse [`ThreeDFormat`](/cells/python-net/de/aspose.cells.drawing/threedformat)

@@ -21,5 +21,5 @@ def encoding(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [HtmlLoadOptions](/cells/python-net/fr/aspose.cells/htmlloadoptions)
+* module [`aspose.cells`](../../)
+* classe [`HtmlLoadOptions`](/cells/python-net/fr/aspose.cells/htmlloadoptions)

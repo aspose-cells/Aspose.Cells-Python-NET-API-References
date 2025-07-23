@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  leader_lines propriété
 
- Représente les lignes de repère sur un graphique. Les lignes de repère relient les étiquettes de données aux points de données.
-Cet objet n'est pas une collection ; aucun objet ne représente une seule ligne de repère.
+ Représente les lignes de repère sur un graphique. Elles relient les étiquettes de données aux points de données.
+Cet objet n'est pas une collection ; il n'y a aucun objet qui représente une seule ligne de repère.
 ###  Définition:
 ```python
 @property
@@ -19,6 +19,6 @@ def leader_lines(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Line](/cells/python-net/fr/aspose.cells.drawing/line)
-* classe [Series](/cells/python-net/fr/aspose.cells.charts/series)
+* module [`aspose.cells.charts`](../../)
+* classe [`Line`](/cells/python-net/fr/aspose.cells.drawing/line)
+* classe [`Series`](/cells/python-net/fr/aspose.cells.charts/series)

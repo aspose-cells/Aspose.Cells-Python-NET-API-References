@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  stream Eigentum
 
-Holt/Setzt die stream
+Ruft/setzt die stream
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def stream(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [StreamProviderOptions](/cells/python-net/de/aspose.cells/streamprovideroptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`StreamProviderOptions`](/cells/python-net/de/aspose.cells/streamprovideroptions)

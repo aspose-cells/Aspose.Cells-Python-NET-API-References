@@ -9,15 +9,15 @@ is_root: false
 ---
 ##  preserve_padding_spaces Eigentum
 
-Gibt an, ob die zwischen Formeltoken aufgefüllten Leerzeichen und Zeilenumbrüche beibehalten werden
+Gibt an, ob die Leerzeichen und Zeilenumbrüche zwischen den Formel-Tokens beibehalten werden sollen.
 beim Abrufen und Festlegen von Formeln.
-Der Standardwert ist falsch.
+Der Standardwert ist „false“.
 
 ###  Bemerkungen
 
-Im Allgemeinen dienen diese Leerzeichen und Zeilenumbrüche nur visuellen Zwecken.
-Ob sie beibehalten werden oder nicht, hat keinen Einfluss auf das berechnete Ergebnis.
-Wenn aus Leistungsgründen keine besonderen Anforderungen bestehen,
+Im Allgemeinen dienen diese Leerzeichen und Zeilenumbrüche nur optischen Zwecken.
+Ob sie erhalten bleiben oder nicht, hat keinen Einfluss auf das berechnete Ergebnis.
+Aus Leistungsgründen, wenn keine besonderen Anforderungen bestehen,
 Es ist besser, sie bei der Verarbeitung von Formeln nicht beizubehalten.
 ###  Definition:
 ```python

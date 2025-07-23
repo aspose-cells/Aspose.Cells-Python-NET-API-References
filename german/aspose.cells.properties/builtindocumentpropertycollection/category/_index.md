@@ -3,7 +3,7 @@ title: category Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 100
+weight: 110
 url: /de/aspose.cells.properties/builtindocumentpropertycollection/category/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def category(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.properties](../../)
-* Klasse [BuiltInDocumentPropertyCollection](/cells/python-net/de/aspose.cells.properties/builtindocumentpropertycollection)
+* Modul [`aspose.cells.properties`](../../)
+* Klasse [`BuiltInDocumentPropertyCollection`](/cells/python-net/de/aspose.cells.properties/builtindocumentpropertycollection)

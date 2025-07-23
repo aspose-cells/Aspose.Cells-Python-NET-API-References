@@ -18,5 +18,5 @@ def new_name(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.revisions](../../)
-* Klasse [RevisionRenameSheet](/cells/python-net/de/aspose.cells.revisions/revisionrenamesheet)
+* Modul [`aspose.cells.revisions`](../../)
+* Klasse [`RevisionRenameSheet`](/cells/python-net/de/aspose.cells.revisions/revisionrenamesheet)

@@ -3,13 +3,13 @@ title: max_column Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 300
+weight: 330
 url: /de/aspose.cells/workbooksettings/max_column/
 is_root: false
 ---
 ##  max_column Eigentum
 
-Ruft den maximalen Spaltenindex nullbasiert ab.
+Ruft den maximalen Spaltenindex ab, nullbasiert.
 
 ###  Bemerkungen
 

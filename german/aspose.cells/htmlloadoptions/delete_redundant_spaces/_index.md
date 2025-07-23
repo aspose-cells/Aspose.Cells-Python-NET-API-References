@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  delete_redundant_spaces Eigentum
 
-Gibt an, ob redundante Leerzeichen gelöscht werden, wenn der Text Zeilen mit dem Tag `<br>` umbricht.
-Der Standardwert ist false.
+Gibt an, ob redundante Leerzeichen gelöscht werden sollen, wenn der Text mit dem Tag `<br>` Zeilen umbricht.
+Der Standardwert ist „false“.
 ###  Definition:
 ```python
 @property

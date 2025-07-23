@@ -7,7 +7,7 @@ weight: 20
 url: /de/aspose.cells/scenariocollection/add/
 is_root: false
 ---
-##  add(name) {#str}
+##  add(self, name) {#str}
 Fügt ein Szenario hinzu.
 
 
@@ -17,6 +17,7 @@ Der Index in der Liste der Szenarien.
 
 
 ```python
+
 def add(self, name):
     ...
 ```
@@ -29,5 +30,5 @@ def add(self, name):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ScenarioCollection](/cells/python-net/de/aspose.cells/scenariocollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ScenarioCollection`](/cells/python-net/de/aspose.cells/scenariocollection)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type Eigentum
 
-Ruft die Gruppe type des Pivotfelds ab.
+Ruft die Gruppe type des Pivot-Felds ab.
 ###  Definition:
 ```python
 @property

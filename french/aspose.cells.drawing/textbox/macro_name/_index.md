@@ -3,7 +3,7 @@ title: macro_name propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 800
+weight: 810
 url: /fr/aspose.cells.drawing/textbox/macro_name/
 is_root: false
 ---

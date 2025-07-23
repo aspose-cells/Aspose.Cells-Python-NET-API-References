@@ -19,6 +19,6 @@ def max_cfvo(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ColorScale](/cells/python-net/fr/aspose.cells/colorscale)
-* classe [ConditionalFormattingValue](/cells/python-net/fr/aspose.cells/conditionalformattingvalue)
+* module [`aspose.cells`](../../)
+* classe [`ColorScale`](/cells/python-net/fr/aspose.cells/colorscale)
+* classe [`ConditionalFormattingValue`](/cells/python-net/fr/aspose.cells/conditionalformattingvalue)

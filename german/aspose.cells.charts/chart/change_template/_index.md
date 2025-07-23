@@ -7,12 +7,13 @@ weight: 30
 url: /de/aspose.cells.charts/chart/change_template/
 is_root: false
 ---
-##  change_template(data) {#bytes}
-Diagrammtyp mit voreingestellter Vorlage ändern.
+##  change_template(self, data) {#bytes}
+Ändern Sie den Diagrammtyp mit einer voreingestellten Vorlage.
 
 
 
 ```python
+
 def change_template(self, data):
     ...
 ```
@@ -25,5 +26,5 @@ def change_template(self, data):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Chart](/cells/python-net/de/aspose.cells.charts/chart)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Chart`](/cells/python-net/de/aspose.cells.charts/chart)

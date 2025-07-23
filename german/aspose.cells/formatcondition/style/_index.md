@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  style Eigentum
 
-Ruft style von bedingt formatierten Zellbereichen ab oder setzt sie.
+Ruft style bedingt formatierte Zellbereiche ab oder legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def style(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FormatCondition](/cells/python-net/de/aspose.cells/formatcondition)
-* Klasse [Style](/cells/python-net/de/aspose.cells/style)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FormatCondition`](/cells/python-net/de/aspose.cells/formatcondition)
+* Klasse [`Style`](/cells/python-net/de/aspose.cells/style)

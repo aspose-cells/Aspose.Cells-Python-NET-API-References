@@ -17,11 +17,11 @@ Der Typ SparklineType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| LINE | Line-Sparkline.|
-| COLUMN | Spalten-Sparkline.|
-| STACKED | Gewinn/Verlust-Sparkline.|
+| LINE | Linien-Sparkline.|
+| COLUMN | Säulen-Sparkline.|
+| STACKED | Gewinn-/Verlust-Sparkline.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
+* Modul [`aspose.cells.charts`](..)

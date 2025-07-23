@@ -7,12 +7,13 @@ weight: 110
 url: /de/aspose.cells/pagesetup/get_header/
 is_root: false
 ---
-##  get_header(section) {#int}
-Ruft ein Skript ab, das den Header einer Excel-Datei formatiert.
+##  get_header(self, section) {#int}
+Ruft ein Skript ab, das die Kopfzeile einer Excel-Datei formatiert.
 
 
 
 ```python
+
 def get_header(self, section):
     ...
 ```
@@ -20,10 +21,10 @@ def get_header(self, section):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| section | int | 0: Linker Abschnitt, 1: Mittlerer Abschnitt, 2: Rechter Abschnitt.|
+| section | int |0: Linker Abschnitt, 1: Mittlerer Abschnitt, 2: Rechter Abschnitt.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

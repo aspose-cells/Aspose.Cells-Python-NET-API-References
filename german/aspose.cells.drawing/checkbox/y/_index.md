@@ -3,13 +3,13 @@ title: y Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1280
+weight: 1290
 url: /de/aspose.cells.drawing/checkbox/y/
 is_root: false
 ---
 ##  y Eigentum
 
-Ruft den vertikalen Versatz der Form vom oberen Rand des Arbeitsblatts in Pixeleinheiten ab und legt diesen fest.
+Ruft den vertikalen Versatz der Form vom oberen Rand des Arbeitsblatts in Pixeln ab und legt ihn fest.
 
 ###  Beispiel
 

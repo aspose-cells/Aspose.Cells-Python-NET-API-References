@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  alignment_type Eigentum
 
-Ruft die Ausrichtung für die Kachelung ab oder legt diese fest.
+Ruft die Ausrichtung für die Kachelung ab oder legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def alignment_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [RectangleAlignmentType](/cells/python-net/de/aspose.cells.drawing/rectanglealignmenttype)
-* Klasse [TilePicOption](/cells/python-net/de/aspose.cells.drawing/tilepicoption)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`RectangleAlignmentType`](/cells/python-net/de/aspose.cells.drawing/rectanglealignmenttype)
+* Klasse [`TilePicOption`](/cells/python-net/de/aspose.cells.drawing/tilepicoption)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  r1c1_style propriété
 
-Si la formule est de style de référence R1C1. La valeur par défaut est fausse.
+Indique si la formule est de type référence R1C1. La valeur par défaut est « false ».
 ###  Définition:
 ```python
 @property

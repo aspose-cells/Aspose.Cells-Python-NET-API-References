@@ -3,7 +3,7 @@ title: legend_entries propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 270
+weight: 330
 url: /fr/aspose.cells.charts/legend/legend_entries/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 
 Obtient une collection de tous les objets LegendEntry dans la légende du graphique spécifiée.
 La définition des entrées de légende du graphique de surface n'est pas prise en charge.
-Il renverra donc null si le type de graphique est de type graphique de surface.
+Il renverra donc null si le type de graphique est un type de graphique de surface.
 ###  Définition:
 ```python
 @property

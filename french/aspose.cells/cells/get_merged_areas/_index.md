@@ -3,16 +3,17 @@ title: méthode get_merged_areas
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 430
+weight: 470
 url: /fr/aspose.cells/cells/get_merged_areas/
 is_root: false
 ---
-##  get_merged_areas {#}
+##  get_merged_areas(self) {#}
 Obtient toutes les cellules fusionnées.
 
 
 
 ```python
+
 def get_merged_areas(self):
     ...
 ```

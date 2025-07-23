@@ -3,7 +3,7 @@ title: text_shape_type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1010
+weight: 1020
 url: /fr/aspose.cells.drawing/label/text_shape_type/
 is_root: false
 ---

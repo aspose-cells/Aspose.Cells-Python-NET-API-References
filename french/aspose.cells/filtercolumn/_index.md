@@ -3,7 +3,7 @@ title: FilterColumn classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 640
+weight: 620
 url: /fr/aspose.cells/filtercolumn/
 is_root: false
 ---
@@ -17,7 +17,7 @@ Le type FilterColumn expose les membres suivants :
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
-| [is_dropdown_visible](/cells/python-net/fr/aspose.cells/filtercolumn/is_dropdown_visible) | Indique si le bouton Filtre automatique de cette colonne est visible.|
+| [is_dropdown_visible](/cells/python-net/fr/aspose.cells/filtercolumn/is_dropdown_visible) | Indique si le bouton Filtre automatique pour cette colonne est visible.|
 | [filter](/cells/python-net/fr/aspose.cells/filtercolumn/filter) | Obtient et définit la condition de filtrage des données.|
 | [filter_type](/cells/python-net/fr/aspose.cells/filtercolumn/filter_type) | Obtient et définit le type de filtrage des données.|
 | [field_index](/cells/python-net/fr/aspose.cells/filtercolumn/field_index) | Obtient et définit le décalage de colonne dans la plage.|

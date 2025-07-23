@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  vertical_alignment Eigentum
 
-Ruft den vertikalen Ausrichtungstyp des Texts in einer Zelle ab oder legt diesen fest.
+Ruft den vertikalen Ausrichtungstyp des Texts in einer Zelle ab oder legt ihn fest.
 ###  Definition:
 ```python
 @property

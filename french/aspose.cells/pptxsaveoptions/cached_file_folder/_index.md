@@ -8,8 +8,6 @@ url: /fr/aspose.cells/pptxsaveoptions/cached_file_folder/
 is_root: false
 ---
 ##  cached_file_folder propriété
-
-Le dossier de fichiers mis en cache est utilisé pour stocker des données volumineuses.
 ###  Définition:
 ```python
 @property

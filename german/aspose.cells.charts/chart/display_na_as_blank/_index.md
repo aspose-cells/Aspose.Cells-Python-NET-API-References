@@ -3,13 +3,13 @@ title: display_na_as_blank Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 230
+weight: 250
 url: /de/aspose.cells.charts/chart/display_na_as_blank/
 is_root: false
 ---
 ##  display_na_as_blank Eigentum
 
-Gibt an, ob #NV als Leerwert angezeigt wird.
+Gibt an, ob #N/A als leerer Wert angezeigt wird.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def display_na_as_blank(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Chart](/cells/python-net/de/aspose.cells.charts/chart)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Chart`](/cells/python-net/de/aspose.cells.charts/chart)

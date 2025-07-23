@@ -3,7 +3,7 @@ title: window_left_inch propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 570
+weight: 580
 url: /fr/aspose.cells/workbooksettings/window_left_inch/
 is_root: false
 ---

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_top Eigentum
 
-Gibt an, ob es sich um den oberen Filter handelt.
+Gibt an, ob es sich um den Top-Filter handelt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_top(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Top10Filter](/cells/python-net/de/aspose.cells/top10filter)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Top10Filter`](/cells/python-net/de/aspose.cells/top10filter)

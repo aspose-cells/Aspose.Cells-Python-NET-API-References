@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  drop_zone_filter propriété
 
-Spécifie si un contrôle pour chaque champ de tableau croisé dynamique sur l'axe de page de tableau croisé dynamique
+Spécifie si un contrôle pour chaque champ de tableau croisé dynamique sur l'axe de la page du tableau croisé dynamique
 du tableau croisé dynamique source apparaît sur le graphique lorsque dropZonesVisible est défini sur true.
 ###  Définition:
 ```python
@@ -22,5 +22,5 @@ def drop_zone_filter(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [PivotOptions](/cells/python-net/fr/aspose.cells.charts/pivotoptions)
+* module [`aspose.cells.charts`](../../)
+* classe [`PivotOptions`](/cells/python-net/fr/aspose.cells.charts/pivotoptions)

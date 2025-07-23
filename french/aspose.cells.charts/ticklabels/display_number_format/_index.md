@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_number_format propriété
 
-Obtient et définit le format du numéro d’affichage des étiquettes de graduation.
+Obtient et définit le format du numéro d'affichage des étiquettes de graduation.
 ###  Définition:
 ```python
 @property

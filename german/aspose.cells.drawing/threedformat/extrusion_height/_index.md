@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  extrusion_height Eigentum
 
-Ruft die Extrusionshöhe des auf die Form angewendeten in Punkteinheiten ab und legt sie fest.
+Ruft die Extrusionshöhe der auf die Form angewendeten Form in Punkten ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def extrusion_height(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ThreeDFormat](/cells/python-net/de/aspose.cells.drawing/threedformat)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ThreeDFormat`](/cells/python-net/de/aspose.cells.drawing/threedformat)

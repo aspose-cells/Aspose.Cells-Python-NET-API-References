@@ -7,16 +7,17 @@ weight: 30
 url: /de/aspose.cells.pivot/pivottable/add_field_to_area/
 is_root: false
 ---
-##  add_field_to_area(field_type, field_name) {#PivotFieldType-str}
+##  add_field_to_area(self, field_type, field_name) {#aspose.cells.pivot.PivotFieldType-str}
 Fügt das Feld dem bestimmten Bereich hinzu.
 
 
 ###  Kehrt zurück
 
-Die Feldposition in den spezifischen Feldern. Wenn es kein benanntes Feld gibt, geben Sie -1 zurück.
+Die Feldposition in den spezifischen Feldern. Wenn kein Feld mit diesem Namen vorhanden ist, wird -1 zurückgegeben.
 
 
 ```python
+
 def add_field_to_area(self, field_type, field_name):
     ...
 ```
@@ -24,11 +25,11 @@ def add_field_to_area(self, field_type, field_name):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| field_type | [PivotFieldType](/cells/python-net/de/aspose.cells.pivot/pivotfieldtype) | Der Feldbereichstyp.|
-| field_name | str | Der Name in den Basisfeldern.|
+| field_type | [`PivotFieldType`](/cells/python-net/de/aspose.cells.pivot/pivotfieldtype) | Der Feldbereichstyp.|
+| field_name | str |Der Name in den Basisfeldern.|
 
 
-##  add_field_to_area(field_type, base_field_index) {#PivotFieldType-int}
+##  add_field_to_area(self, field_type, base_field_index) {#aspose.cells.pivot.PivotFieldType-int}
 Fügt das Feld dem bestimmten Bereich hinzu.
 
 
@@ -38,6 +39,7 @@ Die Feldposition in den spezifischen Feldern.
 
 
 ```python
+
 def add_field_to_area(self, field_type, base_field_index):
     ...
 ```
@@ -45,11 +47,11 @@ def add_field_to_area(self, field_type, base_field_index):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| field_type | [PivotFieldType](/cells/python-net/de/aspose.cells.pivot/pivotfieldtype) | Der Feldbereichstyp.|
+| field_type | [`PivotFieldType`](/cells/python-net/de/aspose.cells.pivot/pivotfieldtype) | Der Feldbereichstyp.|
 | base_field_index | int | Der Feldindex in den Basisfeldern.|
 
 
-##  add_field_to_area(field_type, pivot_field) {#PivotFieldType-PivotField}
+##  add_field_to_area(self, field_type, pivot_field) {#aspose.cells.pivot.PivotFieldType-aspose.cells.pivot.PivotField}
 Fügt das Feld dem bestimmten Bereich hinzu.
 
 
@@ -59,6 +61,7 @@ die Feldposition in den spezifischen Feldern.
 
 
 ```python
+
 def add_field_to_area(self, field_type, pivot_field):
     ...
 ```
@@ -66,11 +69,11 @@ def add_field_to_area(self, field_type, pivot_field):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| field_type | [PivotFieldType](/cells/python-net/de/aspose.cells.pivot/pivotfieldtype) | der Feldbereichstyp.|
-| pivot_field | [PivotField](/cells/python-net/de/aspose.cells.pivot/pivotfield) | das Feld in den Basisfeldern.|
+| field_type | [`PivotFieldType`](/cells/python-net/de/aspose.cells.pivot/pivotfieldtype) | der Feldbereichstyp.|
+| pivot_field | [`PivotField`](/cells/python-net/de/aspose.cells.pivot/pivotfield) | das Feld in den Basisfeldern.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotTable](/cells/python-net/de/aspose.cells.pivot/pivottable)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotTable`](/cells/python-net/de/aspose.cells.pivot/pivottable)

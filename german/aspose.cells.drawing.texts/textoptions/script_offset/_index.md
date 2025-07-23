@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  script_offset Eigentum
 
-Ruft den Skript-Offset in Prozent ab und legt ihn fest
+Ruft den Skript-Offset in Prozent ab und legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def script_offset(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [TextOptions](/cells/python-net/de/aspose.cells.drawing.texts/textoptions)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`TextOptions`](/cells/python-net/de/aspose.cells.drawing.texts/textoptions)

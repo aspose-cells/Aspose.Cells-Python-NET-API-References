@@ -1,14 +1,14 @@
 ---
-title: LightRigDirectionType dénombrement
+title: LightRigDirectionType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 910
+weight: 900
 url: /fr/aspose.cells.drawing/lightrigdirectiontype/
 is_root: false
 ---
-##  LightRigDirectionType dénombrement
-Représente le type de direction du rig léger.
+##  LightRigDirectionType énumération
+Représente le type de direction de la plate-forme lumineuse.
 
 
 
@@ -29,4 +29,4 @@ Le type LightRigDirectionType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

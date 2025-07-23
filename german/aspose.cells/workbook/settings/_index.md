@@ -3,7 +3,7 @@ title: settings Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 650
+weight: 680
 url: /de/aspose.cells/workbook/settings/
 is_root: false
 ---

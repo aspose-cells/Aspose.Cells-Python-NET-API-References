@@ -3,16 +3,17 @@ title: méthode set_locked_property
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 210
+weight: 220
 url: /fr/aspose.cells.drawing/dialogbox/set_locked_property/
 is_root: false
 ---
-##  set_locked_property {#aspose.cells.drawing.ShapeLockType-bool}
+##  set_locked_property(self, type, value) {#aspose.cells.drawing.ShapeLockType-bool}
 Définissez la propriété verrouillée.
 
 
 
 ```python
+
 def set_locked_property(self, type, value):
     ...
 ```

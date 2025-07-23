@@ -3,13 +3,13 @@ title: auto_show_count Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 180
+weight: 260
 url: /de/aspose.cells.pivot/pivotfield/auto_show_count/
 is_root: false
 ---
 ##  auto_show_count Eigentum
 
-Stellt die Anzahl der oberen oder unteren Elemente dar
+Stellen Sie die Anzahl der oberen oder unteren Elemente dar
 die automatisch im angegebenen PivotTable-Feld angezeigt werden.
 ###  Definition:
 ```python

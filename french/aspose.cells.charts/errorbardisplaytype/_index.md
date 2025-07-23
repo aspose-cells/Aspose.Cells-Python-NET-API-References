@@ -1,5 +1,5 @@
 ---
-title: ErrorBarDisplayType dénombrement
+title: ErrorBarDisplayType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 500
 url: /fr/aspose.cells.charts/errorbardisplaytype/
 is_root: false
 ---
-##  ErrorBarDisplayType dénombrement
+##  ErrorBarDisplayType énumération
 Représente le type d'affichage de la barre d'erreur.
 
 
@@ -25,4 +25,4 @@ Le type ErrorBarDisplayType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.charts](..)
+* module [`aspose.cells.charts`](..)

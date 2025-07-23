@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  password propriété
 
-Représente le chiffrement de fichier de classeur password.
+Représente le cryptage du fichier de classeur password.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def password(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.metadata](../../)
-* classe [MetadataOptions](/cells/python-net/fr/aspose.cells.metadata/metadataoptions)
+* module [`aspose.cells.metadata`](../../)
+* classe [`MetadataOptions`](/cells/python-net/fr/aspose.cells.metadata/metadataoptions)

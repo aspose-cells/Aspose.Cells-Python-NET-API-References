@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  dash_style Eigentum
 
-Gibt den Strichtyp der Linie an.
+Gibt den Strichelungstyp der Linie an.
 
 ###  Beispiel
 
@@ -30,6 +30,6 @@ def dash_style(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [LineFormat](/cells/python-net/de/aspose.cells.drawing/lineformat)
-* Klasse [MsoLineDashStyle](/cells/python-net/de/aspose.cells.drawing/msolinedashstyle)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`LineFormat`](/cells/python-net/de/aspose.cells.drawing/lineformat)
+* Klasse [`MsoLineDashStyle`](/cells/python-net/de/aspose.cells.drawing/msolinedashstyle)

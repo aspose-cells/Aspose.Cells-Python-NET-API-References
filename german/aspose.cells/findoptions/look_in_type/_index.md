@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  look_in_type Eigentum
 
-Suchen Sie in Typ.
+Schauen Sie in der Schrift nach.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def look_in_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FindOptions](/cells/python-net/de/aspose.cells/findoptions)
-* Klasse [LookInType](/cells/python-net/de/aspose.cells/lookintype)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FindOptions`](/cells/python-net/de/aspose.cells/findoptions)
+* Klasse [`LookInType`](/cells/python-net/de/aspose.cells/lookintype)

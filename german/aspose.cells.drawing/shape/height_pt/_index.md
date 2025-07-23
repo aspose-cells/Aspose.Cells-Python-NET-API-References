@@ -3,13 +3,13 @@ title: height_pt Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 470
+weight: 460
 url: /de/aspose.cells.drawing/shape/height_pt/
 is_root: false
 ---
 ##  height_pt Eigentum
 
-Stellt die Höhe der Form in Punkteinheiten dar.
+Stellt die Höhe der Form in Punkten dar.
 
 ###  Beispiel
 

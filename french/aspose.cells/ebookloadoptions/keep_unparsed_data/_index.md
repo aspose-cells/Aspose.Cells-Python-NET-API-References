@@ -3,18 +3,18 @@ title: keep_unparsed_data propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 220
+weight: 210
 url: /fr/aspose.cells/ebookloadoptions/keep_unparsed_data/
 is_root: false
 ---
 ##  keep_unparsed_data propriété
 
-Indique si les données non analysées sont conservées en mémoire pour le classeur lorsqu'il est chargé à partir du fichier modèle. La valeur par défaut est vraie.
+Conserver les données non analysées en mémoire lors du chargement du classeur à partir du fichier modèle. La valeur par défaut est « true ».
 
 ###  Remarques
 
-Pour les scénarios dans lesquels l'utilisateur n'a besoin que de lire certains contenus du fichier modèle et n'a pas besoin de réenregistrer le classeur,
-définir cette propriété sur false peut améliorer les performances, en particulier lorsque vous l'utilisez avec une sorte de LoadFilter,
+Pour les scénarios dans lesquels l'utilisateur a uniquement besoin de lire une partie du contenu du fichier modèle et n'a pas besoin de sauvegarder le classeur,
+définir cette propriété sur false peut améliorer les performances, en particulier lors de son utilisation avec une sorte de LoadFilter,
 ###  Définition:
 ```python
 @property

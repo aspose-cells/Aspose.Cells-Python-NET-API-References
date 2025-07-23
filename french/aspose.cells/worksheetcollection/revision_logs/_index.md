@@ -3,7 +3,7 @@ title: revision_logs propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 340
+weight: 360
 url: /fr/aspose.cells/worksheetcollection/revision_logs/
 is_root: false
 ---

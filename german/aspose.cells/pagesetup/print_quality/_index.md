@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_quality Eigentum
 
-Repräsentiert die Druckqualität.
+Stellt die Druckqualität dar.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def print_quality(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

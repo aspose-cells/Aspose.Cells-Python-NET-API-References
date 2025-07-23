@@ -3,7 +3,7 @@ title: visibility_type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 920
+weight: 940
 url: /fr/aspose.cells/worksheet/visibility_type/
 is_root: false
 ---

@@ -21,6 +21,6 @@ def axis_position(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DataBar](/cells/python-net/fr/aspose.cells/databar)
-* classe [DataBarAxisPosition](/cells/python-net/fr/aspose.cells/databaraxisposition)
+* module [`aspose.cells`](../../)
+* classe [`DataBar`](/cells/python-net/fr/aspose.cells/databar)
+* classe [`DataBarAxisPosition`](/cells/python-net/fr/aspose.cells/databaraxisposition)

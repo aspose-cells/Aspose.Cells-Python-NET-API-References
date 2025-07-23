@@ -3,7 +3,7 @@ title: height_scale propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 560
+weight: 550
 url: /fr/aspose.cells.drawing/oleobject/height_scale/
 is_root: false
 ---

@@ -3,18 +3,18 @@ title: height Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 170
+weight: 210
 url: /de/aspose.cells.charts/legend/height/
 is_root: false
 ---
 ##  height Eigentum
 
-Ruft die height des Rahmens in Einheiten von 1/4000 der Diagrammfläche ab oder legt diese fest.
+Ruft den height-Rahmen in Einheiten von 1/4000 der Diagrammfläche ab oder legt ihn fest.
 
 ###  Bemerkungen
 
- Wie konvertiere ich Einheiten von 1/4000 in Pixel?
-Höhe in Pixel = Y * Chart.ChartObject.Height / 4000;
+ Wie konvertiert man Einheiten von 1/4000 in Pixel?
+Höhe in Pixeln = Y * Chart.ChartObject.Height / 4000d;
 ###  Definition:
 ```python
 @property

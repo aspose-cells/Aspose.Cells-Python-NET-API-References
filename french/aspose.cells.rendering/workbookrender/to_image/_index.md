@@ -7,12 +7,13 @@ weight: 50
 url: /fr/aspose.cells.rendering/workbookrender/to_image/
 is_root: false
 ---
-##  to_image {#io.RawIOBase}
-Restituez l'intégralité du classeur sous forme d'image Tiff à diffuser.
+##  to_image(self, stream) {#io.RawIOBase}
+Rendre l'intégralité du classeur sous forme d'image Tiff à diffuser.
 
 
 
 ```python
+
 def to_image(self, stream):
     ...
 ```
@@ -23,12 +24,13 @@ def to_image(self, stream):
 | stream | io.RawIOBase | le flux de l'image de sortie|
 
 
-##  to_image {#str}
-Restituez l'intégralité du classeur sous forme d'image Tiff dans un fichier.
+##  to_image(self, filename) {#str}
+Rendre l'intégralité du classeur sous forme d'image Tiff dans un fichier.
 
 
 
 ```python
+
 def to_image(self, filename):
     ...
 ```
@@ -39,12 +41,13 @@ def to_image(self, filename):
 | filename | str | le nom de fichier de l'image de sortie|
 
 
-##  to_image {#int-str}
-Rendre certaines pages dans un fichier.
+##  to_image(self, page_index, file_name) {#int-str}
+Rendre une certaine page dans un fichier.
 
 
 
 ```python
+
 def to_image(self, page_index, file_name):
     ...
 ```
@@ -56,12 +59,13 @@ def to_image(self, page_index, file_name):
 | file_name | str | nom de fichier de l'image de sortie|
 
 
-##  to_image {#int-io.RawIOBase}
-Afficher certaines pages dans un flux.
+##  to_image(self, page_index, stream) {#int-io.RawIOBase}
+Rendre une certaine page dans un flux.
 
 
 
 ```python
+
 def to_image(self, page_index, stream):
     ...
 ```

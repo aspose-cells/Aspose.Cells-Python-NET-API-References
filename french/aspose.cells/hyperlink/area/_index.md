@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  area propriété
 
-Obtient la plage de liens hypertexte.
+Obtient la plage du lien hypertexte.
 ###  Définition:
 ```python
 @property
@@ -18,6 +18,6 @@ def area(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CellArea](/cells/python-net/fr/aspose.cells/cellarea)
-* classe [Hyperlink](/cells/python-net/fr/aspose.cells/hyperlink)
+* module [`aspose.cells`](../../)
+* classe [`CellArea`](/cells/python-net/fr/aspose.cells/cellarea)
+* classe [`Hyperlink`](/cells/python-net/fr/aspose.cells/hyperlink)

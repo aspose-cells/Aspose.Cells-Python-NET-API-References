@@ -3,17 +3,17 @@ title: export_hyperlink_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 100
+weight: 120
 url: /de/aspose.cells/jsonsaveoptions/export_hyperlink_type/
 is_root: false
 ---
 ##  export_hyperlink_type Eigentum
 
-Stellt den Typ des Exportierens von Hyperlinks in JSON dar.
+Stellt den Typ des Hyperlink-Exports in JSON dar.
 
 ###  Bemerkungen
 
-Der Standardwert ist [JsonExportHyperlinkType.DISPLAY_STRING](/cells/python-net/de/aspose.cells.json/jsonexporthyperlinktype#DISPLAY_STRING);
+Der Standardwert ist [`JsonExportHyperlinkType.DISPLAY_STRING`](/cells/python-net/de/aspose.cells.json/jsonexporthyperlinktype#DISPLAY_STRING);
 ###  Definition:
 ```python
 @property
@@ -25,6 +25,6 @@ def export_hyperlink_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [JsonExportHyperlinkType](/cells/python-net/de/aspose.cells.json/jsonexporthyperlinktype)
-* Klasse [JsonSaveOptions](/cells/python-net/de/aspose.cells/jsonsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`JsonExportHyperlinkType`](/cells/python-net/de/aspose.cells.json/jsonexporthyperlinktype)
+* Klasse [`JsonSaveOptions`](/cells/python-net/de/aspose.cells/jsonsaveoptions)

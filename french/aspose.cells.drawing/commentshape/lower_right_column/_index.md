@@ -3,13 +3,13 @@ title: lower_right_column propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 780
+weight: 790
 url: /fr/aspose.cells.drawing/commentshape/lower_right_column/
 is_root: false
 ---
 ##  lower_right_column propriété
 
-Représente l’index de la colonne du coin inférieur droit.
+Représente l'index de la colonne du coin inférieur droit.
 
 ###  Exemple
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  page_setup propriété
 
-Représente la description de la mise en page dans ce graphique.
+Représente la description de la configuration de la page dans ce graphique.
 ###  Définition:
 ```python
 @property

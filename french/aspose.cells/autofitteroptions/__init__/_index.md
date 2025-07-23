@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells/autofitteroptions/__init__/
 is_root: false
 ---
-##  AutoFitterOptions() {#}
+##  \_\_init\_\_(self){#}
 Construit une nouvelle instance de AutoFitterOptions
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [AutoFitterOptions](/cells/python-net/fr/aspose.cells/autofitteroptions)
+* module [`aspose.cells`](../../)
+* classe [`AutoFitterOptions`](/cells/python-net/fr/aspose.cells/autofitteroptions)

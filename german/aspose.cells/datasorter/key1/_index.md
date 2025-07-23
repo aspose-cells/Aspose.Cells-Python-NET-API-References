@@ -3,13 +3,13 @@ title: key1 Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 80
+weight: 90
 url: /de/aspose.cells/datasorter/key1/
 is_root: false
 ---
 ##  key1 Eigentum
 
-Stellt den Index der ersten sortierten Spalte dar (absolute Position, Spalte A ist 0, B ist 1, ...).
+Stellt den ersten sortierten Spaltenindex dar (absolute Position, Spalte A ist 0, B ist 1, …).
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def key1(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [DataSorter](/cells/python-net/de/aspose.cells/datasorter)
+* Modul [`aspose.cells`](../../)
+* Klasse [`DataSorter`](/cells/python-net/de/aspose.cells/datasorter)

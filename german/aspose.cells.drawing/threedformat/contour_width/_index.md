@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  contour_width Eigentum
 
-Ruft die Konturbreite der Form in Punkteinheiten ab und legt sie fest.
+Ruft die Konturbreite der Form in Punkten ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def contour_width(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ThreeDFormat](/cells/python-net/de/aspose.cells.drawing/threedformat)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ThreeDFormat`](/cells/python-net/de/aspose.cells.drawing/threedformat)

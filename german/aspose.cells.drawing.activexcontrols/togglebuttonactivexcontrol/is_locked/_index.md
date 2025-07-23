@@ -8,8 +8,6 @@ url: /de/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_lock
 is_root: false
 ---
 ##  is_locked Eigentum
-
-Gibt an, ob Daten im Steuerelement zur Bearbeitung gesperrt sind.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_locked(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [ToggleButtonActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`ToggleButtonActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

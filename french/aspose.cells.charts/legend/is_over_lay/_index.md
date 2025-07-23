@@ -3,13 +3,13 @@ title: is_over_lay propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 240
+weight: 300
 url: /fr/aspose.cells.charts/legend/is_over_lay/
 is_root: false
 ---
 ##  is_over_lay propriété
 
-Obtient ou définit si d'autres éléments de graphique doivent être autorisés à chevaucher cet élément de graphique.
+Obtient ou définit si la légende doit être affichée sans chevaucher le graphique.
 ###  Définition:
 ```python
 @property

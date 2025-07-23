@@ -1,5 +1,5 @@
 ---
-title: equals méthode
+title: méthode equals
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 20
 url: /fr/aspose.cells/font/equals/
 is_root: false
 ---
-##  equals(font) {#Font}
+##  equals(self, font) {#aspose.cells.Font}
 Vérifie si deux polices sont equals.
 
 
@@ -17,6 +17,7 @@ Vrai si égal à l'objet de police comparé.
 
 
 ```python
+
 def equals(self, font):
     ...
 ```
@@ -24,10 +25,10 @@ def equals(self, font):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| font | [Font](/cells/python-net/fr/aspose.cells/font) |Objet de police comparé.|
+| font | [`Font`](/cells/python-net/fr/aspose.cells/font) | Objet de police comparé.|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Font](/cells/python-net/fr/aspose.cells/font)
+* module [`aspose.cells`](../../)
+* classe [`Font`](/cells/python-net/fr/aspose.cells/font)

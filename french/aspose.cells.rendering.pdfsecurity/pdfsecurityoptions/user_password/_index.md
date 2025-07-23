@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  user_password propriété
 
-Obtient ou définit le mot de passe utilisateur requis pour ouvrir le document PDF chiffré.
+Obtient ou définit le mot de passe utilisateur requis pour ouvrir le document crypté PDF.
 
 ###  Remarques
 
-Le mot de passe propriétaire ou le mot de passe utilisateur sera requis pour ouvrir un document PDF crypté et le consulter.
+Le mot de passe du propriétaire ou le mot de passe de l'utilisateur sera requis pour ouvrir un document crypté PDF pour visualisation.
 
 
 Le mot de passe de l'utilisateur peut être nul ou une chaîne vide, dans ce cas aucun mot de passe ne sera demandé à l'utilisateur lors de l'ouverture du document PDF.
@@ -22,8 +22,8 @@ Le mot de passe de l'utilisateur peut être nul ou une chaîne vide, dans ce cas
 L'ouverture du document avec le mot de passe propriétaire correct permet un accès complet au document.
 
 
- Ouverture du document avec le mot de passe utilisateur correct (ou ouverture d'un document qui n'a pas de mot de passe utilisateur)
-autorise un accès limité aux autorisations spécifiées.
+ Ouvrir le document avec le mot de passe utilisateur correct (ou ouvrir un document qui n'a pas de mot de passe utilisateur)
+permet un accès limité selon les autorisations spécifiées.
 ###  Définition:
 ```python
 @property

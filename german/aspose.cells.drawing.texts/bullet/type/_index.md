@@ -3,13 +3,13 @@ title: type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 50
+weight: 40
 url: /de/aspose.cells.drawing.texts/bullet/type/
 is_root: false
 ---
 ##  type Eigentum
 
-Ruft die type von Bullet ab und legt diese fest.
+Ruft die type des Aufzählungszeichens ab und legt sie fest.
 ###  Definition:
 ```python
 @property

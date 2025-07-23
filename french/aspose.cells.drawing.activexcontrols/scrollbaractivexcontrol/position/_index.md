@@ -21,5 +21,5 @@ def position(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [ScrollBarActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ScrollBarActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

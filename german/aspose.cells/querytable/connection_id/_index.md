@@ -18,5 +18,5 @@ def connection_id(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [QueryTable](/cells/python-net/de/aspose.cells/querytable)
+* Modul [`aspose.cells`](../../)
+* Klasse [`QueryTable`](/cells/python-net/de/aspose.cells/querytable)

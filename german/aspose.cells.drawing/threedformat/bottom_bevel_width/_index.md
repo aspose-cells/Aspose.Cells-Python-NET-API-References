@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  bottom_bevel_width Eigentum
 
-Ruft die Breite der unteren Fase ab und legt sie fest, oder wie weit sie in die Form hinein angewendet wird.
-In Einheiten von Punkten.
+Ruft die Breite der unteren Abschrägung ab und legt sie fest, oder wie weit sie in die Form hinein angewendet wird.
+In Punkten.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def bottom_bevel_width(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ThreeDFormat](/cells/python-net/de/aspose.cells.drawing/threedformat)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ThreeDFormat`](/cells/python-net/de/aspose.cells.drawing/threedformat)

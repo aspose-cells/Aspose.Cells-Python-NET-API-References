@@ -18,5 +18,5 @@ def length(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [TextParagraph](/cells/python-net/de/aspose.cells.drawing.texts/textparagraph)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`TextParagraph`](/cells/python-net/de/aspose.cells.drawing.texts/textparagraph)

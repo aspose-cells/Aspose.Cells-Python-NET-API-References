@@ -3,7 +3,7 @@ title: shared_style_index Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 700
+weight: 730
 url: /de/aspose.cells/cell/shared_style_index/
 is_root: false
 ---

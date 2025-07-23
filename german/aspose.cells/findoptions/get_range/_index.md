@@ -7,16 +7,17 @@ weight: 20
 url: /de/aspose.cells/findoptions/get_range/
 is_root: false
 ---
-##  get_range() {#}
+##  get_range(self) {#}
 Ruft den durchsuchten Bereich ab und legt ihn fest.
 
 
 ###  Kehrt zurück
 
-Gibt den gesuchten Bereich zurück.
+Gibt den durchsuchten Bereich zurück.
 
 
 ```python
+
 def get_range(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_range(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FindOptions](/cells/python-net/de/aspose.cells/findoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FindOptions`](/cells/python-net/de/aspose.cells/findoptions)

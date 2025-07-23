@@ -7,7 +7,7 @@ weight: 20
 url: /de/aspose.cells.webextensions/webextensionreferencecollection/add/
 is_root: false
 ---
-##  add() {#}
+##  add(self) {#}
 Fügt eine leere Referenz der Weberweiterung hinzu.
 
 
@@ -17,6 +17,7 @@ Fügt eine leere Referenz der Weberweiterung hinzu.
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.webextensions](../../)
-* Klasse [WebExtensionReferenceCollection](/cells/python-net/de/aspose.cells.webextensions/webextensionreferencecollection)
+* Modul [`aspose.cells.webextensions`](../../)
+* Klasse [`WebExtensionReferenceCollection`](/cells/python-net/de/aspose.cells.webextensions/webextensionreferencecollection)

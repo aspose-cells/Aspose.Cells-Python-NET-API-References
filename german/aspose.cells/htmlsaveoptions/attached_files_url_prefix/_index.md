@@ -3,13 +3,13 @@ title: attached_files_url_prefix Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 50
+weight: 60
 url: /de/aspose.cells/htmlsaveoptions/attached_files_url_prefix/
 is_root: false
 ---
 ##  attached_files_url_prefix Eigentum
 
-Geben Sie das URL-Präfix von angehängten Dateien wie Bild in der HTML-Datei an.
+Geben Sie das URL-Präfix angehängter Dateien wie etwa Bilder in der HTML-Datei an.
 Nur zum Speichern im HTML-Stream.
 ###  Definition:
 ```python
@@ -22,5 +22,5 @@ def attached_files_url_prefix(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [HtmlSaveOptions](/cells/python-net/de/aspose.cells/htmlsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`HtmlSaveOptions`](/cells/python-net/de/aspose.cells/htmlsaveoptions)

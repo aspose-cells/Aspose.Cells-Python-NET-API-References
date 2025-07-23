@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  list_style Eigentum
 
-Ruft die visuelle Darstellung ab und legt sie fest.
+Ruft das visuelle Erscheinungsbild ab und legt es fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def list_style(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [ComboBoxActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
-* Klasse [ControlListStyle](/cells/python-net/de/aspose.cells.drawing.activexcontrols/controlliststyle)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`ComboBoxActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* Klasse [`ControlListStyle`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/controlliststyle)

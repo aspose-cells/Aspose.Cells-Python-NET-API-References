@@ -7,12 +7,13 @@ weight: 30
 url: /de/aspose.cells.webextensions/webextensioncollection/add_web_video_player/
 is_root: false
 ---
-##  add_web_video_player(url, auto_play, start_time, end_time) {#str-bool-int-int}
-Fügen Sie einen Webvideoplayer in Excel hinzu.
+##  add_web_video_player(self, url, auto_play, start_time, end_time) {#str-bool-int-int}
+Fügen Sie einen Webvideoplayer in Excel ein.
 
 
 
 ```python
+
 def add_web_video_player(self, url, auto_play, start_time, end_time):
     ...
 ```
@@ -28,5 +29,5 @@ def add_web_video_player(self, url, auto_play, start_time, end_time):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.webextensions](../../)
-* Klasse [WebExtensionCollection](/cells/python-net/de/aspose.cells.webextensions/webextensioncollection)
+* Modul [`aspose.cells.webextensions`](../../)
+* Klasse [`WebExtensionCollection`](/cells/python-net/de/aspose.cells.webextensions/webextensioncollection)

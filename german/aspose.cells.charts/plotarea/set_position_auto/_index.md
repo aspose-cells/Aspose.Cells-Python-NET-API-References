@@ -7,12 +7,13 @@ weight: 20
 url: /de/aspose.cells.charts/plotarea/set_position_auto/
 is_root: false
 ---
-##  set_position_auto() {#}
-Stellen Sie die Position des Plotbereichs auf automatisch ein
+##  set_position_auto(self) {#}
+Position des Plotbereichs auf automatisch einstellen
 
 
 
 ```python
+
 def set_position_auto(self):
     ...
 ```
@@ -22,5 +23,5 @@ def set_position_auto(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [PlotArea](/cells/python-net/de/aspose.cells.charts/plotarea)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`PlotArea`](/cells/python-net/de/aspose.cells.charts/plotarea)

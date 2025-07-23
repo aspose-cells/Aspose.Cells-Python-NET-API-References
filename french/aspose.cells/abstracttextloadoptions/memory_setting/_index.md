@@ -3,13 +3,17 @@ title: memory_setting propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 220
+weight: 210
 url: /fr/aspose.cells/abstracttextloadoptions/memory_setting/
 is_root: false
 ---
 ##  memory_setting propriété
 
-Obtient ou définit les options d'utilisation de la mémoire.
+Obtient ou définit le mode mémoire pour le classeur chargé.
+
+###  Remarques
+
+Pour plus de détails sur le mode mémoire, veuillez consulter le [`Cells.memory_setting`](/cells/python-net/fr/aspose.cells/cells#memory_setting).
 ###  Définition:
 ```python
 @property
@@ -21,6 +25,6 @@ def memory_setting(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [AbstractTextLoadOptions](/cells/python-net/fr/aspose.cells/abstracttextloadoptions)
-* classe [MemorySetting](/cells/python-net/fr/aspose.cells/memorysetting)
+* module [`aspose.cells`](../../)
+* classe [`AbstractTextLoadOptions`](/cells/python-net/fr/aspose.cells/abstracttextloadoptions)
+* classe [`MemorySetting`](/cells/python-net/fr/aspose.cells/memorysetting)

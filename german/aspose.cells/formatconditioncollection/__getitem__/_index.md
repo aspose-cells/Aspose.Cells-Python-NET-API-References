@@ -10,7 +10,7 @@ is_root: false
 ##  FormatConditionCollection Indexierer
 
 Ruft die Formatierungsbedingung nach Index ab.
-###  Indexierer
+###  Indexer
 | Name| Beschreibung|
 | :- | :- |
 | index | der Index der zurückzugebenden Formatierungsbedingung.|
@@ -22,5 +22,5 @@ Ruft die Formatierungsbedingung nach Index ab.
 die Formatierungsbedingung
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FormatConditionCollection](/cells/python-net/de/aspose.cells/formatconditioncollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FormatConditionCollection`](/cells/python-net/de/aspose.cells/formatconditioncollection)

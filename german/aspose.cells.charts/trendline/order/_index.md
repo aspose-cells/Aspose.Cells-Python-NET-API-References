@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  order Eigentum
 
- Gibt die Trendlinie order (eine ganze Zahl größer als 1) zurück oder legt sie fest, wenn der Trendlinientyp Polynomial ist.
+ Gibt die Trendlinie order (eine Ganzzahl größer als 1) zurück oder legt sie fest, wenn der Trendlinientyp „Polynom“ ist.
 Die order muss zwischen 2 und 6 liegen.
 ###  Definition:
 ```python
@@ -22,5 +22,5 @@ def order(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Trendline](/cells/python-net/de/aspose.cells.charts/trendline)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Trendline`](/cells/python-net/de/aspose.cells.charts/trendline)

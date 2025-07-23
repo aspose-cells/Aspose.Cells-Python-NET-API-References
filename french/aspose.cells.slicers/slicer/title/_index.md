@@ -3,7 +3,7 @@ title: title propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 260
+weight: 270
 url: /fr/aspose.cells.slicers/slicer/title/
 is_root: false
 ---
@@ -29,5 +29,5 @@ def title(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.slicers](../../)
-* classe [Slicer](/cells/python-net/fr/aspose.cells.slicers/slicer)
+* module [`aspose.cells.slicers`](../../)
+* classe [`Slicer`](/cells/python-net/fr/aspose.cells.slicers/slicer)

@@ -3,15 +3,15 @@ title: image_scalable Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 470
+weight: 540
 url: /de/aspose.cells.saving/ebooksaveoptions/image_scalable/
 is_root: false
 ---
 ##  image_scalable Eigentum
 
-Gibt an, ob eine skalierbare Einheit zur Beschreibung der Bildbreite verwendet wird
-wenn eine skalierbare Einheit zur Beschreibung der Spaltenbreite verwendet wird.
-Der Standardwert ist wahr.
+Gibt an, ob zur Beschreibung der Bildbreite eine skalierbare Einheit verwendet wird
+bei Verwendung einer skalierbaren Einheit zur Beschreibung der Spaltenbreite.
+Der Standardwert ist „true“.
 ###  Definition:
 ```python
 @property

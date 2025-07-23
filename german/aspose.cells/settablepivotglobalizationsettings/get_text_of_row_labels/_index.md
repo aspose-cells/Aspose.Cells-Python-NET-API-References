@@ -3,11 +3,11 @@ title: get_text_of_row_labels Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 180
+weight: 190
 url: /de/aspose.cells/settablepivotglobalizationsettings/get_text_of_row_labels/
 is_root: false
 ---
-##  get_text_of_row_labels {#}
+##  get_text_of_row_labels(self) {#}
 Ruft den Text der Beschriftung „Zeilenbeschriftungen“ in der PivotTable ab.
 
 
@@ -17,6 +17,7 @@ Der Text der Zeilenbeschriftungen
 
 
 ```python
+
 def get_text_of_row_labels(self):
     ...
 ```

@@ -3,13 +3,13 @@ title: title propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 420
+weight: 430
 url: /fr/aspose.cells.charts/axis/title/
 is_root: false
 ---
 ##  title propriété
 
-Obtient le title de l’axe.
+Obtient l'axe title.
 ###  Définition:
 ```python
 @property

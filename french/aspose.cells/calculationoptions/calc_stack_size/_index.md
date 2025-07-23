@@ -9,16 +9,16 @@ is_root: false
 ---
 ##  calc_stack_size propriété
 
-La taille de la pile pour calculer les cellules de manière récursive. La valeur par défaut est 200.
+Taille de la pile pour le calcul récursif des cellules. La valeur par défaut est 200.
 
 ###  Remarques
 
-Lorsqu'un grand nombre de cellules doivent être calculées de manière récursive dans l'arborescence des dépendances,
-StackOverflowException peut être provoqué dans le processus de calcul.
-Si tel est le cas, l'utilisateur doit spécifier une valeur plus petite pour cette propriété.
+Lorsqu'une grande quantité de cellules doit être calculée de manière récursive dans l'arbre de dépendances,
+Une exception StackOverflowException peut être provoquée lors du processus de calcul.
+Si tel est le cas, l’utilisateur doit spécifier une valeur plus petite pour cette propriété.
 Dans une telle situation, l'utilisateur doit déterminer la valeur appropriée pour cette propriété en fonction des formules et des données réelles.
-Cependant, une valeur trop petite peut entraîner une dégradation des performances du calcul de la formule et une valeur inférieure à 2.
-il sera impossible de calculer une formule qui dépend d'une autre. Donc si la valeur spécifiée est inférieure à 2,
+Cependant, une valeur trop petite peut entraîner une dégradation des performances du calcul de la formule et une valeur inférieure à 2
+rendra impossible le calcul d'une formule qui dépend d'une autre. Ainsi, si la valeur spécifiée est inférieure à 2,
 il sera réinitialisé à 2.
 ###  Définition:
 ```python

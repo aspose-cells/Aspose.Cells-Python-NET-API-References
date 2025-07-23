@@ -3,7 +3,7 @@ title: is_smart_art propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 670
+weight: 680
 url: /fr/aspose.cells.drawing/spinner/is_smart_art/
 is_root: false
 ---
@@ -19,7 +19,7 @@ Uniquement pour le fichier ooxml.
 
 ```python
 
-# if true,the shape is smart art.
+# if true,the shape is a smart art.
 if shape.is_smart_art:
     pass
 

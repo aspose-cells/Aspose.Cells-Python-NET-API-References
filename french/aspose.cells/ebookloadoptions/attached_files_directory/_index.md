@@ -13,10 +13,10 @@ Le répertoire dans lequel les fichiers joints seront enregistrés.
 
 ###  Remarques
 
- REMARQUE : ce membre est désormais obsolète. Plutôt,
+ REMARQUE : Ce membre est désormais obsolète. À la place,
 veuillez utiliser la propriété HtmlLoadOptions.StreamProvider.
- Cette propriété sera supprimée 12 mois plus tard depuis décembre 2014.
-Le Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ Cette propriété sera supprimée 12 mois plus tard soit en décembre 2014.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 ###  Définition:
 ```python
 @property

@@ -21,6 +21,6 @@ def end_arrow_length(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ErrorBar](/cells/python-net/de/aspose.cells.charts/errorbar)
-* Klasse [MsoArrowheadLength](/cells/python-net/de/aspose.cells.drawing/msoarrowheadlength)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ErrorBar`](/cells/python-net/de/aspose.cells.charts/errorbar)
+* Klasse [`MsoArrowheadLength`](/cells/python-net/de/aspose.cells.drawing/msoarrowheadlength)

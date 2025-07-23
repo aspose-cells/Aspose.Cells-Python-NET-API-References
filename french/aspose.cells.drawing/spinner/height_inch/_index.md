@@ -3,13 +3,13 @@ title: height_inch propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 470
+weight: 460
 url: /fr/aspose.cells.drawing/spinner/height_inch/
 is_root: false
 ---
 ##  height_inch propriété
 
-Représente la hauteur de la forme, en unités de pouces.
+Représente la hauteur de la forme, en pouces.
 
 ###  Exemple
 

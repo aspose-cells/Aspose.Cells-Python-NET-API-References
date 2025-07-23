@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  full_text Eigentum
 
-Ruft den vollständigen Namenstext des Objekts mit der Bereichseinstellung ab.
+Ruft den vollständigen Text des Objektnamens mit der Bereichseinstellung ab.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def full_text(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Name](/cells/python-net/de/aspose.cells/name)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Name`](/cells/python-net/de/aspose.cells/name)

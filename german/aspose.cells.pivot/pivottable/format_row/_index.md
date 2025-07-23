@@ -7,12 +7,13 @@ weight: 120
 url: /de/aspose.cells.pivot/pivottable/format_row/
 is_root: false
 ---
-##  format_row(row, style) {#int-Style}
-Formatieren Sie die Zeilendaten im schwenkbaren Bereich
+##  format_row(self, row, style) {#int-aspose.cells.Style}
+Formatieren Sie die Zeilendaten im PivotTable-Bereich
 
 
 
 ```python
+
 def format_row(self, row, style):
     ...
 ```
@@ -20,11 +21,11 @@ def format_row(self, row, style):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| row | int | Row Index des Row-Objekts|
-| style | [Style](/cells/python-net/de/aspose.cells/style) | Stil, der formatiert werden soll|
+| row | int | Zeilenindex des Row-Objekts|
+| style | [`Style`](/cells/python-net/de/aspose.cells/style) | Stil, der formatiert werden soll|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotTable](/cells/python-net/de/aspose.cells.pivot/pivottable)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotTable`](/cells/python-net/de/aspose.cells.pivot/pivottable)

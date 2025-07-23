@@ -7,12 +7,13 @@ weight: 20
 url: /fr/aspose.cells/ebookloadoptions/set_paper_size/
 is_root: false
 ---
-##  set_paper_size {#aspose.cells.PaperSizeType}
-Définit le format de papier d'impression par défaut à partir des paramètres par défaut de l'imprimante.
+##  set_paper_size(self, type) {#aspose.cells.PaperSizeType}
+Définit la taille du papier d'impression par défaut à partir des paramètres par défaut de l'imprimante.
 
 
 
 ```python
+
 def set_paper_size(self, type):
     ...
 ```

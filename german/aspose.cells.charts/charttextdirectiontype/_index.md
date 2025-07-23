@@ -19,8 +19,8 @@ Der Typ ChartTextDirectionType macht die folgenden Member verfügbar:
 | :- | :- |
 | HORIZONTAL | Horizontaler Richtungstyp.|
 | VERTICAL | Vertikaler Richtungstyp.|
-| ROTATE90 | Um 90° drehen.|
-| ROTATE270 | Um 270° drehen.|
+| ROTATE90 | Um 90 Grad drehen.|
+| ROTATE270 | Um 270 Grad drehen.|
 | STACKED | Gestapelter Text.|
 
 

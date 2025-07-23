@@ -3,7 +3,7 @@ title: significant_digits Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 470
+weight: 500
 url: /de/aspose.cells/workbooksettings/significant_digits/
 is_root: false
 ---
@@ -14,7 +14,7 @@ Der Standardwert ist [`CellsHelper.significant_digits`](/cells/python-net/de/asp
 
 ###  Bemerkungen
 
-Jetzt könnten es nur noch 15 oder 17 sein.
+Könnte jetzt erst 15 oder 17 sein.
 ###  Definition:
 ```python
 @property

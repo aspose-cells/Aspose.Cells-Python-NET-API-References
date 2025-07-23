@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  integral_height Eigentum
 
-Gibt an, ob das Steuerelement nur vollständige Textzeilen anzeigt, ohne Teilzeilen anzuzeigen.
+Gibt an, ob das Steuerelement nur vollständige Textzeilen und keine Teilzeilen anzeigt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def integral_height(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [ListBoxActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`ListBoxActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

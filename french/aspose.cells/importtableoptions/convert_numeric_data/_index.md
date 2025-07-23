@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_numeric_data propriété
 
-Obtient ou définit une valeur qui indique si la valeur de chaîne doit être convertie en valeur numérique ou de date.
+Obtient ou définit une valeur qui indique si la valeur de chaîne doit être convertie en valeur numérique ou en valeur de date.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def convert_numeric_data(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ImportTableOptions](/cells/python-net/fr/aspose.cells/importtableoptions)
+* module [`aspose.cells`](../../)
+* classe [`ImportTableOptions`](/cells/python-net/fr/aspose.cells/importtableoptions)

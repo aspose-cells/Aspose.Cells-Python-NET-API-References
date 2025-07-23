@@ -3,7 +3,7 @@ title: transparent propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 380
+weight: 390
 url: /fr/aspose.cells.rendering/imageorprintoptions/transparent/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Indique si l'arrière-plan de l'image générée doit être transparent.
 
 ###  Remarques
 
-La valeur par défaut est fausse. Cela signifie que l'arrière-plan des images générées est blanc.
+La valeur par défaut est « false ». Cela signifie que l'arrière-plan des images générées est blanc.
 ###  Définition:
 ```python
 @property

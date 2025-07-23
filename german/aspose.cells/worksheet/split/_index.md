@@ -3,16 +3,17 @@ title: split Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 290
+weight: 310
 url: /de/aspose.cells/worksheet/split/
 is_root: false
 ---
-##  split {#}
+##  split(self) {#}
 Teilt das Fenster.
 
 
 
 ```python
+
 def split(self):
     ...
 ```

@@ -18,5 +18,5 @@ def is_visible(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ExternalLink](/cells/python-net/fr/aspose.cells/externallink)
+* module [`aspose.cells`](../../)
+* classe [`ExternalLink`](/cells/python-net/fr/aspose.cells/externallink)

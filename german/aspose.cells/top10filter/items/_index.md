@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  items Eigentum
 
-Ruft die items des Filters ab und setzt sie.
+Ruft die items des Filters ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def items(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Top10Filter](/cells/python-net/de/aspose.cells/top10filter)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Top10Filter`](/cells/python-net/de/aspose.cells/top10filter)

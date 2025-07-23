@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  size propriété
 
- Obtient et définit le size de l'ombre. Plage de 0 à 2,0.
-Insignifiant dans l'ombre intérieure.
+ Obtient et définit la valeur size de l'ombre. Plage de valeurs : 0 à 2,0.
+Sans signification dans l'ombre intérieure.
 ###  Définition:
 ```python
 @property
@@ -22,5 +22,5 @@ def size(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ShadowEffect](/cells/python-net/fr/aspose.cells.drawing/shadoweffect)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ShadowEffect`](/cells/python-net/fr/aspose.cells.drawing/shadoweffect)

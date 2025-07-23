@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  load_data_filter_options propriété
 
-Les options de filtre pour indiquer quelles données doivent être chargées.
+Les options de filtre permettent d'indiquer quelles données doivent être chargées.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def load_data_filter_options(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [LoadDataFilterOptions](/cells/python-net/fr/aspose.cells/loaddatafilteroptions)
-* classe [LoadFilter](/cells/python-net/fr/aspose.cells/loadfilter)
+* module [`aspose.cells`](../../)
+* classe [`LoadDataFilterOptions`](/cells/python-net/fr/aspose.cells/loaddatafilteroptions)
+* classe [`LoadFilter`](/cells/python-net/fr/aspose.cells/loadfilter)

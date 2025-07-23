@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  mid_cfvo propriété
 
-Obtenez ou définissez l'objet de valeur moyenne de cet ColorScale.
+Obtenez ou définissez l'objet de valeur médiane de cet ColorScale.
 Impossible de définir CFValueObject avec le type FormatConditionValueType.Max ou FormatConditionValueType.Min.
 ###  Définition:
 ```python
@@ -19,6 +19,6 @@ def mid_cfvo(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ColorScale](/cells/python-net/fr/aspose.cells/colorscale)
-* classe [ConditionalFormattingValue](/cells/python-net/fr/aspose.cells/conditionalformattingvalue)
+* module [`aspose.cells`](../../)
+* classe [`ColorScale`](/cells/python-net/fr/aspose.cells/colorscale)
+* classe [`ConditionalFormattingValue`](/cells/python-net/fr/aspose.cells/conditionalformattingvalue)

@@ -3,17 +3,17 @@ title: separator_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 330
+weight: 400
 url: /de/aspose.cells.charts/datalabels/separator_type/
 is_root: false
 ---
 ##  separator_type Eigentum
 
-Ruft den Trennzeichentyp ab, der für die Datenbeschriftungen in einem Diagramm verwendet wird, oder legt diesen fest.
+Ruft den für die Datenbeschriftungen in einem Diagramm verwendeten Trennzeichentyp ab oder legt ihn fest.
 
 ###  Bemerkungen
 
-Um ein benutzerdefiniertes Trennzeichen festzulegen, legen Sie bitte die Eigenschaft [`DataLabels.separator_type`](/cells/python-net/de/aspose.cells.charts/datalabels#separator_type) auf [`DataLabelsSeparatorType.CUSTOM`](/cells/python-net/de/aspose.cells.charts/datalabelsseparatortype#CUSTOM) fest und geben Sie dann den erwarteten Wert für [`DataLabels.separator_value`](/cells/python-net/de/aspose.cells.charts/datalabels#separator_value) an.
+Um ein benutzerdefiniertes Trennzeichen festzulegen, legen Sie die Eigenschaft [`DataLabels.separator_type`](/cells/python-net/de/aspose.cells.charts/datalabels#separator_type) als [`DataLabelsSeparatorType.CUSTOM`](/cells/python-net/de/aspose.cells.charts/datalabelsseparatortype#CUSTOM) fest und geben Sie dann den erwarteten Wert für [`DataLabels.separator_value`](/cells/python-net/de/aspose.cells.charts/datalabels#separator_value) an.
 ###  Definition:
 ```python
 @property

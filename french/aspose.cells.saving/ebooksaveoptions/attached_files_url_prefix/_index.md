@@ -3,13 +3,13 @@ title: attached_files_url_prefix propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 50
+weight: 60
 url: /fr/aspose.cells.saving/ebooksaveoptions/attached_files_url_prefix/
 is_root: false
 ---
 ##  attached_files_url_prefix propriété
 
-Spécifiez le préfixe Url des fichiers joints tels que l'image dans le fichier HTML.
+Spécifiez le préfixe d'URL des fichiers joints tels que l'image dans le fichier HTML.
 Uniquement pour l'enregistrement dans un flux HTML.
 ###  Définition:
 ```python

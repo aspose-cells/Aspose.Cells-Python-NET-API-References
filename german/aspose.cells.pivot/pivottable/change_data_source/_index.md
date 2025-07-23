@@ -7,13 +7,13 @@ weight: 60
 url: /de/aspose.cells.pivot/pivottable/change_data_source/
 is_root: false
 ---
-##  change_data_source(source) {#list}
-Legen Sie die Quelldaten von Pivottable fest.
-Blatt1!$A$1:$C$3
+##  change_data_source(self, source) {#list}
+Legen Sie die Quelldaten der PivotTabelle fest.
 
 
 
 ```python
+
 def change_data_source(self, source):
     ...
 ```
@@ -26,5 +26,5 @@ def change_data_source(self, source):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotTable](/cells/python-net/de/aspose.cells.pivot/pivottable)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotTable`](/cells/python-net/de/aspose.cells.pivot/pivottable)

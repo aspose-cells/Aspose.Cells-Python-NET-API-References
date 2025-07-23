@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_percent Eigentum
 
-Gibt an, ob es sich bei den Elementen um Prozent handelt.
+Gibt an, ob es sich bei den Elementen um Prozente handelt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_percent(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Top10Filter](/cells/python-net/de/aspose.cells/top10filter)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Top10Filter`](/cells/python-net/de/aspose.cells/top10filter)

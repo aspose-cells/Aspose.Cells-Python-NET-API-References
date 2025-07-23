@@ -3,15 +3,15 @@ title: export_similar_border_style Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 350
+weight: 410
 url: /de/aspose.cells/htmlsaveoptions/export_similar_border_style/
 is_root: false
 ---
 ##  export_similar_border_style Eigentum
 
-Gibt an, ob der ähnliche Rahmenstil exportiert wird, wenn der Rahmenstil von Browsern nicht unterstützt wird.
+Gibt an, ob der ähnliche Rahmenstil exportiert werden soll, wenn der Rahmenstil von Browsern nicht unterstützt wird.
 Wenn Sie die HTML- oder MHT-Datei in Excel importieren möchten, behalten Sie bitte den Standardwert bei.
-Der Standardwert ist false.
+Der Standardwert ist „false“.
 ###  Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: ConditionalFormattingResult Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 340
+weight: 310
 url: /de/aspose.cells/conditionalformattingresult/
 is_root: false
 ---

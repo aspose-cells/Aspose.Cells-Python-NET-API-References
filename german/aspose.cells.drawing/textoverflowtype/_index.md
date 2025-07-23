@@ -17,11 +17,11 @@ Der Typ TextOverflowType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| CLIP | Achten Sie auf obere und untere Barrieren.<br/>Geben Sie keinen Hinweis darauf, dass es Text gibt, der nicht sichtbar ist.|
+| CLIP | Achten Sie auf obere und untere Barrieren.<br/> Geben Sie keinen Hinweis darauf, dass nicht sichtbarer Text vorhanden ist.|
 | ELLIPSIS | Achten Sie auf obere und untere Barrieren.<br/>Verwenden Sie Auslassungspunkte, um anzuzeigen, dass es Text gibt, der nicht sichtbar ist.<br/> Nur für senkrechten Überlauf.|
-| OVERFLOW | Lassen Sie den Text überlaufen und achten Sie nicht auf obere und untere Barrieren.|
+| OVERFLOW | Lassen Sie den Text überlaufen und beachten Sie die oberen und unteren Barrieren nicht.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](..)
+* Modul [`aspose.cells.drawing`](..)

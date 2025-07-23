@@ -3,20 +3,20 @@ title: startup_path Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 270
+weight: 290
 url: /de/aspose.cells/cellshelper/startup_path/
 is_root: false
 ---
 ##  startup_path Eigentum
 
-Ruft den Startpfad ab, auf den einige externe Formelverweise verweisen, oder legt diesen fest.
+Ruft den Startpfad ab oder legt ihn fest, auf den einige externe Formelreferenzen verweisen.
 ###  Definition:
 ```python
 @property
 def startup_path(self):
     ...
-@startup_path.setter
-def startup_path(self, value):
+@staticmethod
+def set_startup_path(value):
     ...
 ```
 

@@ -3,7 +3,7 @@ title: export_grid_lines Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 260
+weight: 330
 url: /de/aspose.cells.saving/ebooksaveoptions/export_grid_lines/
 is_root: false
 ---

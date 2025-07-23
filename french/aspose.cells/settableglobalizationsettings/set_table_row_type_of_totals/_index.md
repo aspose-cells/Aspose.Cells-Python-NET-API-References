@@ -7,12 +7,13 @@ weight: 440
 url: /fr/aspose.cells/settableglobalizationsettings/set_table_row_type_of_totals/
 is_root: false
 ---
-##  set_table_row_type_of_totals {#str}
-Définit le nom de type des lignes du tableau qui comprend la ligne totale du tableau référencé.
+##  set_table_row_type_of_totals(self, name) {#str}
+Définit le nom du type des lignes de table qui se composent de la ligne totale de la table référencée.
 
 
 
 ```python
+
 def set_table_row_type_of_totals(self, name):
     ...
 ```
@@ -20,7 +21,7 @@ def set_table_row_type_of_totals(self, name):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| name | str | le nom du type des lignes du tableau|
+| name | str | le nom du type des lignes de la table|
 
 
 

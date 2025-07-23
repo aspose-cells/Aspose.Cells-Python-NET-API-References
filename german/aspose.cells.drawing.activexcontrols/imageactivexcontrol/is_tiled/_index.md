@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_tiled Eigentum
 
-Gibt an, ob das Bild über den Hintergrund gekachelt ist.
+Gibt an, ob das Bild über den Hintergrund gekachelt wird.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_tiled(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [ImageActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`ImageActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

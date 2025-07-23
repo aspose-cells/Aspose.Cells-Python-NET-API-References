@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  height propriété
 
-Obtient et définit le height du biseau, ou la distance au-dessus de la forme à laquelle il est appliqué.
-En unité de Points.
+Obtient et définit le height du biseau, ou à quelle distance au-dessus de la forme il est appliqué.
+En unité de points.
 ###  Définition:
 ```python
 @property
@@ -22,5 +22,5 @@ def height(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Bevel](/cells/python-net/fr/aspose.cells.drawing/bevel)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Bevel`](/cells/python-net/fr/aspose.cells.drawing/bevel)

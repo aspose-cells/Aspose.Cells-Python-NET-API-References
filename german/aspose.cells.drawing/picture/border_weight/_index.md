@@ -3,13 +3,13 @@ title: border_weight Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 340
+weight: 360
 url: /de/aspose.cells.drawing/picture/border_weight/
 is_root: false
 ---
 ##  border_weight Eigentum
 
-Ruft die Stärke der Randlinie eines Bildes in Einheiten von pt ab oder legt diese fest.
+Ruft die Stärke der Rahmenlinie eines Bildes in pt-Einheiten ab oder legt sie fest.
 
 ###  Beispiel
 

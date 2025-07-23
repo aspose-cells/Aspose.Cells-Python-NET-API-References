@@ -21,6 +21,6 @@ def author(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ThreadedComment](/cells/python-net/fr/aspose.cells/threadedcomment)
-* classe [ThreadedCommentAuthor](/cells/python-net/fr/aspose.cells/threadedcommentauthor)
+* module [`aspose.cells`](../../)
+* classe [`ThreadedComment`](/cells/python-net/fr/aspose.cells/threadedcomment)
+* classe [`ThreadedCommentAuthor`](/cells/python-net/fr/aspose.cells/threadedcommentauthor)

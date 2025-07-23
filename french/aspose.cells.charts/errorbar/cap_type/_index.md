@@ -21,6 +21,6 @@ def cap_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [ErrorBar](/cells/python-net/fr/aspose.cells.charts/errorbar)
-* classe [LineCapType](/cells/python-net/fr/aspose.cells.drawing/linecaptype)
+* module [`aspose.cells.charts`](../../)
+* classe [`ErrorBar`](/cells/python-net/fr/aspose.cells.charts/errorbar)
+* classe [`LineCapType`](/cells/python-net/fr/aspose.cells.drawing/linecaptype)

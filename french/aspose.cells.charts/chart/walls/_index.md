@@ -13,7 +13,7 @@ Renvoie un objet [`Chart.walls`](/cells/python-net/fr/aspose.cells.charts/chart#
 
 ###  Remarques
 
-Cette propriété ne s'applique pas aux diagrammes circulaires 3D.
+Cette propriété ne s'applique pas aux graphiques à secteurs 3D.
 ###  Définition:
 ```python
 @property

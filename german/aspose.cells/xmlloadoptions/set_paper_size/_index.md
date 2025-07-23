@@ -7,12 +7,13 @@ weight: 20
 url: /de/aspose.cells/xmlloadoptions/set_paper_size/
 is_root: false
 ---
-##  set_paper_size(type) {#PaperSizeType}
-Legt das Standarddruckpapierformat aus der Standarddruckereinstellung fest.
+##  set_paper_size(self, type) {#aspose.cells.PaperSizeType}
+Legt die Standarddruckpapiergröße anhand der Standardeinstellungen des Druckers fest.
 
 
 
 ```python
+
 def set_paper_size(self, type):
     ...
 ```
@@ -20,13 +21,13 @@ def set_paper_size(self, type):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| type | [PaperSizeType](/cells/python-net/de/aspose.cells/papersizetype) | Das Standardpapierformat.|
+| type | [`PaperSizeType`](/cells/python-net/de/aspose.cells/papersizetype) | Die Standardpapiergröße.|
 ###  Bemerkungen
 
-Wenn es keine Einstellung für das Papierformat gibt, verwendet MS Excel die Standardeinstellung des Druckers.
+Wenn keine Einstellung für die Papiergröße vorhanden ist, verwendet MS Excel die Standardeinstellungen des Druckers.
 
 
 ###  Siehe auch
 
-* Modul [aspose.cells](../../)
-* Klasse [XmlLoadOptions](/cells/python-net/de/aspose.cells/xmlloadoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`XmlLoadOptions`](/cells/python-net/de/aspose.cells/xmlloadoptions)

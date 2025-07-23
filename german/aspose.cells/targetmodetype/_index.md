@@ -3,7 +3,7 @@ title: TargetModeType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2600
+weight: 2570
 url: /de/aspose.cells/targetmodetype/
 is_root: false
 ---
@@ -19,8 +19,8 @@ Der Typ TargetModeType macht die folgenden Member verfügbar:
 | :- | :- |
 | EXTERNAL | Externer Link|
 | FILE_PATH | Lokale und vollständige Pfade zu Dateien oder Ordnern.|
-| EMAIL | Email.|
-| CELL_REFERENCE | Link zur Zelle oder zum benannten Bereich.|
+| EMAIL | E-Mail.|
+| CELL_REFERENCE | Link auf Zelle oder benannten Bereich.|
 
 
 

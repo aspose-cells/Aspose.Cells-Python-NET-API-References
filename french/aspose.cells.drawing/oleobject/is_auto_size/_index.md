@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_auto_size propriété
 
-True indique que la taille de l'objet ole sera automatiquement modifiée en fonction de la taille de l'instantané du contenu intégré.
+True indique que la taille de l'objet OLE sera automatiquement modifiée en fonction de la taille de l'instantané du contenu intégré
 lorsque l'objet ole est activé.
 ###  Définition:
 ```python

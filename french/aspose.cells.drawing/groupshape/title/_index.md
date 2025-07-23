@@ -3,7 +3,7 @@ title: title propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1070
+weight: 1080
 url: /fr/aspose.cells.drawing/groupshape/title/
 is_root: false
 ---

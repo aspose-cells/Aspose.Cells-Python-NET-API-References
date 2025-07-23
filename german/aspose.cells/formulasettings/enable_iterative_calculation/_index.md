@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  enable_iterative_calculation Eigentum
 
-Gibt an, ob die iterative Berechnung zum Auflösen von Zirkelverweisen aktiviert werden soll.
+Gibt an, ob die iterative Berechnung zum Auflösen von Zirkelbezügen aktiviert wird.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def enable_iterative_calculation(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FormulaSettings](/cells/python-net/de/aspose.cells/formulasettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FormulaSettings`](/cells/python-net/de/aspose.cells/formulasettings)

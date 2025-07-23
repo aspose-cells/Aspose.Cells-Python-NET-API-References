@@ -3,13 +3,13 @@ title: data_mashup propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 530
+weight: 550
 url: /fr/aspose.cells/workbook/data_mashup/
 is_root: false
 ---
 ##  data_mashup propriété
 
-Obtient des données d'application composite.
+Obtient les données de mashup.
 ###  Définition:
 ```python
 @property

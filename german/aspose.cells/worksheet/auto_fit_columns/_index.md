@@ -7,12 +7,13 @@ weight: 50
 url: /de/aspose.cells/worksheet/auto_fit_columns/
 is_root: false
 ---
-##  auto_fit_columns() {#}
+##  auto_fit_columns(self) {#}
 Passt alle Spalten in diesem Arbeitsblatt automatisch an.
 
 
 
 ```python
+
 def auto_fit_columns(self):
     ...
 ```
@@ -20,12 +21,13 @@ def auto_fit_columns(self):
 
 
 
-##  auto_fit_columns(options) {#AutoFitterOptions}
+##  auto_fit_columns(self, options) {#aspose.cells.AutoFitterOptions}
 Passt alle Spalten in diesem Arbeitsblatt automatisch an.
 
 
 
 ```python
+
 def auto_fit_columns(self, options):
     ...
 ```
@@ -33,15 +35,16 @@ def auto_fit_columns(self, options):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| options | [AutoFitterOptions](/cells/python-net/de/aspose.cells/autofitteroptions) | Die automatischen Anpassungsoptionen|
+| options | [`AutoFitterOptions`](/cells/python-net/de/aspose.cells/autofitteroptions) | Die Auto-Anpassungsoptionen|
 
 
-##  auto_fit_columns(first_column, last_column) {#int-int}
+##  auto_fit_columns(self, first_column, last_column) {#int-int}
 Passt die Spaltenbreite automatisch an.
 
 
 
 ```python
+
 def auto_fit_columns(self, first_column, last_column):
     ...
 ```
@@ -49,19 +52,20 @@ def auto_fit_columns(self, first_column, last_column):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| first_column | int | Index der ersten Spalte.|
+| first_column | int | Erster Spaltenindex.|
 | last_column | int | Letzter Spaltenindex.|
 ###  Bemerkungen
 
 AutoFitColumn ist eine ungenaue Funktion.
 
-##  auto_fit_columns(first_column, last_column, options) {#int-int-AutoFitterOptions}
+##  auto_fit_columns(self, first_column, last_column, options) {#int-int-aspose.cells.AutoFitterOptions}
 
 Passt die Spaltenbreite automatisch an.
 
 
 
 ```python
+
 def auto_fit_columns(self, first_column, last_column, options):
     ...
 ```
@@ -69,20 +73,21 @@ def auto_fit_columns(self, first_column, last_column, options):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| first_column | int | Index der ersten Spalte.|
+| first_column | int | Erster Spaltenindex.|
 | last_column | int | Letzter Spaltenindex.|
-| options | [AutoFitterOptions](/cells/python-net/de/aspose.cells/autofitteroptions) | Die automatischen Anpassungsoptionen|
+| options | [`AutoFitterOptions`](/cells/python-net/de/aspose.cells/autofitteroptions) | Die Auto-Anpassungsoptionen|
 ###  Bemerkungen
 
 AutoFitColumn ist eine ungenaue Funktion.
 
-##  auto_fit_columns(first_row, first_column, last_row, last_column) {#int-int-int-int}
+##  auto_fit_columns(self, first_row, first_column, last_row, last_column) {#int-int-int-int}
 
 Passt die Spaltenbreite automatisch an.
 
 
 
 ```python
+
 def auto_fit_columns(self, first_row, first_column, last_row, last_column):
     ...
 ```
@@ -90,21 +95,22 @@ def auto_fit_columns(self, first_row, first_column, last_row, last_column):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| first_row | int | Index der ersten Zeile.|
-| first_column | int | Index der ersten Spalte.|
+| first_row | int | Erster Zeilenindex.|
+| first_column | int | Erster Spaltenindex.|
 | last_row | int | Letzter Zeilenindex.|
 | last_column | int | Letzter Spaltenindex.|
 ###  Bemerkungen
 
 AutoFitColumn ist eine ungenaue Funktion.
 
-##  auto_fit_columns(first_row, first_column, last_row, last_column, options) {#int-int-int-int-AutoFitterOptions}
+##  auto_fit_columns(self, first_row, first_column, last_row, last_column, options) {#int-int-int-int-aspose.cells.AutoFitterOptions}
 
 Passt die Spaltenbreite automatisch an.
 
 
 
 ```python
+
 def auto_fit_columns(self, first_row, first_column, last_row, last_column, options):
     ...
 ```
@@ -112,11 +118,11 @@ def auto_fit_columns(self, first_row, first_column, last_row, last_column, optio
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| first_row | int | Index der ersten Zeile.|
-| first_column | int | Index der ersten Spalte.|
+| first_row | int | Erster Zeilenindex.|
+| first_column | int | Erster Spaltenindex.|
 | last_row | int | Letzter Zeilenindex.|
 | last_column | int | Letzter Spaltenindex.|
-| options | [AutoFitterOptions](/cells/python-net/de/aspose.cells/autofitteroptions) | Die automatischen Anpassungsoptionen|
+| options | [`AutoFitterOptions`](/cells/python-net/de/aspose.cells/autofitteroptions) | Die Auto-Anpassungsoptionen|
 ###  Bemerkungen
 
 AutoFitColumn ist eine ungenaue Funktion.
@@ -124,5 +130,5 @@ AutoFitColumn ist eine ungenaue Funktion.
 
 ###  Siehe auch
 
-* Modul [aspose.cells](../../)
-* Klasse [Worksheet](/cells/python-net/de/aspose.cells/worksheet)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Worksheet`](/cells/python-net/de/aspose.cells/worksheet)

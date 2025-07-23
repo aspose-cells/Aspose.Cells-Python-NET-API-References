@@ -3,18 +3,18 @@ title: top_in_shape Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1090
+weight: 1100
 url: /de/aspose.cells.drawing/commentshape/top_in_shape/
 is_root: false
 ---
 ##  top_in_shape Eigentum
 
- Stellt den vertikalen Versatz der Form vom oberen Rand der übergeordneten Form dar.
-in der Einheit 1/4000 der Höhe der übergeordneten Form.
+ Stellt den vertikalen Abstand der Form vom oberen Rand der übergeordneten Form dar.
+in Einheiten von 1/4000 der Höhe der übergeordneten Form.
 
 ###  Bemerkungen
 
-Gilt nur, wenn diese Form in der Gruppe oder im Diagramm enthalten ist.
+Gilt nur, wenn sich diese Form in der Gruppe oder im Diagramm befindet.
 
 ###  Beispiel
 

@@ -7,12 +7,13 @@ weight: 30
 url: /de/aspose.cells/autofilter/add_fill_color_filter/
 is_root: false
 ---
-##  add_fill_color_filter(field_index, pattern, foreground_color, background_color) {#int-BackgroundType-CellsColor-CellsColor}
-Fügt einen Füllfarbenfilter hinzu.
+##  add_fill_color_filter(self, field_index, pattern, foreground_color, background_color) {#int-aspose.cells.BackgroundType-aspose.cells.CellsColor-aspose.cells.CellsColor}
+Fügt einen Füllfarbfilter hinzu.
 
 
 
 ```python
+
 def add_fill_color_filter(self, field_index, pattern, foreground_color, background_color):
     ...
 ```
@@ -20,13 +21,13 @@ def add_fill_color_filter(self, field_index, pattern, foreground_color, backgrou
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| field_index | int | Der ganzzahlige Offset des Felds, auf dem der Filter basieren soll<br/> (von links in der Liste; das Feld ganz links ist Feld 0).|
-| pattern | [BackgroundType](/cells/python-net/de/aspose.cells/backgroundtype) | Der Typ des Hintergrundmusters.|
-| foreground_color | [CellsColor](/cells/python-net/de/aspose.cells/cellscolor) | Die Vordergrundfarbe.|
-| background_color | [CellsColor](/cells/python-net/de/aspose.cells/cellscolor) | Die Hintergrundfarbe.|
+| field_index | int | Der ganzzahlige Offset des Feldes, auf dem der Filter basieren soll<br/> (von links in der Liste; das äußerste linke Feld ist Feld 0).|
+| pattern | [`BackgroundType`](/cells/python-net/de/aspose.cells/backgroundtype) | Der Hintergrundmustertyp.|
+| foreground_color | [`CellsColor`](/cells/python-net/de/aspose.cells/cellscolor) | Die Vordergrundfarbe.|
+| background_color | [`CellsColor`](/cells/python-net/de/aspose.cells/cellscolor) | Die Hintergrundfarbe.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [AutoFilter](/cells/python-net/de/aspose.cells/autofilter)
+* Modul [`aspose.cells`](../../)
+* Klasse [`AutoFilter`](/cells/python-net/de/aspose.cells/autofilter)

@@ -3,13 +3,13 @@ title: is_display_unit_label_shown Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 230
+weight: 240
 url: /de/aspose.cells.charts/axis/is_display_unit_label_shown/
 is_root: false
 ---
 ##  is_display_unit_label_shown Eigentum
 
-Stellt dar, ob die Beschriftung der Anzeigeeinheit auf der angegebenen Achse angezeigt wird.
+Gibt an, ob die Beschriftung der Anzeigeeinheit auf der angegebenen Achse angezeigt wird.
 
 ###  Bemerkungen
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  operator Eigentum
 
-Ruft den bedingten Formattyp operator ab und legt ihn fest.
+Ruft den Typ des bedingten Formats operator ab und legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def operator(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FormatCondition](/cells/python-net/de/aspose.cells/formatcondition)
-* Klasse [OperatorType](/cells/python-net/de/aspose.cells/operatortype)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FormatCondition`](/cells/python-net/de/aspose.cells/formatcondition)
+* Klasse [`OperatorType`](/cells/python-net/de/aspose.cells/operatortype)

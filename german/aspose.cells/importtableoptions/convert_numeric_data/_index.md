@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_numeric_data Eigentum
 
-Ruft einen Wert ab, der angibt, ob der Zeichenfolgenwert in einen numerischen Wert oder einen Datumswert konvertiert werden soll, oder legt diesen fest.
+Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob der Zeichenfolgenwert in einen numerischen Wert oder einen Datumswert konvertiert werden soll.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def convert_numeric_data(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ImportTableOptions](/cells/python-net/de/aspose.cells/importtableoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ImportTableOptions`](/cells/python-net/de/aspose.cells/importtableoptions)

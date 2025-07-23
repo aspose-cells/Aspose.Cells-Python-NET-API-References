@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  x propriété
 
-Coordonnées X de l'élément Ticklabel dans le rapport de la largeur du graphique.
+Coordonnées X de l'élément Ticklabel en fonction de la largeur du graphique.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def x(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [TickLabelItem](/cells/python-net/fr/aspose.cells.charts/ticklabelitem)
+* module [`aspose.cells.charts`](../../)
+* classe [`TickLabelItem`](/cells/python-net/fr/aspose.cells.charts/ticklabelitem)

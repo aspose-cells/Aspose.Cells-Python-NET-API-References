@@ -3,7 +3,7 @@ title: capacity propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 80
+weight: 90
 url: /fr/aspose.cells/verticalpagebreakcollection/capacity/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [VerticalPageBreakCollection](/cells/python-net/fr/aspose.cells/verticalpagebreakcollection)
+* module [`aspose.cells`](../../)
+* classe [`VerticalPageBreakCollection`](/cells/python-net/fr/aspose.cells/verticalpagebreakcollection)

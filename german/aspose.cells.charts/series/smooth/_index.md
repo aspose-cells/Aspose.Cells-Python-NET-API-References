@@ -10,8 +10,8 @@ is_root: false
 ##  smooth Eigentum
 
  Stellt die Kurvenglättung dar.
-True, wenn die Kurvenglättung für das Linien- oder Punktdiagramm aktiviert ist.
-Gilt nur für Linien- und Streudiagramme, die durch Liniendiagramme verbunden sind.
+Wahr, wenn die Kurvenglättung für das Liniendiagramm oder das Streudiagramm aktiviert ist.
+Gilt nur für durch Linien verbundene Linien- und Streudiagramme.
 ###  Definition:
 ```python
 @property
@@ -23,5 +23,5 @@ def smooth(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Series](/cells/python-net/de/aspose.cells.charts/series)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Series`](/cells/python-net/de/aspose.cells.charts/series)

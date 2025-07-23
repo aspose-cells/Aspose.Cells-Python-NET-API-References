@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  contrast Eigentum
 
-Stellt die contrast-Modifikation für das Bild dar.in Prozenteinheit.
+Stellt die Änderung contrast für das Bild in der Einheit Prozent dar.
 
 ###  Bemerkungen
 
-Er liegt zwischen -100 % und 100 %. Es funktioniert genauso wie Excel 2007 oder höher.
+Der Wert liegt zwischen -100 % und 100 %. Es funktioniert genauso wie Excel 2007 oder eine höhere Version.
 ###  Definition:
 ```python
 @property

@@ -7,12 +7,13 @@ weight: 360
 url: /fr/aspose.cells/settableglobalizationsettings/set_row_separator_of_formula_array/
 is_root: false
 ---
-##  set_row_separator_of_formula_array {#char}
-Définit le séparateur pour les lignes des données du tableau dans la formule.
+##  set_row_separator_of_formula_array(self, c) {#char}
+Définit le séparateur pour les lignes dans les données du tableau dans la formule.
 
 
 
 ```python
+
 def set_row_separator_of_formula_array(self, c):
     ...
 ```

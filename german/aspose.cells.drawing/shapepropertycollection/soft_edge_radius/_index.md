@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  soft_edge_radius Eigentum
 
-Ruft den auf die Kanten anzuwendenden Weichzeichnungsradius in Punkteinheiten ab und legt diesen fest.
+Ruft den auf die Kanten anzuwendenden Unschärferadius in Punkten ab und legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def soft_edge_radius(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ShapePropertyCollection](/cells/python-net/de/aspose.cells.drawing/shapepropertycollection)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ShapePropertyCollection`](/cells/python-net/de/aspose.cells.drawing/shapepropertycollection)

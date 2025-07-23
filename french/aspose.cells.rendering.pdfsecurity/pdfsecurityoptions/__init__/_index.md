@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions/__init__/
 is_root: false
 ---
-##  __initialisation__ {#}
+##  \_\_init\_\_(self){#}
 Le constructeur de PdfSecurityOptions
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -21,7 +22,7 @@ def __init__(self):
 
 ###  Exemple
 
-Le code suivant définit l'autorisation d'impression haute résolution pour le fichier PDF de sortie.
+Le code suivant définit l'autorisation d'impression haute résolution pour le PDF de sortie.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook

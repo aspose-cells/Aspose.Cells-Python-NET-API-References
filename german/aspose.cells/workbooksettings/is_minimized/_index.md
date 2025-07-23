@@ -3,7 +3,7 @@ title: is_minimized Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 260
+weight: 290
 url: /de/aspose.cells/workbooksettings/is_minimized/
 is_root: false
 ---

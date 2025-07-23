@@ -3,13 +3,13 @@ title: sparkline_groups propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 800
+weight: 820
 url: /fr/aspose.cells/worksheet/sparkline_groups/
 is_root: false
 ---
 ##  sparkline_groups propriété
 
-Obtient les groupes sparkline dans la feuille de calcul.
+Obtient les groupes de graphiques sparkline dans la feuille de calcul.
 ###  Définition:
 ```python
 @property

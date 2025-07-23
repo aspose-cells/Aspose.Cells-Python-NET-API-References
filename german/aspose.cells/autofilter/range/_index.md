@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  range Eigentum
 
-Stellt die range dar, für die der angegebene AutoFilter gilt.
+Stellt die range dar, auf die der angegebene AutoFilter angewendet wird.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def range(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [AutoFilter](/cells/python-net/de/aspose.cells/autofilter)
+* Modul [`aspose.cells`](../../)
+* Klasse [`AutoFilter`](/cells/python-net/de/aspose.cells/autofilter)

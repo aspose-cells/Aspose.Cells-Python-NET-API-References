@@ -1,5 +1,5 @@
 ---
-title: add méthode
+title: méthode add
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 20
 url: /fr/aspose.cells/threadedcommentauthorcollection/add/
 is_root: false
 ---
-##  add(name, user_id, provider_id) {#str-str-str}
+##  add(self, name, user_id, provider_id) {#str-str-str}
 Ajoute un commentaire de fil de discussion.
 
 
@@ -17,6 +17,7 @@ Ajoute un commentaire de fil de discussion.
 
 
 ```python
+
 def add(self, name, user_id, provider_id):
     ...
 ```
@@ -31,5 +32,5 @@ def add(self, name, user_id, provider_id):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ThreadedCommentAuthorCollection](/cells/python-net/fr/aspose.cells/threadedcommentauthorcollection)
+* module [`aspose.cells`](../../)
+* classe [`ThreadedCommentAuthorCollection`](/cells/python-net/fr/aspose.cells/threadedcommentauthorcollection)

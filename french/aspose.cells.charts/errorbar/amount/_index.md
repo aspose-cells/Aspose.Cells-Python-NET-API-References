@@ -10,7 +10,10 @@ is_root: false
 ##  amount propriété
 
 Représente amount de la barre d'erreur.
- Le amount doit être supérieur ou égal à zéro.
+
+###  Remarques
+
+Le amount doit être supérieur ou égal à zéro.
 ###  Définition:
 ```python
 @property
@@ -22,5 +25,5 @@ def amount(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [ErrorBar](/cells/python-net/fr/aspose.cells.charts/errorbar)
+* module [`aspose.cells.charts`](../../)
+* classe [`ErrorBar`](/cells/python-net/fr/aspose.cells.charts/errorbar)

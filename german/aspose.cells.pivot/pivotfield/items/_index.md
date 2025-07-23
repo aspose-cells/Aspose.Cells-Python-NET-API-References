@@ -3,13 +3,13 @@ title: items Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 470
+weight: 560
 url: /de/aspose.cells.pivot/pivotfield/items/
 is_root: false
 ---
 ##  items Eigentum
 
-Holen Sie sich alle Basis items;
+Holen Sie sich alle Beschriftungen des Pivots items in diesem Feld.
 ###  Definition:
 ```python
 @property

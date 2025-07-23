@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  caption propriété
 
-Renvoie ou définit le caption du Timeline spécifié.
+Renvoie ou définit le caption de la chronologie spécifiée.
 
 ###  Exemple
 
@@ -30,5 +30,5 @@ def caption(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.timelines](../../)
-* classe [Timeline](/cells/python-net/fr/aspose.cells.timelines/timeline)
+* module [`aspose.cells.timelines`](../../)
+* classe [`Timeline`](/cells/python-net/fr/aspose.cells.timelines/timeline)

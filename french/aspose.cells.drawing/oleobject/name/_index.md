@@ -3,7 +3,7 @@ title: name propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 950
+weight: 960
 url: /fr/aspose.cells.drawing/oleobject/name/
 is_root: false
 ---

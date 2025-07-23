@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_new_formatted propriété
 
-Indique si cette cellule a un nouveau format.
+Indique si cette cellule est nouvellement formatée.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_new_formatted(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.revisions](../../)
-* classe [RevisionCellChange](/cells/python-net/fr/aspose.cells.revisions/revisioncellchange)
+* module [`aspose.cells.revisions`](../../)
+* classe [`RevisionCellChange`](/cells/python-net/fr/aspose.cells.revisions/revisioncellchange)

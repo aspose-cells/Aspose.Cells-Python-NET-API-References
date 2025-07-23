@@ -3,13 +3,13 @@ title: tick_label_spacing Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 390
+weight: 400
 url: /de/aspose.cells.charts/axis/tick_label_spacing/
 is_root: false
 ---
 ##  tick_label_spacing Eigentum
 
-Stellt die Anzahl der Kategorien oder Serien zwischen den Markierungsbeschriftungen dar. Gilt nur für Kategorie- und Serienachsen.
+Stellt die Anzahl der Kategorien oder Reihen zwischen den Teilstrichbeschriftungen dar. Gilt nur für Kategorie- und Reihenachsen.
 
 ###  Bemerkungen
 

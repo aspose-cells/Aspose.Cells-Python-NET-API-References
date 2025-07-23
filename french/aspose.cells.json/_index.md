@@ -10,8 +10,8 @@ is_root: false
  Le**Aspose.Cells.Json** l'espace de noms contient toutes les classes de JSON.
 
 ###  Énumérations
-|Énumération| Description|
+| Énumération| Description|
 | :- | :- |
-| [JsonExportHyperlinkType](/cells/python-net/fr/aspose.cells.json/jsonexporthyperlinktype) | Représente le type d'exportation de liens hypertexte vers json.|
+| [`JsonExportHyperlinkType`](/cells/python-net/fr/aspose.cells.json/jsonexporthyperlinktype) | Représente le type d'exportation d'hyperliens vers json.|
 
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type propriété
 
-Obtient et définit si le format conditionnel Type.
+Obtient et définit si le format conditionnel est Type.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FormatCondition](/cells/python-net/fr/aspose.cells/formatcondition)
-* classe [FormatConditionType](/cells/python-net/fr/aspose.cells/formatconditiontype)
+* module [`aspose.cells`](../../)
+* classe [`FormatCondition`](/cells/python-net/fr/aspose.cells/formatcondition)
+* classe [`FormatConditionType`](/cells/python-net/fr/aspose.cells/formatconditiontype)

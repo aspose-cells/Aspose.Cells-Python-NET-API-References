@@ -12,8 +12,9 @@ is_root: false
 ###  Des classes
 | Classe| Description|
 | :- | :- |
-| [ExportRangeToJsonOptions](/cells/python-net/fr/aspose.cells.utility/exportrangetojsonoptions) | Indique les options qui exportent la plage vers json.|
-| [JsonLayoutOptions](/cells/python-net/fr/aspose.cells.utility/jsonlayoutoptions) | Représente les options du type de mise en page json.|
-| [JsonUtility](/cells/python-net/fr/aspose.cells.utility/jsonutility) | Représente la classe utilitaire de traitement de json.|
+| [`ConversionUtility`](/cells/python-net/fr/aspose.cells.utility/conversionutility) | Représente un utilitaire permettant de convertir des fichiers vers d'autres formats.|
+| [`ExportRangeToJsonOptions`](/cells/python-net/fr/aspose.cells.utility/exportrangetojsonoptions) | Indique les options d'exportation de la plage vers json.|
+| [`JsonLayoutOptions`](/cells/python-net/fr/aspose.cells.utility/jsonlayoutoptions) | Représente les options du type de mise en page json.|
+| [`JsonUtility`](/cells/python-net/fr/aspose.cells.utility/jsonutility) | Représente la classe utilitaire de traitement json.|
 
 

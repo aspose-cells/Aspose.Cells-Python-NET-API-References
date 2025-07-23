@@ -3,12 +3,12 @@ title: ThemeColorType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2670
+weight: 2640
 url: /de/aspose.cells/themecolortype/
 is_root: false
 ---
 ##  ThemeColorType Aufzählung
-Listet die Farbtypen des Themas auf.
+Listet die Farbtypen des Designs auf.
 
 
 
@@ -29,7 +29,7 @@ Der Typ ThemeColorType macht die folgenden Member verfügbar:
 | ACCENT6 |  |
 | HYPERLINK |  |
 | FOLLOWED_HYPERLINK |  |
-| STYLE_COLOR | Innen gebraucht.<br/> Eine Farbe, die in Designdefinitionen verwendet wird, was bedeutet, dass die Farbe des Stils verwendet wird.|
+| STYLE_COLOR | Innen verwendet.<br/> Eine in Designdefinitionen verwendete Farbe, d. h., die Farbe des Stils wird verwendet.|
 
 
 

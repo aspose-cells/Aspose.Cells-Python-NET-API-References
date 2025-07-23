@@ -21,5 +21,5 @@ def soft_edge_radius(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ShapePropertyCollection](/cells/python-net/fr/aspose.cells.drawing/shapepropertycollection)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ShapePropertyCollection`](/cells/python-net/fr/aspose.cells.drawing/shapepropertycollection)

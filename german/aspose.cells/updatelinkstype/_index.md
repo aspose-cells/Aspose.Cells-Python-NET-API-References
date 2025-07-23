@@ -3,7 +3,7 @@ title: UpdateLinksType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2710
+weight: 2680
 url: /de/aspose.cells/updatelinkstype/
 is_root: false
 ---
@@ -18,7 +18,7 @@ Der Typ UpdateLinksType macht die folgenden Member verfügbar:
 | Feld| Beschreibung|
 | :- | :- |
 | USER_SET | Fordern Sie den Benutzer zum Aktualisieren auf.|
-| NEVER | Nicht aktualisieren und Benutzer nicht dazu auffordern.|
+| NEVER | Nicht aktualisieren und den Benutzer nicht auffordern.|
 | ALWAYS | Immer aktualisieren.|
 
 

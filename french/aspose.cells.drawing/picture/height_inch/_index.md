@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height_inch propriété
 
-Représente la hauteur de la forme, en unités de pouces.
+Représente la hauteur de la forme, en pouces.
 
 ###  Exemple
 

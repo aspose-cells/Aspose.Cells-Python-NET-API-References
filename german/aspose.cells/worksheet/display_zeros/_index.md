@@ -3,13 +3,13 @@ title: display_zeros Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 480
+weight: 500
 url: /de/aspose.cells/worksheet/display_zeros/
 is_root: false
 ---
 ##  display_zeros Eigentum
 
-True, wenn Nullwerte angezeigt werden.
+Wahr, wenn Nullwerte angezeigt werden.
 ###  Definition:
 ```python
 @property

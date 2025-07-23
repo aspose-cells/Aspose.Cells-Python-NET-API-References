@@ -3,13 +3,13 @@ title: html_text Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 550
+weight: 540
 url: /de/aspose.cells.drawing/lineshape/html_text/
 is_root: false
 ---
 ##  html_text Eigentum
 
-Ruft die HTML-Zeichenfolge ab, die Daten und einige Formate in diesem Textfeld enthält, und legt diese fest.
+Ruft die HTML-Zeichenfolge ab und legt sie fest, die Daten und einige Formate in diesem Textfeld enthält.
 
 ###  Beispiel
 

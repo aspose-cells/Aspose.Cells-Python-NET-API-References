@@ -3,7 +3,7 @@ title: is_inner_mode propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 230
+weight: 290
 url: /fr/aspose.cells.charts/legend/is_inner_mode/
 is_root: false
 ---
@@ -14,7 +14,7 @@ False spécifie que la taille doit déterminer la taille de la zone de tracé, l
 
 ###  Remarques
 
-Uniquement pour le fichier Xlsx.
+Uniquement pour les fichiers Xlsx.
 ###  Définition:
 ```python
 @property

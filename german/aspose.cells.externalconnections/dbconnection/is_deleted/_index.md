@@ -3,14 +3,11 @@ title: is_deleted Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 120
+weight: 150
 url: /de/aspose.cells.externalconnections/dbconnection/is_deleted/
 is_root: false
 ---
 ##  is_deleted Eigentum
-
-Gibt an, ob die zugehörige Arbeitsmappenverbindung gelöscht wurde. wahr, wenn die
-Verbindung wurde gelöscht; andernfalls falsch.
 ###  Definition:
 ```python
 @property
@@ -22,5 +19,5 @@ def is_deleted(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.externalconnections](../../)
-* Klasse [DBConnection](/cells/python-net/de/aspose.cells.externalconnections/dbconnection)
+* Modul [`aspose.cells.externalconnections`](../../)
+* Klasse [`DBConnection`](/cells/python-net/de/aspose.cells.externalconnections/dbconnection)

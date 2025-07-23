@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_bottom Eigentum
 
-Rufen Sie ab oder legen Sie fest, ob eine „Top/Bottom n“-Regel eine „Bottom n“-Regel ist.
-Der Standardwert ist falsch.
+Ermitteln oder Festlegen, ob eine „Top/Bottom n“-Regel eine „Bottom n“-Regel ist.
+Der Standardwert ist „false“.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_bottom(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Top10](/cells/python-net/de/aspose.cells/top10)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Top10`](/cells/python-net/de/aspose.cells/top10)

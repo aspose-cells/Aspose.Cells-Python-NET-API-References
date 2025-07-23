@@ -17,10 +17,10 @@ Der Typ RevisionLog macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [metadata_table](/cells/python-net/de/aspose.cells.revisions/revisionlog/metadata_table) | Ruft eine Tabelle ab, die Metadaten zu einer Liste bestimmter vorgenommener Änderungen enthält<br/> für dieses Arbeitsheft.|
+| [metadata_table](/cells/python-net/de/aspose.cells.revisions/revisionlog/metadata_table) | Ruft eine Tabelle ab, die Metadaten zu einer Liste bestimmter vorgenommener Änderungen enthält.<br/> für diese Arbeitsmappe.|
 | [revisions](/cells/python-net/de/aspose.cells.revisions/revisionlog/revisions) | Ruft alle Revisionen in diesem Protokoll ab.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.revisions](..)
+* Modul [`aspose.cells.revisions`](..)

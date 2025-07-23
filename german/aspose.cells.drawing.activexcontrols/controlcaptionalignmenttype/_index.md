@@ -3,7 +3,7 @@ title: ControlCaptionAlignmentType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 170
+weight: 150
 url: /de/aspose.cells.drawing.activexcontrols/controlcaptionalignmenttype/
 is_root: false
 ---
@@ -17,10 +17,10 @@ Der Typ ControlCaptionAlignmentType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| LEFT | Die linke Seite des Steuerelements.|
-| RIGHT | Das Recht der Kontrolle.|
+| LEFT | Die linke Seite der Steuerung.|
+| RIGHT | Die rechte Seite des Steuerelements.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](..)
+* Modul [`aspose.cells.drawing.activexcontrols`](..)

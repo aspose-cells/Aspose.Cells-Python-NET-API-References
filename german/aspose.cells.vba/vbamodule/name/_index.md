@@ -3,13 +3,13 @@ title: name Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 40
+weight: 50
 url: /de/aspose.cells.vba/vbamodule/name/
 is_root: false
 ---
 ##  name Eigentum
 
-Ruft die name des Moduls ab und setzt sie.
+Ruft name des Moduls ab und legt es fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.vba](../../)
-* Klasse [VbaModule](/cells/python-net/de/aspose.cells.vba/vbamodule)
+* Modul [`aspose.cells.vba`](../../)
+* Klasse [`VbaModule`](/cells/python-net/de/aspose.cells.vba/vbamodule)

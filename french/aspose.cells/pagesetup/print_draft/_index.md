@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_draft propriété
 
-Représente si la feuille sera imprimée sans graphiques.
+Indique si la feuille sera imprimée sans graphiques.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def print_draft(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/fr/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/fr/aspose.cells/pagesetup)

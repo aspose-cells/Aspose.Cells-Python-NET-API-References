@@ -3,7 +3,7 @@ title: capacity Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 90
+weight: 130
 url: /de/aspose.cells.pivot/pivotfiltercollection/capacity/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotFilterCollection](/cells/python-net/de/aspose.cells.pivot/pivotfiltercollection)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotFilterCollection`](/cells/python-net/de/aspose.cells.pivot/pivotfiltercollection)

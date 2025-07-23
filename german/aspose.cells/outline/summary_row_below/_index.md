@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  summary_row_below Eigentum
 
-Gibt an, ob die Zusammenfassungszeile unter den Detailzeilen in der Gliederung positioniert wird.
+Gibt an, ob die Zusammenfassungszeile in der Gliederung unter den Detailzeilen positioniert wird.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def summary_row_below(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Outline](/cells/python-net/de/aspose.cells/outline)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Outline`](/cells/python-net/de/aspose.cells/outline)

@@ -18,5 +18,5 @@ def folder_path(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FolderFontSource](/cells/python-net/de/aspose.cells/folderfontsource)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FolderFontSource`](/cells/python-net/de/aspose.cells/folderfontsource)

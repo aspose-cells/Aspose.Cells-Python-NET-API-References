@@ -3,7 +3,7 @@ title: is_automatic_size propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 150
+weight: 210
 url: /fr/aspose.cells.charts/chartarea/is_automatic_size/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_automatic_size(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [ChartArea](/cells/python-net/fr/aspose.cells.charts/chartarea)
+* module [`aspose.cells.charts`](../../)
+* classe [`ChartArea`](/cells/python-net/fr/aspose.cells.charts/chartarea)

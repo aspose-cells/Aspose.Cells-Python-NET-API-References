@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  perspective Eigentum
 
-Gibt perspective für die 3D-Diagrammansicht zurück oder legt diesen fest. Muss zwischen 0 und 100 liegen.
+Gibt den Wert perspective für die 3D-Diagrammansicht zurück oder legt ihn fest. Der Wert muss zwischen 0 und 100 liegen.
 Diese Eigenschaft wird ignoriert, wenn die RightAngleAxes-Eigenschaft True ist.
 ###  Definition:
 ```python

@@ -3,17 +3,17 @@ title: output_blank_page_when_nothing_to_print propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 210
+weight: 220
 url: /fr/aspose.cells.rendering/imageorprintoptions/output_blank_page_when_nothing_to_print/
 is_root: false
 ---
 ##  output_blank_page_when_nothing_to_print propriété
 
-Indique s’il faut imprimer une page vierge lorsqu’il n’y a rien à imprimer.
+Indique s'il faut sortir une page vierge lorsqu'il n'y a rien à imprimer.
 
 ###  Remarques
 
-La valeur par défaut est fausse.
+La valeur par défaut est faux.
 ###  Définition:
 ```python
 @property

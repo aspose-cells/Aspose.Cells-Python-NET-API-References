@@ -3,13 +3,13 @@ title: export_as_string propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 120
+weight: 140
 url: /fr/aspose.cells.saving/sqlscriptsaveoptions/export_as_string/
 is_root: false
 ---
 ##  export_as_string propriété
 
-Indique si toutes les données sont exportées sous forme de valeur de chaîne.
+Indique si toutes les données doivent être exportées sous forme de valeur de chaîne.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def export_as_string(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.saving](../../)
-* classe [SqlScriptSaveOptions](/cells/python-net/fr/aspose.cells.saving/sqlscriptsaveoptions)
+* module [`aspose.cells.saving`](../../)
+* classe [`SqlScriptSaveOptions`](/cells/python-net/fr/aspose.cells.saving/sqlscriptsaveoptions)

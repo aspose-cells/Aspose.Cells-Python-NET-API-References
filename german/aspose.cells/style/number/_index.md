@@ -9,18 +9,18 @@ is_root: false
 ---
 ##  number Eigentum
 
-Ruft das Anzeigeformat von Zahlen und Datumsangaben ab oder legt dieses fest. Die Formatierungsmuster sind je nach Region unterschiedlich.
+Ruft das Anzeigeformat für Zahlen und Datumsangaben ab oder legt es fest. Die Formatierungsmuster sind je nach Region unterschiedlich.
 
 ###  Bemerkungen
 
-Beispielsweise die durch Zahlen dargestellten Formatierungsmuster für die Region „en_US“:
-| Wert| Typ| Zeichenfolge formatieren|
+Beispielsweise werden die durch Zahlen dargestellten Formatierungsmuster für die Region en_US folgendermaßen dargestellt:
+| Wert| Typ| Formatzeichenfolge|
 | :- | :- | :- |
 | 0| Allgemein|
-| 1|Dezimal|
-| 2|Dezimal|
-| 3|Dezimal|
-| 4|Dezimal|
+| 1| Dezimal|
+| 2| Dezimal|
+| 3| Dezimal|
+| 4| Dezimal|
 | 5| Währung|
 | 6| Währung|
 | 7| Währung|
@@ -28,8 +28,8 @@ Beispielsweise die durch Zahlen dargestellten Formatierungsmuster für die Regio
 | 9| Prozentsatz|
 | 10| Prozentsatz|
 | 11| Wissenschaftlich|
-| 12| Fraktion|
-| 13| Fraktion|
+| 12|Fraktion|
+| 13|Fraktion|
 | 14| Datum|
 | 15| Datum|
 | 16| Datum|

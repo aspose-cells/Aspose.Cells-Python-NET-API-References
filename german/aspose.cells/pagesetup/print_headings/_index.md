@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_headings Eigentum
 
-Stellt dar, ob Zeilen- und Spaltenüberschriften mit dieser Seite gedruckt werden.
+Gibt an, ob Zeilen- und Spaltenüberschriften mit dieser Seite gedruckt werden.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def print_headings(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

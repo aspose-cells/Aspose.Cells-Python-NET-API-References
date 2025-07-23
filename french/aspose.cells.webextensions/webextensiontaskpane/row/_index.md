@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row propriété
 
-Obtient et définit l'index, en énumérant de l'extérieur vers l'intérieur, de ce volet des tâches parmi d'autres volets des tâches persistants ancrés au même emplacement par défaut.
+Obtient et définit l'index, en énumérant de l'extérieur vers l'intérieur, de ce volet de tâches parmi d'autres volets de tâches persistants ancrés au même emplacement par défaut.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def row(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.webextensions](../../)
-* classe [WebExtensionTaskPane](/cells/python-net/fr/aspose.cells.webextensions/webextensiontaskpane)
+* module [`aspose.cells.webextensions`](../../)
+* classe [`WebExtensionTaskPane`](/cells/python-net/fr/aspose.cells.webextensions/webextensiontaskpane)

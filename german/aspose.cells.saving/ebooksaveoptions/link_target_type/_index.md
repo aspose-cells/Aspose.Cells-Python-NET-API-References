@@ -3,7 +3,7 @@ title: link_target_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 540
+weight: 620
 url: /de/aspose.cells.saving/ebooksaveoptions/link_target_type/
 is_root: false
 ---

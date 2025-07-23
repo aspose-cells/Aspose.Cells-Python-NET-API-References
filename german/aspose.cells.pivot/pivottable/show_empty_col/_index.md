@@ -3,13 +3,13 @@ title: show_empty_col Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 900
+weight: 1030
 url: /de/aspose.cells.pivot/pivottable/show_empty_col/
 is_root: false
 ---
 ##  show_empty_col Eigentum
 
-Gibt einen booleschen Wert an, der angibt, ob leere Spalten in die Tabelle aufgenommen werden sollen
+Gibt an, ob leere Spalten in die Tabelle aufgenommen werden sollen
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_empty_col(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotTable](/cells/python-net/de/aspose.cells.pivot/pivottable)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotTable`](/cells/python-net/de/aspose.cells.pivot/pivottable)

@@ -3,7 +3,7 @@ title: row_count Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 390
+weight: 490
 url: /de/aspose.cells/range/row_count/
 is_root: false
 ---

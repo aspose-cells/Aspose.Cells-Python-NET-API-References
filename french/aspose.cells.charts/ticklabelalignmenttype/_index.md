@@ -19,7 +19,7 @@ Le type TickLabelAlignmentType expose les membres suivants :
 | :- | :- |
 | CENTER | Représente que le texte doit être centré.|
 | LEFT | Représente que le texte doit être justifié à gauche.|
-| RIGHT | Représente que le texte doit être justifié à droite.|
+| RIGHT | Indique que le texte doit être justifié à droite.|
 
 
 

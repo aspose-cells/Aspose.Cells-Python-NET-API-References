@@ -3,7 +3,7 @@ title: column_width propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 280
+weight: 380
 url: /fr/aspose.cells/range/column_width/
 is_root: false
 ---

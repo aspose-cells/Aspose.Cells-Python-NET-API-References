@@ -3,7 +3,7 @@ title: over_lay propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 270
+weight: 330
 url: /fr/aspose.cells.charts/title/over_lay/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def over_lay(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Title](/cells/python-net/fr/aspose.cells.charts/title)
+* module [`aspose.cells.charts`](../../)
+* classe [`Title`](/cells/python-net/fr/aspose.cells.charts/title)

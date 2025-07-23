@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  begin_arrow_width Eigentum
 
-Gibt die Breite der Pfeilspitze für den Beginn einer Linie an.
+Gibt die Breite der Pfeilspitze für den Anfang einer Linie an.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def begin_arrow_width(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Line](/cells/python-net/de/aspose.cells.drawing/line)
-* Klasse [MsoArrowheadWidth](/cells/python-net/de/aspose.cells.drawing/msoarrowheadwidth)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Line`](/cells/python-net/de/aspose.cells.drawing/line)
+* Klasse [`MsoArrowheadWidth`](/cells/python-net/de/aspose.cells.drawing/msoarrowheadwidth)

@@ -3,7 +3,7 @@ title: SheetType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2550
+weight: 2520
 url: /de/aspose.cells/sheettype/
 is_root: false
 ---

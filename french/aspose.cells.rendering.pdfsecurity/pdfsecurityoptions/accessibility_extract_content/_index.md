@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  accessibility_extract_content propriété
 
-Indique s'il faut autoriser l'extraction de texte et de graphiques (pour faciliter l'accessibilité aux utilisateurs handicapés ou à d'autres fins).
+Indique s'il faut autoriser l'extraction de texte et de graphiques (pour soutenir l'accessibilité aux utilisateurs handicapés ou à d'autres fins).
 ###  Définition:
 ```python
 @property

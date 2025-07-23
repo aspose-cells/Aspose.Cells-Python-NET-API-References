@@ -7,8 +7,8 @@ weight: 30
 url: /de/aspose.cells/cell/characters/
 is_root: false
 ---
-##  characters(start_index, length) {#int-int}
-Gibt ein Characters-Objekt zurück, das einen Bereich von characters im Zellentext darstellt.
+##  characters(self, start_index, length) {#int-int}
+Gibt ein Zeichenobjekt zurück, das einen Bereich von characters innerhalb des Zellentextes darstellt.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Zeichenobjekt.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -47,5 +48,5 @@ cells.get("A1").characters(5, 5).font.color = Color.blue
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cell](/cells/python-net/de/aspose.cells/cell)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cell`](/cells/python-net/de/aspose.cells/cell)

@@ -1,5 +1,5 @@
 ---
-title: SparklineType dénombrement
+title: SparklineType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 630
 url: /fr/aspose.cells.charts/sparklinetype/
 is_root: false
 ---
-##  SparklineType dénombrement
+##  SparklineType énumération
 Représente les types de graphiques sparkline.
 
 
@@ -17,11 +17,11 @@ Le type SparklineType expose les membres suivants :
 ###  Des champs
 | Champ| Description|
 | :- | :- |
-| LINE | Sparkline de ligne.|
+| LINE | Ligne sparkline.|
 | COLUMN | Sparkline de colonne.|
-| STACKED | Sparkline de gain/perte.|
+| STACKED | Graphique scindé des gains/pertes.|
 
 
 
 ###  Voir également
-* module [aspose.cells.charts](..)
+* module [`aspose.cells.charts`](..)

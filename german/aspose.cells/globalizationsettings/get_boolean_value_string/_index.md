@@ -7,16 +7,17 @@ weight: 40
 url: /de/aspose.cells/globalizationsettings/get_boolean_value_string/
 is_root: false
 ---
-##  get_boolean_value_string(bv) {#bool}
-Ruft den Anzeigezeichenfolgenwert für den booleschen Wert der Zelle ab
+##  get_boolean_value_string(self, bv) {#bool}
+Ruft den Anzeige-Stringwert für den Booleschen Wert der Zelle ab
 
 
 ###  Kehrt zurück
 
-Der Standardwert gibt „TRUE“ für einen wahren Wert und „FALSE“ für einen falschen Wert zurück.
+Standardmäßig wird „TRUE“ für den wahren Wert und „FALSE“ für den falschen Wert zurückgegeben.
 
 
 ```python
+
 def get_boolean_value_string(self, bv):
     ...
 ```
@@ -24,10 +25,10 @@ def get_boolean_value_string(self, bv):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| bv | bool | boolescher Wert|
+| bv | bool | Boolescher Wert|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [GlobalizationSettings](/cells/python-net/de/aspose.cells/globalizationsettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`GlobalizationSettings`](/cells/python-net/de/aspose.cells/globalizationsettings)

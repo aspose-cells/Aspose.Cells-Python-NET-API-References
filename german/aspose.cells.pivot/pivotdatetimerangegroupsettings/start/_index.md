@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  start Eigentum
 
-Ruft das Datum und die Uhrzeit start der Gruppe ab.
+Ruft das Datum und die Uhrzeit der Gruppe (start) ab.
 ###  Definition:
 ```python
 @property

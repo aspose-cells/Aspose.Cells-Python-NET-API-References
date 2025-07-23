@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_editable propriété
 
-Indique si l'utilisateur peut taper dans le contrôle.
+Indique si l'utilisateur peut saisir du texte dans le contrôle.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_editable(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [ComboBoxActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ComboBoxActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

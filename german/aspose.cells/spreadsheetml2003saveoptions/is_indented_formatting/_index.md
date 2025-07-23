@@ -3,7 +3,7 @@ title: is_indented_formatting Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 70
+weight: 90
 url: /de/aspose.cells/spreadsheetml2003saveoptions/is_indented_formatting/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Bewirkt, dass untergeordnete Elemente eingerückt werden.
 
 ###  Bemerkungen
 
-Der Standardwert ist wahr.
+Der Standardwert ist „true“.
 Wenn der Wert falsch ist, wird die Größe der XML-Datei reduziert
 ###  Definition:
 ```python
@@ -26,5 +26,5 @@ def is_indented_formatting(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [SpreadsheetML2003SaveOptions](/cells/python-net/de/aspose.cells/spreadsheetml2003saveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`SpreadsheetML2003SaveOptions`](/cells/python-net/de/aspose.cells/spreadsheetml2003saveoptions)

@@ -7,17 +7,35 @@ weight: 10
 url: /fr/aspose.cells.saving/ebooksaveoptions/__init__/
 is_root: false
 ---
-##  __initialisation__ {#}
+##  \_\_init\_\_(self){#}
 Crée des options pour enregistrer le fichier ebook.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
 
 
+
+
+##  \_\_init\_\_(self, save_format){#aspose.cells.SaveFormat}
+Crée des options pour enregistrer le fichier ebook.
+
+
+
+```python
+
+def __init__(self, save_format):
+    ...
+```
+
+
+| Paramètre| Taper| Description|
+| :- | :- | :- |
+| save_format | [`SaveFormat`](/cells/python-net/fr/aspose.cells/saveformat) | Le format du fichier.<br/> Il devrait s'agir du [`SaveFormat.EPUB`](/cells/python-net/fr/aspose.cells/saveformat#EPUB) ou du [`SaveFormat.AZW3`](/cells/python-net/fr/aspose.cells/saveformat#AZW3).|
 
 
 

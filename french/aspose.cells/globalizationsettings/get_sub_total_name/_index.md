@@ -7,7 +7,7 @@ weight: 220
 url: /fr/aspose.cells/globalizationsettings/get_sub_total_name/
 is_root: false
 ---
-##  get_sub_total_name {#aspose.cells.pivot.PivotFieldSubtotalType}
+##  get_sub_total_name(self, sub_total_type) {#aspose.cells.pivot.PivotFieldSubtotalType}
 Obtient le nom du type [`PivotFieldSubtotalType`](/cells/python-net/fr/aspose.cells.pivot/pivotfieldsubtotaltype) dans le tableau croisé dynamique.
 
 
@@ -17,6 +17,7 @@ Le nom du type [`PivotFieldSubtotalType`](/cells/python-net/fr/aspose.cells.pivo
 
 
 ```python
+
 def get_sub_total_name(self, sub_total_type):
     ...
 ```
@@ -27,10 +28,10 @@ def get_sub_total_name(self, sub_total_type):
 | sub_total_type | aspose.cells.pivot.PivotFieldSubtotalType | Le type [`PivotFieldSubtotalType`](/cells/python-net/fr/aspose.cells.pivot/pivotfieldsubtotaltype)|
 ###  Remarques
 
-REMARQUE : ce membre est désormais obsolète. Plutôt,
+REMARQUE : Ce membre est désormais obsolète. À la place,
 veuillez utiliser la méthode PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
- Ce bien sera supprimé 12 mois plus tard depuis décembre 2022.
-Le Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ Cette propriété sera supprimée 12 mois plus tard soit décembre 2022.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 
 
 ###  Voir également

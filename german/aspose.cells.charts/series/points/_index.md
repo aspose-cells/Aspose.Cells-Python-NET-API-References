@@ -13,7 +13,7 @@ Ruft die Sammlung von points in einer Reihe in einem Diagramm ab.
 
 ###  Bemerkungen
 
-Wenn das Diagramm Pie of Pie oder Bar of Pie ist, ist der letzte Punkt ein anderer Punkt im ersten Tortendiagramm.
+Wenn das Diagramm ein Kreisdiagramm oder ein Balkendiagramm ist, ist der letzte Punkt ein anderer Punkt im ersten Kreisdiagramm.
 ###  Definition:
 ```python
 @property
@@ -22,6 +22,6 @@ def points(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ChartPointCollection](/cells/python-net/de/aspose.cells.charts/chartpointcollection)
-* Klasse [Series](/cells/python-net/de/aspose.cells.charts/series)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ChartPointCollection`](/cells/python-net/de/aspose.cells.charts/chartpointcollection)
+* Klasse [`Series`](/cells/python-net/de/aspose.cells.charts/series)

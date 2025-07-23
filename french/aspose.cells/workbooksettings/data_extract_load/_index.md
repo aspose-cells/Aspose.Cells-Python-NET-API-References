@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  data_extract_load propriété
 
-indique si l'application a ouvert le classeur pour la dernière fois pour la récupération de données.
+indique si l'application a ouvert le classeur en dernier pour la récupération des données.
 ###  Définition:
 ```python
 @property

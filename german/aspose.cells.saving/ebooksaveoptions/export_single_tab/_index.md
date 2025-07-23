@@ -3,14 +3,14 @@ title: export_single_tab Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 360
+weight: 420
 url: /de/aspose.cells.saving/ebooksaveoptions/export_single_tab/
 is_root: false
 ---
 ##  export_single_tab Eigentum
 
 Gibt an, ob die einzelne Registerkarte exportiert wird, wenn die Datei nur ein Arbeitsblatt enthält.
-Der Standardwert ist false.
+Der Standardwert ist „false“.
 ###  Definition:
 ```python
 @property

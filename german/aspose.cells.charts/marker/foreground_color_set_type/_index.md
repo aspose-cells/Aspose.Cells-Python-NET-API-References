@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  foreground_color_set_type Eigentum
 
-Ruft den Typ des Markierungsvordergrundfarbsatzes ab oder legt diesen fest.
+Ruft den Farbsatztyp für den Vordergrund der Markierung ab oder legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def foreground_color_set_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [FormattingType](/cells/python-net/de/aspose.cells.charts/formattingtype)
-* Klasse [Marker](/cells/python-net/de/aspose.cells.charts/marker)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`FormattingType`](/cells/python-net/de/aspose.cells.charts/formattingtype)
+* Klasse [`Marker`](/cells/python-net/de/aspose.cells.charts/marker)

@@ -1,14 +1,14 @@
 ---
-title: ControlListStyle dénombrement
+title: ControlListStyle énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 180
+weight: 160
 url: /fr/aspose.cells.drawing.activexcontrols/controlliststyle/
 is_root: false
 ---
-##  ControlListStyle dénombrement
-Représente l'apparence visuelle de la liste dans un ListBox ou un ComboBox.
+##  ControlListStyle énumération
+Représente l'apparence visuelle de la liste dans une ListBox ou une ComboBox.
 
 
 
@@ -23,4 +23,4 @@ Le type ControlListStyle expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](..)
+* module [`aspose.cells.drawing.activexcontrols`](..)

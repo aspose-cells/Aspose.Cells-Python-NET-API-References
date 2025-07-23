@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  dash_style Eigentum
 
-Ruft den Bindestrichstil für die angegebene Linie ab oder legt diesen fest.
+Ruft den Strichstil für die angegebene Linie ab oder legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def dash_style(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [MsoLineDashStyle](/cells/python-net/de/aspose.cells.drawing/msolinedashstyle)
-* Klasse [MsoLineFormat](/cells/python-net/de/aspose.cells.drawing/msolineformat)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`MsoLineDashStyle`](/cells/python-net/de/aspose.cells.drawing/msolinedashstyle)
+* Klasse [`MsoLineFormat`](/cells/python-net/de/aspose.cells.drawing/msolineformat)

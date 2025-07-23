@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  double_size Eigentum
 
-Ruft die doppelte Größe der Schriftart ab und legt sie fest.
+Ruft die doppelte Schriftgröße ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def double_size(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Font](/cells/python-net/de/aspose.cells/font)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Font`](/cells/python-net/de/aspose.cells/font)

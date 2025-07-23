@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DynamicFilter](/cells/python-net/fr/aspose.cells/dynamicfilter)
+* module [`aspose.cells`](../../)
+* classe [`DynamicFilter`](/cells/python-net/fr/aspose.cells/dynamicfilter)

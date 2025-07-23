@@ -21,5 +21,5 @@ def convert_numeric_data(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FindOptions](/cells/python-net/de/aspose.cells/findoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FindOptions`](/cells/python-net/de/aspose.cells/findoptions)

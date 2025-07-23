@@ -18,5 +18,5 @@ def is_automatic_color(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ErrorBar](/cells/python-net/de/aspose.cells.charts/errorbar)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ErrorBar`](/cells/python-net/de/aspose.cells.charts/errorbar)

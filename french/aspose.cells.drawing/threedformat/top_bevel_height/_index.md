@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  top_bevel_height propriété
 
-Obtient et définit la hauteur du biseau supérieur ou la distance à laquelle il est appliqué dans la forme.
-En unité de Points.
+Obtient et définit la hauteur du biseau supérieur, ou la distance à laquelle il est appliqué dans la forme.
+En unité de points.
 ###  Définition:
 ```python
 @property
@@ -22,5 +22,5 @@ def top_bevel_height(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ThreeDFormat](/cells/python-net/fr/aspose.cells.drawing/threedformat)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ThreeDFormat`](/cells/python-net/fr/aspose.cells.drawing/threedformat)

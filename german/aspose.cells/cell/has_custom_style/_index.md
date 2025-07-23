@@ -3,13 +3,13 @@ title: has_custom_style Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 510
+weight: 530
 url: /de/aspose.cells/cell/has_custom_style/
 is_root: false
 ---
 ##  has_custom_style Eigentum
 
-Gibt an, ob diese Zelle über benutzerdefinierte Stileinstellungen verfügt (anders als die geerbten Standardeinstellungen).
+Gibt an, ob diese Zelle benutzerdefinierte Stileinstellungen hat (anders als die übernommenen Standardeinstellungen).
 aus der entsprechenden Zeile, Spalte oder Arbeitsmappe).
 ###  Definition:
 ```python

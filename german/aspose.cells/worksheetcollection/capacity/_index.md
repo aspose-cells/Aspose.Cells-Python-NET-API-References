@@ -3,7 +3,7 @@ title: capacity Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 270
+weight: 290
 url: /de/aspose.cells/worksheetcollection/capacity/
 is_root: false
 ---

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  store_type Eigentum
 
-Ruft den Marktplatztyp ab, den das Store-Attribut identifiziert, und legt diesen fest.
+Ruft den Marktplatztyp ab und legt ihn fest, der durch das Store-Attribut identifiziert wird.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def store_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.webextensions](../../)
-* Klasse [WebExtensionReference](/cells/python-net/de/aspose.cells.webextensions/webextensionreference)
-* Klasse [WebExtensionStoreType](/cells/python-net/de/aspose.cells.webextensions/webextensionstoretype)
+* Modul [`aspose.cells.webextensions`](../../)
+* Klasse [`WebExtensionReference`](/cells/python-net/de/aspose.cells.webextensions/webextensionreference)
+* Klasse [`WebExtensionStoreType`](/cells/python-net/de/aspose.cells.webextensions/webextensionstoretype)

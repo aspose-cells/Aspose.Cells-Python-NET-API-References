@@ -7,16 +7,17 @@ weight: 50
 url: /de/aspose.cells.charts/trendlinecollection/index_of/
 is_root: false
 ---
-##  index_of(item, index) {#Trendline-int}
-Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des ersten Vorkommens innerhalb des Bereichs von Elementen in der Arrayliste zurück, der sich vom angegebenen Index bis zum letzten Element erstreckt.
+##  index_of(self, item, index) {#aspose.cells.charts.Trendline-int}
+Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des ersten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der sich vom angegebenen Index bis zum letzten Element erstreckt.
 
 
 ###  Kehrt zurück
 
-Der nullbasierte Index des ersten Vorkommens von value innerhalb des Bereichs von Elementen in der Array-Liste, der sich von startIndex bis zum letzten Element erstreckt, falls gefunden; andernfalls -1.
+Der nullbasierte Index des ersten Vorkommens von „value“ innerhalb des Elementbereichs in der Array-Liste, der sich vom Startindex bis zum letzten Element erstreckt, sofern gefunden; andernfalls -1.
 
 
 ```python
+
 def index_of(self, item, index):
     ...
 ```
@@ -24,20 +25,21 @@ def index_of(self, item, index):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| item | [Trendline](/cells/python-net/de/aspose.cells.charts/trendline) | Das Objekt, das in der Arrayliste gesucht werden soll. Der Wert kann null sein.|
+| item | [`Trendline`](/cells/python-net/de/aspose.cells.charts/trendline) | Das in der Array-Liste zu suchende Objekt. Der Wert kann null sein.|
 | index | int | Der nullbasierte Startindex der Suche. 0 (Null) ist in einer leeren Liste gültig.|
 
 
-##  index_of(item, index, count) {#Trendline-int-int}
-Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des ersten Vorkommens innerhalb des Bereichs von Elementen in der Arrayliste zurück, der am angegebenen Index beginnt und die angegebene Anzahl von Elementen enthält.
+##  index_of(self, item, index, count) {#aspose.cells.charts.Trendline-int-int}
+Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des ersten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der am angegebenen Index beginnt und die angegebene Anzahl von Elementen enthält.
 
 
 ###  Kehrt zurück
 
-Der nullbasierte Index des ersten Vorkommens von value innerhalb des Bereichs von Elementen in der Array-Liste, die bei startIndex beginnt und die Anzahl der Elemente enthält, falls gefunden; andernfalls -1.
+Der nullbasierte Index des ersten Vorkommens von „value“ innerhalb des Elementbereichs in der Array-Liste, die bei „startIndex“ beginnt und die Anzahl der Elemente enthält (sofern gefunden); andernfalls –1.
 
 
 ```python
+
 def index_of(self, item, index, count):
     ...
 ```
@@ -45,12 +47,12 @@ def index_of(self, item, index, count):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| item | [Trendline](/cells/python-net/de/aspose.cells.charts/trendline) | Das Objekt, das in der Arrayliste gesucht werden soll. Der Wert kann null sein.|
+| item | [`Trendline`](/cells/python-net/de/aspose.cells.charts/trendline) | Das in der Array-Liste zu suchende Objekt. Der Wert kann null sein.|
 | index | int | Der nullbasierte Startindex der Suche. 0 (Null) ist in einer leeren Liste gültig.|
 | count | int | Die Anzahl der Elemente im zu durchsuchenden Abschnitt.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [TrendlineCollection](/cells/python-net/de/aspose.cells.charts/trendlinecollection)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`TrendlineCollection`](/cells/python-net/de/aspose.cells.charts/trendlinecollection)

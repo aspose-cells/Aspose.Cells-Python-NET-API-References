@@ -23,4 +23,4 @@ Der Typ SmartTagProperty macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.markup](..)
+* Modul [`aspose.cells.markup`](..)

@@ -18,5 +18,5 @@ def length(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FontSetting](/cells/python-net/de/aspose.cells/fontsetting)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FontSetting`](/cells/python-net/de/aspose.cells/fontsetting)

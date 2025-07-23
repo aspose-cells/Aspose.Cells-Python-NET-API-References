@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  formula1 Eigentum
 
-Ruft den Wert oder Ausdruck ab, der der bedingten Formatierung zugeordnet ist, und legt diesen fest.
+Ruft den mit der bedingten Formatierung verknüpften Wert oder Ausdruck ab und legt ihn fest.
 
 ###  Bemerkungen
 
 Bitte fügen Sie alle Bereiche hinzu, bevor Sie die Formel festlegen.
-Wenn für die Einstellung der Formel für diese Bedingung der Eingabewert mit „=“ beginnt, wird er als Formel verwendet.
-Andernfalls wird es als einfacher Wert (Text, Zahl, Bool) genommen. Für einen Textwert, der mit '=' beginnt, kann der Benutzer ihn als Formel im Format "=\"=...\"" eingeben.
+Wenn zum Festlegen der Formel für diese Bedingung der Eingabewert mit „=“ beginnt, wird er als Formel verwendet.
+Andernfalls wird es als einfacher Wert (Text, Zahl, Bool) verwendet. Für Textwerte, die mit „=“ beginnen, kann der Benutzer sie als Formel im Format „=\“=...\““ eingeben.
 ###  Definition:
 ```python
 @property
@@ -27,5 +27,5 @@ def formula1(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FormatCondition](/cells/python-net/de/aspose.cells/formatcondition)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FormatCondition`](/cells/python-net/de/aspose.cells/formatcondition)

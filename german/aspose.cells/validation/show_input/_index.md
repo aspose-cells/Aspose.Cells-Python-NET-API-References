@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_input Eigentum
 
-Gibt an, ob die Eingabemeldung zur Datenvalidierung immer dann angezeigt wird, wenn der Benutzer eine Zelle im Datenvalidierungsbereich auswählt.
+Gibt an, ob die Eingabemeldung zur Datenüberprüfung angezeigt wird, wenn der Benutzer eine Zelle im Datenüberprüfungsbereich auswählt.
 ###  Definition:
 ```python
 @property

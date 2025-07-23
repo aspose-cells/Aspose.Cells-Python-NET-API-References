@@ -3,13 +3,13 @@ title: create_table propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 100
+weight: 110
 url: /fr/aspose.cells.saving/sqlscriptsaveoptions/create_table/
 is_root: false
 ---
 ##  create_table propriété
 
-Indique si l'exportation sql ou la création de la table.
+Indique si l'exportation SQL de la création de la table.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def create_table(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.saving](../../)
-* classe [SqlScriptSaveOptions](/cells/python-net/fr/aspose.cells.saving/sqlscriptsaveoptions)
+* module [`aspose.cells.saving`](../../)
+* classe [`SqlScriptSaveOptions`](/cells/python-net/fr/aspose.cells.saving/sqlscriptsaveoptions)

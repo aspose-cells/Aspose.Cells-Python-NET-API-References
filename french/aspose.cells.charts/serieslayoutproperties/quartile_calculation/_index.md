@@ -3,7 +3,7 @@ title: quartile_calculation propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 60
+weight: 70
 url: /fr/aspose.cells.charts/serieslayoutproperties/quartile_calculation/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def quartile_calculation(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [QuartileCalculationType](/cells/python-net/fr/aspose.cells.charts/quartilecalculationtype)
-* classe [SeriesLayoutProperties](/cells/python-net/fr/aspose.cells.charts/serieslayoutproperties)
+* module [`aspose.cells.charts`](../../)
+* classe [`QuartileCalculationType`](/cells/python-net/fr/aspose.cells.charts/quartilecalculationtype)
+* classe [`SeriesLayoutProperties`](/cells/python-net/fr/aspose.cells.charts/serieslayoutproperties)

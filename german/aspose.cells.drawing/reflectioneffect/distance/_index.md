@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  distance Eigentum
 
-Ruft ab und legt fest, wie weit distance der Schatten entfernt ist, in Punkteinheiten.
+Ruft ab und legt fest, wie weit der Schatten in der Einheit Punkte reichen soll (distance).
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def distance(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ReflectionEffect](/cells/python-net/de/aspose.cells.drawing/reflectioneffect)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ReflectionEffect`](/cells/python-net/de/aspose.cells.drawing/reflectioneffect)

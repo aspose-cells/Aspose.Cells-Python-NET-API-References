@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  cell Eigentum
 
-Ruft das Cell-Objekt ab, in dem sich die Funktion befindet.
+Ruft das Objekt Cell ab, in dem sich die Funktion befindet.
 
 ###  Bemerkungen
 
-Wenn Sie eine Formel berechnen, ohne sie auf cell zu setzen,
-z.B. unter [`Worksheet.calculate_formula`](/cells/python-net/de/aspose.cells/worksheet/calculate_formula),
-Die Formel wird genauso berechnet, wie sie auf cell A1 eingestellt wurde.
+Wenn Sie eine Formel berechnen, ohne sie auf cell einzustellen,
+beispielsweise unter [`Worksheet.calculate_formula`](/cells/python-net/de/aspose.cells/worksheet/calculate_formula),
+Die Formel wird so berechnet, als wäre sie auf cell A1 eingestellt.
 also sind sowohl [`CalculationData.cell_row`](/cells/python-net/de/aspose.cells/calculationdata#cell_row) als auch [`CalculationData.cell_column`](/cells/python-net/de/aspose.cells/calculationdata#cell_column) 0.
 Allerdings wurde cell A1 im Arbeitsblatt möglicherweise nicht instanziiert.
 In einer solchen Situation ist diese Eigenschaft also null.

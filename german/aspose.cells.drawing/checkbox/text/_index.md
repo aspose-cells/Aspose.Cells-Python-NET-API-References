@@ -3,13 +3,13 @@ title: text Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 950
+weight: 960
 url: /de/aspose.cells.drawing/checkbox/text/
 is_root: false
 ---
 ##  text Eigentum
 
-Stellt die Zeichenfolge in diesem TextBox-Objekt dar.
+Ruft die text dieser Form ab und legt sie fest.
 
 ###  Beispiel
 

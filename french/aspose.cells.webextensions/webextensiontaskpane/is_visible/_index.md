@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_visible propriété
 
-Indique si le volet Office s'affiche comme visible par défaut à l'ouverture du document.
+Indique si le volet des tâches s'affiche comme visible par défaut lorsque le document s'ouvre.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.webextensions](../../)
-* classe [WebExtensionTaskPane](/cells/python-net/fr/aspose.cells.webextensions/webextensiontaskpane)
+* module [`aspose.cells.webextensions`](../../)
+* classe [`WebExtensionTaskPane`](/cells/python-net/fr/aspose.cells.webextensions/webextensiontaskpane)

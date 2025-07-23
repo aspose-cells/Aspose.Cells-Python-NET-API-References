@@ -7,12 +7,13 @@ weight: 70
 url: /de/aspose.cells.rendering/sheetrender/to_tiff/
 is_root: false
 ---
-##  to_tiff {#io.RawIOBase}
+##  to_tiff(self, stream) {#io.RawIOBase}
 Rendern Sie das gesamte Arbeitsblatt als TIFF-Bild zum Streamen.
 
 
 
 ```python
+
 def to_tiff(self, stream):
     ...
 ```
@@ -23,12 +24,13 @@ def to_tiff(self, stream):
 | stream | io.RawIOBase | der Stream des Ausgabebildes|
 
 
-##  to_tiff {#str}
+##  to_tiff(self, filename) {#str}
 Rendern Sie das gesamte Arbeitsblatt als TIFF-Bild in eine Datei.
 
 
 
 ```python
+
 def to_tiff(self, filename):
     ...
 ```
@@ -40,7 +42,7 @@ def to_tiff(self, filename):
 
 ###  Beispiel
 
-Der folgende Code gibt alle Seiten des ersten Blatts als TIFF-Bild aus.
+Der folgende Code gibt alle Seiten des ersten Blattes als Tiff-Bild aus.
 
 ```python
 from aspose.cells import SaveFormat, Workbook

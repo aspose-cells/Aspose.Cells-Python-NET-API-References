@@ -3,13 +3,13 @@ title: max_row propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 310
+weight: 340
 url: /fr/aspose.cells/workbooksettings/max_row/
 is_root: false
 ---
 ##  max_row propriété
 
-Obtient l'index de ligne maximum, en base zéro.
+Obtient l'index de ligne maximal, basé sur zéro.
 
 ###  Remarques
 

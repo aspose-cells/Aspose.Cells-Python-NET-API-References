@@ -3,7 +3,7 @@ title: text_options Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1050
+weight: 1060
 url: /de/aspose.cells.drawing/arcshape/text_options/
 is_root: false
 ---

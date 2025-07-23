@@ -3,7 +3,7 @@ title: group Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 410
+weight: 400
 url: /de/aspose.cells.drawing/label/group/
 is_root: false
 ---

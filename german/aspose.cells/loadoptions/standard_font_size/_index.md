@@ -3,7 +3,7 @@ title: standard_font_size Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 250
+weight: 230
 url: /de/aspose.cells/loadoptions/standard_font_size/
 is_root: false
 ---
@@ -13,9 +13,9 @@ Legt die standardmäßige Standardschriftgröße fest.
 
 ###  Bemerkungen
 
-HINWEIS: Dieses Mitglied ist jetzt veraltet. Verwenden Sie stattdessen bitte DefaultStyleSettings.
- Diese Immobilie wird 12 Monate später seit März 2022 entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+HINWEIS: Dieses Element ist mittlerweile veraltet. Verwenden Sie stattdessen DefaultStyleSettings.
+ Diese Eigenschaft wird 12 Monate später (ab März 2022) entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 ###  Definition:
 ```python
 @property

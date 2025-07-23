@@ -7,8 +7,8 @@ weight: 40
 url: /de/aspose.cells/protection/verify_password/
 is_root: false
 ---
-##  verify_password(password) {#str}
-Verifiziert das Passwort.
+##  verify_password(self, password) {#str}
+Überprüft das Passwort.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Verifiziert das Passwort.
 
 
 ```python
+
 def verify_password(self, password):
     ...
 ```
@@ -29,5 +30,5 @@ def verify_password(self, password):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Protection](/cells/python-net/de/aspose.cells/protection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Protection`](/cells/python-net/de/aspose.cells/protection)

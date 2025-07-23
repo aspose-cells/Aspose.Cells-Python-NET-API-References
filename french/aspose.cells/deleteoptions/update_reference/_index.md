@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  update_reference propriété
 
-Indique si la mise à jour des références dans d'autres feuilles de calcul.
+Indique si la mise à jour fait référence à d'autres feuilles de calcul.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def update_reference(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DeleteOptions](/cells/python-net/fr/aspose.cells/deleteoptions)
+* module [`aspose.cells`](../../)
+* classe [`DeleteOptions`](/cells/python-net/fr/aspose.cells/deleteoptions)

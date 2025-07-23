@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  surface_material_type Eigentum
 
-Ruft den Materialtyp ab und legt ihn fest, der mit den Beleuchtungseigenschaften kombiniert wird, um das endgültige Erscheinungsbild einer Form zu geben.
+Ruft den Materialtyp ab und legt ihn fest, der mit den Beleuchtungseigenschaften kombiniert wird, um das endgültige Erscheinungsbild einer Form zu erzielen.
 Der Standardwert ist PresetMaterialType.WarmMatte.
 ###  Definition:
 ```python
@@ -22,6 +22,6 @@ def surface_material_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Format3D](/cells/python-net/de/aspose.cells.drawing/format3d)
-* Klasse [PresetMaterialType](/cells/python-net/de/aspose.cells.drawing/presetmaterialtype)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Format3D`](/cells/python-net/de/aspose.cells.drawing/format3d)
+* Klasse [`PresetMaterialType`](/cells/python-net/de/aspose.cells.drawing/presetmaterialtype)

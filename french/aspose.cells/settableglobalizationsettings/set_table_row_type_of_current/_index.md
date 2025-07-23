@@ -7,12 +7,13 @@ weight: 410
 url: /fr/aspose.cells/settableglobalizationsettings/set_table_row_type_of_current/
 is_root: false
 ---
-##  set_table_row_type_of_current {#str}
-Définit le nom de type des lignes du tableau composé de la ligne actuelle dans le tableau référencé.
+##  set_table_row_type_of_current(self, name) {#str}
+Définit le nom du type des lignes de table qui se composent de la ligne actuelle dans la table référencée.
 
 
 
 ```python
+
 def set_table_row_type_of_current(self, name):
     ...
 ```
@@ -20,7 +21,7 @@ def set_table_row_type_of_current(self, name):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| name | str | le nom du type des lignes du tableau|
+| name | str | le nom du type des lignes de la table|
 
 
 

@@ -21,6 +21,6 @@ def caps_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [TextCapsType](/cells/python-net/fr/aspose.cells/textcapstype)
-* classe [TextOptions](/cells/python-net/fr/aspose.cells.drawing.texts/textoptions)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`TextCapsType`](/cells/python-net/fr/aspose.cells/textcapstype)
+* classe [`TextOptions`](/cells/python-net/fr/aspose.cells.drawing.texts/textoptions)

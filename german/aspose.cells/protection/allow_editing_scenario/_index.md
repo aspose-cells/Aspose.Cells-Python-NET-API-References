@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_editing_scenario Eigentum
 
-Stellt dar, ob der Benutzer berechtigt ist, Szenarien auf einem geschützten Arbeitsblatt zu bearbeiten.
+Gibt an, ob der Benutzer Szenarien auf einem geschützten Arbeitsblatt bearbeiten darf.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_editing_scenario(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Protection](/cells/python-net/de/aspose.cells/protection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Protection`](/cells/python-net/de/aspose.cells/protection)

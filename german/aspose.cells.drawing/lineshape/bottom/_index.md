@@ -3,13 +3,13 @@ title: bottom Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 340
+weight: 350
 url: /de/aspose.cells.drawing/lineshape/bottom/
 is_root: false
 ---
 ##  bottom Eigentum
 
-Stellt die Breite des vertikalen Versatzes der Form von ihrer unteren bottom Eckreihe in Pixeleinheiten dar.
+Stellt die Breite des vertikalen Versatzes der Form von ihrer unteren Eckreihe bottom in Pixeln dar.
 
 ###  Beispiel
 

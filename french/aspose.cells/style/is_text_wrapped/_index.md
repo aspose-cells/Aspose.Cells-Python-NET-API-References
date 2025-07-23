@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_text_wrapped propriété
 
-Obtient ou définit une valeur indiquant si le texte dans une cellule est renvoyé à la ligne.
+Obtient ou définit une valeur indiquant si le texte dans une cellule est enveloppé.
 ###  Définition:
 ```python
 @property

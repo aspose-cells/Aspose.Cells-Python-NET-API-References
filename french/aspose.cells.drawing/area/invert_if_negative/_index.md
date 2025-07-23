@@ -58,5 +58,5 @@ def invert_if_negative(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Area](/cells/python-net/fr/aspose.cells.drawing/area)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Area`](/cells/python-net/fr/aspose.cells.drawing/area)

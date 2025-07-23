@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  html_text Eigentum
 
-Ruft die HTML-Zeichenfolge ab, die Daten und einige Formate in diesem Textfeld enthält, und legt diese fest.
+Ruft die HTML-Zeichenfolge ab und legt sie fest, die Daten und einige Formate in diesem Textfeld enthält.
 
 ###  Beispiel
 

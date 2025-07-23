@@ -3,16 +3,11 @@ title: odc_file Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 160
+weight: 190
 url: /de/aspose.cells.externalconnections/dbconnection/odc_file/
 is_root: false
 ---
 ##  odc_file Eigentum
-
- Gibt den vollständigen Pfad zur externen Verbindungsdatei an, von der diese Verbindung stammt
- erstellt. Wenn eine Verbindung beim Versuch, Daten zu aktualisieren, fehlschlägt und reconnectionMethod=1,
- dann versucht die Tabellenkalkulationsanwendung erneut, Informationen aus der externen Verbindungsdatei zu verwenden
-anstelle des in die Arbeitsmappe eingebetteten Verbindungsobjekts.
 ###  Definition:
 ```python
 @property
@@ -24,5 +19,5 @@ def odc_file(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.externalconnections](../../)
-* Klasse [DBConnection](/cells/python-net/de/aspose.cells.externalconnections/dbconnection)
+* Modul [`aspose.cells.externalconnections`](../../)
+* Klasse [`DBConnection`](/cells/python-net/de/aspose.cells.externalconnections/dbconnection)

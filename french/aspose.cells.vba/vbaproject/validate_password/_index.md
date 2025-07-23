@@ -1,5 +1,5 @@
 ---
-title: validate_password méthode
+title: méthode validate_password
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 50
 url: /fr/aspose.cells.vba/vbaproject/validate_password/
 is_root: false
 ---
-##  validate_password(password) {#str}
+##  validate_password(self, password) {#str}
 Valide le mot de passe de protection.
 
 
@@ -17,6 +17,7 @@ Si le mot de passe est le mot de passe de protection de ce projet VBA
 
 
 ```python
+
 def validate_password(self, password):
     ...
 ```
@@ -29,5 +30,5 @@ def validate_password(self, password):
 
 
 ###  Voir également
-* module [aspose.cells.vba](../../)
-* classe [VbaProject](/cells/python-net/fr/aspose.cells.vba/vbaproject)
+* module [`aspose.cells.vba`](../../)
+* classe [`VbaProject`](/cells/python-net/fr/aspose.cells.vba/vbaproject)

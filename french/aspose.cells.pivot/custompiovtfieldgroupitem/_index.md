@@ -8,7 +8,7 @@ url: /fr/aspose.cells.pivot/custompiovtfieldgroupitem/
 is_root: false
 ---
 ##  CustomPiovtFieldGroupItem classe
-Représente un élément de champ groupé personnalisé.
+Représente un élément d'un champ groupé personnalisé.
 
 
 
@@ -17,7 +17,7 @@ Le type CustomPiovtFieldGroupItem expose les membres suivants :
 ###  Constructeurs
 | Constructeur| Description|
 | :- | :- |
-| [__init__](/cells/python-net/fr/aspose.cells.pivot/custompiovtfieldgroupitem/__init__/#str-list) | Le constructeur de l'élément de groupe personnalisé du champ pivot.|
+| [`__init__(self, name, item_indexes)`](/cells/python-net/fr/aspose.cells.pivot/custompiovtfieldgroupitem/__init__/#str-list) | Le constructeur de l'élément de groupe personnalisé du champ pivot.|
 
 
 

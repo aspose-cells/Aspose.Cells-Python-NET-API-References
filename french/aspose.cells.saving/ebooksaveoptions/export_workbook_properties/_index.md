@@ -3,14 +3,14 @@ title: export_workbook_properties propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 370
+weight: 430
 url: /fr/aspose.cells.saving/ebooksaveoptions/export_workbook_properties/
 is_root: false
 ---
 ##  export_workbook_properties propriété
 
- Indique si l'exportation des propriétés du classeur. La valeur par défaut est true. Si vous souhaitez importer
-le fichier html ou mht vers Excel, veuillez conserver la valeur par défaut.
+ Indique si les propriétés du classeur doivent être exportées. La valeur par défaut est true. Si vous souhaitez importer
+le fichier html ou mht vers excel, veuillez conserver la valeur par défaut.
 ###  Définition:
 ```python
 @property

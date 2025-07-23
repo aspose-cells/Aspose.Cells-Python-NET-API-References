@@ -9,10 +9,10 @@ is_root: false
 ---
 ##  skip_error_value propriété
 
-Indique si la valeur non valide est ignorée pour la colonne.
- Par exemple, si le type de colonne est décimal, la valeur est supérieure à decimal.MaxValue
+Indique si la valeur non valide doit être ignorée pour la colonne.
+ Par exemple, si le type de colonne est décimal, la valeur est supérieure à décimal.MaxValue
 et cette propriété est vraie, nous ne lancerons plus d'exception.
-La valeur par défaut est fausse.
+La valeur par défaut est false.
 ###  Définition:
 ```python
 @property

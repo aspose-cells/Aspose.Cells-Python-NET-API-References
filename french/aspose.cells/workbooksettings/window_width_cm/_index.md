@@ -3,13 +3,13 @@ title: window_width_cm propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 620
+weight: 630
 url: /fr/aspose.cells/workbooksettings/window_width_cm/
 is_root: false
 ---
 ##  window_width_cm propriété
 
-La largeur de la fenêtre, en unité de centimètre.
+La largeur de la fenêtre, en centimètre.
 ###  Définition:
 ```python
 @property

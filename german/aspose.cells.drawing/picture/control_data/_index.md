@@ -3,13 +3,13 @@ title: control_data Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 370
+weight: 380
 url: /de/aspose.cells.drawing/picture/control_data/
 is_root: false
 ---
 ##  control_data Eigentum
 
-Ruft die Kontrolldaten ab.
+Ruft die Daten der Steuerung ab.
 
 ###  Beispiel
 

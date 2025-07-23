@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  copy_invalid_formulas_as_values Eigentum
 
-Wenn die Formel für das Ziel nicht gültig ist, kopieren Sie nur Werte.
+Wenn die Formel für das Ziel nicht gültig ist, kopieren Sie nur die Werte.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def copy_invalid_formulas_as_values(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CopyOptions](/cells/python-net/de/aspose.cells/copyoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CopyOptions`](/cells/python-net/de/aspose.cells/copyoptions)

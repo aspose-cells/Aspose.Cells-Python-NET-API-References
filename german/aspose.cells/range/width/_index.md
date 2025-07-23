@@ -3,13 +3,13 @@ title: width Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 430
+weight: 530
 url: /de/aspose.cells/range/width/
 is_root: false
 ---
 ##  width Eigentum
 
-Ruft den Wert width eines Bereichs in Punkten ab.
+Ruft den width eines Bereichs in Punkten ab.
 ###  Definition:
 ```python
 @property

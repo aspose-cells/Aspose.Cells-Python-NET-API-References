@@ -21,5 +21,5 @@ def width(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [AxisBins](/cells/python-net/de/aspose.cells.charts/axisbins)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`AxisBins`](/cells/python-net/de/aspose.cells.charts/axisbins)

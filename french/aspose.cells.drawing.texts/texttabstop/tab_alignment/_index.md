@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  tab_alignment propriété
 
-Spécifie l'alignement à appliquer au texte à l'aide de ce taquet de tabulation.
+Spécifie l'alignement à appliquer au texte à l'aide de cette tabulation.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def tab_alignment(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [TextTabAlignmentType](/cells/python-net/fr/aspose.cells.drawing.texts/texttabalignmenttype)
-* classe [TextTabStop](/cells/python-net/fr/aspose.cells.drawing.texts/texttabstop)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`TextTabAlignmentType`](/cells/python-net/fr/aspose.cells.drawing.texts/texttabalignmenttype)
+* classe [`TextTabStop`](/cells/python-net/fr/aspose.cells.drawing.texts/texttabstop)

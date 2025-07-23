@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fade_direction propriété
 
-Obtient et définit la direction pour compenser la réflexion.
+Obtient et définit la direction pour décaler la réflexion.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def fade_direction(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ReflectionEffect](/cells/python-net/fr/aspose.cells.drawing/reflectioneffect)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ReflectionEffect`](/cells/python-net/fr/aspose.cells.drawing/reflectioneffect)

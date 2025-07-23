@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_column propriété
 
-Obtient l'index de colonne de fin de ce saut de page horizontal.
+Obtient l'index de la colonne de fin de ce saut de page horizontal.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def end_column(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [HorizontalPageBreak](/cells/python-net/fr/aspose.cells/horizontalpagebreak)
+* module [`aspose.cells`](../../)
+* classe [`HorizontalPageBreak`](/cells/python-net/fr/aspose.cells/horizontalpagebreak)

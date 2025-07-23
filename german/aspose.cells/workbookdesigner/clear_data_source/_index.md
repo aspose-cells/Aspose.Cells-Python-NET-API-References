@@ -7,12 +7,13 @@ weight: 20
 url: /de/aspose.cells/workbookdesigner/clear_data_source/
 is_root: false
 ---
-##  clear_data_source() {#}
+##  clear_data_source(self) {#}
 Löscht alle Datenquellen.
 
 
 
 ```python
+
 def clear_data_source(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear_data_source(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [WorkbookDesigner](/cells/python-net/de/aspose.cells/workbookdesigner)
+* Modul [`aspose.cells`](../../)
+* Klasse [`WorkbookDesigner`](/cells/python-net/de/aspose.cells/workbookdesigner)

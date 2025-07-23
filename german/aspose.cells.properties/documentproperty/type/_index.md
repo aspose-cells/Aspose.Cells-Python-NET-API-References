@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type Eigentum
 
-Ruft die Daten type der Eigenschaft ab.
+Ruft die Daten type der Immobilie ab.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.properties](../../)
-* Klasse [DocumentProperty](/cells/python-net/de/aspose.cells.properties/documentproperty)
-* Klasse [PropertyType](/cells/python-net/de/aspose.cells.properties/propertytype)
+* Modul [`aspose.cells.properties`](../../)
+* Klasse [`DocumentProperty`](/cells/python-net/de/aspose.cells.properties/documentproperty)
+* Klasse [`PropertyType`](/cells/python-net/de/aspose.cells.properties/propertytype)

@@ -18,5 +18,5 @@ def is_link(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.ods](../../)
-* Klasse [OdsPageBackground](/cells/python-net/de/aspose.cells.ods/odspagebackground)
+* Modul [`aspose.cells.ods`](../../)
+* Klasse [`OdsPageBackground`](/cells/python-net/de/aspose.cells.ods/odspagebackground)

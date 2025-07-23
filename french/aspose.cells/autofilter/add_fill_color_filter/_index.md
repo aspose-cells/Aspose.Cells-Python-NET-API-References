@@ -1,5 +1,5 @@
 ---
-title: add_fill_color_filter méthode
+title: méthode add_fill_color_filter
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 30
 url: /fr/aspose.cells/autofilter/add_fill_color_filter/
 is_root: false
 ---
-##  add_fill_color_filter(field_index, pattern, foreground_color, background_color) {#int-BackgroundType-CellsColor-CellsColor}
+##  add_fill_color_filter(self, field_index, pattern, foreground_color, background_color) {#int-aspose.cells.BackgroundType-aspose.cells.CellsColor-aspose.cells.CellsColor}
 Ajoute un filtre de couleur de remplissage.
 
 
 
 ```python
+
 def add_fill_color_filter(self, field_index, pattern, foreground_color, background_color):
     ...
 ```
@@ -20,13 +21,13 @@ def add_fill_color_filter(self, field_index, pattern, foreground_color, backgrou
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| field_index | int | Le décalage entier du champ sur lequel vous souhaitez baser le filtre<br/> (à partir de la gauche de la liste ; le champ le plus à gauche est le champ 0).|
-| pattern | [BackgroundType](/cells/python-net/fr/aspose.cells/backgroundtype) | Le type de motif d'arrière-plan.|
-| foreground_color | [CellsColor](/cells/python-net/fr/aspose.cells/cellscolor) | La couleur de premier plan.|
-| background_color | [CellsColor](/cells/python-net/fr/aspose.cells/cellscolor) | La couleur de fond.|
+| field_index | int | Le décalage entier du champ sur lequel vous souhaitez baser le filtre<br/> (à partir de la gauche de la liste ; le champ le plus à gauche est le champ 0).|
+| pattern | [`BackgroundType`](/cells/python-net/fr/aspose.cells/backgroundtype) | Le type de motif d'arrière-plan.|
+| foreground_color | [`CellsColor`](/cells/python-net/fr/aspose.cells/cellscolor) | La couleur de premier plan.|
+| background_color | [`CellsColor`](/cells/python-net/fr/aspose.cells/cellscolor) | La couleur d'arrière-plan.|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [AutoFilter](/cells/python-net/fr/aspose.cells/autofilter)
+* module [`aspose.cells`](../../)
+* classe [`AutoFilter`](/cells/python-net/fr/aspose.cells/autofilter)

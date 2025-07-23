@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  date_format Eigentum
 
-Ruft die Datumsformatzeichenfolge für Zellen mit importierten datetime-Werten ab oder legt diese fest.
+Ruft die Datumsformatzeichenfolge für Zellen mit importierten Datums-/Uhrzeitwerten ab oder legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def date_format(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ImportTableOptions](/cells/python-net/de/aspose.cells/importtableoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ImportTableOptions`](/cells/python-net/de/aspose.cells/importtableoptions)

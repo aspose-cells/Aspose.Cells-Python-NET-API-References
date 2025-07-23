@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  left_crop propriété
 
-Représente l’emplacement de la gauche du rectangle de recadrage exprimé, exprimé sous forme de rapport à la largeur de l’image.
+Représente l'emplacement de la gauche du rectangle de recadrage exprimé, exprimé sous forme de rapport à la largeur de l'image.
 ###  Définition:
 ```python
 @property

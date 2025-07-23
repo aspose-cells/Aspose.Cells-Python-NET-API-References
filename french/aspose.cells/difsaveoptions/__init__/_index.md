@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells/difsaveoptions/__init__/
 is_root: false
 ---
-##  DifSaveOptions() {#}
-Crée les options d'enregistrement du fichier DIF.
+##  \_\_init\_\_(self){#}
+Crée les options pour enregistrer le fichier DIF.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DifSaveOptions](/cells/python-net/fr/aspose.cells/difsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`DifSaveOptions`](/cells/python-net/fr/aspose.cells/difsaveoptions)

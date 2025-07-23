@@ -3,13 +3,13 @@ title: class_identifier Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 360
+weight: 370
 url: /de/aspose.cells.drawing/oleobject/class_identifier/
 is_root: false
 ---
 ##  class_identifier Eigentum
 
- Ruft den Klassenbezeichner des eingebetteten Objekts ab und legt ihn fest.
+ Ruft die Klassenkennung des eingebetteten Objekts ab und legt sie fest.
 Es bedeutet, welche Anwendung die eingebettete Datei öffnet.
 ###  Definition:
 ```python

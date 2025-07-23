@@ -3,7 +3,7 @@ title: is_filled Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 540
+weight: 550
 url: /de/aspose.cells.drawing/groupbox/is_filled/
 is_root: false
 ---

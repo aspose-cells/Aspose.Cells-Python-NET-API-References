@@ -3,13 +3,13 @@ title: subtotals Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 120
+weight: 130
 url: /de/aspose.cells.charts/serieslayoutproperties/subtotals/
 is_root: false
 ---
 ##  subtotals Eigentum
 
-Repräsentiert den Index eines Zwischensummendatenpunkts.
+Stellt den Index eines Zwischensummen-Datenpunkts dar.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def subtotals(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [SeriesLayoutProperties](/cells/python-net/de/aspose.cells.charts/serieslayoutproperties)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`SeriesLayoutProperties`](/cells/python-net/de/aspose.cells.charts/serieslayoutproperties)

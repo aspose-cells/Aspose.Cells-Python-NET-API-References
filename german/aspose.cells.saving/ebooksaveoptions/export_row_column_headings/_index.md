@@ -3,7 +3,7 @@ title: export_row_column_headings Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 340
+weight: 400
 url: /de/aspose.cells.saving/ebooksaveoptions/export_row_column_headings/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Gibt an, ob die Zeilen- und Spaltenüberschriften des Blatts beim Speichern in H
 
 ###  Bemerkungen
 
-Der Standardwert ist false.
+Der Standardwert ist „false“.
 ###  Definition:
 ```python
 @property

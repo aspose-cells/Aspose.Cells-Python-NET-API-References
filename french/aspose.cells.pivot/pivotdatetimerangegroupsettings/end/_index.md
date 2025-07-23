@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end propriété
 
-Obtient la date/heure end du groupe.
+Obtient la date et l'heure end du groupe.
 ###  Définition:
 ```python
 @property

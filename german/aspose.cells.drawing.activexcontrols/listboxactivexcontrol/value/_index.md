@@ -13,7 +13,7 @@ Ruft die value des Steuerelements ab und legt sie fest.
 
 ###  Bemerkungen
 
-Wirkt sich nur aus, wenn [ListBoxActiveXControl.selection_type](/cells/python-net/de/aspose.cells.drawing.activexcontrols/listboxactivexcontrol#selection_type) SelectionType.Single ist;
+Wirkt sich nur aus, wenn [`ListBoxActiveXControl.selection_type`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/listboxactivexcontrol#selection_type) SelectionType.Single ist;
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def value(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [ListBoxActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`ListBoxActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

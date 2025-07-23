@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_settings Eigentum
 
-Die Rich-Format-Einstellungen für den ersetzten Text.
+Die reichhaltig formatierten Einstellungen für den ersetzten Text.
 ###  Definition:
 ```python
 @property

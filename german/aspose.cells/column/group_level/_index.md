@@ -9,14 +9,17 @@ is_root: false
 ---
 ##  group_level Eigentum
 
-Ruft die Gruppenebene der Spalte ab.
+Ruft die Gruppierungsebene der Spalte ab.
 ###  Definition:
 ```python
 @property
 def group_level(self):
     ...
+@group_level.setter
+def group_level(self, value):
+    ...
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Column](/cells/python-net/de/aspose.cells/column)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Column`](/cells/python-net/de/aspose.cells/column)

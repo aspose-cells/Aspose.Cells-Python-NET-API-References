@@ -7,12 +7,13 @@ weight: 300
 url: /de/aspose.cells/settableglobalizationsettings/set_column_separator_of_formula_array/
 is_root: false
 ---
-##  set_column_separator_of_formula_array {#char}
+##  set_column_separator_of_formula_array(self, c) {#char}
 Legt das Trennzeichen für die Elemente in den Zeilendaten des Arrays in der Formel fest.
 
 
 
 ```python
+
 def set_column_separator_of_formula_array(self, c):
     ...
 ```

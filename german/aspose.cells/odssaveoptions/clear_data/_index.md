@@ -3,13 +3,13 @@ title: clear_data Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 40
+weight: 50
 url: /de/aspose.cells/odssaveoptions/clear_data/
 is_root: false
 ---
 ##  clear_data Eigentum
 
-Machen Sie die Arbeitsmappe nach dem Speichern der Datei leer.
+Leeren Sie die Arbeitsmappe, nachdem Sie die Datei gespeichert haben.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def clear_data(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [OdsSaveOptions](/cells/python-net/de/aspose.cells/odssaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`OdsSaveOptions`](/cells/python-net/de/aspose.cells/odssaveoptions)

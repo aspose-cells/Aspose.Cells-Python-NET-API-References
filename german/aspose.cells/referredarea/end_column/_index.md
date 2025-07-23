@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_column Eigentum
 
-Die letzte Spalte des Bereichs.
+Die Endspalte des Bereichs.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def end_column(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ReferredArea](/cells/python-net/de/aspose.cells/referredarea)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ReferredArea`](/cells/python-net/de/aspose.cells/referredarea)

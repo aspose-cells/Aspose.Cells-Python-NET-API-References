@@ -3,7 +3,7 @@ title: show_table_style_last_column Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 230
+weight: 240
 url: /de/aspose.cells.tables/listobject/show_table_style_last_column/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_table_style_last_column(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.tables](../../)
-* Klasse [ListObject](/cells/python-net/de/aspose.cells.tables/listobject)
+* Modul [`aspose.cells.tables`](../../)
+* Klasse [`ListObject`](/cells/python-net/de/aspose.cells.tables/listobject)

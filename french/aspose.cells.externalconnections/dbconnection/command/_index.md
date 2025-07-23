@@ -3,7 +3,7 @@ title: command propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 40
+weight: 50
 url: /fr/aspose.cells.externalconnections/dbconnection/command/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def command(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.externalconnections](../../)
-* classe [DBConnection](/cells/python-net/fr/aspose.cells.externalconnections/dbconnection)
+* module [`aspose.cells.externalconnections`](../../)
+* classe [`DBConnection`](/cells/python-net/fr/aspose.cells.externalconnections/dbconnection)

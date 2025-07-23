@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  has_series_lines Eigentum
 
-True, wenn ein gestapeltes Säulendiagramm oder Balkendiagramm Reihenlinien aufweist oder
- wenn ein Kreisdiagramm oder Kreisdiagramm Verbindungslinien zwischen den beiden Abschnitten aufweist.
+Wahr, wenn ein gestapeltes Säulen- oder Balkendiagramm Reihenlinien hat oder
+ wenn ein Kreis-aus-Kreis-Diagramm oder ein Balken-aus-Kreis-Diagramm Verbindungslinien zwischen den beiden Abschnitten hat.
 Gilt nur für gestapelte Säulendiagramme, Balkendiagramme, Kreisdiagramme oder Balkendiagramme.
 ###  Definition:
 ```python

@@ -8,7 +8,7 @@ url: /de/aspose.cells.ods/odscellfieldtype/
 is_root: false
 ---
 ##  OdsCellFieldType Aufzählung
-Repräsentiert den Zellenfeldtyp von ods.
+Stellt den Zellenfeldtyp von ODS dar.
 
 
 
@@ -18,10 +18,10 @@ Der Typ OdsCellFieldType macht die folgenden Member verfügbar:
 | Feld| Beschreibung|
 | :- | :- |
 | DATE | Aktuelles Datum.|
-| SHEET_NAME | Der Name des Blatts.|
+| SHEET_NAME | Der Name des Blattes.|
 | TITLE | Der Name der Datei.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.ods](..)
+* Modul [`aspose.cells.ods`](..)

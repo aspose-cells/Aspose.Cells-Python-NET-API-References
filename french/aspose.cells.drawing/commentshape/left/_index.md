@@ -3,7 +3,7 @@ title: left propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 680
+weight: 690
 url: /fr/aspose.cells.drawing/commentshape/left/
 is_root: false
 ---

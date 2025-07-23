@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_name Eigentum
 
-Die Einstellung für den Schriftartnamen wird angewendet.
+Die Einstellung für den Schriftnamen wird angewendet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [StyleFlag](/cells/python-net/de/aspose.cells/styleflag)
+* Modul [`aspose.cells`](../../)
+* Klasse [`StyleFlag`](/cells/python-net/de/aspose.cells/styleflag)

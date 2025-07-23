@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_inserting_column propriété
 
-Représente si l'insertion de colonnes est autorisée sur une feuille de calcul protégée
+Indique si l'insertion de colonnes est autorisée sur une feuille de calcul protégée
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_inserting_column(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Protection](/cells/python-net/fr/aspose.cells/protection)
+* module [`aspose.cells`](../../)
+* classe [`Protection`](/cells/python-net/fr/aspose.cells/protection)

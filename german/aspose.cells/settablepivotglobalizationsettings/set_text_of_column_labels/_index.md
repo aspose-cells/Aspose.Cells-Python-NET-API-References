@@ -3,16 +3,17 @@ title: set_text_of_column_labels Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 240
+weight: 250
 url: /de/aspose.cells/settablepivotglobalizationsettings/set_text_of_column_labels/
 is_root: false
 ---
-##  set_text_of_column_labels {#str}
+##  set_text_of_column_labels(self, text) {#str}
 Ruft den Text der Beschriftung „Spaltenbeschriftungen“ in der PivotTable ab.
 
 
 
 ```python
+
 def set_text_of_column_labels(self, text):
     ...
 ```

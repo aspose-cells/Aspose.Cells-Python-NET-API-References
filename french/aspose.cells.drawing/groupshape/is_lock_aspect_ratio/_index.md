@@ -3,13 +3,20 @@ title: is_lock_aspect_ratio propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 620
+weight: 630
 url: /fr/aspose.cells.drawing/groupshape/is_lock_aspect_ratio/
 is_root: false
 ---
 ##  is_lock_aspect_ratio propriété
 
-Vrai signifie que cela n'autorise pas les changements de rapport hauteur/largeur.
+Vrai signifie que le rapport hauteur/largeur de la forme est verrouillé.
+
+###  Remarques
+
+Uniquement pour les images et les objets anciens.
+ REMARQUE : Ce membre est désormais obsolète. Utilisez plutôt la propriété Shape.IsAspectRatioLocked.
+ Cette propriété sera supprimée 12 mois plus tard soit juillet 2024.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 
 ###  Exemple
 

@@ -10,8 +10,8 @@ is_root: false
 ##  type propriété
 
 Type de paramètre utilisé.
- Si le type de paramètre=valeur, alors la valeur parmi booléen, double, entier,
- ou une chaîne sera utilisée. Dans ce cas, on s'attend à ce qu'un seul des
+ Si le paramètreType=valeur, alors la valeur est booléenne, double, entière,
+ ou une chaîne sera utilisée. Dans ce cas, on s'attend à ce qu'une seule des
 {booléen, double, entier ou chaîne} sera spécifié.
 ###  Définition:
 ```python
@@ -24,6 +24,6 @@ def type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.externalconnections](../../)
-* classe [ConnectionParameter](/cells/python-net/fr/aspose.cells.externalconnections/connectionparameter)
-* classe [ConnectionParameterType](/cells/python-net/fr/aspose.cells.externalconnections/connectionparametertype)
+* module [`aspose.cells.externalconnections`](../../)
+* classe [`ConnectionParameter`](/cells/python-net/fr/aspose.cells.externalconnections/connectionparameter)
+* classe [`ConnectionParameterType`](/cells/python-net/fr/aspose.cells.externalconnections/connectionparametertype)

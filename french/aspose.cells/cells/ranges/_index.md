@@ -3,13 +3,13 @@ title: ranges propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1220
+weight: 1250
 url: /fr/aspose.cells/cells/ranges/
 is_root: false
 ---
 ##  ranges propriété
 
-Obtient la collection d’objets [`Range`](/cells/python-net/fr/aspose.cells/range) créés au moment de l’exécution.
+Obtient la collection de [`Range`](/cells/python-net/fr/aspose.cells/range) objets créés au moment de l'exécution.
 ###  Définition:
 ```python
 @property

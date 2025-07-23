@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  id Eigentum
 
-Ruft den Bezeichner für diese Signaturzeile ab oder legt ihn fest.
+Ruft die Kennung für diese Signaturzeile ab oder legt sie fest.
 
 ###  Beispiel
 
@@ -33,5 +33,5 @@ def id(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [SignatureLine](/cells/python-net/de/aspose.cells.drawing/signatureline)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`SignatureLine`](/cells/python-net/de/aspose.cells.drawing/signatureline)

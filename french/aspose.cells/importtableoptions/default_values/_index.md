@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  default_values propriété
 
-La valeur par défaut pour la valeur dans la table est nulle.
+La valeur par défaut de la valeur dans le tableau est null.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def default_values(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ImportTableOptions](/cells/python-net/fr/aspose.cells/importtableoptions)
+* module [`aspose.cells`](../../)
+* classe [`ImportTableOptions`](/cells/python-net/fr/aspose.cells/importtableoptions)

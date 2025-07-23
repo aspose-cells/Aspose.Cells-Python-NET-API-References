@@ -19,7 +19,7 @@ Der Typ CommentTitleType macht die folgenden Member verfügbar:
 | :- | :- |
 | CELL | Stellt die Kommentartitelzelle dar.|
 | COMMENT | Stellt den Kommentartitelkommentar dar.|
-| NOTE | Stellt die Titelnotiz des Kommentars dar.|
+| NOTE | Stellt die Notiz zum Kommentartitel dar.|
 | REPLY | Stellt die Antwort auf den Kommentartitel dar.|
 
 

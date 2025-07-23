@@ -3,7 +3,7 @@ title: macro_name Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 800
+weight: 810
 url: /de/aspose.cells.drawing/combobox/macro_name/
 is_root: false
 ---

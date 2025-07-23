@@ -3,7 +3,7 @@ title: glow Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 410
+weight: 400
 url: /de/aspose.cells.drawing/spinner/glow/
 is_root: false
 ---

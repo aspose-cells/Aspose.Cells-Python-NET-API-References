@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  force_full_calculation propriété
 
-Indique si calcule toutes les formules à chaque fois qu'un calcul est déclenché.
+Indique si toutes les formules sont calculées à chaque fois qu'un calcul est déclenché.
 
 ###  Remarques
 
 Cette propriété sert uniquement à enregistrer les paramètres dans le fichier de feuille de calcul résultant
-afin que d'autres applications (telles que ms excel) puissent agir en conséquence lors du chargement et de la manipulation du fichier résultant.
-Pour des raisons de performances pour la plupart des applications des utilisateurs, nous ne calculons aucune formule automatiquement dans le classeur,
+afin que d'autres applications (telles que MS Excel) puissent agir en conséquence lors du chargement et de la manipulation du fichier résultant.
+Pour des raisons de performances pour la plupart des applications des utilisateurs, nous ne calculons automatiquement aucune formule dans le classeur,
 quelle que soit la valeur définie pour cette propriété.
 ###  Définition:
 ```python
@@ -28,5 +28,5 @@ def force_full_calculation(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FormulaSettings](/cells/python-net/fr/aspose.cells/formulasettings)
+* module [`aspose.cells`](../../)
+* classe [`FormulaSettings`](/cells/python-net/fr/aspose.cells/formulasettings)

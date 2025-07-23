@@ -3,12 +3,12 @@ title: CalculationCell Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 110
+weight: 80
 url: /de/aspose.cells/calculationcell/
 is_root: false
 ---
 ##  CalculationCell Klasse
-Repräsentiert die berechnungsrelevanten Daten zu einer Zelle, die berechnet wird.
+Stellt die berechnungsrelevanten Daten zu einer Zelle dar, die berechnet wird.
 
 
 
@@ -27,15 +27,15 @@ Der Typ CalculationCell macht die folgenden Member verfügbar:
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [set_calculated_value(v)](/cells/python-net/de/aspose.cells/calculationcell/set_calculated_value/#any) | Legt den berechneten Wert für die Zelle fest.|
+| [`set_calculated_value(self, v)`](/cells/python-net/de/aspose.cells/calculationcell/set_calculated_value/#any) | Legt den berechneten Wert für die Zelle fest.|
 
 
 
 ###  Bemerkungen
 
-Alle von dieser Klasse bereitgestellten Objekte sind nur für "Lese"-Zwecke.
+Alle von dieser Klasse bereitgestellten Objekte dienen ausschließlich Lesezwecken.
 Der Benutzer sollte während des Formelberechnungsprozesses keine Daten in der Arbeitsmappe ändern.
-Andernfalls kann es zu einem unerwarteten Ergebnis oder einer Ausnahme kommen.
+Andernfalls kann es zu unerwarteten Ergebnissen oder Ausnahmen kommen.
 
 ###  Siehe auch
-* Modul [aspose.cells](..)
+* Modul [`aspose.cells`](..)

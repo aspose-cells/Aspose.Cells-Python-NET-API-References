@@ -3,20 +3,20 @@ title: max_column_count Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 290
+weight: 270
 url: /de/aspose.cells/txtloadoptions/max_column_count/
 is_root: false
 ---
 ##  max_column_count Eigentum
 
-Die maximale Anzahl der Spalten, die für ein Blatt importiert werden sollen.
+Die maximale Anzahl der für ein Blatt zu importierenden Spalten.
 
 ###  Bemerkungen
 
-Die Spalten, die diesen Grenzwert überschreiten, werden ignoriert
-oder auf das nächste Blatt gemäß [`TxtLoadOptions.extend_to_next_sheet`](/cells/python-net/de/aspose.cells/txtloadoptions#extend_to_next_sheet) verlängert.
+Die Spalten, die dieses Limit überschreiten, werden ignoriert
+oder gemäß [`TxtLoadOptions.extend_to_next_sheet`](/cells/python-net/de/aspose.cells/txtloadoptions#extend_to_next_sheet) auf das nächste Blatt erweitert.
 Diese Zählung umfasst die Kopfspalten ([`TxtLoadOptions.header_columns_count`](/cells/python-net/de/aspose.cells/txtloadoptions#header_columns_count)).
-Der Maximalwert ist die Spaltenbeschränkung des entsprechenden Dateiformats, z. B. für eine XLSX-Datei 16384.
+Der Maximalwert entspricht der Spaltenbegrenzung des entsprechenden Dateiformats, z. B. 16384 für eine XLSX-Datei.
 Wenn diese Eigenschaft nicht angegeben wurde oder der angegebene Wert nicht positiv ist, wird auch die Höchstgrenze verwendet.
 ###  Definition:
 ```python

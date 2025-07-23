@@ -3,16 +3,17 @@ title: méthode hide_detail
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 90
+weight: 150
 url: /fr/aspose.cells.pivot/pivotfield/hide_detail/
 is_root: false
 ---
-##  hide_detail {#bool}
-Définit si les PivotItems dans un champ pivot sont des détails masqués. C'est-à-dire réduire/développer ce champ.
+##  hide_detail(self, is_hidden_detail) {#bool}
+Définit si les éléments de pivot dans un champ de pivot sont masqués en détail. Cela signifie réduire/développer ce champ.
 
 
 
 ```python
+
 def hide_detail(self, is_hidden_detail):
     ...
 ```
@@ -20,7 +21,7 @@ def hide_detail(self, is_hidden_detail):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| is_hidden_detail | bool | si les PivotItems sont masqués|
+| is_hidden_detail | bool | Masquer ou non les détails du champ pivot.|
 
 
 

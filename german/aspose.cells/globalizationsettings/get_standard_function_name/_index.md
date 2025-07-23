@@ -7,16 +7,17 @@ weight: 200
 url: /de/aspose.cells/globalizationsettings/get_standard_function_name/
 is_root: false
 ---
-##  get_standard_function_name {#str}
-Ruft den Standardfunktionsnamen entsprechend dem angegebenen, vom Gebietsschema abhängigen Funktionsnamen ab.
+##  get_standard_function_name(self, local_name) {#str}
+Ruft den Standardfunktionsnamen entsprechend dem angegebenen gebietsschemaabhängigen Funktionsnamen ab.
 
 
 ###  Kehrt zurück
 
-Standardfunktionsname (En-US-Gebietsschema).
+Standardfunktionsname (Gebietsschema en-US).
 
 
 ```python
+
 def get_standard_function_name(self, local_name):
     ...
 ```
@@ -24,7 +25,7 @@ def get_standard_function_name(self, local_name):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| local_name | str | Vom Gebietsschema abhängiger Funktionsname. Das Gebietsschema wurde durch die Arbeitsmappe angegeben, für die diese Einstellungen verwendet werden.|
+| local_name | str | Gebietsschemaabhängiger Funktionsname. Das Gebietsschema wurde durch die Arbeitsmappe angegeben, für die diese Einstellungen verwendet werden.|
 
 
 

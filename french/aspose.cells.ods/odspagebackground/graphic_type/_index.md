@@ -21,6 +21,6 @@ def graphic_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.ods](../../)
-* classe [OdsPageBackground](/cells/python-net/fr/aspose.cells.ods/odspagebackground)
-* classe [OdsPageBackgroundGraphicType](/cells/python-net/fr/aspose.cells.ods/odspagebackgroundgraphictype)
+* module [`aspose.cells.ods`](../../)
+* classe [`OdsPageBackground`](/cells/python-net/fr/aspose.cells.ods/odspagebackground)
+* classe [`OdsPageBackgroundGraphicType`](/cells/python-net/fr/aspose.cells.ods/odspagebackgroundgraphictype)

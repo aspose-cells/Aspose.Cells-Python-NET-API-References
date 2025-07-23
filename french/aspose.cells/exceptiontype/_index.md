@@ -3,12 +3,12 @@ title: ExceptionType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2090
+weight: 2010
 url: /fr/aspose.cells/exceptiontype/
 is_root: false
 ---
 ##  ExceptionType énumération
-Représente le code de type d’exception personnalisé.
+Représente le code de type d'exception personnalisé.
 
 
 
@@ -36,11 +36,15 @@ Le type ExceptionType expose les membres suivants :
 | SHEET_TYPE | Type de feuille de calcul invalide.|
 | INTERRUPTED | Le processus est interrompu.|
 | IO | Le fichier n'est pas valide.|
-| PERMISSION |Une autorisation est requise pour ouvrir ce fichier.|
+| PERMISSION | Une autorisation est requise pour ouvrir ce fichier.|
 | UNSUPPORTED_FEATURE | Fonctionnalité non prise en charge.|
 | UNSUPPORTED_STREAM | Flux non pris en charge à ouvrir.|
 | UNDISCLOSED_INFORMATION | Les fichiers contiennent des informations non divulguées.|
 | FILE_CORRUPTED | Le contenu du fichier est corrompu.|
+| DEFINED_NAME | Nom défini non valide|
+| FONT | Police invalide|
+| AUTO_FILTER | Paramètre de filtre automatique non valide.|
+| FONT_SUBSTITUTION | Type d'avertissement de substitution de police<br/>lorsqu'une police n'a pas été trouvée, ce type d'avertissement peut être obtenu.|
 
 
 

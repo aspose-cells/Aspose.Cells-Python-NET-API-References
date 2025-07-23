@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  ignore_not_printed Eigentum
 
-Ignorieren Sie die nicht gedruckten Daten, wenn Sie die Datei direkt drucken
+Ignorieren Sie die Daten, die nicht gedruckt werden, wenn Sie die Datei direkt drucken
 
 ###  Bemerkungen
 
-Nur für xlsx-Datei.
+Nur für XLSX-Dateien.
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def ignore_not_printed(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [OdsLoadOptions](/cells/python-net/de/aspose.cells/odsloadoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`OdsLoadOptions`](/cells/python-net/de/aspose.cells/odsloadoptions)

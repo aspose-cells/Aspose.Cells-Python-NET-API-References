@@ -7,12 +7,13 @@ weight: 420
 url: /de/aspose.cells/settableglobalizationsettings/set_table_row_type_of_data/
 is_root: false
 ---
-##  set_table_row_type_of_data {#str}
-Legt den Typnamen von Tabellenzeilen fest, die aus dem Datenbereich der referenzierten Tabelle bestehen.
+##  set_table_row_type_of_data(self, name) {#str}
+Legt den Typnamen der Tabellenzeilen fest, die aus dem Datenbereich der referenzierten Tabelle bestehen.
 
 
 
 ```python
+
 def set_table_row_type_of_data(self, name):
     ...
 ```
@@ -20,7 +21,7 @@ def set_table_row_type_of_data(self, name):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| name | str | der Typname von Tabellenzeilen|
+| name | str | der Typname der Tabellenzeilen|
 
 
 

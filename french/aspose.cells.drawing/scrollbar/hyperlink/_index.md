@@ -3,7 +3,7 @@ title: hyperlink propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 510
+weight: 500
 url: /fr/aspose.cells.drawing/scrollbar/hyperlink/
 is_root: false
 ---

@@ -3,11 +3,11 @@ title: get_table Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 220
+weight: 230
 url: /de/aspose.cells/cell/get_table/
 is_root: false
 ---
-##  get_table() {#}
+##  get_table(self) {#}
 Ruft die Tabelle ab, die diese Zelle enthält.
 
 
@@ -17,6 +17,7 @@ Ruft die Tabelle ab, die diese Zelle enthält.
 
 
 ```python
+
 def get_table(self):
     ...
 ```
@@ -26,6 +27,6 @@ def get_table(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cell](/cells/python-net/de/aspose.cells/cell)
-* Klasse [ListObject](/cells/python-net/de/aspose.cells.tables/listobject)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cell`](/cells/python-net/de/aspose.cells/cell)
+* Klasse [`ListObject`](/cells/python-net/de/aspose.cells.tables/listobject)

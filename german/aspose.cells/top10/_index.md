@@ -3,14 +3,14 @@ title: Top10 Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1550
+weight: 1460
 url: /de/aspose.cells/top10/
 is_root: false
 ---
 ##  Top10 Klasse
- Beschreiben Sie die bedingte Formatierungsregel Top10.
-Diese bedingte Formatierungsregel hebt Zellen hervor, deren
-Die Werte liegen je nach Angabe in der oberen N- oder unteren N-Klammer.
+ Beschreiben Sie die Regel zur bedingten Formatierung Top10.
+Diese Regel der bedingten Formatierung hebt Zellen hervor, deren
+Die Werte fallen je nach Angabe in die obere oder untere N-Klammer.
 
 
 
@@ -19,15 +19,15 @@ Der Typ Top10 macht die folgenden Member verfügbar:
 ###  Konstrukteure
 | Konstrukteur| Beschreibung|
 | :- | :- |
-| [__init__](/cells/python-net/de/aspose.cells/top10/__init__/#) | Erstellt eine neue Instanz von Top10|
+| [`__init__(self)`](/cells/python-net/de/aspose.cells/top10/__init__/#) | Erstellt eine neue Instanz von Top10|
 
 
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [is_percent](/cells/python-net/de/aspose.cells/top10/is_percent) | Rufen Sie ab oder legen Sie fest, ob eine „Top/Bottom n“-Regel eine „Top/Bottom n Prozent“-Regel ist.<br/> Der Standardwert ist falsch.|
-| [is_bottom](/cells/python-net/de/aspose.cells/top10/is_bottom) | Rufen Sie ab oder legen Sie fest, ob eine „Top/Bottom-n“-Regel eine „Bottom-n“-Regel ist.<br/> Der Standardwert ist falsch.|
-| [rank](/cells/python-net/de/aspose.cells/top10/rank) | Rufen Sie den Wert von „n“ in einer bedingten Formatierungsregel „oben/unten n“ ab oder legen Sie ihn fest.<br/>Wenn IsPercent wahr ist, muss der Wert zwischen 0 und 100 liegen.<br/>Ansonsten muss es zwischen 0 und 1000 liegen.<br/> Der Standardwert ist 10.|
+| [is_percent](/cells/python-net/de/aspose.cells/top10/is_percent) | Ermitteln oder Festlegen, ob es sich bei einer „Oberste/Unterste n“-Regel um eine „Oberste/Unterste n Prozent“-Regel handelt.<br/> Der Standardwert ist „false“.|
+| [is_bottom](/cells/python-net/de/aspose.cells/top10/is_bottom) | Ermitteln oder Festlegen, ob eine „Top/Bottom n“-Regel eine „Bottom n“-Regel ist.<br/> Der Standardwert ist „false“.|
+| [rank](/cells/python-net/de/aspose.cells/top10/rank) | Rufen Sie den Wert von „n“ in einer bedingten Formatierungsregel „oben/unten n“ ab oder legen Sie ihn fest.<br/>Wenn IsPercent wahr ist, muss der Wert zwischen 0 und 100 liegen.<br/>Andernfalls muss es zwischen 0 und 1000 liegen.<br/> Der Standardwert ist 10.|
 
 
 

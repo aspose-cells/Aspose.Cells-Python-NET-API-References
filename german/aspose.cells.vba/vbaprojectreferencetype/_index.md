@@ -8,7 +8,7 @@ url: /de/aspose.cells.vba/vbaprojectreferencetype/
 is_root: false
 ---
 ##  VbaProjectReferenceType Aufzählung
-Repräsentiert den Typ des VBA-Projektverweises.
+Stellt den Typ des VBA-Projektverweises dar.
 
 
 
@@ -24,4 +24,4 @@ Der Typ VbaProjectReferenceType macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.vba](..)
+* Modul [`aspose.cells.vba`](..)

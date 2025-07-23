@@ -3,13 +3,13 @@ title: is_group propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 690
+weight: 700
 url: /fr/aspose.cells.drawing/oleobject/is_group/
 is_root: false
 ---
 ##  is_group propriété
 
-Indique si la forme est un groupe.
+Indique si cette forme est une forme de groupe.
 
 ###  Exemple
 

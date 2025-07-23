@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_normalize_heights Eigentum
 
-Gibt an, ob die Normalisierung der Höhe auf den Textverlauf angewendet werden soll.
+Gibt an, ob die Normalisierung der Höhe auf den Textlauf angewendet werden soll.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_normalize_heights(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [TextOptions](/cells/python-net/de/aspose.cells.drawing.texts/textoptions)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`TextOptions`](/cells/python-net/de/aspose.cells.drawing.texts/textoptions)

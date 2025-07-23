@@ -3,11 +3,11 @@ title: méthode get_subtotals
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 70
+weight: 130
 url: /fr/aspose.cells.pivot/pivotfield/get_subtotals/
 is_root: false
 ---
-##  get_subtotals {#aspose.cells.pivot.PivotFieldSubtotalType}
+##  get_subtotals(self, subtotal_type) {#aspose.cells.pivot.PivotFieldSubtotalType}
 Indique si le sous-total spécifié est affiché.
 
 
@@ -17,6 +17,7 @@ Renvoie si le sous-total spécifié est affiché.
 
 
 ```python
+
 def get_subtotals(self, subtotal_type):
     ...
 ```

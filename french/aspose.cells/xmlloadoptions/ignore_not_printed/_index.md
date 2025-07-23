@@ -3,13 +3,13 @@ title: ignore_not_printed propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 110
+weight: 130
 url: /fr/aspose.cells/xmlloadoptions/ignore_not_printed/
 is_root: false
 ---
 ##  ignore_not_printed propriété
 
-Ignorer les données qui ne sont pas imprimées en cas d'impression directe du fichier
+Ignorer les données qui ne sont pas imprimées si vous imprimez directement le fichier
 
 ###  Remarques
 
@@ -25,5 +25,5 @@ def ignore_not_printed(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [XmlLoadOptions](/cells/python-net/fr/aspose.cells/xmlloadoptions)
+* module [`aspose.cells`](../../)
+* classe [`XmlLoadOptions`](/cells/python-net/fr/aspose.cells/xmlloadoptions)

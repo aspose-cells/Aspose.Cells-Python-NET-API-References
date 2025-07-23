@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [GradientStopCollection](/cells/python-net/fr/aspose.cells.drawing/gradientstopcollection)
+* module [`aspose.cells.drawing`](../../)
+* classe [`GradientStopCollection`](/cells/python-net/fr/aspose.cells.drawing/gradientstopcollection)

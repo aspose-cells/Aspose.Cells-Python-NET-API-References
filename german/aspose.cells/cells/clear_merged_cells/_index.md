@@ -7,12 +7,13 @@ weight: 120
 url: /de/aspose.cells/cells/clear_merged_cells/
 is_root: false
 ---
-##  clear_merged_cells() {#}
+##  clear_merged_cells(self) {#}
 Löscht alle zusammengeführten Bereiche.
 
 
 
 ```python
+
 def clear_merged_cells(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear_merged_cells(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

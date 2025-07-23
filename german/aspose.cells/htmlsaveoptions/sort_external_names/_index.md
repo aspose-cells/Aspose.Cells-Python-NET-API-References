@@ -3,7 +3,7 @@ title: sort_external_names Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 650
+weight: 750
 url: /de/aspose.cells/htmlsaveoptions/sort_external_names/
 is_root: false
 ---

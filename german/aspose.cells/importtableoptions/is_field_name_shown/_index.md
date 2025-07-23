@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_field_name_shown Eigentum
 
-Gibt an, ob der Feldname importiert werden soll.
+Gibt an, ob Feldname importiert werden soll.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_field_name_shown(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ImportTableOptions](/cells/python-net/de/aspose.cells/importtableoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ImportTableOptions`](/cells/python-net/de/aspose.cells/importtableoptions)

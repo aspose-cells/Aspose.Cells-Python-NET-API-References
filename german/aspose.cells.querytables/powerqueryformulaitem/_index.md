@@ -8,7 +8,7 @@ url: /de/aspose.cells.querytables/powerqueryformulaitem/
 is_root: false
 ---
 ##  PowerQueryFormulaItem Klasse
-Stellt das Element der Leistungsabfrageformel dar.
+Stellt das Element der Power Query-Formel dar.
 
 
 
@@ -18,9 +18,9 @@ Der Typ PowerQueryFormulaItem macht die folgenden Member verfügbar:
 | Eigentum| Beschreibung|
 | :- | :- |
 | [name](/cells/python-net/de/aspose.cells.querytables/powerqueryformulaitem/name) | Ruft den Namen des Elements ab.|
-| [value](/cells/python-net/de/aspose.cells.querytables/powerqueryformulaitem/value) | Ruft den Wert des Elements ab.|
+| [value](/cells/python-net/de/aspose.cells.querytables/powerqueryformulaitem/value) | Ruft den Wert des Artikels ab.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.querytables](..)
+* Modul [`aspose.cells.querytables`](..)

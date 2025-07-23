@@ -3,13 +3,13 @@ title: min propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 840
+weight: 850
 url: /fr/aspose.cells.drawing/scrollbar/min/
 is_root: false
 ---
 ##  min propriété
 
-Obtient ou définit la valeur minimale d'une barre de défilement ou d'une plage de double flèche.
+Obtient ou définit la valeur minimale d'une barre de défilement ou d'une plage de rotation.
 ###  Définition:
 ```python
 @property

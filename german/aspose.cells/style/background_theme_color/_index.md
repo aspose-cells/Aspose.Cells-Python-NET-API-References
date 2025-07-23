@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  background_theme_color Eigentum
 
-Ruft die Farbe des Hintergrundthemas ab und legt sie fest.
+Ruft die Hintergrunddesignfarbe ab und legt sie fest.
 
 ###  Bemerkungen
 
@@ -25,6 +25,6 @@ def background_theme_color(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Style](/cells/python-net/de/aspose.cells/style)
-* Klasse [ThemeColor](/cells/python-net/de/aspose.cells/themecolor)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Style`](/cells/python-net/de/aspose.cells/style)
+* Klasse [`ThemeColor`](/cells/python-net/de/aspose.cells/themecolor)

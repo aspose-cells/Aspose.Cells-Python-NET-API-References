@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  title Eigentum
 
-Ruft die title des Diagramms ab.
+Ruft die Nummer title des Diagramms ab.
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width Eigentum
 
-Ruft die width von links nach rechts in Einheiten von 1/4000 von width des Diagramms ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.
+Ruft den Wert width von links nach rechts in Einheiten von 1/4000 des Werts width des Diagramms ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def width(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Walls](/cells/python-net/de/aspose.cells.charts/walls)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Walls`](/cells/python-net/de/aspose.cells.charts/walls)

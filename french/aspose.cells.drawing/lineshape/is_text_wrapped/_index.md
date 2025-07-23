@@ -3,13 +3,13 @@ title: is_text_wrapped propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 710
+weight: 720
 url: /fr/aspose.cells.drawing/lineshape/is_text_wrapped/
 is_root: false
 ---
 ##  is_text_wrapped propriété
 
-Obtient et définit le type de texte renvoyé à la ligne de la forme qui contient le texte.
+Obtient et définit le type de texte enveloppé de la forme qui contient du texte.
 
 ###  Exemple
 

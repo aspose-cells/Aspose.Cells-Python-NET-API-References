@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  group_by Eigentum
 
-Das zu gruppierende Feld als nullbasierter ganzzahliger Offset
+Das Feld, nach dem gruppiert werden soll, als nullbasierter ganzzahliger Offset
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def group_by(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [SubtotalSetting](/cells/python-net/de/aspose.cells/subtotalsetting)
+* Modul [`aspose.cells`](../../)
+* Klasse [`SubtotalSetting`](/cells/python-net/de/aspose.cells/subtotalsetting)

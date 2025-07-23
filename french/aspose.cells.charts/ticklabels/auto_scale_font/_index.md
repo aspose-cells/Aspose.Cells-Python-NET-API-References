@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  auto_scale_font propriété
 
-True si le texte de l'objet change de taille de police lorsque la taille de l'objet change. La valeur par défaut est True.
+Cette valeur est « Vrai » si la taille de police du texte de l'objet change en fonction de la taille de l'objet. La valeur par défaut est « Vrai ».
 ###  Définition:
 ```python
 @property

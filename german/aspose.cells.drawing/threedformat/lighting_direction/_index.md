@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  lighting_direction Eigentum
 
-Ruft die Richtung ab, aus der das Licht-Rig in Bezug auf die Szene ausgerichtet ist, und legt diese fest.
+Ruft die Richtung ab und legt sie fest, in der die Lichtanlage im Verhältnis zur Szene ausgerichtet ist.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def lighting_direction(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [LightRigDirectionType](/cells/python-net/de/aspose.cells.drawing/lightrigdirectiontype)
-* Klasse [ThreeDFormat](/cells/python-net/de/aspose.cells.drawing/threedformat)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`LightRigDirectionType`](/cells/python-net/de/aspose.cells.drawing/lightrigdirectiontype)
+* Klasse [`ThreeDFormat`](/cells/python-net/de/aspose.cells.drawing/threedformat)

@@ -3,7 +3,7 @@ title: is_auto_show propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 380
+weight: 460
 url: /fr/aspose.cells.pivot/pivotfield/is_auto_show/
 is_root: false
 ---

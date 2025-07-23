@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row propriété
 
-Obtient l'index row de qui contient un commentaire.
+Obtient l'index row qui contient un commentaire.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def row(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.revisions](../../)
-* classe [RevisionCellComment](/cells/python-net/fr/aspose.cells.revisions/revisioncellcomment)
+* module [`aspose.cells.revisions`](../../)
+* classe [`RevisionCellComment`](/cells/python-net/fr/aspose.cells.revisions/revisioncellcomment)

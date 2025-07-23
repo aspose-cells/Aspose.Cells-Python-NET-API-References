@@ -3,13 +3,13 @@ title: text Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1110
+weight: 1130
 url: /de/aspose.cells.drawing/picture/text/
 is_root: false
 ---
 ##  text Eigentum
 
-Stellt die Zeichenfolge in diesem TextBox-Objekt dar.
+Ruft die text dieser Form ab und legt sie fest.
 
 ###  Beispiel
 

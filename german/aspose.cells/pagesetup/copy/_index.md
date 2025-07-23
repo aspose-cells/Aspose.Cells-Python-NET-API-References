@@ -7,12 +7,13 @@ weight: 30
 url: /de/aspose.cells/pagesetup/copy/
 is_root: false
 ---
-##  copy(source, copy_options) {#PageSetup-CopyOptions}
-Kopiert die Einstellung der Seiteneinrichtung.
+##  copy(self, source, copy_options) {#aspose.cells.PageSetup-aspose.cells.CopyOptions}
+Kopiert die Einstellungen der Seiteneinrichtung.
 
 
 
 ```python
+
 def copy(self, source, copy_options):
     ...
 ```
@@ -20,11 +21,11 @@ def copy(self, source, copy_options):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| source | [PageSetup](/cells/python-net/de/aspose.cells/pagesetup) | Die Quelle.|
-| copy_options | [CopyOptions](/cells/python-net/de/aspose.cells/copyoptions) | Die Kopieroptionen.|
+| source | [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup) |Die Quelle.|
+| copy_options | [`CopyOptions`](/cells/python-net/de/aspose.cells/copyoptions) | Die Kopieroptionen.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

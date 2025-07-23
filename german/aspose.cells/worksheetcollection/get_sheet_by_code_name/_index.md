@@ -7,7 +7,7 @@ weight: 130
 url: /de/aspose.cells/worksheetcollection/get_sheet_by_code_name/
 is_root: false
 ---
-##  get_sheet_by_code_name(code_name) {#str}
+##  get_sheet_by_code_name(self, code_name) {#str}
 Ruft das Arbeitsblatt anhand des Codenamens ab.
 
 
@@ -17,6 +17,7 @@ Das Element mit dem angegebenen Codenamen.
 
 
 ```python
+
 def get_sheet_by_code_name(self, code_name):
     ...
 ```
@@ -24,10 +25,10 @@ def get_sheet_by_code_name(self, code_name):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| code_name | str | Codename des Arbeitsblatts.|
+| code_name | str | Arbeitsblattcodename.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [WorksheetCollection](/cells/python-net/de/aspose.cells/worksheetcollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`WorksheetCollection`](/cells/python-net/de/aspose.cells/worksheetcollection)

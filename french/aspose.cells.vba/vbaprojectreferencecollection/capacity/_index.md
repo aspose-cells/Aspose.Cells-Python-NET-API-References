@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.vba](../../)
-* classe [VbaProjectReferenceCollection](/cells/python-net/fr/aspose.cells.vba/vbaprojectreferencecollection)
+* module [`aspose.cells.vba`](../../)
+* classe [`VbaProjectReferenceCollection`](/cells/python-net/fr/aspose.cells.vba/vbaprojectreferencecollection)

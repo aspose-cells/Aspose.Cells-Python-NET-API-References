@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_hf_align_margins propriété
 
-Indique si les marges d'en-tête et de pied de page sont alignées sur les marges de la page.
-Si cette propriété est vraie, l'en-tête et le pied de page de gauche seront alignés avec la marge de gauche,
+Indique si les marges d'en-tête et de pied de page sont alignées avec les marges de la page.
+Si cette propriété est vraie, l'en-tête et le pied de page gauche seront alignés avec la marge gauche,
 et l'en-tête et le pied de page de droite seront alignés avec la marge de droite.
 Cette option est activée par défaut.
 ###  Définition:
@@ -24,5 +24,5 @@ def is_hf_align_margins(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/fr/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/fr/aspose.cells/pagesetup)

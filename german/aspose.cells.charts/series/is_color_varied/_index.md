@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_color_varied Eigentum
 
- Stellt dar, ob die Farbe der Punkte variiert wird.
-Das Diagramm darf nur eine Serie enthalten.
+ Gibt an, ob die Farbe der Punkte variiert.
+Das Diagramm darf nur eine Reihe enthalten.
 ###  Definition:
 ```python
 @property

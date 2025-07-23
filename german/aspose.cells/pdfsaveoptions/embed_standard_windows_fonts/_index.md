@@ -3,17 +3,17 @@ title: embed_standard_windows_fonts Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 190
+weight: 220
 url: /de/aspose.cells/pdfsaveoptions/embed_standard_windows_fonts/
 is_root: false
 ---
 ##  embed_standard_windows_fonts Eigentum
 
-True zum Einbetten von TrueType-Schriftarten.
-Betrifft nur die ASCII-Zeichen 32-127.
+ True, um TrueType-Schriftarten einzubetten.
+Betrifft nur die ASCII-Zeichen 32–127.
 Schriftarten für Zeichencodes größer als 127 werden immer eingebettet.
-Bei PDF/A-1a, PDF/A-1b Standard sind Schriften immer eingebettet.
-Standard ist wahr.
+Schriftarten werden immer für den Standard PDF/A-1a, PDF/A-1b eingebettet.
+Der Standardwert ist „true“.
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def embed_standard_windows_fonts(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PdfSaveOptions](/cells/python-net/de/aspose.cells/pdfsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PdfSaveOptions`](/cells/python-net/de/aspose.cells/pdfsaveoptions)

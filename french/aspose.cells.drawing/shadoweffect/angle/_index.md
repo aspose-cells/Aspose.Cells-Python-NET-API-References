@@ -21,5 +21,5 @@ def angle(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ShadowEffect](/cells/python-net/fr/aspose.cells.drawing/shadoweffect)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ShadowEffect`](/cells/python-net/fr/aspose.cells.drawing/shadoweffect)

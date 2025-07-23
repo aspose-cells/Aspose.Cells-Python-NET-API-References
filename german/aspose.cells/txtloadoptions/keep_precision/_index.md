@@ -3,13 +3,13 @@ title: keep_precision Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 220
+weight: 210
 url: /de/aspose.cells/txtloadoptions/keep_precision/
 is_root: false
 ---
 ##  keep_precision Eigentum
 
-Gibt an, ob ein Zeichenfolgenwert nicht analysiert wird, wenn die Länge 15 beträgt.
+Gibt an, ob ein Zeichenfolgenwert analysiert wird, wenn die Länge 15 beträgt.
 ###  Definition:
 ```python
 @property

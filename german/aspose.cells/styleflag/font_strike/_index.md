@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_strike Eigentum
 
-Die Einstellung für das Durchstreichen der Schriftart wird angewendet.
+Die Einstellung zum Durchstreichen von Schriftarten wird angewendet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_strike(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [StyleFlag](/cells/python-net/de/aspose.cells/styleflag)
+* Modul [`aspose.cells`](../../)
+* Klasse [`StyleFlag`](/cells/python-net/de/aspose.cells/styleflag)

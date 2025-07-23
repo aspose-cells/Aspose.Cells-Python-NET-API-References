@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  integral_height propriété
 
-Indique si le contrôle n'affichera que des lignes complètes de texte sans afficher de lignes partielles.
+Indique si le contrôle affichera uniquement des lignes complètes de texte sans afficher de lignes partielles.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def integral_height(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [TextBoxActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`TextBoxActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

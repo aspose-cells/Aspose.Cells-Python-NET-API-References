@@ -7,12 +7,13 @@ weight: 290
 url: /de/aspose.cells/settableglobalizationsettings/set_boolean_value_string/
 is_root: false
 ---
-##  set_boolean_value_string {#bool-str}
-Legt den Anzeigezeichenfolgenwert für den booleschen Wert der Zelle fest
+##  set_boolean_value_string(self, bv, name) {#bool-str}
+Legt den Anzeige-Stringwert für den Booleschen Wert der Zelle fest
 
 
 
 ```python
+
 def set_boolean_value_string(self, bv, name):
     ...
 ```
@@ -20,8 +21,8 @@ def set_boolean_value_string(self, bv, name):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| bv | bool | boolescher Wert|
-| name | str | Zeichenfolgenwert des booleschen Werts|
+| bv | bool | Boolescher Wert|
+| name | str | Zeichenfolgenwert des Booleschen Werts|
 
 
 

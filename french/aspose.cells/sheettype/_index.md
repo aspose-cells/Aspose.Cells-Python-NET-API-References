@@ -3,7 +3,7 @@ title: SheetType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2550
+weight: 2520
 url: /fr/aspose.cells/sheettype/
 is_root: false
 ---
@@ -20,8 +20,8 @@ Le type SheetType expose les membres suivants :
 | VB | Module Visual Basic|
 | WORKSHEET |  |
 | CHART | Graphique|
-| BIFF4_MACRO | Feuille de macros BIFF4|
-| INTERNATIONAL_MACRO | Fiche Macro Internationale|
+| BIFF4_MACRO | Feuille de macro BIFF4|
+| INTERNATIONAL_MACRO | Fiche macro internationale|
 | OTHER |  |
 | DIALOG |Feuille de travail de dialogue|
 

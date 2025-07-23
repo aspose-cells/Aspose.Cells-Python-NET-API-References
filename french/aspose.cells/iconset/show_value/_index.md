@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  show_value propriété
 
-Obtenez ou définissez l'indicateur indiquant s'il faut afficher les valeurs des cellules sur lesquelles ce jeu d'icônes est appliqué.
-La valeur par défaut est true.
+Obtenir ou définir l'indicateur indiquant s'il faut afficher les valeurs des cellules sur lesquelles cet ensemble d'icônes est appliqué.
+La valeur par défaut est vrai.
 ###  Définition:
 ```python
 @property
@@ -22,5 +22,5 @@ def show_value(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [IconSet](/cells/python-net/fr/aspose.cells/iconset)
+* module [`aspose.cells`](../../)
+* classe [`IconSet`](/cells/python-net/fr/aspose.cells/iconset)

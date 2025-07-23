@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  interval Eigentum
 
-Ruft das Interne der Gruppe ab.
+Ruft die internen Daten der Gruppe ab.
 ###  Definition:
 ```python
 @property

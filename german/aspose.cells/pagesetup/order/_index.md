@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  order Eigentum
 
-Stellt order dar, das Microsoft Excel zum Nummerieren von Seiten beim Drucken eines großen Arbeitsblatts verwendet.
+Stellt die order dar, die Microsoft von Excel zum Nummerieren von Seiten beim Drucken eines großen Arbeitsblatts verwendet wird.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def order(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
-* Klasse [PrintOrderType](/cells/python-net/de/aspose.cells/printordertype)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)
+* Klasse [`PrintOrderType`](/cells/python-net/de/aspose.cells/printordertype)

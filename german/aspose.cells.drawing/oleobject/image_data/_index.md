@@ -3,13 +3,13 @@ title: image_data Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 600
+weight: 590
 url: /de/aspose.cells.drawing/oleobject/image_data/
 is_root: false
 ---
 ##  image_data Eigentum
 
-Stellt das Bild des alten Objekts als Byte-Array dar.
+Stellt das Bild des OLE-Objekts als Byte-Array dar.
 ###  Definition:
 ```python
 @property

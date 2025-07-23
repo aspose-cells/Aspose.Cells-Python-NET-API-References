@@ -1,5 +1,5 @@
 ---
-title: set_word_art_style méthode
+title: méthode set_word_art_style
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 20
 url: /fr/aspose.cells/fontsetting/set_word_art_style/
 is_root: false
 ---
-##  set_word_art_style(style) {#aspose.cells.drawing.PresetWordArtStyle}
+##  set_word_art_style(self, style) {#aspose.cells.drawing.PresetWordArtStyle}
 Définit le style WordArt prédéfini.
 
 
 
 ```python
+
 def set_word_art_style(self, style):
     ...
 ```
@@ -28,5 +29,5 @@ Uniquement pour le texte de la forme/du graphique.
 
 ###  Voir également
 
-* module [aspose.cells](../../)
-* classe [FontSetting](/cells/python-net/fr/aspose.cells/fontsetting)
+* module [`aspose.cells`](../../)
+* classe [`FontSetting`](/cells/python-net/fr/aspose.cells/fontsetting)

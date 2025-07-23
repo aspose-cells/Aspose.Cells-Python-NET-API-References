@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  dash_type propriété
 
-Spécifie le type de ligne pointillée
+Spécifie le type de ligne en pointillés
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def dash_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [ErrorBar](/cells/python-net/fr/aspose.cells.charts/errorbar)
-* classe [MsoLineDashStyle](/cells/python-net/fr/aspose.cells.drawing/msolinedashstyle)
+* module [`aspose.cells.charts`](../../)
+* classe [`ErrorBar`](/cells/python-net/fr/aspose.cells.charts/errorbar)
+* classe [`MsoLineDashStyle`](/cells/python-net/fr/aspose.cells.drawing/msolinedashstyle)

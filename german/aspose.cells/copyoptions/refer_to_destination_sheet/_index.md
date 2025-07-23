@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  refer_to_destination_sheet Eigentum
 
-Wenn Sie den Bereich in dieselbe Datei kopieren und das Diagramm auf das Quellblatt verweist,
-False bedeutet, dass die Datenquelle des kopierten Diagramms nicht geändert wird.
-True bedeutet, dass die Datenquelle des kopierten Diagramms auf das Zielblatt verweist.
+Wenn Sie den Bereich in die gleiche Datei kopieren und das Diagramm auf das Quellblatt verweist,
+„Falsch“ bedeutet, dass die Datenquelle des kopierten Diagramms nicht geändert wird.
+„True“ bedeutet, dass die Datenquelle des kopierten Diagramms auf das Zielblatt verweist.
 
 ###  Bemerkungen
 
-Der Standardwert ist false, es funktioniert wie MS Excel.
+Der Standardwert ist „false“, es funktioniert wie MS Excel.
 ###  Definition:
 ```python
 @property
@@ -27,5 +27,5 @@ def refer_to_destination_sheet(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CopyOptions](/cells/python-net/de/aspose.cells/copyoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CopyOptions`](/cells/python-net/de/aspose.cells/copyoptions)

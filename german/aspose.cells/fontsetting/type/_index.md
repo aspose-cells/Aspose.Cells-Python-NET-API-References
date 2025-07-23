@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type Eigentum
 
-Ruft type des Textknotens ab.
+Ruft den type des Textknotens ab.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FontSetting](/cells/python-net/de/aspose.cells/fontsetting)
-* Klasse [TextNodeType](/cells/python-net/de/aspose.cells.drawing.texts/textnodetype)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FontSetting`](/cells/python-net/de/aspose.cells/fontsetting)
+* Klasse [`TextNodeType`](/cells/python-net/de/aspose.cells.drawing.texts/textnodetype)

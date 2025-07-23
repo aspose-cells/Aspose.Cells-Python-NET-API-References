@@ -3,7 +3,7 @@ title: standard_font propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 360
+weight: 340
 url: /fr/aspose.cells/ebookloadoptions/standard_font/
 is_root: false
 ---
@@ -13,9 +13,9 @@ Définit le nom de police standard par défaut
 
 ###  Remarques
 
-REMARQUE : ce membre est désormais obsolète. Veuillez plutôt utiliser DefaultStyleSettings.
- Ce bien sera supprimé 12 mois plus tard depuis mars 2022.
-Le Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+REMARQUE : Ce membre est désormais obsolète. Veuillez plutôt utiliser DefaultStyleSettings.
+ Cette propriété sera supprimée 12 mois plus tard soit en mars 2022.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 ###  Définition:
 ```python
 @property

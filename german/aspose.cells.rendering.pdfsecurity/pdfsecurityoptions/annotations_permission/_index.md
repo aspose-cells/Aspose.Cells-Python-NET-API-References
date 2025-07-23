@@ -13,7 +13,7 @@ Gibt an, ob das Hinzufügen oder Ändern von Textanmerkungen und das Ausfüllen 
 
 ###  Bemerkungen
 
-Wenn [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/de/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) ebenfalls festgelegt ist, erstellen oder ändern Sie interaktive Formularfelder (einschließlich Signaturfelder).
+Wenn auch [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/de/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) festgelegt ist, erstellen oder ändern Sie interaktive Formularfelder (einschließlich Signaturfelder).
 ###  Definition:
 ```python
 @property

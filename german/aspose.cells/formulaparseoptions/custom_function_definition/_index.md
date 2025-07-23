@@ -13,9 +13,9 @@ Definition zum Parsen benutzerdefinierter Funktionen.
 
 ###  Bemerkungen
 
-Für einige spezielle Anforderungen, z. B. bei der Berechnung benutzerdefinierter Funktionen in der benutzerdefinierten Engine des Benutzers,
-Einige Parameter davon müssen im Array-Modus berechnet werden. Mithilfe dieser Eigenschaft können diese Parameter markiert werden
-als Array-Modus beim Parsen der Formel. Andernfalls muss der Benutzer diese benutzerdefinierten Funktionen später aktualisieren
+Für einige spezielle Anforderungen, wie zum Beispiel bei der Berechnung von benutzerdefinierten Funktionen in der benutzerdefinierten Engine des Benutzers,
+Einige Parameter müssen im Array-Modus berechnet werden. Mit dieser Eigenschaft können diese Parameter markiert werden.
+als Array-Modus beim Parsen der Formel. Andernfalls muss der Benutzer diese benutzerdefinierten Funktionen später aktualisieren, indem er
 [`Workbook.update_custom_function_definition`](/cells/python-net/de/aspose.cells/workbook/update_custom_function_definition), um das gleiche Ergebnis zu erhalten.
 ###  Definition:
 ```python

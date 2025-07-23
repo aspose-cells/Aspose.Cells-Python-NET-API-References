@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_as_icon Eigentum
 
- True, wenn das angegebene Objekt als Symbol angezeigt wird
+ Wahr, wenn das angegebene Objekt als Symbol angezeigt wird
 und das Bild wird nicht automatisch geändert.
 ###  Definition:
 ```python

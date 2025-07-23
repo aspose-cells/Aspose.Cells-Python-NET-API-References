@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  url Eigentum
 
-Ruft Quelle url dieser Datenbindung ab.
+Ruft die Quelle url dieser Datenbindung ab.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def url(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [XmlDataBinding](/cells/python-net/de/aspose.cells/xmldatabinding)
+* Modul [`aspose.cells`](../../)
+* Klasse [`XmlDataBinding`](/cells/python-net/de/aspose.cells/xmldatabinding)

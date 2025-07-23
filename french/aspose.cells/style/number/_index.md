@@ -9,18 +9,18 @@ is_root: false
 ---
 ##  number propriété
 
-Obtient ou définit le format d'affichage des nombres et des dates. Les modèles de formatage sont différents selon les régions.
+Obtient ou définit le format d'affichage des nombres et des dates. Les modèles de formatage varient selon les régions.
 
 ###  Remarques
 
 Par exemple, les modèles de formatage représentés par des nombres pour la région en_US :
-| Valeur| Taper| Formater la chaîne|
+| Valeur| Taper| Chaîne de format|
 | :- | :- | :- |
 | 0| Général|
-| 1|Décimal|
-| 2|Décimal|
-| 3|Décimal|
-| 4|Décimal|
+| 1| Décimal|
+| 2| Décimal|
+| 3| Décimal|
+| 4| Décimal|
 | 5| Devise|
 | 6| Devise|
 | 7| Devise|
@@ -28,8 +28,8 @@ Par exemple, les modèles de formatage représentés par des nombres pour la ré
 | 9| Pourcentage|
 | 10| Pourcentage|
 | 11| Scientifique|
-| 12| Fraction|
-| 13| Fraction|
+| 12|Fraction|
+| 13|Fraction|
 | 14| Date|
 | 15| Date|
 | 16| Date|

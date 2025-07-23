@@ -7,18 +7,19 @@ weight: 30
 url: /de/aspose.cells/referredarea/get_values/
 is_root: false
 ---
-##  get_values() {#}
-Ruft Zellenwerte in diesem Bereich ab.
+##  get_values(self) {#}
+Ruft Zellwerte in diesem Bereich ab.
 
 
 ###  Kehrt zurück
 
-Wenn dieser Bereich ungültig ist, wird "#REF!" Wird zurückgegeben;
-Wenn dieser Bereich eine einzelne Zelle ist, geben Sie das Zellenwertobjekt zurück;
+Wenn dieser Bereich ungültig ist, wird „#REF!“ angezeigt. Wird zurückgegeben;
+Wenn es sich bei diesem Bereich um eine einzelne Zelle handelt, wird das Zellenwertobjekt zurückgegeben.
 Andernfalls geben Sie ein 2D-Array für alle Werte in diesem Bereich zurück.
 
 
 ```python
+
 def get_values(self):
     ...
 ```
@@ -26,18 +27,19 @@ def get_values(self):
 
 
 
-##  get_values(calculate_formulas) {#bool}
-Ruft Zellenwerte in diesem Bereich ab.
+##  get_values(self, calculate_formulas) {#bool}
+Ruft Zellwerte in diesem Bereich ab.
 
 
 ###  Kehrt zurück
 
-Wenn dieser Bereich ungültig ist, wird "#REF!" Wird zurückgegeben;
-Wenn dieser Bereich eine einzelne Zelle ist, geben Sie das Zellenwertobjekt zurück;
+Wenn dieser Bereich ungültig ist, wird „#REF!“ angezeigt. Wird zurückgegeben;
+Wenn es sich bei diesem Bereich um eine einzelne Zelle handelt, wird das Zellenwertobjekt zurückgegeben.
 Andernfalls geben Sie ein 2D-Array für alle Werte in diesem Bereich zurück.
 
 
 ```python
+
 def get_values(self, calculate_formulas):
     ...
 ```
@@ -50,5 +52,5 @@ def get_values(self, calculate_formulas):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ReferredArea](/cells/python-net/de/aspose.cells/referredarea)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ReferredArea`](/cells/python-net/de/aspose.cells/referredarea)

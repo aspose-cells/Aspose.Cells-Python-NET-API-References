@@ -3,11 +3,11 @@ title: get_input_range Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 90
+weight: 110
 url: /de/aspose.cells.drawing/button/get_input_range/
 is_root: false
 ---
-##  get_input_range(is_r1c1, is_local) {#bool-bool}
+##  get_input_range(self, is_r1c1, is_local) {#bool-bool}
 Ruft den Bereich ab, der zum Füllen des Steuerelements verwendet wird.
 
 
@@ -17,6 +17,7 @@ Der zum Füllen des Steuerelements verwendete Bereich.
 
 
 ```python
+
 def get_input_range(self, is_r1c1, is_local):
     ...
 ```
@@ -38,5 +39,5 @@ range = shape.get_input_range(False, True)
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Button](/cells/python-net/de/aspose.cells.drawing/button)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Button`](/cells/python-net/de/aspose.cells.drawing/button)

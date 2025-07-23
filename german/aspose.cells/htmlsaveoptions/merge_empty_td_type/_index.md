@@ -3,13 +3,13 @@ title: merge_empty_td_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 570
+weight: 650
 url: /de/aspose.cells/htmlsaveoptions/merge_empty_td_type/
 is_root: false
 ---
 ##  merge_empty_td_type Eigentum
 
-Gibt an, ob leere TD-Elemente beim Speichern einer Excel-Datei im HTML-Format auf die gleiche Weise wie MS Excel zusammengeführt werden.
+Die Option zum Zusammenführen zusammenhängender leerer Zellen (leere td-Elemente)
 Der Standardwert ist MergeEmptyTdType.Default.
 ###  Definition:
 ```python

@@ -21,5 +21,5 @@ def font_bold(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [TextEffectFormat](/cells/python-net/de/aspose.cells.drawing/texteffectformat)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`TextEffectFormat`](/cells/python-net/de/aspose.cells.drawing/texteffectformat)

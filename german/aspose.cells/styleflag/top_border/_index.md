@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  top_border Eigentum
 
-Die Einstellungen für den oberen Rand werden angewendet.
+Die Einstellungen für den oberen Rahmen werden angewendet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def top_border(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [StyleFlag](/cells/python-net/de/aspose.cells/styleflag)
+* Modul [`aspose.cells`](../../)
+* Klasse [`StyleFlag`](/cells/python-net/de/aspose.cells/styleflag)

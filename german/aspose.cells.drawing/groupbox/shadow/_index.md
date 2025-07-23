@@ -3,13 +3,13 @@ title: shadow Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 880
+weight: 890
 url: /de/aspose.cells.drawing/groupbox/shadow/
 is_root: false
 ---
 ##  shadow Eigentum
 
-Gibt an, ob die Gruppenbox shadow hat.
+Gibt an, ob die Groupbox shadow hat.
 ###  Definition:
 ```python
 @property

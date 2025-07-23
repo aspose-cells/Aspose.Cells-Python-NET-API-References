@@ -3,12 +3,12 @@ title: DropButtonStyle Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 280
+weight: 260
 url: /de/aspose.cells.drawing.activexcontrols/dropbuttonstyle/
 is_root: false
 ---
 ##  DropButtonStyle Aufzählung
-Stellt das Symbol dar, das auf der Drop-Schaltfläche angezeigt wird.
+Stellt das auf der Drop-Schaltfläche angezeigte Symbol dar.
 
 
 
@@ -25,4 +25,4 @@ Der Typ DropButtonStyle macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](..)
+* Modul [`aspose.cells.drawing.activexcontrols`](..)

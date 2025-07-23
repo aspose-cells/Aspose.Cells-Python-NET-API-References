@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_by_category Eigentum
 
-Gibt an, ob Daten nach Kategorie gruppiert werden
+Gibt an, ob die Gruppierung von Daten nach Kategorie
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_by_category(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [AxisBins](/cells/python-net/de/aspose.cells.charts/axisbins)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`AxisBins`](/cells/python-net/de/aspose.cells.charts/axisbins)

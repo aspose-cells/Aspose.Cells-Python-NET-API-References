@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  keep_precision propriété
 
-Indique si une valeur de chaîne n'est pas analysée si la longueur est de 15.
+Indique s'il ne faut pas analyser une valeur de chaîne si la longueur est de 15.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def keep_precision(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [AbstractTextLoadOptions](/cells/python-net/fr/aspose.cells/abstracttextloadoptions)
+* module [`aspose.cells`](../../)
+* classe [`AbstractTextLoadOptions`](/cells/python-net/fr/aspose.cells/abstracttextloadoptions)

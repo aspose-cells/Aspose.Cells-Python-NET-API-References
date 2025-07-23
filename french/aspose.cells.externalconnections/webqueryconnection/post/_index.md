@@ -3,7 +3,7 @@ title: post propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 280
+weight: 330
 url: /fr/aspose.cells.externalconnections/webqueryconnection/post/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def post(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.externalconnections](../../)
-* classe [WebQueryConnection](/cells/python-net/fr/aspose.cells.externalconnections/webqueryconnection)
+* module [`aspose.cells.externalconnections`](../../)
+* classe [`WebQueryConnection`](/cells/python-net/fr/aspose.cells.externalconnections/webqueryconnection)

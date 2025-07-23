@@ -3,16 +3,17 @@ title: copy_data Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 60
+weight: 110
 url: /de/aspose.cells/range/copy_data/
 is_root: false
 ---
-##  copy_data {#aspose.cells.Range}
-Kopiert Zelldaten (einschließlich Formeln) aus einem Quellbereich.
+##  copy_data(self, range) {#aspose.cells.Range}
+Kopiert Zellendaten (einschließlich Formeln) aus einem Quellbereich.
 
 
 
 ```python
+
 def copy_data(self, range):
     ...
 ```
@@ -20,7 +21,7 @@ def copy_data(self, range):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/de/aspose.cells/range) |Quelle [`Range`](/cells/python-net/de/aspose.cells/range) Objekt.|
+| range | [`Range`](/cells/python-net/de/aspose.cells/range) | Quellobjekt [`Range`](/cells/python-net/de/aspose.cells/range).|
 
 
 

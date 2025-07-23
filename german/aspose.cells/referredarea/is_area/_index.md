@@ -13,7 +13,7 @@ Gibt an, ob es sich um einen Bereich handelt.
 
 ###  Bemerkungen
 
-Wenn dies kein Bereich ist, wirken nur StartRow und StartColumn.
+Wenn es sich nicht um einen Bereich handelt, wirken sich nur StartRow und StartColumn aus.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_area(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ReferredArea](/cells/python-net/de/aspose.cells/referredarea)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ReferredArea`](/cells/python-net/de/aspose.cells/referredarea)

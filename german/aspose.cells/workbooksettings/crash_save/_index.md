@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  crash_save Eigentum
 
-Gibt an, ob die Anwendung die Arbeitsmappendatei zuletzt nach einem Absturz gespeichert hat.
+gibt an, ob die Anwendung die Arbeitsmappendatei nach einem Absturz zuletzt gespeichert hat.
 ###  Definition:
 ```python
 @property

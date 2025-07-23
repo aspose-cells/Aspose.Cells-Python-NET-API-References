@@ -3,18 +3,18 @@ title: y Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 530
+weight: 640
 url: /de/aspose.cells.charts/datalabels/y/
 is_root: false
 ---
 ##  y Eigentum
 
-Ruft die Koordinate y der oberen linken Ecke in Einheiten von 1/4000 der Diagrammfläche ab oder legt diese fest.
+Ruft die Koordinate y der oberen linken Ecke in Einheiten von 1/4000 der Diagrammfläche ab oder legt sie fest.
 
 ###  Bemerkungen
 
- Wie konvertiere ich Einheiten von 1/4000 in Pixel?
-Y in Pixel = Y * Chart.ChartObject.Height / 4000;
+ Wie konvertiert man Einheiten von 1/4000 in Pixel?
+Y in Pixeln = Y * Chart.ChartObject.Height / 4000d;
 ###  Definition:
 ```python
 @property

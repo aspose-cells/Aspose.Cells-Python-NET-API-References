@@ -3,7 +3,7 @@ title: auto_shape_type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 300
+weight: 310
 url: /fr/aspose.cells.drawing/combobox/auto_shape_type/
 is_root: false
 ---

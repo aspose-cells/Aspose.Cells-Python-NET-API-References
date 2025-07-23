@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells/fontconfigs/__init__/
 is_root: false
 ---
-##  FontConfigs() {#}
+##  \_\_init\_\_(self){#}
 Construit une nouvelle instance de FontConfigs
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FontConfigs](/cells/python-net/fr/aspose.cells/fontconfigs)
+* module [`aspose.cells`](../../)
+* classe [`FontConfigs`](/cells/python-net/fr/aspose.cells/fontconfigs)

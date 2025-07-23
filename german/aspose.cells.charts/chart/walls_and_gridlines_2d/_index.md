@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  walls_and_gridlines_2d Eigentum
 
-True, wenn Gitterlinien zweidimensional in einem 3D-Diagramm gezeichnet werden.
+Wahr, wenn Gitternetzlinien in einem 3D-Diagramm zweidimensional gezeichnet werden.
 ###  Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: tiff_color_depth propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 360
+weight: 370
 url: /fr/aspose.cells.rendering/imageorprintoptions/tiff_color_depth/
 is_root: false
 ---
@@ -13,8 +13,8 @@ Obtient ou définit la profondeur de bits à appliquer uniquement lors de l'enre
 
 ###  Remarques
 
-N'a d'effet que lors de l'enregistrement au TIFF.
-Si TiffCompression est défini sur CCITT3, CCITT4, cela ne prendra pas effet, la profondeur de bits de l'image tiff générée sera toujours 1.
+N'a d'effet que lors de l'enregistrement dans TIFF.
+Si TiffCompression est défini sur CCITT3, CCITT4, cela n'aura aucun effet, la profondeur de bits de l'image tiff générée sera toujours de 1.
 ###  Définition:
 ```python
 @property

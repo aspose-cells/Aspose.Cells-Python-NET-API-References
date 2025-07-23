@@ -8,7 +8,7 @@ url: /fr/aspose.cells.drawing/colorhelper/
 is_root: false
 ---
 ##  ColorHelper classe
-Fournit des fonctions d'assistance sur la couleur.
+Fournit des fonctions d'aide sur la couleur.
 
 
 
@@ -17,10 +17,10 @@ Le type ColorHelper expose les membres suivants :
 ###  Méthodes
 | Méthode| Description|
 | :- | :- |
-| [from_ole_color(ole_color)](/cells/python-net/fr/aspose.cells.drawing/colorhelper/from_ole_color/#int) | Convertir OLE_COLOR.|
-| [to_ole_color(color, workbook)](/cells/python-net/fr/aspose.cells.drawing/colorhelper/to_ole_color/#aspose.pydrawing.Color-Workbook) | Convertir la couleur en OLE_COLOR|
+| [`from_ole_color(, ole_color)`](/cells/python-net/fr/aspose.cells.drawing/colorhelper/from_ole_color/#int) | Convertir OLE_COLOR.|
+| [`to_ole_color(, color, workbook)`](/cells/python-net/fr/aspose.cells.drawing/colorhelper/to_ole_color/#aspose.pydrawing.color-aspose.cells.workbook) | Convertir la couleur en OLE_COLOR|
 
 
 
 ###  Voir également
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_tiled propriété
 
-Indique si l'image est en mosaïque sur l'arrière-plan.
+Indique si l'image est disposée en mosaïque sur l'arrière-plan.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_tiled(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [ImageActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ImageActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

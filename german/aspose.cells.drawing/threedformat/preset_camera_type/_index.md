@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  preset_camera_type Eigentum
 
-Ruft den voreingestellten Extrusionskameratyp ab und legt diesen fest.
+Ruft den voreingestellten Kameratyp für die Extrusion ab und legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def preset_camera_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [PresetCameraType](/cells/python-net/de/aspose.cells.drawing/presetcameratype)
-* Klasse [ThreeDFormat](/cells/python-net/de/aspose.cells.drawing/threedformat)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`PresetCameraType`](/cells/python-net/de/aspose.cells.drawing/presetcameratype)
+* Klasse [`ThreeDFormat`](/cells/python-net/de/aspose.cells.drawing/threedformat)

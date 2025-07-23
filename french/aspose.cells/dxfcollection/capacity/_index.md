@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DxfCollection](/cells/python-net/fr/aspose.cells/dxfcollection)
+* module [`aspose.cells`](../../)
+* classe [`DxfCollection`](/cells/python-net/fr/aspose.cells/dxfcollection)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_text_no_fill Eigentum
 
-Ruft keine Füllung des Textes ab oder legt diese fest.
+Ruft ab oder legt fest, dass der Text nicht gefüllt werden soll.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_text_no_fill(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [LegendEntry](/cells/python-net/de/aspose.cells.charts/legendentry)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`LegendEntry`](/cells/python-net/de/aspose.cells.charts/legendentry)

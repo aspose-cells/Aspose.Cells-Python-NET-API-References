@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  new_length propriété
 
-Obtient la longueur du commentaire avant cette révision.
+Obtient la longueur du commentaire avant que cette révision ne soit effectuée.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def new_length(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.revisions](../../)
-* classe [RevisionCellComment](/cells/python-net/fr/aspose.cells.revisions/revisioncellcomment)
+* module [`aspose.cells.revisions`](../../)
+* classe [`RevisionCellComment`](/cells/python-net/fr/aspose.cells.revisions/revisioncellcomment)

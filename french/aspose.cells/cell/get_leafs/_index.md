@@ -1,5 +1,5 @@
 ---
-title: get_leafs méthode
+title: méthode get_leafs
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 160
 url: /fr/aspose.cells/cell/get_leafs/
 is_root: false
 ---
-##  get_leafs() {#}
+##  get_leafs(self) {#}
 Obtenez toutes les cellules qui font directement référence à cette cellule et doivent être mises à jour lorsque cette cellule est modifiée.
 
 
 ###  Retour
 
-Recenseur pour recenser toutes les personnes à charge (Cell)
+Recenseur pour énumérer toutes les personnes à charge (Cell)
 
 
 ```python
+
 def get_leafs(self):
     ...
 ```
@@ -24,21 +25,22 @@ def get_leafs(self):
 
 ###  Remarques
 
-REMARQUE : Cette classe est désormais obsolète. Plutôt,
-veuillez utiliser Cell.GetDependentsInCalculation(bool) pour obtenir toutes les personnes à charge dans la chaîne de calcul.
-Cette propriété sera supprimée 12 mois plus tard depuis mai 2022.
-Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+REMARQUE : Cette classe est désormais obsolète. À la place,
+veuillez utiliser Cell.GetDependentsInCalculation(bool) pour obtenir tous les dépendants dans la chaîne de calcul.
+Cette propriété sera supprimée 12 mois plus tard soit en mai 2022.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 
-##  get_leafs(recursive) {#bool}
-Obtenir toutes les cellules qui seront mises à jour lorsque cette cellule sera modifiée.
+##  get_leafs(self, recursive) {#bool}
+Obtenez toutes les cellules qui seront mises à jour lorsque cette cellule est modifiée.
 
 
 ###  Retour
 
-Recenseur pour recenser toutes les personnes à charge (Cell)
+Recenseur pour énumérer toutes les personnes à charge (Cell)
 
 
 ```python
+
 def get_leafs(self, recursive):
     ...
 ```
@@ -49,12 +51,12 @@ def get_leafs(self, recursive):
 | recursive | bool | Si renvoie les feuilles qui ne font pas directement référence à cette cellule<br/> mais référence à d'autres feuilles de cette cellule|
 ###  Remarques
 
-REMARQUE : Cette classe est désormais obsolète. Plutôt,
-veuillez utiliser Cell.GetDependentsInCalculation(bool) pour obtenir toutes les personnes à charge dans la chaîne de calcul.
-Cette propriété sera supprimée 12 mois plus tard depuis mai 2022.
-Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+REMARQUE : Cette classe est désormais obsolète. À la place,
+veuillez utiliser Cell.GetDependentsInCalculation(bool) pour obtenir tous les dépendants dans la chaîne de calcul.
+Cette propriété sera supprimée 12 mois plus tard soit en mai 2022.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Cell](/cells/python-net/fr/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/fr/aspose.cells/cell)

@@ -17,11 +17,11 @@ Der Typ PivotOptions macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [drop_zone_filter](/cells/python-net/de/aspose.cells.charts/pivotoptions/drop_zone_filter) | Gibt an, ob ein Steuerelement für jedes PivotTable-Feld auf der PivotTable-Seitenachse vorhanden ist<br/> der Quell-PivotTable erscheint im Diagramm, wenn dropZonesVisible auf true gesetzt ist.|
-| [drop_zone_categories](/cells/python-net/de/aspose.cells.charts/pivotoptions/drop_zone_categories) |Gibt an, ob ein Steuerelement für jedes PivotTable-Feld auf der PivotTable-Zeilenachse vorhanden ist<br/> der Quell-PivotTable erscheint im Diagramm, wenn dropZonesVisible auf true gesetzt ist.|
-| [drop_zone_data](/cells/python-net/de/aspose.cells.charts/pivotoptions/drop_zone_data) | Gibt an, ob ein Steuerelement für jedes PivotTable-Feld auf der PivotTable-Datenachse vorhanden ist<br/> der Quell-PivotTable erscheint im Diagramm, wenn dropZonesVisible auf true gesetzt ist.|
-| [drop_zone_series](/cells/python-net/de/aspose.cells.charts/pivotoptions/drop_zone_series) | Gibt an, ob ein Steuerelement für jedes PivotTable-Feld auf der PivotTable-Spaltenachse vorhanden ist<br/> der Quell-PivotTable erscheint im Diagramm, wenn dropZonesVisible auf true gesetzt ist.|
-| [drop_zones_visible](/cells/python-net/de/aspose.cells.charts/pivotoptions/drop_zones_visible) | Gibt an, ob Pivot-Steuerelemente im Pivot-Diagramm angezeigt werden können.|
+| [drop_zone_filter](/cells/python-net/de/aspose.cells.charts/pivotoptions/drop_zone_filter) | Gibt an, ob ein Steuerelement für jedes PivotTable-Feld auf der PivotTable-Seitenachse<br/> der Quell-PivotTable wird im Diagramm angezeigt, wenn „dropZonesVisible“ auf „true“ gesetzt ist.|
+| [drop_zone_categories](/cells/python-net/de/aspose.cells.charts/pivotoptions/drop_zone_categories) | Gibt an, ob ein Steuerelement für jedes PivotTable-Feld auf der PivotTable-Zeilenachse<br/> der Quell-PivotTable wird im Diagramm angezeigt, wenn „dropZonesVisible“ auf „true“ gesetzt ist.|
+| [drop_zone_data](/cells/python-net/de/aspose.cells.charts/pivotoptions/drop_zone_data) |Gibt an, ob ein Steuerelement für jedes PivotTable-Feld auf der PivotTable-Datenachse<br/> der Quell-PivotTable wird im Diagramm angezeigt, wenn „dropZonesVisible“ auf „true“ gesetzt ist.|
+| [drop_zone_series](/cells/python-net/de/aspose.cells.charts/pivotoptions/drop_zone_series) | Gibt an, ob ein Steuerelement für jedes PivotTable-Feld auf der PivotTable-Spaltenachse<br/> der Quell-PivotTable wird im Diagramm angezeigt, wenn „dropZonesVisible“ auf „true“ gesetzt ist.|
+| [drop_zones_visible](/cells/python-net/de/aspose.cells.charts/pivotoptions/drop_zones_visible) | Gibt an, ob im Pivot-Diagramm Pivot-Steuerelemente angezeigt werden können.|
 
 
 

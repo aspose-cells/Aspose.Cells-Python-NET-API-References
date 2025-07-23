@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  delete_redundant_spaces propriété
 
-Indique si vous supprimez les espaces redondants lorsque le texte retourne à la ligne à l’aide de la balise `<br>`.
-La valeur par défaut est fausse.
+Indique si les espaces redondants doivent être supprimés lorsque le texte est renvoyé à la ligne à l'aide de la balise `<br>`.
+La valeur par défaut est false.
 ###  Définition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_encrypted propriété
 
-Renvoie true si le document est crypté et nécessite un mot de passe pour s'ouvrir.
+Renvoie vrai si le document est chiffré et nécessite un mot de passe pour s'ouvrir.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_encrypted(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FileFormatInfo](/cells/python-net/fr/aspose.cells/fileformatinfo)
+* module [`aspose.cells`](../../)
+* classe [`FileFormatInfo`](/cells/python-net/fr/aspose.cells/fileformatinfo)

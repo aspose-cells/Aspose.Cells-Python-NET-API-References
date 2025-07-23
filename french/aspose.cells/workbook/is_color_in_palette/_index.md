@@ -1,22 +1,23 @@
 ---
-title: is_color_in_palette méthode
+title: méthode is_color_in_palette
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 230
+weight: 240
 url: /fr/aspose.cells/workbook/is_color_in_palette/
 is_root: false
 ---
-##  is_color_in_palette(color) {#aspose.pydrawing.Color}
-Vérifie si une couleur se trouve dans la palette de la feuille de calcul.
+##  is_color_in_palette(self, color) {#aspose.pydrawing.Color}
+Vérifie si une couleur est dans la palette de la feuille de calcul.
 
 
 ###  Retour
 
-Renvoie true si cette couleur est dans la palette. Sinon, renvoie faux
+Renvoie « true » si cette couleur est présente dans la palette. Sinon, renvoie « false ».
 
 
 ```python
+
 def is_color_in_palette(self, color):
     ...
 ```
@@ -29,5 +30,5 @@ def is_color_in_palette(self, color):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Workbook](/cells/python-net/fr/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* classe [`Workbook`](/cells/python-net/fr/aspose.cells/workbook)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_permission propriété
 
-Indique s’il faut autoriser l’impression du document.
+Indique s'il faut autoriser l'impression du document.
 
 ###  Remarques
 

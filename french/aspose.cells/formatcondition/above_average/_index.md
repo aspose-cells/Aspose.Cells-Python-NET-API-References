@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  above_average propriété
 
-Obtenez l'instance "AboveAverage" de la mise en forme conditionnelle.
+Obtenez l'instance « AboveAverage » de la mise en forme conditionnelle.
  La règle de l'instance par défaut met en évidence les cellules qui sont
 au-dessus de la moyenne pour toutes les valeurs de la gamme.
 Valable uniquement pour le type = AboveAverage.
@@ -21,6 +21,6 @@ def above_average(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [AboveAverage](/cells/python-net/fr/aspose.cells/aboveaverage)
-* classe [FormatCondition](/cells/python-net/fr/aspose.cells/formatcondition)
+* module [`aspose.cells`](../../)
+* classe [`AboveAverage`](/cells/python-net/fr/aspose.cells/aboveaverage)
+* classe [`FormatCondition`](/cells/python-net/fr/aspose.cells/formatcondition)

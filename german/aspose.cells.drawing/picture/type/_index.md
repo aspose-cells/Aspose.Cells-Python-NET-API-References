@@ -3,13 +3,13 @@ title: type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1300
+weight: 1320
 url: /de/aspose.cells.drawing/picture/type/
 is_root: false
 ---
 ##  type Eigentum
 
-Ruft die automatische Form type ab.
+Ruft die Autoform type ab.
 
 ###  Beispiel
 

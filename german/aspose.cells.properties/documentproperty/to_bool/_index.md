@@ -7,12 +7,13 @@ weight: 20
 url: /de/aspose.cells.properties/documentproperty/to_bool/
 is_root: false
 ---
-##  to_bool() {#}
-Gibt den Eigenschaftswert als bool zurück.
+##  to_bool(self) {#}
+Gibt den Eigenschaftswert als Bool zurück.
 
 
 
 ```python
+
 def to_bool(self):
     ...
 ```
@@ -20,10 +21,10 @@ def to_bool(self):
 
 ###  Bemerkungen
 
-Löst eine Ausnahme aus, wenn der Eigenschaftstyp nicht PropertyType.Boolean ist.
+Löst eine Ausnahme aus, wenn der Eigenschaftentyp nicht PropertyType.Boolean ist.
 
 
 ###  Siehe auch
 
-* Modul [aspose.cells.properties](../../)
-* Klasse [DocumentProperty](/cells/python-net/de/aspose.cells.properties/documentproperty)
+* Modul [`aspose.cells.properties`](../../)
+* Klasse [`DocumentProperty`](/cells/python-net/de/aspose.cells.properties/documentproperty)

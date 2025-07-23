@@ -12,8 +12,7 @@ Une collection de propriétés de document personnalisées.
 
 
 
-**Héritage:** [CustomDocumentPropertyCollection](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection) → 
-[DocumentPropertyCollection](/cells/python-net/fr/aspose.cells.properties/documentpropertycollection)
+**Héritage:** [`CustomDocumentPropertyCollection`](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection)
 
 
 
@@ -22,35 +21,37 @@ Le type CustomDocumentPropertyCollection expose les membres suivants :
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
-| [capacity](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/capacity) | Obtient ou définit le nombre d'éléments que la liste de tableau peut contenir.|
+| [capacity](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/capacity) | Obtient ou définit le nombre d'éléments que la liste de tableaux peut contenir.|
 
 
 ###  Méthodes
 | Méthode| Description|
 | :- | :- |
-| [index_of(name)](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/index_of/#str) | Obtient l'index d'une propriété par son nom.|
-| [index_of(item, index)](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/index_of/#DocumentProperty-int) | Recherche l'objet spécifié et renvoie l'index de base zéro de la première occurrence dans la plage d'éléments de la liste de tableaux qui s'étend de l'index spécifié au dernier élément.|
-| [index_of(item, index, count)](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/index_of/#DocumentProperty-int-int) | Recherche l'objet spécifié et renvoie l'index de base zéro de la première occurrence dans la plage d'éléments de la liste de tableaux qui commence à l'index spécifié et contient le nombre d'éléments spécifié.|
-| [copy_to(array)](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/copy_to/#list) | Copie la totalité de la liste de tableaux dans une liste de tableaux unidimensionnelle compatible, en commençant au début de la liste de tableaux cible.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/copy_to/#int-list-int-int) |Copie une plage d'éléments de la liste de tableaux vers une liste de tableaux unidimensionnelle compatible, en commençant à l'index spécifié de la liste de tableaux cible.|
-| [last_index_of(item)](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/last_index_of/#DocumentProperty) | Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la liste complète du tableau.|
-| [last_index_of(item, index)](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/last_index_of/#DocumentProperty-int) | Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la plage d'éléments de la liste de tableaux qui s'étend du premier élément à l'index spécifié.|
-| [last_index_of(item, index, count)](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/last_index_of/#DocumentProperty-int-int) |Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la plage d'éléments de la liste de tableaux qui contient le nombre d'éléments spécifié et se termine à l'index spécifié.|
-| [add(name, value)](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/add/#str-str) | Crée une nouvelle propriété de document personnalisée du**PropertyType.String** Type de données.|
-| [add(name, value)](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/add/#str-int) | Crée une nouvelle propriété de document personnalisée du**PropertyType.Number** Type de données.|
-| [add(name, value)](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/add/#str-DateTime) | Crée une nouvelle propriété de document personnalisée du**PropertyType.DateTime** Type de données.|
-| [add(name, value)](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/add/#str-bool) | Crée une nouvelle propriété de document personnalisée du**PropertyType.Boolean** Type de données.|
-| [add(name, value)](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/add/#str-float) | Crée une nouvelle propriété de document personnalisée du**PropertyType.Float** Type de données.|
-| [binary_search(item)](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/binary_search/#DocumentProperty) | Recherche un élément dans toute la liste de tableaux triés à l'aide du comparateur par défaut et renvoie l'index de base zéro de l'élément.|
-| [add_link_to_content(name, source)](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/add_link_to_content/#str-str) | Crée une nouvelle propriété de document personnalisée qui établit un lien vers le contenu.|
-| [update_linked_property_value()](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/update_linked_property_value/#) |Mettez à jour la valeur de la propriété de document personnalisée liée au contenu.|
-| [update_linked_range()](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/update_linked_range/#) | Mettez à jour la valeur de la propriété du document personnalisé sur la plage liée.|
+| [`get(self, name)`](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/get/#str) |  |
+| [`get(self, index)`](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/get/#int) |  |
+| [`index_of(self, name)`](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/index_of/#str) |  |
+| [`index_of(self, item, index)`](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/index_of/#aspose.cells.properties.documentproperty-int) | Recherche l'objet spécifié et renvoie l'index de base zéro de la première occurrence dans la plage d'éléments de la liste de tableaux qui s'étend de l'index spécifié au dernier élément.|
+| [`index_of(self, item, index, count)`](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/index_of/#aspose.cells.properties.documentproperty-int-int) | Recherche l'objet spécifié et renvoie l'index de base zéro de la première occurrence dans la plage d'éléments de la liste de tableaux qui commence à l'index spécifié et contient le nombre d'éléments spécifié.|
+| [`copy_to(self, array)`](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/copy_to/#list) |Copie la liste de tableaux entière dans une liste de tableaux unidimensionnelle compatible, en commençant au début de la liste de tableaux cible.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/copy_to/#int-list-int-int) | Copie une plage d'éléments de la liste de tableaux vers une liste de tableaux unidimensionnelle compatible, en commençant à l'index spécifié de la liste de tableaux cible.|
+| [`last_index_of(self, item)`](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/last_index_of/#aspose.cells.properties.documentproperty) | Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la liste de tableaux entière.|
+| [`last_index_of(self, item, index)`](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/last_index_of/#aspose.cells.properties.documentproperty-int) |Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la plage d'éléments de la liste de tableaux qui s'étend du premier élément à l'index spécifié.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/last_index_of/#aspose.cells.properties.documentproperty-int-int) | Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la plage d'éléments de la liste de tableaux qui contient le nombre spécifié d'éléments et se termine à l'index spécifié.|
+| [`add(self, name, value)`](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/add/#str-str) | Crée une nouvelle propriété de document personnalisée du**PropertyType.String** type de données.|
+| [`add(self, name, value)`](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/add/#str-int) | Crée une nouvelle propriété de document personnalisée du**PropertyType.Number** type de données.|
+| [`add(self, name, value)`](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/add/#str-datetime) | Crée une nouvelle propriété de document personnalisée du**Type de propriété.DateHeure** type de données.|
+| [`add(self, name, value)`](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/add/#str-bool) | Crée une nouvelle propriété de document personnalisée du**PropertyType.Booléen** type de données.|
+| [`add(self, name, value)`](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/add/#str-float) | Crée une nouvelle propriété de document personnalisée du**PropertyType.Float** type de données.|
+| [`binary_search(self, item)`](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/binary_search/#aspose.cells.properties.documentproperty) | Recherche dans la liste entière de tableaux triés un élément à l'aide du comparateur par défaut et renvoie l'index de base zéro de l'élément.|
+| [`add_link_to_content(self, name, source)`](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/add_link_to_content/#str-str) |Crée une nouvelle propriété de document personnalisée qui renvoie au contenu.|
+| [`update_linked_property_value(self)`](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/update_linked_property_value/#) | Mettre à jour la valeur de la propriété du document personnalisé qui renvoie au contenu.|
+| [`update_linked_range(self)`](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection/update_linked_range/#) | Mettre à jour la valeur de la propriété du document personnalisé sur la plage liée.|
 
 
 
 ###  Remarques
 
-Chaque objet [DocumentProperty](/cells/python-net/fr/aspose.cells.properties/documentproperty) représente une propriété personnalisée d'un document conteneur.
+Chaque objet [`DocumentProperty`](/cells/python-net/fr/aspose.cells.properties/documentproperty) représente une propriété personnalisée d'un document conteneur.
 
 ###  Exemple
 
@@ -65,7 +66,6 @@ customProperties = workbook.worksheets.custom_document_properties
 ```
 
 ###  Voir également
-* module [aspose.cells.properties](..)
-* classe [CustomDocumentPropertyCollection](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection)
-* classe [DocumentProperty](/cells/python-net/fr/aspose.cells.properties/documentproperty)
-* classe [DocumentPropertyCollection](/cells/python-net/fr/aspose.cells.properties/documentpropertycollection)
+* module [`aspose.cells.properties`](..)
+* classe [`CustomDocumentPropertyCollection`](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection)
+* classe [`DocumentProperty`](/cells/python-net/fr/aspose.cells.properties/documentproperty)

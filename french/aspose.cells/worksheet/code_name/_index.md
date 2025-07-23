@@ -3,13 +3,13 @@ title: code_name propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 430
+weight: 450
 url: /fr/aspose.cells/worksheet/code_name/
 is_root: false
 ---
 ##  code_name propriété
 
-Obtient le nom de code de la feuille de calcul.
+Obtient le nom du code de la feuille de calcul.
 ###  Définition:
 ```python
 @property

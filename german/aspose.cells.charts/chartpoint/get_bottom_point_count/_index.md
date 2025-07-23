@@ -7,12 +7,13 @@ weight: 20
 url: /de/aspose.cells.charts/chartpoint/get_bottom_point_count/
 is_root: false
 ---
-##  get_bottom_point_count() {#}
-Ruft die Anzahl der unteren Punkte nach Aufrufen der Methode Chart.Calculate() ab.
+##  get_bottom_point_count(self) {#}
+Ruft die Anzahl der unteren Punkte nach dem Aufruf der Methode Chart.Calculate() ab.
 
 
 
 ```python
+
 def get_bottom_point_count(self):
     ...
 ```
@@ -22,5 +23,5 @@ def get_bottom_point_count(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ChartPoint](/cells/python-net/de/aspose.cells.charts/chartpoint)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ChartPoint`](/cells/python-net/de/aspose.cells.charts/chartpoint)

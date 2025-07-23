@@ -1,5 +1,5 @@
 ---
-title: set_license méthode
+title: méthode set_license
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 20
 url: /fr/aspose.cells/license/set_license/
 is_root: false
 ---
-##  set_license(license_name) {#str}
-Licence du composant.
+##  set_license(self, license_name) {#str}
+Licence pour le composant.
 
 
 
 ```python
+
 def set_license(self, license_name):
     ...
 ```
@@ -29,19 +30,19 @@ Essaie de trouver la licence aux emplacements suivants :
 1. Chemin explicite.
 
 
-2. Le dossier contenant l'assemblage de composants Aspose.
+2. Le dossier contenant l’assemblage de composants Aspose.
 
 
 3. Le dossier qui contient l'assembly appelant du client.
 
 
-4. Le dossier qui contient l'assembly d'entrée (démarrage).
+4. Le dossier qui contient l'assemblage d'entrée (démarrage).
 
 
 5. Une ressource intégrée dans l'assembly appelant du client.
 
 
-**Note:** Sur le Compact Framework .NET, essaie de trouver la licence uniquement dans ces emplacements :
+**Note:**Sur le Compact Framework .NET, essaie de trouver la licence uniquement à ces emplacements :
 
 
 1. Chemin explicite.
@@ -56,7 +57,7 @@ Dans cet exemple, une tentative sera faite pour trouver un fichier de licence no
 
 
 le composant, dans le dossier qui contient l'assembly appelant,
-dans le dossier de l'assembly d'entrée puis dans les ressources embarquées de l'assembly appelant.
+dans le dossier de l'assembly d'entrée puis dans les ressources intégrées de l'assembly appelant.
 
 ```python
 from aspose.cells import License
@@ -66,15 +67,16 @@ license.set_license("MyLicense.lic")
 
 ```
 Peut être un nom de fichier complet ou court ou le nom d'une ressource intégrée.
-Utilisez une chaîne vide pour passer en mode d'évaluation.
+Utilisez une chaîne vide pour passer en mode évaluation.
 
 
-##  set_license(stream) {#io.RawIOBase}
-Licence du composant.
+##  set_license(self, stream) {#io.RawIOBase}
+Licence pour le composant.
 
 
 
 ```python
+
 def set_license(self, stream):
     ...
 ```
@@ -82,7 +84,7 @@ def set_license(self, stream):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| stream | io.RawIOBase | Un flux qui contient la licence.|
+| stream | io.RawIOBase |Un flux qui contient la licence.|
 ###  Remarques
 
 Utilisez cette méthode pour charger une licence à partir d'un flux.
@@ -100,5 +102,5 @@ license.set_license(myStream)
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [License](/cells/python-net/fr/aspose.cells/license)
+* module [`aspose.cells`](../../)
+* classe [`License`](/cells/python-net/fr/aspose.cells/license)

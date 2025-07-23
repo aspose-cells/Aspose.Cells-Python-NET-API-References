@@ -1,13 +1,13 @@
 ---
-title: GradientFillType dénombrement
+title: GradientFillType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 870
+weight: 860
 url: /fr/aspose.cells.drawing/gradientfilltype/
 is_root: false
 ---
-##  GradientFillType dénombrement
+##  GradientFillType énumération
 Représente tous les types de remplissage dégradé.
 
 
@@ -25,4 +25,4 @@ Le type GradientFillType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

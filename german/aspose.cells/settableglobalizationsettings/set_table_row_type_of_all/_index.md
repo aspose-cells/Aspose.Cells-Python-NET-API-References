@@ -7,12 +7,13 @@ weight: 400
 url: /de/aspose.cells/settableglobalizationsettings/set_table_row_type_of_all/
 is_root: false
 ---
-##  set_table_row_type_of_all {#str}
+##  set_table_row_type_of_all(self, name) {#str}
 Legt den Typnamen der Tabellenzeilen fest, der aus allen Zeilen in der referenzierten Tabelle besteht.
 
 
 
 ```python
+
 def set_table_row_type_of_all(self, name):
     ...
 ```
@@ -20,7 +21,7 @@ def set_table_row_type_of_all(self, name):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| name | str | der Typname von Tabellenzeilen|
+| name | str | der Typname der Tabellenzeilen|
 
 
 

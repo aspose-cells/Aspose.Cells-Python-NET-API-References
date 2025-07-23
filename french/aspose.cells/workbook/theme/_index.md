@@ -3,7 +3,7 @@ title: theme propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 660
+weight: 690
 url: /fr/aspose.cells/workbook/theme/
 is_root: false
 ---

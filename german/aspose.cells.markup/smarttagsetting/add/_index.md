@@ -7,7 +7,7 @@ weight: 20
 url: /de/aspose.cells.markup/smarttagsetting/add/
 is_root: false
 ---
-##  add(cell_name) {#str}
+##  add(self, cell_name) {#str}
 Fügen Sie Smarttags für Zellen hinzu.
 
 
@@ -17,6 +17,7 @@ Fügen Sie Smarttags für Zellen hinzu.
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -27,16 +28,17 @@ def add(self, cell_name):
 | cell_name | str | Der Name der Zelle.|
 
 
-##  add(row, column) {#int-int}
-Fügt einer Zelle ein [SmartTagCollection](/cells/python-net/de/aspose.cells.markup/smarttagcollection)-Objekt hinzu.
+##  add(self, row, column) {#int-int}
+Fügt einer Zelle ein [`SmartTagCollection`](/cells/python-net/de/aspose.cells.markup/smarttagcollection)-Objekt hinzu.
 
 
 ###  Kehrt zurück
 
-Gibt den Index eines [SmartTagCollection](/cells/python-net/de/aspose.cells.markup/smarttagcollection)-Objekts im Arbeitsblatt zurück.
+Gibt den Index eines [`SmartTagCollection`](/cells/python-net/de/aspose.cells.markup/smarttagcollection)-Objekts im Arbeitsblatt zurück.
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -50,6 +52,6 @@ def add(self, row, column):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.markup](../../)
-* Klasse [SmartTagCollection](/cells/python-net/de/aspose.cells.markup/smarttagcollection)
-* Klasse [SmartTagSetting](/cells/python-net/de/aspose.cells.markup/smarttagsetting)
+* Modul [`aspose.cells.markup`](../../)
+* Klasse [`SmartTagCollection`](/cells/python-net/de/aspose.cells.markup/smarttagcollection)
+* Klasse [`SmartTagSetting`](/cells/python-net/de/aspose.cells.markup/smarttagsetting)

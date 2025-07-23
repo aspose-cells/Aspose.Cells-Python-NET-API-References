@@ -3,7 +3,7 @@ title: number_format Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 100
+weight: 110
 url: /de/aspose.cells.utility/jsonlayoutoptions/number_format/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def number_format(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.utility](../../)
-* Klasse [JsonLayoutOptions](/cells/python-net/de/aspose.cells.utility/jsonlayoutoptions)
+* Modul [`aspose.cells.utility`](../../)
+* Klasse [`JsonLayoutOptions`](/cells/python-net/de/aspose.cells.utility/jsonlayoutoptions)

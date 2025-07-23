@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  ignore_object_title propriété
 
-Indique si le titre est ignoré si l'objet est une propriété de l'objet.
+Indique si le titre doit être ignoré si l'objet est une propriété de l'objet.
 
 ###  Remarques
 
  REMARQUE : Cette propriété est désormais obsolète.
-Au lieu de cela, veuillez utiliser la propriété JsonLayoutOptions.IgnoreTitle à la place.
- Cette propriété sera supprimée 6 mois plus tard depuis février 2023.
-Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+À la place, veuillez utiliser la propriété JsonLayoutOptions.IgnoreTitle.
+ Cette propriété sera supprimée 6 mois plus tard soit février 2023.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 ###  Définition:
 ```python
 @property
@@ -28,5 +28,5 @@ def ignore_object_title(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.utility](../../)
-* classe [JsonLayoutOptions](/cells/python-net/fr/aspose.cells.utility/jsonlayoutoptions)
+* module [`aspose.cells.utility`](../../)
+* classe [`JsonLayoutOptions`](/cells/python-net/fr/aspose.cells.utility/jsonlayoutoptions)

@@ -7,17 +7,35 @@ weight: 170
 url: /fr/aspose.cells/worksheetcollection/refresh_pivot_tables/
 is_root: false
 ---
-##  refresh_pivot_tables {#}
-Actualise tous les tableaux croisés dynamiques de WorksheetCollection.
+##  refresh_pivot_tables(self) {#}
+Actualise tous les tableaux croisés dynamiques du fichier Excel.
 
 
 
 ```python
+
 def refresh_pivot_tables(self):
     ...
 ```
 
 
+
+
+##  refresh_pivot_tables(self, option) {#aspose.cells.pivot.PivotTableRefreshOption}
+Actualise tous les tableaux croisés dynamiques du fichier Excel.
+
+
+
+```python
+
+def refresh_pivot_tables(self, option):
+    ...
+```
+
+
+| Paramètre| Taper| Description|
+| :- | :- | :- |
+| option | aspose.cells.pivot.PivotTableRefreshOption | L'option d'actualisation de la source de données des tableaux croisés dynamiques.|
 
 
 

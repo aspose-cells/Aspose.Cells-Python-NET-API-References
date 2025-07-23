@@ -3,7 +3,7 @@ title: data_source propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 430
+weight: 530
 url: /fr/aspose.cells.pivot/pivottable/data_source/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def data_source(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.pivot](../../)
-* classe [PivotTable](/cells/python-net/fr/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* classe [`PivotTable`](/cells/python-net/fr/aspose.cells.pivot/pivottable)

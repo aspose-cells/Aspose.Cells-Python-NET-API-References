@@ -1,18 +1,19 @@
 ---
-title: custom_theme méthode
+title: méthode custom_theme
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 130
+weight: 140
 url: /fr/aspose.cells/workbook/custom_theme/
 is_root: false
 ---
-##  custom_theme(theme_name, colors) {#str-aspose.pydrawing.Color[]}
-Customise le thème.
+##  custom_theme(self, theme_name, colors) {#str-aspose.pydrawing.Color[]}
+Les coutumes sont le thème.
 
 
 
 ```python
+
 def custom_theme(self, theme_name, colors):
     ...
 ```
@@ -25,11 +26,11 @@ def custom_theme(self, theme_name, colors):
 ###  Remarques
 
 La longueur des couleurs doit être de 12.
-| Indice de tableau| Type de thème|
+| Index de tableau| Type de thème|
 | :- | :- |
-| 0| Arrière-plan1|
+| 0| Arrière-plan 1|
 | 1| Texte 1|
-| 2| Backgournd2|
+| 2| Arrière-plan 2|
 | 3| Texte2|
 | 4| Accent1|
 | 5| Accent2|
@@ -37,7 +38,7 @@ La longueur des couleurs doit être de 12.
 | 7| Accent4|
 | 8| Accent5|
 | 9| Accent6|
-| 10| Lien hypertexte|
+| 10| Hyperlien|
 | 11| Lien hypertexte suivi|
-* module [aspose.cells](../../)
-* classe [Workbook](/cells/python-net/fr/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* classe [`Workbook`](/cells/python-net/fr/aspose.cells/workbook)

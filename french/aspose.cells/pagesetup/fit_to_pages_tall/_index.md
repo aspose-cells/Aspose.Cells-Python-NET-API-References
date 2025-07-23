@@ -14,7 +14,7 @@ La valeur par défaut est 1.
 
 ###  Remarques
 
-Vous devez définir FitToPagesWide sur zéro si vous souhaitez faire tenir toutes les lignes sur une seule page.
+Vous devez définir FitToPagesWide sur zéro si vous souhaitez ajuster toutes les lignes sur une seule page.
 ###  Définition:
 ```python
 @property
@@ -26,5 +26,5 @@ def fit_to_pages_tall(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/fr/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/fr/aspose.cells/pagesetup)

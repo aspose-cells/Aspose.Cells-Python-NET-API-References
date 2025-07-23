@@ -1,13 +1,13 @@
 ---
-title: get_width_of_value méthode
+title: méthode get_width_of_value
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 250
+weight: 260
 url: /fr/aspose.cells/cell/get_width_of_value/
 is_root: false
 ---
-##  get_width_of_value() {#}
+##  get_width_of_value(self) {#}
 Obtient la largeur de la valeur en unité de pixels.
 
 
@@ -17,6 +17,7 @@ Obtient la largeur de la valeur en unité de pixels.
 
 
 ```python
+
 def get_width_of_value(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_width_of_value(self):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Cell](/cells/python-net/fr/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/fr/aspose.cells/cell)

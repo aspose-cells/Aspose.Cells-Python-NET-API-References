@@ -18,5 +18,5 @@ def row(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.markup](../../)
-* Klasse [SmartTagCollection](/cells/python-net/de/aspose.cells.markup/smarttagcollection)
+* Modul [`aspose.cells.markup`](../../)
+* Klasse [`SmartTagCollection`](/cells/python-net/de/aspose.cells.markup/smarttagcollection)

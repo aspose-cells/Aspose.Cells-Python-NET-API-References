@@ -3,7 +3,7 @@ title: display_name propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 150
+weight: 160
 url: /fr/aspose.cells.tables/listobject/display_name/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def display_name(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.tables](../../)
-* classe [ListObject](/cells/python-net/fr/aspose.cells.tables/listobject)
+* module [`aspose.cells.tables`](../../)
+* classe [`ListObject`](/cells/python-net/fr/aspose.cells.tables/listobject)

@@ -13,10 +13,10 @@ Obtient et définit le radius de la lueur, en unité de points.
 
 ###  Remarques
 
- REMARQUE : ce membre est désormais obsolète. Plutôt,
+ REMARQUE : Ce membre est désormais obsolète. À la place,
  veuillez utiliser la propriété GlowEffect.Size.
- Cette propriété sera supprimée 6 mois plus tard depuis septembre 2016.
-Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ Cette propriété sera supprimée 6 mois plus tard soit en septembre 2016.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 ###  Définition:
 ```python
 @property
@@ -28,5 +28,5 @@ def radius(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [GlowEffect](/cells/python-net/fr/aspose.cells.drawing/gloweffect)
+* module [`aspose.cells.drawing`](../../)
+* classe [`GlowEffect`](/cells/python-net/fr/aspose.cells.drawing/gloweffect)

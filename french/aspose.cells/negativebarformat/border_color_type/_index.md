@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border_color_type propriété
 
-Obtient s'il faut utiliser la même couleur de bordure que les barres de données positives.
+Détermine s'il faut utiliser la même couleur de bordure que les barres de données positives.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def border_color_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DataBarNegativeColorType](/cells/python-net/fr/aspose.cells/databarnegativecolortype)
-* classe [NegativeBarFormat](/cells/python-net/fr/aspose.cells/negativebarformat)
+* module [`aspose.cells`](../../)
+* classe [`DataBarNegativeColorType`](/cells/python-net/fr/aspose.cells/databarnegativecolortype)
+* classe [`NegativeBarFormat`](/cells/python-net/fr/aspose.cells/negativebarformat)

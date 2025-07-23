@@ -17,10 +17,10 @@ Der Typ DataMashup macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [power_query_formulas](/cells/python-net/de/aspose.cells.querytables/datamashup/power_query_formulas) | Ruft alle Power-Query-Formeln ab.|
-| [power_query_formula_parameters](/cells/python-net/de/aspose.cells.querytables/datamashup/power_query_formula_parameters) | Ruft alle Parameter von Power-Query-Formeln ab.|
+| [power_query_formulas](/cells/python-net/de/aspose.cells.querytables/datamashup/power_query_formulas) | Ruft alle Power Query-Formeln ab.|
+| [power_query_formula_parameters](/cells/python-net/de/aspose.cells.querytables/datamashup/power_query_formula_parameters) | Ruft die Parameter der Power Query-Formel ab.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.querytables](..)
+* Modul [`aspose.cells.querytables`](..)

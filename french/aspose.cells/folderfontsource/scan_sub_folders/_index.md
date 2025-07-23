@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  scan_sub_folders propriété
 
-Détermine s'il faut analyser ou non les sous-dossiers.
+Détermine s'il faut ou non analyser les sous-dossiers.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def scan_sub_folders(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FolderFontSource](/cells/python-net/fr/aspose.cells/folderfontsource)
+* module [`aspose.cells`](../../)
+* classe [`FolderFontSource`](/cells/python-net/fr/aspose.cells/folderfontsource)

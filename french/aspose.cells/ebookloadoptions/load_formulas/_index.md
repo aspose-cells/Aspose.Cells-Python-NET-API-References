@@ -3,13 +3,13 @@ title: load_formulas propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 270
+weight: 250
 url: /fr/aspose.cells/ebookloadoptions/load_formulas/
 is_root: false
 ---
 ##  load_formulas propriété
 
-Indique si l'importation de formules est effectuée si le fichier HTML d'origine contient des formules
+Indique si l'importation de formules si le fichier HTML d'origine contient des formules
 ###  Définition:
 ```python
 @property

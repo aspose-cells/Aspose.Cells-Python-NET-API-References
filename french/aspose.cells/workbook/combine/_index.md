@@ -1,18 +1,19 @@
 ---
-title: combine méthode
+title: méthode combine
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 70
+weight: 80
 url: /fr/aspose.cells/workbook/combine/
 is_root: false
 ---
-##  combine(second_workbook) {#Workbook}
+##  combine(self, second_workbook) {#aspose.cells.Workbook}
 Combine un autre objet Workbook.
 
 
 
 ```python
+
 def combine(self, second_workbook):
     ...
 ```
@@ -20,13 +21,13 @@ def combine(self, second_workbook):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| second_workbook | [Workbook](/cells/python-net/fr/aspose.cells/workbook) | Un autre objet Workbook.|
+| second_workbook | [`Workbook`](/cells/python-net/fr/aspose.cells/workbook) | Un autre objet Workbook.|
 ###  Remarques
 
-Actuellement, seules les données de cellule et le style de cellule du deuxième objet Workbook peuvent être combinés. Les images, les graphiques et les autres objets de dessin ne sont pas pris en charge.
+Fusionner Excel, ODS, CSV et d'autres fichiers dans un seul fichier.
 
 
 ###  Voir également
 
-* module [aspose.cells](../../)
-* classe [Workbook](/cells/python-net/fr/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* classe [`Workbook`](/cells/python-net/fr/aspose.cells/workbook)

@@ -3,7 +3,7 @@ title: attached_files_directory propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 40
+weight: 50
 url: /fr/aspose.cells.saving/ebooksaveoptions/attached_files_directory/
 is_root: false
 ---

@@ -3,13 +3,13 @@ title: show_pivot_style_row_stripes propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 970
+weight: 1100
 url: /fr/aspose.cells.pivot/pivottable/show_pivot_style_row_stripes/
 is_root: false
 ---
 ##  show_pivot_style_row_stripes propriété
 
-Indique si la mise en forme des bandes de ligne est appliquée.
+Indique si le formatage des bandes de lignes est appliqué.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_pivot_style_row_stripes(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.pivot](../../)
-* classe [PivotTable](/cells/python-net/fr/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* classe [`PivotTable`](/cells/python-net/fr/aspose.cells.pivot/pivottable)

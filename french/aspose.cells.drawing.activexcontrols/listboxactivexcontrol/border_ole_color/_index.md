@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border_ole_color propriété
 
-Obtient et définit l'ancienne couleur de l'arrière-plan.
+Obtient et définit la couleur d'arrière-plan.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def border_ole_color(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [ListBoxActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ListBoxActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

@@ -1,5 +1,5 @@
 ---
-title: characters méthode
+title: méthode characters
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 50
 url: /fr/aspose.cells.drawing/arcshape/characters/
 is_root: false
 ---
-##  characters(start_index, length) {#int-int}
+##  characters(self, start_index, length) {#int-int}
 Renvoie un objet Characters qui représente une plage de characters dans le texte.
 
 
 ###  Retour
 
-Objet personnages.
+Objet Personnages.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -28,7 +29,7 @@ def characters(self, start_index, length):
 | length | int | Le nombre de caractères.|
 ###  Remarques
 
-Cette méthode ne fonctionne que sur la forme avec titre.
+Cette méthode ne fonctionne que sur les formes avec titre.
 ###  Exemple
 
 
@@ -41,5 +42,5 @@ fontSetting = shape.characters(0, 4)
 
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ArcShape](/cells/python-net/fr/aspose.cells.drawing/arcshape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ArcShape`](/cells/python-net/fr/aspose.cells.drawing/arcshape)

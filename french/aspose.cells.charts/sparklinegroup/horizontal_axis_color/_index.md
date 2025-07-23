@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  horizontal_axis_color propriété
 
-Obtient et définit la couleur de l'axe horizontal dans le groupe sparkline.
+Obtient et définit la couleur de l'axe horizontal dans le groupe Sparkline.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def horizontal_axis_color(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [CellsColor](/cells/python-net/fr/aspose.cells/cellscolor)
-* classe [SparklineGroup](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)
+* module [`aspose.cells.charts`](../../)
+* classe [`CellsColor`](/cells/python-net/fr/aspose.cells/cellscolor)
+* classe [`SparklineGroup`](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)

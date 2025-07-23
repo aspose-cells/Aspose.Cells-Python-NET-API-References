@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  field_id Eigentum
 
-Ruft die ID des bestimmten Abfragetabellenfelds ab, das entfernt wurde.
+Ruft die ID des spezifischen Abfragetabellenfelds ab, das entfernt wurde.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def field_id(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.revisions](../../)
-* Klasse [RevisionQueryTable](/cells/python-net/de/aspose.cells.revisions/revisionquerytable)
+* Modul [`aspose.cells.revisions`](../../)
+* Klasse [`RevisionQueryTable`](/cells/python-net/de/aspose.cells.revisions/revisionquerytable)

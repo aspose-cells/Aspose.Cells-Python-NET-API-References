@@ -21,5 +21,5 @@ def graphic_data(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.ods](../../)
-* classe [OdsPageBackground](/cells/python-net/fr/aspose.cells.ods/odspagebackground)
+* module [`aspose.cells.ods`](../../)
+* classe [`OdsPageBackground`](/cells/python-net/fr/aspose.cells.ods/odspagebackground)

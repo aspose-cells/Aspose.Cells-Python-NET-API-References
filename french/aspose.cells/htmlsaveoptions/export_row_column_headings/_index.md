@@ -3,17 +3,17 @@ title: export_row_column_headings propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 340
+weight: 400
 url: /fr/aspose.cells/htmlsaveoptions/export_row_column_headings/
 is_root: false
 ---
 ##  export_row_column_headings propriété
 
-Indique si les en-têtes de lignes et de colonnes de la feuille sont exportés lors de l'enregistrement dans des fichiers HTML.
+Indique si les en-têtes de ligne et de colonne de la feuille sont exportés lors de l'enregistrement dans des fichiers HTML.
 
 ###  Remarques
 
-La valeur par défaut est fausse.
+La valeur par défaut est false.
 ###  Définition:
 ```python
 @property

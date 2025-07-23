@@ -3,13 +3,11 @@ title: connection_id Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 50
+weight: 90
 url: /de/aspose.cells.externalconnections/webqueryconnection/connection_id/
 is_root: false
 ---
 ##  connection_id Eigentum
-
-Gibt den eindeutigen Bezeichner dieser Verbindung an.
 ###  Definition:
 ```python
 @property
@@ -18,5 +16,5 @@ def connection_id(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.externalconnections](../../)
-* Klasse [WebQueryConnection](/cells/python-net/de/aspose.cells.externalconnections/webqueryconnection)
+* Modul [`aspose.cells.externalconnections`](../../)
+* Klasse [`WebQueryConnection`](/cells/python-net/de/aspose.cells.externalconnections/webqueryconnection)

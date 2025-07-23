@@ -21,5 +21,5 @@ def back_color(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [MsoFillFormatHelper](/cells/python-net/fr/aspose.cells.drawing/msofillformathelper)
+* module [`aspose.cells.drawing`](../../)
+* classe [`MsoFillFormatHelper`](/cells/python-net/fr/aspose.cells.drawing/msofillformathelper)

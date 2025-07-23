@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  second propriété
 
-Obtient et définit le second de l'heure de la date groupée.
+Obtient et définit le second de la date et de l'heure groupées.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def second(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DateTimeGroupItem](/cells/python-net/fr/aspose.cells/datetimegroupitem)
+* module [`aspose.cells`](../../)
+* classe [`DateTimeGroupItem`](/cells/python-net/fr/aspose.cells/datetimegroupitem)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_name_auto Eigentum
 
-Gibt zurück, wenn Microsoft Excel den Namen der Trendlinie automatisch bestimmt.
+Gibt zurück, wenn Microsoft. Excel bestimmt automatisch den Namen der Trendlinie.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_name_auto(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Trendline](/cells/python-net/de/aspose.cells.charts/trendline)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Trendline`](/cells/python-net/de/aspose.cells.charts/trendline)

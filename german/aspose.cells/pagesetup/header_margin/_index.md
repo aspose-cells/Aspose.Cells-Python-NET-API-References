@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  header_margin Eigentum
 
-Stellt den Abstand vom oberen Rand der Seite zur Kopfzeile in Zentimetern dar.
+Stellt den Abstand vom oberen Seitenrand zur Kopfzeile in Zentimetern dar.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def header_margin(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

@@ -3,13 +3,13 @@ title: right Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 880
+weight: 890
 url: /de/aspose.cells.drawing/checkbox/right/
 is_root: false
 ---
 ##  right Eigentum
 
-Stellt die Breite des horizontalen Versatzes der Form von ihrer unteren right Eckspalte in Pixeleinheiten dar.
+Stellt die Breite des horizontalen Versatzes der Form von ihrer unteren Eckspalte right in Pixeln dar.
 
 ###  Beispiel
 

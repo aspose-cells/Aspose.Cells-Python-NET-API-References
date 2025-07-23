@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells/odsloadoptions/__init__/
 is_root: false
 ---
-##  OdsLoadOptions() {#}
+##  \_\_init\_\_(self){#}
 Représente les options de chargement du fichier ods.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  OdsLoadOptions(type) {#LoadFormat}
+##  \_\_init\_\_(auto, type){#aspose.cells.LoadFormat}
 Représente les options de chargement du fichier ods.
 
 
 
 ```python
+
 def __init__(self, type):
     ...
 ```
@@ -33,10 +35,10 @@ def __init__(self, type):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| type | [LoadFormat](/cells/python-net/fr/aspose.cells/loadformat) | Le type de format de chargement.|
+| type | [`LoadFormat`](/cells/python-net/fr/aspose.cells/loadformat) | Le type de format de chargement.|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [OdsLoadOptions](/cells/python-net/fr/aspose.cells/odsloadoptions)
+* module [`aspose.cells`](../../)
+* classe [`OdsLoadOptions`](/cells/python-net/fr/aspose.cells/odsloadoptions)

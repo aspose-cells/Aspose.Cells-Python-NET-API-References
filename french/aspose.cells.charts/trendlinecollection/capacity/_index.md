@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [TrendlineCollection](/cells/python-net/fr/aspose.cells.charts/trendlinecollection)
+* module [`aspose.cells.charts`](../../)
+* classe [`TrendlineCollection`](/cells/python-net/fr/aspose.cells.charts/trendlinecollection)

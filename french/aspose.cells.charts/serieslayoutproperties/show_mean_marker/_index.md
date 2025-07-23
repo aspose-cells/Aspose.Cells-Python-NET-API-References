@@ -3,7 +3,7 @@ title: show_mean_marker propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 100
+weight: 110
 url: /fr/aspose.cells.charts/serieslayoutproperties/show_mean_marker/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_mean_marker(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [SeriesLayoutProperties](/cells/python-net/fr/aspose.cells.charts/serieslayoutproperties)
+* module [`aspose.cells.charts`](../../)
+* classe [`SeriesLayoutProperties`](/cells/python-net/fr/aspose.cells.charts/serieslayoutproperties)

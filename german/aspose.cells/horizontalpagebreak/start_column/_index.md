@@ -18,5 +18,5 @@ def start_column(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [HorizontalPageBreak](/cells/python-net/de/aspose.cells/horizontalpagebreak)
+* Modul [`aspose.cells`](../../)
+* Klasse [`HorizontalPageBreak`](/cells/python-net/de/aspose.cells/horizontalpagebreak)

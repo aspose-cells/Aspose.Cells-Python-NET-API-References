@@ -3,13 +3,13 @@ title: update_links_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 500
+weight: 520
 url: /de/aspose.cells/workbooksettings/update_links_type/
 is_root: false
 ---
 ##  update_links_type Eigentum
 
-Ruft ab und legt fest, wie externe Links aktualisiert werden, wenn die Arbeitsmappe geöffnet wird.
+Ruft ab und legt fest, wie externe Links beim Öffnen der Arbeitsmappe aktualisiert werden.
 ###  Definition:
 ```python
 @property

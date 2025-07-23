@@ -8,7 +8,7 @@ url: /de/aspose.cells.externalconnections/htmlformathandlingtype/
 is_root: false
 ---
 ##  HtmlFormatHandlingType Aufzählung
-Gibt an, wie die Formatierung aus der Quelle HTML gehandhabt wird
+Gibt an, wie mit der Formatierung aus der Quelle HTML umgegangen werden soll
 
 
 
@@ -17,11 +17,11 @@ Der Typ HtmlFormatHandlingType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| ALL | Übertragen Sie alle HTML-Formatierungen zusammen mit den Daten in das Arbeitsblatt.|
-| NONE | Daten als unformatierten Text einspielen (das Setzen von Datentypen erfolgt weiterhin).|
-| RTF | Übersetzen Sie die HTML-Formatierung in die Rich-Text-Formatierung für die in das Arbeitsblatt eingebrachten Daten.|
+| ALL | Übertragen Sie die gesamte HTML-Formatierung zusammen mit den Daten in das Arbeitsblatt.|
+| NONE | Daten als unformatierten Text einfügen (das Festlegen der Datentypen erfolgt weiterhin).|
+| RTF |Übersetzen Sie die Formatierung HTML in die Rich-Text-Formatierung der in das Arbeitsblatt importierten Daten.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.externalconnections](..)
+* Modul [`aspose.cells.externalconnections`](..)

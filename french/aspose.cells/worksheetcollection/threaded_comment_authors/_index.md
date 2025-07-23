@@ -3,13 +3,13 @@ title: threaded_comment_authors propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 360
+weight: 390
 url: /fr/aspose.cells/worksheetcollection/threaded_comment_authors/
 is_root: false
 ---
 ##  threaded_comment_authors propriété
 
-Obtient la liste des auteurs de commentaires dans le fil de discussion.
+Obtient la liste des auteurs de commentaires en fil de discussion.
 ###  Définition:
 ```python
 @property

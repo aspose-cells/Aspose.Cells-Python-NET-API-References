@@ -21,5 +21,5 @@ def accelerator(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [RadioButtonActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`RadioButtonActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

@@ -7,8 +7,8 @@ weight: 70
 url: /de/aspose.cells.drawing/shapepropertycollection/has_shadow_effect/
 is_root: false
 ---
-##  has_shadow_effect() {#}
-Gibt an, ob die Form über Schatteneffektdaten verfügt.
+##  has_shadow_effect(self) {#}
+Gibt an, ob die Form Schatteneffektdaten enthält.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Gibt an, ob die Form über Schatteneffektdaten verfügt.
 
 
 ```python
+
 def has_shadow_effect(self):
     ...
 ```
@@ -26,5 +27,5 @@ def has_shadow_effect(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ShapePropertyCollection](/cells/python-net/de/aspose.cells.drawing/shapepropertycollection)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ShapePropertyCollection`](/cells/python-net/de/aspose.cells.drawing/shapepropertycollection)

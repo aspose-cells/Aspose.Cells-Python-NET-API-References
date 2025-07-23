@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  value propriété
 
-Nombre non entier value, Entier value, Chaîne value ou Booléen value
-à utiliser comme paramètre de requête. Utilisé uniquement lorsque le type de paramètre est value.
+Valeur numérique non entière value, entier value, chaîne value ou booléen value
+À utiliser comme paramètre de requête. Utilisé uniquement lorsque le paramètre parameterType est value.
 ###  Définition:
 ```python
 @property
@@ -22,5 +22,5 @@ def value(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.externalconnections](../../)
-* classe [ConnectionParameter](/cells/python-net/fr/aspose.cells.externalconnections/connectionparameter)
+* module [`aspose.cells.externalconnections`](../../)
+* classe [`ConnectionParameter`](/cells/python-net/fr/aspose.cells.externalconnections/connectionparameter)

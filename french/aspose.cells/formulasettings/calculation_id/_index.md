@@ -14,11 +14,11 @@ Spécifie la version du moteur de calcul utilisé pour calculer les valeurs dans
 ###  Remarques
 
 Cette propriété sert uniquement à enregistrer les paramètres dans le fichier de feuille de calcul résultant
-afin que d'autres applications (telles que ms excel) puissent agir en conséquence lors du chargement et de la manipulation du fichier résultant.
-Dans le cas de ms excel, si la valeur de cette propriété est inférieure à l'identifiant du moteur de recalcul associé
+afin que d'autres applications (telles que MS Excel) puissent agir en conséquence lors du chargement et de la manipulation du fichier résultant.
+Dans le cas de MS Excel, si la valeur de cette propriété est inférieure à l'identifiant du moteur de recalcul associé
 avec l'application qui ouvre le fichier résultant, l'application recalculera les résultats de toutes les formules
 sur ce classeur immédiatement après le chargement du fichier.
-Pour des raisons de performances pour la plupart des applications des utilisateurs, nous ne calculons aucune formule automatiquement sur le classeur,
+Pour des raisons de performances pour la plupart des applications des utilisateurs, nous ne calculons automatiquement aucune formule sur le classeur,
 quelle que soit la valeur définie pour cette propriété.
 ###  Définition:
 ```python
@@ -31,5 +31,5 @@ def calculation_id(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FormulaSettings](/cells/python-net/fr/aspose.cells/formulasettings)
+* module [`aspose.cells`](../../)
+* classe [`FormulaSettings`](/cells/python-net/fr/aspose.cells/formulasettings)

@@ -1,5 +1,5 @@
 ---
-title: RevisionActionType dénombrement
+title: RevisionActionType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 180
 url: /fr/aspose.cells.revisions/revisionactiontype/
 is_root: false
 ---
-##  RevisionActionType dénombrement
-Représente le type d'action de révision.
+##  RevisionActionType énumération
+Représente le type d’action de révision.
 
 
 
@@ -21,10 +21,10 @@ Le type RevisionActionType expose les membres suivants :
 | DELETE | Supprimer la révision.|
 | DELETE_COLUMN | Révision de suppression de colonne.|
 | DELETE_ROW | Révision de suppression de ligne.|
-| INSERT_COLUMN | Révision d'insertion de colonne.|
-| INSERT_ROW | Révision d'insertion de ligne.|
+| INSERT_COLUMN | Révision de l'insertion de colonne.|
+| INSERT_ROW | Révision de l'insertion de ligne.|
 
 
 
 ###  Voir également
-* module [aspose.cells.revisions](..)
+* module [`aspose.cells.revisions`](..)

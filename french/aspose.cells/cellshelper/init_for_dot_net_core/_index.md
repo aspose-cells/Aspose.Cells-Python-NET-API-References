@@ -1,23 +1,25 @@
 ---
-title: init_for_dot_net_core méthode
+title: méthode init_for_dot_net_core
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 150
+weight: 160
 url: /fr/aspose.cells/cellshelper/init_for_dot_net_core/
 is_root: false
 ---
 ##  init_for_dot_net_core() {#}
 Effectuez l'initialisation du programme .NetCore.
- Nous vous suggérons d'appeler cette méthode pour toutes les initialisations .NetCore en premier.
+ Nous vous suggérons d'appeler d'abord cette méthode pour toutes les initialisations .NetCore.
 Par exemple:
 CellsHelper.InitForDotNetCore();
-Workbook wb = new Workbook();
+Classeur wb = nouveau classeur();
 
 
 
 ```python
-def init_for_dot_net_core(self):
+
+@staticmethod
+def init_for_dot_net_core():
     ...
 ```
 
@@ -26,5 +28,5 @@ def init_for_dot_net_core(self):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CellsHelper](/cells/python-net/fr/aspose.cells/cellshelper)
+* module [`aspose.cells`](../../)
+* classe [`CellsHelper`](/cells/python-net/fr/aspose.cells/cellshelper)

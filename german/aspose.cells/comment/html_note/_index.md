@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  html_note Eigentum
 
-Ruft die HTML-Zeichenfolge ab, die Daten und einige Formate in diesem Kommentar enthält, und legt sie fest.
+Ruft die HTML-Zeichenfolge ab und legt sie fest, die Daten und einige Formate in diesem Kommentar enthält.
 
 ###  Bemerkungen
 
-Wenn es sich um einen Thread-Kommentar handelt, konnte die Notiz nicht geändert werden, da MS Excel sie sonst nicht als Thread-Kommentar verarbeiten könnte.
+Handelt es sich um einen Thread-Kommentar, kann die Notiz nicht geändert werden, da MS Excel sie sonst nicht als Thread-Kommentar verarbeiten könnte.
 
 ###  Beispiel
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_tiling Eigentum
 
-Gibt an, ob Kachelbild als Textur verwendet wird.
+Gibt an, ob das Bild als Textur gekachelt werden soll.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_tiling(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [TextureFill](/cells/python-net/de/aspose.cells.drawing/texturefill)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`TextureFill`](/cells/python-net/de/aspose.cells.drawing/texturefill)

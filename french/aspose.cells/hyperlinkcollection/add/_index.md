@@ -1,5 +1,5 @@
 ---
-title: add méthode
+title: méthode add
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 20
 url: /fr/aspose.cells/hyperlinkcollection/add/
 is_root: false
 ---
-##  add(cell_name, total_rows, total_columns, address) {#str-int-int-str}
-Ajoute un lien hypertexte à une cellule spécifiée ou à une plage de cellules.
+##  add(self, cell_name, total_rows, total_columns, address) {#str-int-int-str}
+Ajoute un lien hypertexte vers une cellule spécifiée ou une plage de cellules.
 
 
 ###  Retour
 
-[Hyperlink](/cells/python-net/fr/aspose.cells/hyperlink) indice d'objet.
+[`Hyperlink`](/cells/python-net/fr/aspose.cells/hyperlink) index d'objet.
 
 
 ```python
+
 def add(self, cell_name, total_rows, total_columns, address):
     ...
 ```
@@ -25,21 +26,22 @@ def add(self, cell_name, total_rows, total_columns, address):
 | Paramètre| Taper| Description|
 | :- | :- | :- |
 | cell_name | str | Cell nom.|
-| total_rows | int | Nombre de lignes dans cette plage de liens hypertexte.|
-| total_columns | int | Nombre de colonnes de cette plage de liens hypertexte.|
-| address | str | Adresse du lien hypertexte.|
+| total_rows | int | Nombre de lignes dans cette plage d'hyperliens.|
+| total_columns | int |Nombre de colonnes de cette plage d'hyperliens.|
+| address | str | Adresse de l'hyperlien.|
 
 
-##  add(first_row, first_column, total_rows, total_columns, address) {#int-int-int-int-str}
-Ajoute un lien hypertexte à une cellule spécifiée ou à une plage de cellules.
+##  add(self, first_row, first_column, total_rows, total_columns, address) {#int-int-int-int-str}
+Ajoute un lien hypertexte vers une cellule spécifiée ou une plage de cellules.
 
 
 ###  Retour
 
-[Hyperlink](/cells/python-net/fr/aspose.cells/hyperlink) indice d'objet.
+[`Hyperlink`](/cells/python-net/fr/aspose.cells/hyperlink) index d'objet.
 
 
 ```python
+
 def add(self, first_row, first_column, total_rows, total_columns, address):
     ...
 ```
@@ -47,11 +49,11 @@ def add(self, first_row, first_column, total_rows, total_columns, address):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| first_row | int | Première ligne de la plage de liens hypertexte.|
-| first_column | int | Première colonne de la plage de liens hypertexte.|
-| total_rows | int | Nombre de lignes dans cette plage de liens hypertexte.|
-| total_columns | int | Nombre de colonnes de cette plage de liens hypertexte.|
-| address | str | Adresse du lien hypertexte.|
+| first_row | int | Première ligne de la plage d'hyperliens.|
+| first_column | int | Première colonne de la plage d'hyperliens.|
+| total_rows | int | Nombre de lignes dans cette plage d'hyperliens.|
+| total_columns | int |Nombre de colonnes de cette plage d'hyperliens.|
+| address | str | Adresse de l'hyperlien.|
 
 ###  Exemple
 
@@ -67,16 +69,17 @@ worksheet.hyperlinks.add("A5", 1, 1, "c:\\book1.xls")
 ```
 
 
-##  add(start_cell_name, end_cell_name, address, text_to_display, screen_tip) {#str-str-str-str-str}
-Ajoute un lien hypertexte à une cellule spécifiée ou à une plage de cellules.
+##  add(self, start_cell_name, end_cell_name, address, text_to_display, screen_tip) {#str-str-str-str-str}
+Ajoute un lien hypertexte vers une cellule spécifiée ou une plage de cellules.
 
 
 ###  Retour
 
-[Hyperlink](/cells/python-net/fr/aspose.cells/hyperlink) indice d'objet.
+[`Hyperlink`](/cells/python-net/fr/aspose.cells/hyperlink) index d'objet.
 
 
 ```python
+
 def add(self, start_cell_name, end_cell_name, address, text_to_display, screen_tip):
     ...
 ```
@@ -84,15 +87,15 @@ def add(self, start_cell_name, end_cell_name, address, text_to_display, screen_t
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| start_cell_name | str | La cellule supérieure gauche de la plage.|
+| start_cell_name | str |La cellule en haut à gauche de la plage.|
 | end_cell_name | str | La cellule en bas à droite de la plage.|
-| address | str | Adresse du lien hypertexte.|
-| text_to_display | str | Texte à afficher pour le lien hypertexte spécifié.|
-| screen_tip | str |Le texte de l'info-bulle pour le lien hypertexte spécifié.|
+| address | str | Adresse de l'hyperlien.|
+| text_to_display | str | Le texte à afficher pour l'hyperlien spécifié.|
+| screen_tip | str | Le texte de l'info-bulle pour l'hyperlien spécifié.|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Hyperlink](/cells/python-net/fr/aspose.cells/hyperlink)
-* classe [HyperlinkCollection](/cells/python-net/fr/aspose.cells/hyperlinkcollection)
+* module [`aspose.cells`](../../)
+* classe [`Hyperlink`](/cells/python-net/fr/aspose.cells/hyperlink)
+* classe [`HyperlinkCollection`](/cells/python-net/fr/aspose.cells/hyperlinkcollection)

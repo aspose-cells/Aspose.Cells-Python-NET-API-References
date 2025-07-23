@@ -7,12 +7,13 @@ weight: 20
 url: /de/aspose.cells/protection/copy/
 is_root: false
 ---
-##  copy(source) {#Protection}
+##  copy(self, source) {#aspose.cells.Protection}
 Informationen zum Kopierschutz.
 
 
 
 ```python
+
 def copy(self, source):
     ...
 ```
@@ -20,10 +21,10 @@ def copy(self, source):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| source | [Protection](/cells/python-net/de/aspose.cells/protection) |  |
+| source | [`Protection`](/cells/python-net/de/aspose.cells/protection) |  |
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Protection](/cells/python-net/de/aspose.cells/protection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Protection`](/cells/python-net/de/aspose.cells/protection)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gap_width Eigentum
 
-Gibt den Abstand zwischen Balken- oder Säulenclustern als Prozentsatz der Balken- oder Säulenbreite zurück oder legt diesen fest.
+Gibt den Abstand zwischen Balken- oder Spaltenclustern als Prozentsatz der Balken- oder Spaltenbreite zurück oder legt ihn fest.
 Der Wert dieser Eigenschaft muss zwischen 0 und 500 liegen.
 ###  Definition:
 ```python

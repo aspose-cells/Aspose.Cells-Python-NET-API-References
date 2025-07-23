@@ -3,7 +3,7 @@ title: EmfRenderSetting Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2060
+weight: 1970
 url: /de/aspose.cells/emfrendersetting/
 is_root: false
 ---
@@ -17,7 +17,7 @@ Der Typ EmfRenderSetting macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| EMF_ONLY | Nur EMF-Datensätze rendern.|
+| EMF_ONLY | Es werden nur EMF-Aufzeichnungen wiedergegeben.|
 | EMF_PLUS_PREFER | Bevorzugen Sie das Rendern von EmfPlus-Datensätzen.|
 
 

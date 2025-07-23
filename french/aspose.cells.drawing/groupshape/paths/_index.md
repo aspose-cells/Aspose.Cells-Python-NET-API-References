@@ -3,13 +3,13 @@ title: paths propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 840
+weight: 850
 url: /fr/aspose.cells.drawing/groupshape/paths/
 is_root: false
 ---
 ##  paths propriété
 
-Obtient le paths d’une forme géométrique personnalisée.
+Obtient le paths d'une forme géométrique personnalisée.
 
 ###  Exemple
 

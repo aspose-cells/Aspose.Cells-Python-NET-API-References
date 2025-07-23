@@ -3,13 +3,13 @@ title: log_base propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 270
+weight: 280
 url: /fr/aspose.cells.charts/axis/log_base/
 is_root: false
 ---
 ##  log_base propriété
 
-Représente la base logarithmique. La valeur par défaut est 10. S'applique uniquement à Excel2007.
+Représente la base logarithmique. La valeur par défaut est 10. Applicable uniquement à Excel 2007.
 ###  Définition:
 ```python
 @property

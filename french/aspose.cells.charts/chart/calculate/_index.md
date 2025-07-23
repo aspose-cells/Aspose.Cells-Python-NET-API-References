@@ -7,12 +7,13 @@ weight: 20
 url: /fr/aspose.cells.charts/chart/calculate/
 is_root: false
 ---
-##  calculate {#}
-Calcule la position personnalisée de la zone de tracé, les axes si leur position est automatiquement attribuée.
+##  calculate(self) {#}
+Calcule la position personnalisée de la zone de tracé, des axes si leur position est attribuée automatiquement.
 
 
 
 ```python
+
 def calculate(self):
     ...
 ```
@@ -20,12 +21,13 @@ def calculate(self):
 
 
 
-##  calculate {#aspose.cells.charts.ChartCalculateOptions}
-Calcule la position personnalisée de la zone de tracé, les axes si leur position est automatiquement attribuée, avec les options de calcul de graphique.
+##  calculate(self, calculate_options) {#aspose.cells.charts.ChartCalculateOptions}
+Calcule la position personnalisée de la zone de tracé, des axes si leur position est attribuée automatiquement, avec les options de calcul du graphique.
 
 
 
 ```python
+
 def calculate(self, calculate_options):
     ...
 ```

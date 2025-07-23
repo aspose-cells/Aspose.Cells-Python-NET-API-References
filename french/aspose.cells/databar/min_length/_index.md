@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  min_length propriété
 
-Représente la longueur minimale de la barre de données .
+Représente la longueur minimale de la barre de données.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def min_length(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DataBar](/cells/python-net/fr/aspose.cells/databar)
+* module [`aspose.cells`](../../)
+* classe [`DataBar`](/cells/python-net/fr/aspose.cells/databar)

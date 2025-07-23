@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_arrowhead_width propriété
 
-Obtient et définit le type de largeur de flèche de fin de la ligne.
+Obtient et définit le type de largeur de la flèche de fin de la ligne.
 
 ###  Exemple
 
@@ -30,6 +30,6 @@ def end_arrowhead_width(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [LineFormat](/cells/python-net/fr/aspose.cells.drawing/lineformat)
-* classe [MsoArrowheadWidth](/cells/python-net/fr/aspose.cells.drawing/msoarrowheadwidth)
+* module [`aspose.cells.drawing`](../../)
+* classe [`LineFormat`](/cells/python-net/fr/aspose.cells.drawing/lineformat)
+* classe [`MsoArrowheadWidth`](/cells/python-net/fr/aspose.cells.drawing/msoarrowheadwidth)

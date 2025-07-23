@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  values_format_code propriété
 
-Représente le code de format de NumberList de Values.
+Représente le code de format de la NumberList de Values.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def values_format_code(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Series](/cells/python-net/fr/aspose.cells.charts/series)
+* module [`aspose.cells.charts`](../../)
+* classe [`Series`](/cells/python-net/fr/aspose.cells.charts/series)

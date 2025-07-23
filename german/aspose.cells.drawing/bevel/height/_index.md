@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  height Eigentum
 
-Ruft die height der Abschrägung ab und legt sie fest, oder wie weit über der Form sie angewendet wird.
-In Einheiten von Punkten.
+Ruft den height der Abschrägung ab und legt ihn fest, oder wie weit über der Form sie angewendet wird.
+In Punkten.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def height(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Bevel](/cells/python-net/de/aspose.cells.drawing/bevel)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Bevel`](/cells/python-net/de/aspose.cells.drawing/bevel)

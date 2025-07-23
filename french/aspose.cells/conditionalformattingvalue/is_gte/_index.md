@@ -12,8 +12,8 @@ is_root: false
  Obtenir ou définir l'indicateur Supérieur ou égal.
  Utiliser uniquement pour les ensembles d'icônes, détermine si cette valeur de seuil utilise
  l'opérateur supérieur ou égal à.
-false' indique que 'supérieur à' est utilisé à la place de 'supérieur ou égal à'.
-La valeur par défaut est true.
+« false » indique que « supérieur à » est utilisé à la place de « supérieur ou égal à ».
+La valeur par défaut est vrai.
 ###  Définition:
 ```python
 @property
@@ -25,5 +25,5 @@ def is_gte(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ConditionalFormattingValue](/cells/python-net/fr/aspose.cells/conditionalformattingvalue)
+* module [`aspose.cells`](../../)
+* classe [`ConditionalFormattingValue`](/cells/python-net/fr/aspose.cells/conditionalformattingvalue)

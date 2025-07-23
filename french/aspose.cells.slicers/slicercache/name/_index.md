@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name propriété
 
-Renvoie le name du cache du segment.
+Renvoie le name du cache du slicer.
 
 ###  Exemple
 
@@ -27,5 +27,5 @@ def name(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.slicers](../../)
-* classe [SlicerCache](/cells/python-net/fr/aspose.cells.slicers/slicercache)
+* module [`aspose.cells.slicers`](../../)
+* classe [`SlicerCache`](/cells/python-net/fr/aspose.cells.slicers/slicercache)

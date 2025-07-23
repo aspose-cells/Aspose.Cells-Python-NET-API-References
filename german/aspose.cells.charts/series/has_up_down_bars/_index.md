@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_up_down_bars Eigentum
 
-True, wenn ein Liniendiagramm über Aufwärts- und Abwärtsbalken verfügt.
+Wahr, wenn ein Liniendiagramm Aufwärts- und Abwärtsbalken hat.
 Gilt nur für Liniendiagramme.
 ###  Definition:
 ```python

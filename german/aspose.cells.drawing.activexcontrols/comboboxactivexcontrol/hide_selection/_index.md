@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  hide_selection Eigentum
 
-Gibt an, ob ausgewählter Text im Steuerelement hervorgehoben angezeigt wird, wenn das Steuerelement keinen Fokus hat.
+Gibt an, ob ausgewählter Text im Steuerelement hervorgehoben wird, wenn das Steuerelement nicht den Fokus hat.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def hide_selection(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [ComboBoxActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`ComboBoxActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

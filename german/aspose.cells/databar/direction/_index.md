@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  direction Eigentum
 
-Holt oder setzt die direction die Datenleiste wird angezeigt.
+Ruft die direction ab oder legt sie fest, bei der die Datenleiste angezeigt wird.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def direction(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [DataBar](/cells/python-net/de/aspose.cells/databar)
-* Klasse [TextDirectionType](/cells/python-net/de/aspose.cells/textdirectiontype)
+* Modul [`aspose.cells`](../../)
+* Klasse [`DataBar`](/cells/python-net/de/aspose.cells/databar)
+* Klasse [`TextDirectionType`](/cells/python-net/de/aspose.cells/textdirectiontype)

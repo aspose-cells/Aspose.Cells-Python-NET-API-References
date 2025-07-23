@@ -3,12 +3,12 @@ title: FontSetting Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 700
+weight: 690
 url: /de/aspose.cells/fontsetting/
 is_root: false
 ---
 ##  FontSetting Klasse
-Stellt einen Bereich von Zeichen im Zellentext dar.
+Stellt einen Zeichenbereich innerhalb des Zellentextes dar.
 
 
 
@@ -17,14 +17,14 @@ Der Typ FontSetting macht die folgenden Member verfügbar:
 ###  Konstrukteure
 | Konstrukteur| Beschreibung|
 | :- | :- |
-| [__init__](/cells/python-net/de/aspose.cells/fontsetting/__init__/#int-int-aspose.cells.WorksheetCollection) |  |
+| [`__init__(self, start_index, length, sheets)`](/cells/python-net/de/aspose.cells/fontsetting/__init__/#int-int-aspose.cells.worksheetcollection) |  |
 
 
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [type](/cells/python-net/de/aspose.cells/fontsetting/type) | Ruft den Typ des Textknotens ab.|
-| [start_index](/cells/python-net/de/aspose.cells/fontsetting/start_index) |Ruft den Startindex der Zeichen ab.|
+| [type](/cells/python-net/de/aspose.cells/fontsetting/type) |Ruft den Typ des Textknotens ab.|
+| [start_index](/cells/python-net/de/aspose.cells/fontsetting/start_index) | Ruft den Startindex der Zeichen ab.|
 | [length](/cells/python-net/de/aspose.cells/fontsetting/length) | Ruft die Länge der Zeichen ab.|
 | [font](/cells/python-net/de/aspose.cells/fontsetting/font) | Gibt die Schriftart dieses Objekts zurück.|
 | [text_options](/cells/python-net/de/aspose.cells/fontsetting/text_options) | Gibt die Textoptionen zurück.|
@@ -33,7 +33,7 @@ Der Typ FontSetting macht die folgenden Member verfügbar:
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [set_word_art_style](/cells/python-net/de/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | Legt den voreingestellten WordArt-Stil fest.|
+| [`set_word_art_style(self, style)`](/cells/python-net/de/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.presetwordartstyle) | Legt den voreingestellten WordArt-Stil fest.|
 
 
 

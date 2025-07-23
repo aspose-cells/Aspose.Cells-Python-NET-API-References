@@ -10,7 +10,7 @@ is_root: false
 ##  is_auto_word_selected propriété
 
  Spécifie l'unité de base utilisée pour étendre une sélection.
-True spécifie que l'unité de base est un caractère unique.
+True spécifie que l'unité de base est un seul caractère.
 false spécifie que l'unité de base est un mot entier.
 ###  Définition:
 ```python
@@ -23,5 +23,5 @@ def is_auto_word_selected(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [TextBoxActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`TextBoxActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

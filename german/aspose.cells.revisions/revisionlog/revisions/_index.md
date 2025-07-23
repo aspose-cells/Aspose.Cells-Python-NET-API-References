@@ -18,6 +18,6 @@ def revisions(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.revisions](../../)
-* Klasse [RevisionCollection](/cells/python-net/de/aspose.cells.revisions/revisioncollection)
-* Klasse [RevisionLog](/cells/python-net/de/aspose.cells.revisions/revisionlog)
+* Modul [`aspose.cells.revisions`](../../)
+* Klasse [`RevisionCollection`](/cells/python-net/de/aspose.cells.revisions/revisioncollection)
+* Klasse [`RevisionLog`](/cells/python-net/de/aspose.cells.revisions/revisionlog)

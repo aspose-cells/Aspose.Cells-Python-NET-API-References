@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  placement Eigentum
 
-Stellt die Art und Weise dar, wie das Zeichnungsobjekt an die darunter liegenden Zellen angehängt ist.
+Stellt die Art und Weise dar, wie das Zeichenobjekt mit den darunterliegenden Zellen verbunden ist.
 Die Eigenschaft steuert die placement eines Objekts auf einem Arbeitsblatt.
 
 ###  Beispiel
@@ -31,6 +31,6 @@ def placement(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.slicers](../../)
-* Klasse [PlacementType](/cells/python-net/de/aspose.cells.drawing/placementtype)
-* Klasse [Slicer](/cells/python-net/de/aspose.cells.slicers/slicer)
+* Modul [`aspose.cells.slicers`](../../)
+* Klasse [`PlacementType`](/cells/python-net/de/aspose.cells.drawing/placementtype)
+* Klasse [`Slicer`](/cells/python-net/de/aspose.cells.slicers/slicer)

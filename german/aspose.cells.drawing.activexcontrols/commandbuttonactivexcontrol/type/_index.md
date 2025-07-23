@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [CommandButtonActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
-* Klasse [ControlType](/cells/python-net/de/aspose.cells.drawing.activexcontrols/controltype)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`CommandButtonActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
+* Klasse [`ControlType`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/controltype)

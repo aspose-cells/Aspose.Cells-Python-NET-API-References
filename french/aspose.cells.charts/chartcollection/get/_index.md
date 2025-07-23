@@ -1,5 +1,5 @@
 ---
-title: get méthode
+title: méthode get
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 60
 url: /fr/aspose.cells.charts/chartcollection/get/
 is_root: false
 ---
-##  get(index) {#int}
-Ajouter API for Python Via .Net.car cet [int index] n'est pas pris en charge
+##  get(self, index) {#int}
+Ajoutez API for Python via .Net. puisque cet [index int] n'est pas pris en charge
 
 
 ###  Retour
@@ -17,6 +17,7 @@ Ajouter API for Python Via .Net.car cet [int index] n'est pas pris en charge
 
 
 ```python
+
 def get(self, index):
     ...
 ```
@@ -24,11 +25,11 @@ def get(self, index):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| index | int | Index de base zéro de l'élément.|
+| index | int | L'indice de base zéro de l'élément.|
 
 
-##  get(name) {#str}
-Ajouter API for Python Via .Net.car ce [chaîne de caractères] n'est pas pris en charge
+##  get(self, name) {#str}
+Ajoutez API for Python via .Net. puisque ce [chaîne de caractères] n'est pas pris en charge
 
 
 ###  Retour
@@ -37,6 +38,7 @@ Ajouter API for Python Via .Net.car ce [chaîne de caractères] n'est pas pris e
 
 
 ```python
+
 def get(self, name):
     ...
 ```
@@ -44,10 +46,10 @@ def get(self, name):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| name | str |Nom du graphique|
+| name | str | Nom du graphique|
 
 
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [ChartCollection](/cells/python-net/fr/aspose.cells.charts/chartcollection)
+* module [`aspose.cells.charts`](../../)
+* classe [`ChartCollection`](/cells/python-net/fr/aspose.cells.charts/chartcollection)

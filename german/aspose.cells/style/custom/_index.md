@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  custom Eigentum
 
-Repräsentiert die Zahlenformatzeichenfolge custom dieses Stilobjekts.
-Wenn das Zahlenformat custom nicht festgelegt ist (z. B. das Zahlenformat ist integriert), wird "" zurückgegeben.
+Stellt die Zahlenformatzeichenfolge custom dieses Stilobjekts dar.
+Wenn das Zahlenformat custom nicht festgelegt ist (z. B. weil das Zahlenformat integriert ist), wird „“ zurückgegeben.
 
 ###  Bemerkungen
 
@@ -26,5 +26,5 @@ def custom(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Style](/cells/python-net/de/aspose.cells/style)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Style`](/cells/python-net/de/aspose.cells/style)

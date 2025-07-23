@@ -7,16 +7,17 @@ weight: 50
 url: /de/aspose.cells.vba/vbaproject/validate_password/
 is_root: false
 ---
-##  validate_password(password) {#str}
+##  validate_password(self, password) {#str}
 Validiert das Schutzkennwort.
 
 
 ###  Kehrt zurück
 
-Ob das Kennwort das Schutzkennwort dieses VBA-Projekts ist
+Ob das Passwort das Schutzkennwort dieses VBA-Projekts ist
 
 
 ```python
+
 def validate_password(self, password):
     ...
 ```
@@ -29,5 +30,5 @@ def validate_password(self, password):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.vba](../../)
-* Klasse [VbaProject](/cells/python-net/de/aspose.cells.vba/vbaproject)
+* Modul [`aspose.cells.vba`](../../)
+* Klasse [`VbaProject`](/cells/python-net/de/aspose.cells.vba/vbaproject)

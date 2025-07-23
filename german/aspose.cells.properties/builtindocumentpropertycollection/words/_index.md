@@ -3,7 +3,7 @@ title: words Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 410
+weight: 420
 url: /de/aspose.cells.properties/builtindocumentpropertycollection/words/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def words(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.properties](../../)
-* Klasse [BuiltInDocumentPropertyCollection](/cells/python-net/de/aspose.cells.properties/builtindocumentpropertycollection)
+* Modul [`aspose.cells.properties`](../../)
+* Klasse [`BuiltInDocumentPropertyCollection`](/cells/python-net/de/aspose.cells.properties/builtindocumentpropertycollection)

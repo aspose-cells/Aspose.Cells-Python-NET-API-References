@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  total_columns propriété
 
-Obtient ou définit le nombre total de colonnes à importer depuis la source de données. -1 signifie toutes les lignes d'une source de données donnée.
+Obtient ou définit le nombre total de colonnes à importer à partir de la source de données. -1 signifie toutes les lignes de la source de données donnée.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def total_columns(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ImportTableOptions](/cells/python-net/fr/aspose.cells/importtableoptions)
+* module [`aspose.cells`](../../)
+* classe [`ImportTableOptions`](/cells/python-net/fr/aspose.cells/importtableoptions)

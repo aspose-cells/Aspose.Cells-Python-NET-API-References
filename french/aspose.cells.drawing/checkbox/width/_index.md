@@ -3,7 +3,7 @@ title: width propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1200
+weight: 1210
 url: /fr/aspose.cells.drawing/checkbox/width/
 is_root: false
 ---

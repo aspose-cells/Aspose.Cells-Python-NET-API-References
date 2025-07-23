@@ -3,13 +3,13 @@ title: timelines propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 840
+weight: 860
 url: /fr/aspose.cells/worksheet/timelines/
 is_root: false
 ---
 ##  timelines propriété
 
-Obtenez la collection Timeline dans la feuille de calcul
+Obtenez la collection Chronologie dans la feuille de calcul
 ###  Définition:
 ```python
 @property

@@ -3,13 +3,13 @@ title: relative_to_original_picture_size Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 850
+weight: 860
 url: /de/aspose.cells.drawing/customxmlshape/relative_to_original_picture_size/
 is_root: false
 ---
 ##  relative_to_original_picture_size Eigentum
 
-Gibt an, ob die Form relativ zur Originalbildgröße ist.
+Gibt an, ob die Form relativ zur ursprünglichen Bildgröße ist.
 
 ###  Beispiel
 

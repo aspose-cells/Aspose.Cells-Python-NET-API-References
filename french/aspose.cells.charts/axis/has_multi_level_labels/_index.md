@@ -3,13 +3,13 @@ title: has_multi_level_labels propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 170
+weight: 180
 url: /fr/aspose.cells.charts/axis/has_multi_level_labels/
 is_root: false
 ---
 ##  has_multi_level_labels propriété
 
-Indique si les étiquettes doivent être affichées à plusieurs niveaux.
+Indique si les étiquettes doivent être affichées sur plusieurs niveaux.
 
 ###  Remarques
 

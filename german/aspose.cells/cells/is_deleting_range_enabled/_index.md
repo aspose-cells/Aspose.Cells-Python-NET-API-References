@@ -3,11 +3,11 @@ title: is_deleting_range_enabled Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 750
+weight: 770
 url: /de/aspose.cells/cells/is_deleting_range_enabled/
 is_root: false
 ---
-##  is_deleting_range_enabled {#int-int-int-int}
+##  is_deleting_range_enabled(self, start_row, start_column, total_rows, total_columns) {#int-int-int-int}
 Prüfen Sie, ob der Bereich gelöscht werden konnte.
 
 
@@ -17,6 +17,7 @@ Prüfen Sie, ob der Bereich gelöscht werden konnte.
 
 
 ```python
+
 def is_deleting_range_enabled(self, start_row, start_column, total_rows, total_columns):
     ...
 ```

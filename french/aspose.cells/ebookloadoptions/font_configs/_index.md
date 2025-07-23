@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_configs propriété
 
- Obtient et définit des configurations de police individuelles.
+ Obtient et définit les configurations de polices individuelles.
 Fonctionne uniquement pour le [`Workbook`](/cells/python-net/fr/aspose.cells/workbook) qui utilise ce [`LoadOptions`](/cells/python-net/fr/aspose.cells/loadoptions) pour charger.
 ###  Définition:
 ```python

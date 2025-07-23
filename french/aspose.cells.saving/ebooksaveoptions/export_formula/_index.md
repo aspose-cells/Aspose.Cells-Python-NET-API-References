@@ -3,14 +3,14 @@ title: export_formula propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 240
+weight: 310
 url: /fr/aspose.cells.saving/ebooksaveoptions/export_formula/
 is_root: false
 ---
 ##  export_formula propriété
 
-Indique si l'exportation de la formule lors de l'enregistrement du fichier au format HTML. La valeur par défaut est vraie.
-Si vous souhaitez importer le code HTML de sortie vers Excel, veuillez conserver la valeur par défaut.
+Indique si la formule doit être exportée lors de l'enregistrement du fichier au format HTML. La valeur par défaut est « true ».
+Si vous souhaitez importer la sortie HTML vers Excel, veuillez conserver la valeur par défaut.
 ###  Définition:
 ```python
 @property

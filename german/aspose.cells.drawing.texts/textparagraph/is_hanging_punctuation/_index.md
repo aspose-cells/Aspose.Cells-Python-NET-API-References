@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_hanging_punctuation Eigentum
 
-Gibt an, ob Satzzeichen zwangsweise in einer Textzeile oder in einer anderen Textzeile angeordnet werden sollen.
+Gibt an, ob die Satzzeichen zwangsweise in einer Textzeile oder in einer anderen Textzeile angeordnet werden sollen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_hanging_punctuation(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [TextParagraph](/cells/python-net/de/aspose.cells.drawing.texts/textparagraph)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`TextParagraph`](/cells/python-net/de/aspose.cells.drawing.texts/textparagraph)

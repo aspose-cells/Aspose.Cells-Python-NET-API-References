@@ -3,16 +3,17 @@ title: méthode set_text_of_multiple_items
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 280
+weight: 290
 url: /fr/aspose.cells/settablepivotglobalizationsettings/set_text_of_multiple_items/
 is_root: false
 ---
-##  set_text_of_multiple_items {#str}
-Définit le texte de l'étiquette "(Éléments multiples)" dans le tableau croisé dynamique.
+##  set_text_of_multiple_items(self, text) {#str}
+Définit le texte de l'étiquette « (Plusieurs éléments) » dans le tableau croisé dynamique.
 
 
 
 ```python
+
 def set_text_of_multiple_items(self, text):
     ...
 ```

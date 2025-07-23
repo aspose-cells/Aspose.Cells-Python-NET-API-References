@@ -7,7 +7,7 @@ weight: 30
 url: /de/aspose.cells/worksheetcollection/add_copy/
 is_root: false
 ---
-##  add_copy {#str}
+##  add_copy(self, sheet_name) {#str}
 Fügt der Sammlung ein Arbeitsblatt hinzu und kopiert Daten aus einem vorhandenen Arbeitsblatt.
 
 
@@ -17,6 +17,7 @@ Fügt der Sammlung ein Arbeitsblatt hinzu und kopiert Daten aus einem vorhandene
 
 
 ```python
+
 def add_copy(self, sheet_name):
     ...
 ```
@@ -33,7 +34,7 @@ def add_copy(self, sheet_name):
 
 
 
-##  add_copy {#int}
+##  add_copy(self, sheet_index) {#int}
 Fügt der Sammlung ein Arbeitsblatt hinzu und kopiert Daten aus einem vorhandenen Arbeitsblatt.
 
 
@@ -43,6 +44,7 @@ Fügt der Sammlung ein Arbeitsblatt hinzu und kopiert Daten aus einem vorhandene
 
 
 ```python
+
 def add_copy(self, sheet_index):
     ...
 ```
@@ -53,12 +55,13 @@ def add_copy(self, sheet_index):
 | sheet_index | int | Index des Quellarbeitsblatts.|
 
 
-##  add_copy {#list-list}
+##  add_copy(self, source, dest_sheet_names) {#list-list}
 Kopieren Sie eine Gruppe von Arbeitsblättern.
 
 
 
 ```python
+
 def add_copy(self, source, dest_sheet_names):
     ...
 ```

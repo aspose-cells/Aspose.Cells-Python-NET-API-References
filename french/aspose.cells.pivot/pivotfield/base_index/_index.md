@@ -3,7 +3,7 @@ title: base_index propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 220
+weight: 300
 url: /fr/aspose.cells.pivot/pivotfield/base_index/
 is_root: false
 ---

@@ -1,19 +1,20 @@
 ---
-title: to_image méthode
+title: méthode to_image
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 120
+weight: 140
 url: /fr/aspose.cells.charts/chart/to_image/
 is_root: false
 ---
-##  to_image(image_file) {#str}
+##  to_image(self, image_file) {#str}
 Crée l'image du graphique et l'enregistre dans un fichier.
 L'extension du nom de fichier détermine le format de l'image.
 
 
 
 ```python
+
 def to_image(self, image_file):
     ...
 ```
@@ -25,19 +26,20 @@ def to_image(self, image_file):
 ###  Remarques
 
 Le format de l'image est spécifié en utilisant l'extension du nom de fichier.
-Par exemple, si vous spécifiez "monfichier.png", l'image sera enregistrée
+Par exemple, si vous spécifiez « monfichier.png », l’image sera enregistrée
  au format PNG. Les extensions de fichier suivantes sont reconnues :
 .bmp, .gif, .png, .jpg, .jpeg, .tiff, .tif, .emf.
 
 
-Si la largeur ou la hauteur est nulle ou si le graphique n'est pas pris en charge conformément à la liste des graphiques pris en charge, cette méthode ne fera rien.
+Si la largeur ou la hauteur est nulle ou si le graphique n'est pas pris en charge selon la liste des graphiques pris en charge, cette méthode ne fera rien.
 
-##  to_image(image_file, image_type) {#str-aspose.cells.drawing.ImageType}
+##  to_image(self, image_file, image_type) {#str-aspose.cells.drawing.ImageType}
 Crée l'image du graphique et l'enregistre dans un fichier dans le type d'image spécifié.
 
 
 
 ```python
+
 def to_image(self, image_file, image_type):
     ...
 ```
@@ -46,22 +48,23 @@ def to_image(self, image_file, image_type):
 | Paramètre| Taper| Description|
 | :- | :- | :- |
 | image_file | str | Le nom du fichier image avec le chemin complet.|
-| image_type | aspose.cells.drawing.ImageType | Type d'image dans lequel enregistrer l'image.|
+| image_type | aspose.cells.drawing.ImageType | Le type d'image dans lequel enregistrer l'image.|
 ###  Remarques
 
-Le type d'image est spécifié à l'aide de `imageType`.
+Le type d'image est spécifié en utilisant `imageType`.
  Les types suivants sont pris en charge :
 ImageType.Bmp, ImageType.Gif, ImageType.Png, ImageType.Jpeg, ImageType.Tiff, ImageType.Emf.
 
 
-Si la largeur ou la hauteur est nulle ou si le graphique n'est pas pris en charge conformément à la liste des graphiques pris en charge, cette méthode ne fera rien.
+Si la largeur ou la hauteur est nulle ou si le graphique n'est pas pris en charge selon la liste des graphiques pris en charge, cette méthode ne fera rien.
 
-##  to_image(image_file, jpeg_quality) {#str-int}
+##  to_image(self, image_file, jpeg_quality) {#str-int}
 Crée l'image du graphique et l'enregistre dans un fichier au format Jpeg.
 
 
 
 ```python
+
 def to_image(self, image_file, jpeg_quality):
     ...
 ```
@@ -73,15 +76,19 @@ def to_image(self, image_file, jpeg_quality):
 | jpeg_quality | int | Qualité Jpeg.|
 ###  Remarques
 
-Si la largeur ou la hauteur est nulle ou si le graphique n'est pas pris en charge conformément à la liste des graphiques pris en charge, cette méthode ne fera rien.
+Si la largeur ou la hauteur est nulle ou si le graphique n'est pas pris en charge selon la liste des graphiques pris en charge, cette méthode ne fera rien.
+ REMARQUE : Cette méthode est désormais obsolète. À la place,
+veuillez utiliser la méthode ToImage(string,ImageOrPrintOptions) avec la qualité spécifiée.
+ Cette méthode sera supprimée 12 mois plus tard, soit en mars 2025.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 
-##  to_image(stream, jpeg_quality) {#io.RawIOBase-int}
-
+##  to_image(self, stream, jpeg_quality) {#io.RawIOBase-int}
 Crée l'image du graphique et l'enregistre dans un flux au format Jpeg.
 
 
 
 ```python
+
 def to_image(self, stream, jpeg_quality):
     ...
 ```
@@ -93,15 +100,16 @@ def to_image(self, stream, jpeg_quality):
 | jpeg_quality | int | Qualité Jpeg.|
 ###  Remarques
 
-Si la largeur ou la hauteur est nulle ou si le graphique n'est pas pris en charge conformément à la liste des graphiques pris en charge, cette méthode ne fera rien.
+Si la largeur ou la hauteur est nulle ou si le graphique n'est pas pris en charge selon la liste des graphiques pris en charge, cette méthode ne fera rien.
 
-##  to_image(stream, image_type) {#io.RawIOBase-aspose.cells.drawing.ImageType}
+##  to_image(self, stream, image_type) {#io.RawIOBase-aspose.cells.drawing.ImageType}
 
 Crée l'image du graphique et l'enregistre dans un flux au format spécifié.
 
 
 
 ```python
+
 def to_image(self, stream, image_type):
     ...
 ```
@@ -110,23 +118,24 @@ def to_image(self, stream, image_type):
 | Paramètre| Taper| Description|
 | :- | :- | :- |
 | stream | io.RawIOBase | Le flux de sortie.|
-| image_type | aspose.cells.drawing.ImageType | Type d'image dans lequel enregistrer l'image.|
+| image_type | aspose.cells.drawing.ImageType | Le type d'image dans lequel enregistrer l'image.|
 ###  Remarques
 
-Le type d'image est spécifié à l'aide de `imageType`.
+Le type d'image est spécifié en utilisant `imageType`.
  Les types suivants sont pris en charge :
 ImageType.Bmp, ImageType.Gif, ImageType.Png, ImageType.Jpeg, ImageType.Tiff, ImageType.Emf.
 
 
-Si la largeur ou la hauteur est nulle ou si le graphique n'est pas pris en charge conformément à la liste des graphiques pris en charge, cette méthode ne fera rien.
+Si la largeur ou la hauteur est nulle ou si le graphique n'est pas pris en charge selon la liste des graphiques pris en charge, cette méthode ne fera rien.
 
-##  to_image(image_file, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image(self, image_file, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
 Crée l'image du graphique et l'enregistre dans un fichier.
 L'extension du nom de fichier détermine le format de l'image.
 
 
 
 ```python
+
 def to_image(self, image_file, options):
     ...
 ```
@@ -139,13 +148,13 @@ def to_image(self, image_file, options):
 ###  Remarques
 
 Le format de l'image est spécifié en utilisant l'extension du nom de fichier.
-Par exemple, si vous spécifiez "monfichier.png", l'image sera enregistrée
+Par exemple, si vous spécifiez « monfichier.png », l’image sera enregistrée
  au format PNG. Les extensions de fichier suivantes sont reconnues :
 .bmp, .gif, .png, .jpg, .jpeg, .tiff, .tif, .emf.
 
 
-Si la largeur ou la hauteur est nulle ou si le graphique n'est pas pris en charge conformément à la liste des graphiques pris en charge, cette méthode ne fera rien.
- Prière de se référer à[Liste des graphiques pris en charge](http://www.aspose.com/documentation/.net-components/aspose.cells-for-.net/converting-chart-to-image.html)pour plus de détails.
+Si la largeur ou la hauteur est nulle ou si le graphique n'est pas pris en charge selon la liste des graphiques pris en charge, cette méthode ne fera rien.
+ Veuillez vous référer à[Liste des graphiques pris en charge](http://www.aspose.com/documentation/.net-components/aspose.cells-for-.net/converting-chart-to-image.html) pour plus de détails.
 ###  Exemple
 
 Enregistre au format Tiff avec 300 dpi et compression CCITT4.
@@ -164,7 +173,7 @@ book.worksheets[0].charts[0].to_image(r"chart.Tiff", options)
 ```
 
 
-Enregistre au format Jpeg avec une résolution de 300 dpi et une qualité d'image de 80.
+Enregistre au format Jpeg avec 300 dpi et une qualité d'image de 80.
 
 ```python
 from aspose.cells import Workbook
@@ -180,12 +189,13 @@ book.worksheets[0].charts[0].to_image(r"chart.Jpeg", options)
 ```
 
 
-##  to_image(stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image(self, stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
 Crée l'image du graphique et l'enregistre dans un flux au format spécifié.
 
 
 
 ```python
+
 def to_image(self, stream, options):
     ...
 ```
@@ -197,15 +207,15 @@ def to_image(self, stream, options):
 | options | aspose.cells.rendering.ImageOrPrintOptions | Options de création d'images supplémentaires|
 ###  Remarques
 
-Le type d'image est spécifié à l'aide de `options.ImageType`.
+Le type d'image est spécifié en utilisant `options.ImageType`.
  Les formats suivants sont pris en charge :
 ImageType.Bmp, ImageType.Gif, ImageType.Png, ImageType.Jpeg, ImageType.Tiff, ImageType.Emf.
 
 
-Si la largeur ou la hauteur est nulle ou si le graphique n'est pas pris en charge conformément à la liste des graphiques pris en charge, cette méthode ne fera rien.
- Prière de se référer à[Liste des graphiques pris en charge](http://www.aspose.com/documentation/.net-components/aspose.cells-for-.net/converting-chart-to-image.html)pour plus de détails.
+Si la largeur ou la hauteur est nulle ou si le graphique n'est pas pris en charge selon la liste des graphiques pris en charge, cette méthode ne fera rien.
+ Veuillez vous référer à[Liste des graphiques pris en charge](http://www.aspose.com/documentation/.net-components/aspose.cells-for-.net/converting-chart-to-image.html) pour plus de détails.
 
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Chart](/cells/python-net/fr/aspose.cells.charts/chart)
+* module [`aspose.cells.charts`](../../)
+* classe [`Chart`](/cells/python-net/fr/aspose.cells.charts/chart)

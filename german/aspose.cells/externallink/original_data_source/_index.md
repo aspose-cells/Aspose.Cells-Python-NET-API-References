@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  original_data_source Eigentum
 
-Repräsentiert die gespeicherte Datenquelle des externen Links.
+Stellt die gespeicherte Datenquelle des externen Links dar.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def original_data_source(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ExternalLink](/cells/python-net/de/aspose.cells/externallink)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ExternalLink`](/cells/python-net/de/aspose.cells/externallink)

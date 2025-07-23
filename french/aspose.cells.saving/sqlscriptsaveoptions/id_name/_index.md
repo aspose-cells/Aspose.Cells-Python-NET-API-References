@@ -3,7 +3,7 @@ title: id_name propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 140
+weight: 160
 url: /fr/aspose.cells.saving/sqlscriptsaveoptions/id_name/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Obtient et définit le nom de la colonne id.
 
 ###  Remarques
 
-Si cette propriété est définie, une colonne sera insérée avec une valeur int d'incrémentation automatique.
+Si cette propriété est définie, une colonne sera insérée avec une valeur int incrémentée automatiquement.
 ###  Définition:
 ```python
 @property
@@ -25,5 +25,5 @@ def id_name(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.saving](../../)
-* classe [SqlScriptSaveOptions](/cells/python-net/fr/aspose.cells.saving/sqlscriptsaveoptions)
+* module [`aspose.cells.saving`](../../)
+* classe [`SqlScriptSaveOptions`](/cells/python-net/fr/aspose.cells.saving/sqlscriptsaveoptions)

@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  backward Eigentum
 
- Gibt die Anzahl der Perioden (oder Einheiten in einem Streudiagramm) zurück oder legt sie fest, um die sich die Trendlinie erstreckt backward.
+ Gibt die Anzahl der Perioden (oder Einheiten in einem Streudiagramm) zurück, um die sich die Trendlinie über backward erstreckt, oder legt diese fest.
 Die Anzahl der Perioden muss größer oder gleich Null sein.
-Wenn der Diagrammtyp Spalte ist, muss die Anzahl der Perioden zwischen 0 und 0,5 liegen
+Wenn der Diagrammtyp ein Säulendiagramm ist, muss die Anzahl der Perioden zwischen 0 und 0,5 liegen.
 ###  Definition:
 ```python
 @property
@@ -23,5 +23,5 @@ def backward(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Trendline](/cells/python-net/de/aspose.cells.charts/trendline)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Trendline`](/cells/python-net/de/aspose.cells.charts/trendline)

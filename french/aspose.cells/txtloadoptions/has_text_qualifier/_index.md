@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_text_qualifier propriété
 
-Indique s'il existe un qualificateur de texte pour la valeur de la cellule. La valeur par défaut est true.
+Indique si la valeur de la cellule contient un qualificateur de texte. La valeur par défaut est « true ».
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def has_text_qualifier(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [TxtLoadOptions](/cells/python-net/fr/aspose.cells/txtloadoptions)
+* module [`aspose.cells`](../../)
+* classe [`TxtLoadOptions`](/cells/python-net/fr/aspose.cells/txtloadoptions)

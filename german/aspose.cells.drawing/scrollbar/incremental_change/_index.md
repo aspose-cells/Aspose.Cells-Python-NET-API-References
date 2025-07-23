@@ -3,13 +3,13 @@ title: incremental_change Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 530
+weight: 520
 url: /de/aspose.cells.drawing/scrollbar/incremental_change/
 is_root: false
 ---
 ##  incremental_change Eigentum
 
-Ruft den Betrag ab, um den die Bildlaufleiste oder der Spinner um einen Zeilenscroll erhöht wird, oder legt diesen fest.
+Ruft den Betrag ab, um den die Bildlaufleiste oder das Spinnerfeld bei einem Zeilenbildlauf erhöht wird, oder legt diesen fest.
 ###  Definition:
 ```python
 @property

@@ -21,5 +21,5 @@ def precision_as_displayed(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FormulaSettings](/cells/python-net/fr/aspose.cells/formulasettings)
+* module [`aspose.cells`](../../)
+* classe [`FormulaSettings`](/cells/python-net/fr/aspose.cells/formulasettings)

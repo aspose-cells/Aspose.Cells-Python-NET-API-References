@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  time_period propriété
 
- La période applicable dans une règle de mise en forme conditionnelle "date survenant…".
-Valide uniquement pour type = timePeriod.
+ La période applicable dans une règle de mise en forme conditionnelle « date survenant… ».
+Valable uniquement pour le type = timePeriod.
 La valeur par défaut est TimePeriodType.Today.
 ###  Définition:
 ```python
@@ -23,6 +23,6 @@ def time_period(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FormatCondition](/cells/python-net/fr/aspose.cells/formatcondition)
-* classe [TimePeriodType](/cells/python-net/fr/aspose.cells/timeperiodtype)
+* module [`aspose.cells`](../../)
+* classe [`FormatCondition`](/cells/python-net/fr/aspose.cells/formatcondition)
+* classe [`TimePeriodType`](/cells/python-net/fr/aspose.cells/timeperiodtype)

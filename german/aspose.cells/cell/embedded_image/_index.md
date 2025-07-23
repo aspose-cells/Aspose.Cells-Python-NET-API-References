@@ -3,7 +3,7 @@ title: embedded_image Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 470
+weight: 480
 url: /de/aspose.cells/cell/embedded_image/
 is_root: false
 ---

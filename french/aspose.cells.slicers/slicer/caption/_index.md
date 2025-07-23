@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  caption propriété
 
-Renvoie ou définit le caption du segment spécifié.
+Renvoie ou définit le caption du slicer spécifié.
 
 ###  Exemple
 
@@ -29,5 +29,5 @@ def caption(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.slicers](../../)
-* classe [Slicer](/cells/python-net/fr/aspose.cells.slicers/slicer)
+* module [`aspose.cells.slicers`](../../)
+* classe [`Slicer`](/cells/python-net/fr/aspose.cells.slicers/slicer)

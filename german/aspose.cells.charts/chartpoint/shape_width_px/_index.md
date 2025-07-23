@@ -3,7 +3,7 @@ title: shape_width_px Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 350
+weight: 360
 url: /de/aspose.cells.charts/chartpoint/shape_width_px/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def shape_width_px(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ChartPoint](/cells/python-net/de/aspose.cells.charts/chartpoint)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ChartPoint`](/cells/python-net/de/aspose.cells.charts/chartpoint)

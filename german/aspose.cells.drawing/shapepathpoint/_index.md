@@ -3,12 +3,12 @@ title: ShapePathPoint Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 590
+weight: 560
 url: /de/aspose.cells.drawing/shapepathpoint/
 is_root: false
 ---
 ##  ShapePathPoint Klasse
-Repräsentiert eine xy-Koordinate innerhalb des Pfadkoordinatenraums.
+Stellt eine xy-Koordinate innerhalb des Pfadkoordinatenraums dar.
 
 
 
@@ -17,10 +17,10 @@ Der Typ ShapePathPoint macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [x](/cells/python-net/de/aspose.cells.drawing/shapepathpoint/x) | Ruft die x-Koordinate für diese Positionskoordinate ab und legt sie fest.|
-| [y](/cells/python-net/de/aspose.cells.drawing/shapepathpoint/y) | Ruft die y-Koordinate für diese Positionskoordinate ab.|
+| [x](/cells/python-net/de/aspose.cells.drawing/shapepathpoint/x) | Ruft die X-Koordinate für diese Positionskoordinate ab und legt sie fest.|
+| [y](/cells/python-net/de/aspose.cells.drawing/shapepathpoint/y) | Ruft die Y-Koordinate für diese Positionskoordinate ab.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](..)
+* Modul [`aspose.cells.drawing`](..)

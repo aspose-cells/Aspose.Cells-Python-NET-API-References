@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  trend_lines Eigentum
 
-Gibt ein Objekt zurück, das eine Sammlung aller Trendlinien für die Reihe darstellt.
+Gibt alle Trendlinien dieser Reihe zurück.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def trend_lines(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Series](/cells/python-net/de/aspose.cells.charts/series)
-* Klasse [TrendlineCollection](/cells/python-net/de/aspose.cells.charts/trendlinecollection)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Series`](/cells/python-net/de/aspose.cells.charts/series)
+* Klasse [`TrendlineCollection`](/cells/python-net/de/aspose.cells.charts/trendlinecollection)

@@ -13,7 +13,7 @@ Représente la modification contrast pour l'image.en unité de pourcentage.
 
 ###  Remarques
 
-C'est entre -100% et 100%. Il fonctionne de la même manière qu'Excel 2007 ou version supérieure.
+Il est compris entre -100 % et 100 %. Son fonctionnement est identique à celui d'Excel 2007 ou version ultérieure.
 ###  Définition:
 ```python
 @property

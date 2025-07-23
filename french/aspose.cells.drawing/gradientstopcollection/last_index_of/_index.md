@@ -1,5 +1,5 @@
 ---
-title: last_index_of méthode
+title: méthode last_index_of
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 60
 url: /fr/aspose.cells.drawing/gradientstopcollection/last_index_of/
 is_root: false
 ---
-##  last_index_of(item) {#GradientStop}
-Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la liste complète du tableau.
+##  last_index_of(self, item) {#aspose.cells.drawing.GradientStop}
+Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la liste de tableaux entière.
 
 
 ###  Retour
 
-L'index de base zéro de la dernière occurrence de value dans toute la liste de tableaux, s'il est trouvé ; sinon, -1.
+L'index de base zéro de la dernière occurrence de valeur dans l'ensemble de la liste de tableaux, s'il est trouvé ; sinon, -1.
 
 
 ```python
+
 def last_index_of(self, item):
     ...
 ```
@@ -24,19 +25,20 @@ def last_index_of(self, item):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| item | [GradientStop](/cells/python-net/fr/aspose.cells.drawing/gradientstop) | L'objet à localiser dans la liste de tableaux. La valeur peut être nulle.|
+| item | [`GradientStop`](/cells/python-net/fr/aspose.cells.drawing/gradientstop) | Objet à localiser dans la liste de tableaux. La valeur peut être nulle.|
 
 
-##  last_index_of(item, index) {#GradientStop-int}
+##  last_index_of(self, item, index) {#aspose.cells.drawing.GradientStop-int}
 Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la plage d'éléments de la liste de tableaux qui s'étend du premier élément à l'index spécifié.
 
 
 ###  Retour
 
-L'index de base zéro de la dernière occurrence de value dans la plage d'éléments de la liste de tableaux qui s'étend du premier élément à startIndex, s'il est trouvé ; sinon, -1.
+L'index de base zéro de la dernière occurrence de valeur dans la plage d'éléments de la liste de tableaux qui s'étend du premier élément à startIndex, s'il est trouvé ; sinon, -1.
 
 
 ```python
+
 def last_index_of(self, item, index):
     ...
 ```
@@ -44,20 +46,21 @@ def last_index_of(self, item, index):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| item | [GradientStop](/cells/python-net/fr/aspose.cells.drawing/gradientstop) | L'objet à localiser dans la liste de tableaux. La valeur peut être nulle.|
-| index | int | L'index de départ de base zéro de la recherche vers l'arrière.|
+| item | [`GradientStop`](/cells/python-net/fr/aspose.cells.drawing/gradientstop) | Objet à localiser dans la liste de tableaux. La valeur peut être nulle.|
+| index | int | L'index de départ basé sur zéro de la recherche arrière.|
 
 
-##  last_index_of(item, index, count) {#GradientStop-int-int}
-Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la plage d'éléments de la liste de tableaux qui contient le nombre d'éléments spécifié et se termine à l'index spécifié.
+##  last_index_of(self, item, index, count) {#aspose.cells.drawing.GradientStop-int-int}
+Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la plage d'éléments de la liste de tableaux qui contient le nombre spécifié d'éléments et se termine à l'index spécifié.
 
 
 ###  Retour
 
-Index de base zéro de la dernière occurrence de value dans la plage d'éléments de System.Collections. Liste de tableaux contenant le nombre d'éléments et se terminant à startIndex, si trouvé ; sinon, -1.
+Index de base zéro de la dernière occurrence de la valeur dans la plage d'éléments de la liste System.Collections. Array contenant le nombre d'éléments et se terminant à startIndex, si trouvé ; sinon, -1.
 
 
 ```python
+
 def last_index_of(self, item, index, count):
     ...
 ```
@@ -65,12 +68,12 @@ def last_index_of(self, item, index, count):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| item | [GradientStop](/cells/python-net/fr/aspose.cells.drawing/gradientstop) | L'objet à localiser dans la liste de tableaux. La valeur peut être nulle.|
-| index | int | L'index de départ de base zéro de la recherche vers l'arrière.|
+| item | [`GradientStop`](/cells/python-net/fr/aspose.cells.drawing/gradientstop) | Objet à localiser dans la liste de tableaux. La valeur peut être nulle.|
+| index | int | L'index de départ basé sur zéro de la recherche arrière.|
 | count | int | Le nombre d'éléments dans la section à rechercher.|
 
 
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [GradientStopCollection](/cells/python-net/fr/aspose.cells.drawing/gradientstopcollection)
+* module [`aspose.cells.drawing`](../../)
+* classe [`GradientStopCollection`](/cells/python-net/fr/aspose.cells.drawing/gradientstopcollection)

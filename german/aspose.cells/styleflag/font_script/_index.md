@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_script Eigentum
 
-Die Schriftskripteinstellung wird angewendet.
+Die Schriftart-Skripteinstellung wird angewendet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_script(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [StyleFlag](/cells/python-net/de/aspose.cells/styleflag)
+* Modul [`aspose.cells`](../../)
+* Klasse [`StyleFlag`](/cells/python-net/de/aspose.cells/styleflag)

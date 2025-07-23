@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  diagonal_up_border Eigentum
 
-Die Randeinstellungen für die Diagonale nach oben werden angewendet.
+Die diagonalen Oberrandeinstellungen werden angewendet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def diagonal_up_border(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [StyleFlag](/cells/python-net/de/aspose.cells/styleflag)
+* Modul [`aspose.cells`](../../)
+* Klasse [`StyleFlag`](/cells/python-net/de/aspose.cells/styleflag)

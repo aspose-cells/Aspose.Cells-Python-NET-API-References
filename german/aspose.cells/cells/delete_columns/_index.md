@@ -7,12 +7,13 @@ weight: 230
 url: /de/aspose.cells/cells/delete_columns/
 is_root: false
 ---
-##  delete_columns {#int-int-bool}
+##  delete_columns(self, column_index, total_columns, update_reference) {#int-int-bool}
 Löscht mehrere Spalten.
 
 
 
 ```python
+
 def delete_columns(self, column_index, total_columns, update_reference):
     ...
 ```
@@ -22,7 +23,26 @@ def delete_columns(self, column_index, total_columns, update_reference):
 | :- | :- | :- |
 | column_index | int | Index der ersten zu löschenden Spalte.|
 | total_columns | int | Anzahl der zu löschenden Spalten.|
-| update_reference | bool | Gibt an, ob Verweise in anderen Arbeitsblättern aktualisiert werden.|
+| update_reference | bool | Gibt an, ob Verweise in anderen Arbeitsblättern aktualisiert werden sollen.|
+
+
+##  delete_columns(self, column_index, total_columns, options) {#int-int-aspose.cells.DeleteOptions}
+Löscht mehrere Spalten.
+
+
+
+```python
+
+def delete_columns(self, column_index, total_columns, options):
+    ...
+```
+
+
+| Parameter| Typ| Beschreibung|
+| :- | :- | :- |
+| column_index | int | Index der ersten zu löschenden Spalte.|
+| total_columns | int | Anzahl der zu löschenden Spalten.|
+| options | [`DeleteOptions`](/cells/python-net/de/aspose.cells/deleteoptions) | Optionen für den Löschvorgang|
 
 
 

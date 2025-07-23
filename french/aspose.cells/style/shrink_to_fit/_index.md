@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  shrink_to_fit propriété
 
-Représente si le texte est automatiquement réduit pour s'adapter à la largeur de colonne disponible.
+Indique si le texte se réduit automatiquement pour s'adapter à la largeur de colonne disponible.
 ###  Définition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  category_type propriété
 
-Représente le type d’axe de catégorie.
+Représente le type d'axe de catégorie.
 ###  Définition:
 ```python
 @property

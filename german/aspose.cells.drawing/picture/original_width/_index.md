@@ -3,7 +3,7 @@ title: original_width Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 960
+weight: 980
 url: /de/aspose.cells.drawing/picture/original_width/
 is_root: false
 ---

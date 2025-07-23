@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  right_angle_axes propriété
 
-Vrai si les axes du graphique sont à angles droits. S'applique uniquement aux graphiques 3D (à l'exception des diagrammes Column3D et des diagrammes circulaires 3D).
+Vrai si les axes du graphique sont à angle droit. Applicable uniquement aux graphiques 3D (sauf les graphiques Column3D et les graphiques à secteurs 3D).
 
 ###  Remarques
 

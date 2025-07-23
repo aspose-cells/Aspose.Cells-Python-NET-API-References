@@ -7,16 +7,17 @@ weight: 20
 url: /de/aspose.cells/globalizationsettings/compare/
 is_root: false
 ---
-##  compare(v1, v2, ignore_case) {#str-str-bool}
+##  compare(self, v1, v2, ignore_case) {#str-str-bool}
 Vergleicht zwei Zeichenfolgenwerte gemäß bestimmten Sortierregeln.
 
 
 ###  Kehrt zurück
 
-Ganzzahl, die die lexikalische Beziehung zwischen den beiden Komparanden angibt
+Ganzzahl, die die lexikalische Beziehung zwischen den beiden Vergleichselementen angibt
 
 
 ```python
+
 def compare(self, v1, v2, ignore_case):
     ...
 ```
@@ -26,10 +27,10 @@ def compare(self, v1, v2, ignore_case):
 | :- | :- | :- |
 | v1 | str | die erste Saite|
 | v2 | str | die zweite Saite|
-| ignore_case | bool | ob Groß-/Kleinschreibung beim Vergleichen von Werten ignoriert wird|
+| ignore_case | bool | ob beim Vergleichen von Werten die Groß- und Kleinschreibung ignoriert wird|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [GlobalizationSettings](/cells/python-net/de/aspose.cells/globalizationsettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`GlobalizationSettings`](/cells/python-net/de/aspose.cells/globalizationsettings)

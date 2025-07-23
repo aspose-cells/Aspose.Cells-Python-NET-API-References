@@ -3,17 +3,17 @@ title: export_page_headers propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 320
+weight: 380
 url: /fr/aspose.cells.saving/ebooksaveoptions/export_page_headers/
 is_root: false
 ---
 ##  export_page_headers propriété
 
-Indique si vous exportez les en-têtes de page.
+Indique si les en-têtes de page doivent être exportés.
 
 ###  Remarques
 
-Fonctionne uniquement lorsque [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/fr/aspose.cells/htmlsaveoptions#save_as_single_file) est True.
+Fonctionne uniquement lorsque [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/fr/aspose.cells/htmlsaveoptions#save_as_single_file) est vrai.
 ###  Définition:
 ```python
 @property

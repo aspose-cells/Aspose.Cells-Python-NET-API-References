@@ -18,6 +18,6 @@ def stops(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [TextParagraph](/cells/python-net/de/aspose.cells.drawing.texts/textparagraph)
-* Klasse [TextTabStopCollection](/cells/python-net/de/aspose.cells.drawing.texts/texttabstopcollection)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`TextParagraph`](/cells/python-net/de/aspose.cells.drawing.texts/textparagraph)
+* Klasse [`TextTabStopCollection`](/cells/python-net/de/aspose.cells.drawing.texts/texttabstopcollection)

@@ -3,13 +3,13 @@ title: style Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1300
+weight: 1330
 url: /de/aspose.cells/cells/style/
 is_root: false
 ---
 ##  style Eigentum
 
-Ruft den Standardwert style des Arbeitsblatts ab und legt diesen fest.
+Ruft den Standardwert style des Arbeitsblatts ab und legt ihn fest.
 ###  Definition:
 ```python
 @property

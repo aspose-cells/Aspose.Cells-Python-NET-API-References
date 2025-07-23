@@ -3,7 +3,7 @@ title: xml_map_name Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 170
+weight: 200
 url: /de/aspose.cells/xmlsaveoptions/xml_map_name/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def xml_map_name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [XmlSaveOptions](/cells/python-net/de/aspose.cells/xmlsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`XmlSaveOptions`](/cells/python-net/de/aspose.cells/xmlsaveoptions)

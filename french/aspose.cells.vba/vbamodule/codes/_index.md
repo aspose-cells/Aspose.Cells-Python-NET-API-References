@@ -3,7 +3,7 @@ title: codes propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 30
+weight: 40
 url: /fr/aspose.cells.vba/vbamodule/codes/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def codes(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.vba](../../)
-* classe [VbaModule](/cells/python-net/fr/aspose.cells.vba/vbamodule)
+* module [`aspose.cells.vba`](../../)
+* classe [`VbaModule`](/cells/python-net/fr/aspose.cells.vba/vbamodule)

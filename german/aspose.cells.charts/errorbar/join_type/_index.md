@@ -21,6 +21,6 @@ def join_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ErrorBar](/cells/python-net/de/aspose.cells.charts/errorbar)
-* Klasse [LineJoinType](/cells/python-net/de/aspose.cells.drawing/linejointype)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ErrorBar`](/cells/python-net/de/aspose.cells.charts/errorbar)
+* Klasse [`LineJoinType`](/cells/python-net/de/aspose.cells.drawing/linejointype)

@@ -3,13 +3,13 @@ title: top_cm Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1120
+weight: 1130
 url: /de/aspose.cells.drawing/combobox/top_cm/
 is_root: false
 ---
 ##  top_cm Eigentum
 
-Stellt den vertikalen Versatz der Form von ihrer oberen Reihe in der Einheit Zentimeter dar.
+Stellt den vertikalen Versatz der Form von ihrer obersten Reihe in Zentimetern dar.
 
 ###  Beispiel
 

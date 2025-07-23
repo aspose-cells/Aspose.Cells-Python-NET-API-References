@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  prompt Eigentum
 
- Eingabeaufforderungszeichenfolge für den Parameter. Wird dem Tabellenkalkulationsbenutzer zusammen mit der Eingabe-UI angezeigt
- um den Parameterwert zu sammeln, bevor die externen Daten aktualisiert werden. Wird nur verwendet, wenn
+ Eingabeaufforderung für den Parameter. Wird dem Tabellenkalkulationsbenutzer zusammen mit der Eingabe-Benutzeroberfläche angezeigt.
+ um den Parameterwert vor der Aktualisierung der externen Daten zu erfassen. Wird nur verwendet, wenn
 Parametertyp = prompt.
 ###  Definition:
 ```python
@@ -23,5 +23,5 @@ def prompt(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.externalconnections](../../)
-* Klasse [ConnectionParameter](/cells/python-net/de/aspose.cells.externalconnections/connectionparameter)
+* Modul [`aspose.cells.externalconnections`](../../)
+* Klasse [`ConnectionParameter`](/cells/python-net/de/aspose.cells.externalconnections/connectionparameter)

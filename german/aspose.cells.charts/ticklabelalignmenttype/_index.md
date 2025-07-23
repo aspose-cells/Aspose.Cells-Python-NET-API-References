@@ -17,9 +17,9 @@ Der Typ TickLabelAlignmentType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| CENTER | Stellt dar, dass der Text zentriert sein soll.|
-| LEFT | Stellt dar, dass der Text linksbündig sein soll.|
-| RIGHT | Stellt dar, dass der Text rechtsbündig sein soll.|
+| CENTER | Gibt an, dass der Text zentriert werden soll.|
+| LEFT | Gibt an, dass der Text linksbündig ausgerichtet sein soll.|
+| RIGHT | Gibt an, dass der Text rechtsbündig ausgerichtet sein soll.|
 
 
 

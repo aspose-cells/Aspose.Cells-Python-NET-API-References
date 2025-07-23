@@ -8,12 +8,11 @@ url: /de/aspose.cells.revisions/revisionquerytable/
 is_root: false
 ---
 ##  RevisionQueryTable Klasse
-Stellt eine Überarbeitung einer Feldänderung in einer Abfragetabelle dar.
+Stellt eine Revision einer Abfragetabellenfeldänderung dar.
 
 
 
-**Nachlass:** [RevisionQueryTable](/cells/python-net/aspose.cells.revisions/revisionquerytable) → 
-[Revision](/cells/python-net/de/aspose.cells.revisions/revision)
+**Nachlass:** [`RevisionQueryTable`](/cells/python-net/de/aspose.cells.revisions/revisionquerytable)
 
 
 
@@ -22,15 +21,14 @@ Der Typ RevisionQueryTable macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [type](/cells/python-net/de/aspose.cells.revisions/revisionquerytable/type) | Stellt den Typ der Überarbeitung dar.|
-| [worksheet](/cells/python-net/de/aspose.cells.revisions/revisionquerytable/worksheet) | Ruft das Arbeitsblatt ab.|
-| [id](/cells/python-net/de/aspose.cells.revisions/revisionquerytable/id) | Ruft die Nummer dieser Revision ab.|
+| [type](/cells/python-net/de/aspose.cells.revisions/revisionquerytable/type) | Stellt den Typ der Revision dar.|
+| [worksheet](/cells/python-net/de/aspose.cells.revisions/revisionquerytable/worksheet) |  |
+| [id](/cells/python-net/de/aspose.cells.revisions/revisionquerytable/id) |  |
 | [cell_area](/cells/python-net/de/aspose.cells.revisions/revisionquerytable/cell_area) | Ruft den Speicherort der betroffenen Abfragetabelle ab.|
-| [field_id](/cells/python-net/de/aspose.cells.revisions/revisionquerytable/field_id) | Ruft die ID des bestimmten Abfragetabellenfelds ab, das entfernt wurde.|
+| [field_id](/cells/python-net/de/aspose.cells.revisions/revisionquerytable/field_id) | Ruft die ID des spezifischen Abfragetabellenfelds ab, das entfernt wurde.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.revisions](..)
-* Klasse [Revision](/cells/python-net/de/aspose.cells.revisions/revision)
-* Klasse [RevisionQueryTable](/cells/python-net/de/aspose.cells.revisions/revisionquerytable)
+* Modul [`aspose.cells.revisions`](..)
+* Klasse [`RevisionQueryTable`](/cells/python-net/de/aspose.cells.revisions/revisionquerytable)

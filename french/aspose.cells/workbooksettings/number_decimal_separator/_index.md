@@ -3,13 +3,13 @@ title: number_decimal_separator propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 340
+weight: 370
 url: /fr/aspose.cells/workbooksettings/number_decimal_separator/
 is_root: false
 ---
 ##  number_decimal_separator propriété
 
-Obtient ou définit le séparateur décimal pour le formatage/analyse des valeurs numériques. La valeur par défaut est le séparateur décimal de la région actuelle.
+Obtient ou définit le séparateur décimal pour le formatage et l'analyse des valeurs numériques. La valeur par défaut est le séparateur décimal de la région actuelle.
 ###  Définition:
 ```python
 @property

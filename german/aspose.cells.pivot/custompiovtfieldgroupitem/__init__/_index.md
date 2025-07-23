@@ -7,12 +7,13 @@ weight: 10
 url: /de/aspose.cells.pivot/custompiovtfieldgroupitem/__init__/
 is_root: false
 ---
-##  __drin__ {#str-list}
+##  \_\_init\_\_(selbst, Name, Elementindizes){#str-list}
 Der Konstruktor des benutzerdefinierten Gruppenelements des Pivot-Felds.
 
 
 
 ```python
+
 def __init__(self, name, item_indexes):
     ...
 ```
@@ -21,7 +22,7 @@ def __init__(self, name, item_indexes):
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | name | str | Der Name des Gruppenelements|
-| item_indexes | list | Alle Indizes zu den Elementen des Basis-Pivot-Felds.|
+| item_indexes | list | Alle Indizes zu den Elementen des Basis-Pivotfelds.|
 
 
 

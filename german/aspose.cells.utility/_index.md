@@ -7,13 +7,14 @@ weight: 10
 url: /de/aspose.cells.utility/
 is_root: false
 ---
- Der**Aspose.Cells.Utility** Namespace enthält Hilfsklassen, die JSON-Formate für Excel-Tabellendateien verarbeiten.
+ Der**Aspose.Cells.Utility** Der Namespace enthält Dienstprogrammklassen, die JSON-Formate für Excel-Tabellenkalkulationsdateien verarbeiten.
 
 ###  Klassen
 | Klasse| Beschreibung|
 | :- | :- |
-| [ExportRangeToJsonOptions](/cells/python-net/de/aspose.cells.utility/exportrangetojsonoptions) | Gibt die Optionen an, die beim Exportieren in json reichen.|
-| [JsonLayoutOptions](/cells/python-net/de/aspose.cells.utility/jsonlayoutoptions) | Stellt die Optionen des json-Layouttyps dar.|
-| [JsonUtility](/cells/python-net/de/aspose.cells.utility/jsonutility) | Stellt die Hilfsklasse der Verarbeitung von JSON dar.|
+| [`ConversionUtility`](/cells/python-net/de/aspose.cells.utility/conversionutility) | Stellt ein Dienstprogramm zum Konvertieren von Dateien in andere Formate dar.|
+| [`ExportRangeToJsonOptions`](/cells/python-net/de/aspose.cells.utility/exportrangetojsonoptions) | Gibt die Optionen zum Exportieren des Bereichs nach JSON an.|
+| [`JsonLayoutOptions`](/cells/python-net/de/aspose.cells.utility/jsonlayoutoptions) | Stellt die Optionen des JSON-Layouttyps dar.|
+| [`JsonUtility`](/cells/python-net/de/aspose.cells.utility/jsonutility) | Stellt die Dienstprogrammklasse zur JSON-Verarbeitung dar.|
 
 

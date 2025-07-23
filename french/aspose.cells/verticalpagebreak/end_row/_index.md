@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_row propriété
 
-Obtient l'index de fin de ligne du saut de page vertical.
+Obtient l'index de la ligne de fin du saut de page vertical.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def end_row(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [VerticalPageBreak](/cells/python-net/fr/aspose.cells/verticalpagebreak)
+* module [`aspose.cells`](../../)
+* classe [`VerticalPageBreak`](/cells/python-net/fr/aspose.cells/verticalpagebreak)

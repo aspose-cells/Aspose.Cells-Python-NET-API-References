@@ -3,13 +3,13 @@ title: has_headers propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 70
+weight: 80
 url: /fr/aspose.cells/datasorter/has_headers/
 is_root: false
 ---
 ##  has_headers propriété
 
-Représente si la plage a des en-têtes.
+Indique si la plage comporte des en-têtes.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def has_headers(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DataSorter](/cells/python-net/fr/aspose.cells/datasorter)
+* module [`aspose.cells`](../../)
+* classe [`DataSorter`](/cells/python-net/fr/aspose.cells/datasorter)

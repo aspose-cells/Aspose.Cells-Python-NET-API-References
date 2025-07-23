@@ -10,7 +10,7 @@ is_root: false
 ##  material propriété
 
 Représente le préréglage material qui est combiné avec les propriétés d'éclairage pour donner le
-aspect final d'une forme.
+aspect final et sensation d'une forme.
 ###  Définition:
 ```python
 @property
@@ -22,6 +22,6 @@ def material(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [PresetMaterialType](/cells/python-net/fr/aspose.cells.drawing/presetmaterialtype)
-* classe [ThreeDFormat](/cells/python-net/fr/aspose.cells.drawing/threedformat)
+* module [`aspose.cells.drawing`](../../)
+* classe [`PresetMaterialType`](/cells/python-net/fr/aspose.cells.drawing/presetmaterialtype)
+* classe [`ThreeDFormat`](/cells/python-net/fr/aspose.cells.drawing/threedformat)

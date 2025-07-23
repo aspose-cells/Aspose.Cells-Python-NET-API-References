@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  alignment_type Eigentum
 
-Ruft die Textausrichtung für die Teilstrichbeschriftungen auf der Achse ab und legt diese fest.
+Ruft die Textausrichtung für die Teilstrichbeschriftungen auf der Achse ab und legt sie fest.
 ###  Definition:
 ```python
 @property

@@ -3,20 +3,25 @@ title: is_locked Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 740
+weight: 750
 url: /de/aspose.cells.drawing/oleobject/is_locked/
 is_root: false
 ---
 ##  is_locked Eigentum
 
-True, wenn das Objekt gesperrt ist, False, wenn das Objekt geändert werden kann, während das Blatt geschützt ist.
+ „True“ bedeutet, dass das Objekt nicht geändert werden kann, wenn das Blatt geschützt ist.
+Beachten Sie, dass dieser Wert nur dann sinnvoll ist, wenn das Arbeitsblatt oder die Objekte im Arbeitsblatt geschützt sind.
 
 ###  Beispiel
 
 ```python
 
-if shape.is_locked:
+# Sets the specified shape to unlocked state
+if shape.worksheet.is_protected and shape.is_locked:
     shape.is_locked = False
+# Sets the specified shape to a locked state
+if shape.worksheet.is_protected and notshape.is_locked:
+    shape.is_locked = True
 
 ```
 ###  Definition:

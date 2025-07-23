@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column_count propriété
 
-Représente le nombre de colonnes à afficher dans un ComboBox ou un ListBox.
+Représente le nombre de colonnes à afficher dans une ComboBox ou une ListBox.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def column_count(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [ComboBoxActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ComboBoxActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

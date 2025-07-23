@@ -7,12 +7,13 @@ weight: 40
 url: /fr/aspose.cells/range/auto_fill/
 is_root: false
 ---
-##  auto_fill {#aspose.cells.Range}
-Remplissez automatiquement la plage cible.
+##  auto_fill(self, target) {#aspose.cells.Range}
+Remplir automatiquement la plage cible.
 
 
 
 ```python
+
 def auto_fill(self, target):
     ...
 ```
@@ -43,12 +44,13 @@ workbook.save("book1.xlsm")
 ```
 
 
-##  auto_fill {#aspose.cells.Range-aspose.cells.AutoFillType}
-Remplissez automatiquement la plage cible.
+##  auto_fill(self, target, auto_fill_type) {#aspose.cells.Range-aspose.cells.AutoFillType}
+Remplir automatiquement la plage cible.
 
 
 
 ```python
+
 def auto_fill(self, target, auto_fill_type):
     ...
 ```
@@ -56,7 +58,7 @@ def auto_fill(self, target, auto_fill_type):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| target | [`Range`](/cells/python-net/fr/aspose.cells/range) | La plage ciblée.|
+| target | [`Range`](/cells/python-net/fr/aspose.cells/range) | La gamme ciblée.|
 | auto_fill_type | [`AutoFillType`](/cells/python-net/fr/aspose.cells/autofilltype) | Le type de remplissage automatique.|
 
 

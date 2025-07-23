@@ -3,13 +3,13 @@ title: is_dynamic_array_formula Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 560
+weight: 590
 url: /de/aspose.cells/cell/is_dynamic_array_formula/
 is_root: false
 ---
 ##  is_dynamic_array_formula Eigentum
 
-Gibt an, ob die Formel der Zelle eine dynamische Array-Formel (true) oder eine Legacy-Array-Formel (false) ist.
+Gibt an, ob es sich bei der Formel der Zelle um eine dynamische Arrayformel (true) oder eine herkömmliche Arrayformel (false) handelt.
 ###  Definition:
 ```python
 @property

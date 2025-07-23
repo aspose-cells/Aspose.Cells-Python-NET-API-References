@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  pattern_fill Eigentum
 
-Ruft [FillFormat.pattern_fill](/cells/python-net/de/aspose.cells.drawing/fillformat#pattern_fill)-Objekt ab.
+Ruft das Objekt [`FillFormat.pattern_fill`](/cells/python-net/de/aspose.cells.drawing/fillformat#pattern_fill) ab.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def pattern_fill(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [LineFormat](/cells/python-net/de/aspose.cells.drawing/lineformat)
-* Klasse [PatternFill](/cells/python-net/de/aspose.cells.drawing/patternfill)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`LineFormat`](/cells/python-net/de/aspose.cells.drawing/lineformat)
+* Klasse [`PatternFill`](/cells/python-net/de/aspose.cells.drawing/patternfill)

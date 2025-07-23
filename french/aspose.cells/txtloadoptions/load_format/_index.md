@@ -3,7 +3,7 @@ title: load_format propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 270
+weight: 250
 url: /fr/aspose.cells/txtloadoptions/load_format/
 is_root: false
 ---

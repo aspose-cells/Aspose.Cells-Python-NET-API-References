@@ -26,49 +26,61 @@ Le type Legend expose les membres suivants :
 | [is_inner_mode](/cells/python-net/fr/aspose.cells.charts/legend/is_inner_mode) | Indique si la taille de la zone de tracé inclut les graduations et les étiquettes des axes.<br/> False spécifie que la taille doit déterminer la taille de la zone de tracé, les graduations et les étiquettes des axes.|
 | [border](/cells/python-net/fr/aspose.cells.charts/legend/border) | Obtient le [`Line`](/cells/python-net/fr/aspose.cells.drawing/line).|
 | [area](/cells/python-net/fr/aspose.cells.charts/legend/area) | Obtient le [`ChartFrame.area`](/cells/python-net/fr/aspose.cells.charts/chartframe#area).|
-| [text_font](/cells/python-net/fr/aspose.cells.charts/legend/text_font) | Obtient un objet [`ChartFrame.font`](/cells/python-net/fr/aspose.cells.charts/chartframe#font) de l'objet ChartFrame spécifié.|
+| [text_font](/cells/python-net/fr/aspose.cells.charts/legend/text_font) |Obtient un objet [`ChartFrame.font`](/cells/python-net/fr/aspose.cells.charts/chartframe#font) de l'objet ChartFrame spécifié.|
 | [text_options](/cells/python-net/fr/aspose.cells.charts/legend/text_options) | Obtient et définit les options du texte.|
-| [font](/cells/python-net/fr/aspose.cells.charts/legend/font) | Obtient un objet [`ChartFrame.font`](/cells/python-net/fr/aspose.cells.charts/chartframe#font) de l'objet ChartFrame spécifié.|
-| [auto_scale_font](/cells/python-net/fr/aspose.cells.charts/legend/auto_scale_font) | True si le texte de l'objet change de taille de police lorsque la taille de l'objet change. La valeur par défaut est True.|
+| [font](/cells/python-net/fr/aspose.cells.charts/legend/font) |Obtient un objet [`ChartFrame.font`](/cells/python-net/fr/aspose.cells.charts/chartframe#font) de l'objet ChartFrame spécifié.|
+| [auto_scale_font](/cells/python-net/fr/aspose.cells.charts/legend/auto_scale_font) | Cette valeur est « Vrai » si la taille de police du texte de l'objet change en fonction de la taille de l'objet. La valeur par défaut est « Vrai ».|
 | [background_mode](/cells/python-net/fr/aspose.cells.charts/legend/background_mode) | Obtient et définit le mode d'affichage de l'arrière-plan|
 | [background](/cells/python-net/fr/aspose.cells.charts/legend/background) | Obtient et définit le mode d'affichage de l'arrière-plan|
 | [is_automatic_size](/cells/python-net/fr/aspose.cells.charts/legend/is_automatic_size) | Indique si le cadre du graphique est dimensionné automatiquement.|
-| [x](/cells/python-net/fr/aspose.cells.charts/legend/x) |Obtient ou définit la coordonnée x du coin supérieur gauche en unités de 1/4 000 de la zone du graphique.|
-| [y](/cells/python-net/fr/aspose.cells.charts/legend/y) | Obtient ou définit la coordonnée y du coin supérieur gauche en unités de 1/4 000 de la zone du graphique.|
-| [height](/cells/python-net/fr/aspose.cells.charts/legend/height) | Obtient ou définit la hauteur du cadre en unités de 1/4 000 de la zone du graphique.|
-| [width](/cells/python-net/fr/aspose.cells.charts/legend/width) | Obtient ou définit la largeur du cadre en unités de 1/4 000 de la zone du graphique.|
+| [x](/cells/python-net/fr/aspose.cells.charts/legend/x) | Obtient ou définit la coordonnée x du coin supérieur gauche en unités de 1/4000 de la zone du graphique.|
+| [y](/cells/python-net/fr/aspose.cells.charts/legend/y) | Obtient ou définit la coordonnée y du coin supérieur gauche en unités de 1/4000 de la zone du graphique.|
+| [height](/cells/python-net/fr/aspose.cells.charts/legend/height) | Obtient ou définit la hauteur du cadre en unités de 1/4000 de la zone du graphique.|
+| [width](/cells/python-net/fr/aspose.cells.charts/legend/width) | Obtient ou définit la largeur du cadre en unités de 1/4000 de la zone du graphique.|
 | [shadow](/cells/python-net/fr/aspose.cells.charts/legend/shadow) | Vrai si le cadre a une ombre.|
 | [shape_properties](/cells/python-net/fr/aspose.cells.charts/legend/shape_properties) | Obtient l'objet [`ChartFrame.shape_properties`](/cells/python-net/fr/aspose.cells.charts/chartframe#shape_properties).|
-| [is_default_pos_be_set](/cells/python-net/fr/aspose.cells.charts/legend/is_default_pos_be_set) | Indique si la position par défaut (DefaultX, DefaultY, DefaultWidth et DefaultHeight) est définie.|
-| [default_x](/cells/python-net/fr/aspose.cells.charts/legend/default_x) | Représente x de la position par défaut|
-| [default_y](/cells/python-net/fr/aspose.cells.charts/legend/default_y) | Représente y de la position par défaut|
-| [default_width](/cells/python-net/fr/aspose.cells.charts/legend/default_width) | Représente la largeur de la position par défaut|
-| [default_height](/cells/python-net/fr/aspose.cells.charts/legend/default_height) | Représente la hauteur de la position par défaut|
+| [is_default_pos_be_set](/cells/python-net/fr/aspose.cells.charts/legend/is_default_pos_be_set) |Indique si la position par défaut (DefaultX, DefaultY, DefaultWidth et DefaultHeight) est définie.|
+| [default_x](/cells/python-net/fr/aspose.cells.charts/legend/default_x) | Représente x de la position par défaut en unités de 1/4000 de la zone du graphique.|
+| [default_y](/cells/python-net/fr/aspose.cells.charts/legend/default_y) | Représente y de la position par défaut en unités de 1/4000 de la zone du graphique.|
+| [default_width](/cells/python-net/fr/aspose.cells.charts/legend/default_width) | Représente la largeur de la position par défaut en unités de 1/4000 de la zone du graphique.|
+| [default_height](/cells/python-net/fr/aspose.cells.charts/legend/default_height) | Représente la hauteur de la position par défaut en unités de 1/4000 de la zone du graphique.|
+| [default_x_ratio_to_chart](/cells/python-net/fr/aspose.cells.charts/legend/default_x_ratio_to_chart) | Représente x de la position par défaut en unités de fraction de la zone du graphique.|
+| [default_y_ratio_to_chart](/cells/python-net/fr/aspose.cells.charts/legend/default_y_ratio_to_chart) | Représente y de la position par défaut en unités de fraction de la zone du graphique.|
+| [default_width_ratio_to_chart](/cells/python-net/fr/aspose.cells.charts/legend/default_width_ratio_to_chart) | Représente la largeur de la position par défaut en unités de fraction de la zone du graphique.|
+| [default_height_ratio_to_chart](/cells/python-net/fr/aspose.cells.charts/legend/default_height_ratio_to_chart) | Représente la hauteur de la position par défaut en unités de fraction de la zone du graphique.|
+| [x_ratio_to_chart](/cells/python-net/fr/aspose.cells.charts/legend/x_ratio_to_chart) | Obtient ou définit la coordonnée x du coin supérieur gauche en unités de rapport de la zone du graphique.|
+| [y_ratio_to_chart](/cells/python-net/fr/aspose.cells.charts/legend/y_ratio_to_chart) |Obtient ou définit la coordonnée y du coin supérieur gauche en unités de rapport de la zone du graphique.|
+| [width_ratio_to_chart](/cells/python-net/fr/aspose.cells.charts/legend/width_ratio_to_chart) | Obtient ou définit la largeur du cadre en unités de rapport de la zone du graphique.|
+| [height_ratio_to_chart](/cells/python-net/fr/aspose.cells.charts/legend/height_ratio_to_chart) | Obtient ou définit la hauteur du cadre en unités de rapport de la zone du graphique.|
+| [x_pixel](/cells/python-net/fr/aspose.cells.charts/legend/x_pixel) | Obtient ou définit la coordonnée x du coin supérieur gauche en unités de pixels.|
+| [y_pixel](/cells/python-net/fr/aspose.cells.charts/legend/y_pixel) | Obtient ou définit la coordonnée y du coin supérieur gauche en unités de pixels.|
+| [width_pixel](/cells/python-net/fr/aspose.cells.charts/legend/width_pixel) | Obtient ou définit la largeur du cadre en unités de pixels.|
+| [height_pixel](/cells/python-net/fr/aspose.cells.charts/legend/height_pixel) | Obtient ou définit la hauteur du cadre en unités de pixels.|
 | [is_auto_text](/cells/python-net/fr/aspose.cells.charts/legend/is_auto_text) | Indique que le texte est généré automatiquement.|
 | [is_deleted](/cells/python-net/fr/aspose.cells.charts/legend/is_deleted) | Indique si ces étiquettes de données sont supprimées.|
 | [text_horizontal_alignment](/cells/python-net/fr/aspose.cells.charts/legend/text_horizontal_alignment) | Obtient et définit l'alignement horizontal du texte.|
 | [text_vertical_alignment](/cells/python-net/fr/aspose.cells.charts/legend/text_vertical_alignment) | Obtient ou définit l'alignement vertical du texte.|
 | [rotation_angle](/cells/python-net/fr/aspose.cells.charts/legend/rotation_angle) | Représente l'angle de rotation du texte.|
 | [is_automatic_rotation](/cells/python-net/fr/aspose.cells.charts/legend/is_automatic_rotation) | Indique si le texte du graphique est automatiquement pivoté.|
-| [text](/cells/python-net/fr/aspose.cells.charts/legend/text) |Obtient ou définit le texte du titre d'un cadre.|
+| [text](/cells/python-net/fr/aspose.cells.charts/legend/text) | Obtient ou définit le texte du titre d'un cadre.|
 | [linked_source](/cells/python-net/fr/aspose.cells.charts/legend/linked_source) | Obtient et définit une référence à la feuille de calcul.|
-| [text_direction](/cells/python-net/fr/aspose.cells.charts/legend/text_direction) | Représente l’ordre de lecture du texte.|
-| [reading_order](/cells/python-net/fr/aspose.cells.charts/legend/reading_order) | Représente l’ordre de lecture du texte.|
+| [text_direction](/cells/python-net/fr/aspose.cells.charts/legend/text_direction) | Représente l'ordre de lecture du texte.|
+| [reading_order](/cells/python-net/fr/aspose.cells.charts/legend/reading_order) | Représente l'ordre de lecture du texte.|
 | [direction_type](/cells/python-net/fr/aspose.cells.charts/legend/direction_type) | Obtient et définit la direction du texte.|
-| [is_text_wrapped](/cells/python-net/fr/aspose.cells.charts/legend/is_text_wrapped) | Obtient ou définit une valeur indiquant si le texte est renvoyé à la ligne.|
-| [is_resize_shape_to_fit_text](/cells/python-net/fr/aspose.cells.charts/legend/is_resize_shape_to_fit_text) | Obtient ou définit si une forme doit être automatiquement ajustée pour contenir entièrement le texte qui y est décrit. L'ajustement automatique est<br/> lorsque le texte d'une forme est mis à l'échelle afin de contenir tout le texte à l'intérieur.|
+| [is_text_wrapped](/cells/python-net/fr/aspose.cells.charts/legend/is_text_wrapped) | Obtient ou définit une valeur indiquant si le texte est enveloppé.|
+| [is_resize_shape_to_fit_text](/cells/python-net/fr/aspose.cells.charts/legend/is_resize_shape_to_fit_text) | Obtient ou définit si une forme doit être ajustée automatiquement pour contenir entièrement le texte qu'elle décrit. L'ajustement automatique est<br/> lorsque le texte dans une forme est mis à l'échelle afin de contenir tout le texte à l'intérieur.|
 | [position](/cells/python-net/fr/aspose.cells.charts/legend/position) | Obtient ou définit le type de position de la légende.|
-| [legend_entries](/cells/python-net/fr/aspose.cells.charts/legend/legend_entries) | Obtient une collection de tous les objets LegendEntry dans la légende du graphique spécifiée.<br/>La définition des entrées de légende du graphique de surface n'est pas prise en charge.<br/> Il renverra donc null si le type de graphique est de type graphique de surface.|
-| [legend_entries_labels](/cells/python-net/fr/aspose.cells.charts/legend/legend_entries_labels) | Obtient les étiquettes des entrées de légende après avoir appelé la méthode Chart.Calculate().|
-| [is_over_lay](/cells/python-net/fr/aspose.cells.charts/legend/is_over_lay) | Obtient ou définit si d'autres éléments de graphique doivent être autorisés à chevaucher cet élément de graphique.|
+| [legend_entries](/cells/python-net/fr/aspose.cells.charts/legend/legend_entries) | Obtient une collection de tous les objets LegendEntry dans la légende du graphique spécifiée.<br/>La définition des entrées de légende du graphique de surface n'est pas prise en charge.<br/> Il renverra donc null si le type de graphique est un type de graphique de surface.|
+| [legend_entries_labels](/cells/python-net/fr/aspose.cells.charts/legend/legend_entries_labels) | Obtient les étiquettes des entrées de légende après l'appel de la méthode Chart.Calculate().|
+| [is_over_lay](/cells/python-net/fr/aspose.cells.charts/legend/is_over_lay) | Obtient ou définit si la légende doit être affichée sans chevaucher le graphique.|
 
 
 ###  Méthodes
 | Méthode| Description|
 | :- | :- |
-| [set_position_auto](/cells/python-net/fr/aspose.cells.charts/legend/set_position_auto/#) | Régler la position du cadre sur automatique|
-| [characters](/cells/python-net/fr/aspose.cells.charts/legend/characters/#int-int) | Renvoie un objet Characters qui représente une plage de caractères dans le texte.|
-| [get_legend_labels](/cells/python-net/fr/aspose.cells.charts/legend/get_legend_labels/#) | Obtient les étiquettes des entrées de légende après avoir appelé la méthode Chart.Calculate().|
+| [`set_position_auto(self)`](/cells/python-net/fr/aspose.cells.charts/legend/set_position_auto/#) | Définir la position du cadre sur automatique|
+| [`characters(self, start_index, length)`](/cells/python-net/fr/aspose.cells.charts/legend/characters/#int-int) |Renvoie un objet Characters qui représente une plage de caractères dans le texte.|
+| [`get_legend_labels(self)`](/cells/python-net/fr/aspose.cells.charts/legend/get_legend_labels/#) | Obtient les étiquettes des entrées de légende après l'appel de la méthode Chart.Calculate().|
 
 
 

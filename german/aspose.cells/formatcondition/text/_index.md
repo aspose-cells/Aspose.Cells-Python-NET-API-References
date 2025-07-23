@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  text Eigentum
 
- Der Wert text in einer Regel zur bedingten Formatierung „text enthält“.
-Gültig nur für type = containsText, notContainsText, beginWith und endedWith.
+ Der Wert text in einer bedingten Formatierungsregel „text enthält“.
+Nur gültig für Typ = containsText, notContainsText, beginsWith und endsWith.
 Der Standardwert ist null.
 ###  Definition:
 ```python
@@ -23,5 +23,5 @@ def text(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FormatCondition](/cells/python-net/de/aspose.cells/formatcondition)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FormatCondition`](/cells/python-net/de/aspose.cells/formatcondition)

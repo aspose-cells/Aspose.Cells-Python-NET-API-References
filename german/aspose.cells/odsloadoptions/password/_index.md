@@ -21,5 +21,5 @@ def password(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [OdsLoadOptions](/cells/python-net/de/aspose.cells/odsloadoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`OdsLoadOptions`](/cells/python-net/de/aspose.cells/odsloadoptions)

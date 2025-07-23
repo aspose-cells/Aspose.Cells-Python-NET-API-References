@@ -3,13 +3,13 @@ title: actual_lower_right_row Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 270
+weight: 280
 url: /de/aspose.cells.drawing/customxmlshape/actual_lower_right_row/
 is_root: false
 ---
 ##  actual_lower_right_row Eigentum
 
-Holen Sie sich die tatsächliche untere Reihe.
+Holen Sie sich die tatsächliche unterste Reihe.
 
 ###  Beispiel
 

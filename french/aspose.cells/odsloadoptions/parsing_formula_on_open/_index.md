@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  parsing_formula_on_open propriété
 
-Indique si l'analyse de la formule lors de la lecture du fichier.
+Indique si l'analyse de la formule est effectuée lors de la lecture du fichier.
 
 ###  Remarques
 
@@ -26,5 +26,5 @@ def parsing_formula_on_open(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [OdsLoadOptions](/cells/python-net/fr/aspose.cells/odsloadoptions)
+* module [`aspose.cells`](../../)
+* classe [`OdsLoadOptions`](/cells/python-net/fr/aspose.cells/odsloadoptions)

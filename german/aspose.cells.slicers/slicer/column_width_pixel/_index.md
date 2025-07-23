@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column_width_pixel Eigentum
 
-Ruft die Breite in Pixeleinheiten für jede Spalte des Datenschnitts ab oder legt diese fest.
+Ruft die Breite jeder Spalte im Slicer in Pixeln ab oder legt sie fest.
 
 ###  Beispiel
 
@@ -29,5 +29,5 @@ def column_width_pixel(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.slicers](../../)
-* Klasse [Slicer](/cells/python-net/de/aspose.cells.slicers/slicer)
+* Modul [`aspose.cells.slicers`](../../)
+* Klasse [`Slicer`](/cells/python-net/de/aspose.cells.slicers/slicer)

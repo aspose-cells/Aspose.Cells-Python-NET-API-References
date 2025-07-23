@@ -3,14 +3,14 @@ title: x_ad_es_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 100
+weight: 110
 url: /de/aspose.cells.digitalsignatures/digitalsignature/x_ad_es_type/
 is_root: false
 ---
 ##  x_ad_es_type Eigentum
 
 XAdES-Typ.
-Der Standardwert ist „None“ (XAdES ist deaktiviert).
+Der Standardwert ist „Keine“ (XAdES ist deaktiviert).
 ###  Definition:
 ```python
 @property
@@ -22,6 +22,6 @@ def x_ad_es_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.digitalsignatures](../../)
-* Klasse [DigitalSignature](/cells/python-net/de/aspose.cells.digitalsignatures/digitalsignature)
-* Klasse [XAdESType](/cells/python-net/de/aspose.cells.digitalsignatures/xadestype)
+* Modul [`aspose.cells.digitalsignatures`](../../)
+* Klasse [`DigitalSignature`](/cells/python-net/de/aspose.cells.digitalsignatures/digitalsignature)
+* Klasse [`XAdESType`](/cells/python-net/de/aspose.cells.digitalsignatures/xadestype)

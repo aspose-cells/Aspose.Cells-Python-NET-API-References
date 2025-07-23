@@ -3,12 +3,12 @@ title: méthode retrieve_subtotal_setting
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 820
+weight: 840
 url: /fr/aspose.cells/cells/retrieve_subtotal_setting/
 is_root: false
 ---
-##  retrieve_subtotal_setting {#aspose.cells.CellArea}
-Récupère le paramètre de sous-totaux de la plage.
+##  retrieve_subtotal_setting(self, ca) {#aspose.cells.CellArea}
+Récupère le paramètre des sous-totaux de la plage.
 
 
 ###  Retour
@@ -17,6 +17,7 @@ Récupère le paramètre de sous-totaux de la plage.
 
 
 ```python
+
 def retrieve_subtotal_setting(self, ca):
     ...
 ```

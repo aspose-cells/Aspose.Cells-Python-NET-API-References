@@ -3,13 +3,13 @@ title: comment Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 320
+weight: 330
 url: /de/aspose.cells.drawing/commentshape/comment/
 is_root: false
 ---
 ##  comment Eigentum
 
-Ruft das comment-Objekt ab.
+Ruft das Objekt comment ab.
 
 ###  Beispiel
 

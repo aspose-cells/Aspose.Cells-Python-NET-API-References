@@ -13,7 +13,7 @@ Ruft die Auto-Fitter-Optionen ab und legt sie fest
 
 ###  Bemerkungen
 
-Jetzt nur für XLSX- und SpreadsheetML-Dateien.
+Jetzt nur für xlsx- und spreadsheetML-Dateien.
 ###  Definition:
 ```python
 @property

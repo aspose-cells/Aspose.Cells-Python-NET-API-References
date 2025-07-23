@@ -12,8 +12,7 @@ Stellt die Revision dar, die Zellen ändert.
 
 
 
-**Nachlass:** [RevisionCellChange](/cells/python-net/aspose.cells.revisions/revisioncellchange) → 
-[Revision](/cells/python-net/de/aspose.cells.revisions/revision)
+**Nachlass:** [`RevisionCellChange`](/cells/python-net/de/aspose.cells.revisions/revisioncellchange)
 
 
 
@@ -23,13 +22,13 @@ Der Typ RevisionCellChange macht die folgenden Member verfügbar:
 | Eigentum| Beschreibung|
 | :- | :- |
 | [type](/cells/python-net/de/aspose.cells.revisions/revisioncellchange/type) | Stellt den Revisionstyp dar.|
-| [worksheet](/cells/python-net/de/aspose.cells.revisions/revisioncellchange/worksheet) | Ruft das Arbeitsblatt ab.|
-| [id](/cells/python-net/de/aspose.cells.revisions/revisioncellchange/id) | Ruft die Nummer dieser Revision ab.|
+| [worksheet](/cells/python-net/de/aspose.cells.revisions/revisioncellchange/worksheet) |  |
+| [id](/cells/python-net/de/aspose.cells.revisions/revisioncellchange/id) |  |
 | [cell_name](/cells/python-net/de/aspose.cells.revisions/revisioncellchange/cell_name) | Ruft den Namen der Zelle ab.|
 | [row](/cells/python-net/de/aspose.cells.revisions/revisioncellchange/row) | Ruft den Zeilenindex der Zelle ab.|
 | [column](/cells/python-net/de/aspose.cells.revisions/revisioncellchange/column) | Ruft den Spaltenindex der Zelle ab.|
 | [is_new_formatted](/cells/python-net/de/aspose.cells.revisions/revisioncellchange/is_new_formatted) | Gibt an, ob diese Zelle neu formatiert ist.|
-| [is_old_formatted](/cells/python-net/de/aspose.cells.revisions/revisioncellchange/is_old_formatted) | Gibt an, ob diese Zelle alt formatiert ist.|
+| [is_old_formatted](/cells/python-net/de/aspose.cells.revisions/revisioncellchange/is_old_formatted) | Gibt an, ob diese Zelle altformatiert ist.|
 | [old_formula](/cells/python-net/de/aspose.cells.revisions/revisioncellchange/old_formula) | Ruft die alte Formel ab.|
 | [old_value](/cells/python-net/de/aspose.cells.revisions/revisioncellchange/old_value) | Ruft den alten Wert der Zelle ab.|
 | [new_value](/cells/python-net/de/aspose.cells.revisions/revisioncellchange/new_value) | Ruft den neuen Wert der Zelle ab.|
@@ -40,6 +39,5 @@ Der Typ RevisionCellChange macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.revisions](..)
-* Klasse [Revision](/cells/python-net/de/aspose.cells.revisions/revision)
-* Klasse [RevisionCellChange](/cells/python-net/de/aspose.cells.revisions/revisioncellchange)
+* Modul [`aspose.cells.revisions`](..)
+* Klasse [`RevisionCellChange`](/cells/python-net/de/aspose.cells.revisions/revisioncellchange)

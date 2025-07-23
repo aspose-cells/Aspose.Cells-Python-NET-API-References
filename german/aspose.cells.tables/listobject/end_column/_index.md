@@ -3,7 +3,7 @@ title: end_column Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 160
+weight: 170
 url: /de/aspose.cells.tables/listobject/end_column/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def end_column(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.tables](../../)
-* Klasse [ListObject](/cells/python-net/de/aspose.cells.tables/listobject)
+* Modul [`aspose.cells.tables`](../../)
+* Klasse [`ListObject`](/cells/python-net/de/aspose.cells.tables/listobject)

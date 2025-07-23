@@ -14,12 +14,12 @@ Ruft den Modus für die Arbeitsmappenberechnung in MS Excel ab oder legt ihn fes
 ###  Bemerkungen
 
 Diese Eigenschaft dient nur zum Speichern der Einstellungen in der resultierenden Tabellenkalkulationsdatei
-damit andere Anwendungen (z. B. MS Excel) beim Laden und Bearbeiten der resultierenden Datei entsprechend handeln können.
-Aus Leistungsgründen für die meisten Benutzeranwendungen berechnen wir keine Formeln in der Arbeitsmappe automatisch.
+damit andere Anwendungen (wie z. B. MS Excel) beim Laden und Bearbeiten der resultierenden Datei entsprechend reagieren können.
+Aus Leistungsgründen berechnen wir für die meisten Benutzeranwendungen keine Formeln in der Arbeitsmappe automatisch.
 unabhängig davon, welcher Modus für diese Eigenschaft eingestellt wurde.
-Wenn der Benutzer Formeln berechnen muss, rufen Sie bitte je nach Anforderung immer Methoden für verschiedene Objekte auf:
-[Workbook.calculate_formula()](/cells/python-net/aspose.cells/workbook/calculate_formula), [Worksheet.calculate_formula(formula)](/cells/python-net/aspose.cells/worksheet/calculate_formula),
-[Cell.calculate(options)](/cells/python-net/de/aspose.cells/cell/calculate), ...usw.
+Wenn der Benutzer Formeln berechnen muss, rufen Sie je nach Bedarf immer Methoden auf verschiedenen Objekten auf:
+[`Workbook.calculate_formula`](/cells/python-net/aspose.cells/workbook/calculate_formula), [`Worksheet.calculate_formula`](/cells/python-net/aspose.cells/worksheet/calculate_formula),
+[`Cell.calculate`](/cells/python-net/de/aspose.cells/cell/calculate), ...usw.
 ###  Definition:
 ```python
 @property
@@ -31,6 +31,6 @@ def calculation_mode(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CalcModeType](/cells/python-net/de/aspose.cells/calcmodetype)
-* Klasse [FormulaSettings](/cells/python-net/de/aspose.cells/formulasettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CalcModeType`](/cells/python-net/de/aspose.cells/calcmodetype)
+* Klasse [`FormulaSettings`](/cells/python-net/de/aspose.cells/formulasettings)

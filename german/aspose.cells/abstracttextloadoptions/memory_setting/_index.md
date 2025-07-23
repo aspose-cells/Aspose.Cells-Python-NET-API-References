@@ -3,13 +3,17 @@ title: memory_setting Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 220
+weight: 210
 url: /de/aspose.cells/abstracttextloadoptions/memory_setting/
 is_root: false
 ---
 ##  memory_setting Eigentum
 
-Ruft die Speichernutzungsoptionen ab oder legt diese fest.
+Ruft den Speichermodus für die geladene Arbeitsmappe ab oder legt ihn fest.
+
+###  Bemerkungen
+
+Weitere Einzelheiten zum Speichermodus finden Sie unter [`Cells.memory_setting`](/cells/python-net/de/aspose.cells/cells#memory_setting).
 ###  Definition:
 ```python
 @property
@@ -21,6 +25,6 @@ def memory_setting(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [AbstractTextLoadOptions](/cells/python-net/de/aspose.cells/abstracttextloadoptions)
-* Klasse [MemorySetting](/cells/python-net/de/aspose.cells/memorysetting)
+* Modul [`aspose.cells`](../../)
+* Klasse [`AbstractTextLoadOptions`](/cells/python-net/de/aspose.cells/abstracttextloadoptions)
+* Klasse [`MemorySetting`](/cells/python-net/de/aspose.cells/memorysetting)

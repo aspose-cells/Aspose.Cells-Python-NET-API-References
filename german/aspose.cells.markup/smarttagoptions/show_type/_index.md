@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_type Eigentum
 
-Stellt den Showtyp des Smarttags dar.
+Stellt den Anzeigetyp des Smarttags dar.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def show_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.markup](../../)
-* Klasse [SmartTagOptions](/cells/python-net/de/aspose.cells.markup/smarttagoptions)
-* Klasse [SmartTagShowType](/cells/python-net/de/aspose.cells.markup/smarttagshowtype)
+* Modul [`aspose.cells.markup`](../../)
+* Klasse [`SmartTagOptions`](/cells/python-net/de/aspose.cells.markup/smarttagoptions)
+* Klasse [`SmartTagShowType`](/cells/python-net/de/aspose.cells.markup/smarttagshowtype)

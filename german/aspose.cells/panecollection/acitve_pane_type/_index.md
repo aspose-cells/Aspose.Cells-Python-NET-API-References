@@ -21,6 +21,6 @@ def acitve_pane_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PaneCollection](/cells/python-net/de/aspose.cells/panecollection)
-* Klasse [RectangleAlignmentType](/cells/python-net/de/aspose.cells.drawing/rectanglealignmenttype)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PaneCollection`](/cells/python-net/de/aspose.cells/panecollection)
+* Klasse [`RectangleAlignmentType`](/cells/python-net/de/aspose.cells.drawing/rectanglealignmenttype)

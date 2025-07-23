@@ -3,7 +3,7 @@ title: shape_height_px Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 320
+weight: 330
 url: /de/aspose.cells.charts/chartpoint/shape_height_px/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def shape_height_px(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ChartPoint](/cells/python-net/de/aspose.cells.charts/chartpoint)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ChartPoint`](/cells/python-net/de/aspose.cells.charts/chartpoint)

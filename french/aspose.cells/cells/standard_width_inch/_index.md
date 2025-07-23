@@ -3,13 +3,13 @@ title: standard_width_inch propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1280
+weight: 1310
 url: /fr/aspose.cells/cells/standard_width_inch/
 is_root: false
 ---
 ##  standard_width_inch propriété
 
-Obtient ou définit la largeur de colonne par défaut dans la feuille de calcul, en unités de pouces.
+Obtient ou définit la largeur de colonne par défaut dans la feuille de calcul, en pouces.
 ###  Définition:
 ```python
 @property

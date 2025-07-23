@@ -9,10 +9,10 @@ is_root: false
 ---
 ##  top10 propriété
 
-Obtenez l'instance "Top10" de la mise en forme conditionnelle.
+Obtenez l'instance « Top10 » de la mise en forme conditionnelle.
 La règle de l'instance par défaut met en évidence les cellules dont
-les valeurs se situent dans les 10 premières tranches.
-Valable uniquement pour le type est Top10.
+les valeurs se situent dans la tranche des 10 premières.
+Valable uniquement pour le type Top10.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def top10(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FormatCondition](/cells/python-net/fr/aspose.cells/formatcondition)
-* classe [Top10](/cells/python-net/fr/aspose.cells/top10)
+* module [`aspose.cells`](../../)
+* classe [`FormatCondition`](/cells/python-net/fr/aspose.cells/formatcondition)
+* classe [`Top10`](/cells/python-net/fr/aspose.cells/top10)

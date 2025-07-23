@@ -21,5 +21,5 @@ def column(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CellWatch](/cells/python-net/fr/aspose.cells/cellwatch)
+* module [`aspose.cells`](../../)
+* classe [`CellWatch`](/cells/python-net/fr/aspose.cells/cellwatch)

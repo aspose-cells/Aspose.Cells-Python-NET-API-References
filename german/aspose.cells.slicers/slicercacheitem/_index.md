@@ -8,7 +8,7 @@ url: /de/aspose.cells.slicers/slicercacheitem/
 is_root: false
 ---
 ##  SlicerCacheItem Klasse
-Repräsentiert Slicer-Datenquellenelement
+Darstellen eines Slicer-Datenquellenelements
 
 
 
@@ -23,4 +23,4 @@ Der Typ SlicerCacheItem macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.slicers](..)
+* Modul [`aspose.cells.slicers`](..)

@@ -8,7 +8,7 @@ url: /de/aspose.cells.digitalsignatures/xadestype/
 is_root: false
 ---
 ##  XAdESType Aufzählung
-Art der erweiterten elektronischen XML-Signatur (XAdES).
+Typ der XML Advanced Electronic Signature (XAdES).
 
 
 
@@ -18,9 +18,9 @@ Der Typ XAdESType macht die folgenden Member verfügbar:
 | Feld| Beschreibung|
 | :- | :- |
 | NONE | XAdES ist ausgeschaltet.|
-| X_AD_ES | Einfaches XAdES.|
+| X_AD_ES | Grundlegendes XAdES.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.digitalsignatures](..)
+* Modul [`aspose.cells.digitalsignatures`](..)

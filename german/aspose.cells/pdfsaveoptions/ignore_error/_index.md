@@ -3,14 +3,11 @@ title: ignore_error Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 240
+weight: 290
 url: /de/aspose.cells/pdfsaveoptions/ignore_error/
 is_root: false
 ---
 ##  ignore_error Eigentum
-
-Gibt an, ob Sie den Fehler beim Rendern ausblenden müssen.
-Der Fehler kann ein Fehler in Form, Bild, Diagrammwiedergabe usw. sein.
 ###  Definition:
 ```python
 @property
@@ -22,5 +19,5 @@ def ignore_error(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PdfSaveOptions](/cells/python-net/de/aspose.cells/pdfsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PdfSaveOptions`](/cells/python-net/de/aspose.cells/pdfsaveoptions)

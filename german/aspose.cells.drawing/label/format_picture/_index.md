@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  format_picture Eigentum
 
-Ruft die Optionen des Bildformats ab und legt diese fest.
+Ruft die Optionen des Bildformats ab und legt sie fest.
 
 ###  Beispiel
 

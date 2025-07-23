@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type propriété
 
-Obtient le type de la puce.
+Obtient le type de la balle.
 ###  Définition:
 ```python
 @property
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [BulletType](/cells/python-net/fr/aspose.cells.drawing.texts/bullettype)
-* classe [CharacterBulletValue](/cells/python-net/fr/aspose.cells.drawing.texts/characterbulletvalue)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`BulletType`](/cells/python-net/fr/aspose.cells.drawing.texts/bullettype)
+* classe [`CharacterBulletValue`](/cells/python-net/fr/aspose.cells.drawing.texts/characterbulletvalue)

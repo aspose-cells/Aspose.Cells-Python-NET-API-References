@@ -17,9 +17,9 @@ Der Typ ChartLineFormattingType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| AUTOMATIC | Stellt den Typ der automatischen Formatierung dar.|
+| AUTOMATIC | Stellt den automatischen Formatierungstyp dar.|
 | SOLID | Stellt den festen Formatierungstyp dar.|
-| NONE |Stellt keinen Formatierungstyp dar.|
+| NONE | Stellt keinen Formatierungstyp dar.|
 | GRADIENT | Gradient|
 
 

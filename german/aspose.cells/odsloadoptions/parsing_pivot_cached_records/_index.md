@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  parsing_pivot_cached_records Eigentum
 
-Gibt an, ob beim Laden der Datei zwischengespeicherte Pivot-Datensätze analysiert werden.
-Der Standardwert ist falsch.
+Gibt an, ob beim Laden der Datei die zwischengespeicherten Pivot-Datensätze analysiert werden.
+Der Standardwert ist „false“.
 
 ###  Bemerkungen
 
-Gilt nur für Excel Xlsx-, Xltx-, Xltm-, Xlsm- und XLSB-Dateien
+Gilt nur für Excel-Dateien Xlsx, Xltx, Xltm, Xlsm und xlsb
 ###  Definition:
 ```python
 @property
@@ -26,5 +26,5 @@ def parsing_pivot_cached_records(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [OdsLoadOptions](/cells/python-net/de/aspose.cells/odsloadoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`OdsLoadOptions`](/cells/python-net/de/aspose.cells/odsloadoptions)

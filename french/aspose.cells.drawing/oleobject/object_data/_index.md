@@ -3,13 +3,13 @@ title: object_data propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 960
+weight: 970
 url: /fr/aspose.cells.drawing/oleobject/object_data/
 is_root: false
 ---
 ##  object_data propriété
 
-Représente les données d'objet ole incorporées sous forme de tableau d'octets.
+Représente les données d'objet OLE intégrées sous forme de tableau d'octets.
 ###  Définition:
 ```python
 @property

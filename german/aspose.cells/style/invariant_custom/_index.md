@@ -11,15 +11,15 @@ is_root: false
 
 Ruft die kulturunabhängige Musterzeichenfolge für das Zahlenformat ab.
 Wenn für dieses Objekt kein Zahlenformat festgelegt wurde, wird null zurückgegeben.
-Wenn das Zahlenformat eingebaut ist, wird die Musterzeichenfolge zurückgegeben, die der eingebauten Zahl entspricht.
+Wenn das Zahlenformat integriert ist, wird die Musterzeichenfolge zurückgegeben, die der integrierten Zahl entspricht.
 
 ###  Bemerkungen
 
-Für integrierte Zahlenformate ist der zurückgegebene Musterinhalt immer noch kulturabhängig,
-Beispielsweise gibt es für einige Gebietsschemas "m/d/y" und für einige andere Gebietsschemas "d/m/y" zurück.
-Der Unterschied zu [Style.culture_custom](/cells/python-net/de/aspose.cells/style#culture_custom) ist (das bedeutet auch kulturunabhängig):
-die Formatbezeichner und Trennzeichen werden standardmäßig beibehalten, z. B. '/' wird immer als Datum/Uhrzeit-Trennzeichen verwendet
-und "y" wird immer als "year"-Teil verwendet, egal welche anderen Sonderzeichen für die spezifische Locale verwendet werden.
+Bei integrierten Zahlenformaten ist der zurückgegebene Musterinhalt immer noch kulturabhängig.
+Beispielsweise wird für einige Gebietsschemas „m/d/y“ und für andere Gebietsschemas „d/m/y“ zurückgegeben.
+Der Unterschied zu [`Style.culture_custom`](/cells/python-net/de/aspose.cells/style#culture_custom) ist (das bedeutet auch kulturunabhängig):
+Die Formatbezeichner und Trennzeichen bleiben standardmäßig erhalten, so wird beispielsweise '/' immer als Datums-/Uhrzeit-Trennzeichen verwendet.
+und „y“ wird immer als „Jahres“-Teil verwendet, unabhängig davon, welches andere Sonderzeichen für das jeweilige Gebietsschema verwendet wird.
 ###  Definition:
 ```python
 @property
@@ -28,5 +28,5 @@ def invariant_custom(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Style](/cells/python-net/de/aspose.cells/style)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Style`](/cells/python-net/de/aspose.cells/style)

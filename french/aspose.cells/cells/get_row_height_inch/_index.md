@@ -3,20 +3,21 @@ title: méthode get_row_height_inch
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 470
+weight: 510
 url: /fr/aspose.cells/cells/get_row_height_inch/
 is_root: false
 ---
-##  get_row_height_inch {#int}
-Obtient la hauteur d'une ligne spécifiée en unités de pouces.
+##  get_row_height_inch(self, row) {#int}
+Obtient la hauteur d'une ligne spécifiée en pouces.
 
 
 ###  Retour
 
-Hauteur du rang
+Hauteur de la rangée
 
 
 ```python
+
 def get_row_height_inch(self, row):
     ...
 ```
@@ -24,7 +25,7 @@ def get_row_height_inch(self, row):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| row | int | Index de ligne|
+| row | int | Index des lignes|
 
 
 

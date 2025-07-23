@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  multiple_worksheets propriété
 
-Indique si chaque attribut de l'objet JsonObject est importé en tant que feuille de calcul lorsque tous les nœuds enfants sont des nœuds de tableau.
+Indique si l'importation de chaque attribut de l'objet JsonObject doit être effectuée en tant que feuille de calcul lorsque tous les nœuds enfants sont des nœuds de tableau.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def multiple_worksheets(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [JsonLoadOptions](/cells/python-net/fr/aspose.cells/jsonloadoptions)
+* module [`aspose.cells`](../../)
+* classe [`JsonLoadOptions`](/cells/python-net/fr/aspose.cells/jsonloadoptions)

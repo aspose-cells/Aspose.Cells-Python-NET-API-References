@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  instructions Eigentum
 
-Ruft den Text ab, der dem Benutzer beim Signieren angezeigt wird, und legt ihn fest.
+Ruft den Text ab, der dem Benutzer beim Signieren angezeigt wird, oder legt ihn fest.
 
 ###  Beispiel
 
@@ -32,5 +32,5 @@ def instructions(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [SignatureLine](/cells/python-net/de/aspose.cells.drawing/signatureline)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`SignatureLine`](/cells/python-net/de/aspose.cells.drawing/signatureline)

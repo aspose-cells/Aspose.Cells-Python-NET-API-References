@@ -8,8 +8,6 @@ url: /de/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_enab
 is_root: false
 ---
 ##  is_enabled Eigentum
-
-Gibt an, ob das Steuerelement den Fokus erhalten und auf vom Benutzer generierte Ereignisse reagieren kann.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_enabled(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [ToggleButtonActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`ToggleButtonActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  user_name Eigentum
 
-Ruft den Namen des Benutzers ab, der die Überarbeitung vornimmt, und legt ihn fest.
+Ruft den Namen des Benutzers ab, der die Revision vornimmt, und legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def user_name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.revisions](../../)
-* Klasse [RevisionHeader](/cells/python-net/de/aspose.cells.revisions/revisionheader)
+* Modul [`aspose.cells.revisions`](../../)
+* Klasse [`RevisionHeader`](/cells/python-net/de/aspose.cells.revisions/revisionheader)

@@ -1,5 +1,5 @@
 ---
-title: characters méthode
+title: méthode characters
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 30
 url: /fr/aspose.cells/cell/characters/
 is_root: false
 ---
-##  characters(start_index, length) {#int-int}
+##  characters(self, start_index, length) {#int-int}
 Renvoie un objet Characters qui représente une plage de characters dans le texte de la cellule.
 
 
 ###  Retour
 
-Objet personnages.
+Objet Personnages.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -47,5 +48,5 @@ cells.get("A1").characters(5, 5).font.color = Color.blue
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Cell](/cells/python-net/fr/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/fr/aspose.cells/cell)

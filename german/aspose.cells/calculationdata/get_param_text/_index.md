@@ -7,8 +7,8 @@ weight: 20
 url: /de/aspose.cells/calculationdata/get_param_text/
 is_root: false
 ---
-##  get_param_text(index) {#int}
-Ruft den wörtlichen Text des Parameters am angegebenen Index ab.
+##  get_param_text(self, index) {#int}
+Ruft den Literaltext des Parameters am angegebenen Index ab.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ wörtlicher Text des Parameters
 
 
 ```python
+
 def get_param_text(self, index):
     ...
 ```
@@ -24,10 +25,10 @@ def get_param_text(self, index):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| index | int | Index des Parameters (0 basiert)|
+| index | int | Index des Parameters (0-basiert)|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CalculationData](/cells/python-net/de/aspose.cells/calculationdata)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CalculationData`](/cells/python-net/de/aspose.cells/calculationdata)

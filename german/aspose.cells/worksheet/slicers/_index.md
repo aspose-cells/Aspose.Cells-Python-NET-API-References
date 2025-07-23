@@ -3,13 +3,13 @@ title: slicers Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 770
+weight: 800
 url: /de/aspose.cells/worksheet/slicers/
 is_root: false
 ---
 ##  slicers Eigentum
 
-Rufen Sie die Slicer-Sammlung im Arbeitsblatt ab
+Holen Sie sich die Slicer-Sammlung im Arbeitsblatt
 ###  Definition:
 ```python
 @property

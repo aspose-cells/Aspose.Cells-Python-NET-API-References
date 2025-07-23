@@ -3,13 +3,13 @@ title: sort_names Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 150
+weight: 160
 url: /de/aspose.cells/ooxmlsaveoptions/sort_names/
 is_root: false
 ---
 ##  sort_names Eigentum
 
-Gibt an, ob definierte Namen vor dem Speichern der Datei sortiert werden.
+Gibt an, ob vor dem Speichern der Datei die definierten Namen sortiert werden sollen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def sort_names(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [OoxmlSaveOptions](/cells/python-net/de/aspose.cells/ooxmlsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`OoxmlSaveOptions`](/cells/python-net/de/aspose.cells/ooxmlsaveoptions)

@@ -28,7 +28,7 @@ Der Typ SparklinePresetStyleType macht die folgenden Member verfügbar:
 | STYLE9 | Stil 9|
 | STYLE10 | Stil 10|
 | STYLE11 | Stil 11|
-| STYLE12 |Stil 12|
+| STYLE12 | Stil 12|
 | STYLE13 | Stil 13|
 | STYLE14 | Stil 14|
 | STYLE15 | Stil 15|
@@ -45,7 +45,7 @@ Der Typ SparklinePresetStyleType macht die folgenden Member verfügbar:
 | STYLE26 | Stil 26|
 | STYLE27 | Stil 27|
 | STYLE28 | Stil 28|
-| STYLE29 | Stil 29|
+| STYLE29 |Stil 29|
 | STYLE30 | Stil 30|
 | STYLE31 | Stil 31|
 | STYLE32 | Stil 32|
@@ -58,4 +58,4 @@ Der Typ SparklinePresetStyleType macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
+* Modul [`aspose.cells.charts`](..)

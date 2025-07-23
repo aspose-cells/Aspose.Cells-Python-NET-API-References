@@ -3,17 +3,17 @@ title: height_in_shape Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 450
+weight: 440
 url: /de/aspose.cells.drawing/webextensionshape/height_in_shape/
 is_root: false
 ---
 ##  height_in_shape Eigentum
 
-Stellt den vertikalen Versatz der Form vom oberen Rand der übergeordneten Form in der Einheit 1/4000 der Höhe der übergeordneten Form dar.
+Stellt den vertikalen Versatz der Form vom oberen Rand der übergeordneten Form in Einheiten von 1/4000 der Höhe der übergeordneten Form dar.
 
 ###  Bemerkungen
 
-Gilt nur, wenn diese Form in der Gruppe oder im Diagramm enthalten ist.
+Gilt nur, wenn sich diese Form in der Gruppe oder im Diagramm befindet.
 
 ###  Beispiel
 

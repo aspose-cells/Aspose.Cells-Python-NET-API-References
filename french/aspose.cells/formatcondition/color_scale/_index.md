@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  color_scale propriété
 
-Obtenez l'instance "ColorScale" de la mise en forme conditionnelle.
-L'instance par défaut est un 3ColorScale "vert-jaune-rouge".
+Obtenez l'instance « ColorScale » de la mise en forme conditionnelle.
+L'instance par défaut est un 3ColorScale « vert-jaune-rouge ».
 Valable uniquement pour le type = ColorScale.
 ###  Définition:
 ```python
@@ -20,6 +20,6 @@ def color_scale(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ColorScale](/cells/python-net/fr/aspose.cells/colorscale)
-* classe [FormatCondition](/cells/python-net/fr/aspose.cells/formatcondition)
+* module [`aspose.cells`](../../)
+* classe [`ColorScale`](/cells/python-net/fr/aspose.cells/colorscale)
+* classe [`FormatCondition`](/cells/python-net/fr/aspose.cells/formatcondition)

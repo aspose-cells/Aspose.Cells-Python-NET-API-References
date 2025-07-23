@@ -9,7 +9,14 @@ is_root: false
 ---
 ##  left_pixel Eigentum
 
-Gibt den horizontalen Versatz der Slicer-Form von der linken Spalte in Pixel zurück oder legt ihn fest.
+Gibt den horizontalen Versatz der Slicer-Form von ihrer linken Spalte in Pixeln zurück oder legt ihn fest.
+
+###  Bemerkungen
+
+ HINWEIS: Dieses Mitglied ist mittlerweile veraltet. Stattdessen
+ Bitte verwenden Sie die Shape.Left-Eigenschaft.
+ Diese Eigenschaft wird 12 Monate später ab Mai 2025 entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 
 ###  Beispiel
 
@@ -29,5 +36,5 @@ def left_pixel(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.slicers](../../)
-* Klasse [Slicer](/cells/python-net/de/aspose.cells.slicers/slicer)
+* Modul [`aspose.cells.slicers`](../../)
+* Klasse [`Slicer`](/cells/python-net/de/aspose.cells.slicers/slicer)

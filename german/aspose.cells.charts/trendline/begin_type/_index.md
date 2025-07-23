@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  begin_type Eigentum
 
-Gibt eine Pfeilspitze für den Beginn einer Linie an.
+Gibt eine Pfeilspitze für den Anfang einer Zeile an.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def begin_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [MsoArrowheadStyle](/cells/python-net/de/aspose.cells.drawing/msoarrowheadstyle)
-* Klasse [Trendline](/cells/python-net/de/aspose.cells.charts/trendline)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`MsoArrowheadStyle`](/cells/python-net/de/aspose.cells.drawing/msoarrowheadstyle)
+* Klasse [`Trendline`](/cells/python-net/de/aspose.cells.charts/trendline)

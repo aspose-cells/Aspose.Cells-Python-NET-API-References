@@ -3,7 +3,7 @@ title: Hyperlink classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 840
+weight: 820
 url: /fr/aspose.cells/hyperlink/
 is_root: false
 ---
@@ -18,16 +18,16 @@ Le type Hyperlink expose les membres suivants :
 | Propriété| Description|
 | :- | :- |
 | [address](/cells/python-net/fr/aspose.cells/hyperlink/address) | Représente l'adresse d'un lien hypertexte.|
-| [text_to_display](/cells/python-net/fr/aspose.cells/hyperlink/text_to_display) | Représente le texte à afficher pour le lien hypertexte spécifié. La valeur par défaut est l'adresse du lien hypertexte.|
+| [text_to_display](/cells/python-net/fr/aspose.cells/hyperlink/text_to_display) | Représente le texte à afficher pour l'hyperlien spécifié. La valeur par défaut est l'adresse de l'hyperlien.|
 | [area](/cells/python-net/fr/aspose.cells/hyperlink/area) | Obtient la plage du lien hypertexte.|
-| [screen_tip](/cells/python-net/fr/aspose.cells/hyperlink/screen_tip) | Renvoie ou définit le texte d'info-bulle pour le lien hypertexte spécifié.|
+| [screen_tip](/cells/python-net/fr/aspose.cells/hyperlink/screen_tip) | Renvoie ou définit le texte de l'info-bulle pour le lien hypertexte spécifié.|
 | [link_type](/cells/python-net/fr/aspose.cells/hyperlink/link_type) | Obtient le type de lien.|
 
 
 ###  Méthodes
 | Méthode| Description|
 | :- | :- |
-| [delete](/cells/python-net/fr/aspose.cells/hyperlink/delete/#) |Supprime cet hyperlien|
+| [`delete(self)`](/cells/python-net/fr/aspose.cells/hyperlink/delete/#) | Supprime ce lien hypertexte|
 
 
 

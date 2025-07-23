@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  caption_visible propriété
 
-Renvoie ou définit si l'en-tête qui affiche la légende du segment est visible
-la valeur par défaut est true
+Renvoie ou définit si l'en-tête qui affiche la légende du slicer est visible
+la valeur par défaut est vraie
 
 ###  Exemple
 
@@ -30,5 +30,5 @@ def caption_visible(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.slicers](../../)
-* classe [Slicer](/cells/python-net/fr/aspose.cells.slicers/slicer)
+* module [`aspose.cells.slicers`](../../)
+* classe [`Slicer`](/cells/python-net/fr/aspose.cells.slicers/slicer)

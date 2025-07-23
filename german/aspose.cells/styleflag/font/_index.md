@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font Eigentum
 
-Schriftarteinstellungen werden angewendet.
+Die Schriftarteinstellungen werden angewendet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def font(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [StyleFlag](/cells/python-net/de/aspose.cells/styleflag)
+* Modul [`aspose.cells`](../../)
+* Klasse [`StyleFlag`](/cells/python-net/de/aspose.cells/styleflag)

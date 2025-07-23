@@ -8,7 +8,7 @@ url: /de/aspose.cells/metered/get_consumption_quantity/
 is_root: false
 ---
 ##  get_consumption_quantity() {#}
-Ruft die Größe der Verbrauchsdatei ab
+Ruft die Verbrauchsdateigröße ab
 
 
 ###  Kehrt zurück
@@ -17,7 +17,9 @@ Verbrauchsmenge
 
 
 ```python
-def get_consumption_quantity(self):
+
+@staticmethod
+def get_consumption_quantity():
     ...
 ```
 
@@ -26,5 +28,5 @@ def get_consumption_quantity(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Metered](/cells/python-net/de/aspose.cells/metered)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Metered`](/cells/python-net/de/aspose.cells/metered)

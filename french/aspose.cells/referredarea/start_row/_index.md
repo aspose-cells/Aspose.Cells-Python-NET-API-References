@@ -3,7 +3,7 @@ title: start_row propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 120
+weight: 150
 url: /fr/aspose.cells/referredarea/start_row/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def start_row(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ReferredArea](/cells/python-net/fr/aspose.cells/referredarea)
+* module [`aspose.cells`](../../)
+* classe [`ReferredArea`](/cells/python-net/fr/aspose.cells/referredarea)

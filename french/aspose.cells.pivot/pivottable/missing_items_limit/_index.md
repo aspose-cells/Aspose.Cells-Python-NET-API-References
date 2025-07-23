@@ -3,7 +3,7 @@ title: missing_items_limit propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 660
+weight: 760
 url: /fr/aspose.cells.pivot/pivottable/missing_items_limit/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def missing_items_limit(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.pivot](../../)
-* classe [PivotMissingItemLimitType](/cells/python-net/fr/aspose.cells.pivot/pivotmissingitemlimittype)
-* classe [PivotTable](/cells/python-net/fr/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* classe [`PivotMissingItemLimitType`](/cells/python-net/fr/aspose.cells.pivot/pivotmissingitemlimittype)
+* classe [`PivotTable`](/cells/python-net/fr/aspose.cells.pivot/pivottable)

@@ -3,7 +3,7 @@ title: custom_list_sort propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 380
+weight: 480
 url: /fr/aspose.cells.pivot/pivottable/custom_list_sort/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def custom_list_sort(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.pivot](../../)
-* classe [PivotTable](/cells/python-net/fr/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* classe [`PivotTable`](/cells/python-net/fr/aspose.cells.pivot/pivottable)

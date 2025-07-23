@@ -3,7 +3,7 @@ title: PivotTableSelectionType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 350
+weight: 450
 url: /de/aspose.cells.pivot/pivottableselectiontype/
 is_root: false
 ---
@@ -18,9 +18,9 @@ Der Typ PivotTableSelectionType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| DATA_AND_LABEL |Daten und Etiketten|
+| DATA_AND_LABEL | Daten und Beschriftungen|
 | DATA_ONLY | Wählt nur Daten aus|
-| LABEL_ONLY | Wählt nur Beschriftungen aus|
+| LABEL_ONLY | Wählt nur Etiketten aus|
 
 
 

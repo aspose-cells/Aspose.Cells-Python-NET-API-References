@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_copies propriété
 
-Obtient et définit le nombre de copies à imprimer.
+Obtenir et définir le nombre de copies à imprimer.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def print_copies(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/fr/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/fr/aspose.cells/pagesetup)

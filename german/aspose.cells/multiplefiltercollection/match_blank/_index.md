@@ -21,5 +21,5 @@ def match_blank(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [MultipleFilterCollection](/cells/python-net/de/aspose.cells/multiplefiltercollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`MultipleFilterCollection`](/cells/python-net/de/aspose.cells/multiplefiltercollection)

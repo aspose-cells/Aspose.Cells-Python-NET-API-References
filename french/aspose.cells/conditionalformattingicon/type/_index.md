@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type propriété
 
-Obtient et définit le jeu d'icônes type.
+Obtient et définit l'ensemble d'icônes type.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ConditionalFormattingIcon](/cells/python-net/fr/aspose.cells/conditionalformattingicon)
-* classe [IconSetType](/cells/python-net/fr/aspose.cells/iconsettype)
+* module [`aspose.cells`](../../)
+* classe [`ConditionalFormattingIcon`](/cells/python-net/fr/aspose.cells/conditionalformattingicon)
+* classe [`IconSetType`](/cells/python-net/fr/aspose.cells/iconsettype)

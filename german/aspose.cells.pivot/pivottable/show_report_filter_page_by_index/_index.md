@@ -3,16 +3,17 @@ title: show_report_filter_page_by_index Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 270
+weight: 340
 url: /de/aspose.cells.pivot/pivottable/show_report_filter_page_by_index/
 is_root: false
 ---
-##  show_report_filter_page_by_index(pos_index) {#int}
-Alle Berichtsfilterseiten gemäß dem Positionsindex in den PageFields anzeigen
+##  show_report_filter_page_by_index(self, pos_index) {#int}
+Alle Reportfilterseiten entsprechend dem Positionsindex in den PageFields anzeigen
 
 
 
 ```python
+
 def show_report_filter_page_by_index(self, pos_index):
     ...
 ```
@@ -25,5 +26,5 @@ def show_report_filter_page_by_index(self, pos_index):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotTable](/cells/python-net/de/aspose.cells.pivot/pivottable)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotTable`](/cells/python-net/de/aspose.cells.pivot/pivottable)

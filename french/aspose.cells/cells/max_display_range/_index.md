@@ -3,17 +3,17 @@ title: max_display_range propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1110
+weight: 1140
 url: /fr/aspose.cells/cells/max_display_range/
 is_root: false
 ---
 ##  max_display_range propriété
 
-Obtient la plage maximale qui inclut les données, les cellules fusionnées et les formes.
+Obtient la plage maximale qui comprend les données, les cellules fusionnées et les formes.
 
 ###  Remarques
 
-Renvoie null si la feuille de calcul est vide depuis Aspose.Cells 21.5.2.
+Renvoie null si la feuille de calcul est vide depuis le Aspose.Cells 21.5.2.
 ###  Définition:
 ```python
 @property

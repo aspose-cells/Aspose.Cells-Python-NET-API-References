@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cert_raw_data Eigentum
 
-Ruft Rohdaten des Zertifikats ab, wenn dieses VBA-Projekt signiert ist.
+Ruft die Rohdaten des Zertifikats ab, wenn dieses VBA-Projekt signiert ist.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def cert_raw_data(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.vba](../../)
-* Klasse [VbaProject](/cells/python-net/de/aspose.cells.vba/vbaproject)
+* Modul [`aspose.cells.vba`](../../)
+* Klasse [`VbaProject`](/cells/python-net/de/aspose.cells.vba/vbaproject)

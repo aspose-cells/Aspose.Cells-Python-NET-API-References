@@ -3,7 +3,7 @@ title: position propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 540
+weight: 630
 url: /fr/aspose.cells.pivot/pivotfield/position/
 is_root: false
 ---

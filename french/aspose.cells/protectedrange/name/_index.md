@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name propriété
 
-Obtient le titre de la plage. Ceci est utilisé comme descripteur, pas comme une définition de plage nommée.
+Obtient le titre de la plage. Il est utilisé comme descripteur, et non comme définition de plage nommée.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ProtectedRange](/cells/python-net/fr/aspose.cells/protectedrange)
+* module [`aspose.cells`](../../)
+* classe [`ProtectedRange`](/cells/python-net/fr/aspose.cells/protectedrange)

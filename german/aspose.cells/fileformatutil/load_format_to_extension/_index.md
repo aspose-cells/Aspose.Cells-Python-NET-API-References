@@ -7,30 +7,32 @@ weight: 60
 url: /de/aspose.cells/fileformatutil/load_format_to_extension/
 is_root: false
 ---
-##  load_format_to_extension(load_format) {#LoadFormat}
+##  load_format_to_extension(, Ladeformat){#aspose.cells.LoadFormat}
 Konvertiert einen Aufzählungswert im Ladeformat in eine Dateierweiterung.
 
 
 ###  Kehrt zurück
 
-Die zurückgegebene Erweiterung ist eine Zeichenfolge in Kleinbuchstaben mit einem führenden Punkt.
+Die zurückgegebene Erweiterung ist eine Zeichenfolge in Kleinbuchstaben mit einem vorangestellten Punkt.
 
 
 ```python
-def load_format_to_extension(self, load_format):
+
+@staticmethod
+def load_format_to_extension(load_format):
     ...
 ```
 
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| load_format | [LoadFormat](/cells/python-net/de/aspose.cells/loadformat) | Das geladene Dateiformat.|
+| load_format | [`LoadFormat`](/cells/python-net/de/aspose.cells/loadformat) | Das geladene Dateiformat.|
 ###  Bemerkungen
 
-Wenn es nicht konvertiert werden kann, wird null zurückgegeben.
+Wenn es nicht konvertiert werden kann, wird Null zurückgegeben.
 
 
 ###  Siehe auch
 
-* Modul [aspose.cells](../../)
-* Klasse [FileFormatUtil](/cells/python-net/de/aspose.cells/fileformatutil)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FileFormatUtil`](/cells/python-net/de/aspose.cells/fileformatutil)

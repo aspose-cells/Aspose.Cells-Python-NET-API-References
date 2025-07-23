@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  allow_deleting_row propriété
 
-Représente si la suppression de lignes est autorisée sur une feuille de calcul protégée.
+Indique si la suppression de lignes est autorisée sur une feuille de calcul protégée.
 
 ###  Remarques
 
 Les lignes contenant les cellules à supprimer doivent être déverrouillées lorsque la feuille est protégée,
-et l'option "Sélectionner les cellules déverrouillées" doit être activée.
+et l'option « Sélectionner les cellules déverrouillées » doit être activée.
 ###  Définition:
 ```python
 @property
@@ -26,5 +26,5 @@ def allow_deleting_row(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Protection](/cells/python-net/fr/aspose.cells/protection)
+* module [`aspose.cells`](../../)
+* classe [`Protection`](/cells/python-net/fr/aspose.cells/protection)

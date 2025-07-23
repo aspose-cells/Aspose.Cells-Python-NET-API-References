@@ -21,5 +21,5 @@ def angle(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [GradientFill](/cells/python-net/fr/aspose.cells.drawing/gradientfill)
+* module [`aspose.cells.drawing`](../../)
+* classe [`GradientFill`](/cells/python-net/fr/aspose.cells.drawing/gradientfill)

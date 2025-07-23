@@ -1,5 +1,5 @@
 ---
-title: add méthode
+title: méthode add
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 20
 url: /fr/aspose.cells.markup/smarttagsetting/add/
 is_root: false
 ---
-##  add(cell_name) {#str}
-Ajoutez une balise intelligente de cellule.
+##  add(self, cell_name) {#str}
+Ajoutez des balises intelligentes de cellule.
 
 
 ###  Retour
@@ -17,6 +17,7 @@ Ajoutez une balise intelligente de cellule.
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -27,16 +28,17 @@ def add(self, cell_name):
 | cell_name | str | Le nom de la cellule.|
 
 
-##  add(row, column) {#int-int}
-Ajoute un objet [SmartTagCollection](/cells/python-net/fr/aspose.cells.markup/smarttagcollection) à une cellule.
+##  add(self, row, column) {#int-int}
+Ajoute un objet [`SmartTagCollection`](/cells/python-net/fr/aspose.cells.markup/smarttagcollection) à une cellule.
 
 
 ###  Retour
 
-Renvoie l'index d'un objet [SmartTagCollection](/cells/python-net/fr/aspose.cells.markup/smarttagcollection) dans la feuille de calcul.
+Renvoie l'index d'un objet [`SmartTagCollection`](/cells/python-net/fr/aspose.cells.markup/smarttagcollection) dans la feuille de calcul.
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -50,6 +52,6 @@ def add(self, row, column):
 
 
 ###  Voir également
-* module [aspose.cells.markup](../../)
-* classe [SmartTagCollection](/cells/python-net/fr/aspose.cells.markup/smarttagcollection)
-* classe [SmartTagSetting](/cells/python-net/fr/aspose.cells.markup/smarttagsetting)
+* module [`aspose.cells.markup`](../../)
+* classe [`SmartTagCollection`](/cells/python-net/fr/aspose.cells.markup/smarttagcollection)
+* classe [`SmartTagSetting`](/cells/python-net/fr/aspose.cells.markup/smarttagsetting)

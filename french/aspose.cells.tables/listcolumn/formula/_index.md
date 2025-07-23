@@ -3,7 +3,7 @@ title: formula propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 70
+weight: 90
 url: /fr/aspose.cells.tables/listcolumn/formula/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def formula(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.tables](../../)
-* classe [ListColumn](/cells/python-net/fr/aspose.cells.tables/listcolumn)
+* module [`aspose.cells.tables`](../../)
+* classe [`ListColumn`](/cells/python-net/fr/aspose.cells.tables/listcolumn)

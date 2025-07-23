@@ -3,16 +3,17 @@ title: méthode group_columns
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 530
+weight: 570
 url: /fr/aspose.cells/cells/group_columns/
 is_root: false
 ---
-##  group_columns {#int-int}
+##  group_columns(self, first_index, last_index) {#int-int}
 Colonnes de groupes.
 
 
 
 ```python
+
 def group_columns(self, first_index, last_index):
     ...
 ```
@@ -20,16 +21,17 @@ def group_columns(self, first_index, last_index):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| first_index | int | Index de la première colonne à regrouper.|
-| last_index | int | Dernier index de colonne à regrouper.|
+| first_index | int | Le premier index de colonne à regrouper.|
+| last_index | int | Le dernier index de colonne à regrouper.|
 
 
-##  group_columns {#int-int-bool}
+##  group_columns(self, first_index, last_index, is_hidden) {#int-int-bool}
 Colonnes de groupes.
 
 
 
 ```python
+
 def group_columns(self, first_index, last_index, is_hidden):
     ...
 ```
@@ -37,8 +39,8 @@ def group_columns(self, first_index, last_index, is_hidden):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| first_index | int | Index de la première colonne à regrouper.|
-| last_index | int | Dernier index de colonne à regrouper.|
+| first_index | int | Le premier index de colonne à regrouper.|
+| last_index | int | Le dernier index de colonne à regrouper.|
 | is_hidden | bool | Spécifie si les colonnes groupées sont masquées.|
 
 

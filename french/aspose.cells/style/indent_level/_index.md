@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  indent_level propriété
 
-Représente le niveau de retrait de la cellule ou de la plage. Ne peut être qu'un nombre entier compris entre 0 et 250.
+Représente le niveau de retrait de la cellule ou de la plage. Ne peut être qu'un entier compris entre 0 et 250.
 
 ###  Remarques
 
-Si le type d'alignement horizontal du texte est défini sur une valeur autre que gauche ou droite, le niveau d'indentation
+Si le type d'alignement horizontal du texte est défini sur une valeur autre que gauche ou droite, le niveau de retrait sera
 être remis à zéro.
 ###  Définition:
 ```python
@@ -26,5 +26,5 @@ def indent_level(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Style](/cells/python-net/fr/aspose.cells/style)
+* module [`aspose.cells`](../../)
+* classe [`Style`](/cells/python-net/fr/aspose.cells/style)

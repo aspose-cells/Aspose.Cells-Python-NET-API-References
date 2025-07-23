@@ -3,16 +3,17 @@ title: méthode set_text_of_grand_total
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 270
+weight: 280
 url: /fr/aspose.cells/settablepivotglobalizationsettings/set_text_of_grand_total/
 is_root: false
 ---
-##  set_text_of_grand_total {#str}
-Définit le texte de l'étiquette « Grand Total » dans le tableau croisé dynamique.
+##  set_text_of_grand_total(self, text) {#str}
+Définit le texte de l'étiquette « Total général » dans le tableau croisé dynamique.
 
 
 
 ```python
+
 def set_text_of_grand_total(self, text):
     ...
 ```

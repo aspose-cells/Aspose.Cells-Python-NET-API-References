@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bound_column propriété
 
-Représente la manière dont la propriété Value est déterminée pour un ComboBox ou un ListBox
+Représente la manière dont la propriété Value est déterminée pour une ComboBox ou une ListBox
 lorsque la valeur des propriétés MultiSelect (fmMultiSelectSingle).
 ###  Définition:
 ```python
@@ -22,5 +22,5 @@ def bound_column(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [ComboBoxActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ComboBoxActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

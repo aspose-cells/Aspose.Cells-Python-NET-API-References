@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  max_value Eigentum
 
-Ruft den maximalen Wert des dynamischen Filters ab und legt ihn fest.
+Ruft den Maximalwert des dynamischen Filters ab und legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def max_value(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [DynamicFilter](/cells/python-net/de/aspose.cells/dynamicfilter)
+* Modul [`aspose.cells`](../../)
+* Klasse [`DynamicFilter`](/cells/python-net/de/aspose.cells/dynamicfilter)

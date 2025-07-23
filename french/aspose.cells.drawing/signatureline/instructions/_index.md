@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  instructions propriété
 
-Obtient et définit le texte affiché à l'utilisateur au moment de la signature.
+Obtient ou définit le texte affiché à l'utilisateur au moment de la signature.
 
 ###  Exemple
 
@@ -32,5 +32,5 @@ def instructions(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [SignatureLine](/cells/python-net/fr/aspose.cells.drawing/signatureline)
+* module [`aspose.cells.drawing`](../../)
+* classe [`SignatureLine`](/cells/python-net/fr/aspose.cells.drawing/signatureline)

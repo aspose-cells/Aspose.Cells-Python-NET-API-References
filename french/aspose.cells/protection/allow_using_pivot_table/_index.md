@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_using_pivot_table propriété
 
-Représente si l'utilisateur est autorisé à manipuler des tableaux croisés dynamiques sur une feuille de calcul protégée.
+Indique si l'utilisateur est autorisé à manipuler des tableaux croisés dynamiques sur une feuille de calcul protégée.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_using_pivot_table(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Protection](/cells/python-net/fr/aspose.cells/protection)
+* module [`aspose.cells`](../../)
+* classe [`Protection`](/cells/python-net/fr/aspose.cells/protection)

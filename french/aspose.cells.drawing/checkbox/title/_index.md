@@ -3,7 +3,7 @@ title: title propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1080
+weight: 1090
 url: /fr/aspose.cells.drawing/checkbox/title/
 is_root: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: PdfSaveOptions Konstrukteur
+title: PdfSaveOptions Konstruktor
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /de/aspose.cells/pdfsaveoptions/__init__/
 is_root: false
 ---
-##  PdfSaveOptions() {#}
-Erstellt die Optionen zum Speichern von PDF-Dateien.
+##  \_\_init\_\_(selbst){#}
+Erstellt die Optionen zum Speichern der PDF-Datei.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PdfSaveOptions](/cells/python-net/de/aspose.cells/pdfsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PdfSaveOptions`](/cells/python-net/de/aspose.cells/pdfsaveoptions)

@@ -3,7 +3,7 @@ title: slicers propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 770
+weight: 800
 url: /fr/aspose.cells/worksheet/slicers/
 is_root: false
 ---

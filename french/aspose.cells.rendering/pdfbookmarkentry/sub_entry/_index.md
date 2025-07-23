@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  sub_entry propriété
 
-SubEntry d'un signet.
+Sous-entrée d'un signet.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def sub_entry(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.rendering](../../)
-* classe [PdfBookmarkEntry](/cells/python-net/fr/aspose.cells.rendering/pdfbookmarkentry)
+* module [`aspose.cells.rendering`](../../)
+* classe [`PdfBookmarkEntry`](/cells/python-net/fr/aspose.cells.rendering/pdfbookmarkentry)

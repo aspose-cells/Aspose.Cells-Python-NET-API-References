@@ -7,17 +7,18 @@ weight: 260
 url: /de/aspose.cells/globalizationsettings/get_table_row_type_of_headers/
 is_root: false
 ---
-##  get_table_row_type_of_headers {#}
-Ruft den Typnamen von Tabellenzeilen ab, die aus dem Tabellenkopf bestehen.
-Der Standardwert ist „Headers“, daher stellt „#Headers“ in der Formel den Tabellenkopf dar.
+##  get_table_row_type_of_headers(self) {#}
+Ruft den Typnamen der Tabellenzeilen ab, der aus der Tabellenüberschrift besteht.
+Der Standardwert ist „Überschriften“, daher stellt in der Formel „#Überschriften“ die Tabellenüberschrift dar.
 
 
 ###  Kehrt zurück
 
-der Typname von Tabellenzeilen
+der Typname der Tabellenzeilen
 
 
 ```python
+
 def get_table_row_type_of_headers(self):
     ...
 ```

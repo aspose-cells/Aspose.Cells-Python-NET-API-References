@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  file_format_type Eigentum
 
-Ruft den Dateityp der eingebetteten Ole-Objektdaten ab und legt diesen fest
+Ruft den Dateityp der eingebetteten OLE-Objektdaten ab und legt ihn fest
 ###  Definition:
 ```python
 @property

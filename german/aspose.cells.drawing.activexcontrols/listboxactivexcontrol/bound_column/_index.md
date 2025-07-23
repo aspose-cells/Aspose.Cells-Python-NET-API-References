@@ -10,7 +10,7 @@ is_root: false
 ##  bound_column Eigentum
 
 Stellt dar, wie die Value-Eigenschaft für eine ComboBox oder ListBox bestimmt wird
-wenn der MultiSelect-Eigenschaftswert (fmMultiSelectSingle).
+wenn der MultiSelect-Eigenschaftswert (fmMultiSelectSingle) ist.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def bound_column(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [ListBoxActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`ListBoxActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

@@ -37,6 +37,6 @@ def type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ErrorBar](/cells/python-net/de/aspose.cells.charts/errorbar)
-* Klasse [ErrorBarType](/cells/python-net/de/aspose.cells.charts/errorbartype)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ErrorBar`](/cells/python-net/de/aspose.cells.charts/errorbar)
+* Klasse [`ErrorBarType`](/cells/python-net/de/aspose.cells.charts/errorbartype)

@@ -8,7 +8,7 @@ url: /fr/aspose.cells.charts/chartpointcollection/
 is_root: false
 ---
 ##  ChartPointCollection classe
-Représente une collection qui contient tous les points d’une série.
+Représente une collection qui contient tous les points d'une série.
 
 
 
@@ -31,9 +31,8 @@ Obtient l'élément [`ChartPoint`](/cells/python-net/fr/aspose.cells.charts/char
 ###  Méthodes
 | Méthode| Description|
 | :- | :- |
-| [get_enumerator](/cells/python-net/fr/aspose.cells.charts/chartpointcollection/get_enumerator/#) | Renvoie un énumérateur pour l'intégralité de [`ChartPointCollection`](/cells/python-net/fr/aspose.cells.charts/chartpointcollection).|
-| [clear](/cells/python-net/fr/aspose.cells.charts/chartpointcollection/clear/#) | Supprimez tous les paramètres des points du graphique.|
-| [remove_at](/cells/python-net/fr/aspose.cells.charts/chartpointcollection/remove_at/#int) | Supprime le point à l'index de la série.|
+| [`clear(self)`](/cells/python-net/fr/aspose.cells.charts/chartpointcollection/clear/#) | Supprimez tous les paramètres des points du graphique.|
+| [`remove_at(self, index)`](/cells/python-net/fr/aspose.cells.charts/chartpointcollection/remove_at/#int) | Supprime le point à l'index de la série.|
 
 
 
@@ -84,4 +83,3 @@ workbook.save("book1.xls")
 ###  Voir également
 * module [`aspose.cells.charts`](..)
 * classe [`ChartPoint`](/cells/python-net/fr/aspose.cells.charts/chartpoint)
-* classe [`ChartPointCollection`](/cells/python-net/fr/aspose.cells.charts/chartpointcollection)

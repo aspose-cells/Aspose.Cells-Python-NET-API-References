@@ -1,5 +1,5 @@
 ---
-title: PdfBookmarkEntry Konstrukteur
+title: PdfBookmarkEntry Konstruktor
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /de/aspose.cells.rendering/pdfbookmarkentry/__init__/
 is_root: false
 ---
-##  PdfBookmarkEntry() {#}
+##  \_\_init\_\_(selbst){#}
 Erstellt eine neue Instanz von PdfBookmarkEntry
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](../../)
-* Klasse [PdfBookmarkEntry](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry)
+* Modul [`aspose.cells.rendering`](../../)
+* Klasse [`PdfBookmarkEntry`](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry)

@@ -21,6 +21,6 @@ def load_data_filter_options(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [LoadDataFilterOptions](/cells/python-net/de/aspose.cells/loaddatafilteroptions)
-* Klasse [LoadFilter](/cells/python-net/de/aspose.cells/loadfilter)
+* Modul [`aspose.cells`](../../)
+* Klasse [`LoadDataFilterOptions`](/cells/python-net/de/aspose.cells/loaddatafilteroptions)
+* Klasse [`LoadFilter`](/cells/python-net/de/aspose.cells/loadfilter)

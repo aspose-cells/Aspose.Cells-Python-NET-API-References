@@ -3,7 +3,7 @@ title: text_body propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 960
+weight: 970
 url: /fr/aspose.cells.drawing/checkbox/text_body/
 is_root: false
 ---

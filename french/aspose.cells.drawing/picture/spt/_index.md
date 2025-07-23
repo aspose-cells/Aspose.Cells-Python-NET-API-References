@@ -3,7 +3,7 @@ title: spt propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1100
+weight: 1120
 url: /fr/aspose.cells.drawing/picture/spt/
 is_root: false
 ---

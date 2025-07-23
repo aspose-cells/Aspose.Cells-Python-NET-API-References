@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  font_align_type Eigentum
 
-Bestimmt, wo vertikal in einer Textzeile die eigentlichen Wörter positioniert sind. Diese Angebote
-mit vertikaler Anordnung der Zeichen in Bezug auf die Grundlinien.
+Bestimmt, wo vertikal in einer Textzeile die eigentlichen Wörter positioniert werden. Dies betrifft
+mit vertikaler Platzierung der Zeichen im Verhältnis zu den Grundlinien.
 ###  Definition:
 ```python
 @property
@@ -22,6 +22,6 @@ def font_align_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [TextFontAlignType](/cells/python-net/de/aspose.cells.drawing.texts/textfontaligntype)
-* Klasse [TextParagraph](/cells/python-net/de/aspose.cells.drawing.texts/textparagraph)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`TextFontAlignType`](/cells/python-net/de/aspose.cells.drawing.texts/textfontaligntype)
+* Klasse [`TextParagraph`](/cells/python-net/de/aspose.cells.drawing.texts/textparagraph)

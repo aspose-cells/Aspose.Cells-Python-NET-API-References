@@ -3,7 +3,7 @@ title: key1 propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 80
+weight: 90
 url: /fr/aspose.cells/datasorter/key1/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def key1(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DataSorter](/cells/python-net/fr/aspose.cells/datasorter)
+* module [`aspose.cells`](../../)
+* classe [`DataSorter`](/cells/python-net/fr/aspose.cells/datasorter)

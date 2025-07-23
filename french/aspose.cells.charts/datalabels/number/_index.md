@@ -3,13 +3,13 @@ title: number propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 270
+weight: 340
 url: /fr/aspose.cells.charts/datalabels/number/
 is_root: false
 ---
 ##  number propriété
 
-Obtient et définit le format number intégré.
+Obtient et définit le format intégré number.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def number(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [DataLabels](/cells/python-net/fr/aspose.cells.charts/datalabels)
+* module [`aspose.cells.charts`](../../)
+* classe [`DataLabels`](/cells/python-net/fr/aspose.cells.charts/datalabels)

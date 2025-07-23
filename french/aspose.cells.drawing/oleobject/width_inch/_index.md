@@ -3,7 +3,7 @@ title: width_inch propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1370
+weight: 1380
 url: /fr/aspose.cells.drawing/oleobject/width_inch/
 is_root: false
 ---

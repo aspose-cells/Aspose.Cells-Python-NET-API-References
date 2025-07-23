@@ -3,7 +3,7 @@ title: ExportObjectEvent classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 570
+weight: 550
 url: /fr/aspose.cells/exportobjectevent/
 is_root: false
 ---
@@ -17,7 +17,7 @@ Le type ExportObjectEvent expose les membres suivants :
 ###  Méthodes
 | Méthode| Description|
 | :- | :- |
-| [get_source](/cells/python-net/fr/aspose.cells/exportobjectevent/get_source/#) | Obtient l'objet à exporter.|
+| [`get_source(self)`](/cells/python-net/fr/aspose.cells/exportobjectevent/get_source/#) | Obtient l'objet à exporter.|
 
 
 

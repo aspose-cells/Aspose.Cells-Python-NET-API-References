@@ -7,7 +7,7 @@ weight: 50
 url: /de/aspose.cells/formatconditioncollection/get_cell_area/
 is_root: false
 ---
-##  get_cell_area(index) {#int}
+##  get_cell_area(self, index) {#int}
 Ruft den bedingt formatierten Zellbereich nach Index ab.
 
 
@@ -17,6 +17,7 @@ der bedingt formatierte Zellbereich
 
 
 ```python
+
 def get_cell_area(self, index):
     ...
 ```
@@ -29,5 +30,5 @@ def get_cell_area(self, index):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FormatConditionCollection](/cells/python-net/de/aspose.cells/formatconditioncollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FormatConditionCollection`](/cells/python-net/de/aspose.cells/formatconditioncollection)

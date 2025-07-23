@@ -7,8 +7,8 @@ weight: 120
 url: /fr/aspose.cells/globalizationsettings/get_local_built_in_name/
 is_root: false
 ---
-##  get_local_built_in_name {#str}
-Obtient le texte dépendant des paramètres régionaux pour le nom intégré en fonction du texte standard donné.
+##  get_local_built_in_name(self, standard_name) {#str}
+Obtient le texte dépendant des paramètres régionaux pour le nom intégré selon le texte standard donné.
 
 
 ###  Retour
@@ -17,6 +17,7 @@ Texte dépendant des paramètres régionaux. Les paramètres régionaux ont ét�
 
 
 ```python
+
 def get_local_built_in_name(self, standard_name):
     ...
 ```

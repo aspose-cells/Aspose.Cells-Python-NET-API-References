@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  walls_and_gridlines_2d propriété
 
-True si le quadrillage est dessiné en deux dimensions sur un graphique 3D.
+Vrai si les lignes de la grille sont dessinées en deux dimensions sur un graphique 3D.
 ###  Définition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: cells Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 400
+weight: 420
 url: /de/aspose.cells/worksheet/cells/
 is_root: false
 ---

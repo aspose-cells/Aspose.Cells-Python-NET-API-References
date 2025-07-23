@@ -8,8 +8,6 @@ url: /fr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/list_fi
 is_root: false
 ---
 ##  list_fill_range propriété
-
-Obtient et définit la plage de remplissage de la liste.
 ###  Définition:
 ```python
 @property
@@ -21,5 +19,5 @@ def list_fill_range(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [ToggleButtonActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ToggleButtonActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

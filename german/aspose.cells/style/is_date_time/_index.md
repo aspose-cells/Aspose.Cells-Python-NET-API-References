@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_date_time Eigentum
 
-Gibt an, ob das Zahlenformat ein Datumsformat ist.
+Gibt an, ob es sich bei dem Zahlenformat um ein Datumsformat handelt.
 ###  Definition:
 ```python
 @property

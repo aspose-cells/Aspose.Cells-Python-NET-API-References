@@ -1,13 +1,13 @@
 ---
-title: GradientColorType dénombrement
+title: GradientColorType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 850
+weight: 840
 url: /fr/aspose.cells.drawing/gradientcolortype/
 is_root: false
 ---
-##  GradientColorType dénombrement
+##  GradientColorType énumération
 Représente le type de couleur de dégradé pour le remplissage spécifié.
 
 
@@ -25,4 +25,4 @@ Le type GradientColorType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

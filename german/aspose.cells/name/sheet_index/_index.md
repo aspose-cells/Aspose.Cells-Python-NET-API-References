@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  sheet_index Eigentum
 
-Gibt an, dass dieser Name zu Workbook oder Worksheet gehört.
+Gibt an, dass dieser Name zur Arbeitsmappe oder zum Arbeitsblatt gehört.
 0 = Globaler Name, sonst Index zum Blatt (einsbasiert)
 ###  Definition:
 ```python
@@ -22,5 +22,5 @@ def sheet_index(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Name](/cells/python-net/de/aspose.cells/name)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Name`](/cells/python-net/de/aspose.cells/name)

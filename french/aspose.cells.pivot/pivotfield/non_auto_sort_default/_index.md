@@ -3,13 +3,13 @@ title: non_auto_sort_default propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 490
+weight: 580
 url: /fr/aspose.cells.pivot/pivotfield/non_auto_sort_default/
 is_root: false
 ---
 ##  non_auto_sort_default propriété
 
-Indique si une opération de tri qui sera appliquée à ce champ pivot est une opération de tri automatique ou un simple tri de données.
+Indique si une opération de tri qui sera appliquée à ce champ pivot est une opération de tri automatique ou un tri de données simple.
 ###  Définition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: password Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 340
+weight: 320
 url: /de/aspose.cells/txtloadoptions/password/
 is_root: false
 ---

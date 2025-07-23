@@ -7,7 +7,7 @@ weight: 20
 url: /de/aspose.cells.tables/tablestyleelementcollection/add/
 is_root: false
 ---
-##  add(type) {#TableStyleElementType}
+##  add(self, type) {#aspose.cells.tables.TableStyleElementType}
 Fügt ein Element hinzu.
 
 
@@ -17,6 +17,7 @@ Gibt den Index des Elements in der Liste zurück.
 
 
 ```python
+
 def add(self, type):
     ...
 ```
@@ -24,10 +25,10 @@ def add(self, type):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| type | [TableStyleElementType](/cells/python-net/de/aspose.cells.tables/tablestyleelementtype) | Der Typ des Elements|
+| type | [`TableStyleElementType`](/cells/python-net/de/aspose.cells.tables/tablestyleelementtype) | Der Typ des Elements|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.tables](../../)
-* Klasse [TableStyleElementCollection](/cells/python-net/de/aspose.cells.tables/tablestyleelementcollection)
+* Modul [`aspose.cells.tables`](../../)
+* Klasse [`TableStyleElementCollection`](/cells/python-net/de/aspose.cells.tables/tablestyleelementcollection)

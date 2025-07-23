@@ -21,5 +21,5 @@ def items(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Top10Filter](/cells/python-net/fr/aspose.cells/top10filter)
+* module [`aspose.cells`](../../)
+* classe [`Top10Filter`](/cells/python-net/fr/aspose.cells/top10filter)

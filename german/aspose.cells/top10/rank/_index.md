@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  rank Eigentum
 
-Abrufen oder Festlegen des Werts von „n“ in einer bedingten Formatierungsregel „top/bottom n“.
+Rufen Sie den Wert von „n“ in einer bedingten Formatierungsregel „oben/unten n“ ab oder legen Sie ihn fest.
 Wenn IsPercent wahr ist, muss der Wert zwischen 0 und 100 liegen.
-Andernfalls muss er zwischen 0 und 1000 liegen.
+Andernfalls muss es zwischen 0 und 1000 liegen.
 Der Standardwert ist 10.
 ###  Definition:
 ```python
@@ -24,5 +24,5 @@ def rank(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Top10](/cells/python-net/de/aspose.cells/top10)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Top10`](/cells/python-net/de/aspose.cells/top10)

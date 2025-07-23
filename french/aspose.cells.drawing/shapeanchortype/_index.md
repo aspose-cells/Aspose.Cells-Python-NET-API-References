@@ -1,13 +1,13 @@
 ---
-title: ShapeAnchorType dénombrement
+title: ShapeAnchorType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1140
+weight: 1130
 url: /fr/aspose.cells.drawing/shapeanchortype/
 is_root: false
 ---
-##  ShapeAnchorType dénombrement
+##  ShapeAnchorType énumération
 Représente le type d'ancre.
 
 
@@ -23,4 +23,4 @@ Le type ShapeAnchorType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

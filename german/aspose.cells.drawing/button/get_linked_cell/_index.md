@@ -3,20 +3,21 @@ title: get_linked_cell Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 100
+weight: 120
 url: /de/aspose.cells.drawing/button/get_linked_cell/
 is_root: false
 ---
-##  get_linked_cell(is_r1c1, is_local) {#bool-bool}
-Ruft den Bereich ab, der mit dem Wert des Steuerelements verknüpft ist.
+##  get_linked_cell(self, is_r1c1, is_local) {#bool-bool}
+Ruft den mit dem Wert des Steuerelements verknüpften Bereich ab.
 
 
 ###  Kehrt zurück
 
-Der Bereich, der mit dem Wert des Steuerelements verknüpft ist.
+Der mit dem Wert des Steuerelements verknüpfte Bereich.
 
 
 ```python
+
 def get_linked_cell(self, is_r1c1, is_local):
     ...
 ```
@@ -39,5 +40,5 @@ link = shape.get_linked_cell(False, False)
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Button](/cells/python-net/de/aspose.cells.drawing/button)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Button`](/cells/python-net/de/aspose.cells.drawing/button)

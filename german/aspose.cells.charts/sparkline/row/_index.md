@@ -18,5 +18,5 @@ def row(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Sparkline](/cells/python-net/de/aspose.cells.charts/sparkline)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Sparkline`](/cells/python-net/de/aspose.cells.charts/sparkline)

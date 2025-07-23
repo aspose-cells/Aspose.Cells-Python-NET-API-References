@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  print_with_status_dialog propriété
 
-Si PrintWithStatusDialog = true , une boîte de dialogue affichera l'état actuel de l'impression.
-sinon, aucune boîte de dialogue de ce type ne s'affichera.
+Si PrintWithStatusDialog = true, une boîte de dialogue s'affichera indiquant l'état d'impression actuel.
+sinon aucune boîte de dialogue de ce type ne s'affichera.
 ###  Définition:
 ```python
 @property

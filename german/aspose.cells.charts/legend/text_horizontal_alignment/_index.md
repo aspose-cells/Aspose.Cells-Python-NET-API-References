@@ -3,13 +3,13 @@ title: text_horizontal_alignment Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 380
+weight: 440
 url: /de/aspose.cells.charts/legend/text_horizontal_alignment/
 is_root: false
 ---
 ##  text_horizontal_alignment Eigentum
 
-Ruft die horizontale Textausrichtung ab und legt diese fest.
+Ruft die horizontale Textausrichtung ab und legt sie fest.
 ###  Definition:
 ```python
 @property

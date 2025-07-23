@@ -3,16 +3,17 @@ title: set_text_of_row_labels Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 300
+weight: 310
 url: /de/aspose.cells/settablepivotglobalizationsettings/set_text_of_row_labels/
 is_root: false
 ---
-##  set_text_of_row_labels {#str}
+##  set_text_of_row_labels(self, text) {#str}
 Legt den Text der Beschriftung „Zeilenbeschriftungen“ in der PivotTable fest.
 
 
 
 ```python
+
 def set_text_of_row_labels(self, text):
     ...
 ```

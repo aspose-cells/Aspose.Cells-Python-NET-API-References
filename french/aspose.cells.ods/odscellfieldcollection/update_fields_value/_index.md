@@ -1,5 +1,5 @@
 ---
-title: update_fields_value méthode
+title: méthode update_fields_value
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 70
 url: /fr/aspose.cells.ods/odscellfieldcollection/update_fields_value/
 is_root: false
 ---
-##  update_fields_value() {#}
+##  update_fields_value(self) {#}
 Mettre à jour la valeur des champs dans les cellules.
 
 
 
 ```python
+
 def update_fields_value(self):
     ...
 ```
@@ -22,5 +23,5 @@ def update_fields_value(self):
 
 
 ###  Voir également
-* module [aspose.cells.ods](../../)
-* classe [OdsCellFieldCollection](/cells/python-net/fr/aspose.cells.ods/odscellfieldcollection)
+* module [`aspose.cells.ods`](../../)
+* classe [`OdsCellFieldCollection`](/cells/python-net/fr/aspose.cells.ods/odscellfieldcollection)

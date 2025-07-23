@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_errors Eigentum
 
-Gibt den Typ des angezeigten Druckfehlers an.
+Gibt die Art des angezeigten Druckfehlers an.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def print_errors(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
-* Klasse [PrintErrorsType](/cells/python-net/de/aspose.cells/printerrorstype)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)
+* Klasse [`PrintErrorsType`](/cells/python-net/de/aspose.cells/printerrorstype)

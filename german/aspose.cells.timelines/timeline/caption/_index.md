@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  caption Eigentum
 
-Gibt den caption der angegebenen Timeline zurück oder legt ihn fest.
+Gibt den caption der angegebenen Zeitleiste zurück oder legt ihn fest.
 
 ###  Beispiel
 
@@ -30,5 +30,5 @@ def caption(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.timelines](../../)
-* Klasse [Timeline](/cells/python-net/de/aspose.cells.timelines/timeline)
+* Modul [`aspose.cells.timelines`](../../)
+* Klasse [`Timeline`](/cells/python-net/de/aspose.cells.timelines/timeline)

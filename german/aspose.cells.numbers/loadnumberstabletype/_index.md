@@ -8,7 +8,7 @@ url: /de/aspose.cells.numbers/loadnumberstabletype/
 is_root: false
 ---
 ##  LoadNumbersTableType Aufzählung
-Gibt den Typ der Ladetabellen an, wenn sich einige Tabellen in einem Blatt befinden.
+Gibt die Art der Tabellenladung an, wenn sich in einem Blatt einige Tabellen befinden.
 
 
 
@@ -24,4 +24,4 @@ Der Typ LoadNumbersTableType macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.numbers](..)
+* Modul [`aspose.cells.numbers`](..)

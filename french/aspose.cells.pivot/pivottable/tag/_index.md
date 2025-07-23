@@ -3,7 +3,7 @@ title: tag propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1030
+weight: 1180
 url: /fr/aspose.cells.pivot/pivottable/tag/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def tag(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.pivot](../../)
-* classe [PivotTable](/cells/python-net/fr/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* classe [`PivotTable`](/cells/python-net/fr/aspose.cells.pivot/pivottable)

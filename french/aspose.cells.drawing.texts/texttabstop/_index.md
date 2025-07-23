@@ -8,7 +8,7 @@ url: /fr/aspose.cells.drawing.texts/texttabstop/
 is_root: false
 ---
 ##  TextTabStop classe
-Représente le taquet de tabulation.
+Représente un arrêt de tabulation.
 
 
 
@@ -17,10 +17,10 @@ Le type TextTabStop expose les membres suivants :
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
-| [tab_alignment](/cells/python-net/fr/aspose.cells.drawing.texts/texttabstop/tab_alignment) | Spécifie l'alignement à appliquer au texte à l'aide de ce taquet de tabulation.|
-| [tab_position](/cells/python-net/fr/aspose.cells.drawing.texts/texttabstop/tab_position) | Spécifie la position du taquet de tabulation par rapport à la marge de gauche.|
+| [tab_alignment](/cells/python-net/fr/aspose.cells.drawing.texts/texttabstop/tab_alignment) | Spécifie l'alignement à appliquer au texte à l'aide de cette tabulation.|
+| [tab_position](/cells/python-net/fr/aspose.cells.drawing.texts/texttabstop/tab_position) |Spécifie la position du taquet de tabulation par rapport à la marge gauche.|
 
 
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](..)
+* module [`aspose.cells.drawing.texts`](..)

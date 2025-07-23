@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  update_empty_string_as_null Eigentum
 
-Wenn TRUE, wird Null eingefügt, wenn der Wert „“ ist;
+Wenn TRUE, wird Null eingefügt, wenn der Wert "" ist;
 ###  Definition:
 ```python
 @property

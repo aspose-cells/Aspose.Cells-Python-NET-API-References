@@ -8,7 +8,7 @@ url: /fr/aspose.cells.slicers/slicercache/
 is_root: false
 ---
 ##  SlicerCache classe
-description sommaire du cache du segment
+Représente la description sommaire du cache du slicer
 
 
 
@@ -17,11 +17,11 @@ Le type SlicerCache expose les membres suivants :
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
-| [cross_filter_type](/cells/python-net/fr/aspose.cells.slicers/slicercache/cross_filter_type) | Renvoie ou définit si un segment participe au filtrage croisé avec d'autres segments<br/> qui partagent le même cache de trancheur et comment le filtrage croisé est affiché. Lire écrire|
-| [list](/cells/python-net/fr/aspose.cells.slicers/slicercache/list) | Renvoie si le segment associé au cache de segment spécifié est basé sur une source de données non OLAP. Lecture seulement|
-| [slicer_cache_items](/cells/python-net/fr/aspose.cells.slicers/slicercache/slicer_cache_items) | Renvoie une collection SlicerCacheItem qui contient la collection de tous les éléments du cache du segment. Lecture seulement|
-| [name](/cells/python-net/fr/aspose.cells.slicers/slicercache/name) | Renvoie le nom du cache du segment.|
-| [source_name](/cells/python-net/fr/aspose.cells.slicers/slicercache/source_name) | Renvoie le nom du champ de cache|
+| [cross_filter_type](/cells/python-net/fr/aspose.cells.slicers/slicercache/cross_filter_type) | Renvoie ou définit si un slicer participe au filtrage croisé avec d'autres slicers<br/> qui partagent le même cache de découpage et la façon dont le filtrage croisé est affiché. Lecture/écriture|
+| [list](/cells/python-net/fr/aspose.cells.slicers/slicercache/list) | Indique si le segment associé au cache de segment spécifié est basé sur une source de données non OLAP. Lecture seule.|
+| [slicer_cache_items](/cells/python-net/fr/aspose.cells.slicers/slicercache/slicer_cache_items) | Renvoie une collection SlicerCacheItem contenant tous les éléments du cache du slicer. Lecture seule.|
+| [name](/cells/python-net/fr/aspose.cells.slicers/slicercache/name) | Renvoie le nom du cache du slicer.|
+| [source_name](/cells/python-net/fr/aspose.cells.slicers/slicercache/source_name) | Renvoie le nom de ce cache de slicer.|
 
 
 
@@ -83,4 +83,4 @@ book.save("out.xlsx")
 ```
 
 ###  Voir également
-* module [aspose.cells.slicers](..)
+* module [`aspose.cells.slicers`](..)

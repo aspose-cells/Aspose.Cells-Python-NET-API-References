@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  insert_rows propriété
 
-Indique si de nouvelles lignes doivent être ajoutées pour importer des enregistrements de données.
+Indique si de nouvelles lignes doivent être ajoutées pour l'importation d'enregistrements de données.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def insert_rows(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ImportTableOptions](/cells/python-net/fr/aspose.cells/importtableoptions)
+* module [`aspose.cells`](../../)
+* classe [`ImportTableOptions`](/cells/python-net/fr/aspose.cells/importtableoptions)

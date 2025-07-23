@@ -8,8 +8,6 @@ url: /fr/aspose.cells.pivot/pivotformatcondition/rule_type/
 is_root: false
 ---
 ##  rule_type propriété
-
-Obtenir et définir le type de règle pour le format de condition de tableau croisé dynamique .
 ###  Définition:
 ```python
 @property
@@ -21,6 +19,6 @@ def rule_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.pivot](../../)
-* classe [PivotConditionFormatRuleType](/cells/python-net/fr/aspose.cells.pivot/pivotconditionformatruletype)
-* classe [PivotFormatCondition](/cells/python-net/fr/aspose.cells.pivot/pivotformatcondition)
+* module [`aspose.cells.pivot`](../../)
+* classe [`PivotConditionFormatRuleType`](/cells/python-net/fr/aspose.cells.pivot/pivotconditionformatruletype)
+* classe [`PivotFormatCondition`](/cells/python-net/fr/aspose.cells.pivot/pivotformatcondition)

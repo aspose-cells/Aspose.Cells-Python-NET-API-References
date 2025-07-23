@@ -3,7 +3,7 @@ title: show_outlier_points propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 110
+weight: 120
 url: /fr/aspose.cells.charts/serieslayoutproperties/show_outlier_points/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_outlier_points(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [SeriesLayoutProperties](/cells/python-net/fr/aspose.cells.charts/serieslayoutproperties)
+* module [`aspose.cells.charts`](../../)
+* classe [`SeriesLayoutProperties`](/cells/python-net/fr/aspose.cells.charts/serieslayoutproperties)

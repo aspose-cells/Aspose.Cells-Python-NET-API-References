@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Name](/cells/python-net/fr/aspose.cells/name)
+* module [`aspose.cells`](../../)
+* classe [`Name`](/cells/python-net/fr/aspose.cells/name)

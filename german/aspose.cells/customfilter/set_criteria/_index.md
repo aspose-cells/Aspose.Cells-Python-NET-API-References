@@ -7,12 +7,13 @@ weight: 20
 url: /de/aspose.cells/customfilter/set_criteria/
 is_root: false
 ---
-##  set_criteria(filter_operator, criteria) {#FilterOperatorType-any}
+##  set_criteria(self, filter_operator, criteria) {#aspose.cells.FilterOperatorType-any}
 Legt die Filterkriterien fest.
 
 
 
 ```python
+
 def set_criteria(self, filter_operator, criteria):
     ...
 ```
@@ -20,11 +21,11 @@ def set_criteria(self, filter_operator, criteria):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| filter_operator | [FilterOperatorType](/cells/python-net/de/aspose.cells/filteroperatortype) | Filteroperatortyp|
-| criteria | any | Wert des Filterkriteriums|
+| filter_operator | [`FilterOperatorType`](/cells/python-net/de/aspose.cells/filteroperatortype) | Filteroperatortyp|
+| criteria | any | Filterkriterienwert|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CustomFilter](/cells/python-net/de/aspose.cells/customfilter)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CustomFilter`](/cells/python-net/de/aspose.cells/customfilter)

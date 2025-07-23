@@ -3,7 +3,7 @@ title: linked_source propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 250
+weight: 310
 url: /fr/aspose.cells.charts/displayunitlabel/linked_source/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def linked_source(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [DisplayUnitLabel](/cells/python-net/fr/aspose.cells.charts/displayunitlabel)
+* module [`aspose.cells.charts`](../../)
+* classe [`DisplayUnitLabel`](/cells/python-net/fr/aspose.cells.charts/displayunitlabel)

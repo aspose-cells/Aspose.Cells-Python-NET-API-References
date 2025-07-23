@@ -21,5 +21,5 @@ def foreground_color(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Floor](/cells/python-net/de/aspose.cells.charts/floor)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Floor`](/cells/python-net/de/aspose.cells.charts/floor)

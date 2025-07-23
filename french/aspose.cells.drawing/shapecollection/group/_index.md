@@ -1,22 +1,23 @@
 ---
-title: group méthode
+title: méthode group
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 420
+weight: 460
 url: /fr/aspose.cells.drawing/shapecollection/group/
 is_root: false
 ---
-##  group(group_items) {#list}
+##  group(self, group_items) {#list}
 Regroupez les formes.
 
 
 ###  Retour
 
-Renvoyez la forme group.
+Renvoie la forme group.
 
 
 ```python
+
 def group(self, group_items):
     ...
 ```
@@ -27,8 +28,8 @@ def group(self, group_items):
 | group_items | list | les éléments du groupe.|
 ###  Remarques
 
-La forme dans groupItems ne doit pas être groupée.
-La forme doit se trouver dans cette collection Shapes.
+La forme dans le groupeItems ne doit pas être groupée.
+La forme doit être dans cette collection Formes.
 ###  Exemple
 
 ```python
@@ -45,5 +46,5 @@ groupShape = shapes.group(shapesArr)
 
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ShapeCollection](/cells/python-net/fr/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ShapeCollection`](/cells/python-net/fr/aspose.cells.drawing/shapecollection)

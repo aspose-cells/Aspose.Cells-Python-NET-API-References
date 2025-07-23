@@ -7,8 +7,8 @@ weight: 300
 url: /de/aspose.cells/cells/get/
 is_root: false
 ---
-##  get {#str}
-Fügen Sie API for Python über .Net hinzu, da dieser [String cellName] nicht unterstützt wird
+##  get(self, cell_name) {#str}
+Fügen Sie API for Python über .Net hinzu, da dieser [String CellName] nicht unterstützt wird
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Ein [`Cell`](/cells/python-net/de/aspose.cells/cell)-Objekt
 
 
 ```python
+
 def get(self, cell_name):
     ...
 ```
@@ -24,19 +25,20 @@ def get(self, cell_name):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| cell_name | str | Cell Name, einschließlich seines Spaltenbuchstabens und seiner Zeilennummer, zum Beispiel A5.|
+| cell_name | str | Cell Name, einschließlich Spaltenbuchstabe und Zeilennummer, z. B. A5.|
 
 
-##  get {#int-int}
-Fügen Sie API for Python über .Net hinzu, da dies[int row, int columns] nicht unterstützt wird
+##  get(self, row, column) {#int-int}
+Add API for Python Via .Net.since this[int row, int column] wird nicht unterstützt
 
 
 ###  Kehrt zurück
 
-Das [`Cell`](/cells/python-net/de/aspose.cells/cell)-Objekt.
+Das Objekt [`Cell`](/cells/python-net/de/aspose.cells/cell).
 
 
 ```python
+
 def get(self, row, column):
     ...
 ```

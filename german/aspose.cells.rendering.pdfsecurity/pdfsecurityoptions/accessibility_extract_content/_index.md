@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  accessibility_extract_content Eigentum
 
-Gibt an, ob das Extrahieren von Text und Grafiken zugelassen werden soll (zur Unterstützung der Barrierefreiheit für Benutzer mit Behinderungen oder für andere Zwecke).
+Gibt an, ob das Extrahieren von Text und Grafiken zulässig ist (zur Unterstützung der Zugänglichkeit für Benutzer mit Behinderungen oder für andere Zwecke).
 ###  Definition:
 ```python
 @property

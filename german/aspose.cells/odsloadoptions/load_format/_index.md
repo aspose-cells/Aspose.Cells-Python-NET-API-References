@@ -18,6 +18,6 @@ def load_format(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [LoadFormat](/cells/python-net/de/aspose.cells/loadformat)
-* Klasse [OdsLoadOptions](/cells/python-net/de/aspose.cells/odsloadoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`LoadFormat`](/cells/python-net/de/aspose.cells/loadformat)
+* Klasse [`OdsLoadOptions`](/cells/python-net/de/aspose.cells/odsloadoptions)

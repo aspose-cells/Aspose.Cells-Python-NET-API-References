@@ -3,12 +3,12 @@ title: OoxmlCompliance énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2360
+weight: 2330
 url: /fr/aspose.cells/ooxmlcompliance/
 is_root: false
 ---
 ##  OoxmlCompliance énumération
-Permet de préciser quelle spécification OOXML sera utilisée lors de l'enregistrement au format Xlsx.
+Permet de spécifier quelle spécification OOXML sera utilisée lors de l'enregistrement au format Xlsx.
 
 
 

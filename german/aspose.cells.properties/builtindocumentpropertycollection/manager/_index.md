@@ -3,13 +3,13 @@ title: manager Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 300
+weight: 310
 url: /de/aspose.cells.properties/builtindocumentpropertycollection/manager/
 is_root: false
 ---
 ##  manager Eigentum
 
-Ruft die Eigenschaft manager ab oder legt diese fest.
+Ruft die Eigenschaft manager ab oder legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def manager(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.properties](../../)
-* Klasse [BuiltInDocumentPropertyCollection](/cells/python-net/de/aspose.cells.properties/builtindocumentpropertycollection)
+* Modul [`aspose.cells.properties`](../../)
+* Klasse [`BuiltInDocumentPropertyCollection`](/cells/python-net/de/aspose.cells.properties/builtindocumentpropertycollection)

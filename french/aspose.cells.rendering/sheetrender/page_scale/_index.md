@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  page_scale propriété
 
-Obtient l’échelle de page calculée de la feuille.
+Obtient l'échelle de page calculée de la feuille.
 Renvoie l'échelle définie si [`PageSetup.zoom`](/cells/python-net/fr/aspose.cells/pagesetup#zoom) est défini. Sinon, renvoie l'échelle calculée selon [`PageSetup.fit_to_pages_wide`](/cells/python-net/fr/aspose.cells/pagesetup#fit_to_pages_wide) et [`PageSetup.fit_to_pages_tall`](/cells/python-net/fr/aspose.cells/pagesetup#fit_to_pages_tall).
 
 ###  Exemple

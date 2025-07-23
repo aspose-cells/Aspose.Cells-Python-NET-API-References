@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  right_angle_axes Eigentum
 
-True, wenn die Diagrammachsen im rechten Winkel stehen. Gilt nur für 3D-Diagramme (außer Column3D und 3D-Kreisdiagramme).
+Wahr, wenn die Diagrammachsen im rechten Winkel verlaufen. Gilt nur für 3D-Diagramme (außer Column3D und 3D-Kreisdiagramme).
 
 ###  Bemerkungen
 
-Wenn diese Eigenschaft True ist, wird die Perspective-Eigenschaft ignoriert.
+Wenn diese Eigenschaft True ist, wird die Eigenschaft „Perspektive“ ignoriert.
 ###  Definition:
 ```python
 @property

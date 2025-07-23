@@ -3,13 +3,13 @@ title: text_direction propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 990
+weight: 1010
 url: /fr/aspose.cells.drawing/combobox/text_direction/
 is_root: false
 ---
 ##  text_direction propriété
 
-Obtient/Définit la direction du flux de texte pour cet objet.
+Obtient/définit la direction du flux de texte pour cet objet.
 
 ###  Exemple
 

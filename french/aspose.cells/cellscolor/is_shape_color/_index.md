@@ -14,7 +14,7 @@ Obtient et définit la couleur qui doit s'appliquer à la cellule ou à la forme
 ###  Remarques
 
 L'expression de la couleur de la cellule et de la forme est différente.
-Par exemple : la couleur du thème avec la même valeur de teinte ne sera pas la même dans la cellule et la forme.
+Par exemple : la couleur du thème avec la même valeur de teinte ne sera pas la même dans la cellule et la forme.
 ###  Définition:
 ```python
 @property
@@ -26,5 +26,5 @@ def is_shape_color(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CellsColor](/cells/python-net/fr/aspose.cells/cellscolor)
+* module [`aspose.cells`](../../)
+* classe [`CellsColor`](/cells/python-net/fr/aspose.cells/cellscolor)

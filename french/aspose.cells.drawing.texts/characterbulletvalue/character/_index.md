@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  character propriété
 
-Obtient et définit character de la puce.
+Obtient et définit character de la balle.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def character(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [CharacterBulletValue](/cells/python-net/fr/aspose.cells.drawing.texts/characterbulletvalue)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`CharacterBulletValue`](/cells/python-net/fr/aspose.cells.drawing.texts/characterbulletvalue)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  background_mode Eigentum
 
-Ruft den Anzeigemodus des Hintergrunds ab und legt diesen fest
+Ermittelt und setzt den Anzeigemodus des Hintergrunds
 ###  Definition:
 ```python
 @property

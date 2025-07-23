@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_multi_line propriété
 
-Indique si le contrôle peut afficher plusieurs lignes de texte.
+Indique si le contrôle peut afficher plus d'une ligne de texte.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_multi_line(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [TextBoxActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`TextBoxActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

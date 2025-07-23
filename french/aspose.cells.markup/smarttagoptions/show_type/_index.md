@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_type propriété
 
-Représente le type d'affichage de la balise active.
+Représente le type d'affichage de la balise intelligente.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def show_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.markup](../../)
-* classe [SmartTagOptions](/cells/python-net/fr/aspose.cells.markup/smarttagoptions)
-* classe [SmartTagShowType](/cells/python-net/fr/aspose.cells.markup/smarttagshowtype)
+* module [`aspose.cells.markup`](../../)
+* classe [`SmartTagOptions`](/cells/python-net/fr/aspose.cells.markup/smarttagoptions)
+* classe [`SmartTagShowType`](/cells/python-net/fr/aspose.cells.markup/smarttagshowtype)

@@ -13,7 +13,7 @@ Obtient et définit le style intégré.
 
 ###  Remarques
 
-Il doit être compris entre 1 et 48.
+Il devrait être compris entre 1 et 48.
 Renvoie -1 s'il n'est pas défini.
 ###  Définition:
 ```python

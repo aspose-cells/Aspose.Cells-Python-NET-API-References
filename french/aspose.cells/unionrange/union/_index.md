@@ -1,14 +1,14 @@
 ---
-title: union méthode
+title: méthode union
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 110
+weight: 100
 url: /fr/aspose.cells/unionrange/union/
 is_root: false
 ---
-##  union(range) {#str}
-Union autre gamme.
+##  union(self, range) {#str}
+Union une autre gamme.
 
 
 ###  Retour
@@ -17,6 +17,7 @@ Union autre gamme.
 
 
 ```python
+
 def union(self, range):
     ...
 ```
@@ -27,8 +28,8 @@ def union(self, range):
 | range | str | La gamme.|
 
 
-##  union(union_range) {#UnionRange}
-Union autre gamme.
+##  union(self, union_range) {#aspose.cells.UnionRange}
+Union une autre gamme.
 
 
 ###  Retour
@@ -37,6 +38,7 @@ Union autre gamme.
 
 
 ```python
+
 def union(self, union_range):
     ...
 ```
@@ -44,10 +46,10 @@ def union(self, union_range):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| union_range | [UnionRange](/cells/python-net/fr/aspose.cells/unionrange) | La gamme.|
+| union_range | [`UnionRange`](/cells/python-net/fr/aspose.cells/unionrange) | La gamme.|
 
 
-##  union(ranges) {#list}
+##  union(self, ranges) {#list}
 Union des gammes.
 
 
@@ -57,6 +59,7 @@ Union des gammes.
 
 
 ```python
+
 def union(self, ranges):
     ...
 ```
@@ -69,5 +72,5 @@ def union(self, ranges):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [UnionRange](/cells/python-net/fr/aspose.cells/unionrange)
+* module [`aspose.cells`](../../)
+* classe [`UnionRange`](/cells/python-net/fr/aspose.cells/unionrange)

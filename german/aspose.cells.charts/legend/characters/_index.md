@@ -7,8 +7,8 @@ weight: 20
 url: /de/aspose.cells.charts/legend/characters/
 is_root: false
 ---
-##  characters(start_index, length) {#int-int}
-Gibt ein Characters-Objekt zurück, das einen Bereich von characters im Text darstellt.
+##  characters(self, start_index, length) {#int-int}
+Gibt ein Zeichenobjekt zurück, das einen Bereich von characters innerhalb des Textes darstellt.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Zeichenobjekt.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -30,5 +31,5 @@ def characters(self, start_index, length):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Legend](/cells/python-net/de/aspose.cells.charts/legend)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Legend`](/cells/python-net/de/aspose.cells.charts/legend)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  linked_graphic propriété
 
-Obtient et définit le chemin du graphique lié.
+Obtient et définit le chemin graphique lié.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def linked_graphic(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.ods](../../)
-* classe [OdsPageBackground](/cells/python-net/fr/aspose.cells.ods/odspagebackground)
+* module [`aspose.cells.ods`](../../)
+* classe [`OdsPageBackground`](/cells/python-net/fr/aspose.cells.ods/odspagebackground)

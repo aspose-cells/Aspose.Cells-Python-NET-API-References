@@ -1,14 +1,14 @@
 ---
-title: get_threaded_comments méthode
+title: méthode get_threaded_comments
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 60
+weight: 70
 url: /fr/aspose.cells/commentcollection/get_threaded_comments/
 is_root: false
 ---
-##  get_threaded_comments(cell_name) {#str}
-Obtient les commentaires thématiques par nom de cellule.
+##  get_threaded_comments(self, cell_name) {#str}
+Obtient les commentaires en fil de discussion par nom de cellule.
 
 
 ###  Retour
@@ -17,6 +17,7 @@ Obtient les commentaires thématiques par nom de cellule.
 
 
 ```python
+
 def get_threaded_comments(self, cell_name):
     ...
 ```
@@ -38,8 +39,8 @@ for i in range(len(threadedComments2)):
 ```
 
 
-##  get_threaded_comments(row, column) {#int-int}
-Obtient les commentaires thématiques par index de ligne et de colonne.
+##  get_threaded_comments(self, row, column) {#int-int}
+Obtient les commentaires threadés par index de ligne et de colonne.
 
 
 ###  Retour
@@ -48,6 +49,7 @@ Obtient les commentaires thématiques par index de ligne et de colonne.
 
 
 ```python
+
 def get_threaded_comments(self, row, column):
     ...
 ```
@@ -56,7 +58,7 @@ def get_threaded_comments(self, row, column):
 | Paramètre| Taper| Description|
 | :- | :- | :- |
 | row | int | L'index de ligne.|
-| column | int | L'indice de colonne.|
+| column | int | L'index des colonnes.|
 
 ###  Exemple
 
@@ -72,5 +74,5 @@ for i in range(len(threadedComments1)):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CommentCollection](/cells/python-net/fr/aspose.cells/commentcollection)
+* module [`aspose.cells`](../../)
+* classe [`CommentCollection`](/cells/python-net/fr/aspose.cells/commentcollection)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_dropdown_visible propriété
 
-Indique si le bouton Filtre automatique de cette colonne est visible.
+Indique si le bouton Filtre automatique pour cette colonne est visible.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_dropdown_visible(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FilterColumn](/cells/python-net/fr/aspose.cells/filtercolumn)
+* module [`aspose.cells`](../../)
+* classe [`FilterColumn`](/cells/python-net/fr/aspose.cells/filtercolumn)

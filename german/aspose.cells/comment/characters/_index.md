@@ -7,8 +7,8 @@ weight: 20
 url: /de/aspose.cells/comment/characters/
 is_root: false
 ---
-##  characters(start_index, length) {#int-int}
-Gibt ein Characters-Objekt zurück, das einen Bereich von characters im Kommentartext darstellt.
+##  characters(self, start_index, length) {#int-int}
+Gibt ein Zeichenobjekt zurück, das einen Bereich von characters innerhalb des Kommentartextes darstellt.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Zeichenobjekt.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -38,5 +39,5 @@ fontSetting = comment1.characters(0, 4)
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Comment](/cells/python-net/de/aspose.cells/comment)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Comment`](/cells/python-net/de/aspose.cells/comment)

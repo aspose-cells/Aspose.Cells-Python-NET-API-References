@@ -8,7 +8,7 @@ url: /fr/aspose.cells.charts/errorbar/
 is_root: false
 ---
 ##  ErrorBar classe
-Représente la barre d’erreur des séries de données.
+Représente la barre d'erreur de la série de données.
 
 
 
@@ -23,8 +23,8 @@ Le type ErrorBar expose les membres suivants :
 | Propriété| Description|
 | :- | :- |
 | [compound_type](/cells/python-net/fr/aspose.cells.charts/errorbar/compound_type) | Spécifie le type de ligne composée|
-| [dash_type](/cells/python-net/fr/aspose.cells.charts/errorbar/dash_type) | Spécifie le type de ligne pointillée|
-| [cap_type](/cells/python-net/fr/aspose.cells.charts/errorbar/cap_type) |Spécifie les majuscules de fin.|
+| [dash_type](/cells/python-net/fr/aspose.cells.charts/errorbar/dash_type) | Spécifie le type de ligne en pointillés|
+| [cap_type](/cells/python-net/fr/aspose.cells.charts/errorbar/cap_type) | Spécifie les majuscules de fin.|
 | [join_type](/cells/python-net/fr/aspose.cells.charts/errorbar/join_type) | Spécifie les capuchons de jonction.|
 | [begin_type](/cells/python-net/fr/aspose.cells.charts/errorbar/begin_type) | Spécifie une pointe de flèche pour le début d'une ligne.|
 | [end_type](/cells/python-net/fr/aspose.cells.charts/errorbar/end_type) | Spécifie une pointe de flèche pour la fin d'une ligne.|
@@ -37,19 +37,19 @@ Le type ErrorBar expose les membres suivants :
 | [transparency](/cells/python-net/fr/aspose.cells.charts/errorbar/transparency) | Renvoie ou définit le degré de transparence de la ligne sous la forme d'une valeur comprise entre 0,0 (opaque) et 1,0 (clair).|
 | [style](/cells/python-net/fr/aspose.cells.charts/errorbar/style) | Représente le style de la ligne.|
 | [weight](/cells/python-net/fr/aspose.cells.charts/errorbar/weight) | Obtient ou définit le [`WeightType`](/cells/python-net/fr/aspose.cells.drawing/weighttype) de la ligne.|
-| [weight_pt](/cells/python-net/fr/aspose.cells.charts/errorbar/weight_pt) | Obtient ou définit l'épaisseur de la ligne en unité de points.|
-| [weight_px](/cells/python-net/fr/aspose.cells.charts/errorbar/weight_px) | Obtient ou définit l'épaisseur de la ligne en unités de pixels.|
+| [weight_pt](/cells/python-net/fr/aspose.cells.charts/errorbar/weight_pt) |Obtient ou définit le poids de la ligne en unité de points.|
+| [weight_px](/cells/python-net/fr/aspose.cells.charts/errorbar/weight_px) | Obtient ou définit le poids de la ligne en unité de pixels.|
 | [formatting_type](/cells/python-net/fr/aspose.cells.charts/errorbar/formatting_type) | Obtient ou définit le type de format.|
-| [is_automatic_color](/cells/python-net/fr/aspose.cells.charts/errorbar/is_automatic_color) | Indique si la couleur du trait est attribuée automatiquement.|
-| [is_visible](/cells/python-net/fr/aspose.cells.charts/errorbar/is_visible) | Représente si la ligne est visible.|
-| [is_auto](/cells/python-net/fr/aspose.cells.charts/errorbar/is_auto) |Indique si ce style de ligne est attribué automatiquement.|
-| [gradient_fill](/cells/python-net/fr/aspose.cells.charts/errorbar/gradient_fill) | Représente un remplissage dégradé.|
-| [type](/cells/python-net/fr/aspose.cells.charts/errorbar/type) | Représente le type de montant de la barre d’erreur.|
-| [display_type](/cells/python-net/fr/aspose.cells.charts/errorbar/display_type) | Représente le type d’affichage de la barre d’erreur.|
-| [amount](/cells/python-net/fr/aspose.cells.charts/errorbar/amount) | Représente la quantité de barre d’erreur.<br/> Le montant doit être supérieur ou égal à zéro.|
-| [show_marker_t_top](/cells/python-net/fr/aspose.cells.charts/errorbar/show_marker_t_top) | Indique si les barres d'erreur sont formatées avec un T-top.|
-| [plus_value](/cells/python-net/fr/aspose.cells.charts/errorbar/plus_value) | Représente le montant d’erreur positif lorsque le type de barre d’erreur est Personnalisé.|
-| [minus_value](/cells/python-net/fr/aspose.cells.charts/errorbar/minus_value) | Représente un montant d’erreur négatif lorsque le type de barre d’erreur est Personnalisé.|
+| [is_automatic_color](/cells/python-net/fr/aspose.cells.charts/errorbar/is_automatic_color) | Indique si la couleur de la ligne est attribuée automatiquement.|
+| [is_visible](/cells/python-net/fr/aspose.cells.charts/errorbar/is_visible) | Indique si la ligne est visible.|
+| [is_auto](/cells/python-net/fr/aspose.cells.charts/errorbar/is_auto) | Indique si ce style de ligne est attribué automatiquement.|
+| [gradient_fill](/cells/python-net/fr/aspose.cells.charts/errorbar/gradient_fill) | Représente le remplissage en dégradé.|
+| [type](/cells/python-net/fr/aspose.cells.charts/errorbar/type) | Représente le type de montant de la barre d'erreur.|
+| [display_type](/cells/python-net/fr/aspose.cells.charts/errorbar/display_type) | Représente le type d'affichage de la barre d'erreur.|
+| [amount](/cells/python-net/fr/aspose.cells.charts/errorbar/amount) | Représente la quantité de barre d'erreur.|
+| [show_marker_t_top](/cells/python-net/fr/aspose.cells.charts/errorbar/show_marker_t_top) | Indique si les barres d'erreur de formatage sont avec un T-top.|
+| [plus_value](/cells/python-net/fr/aspose.cells.charts/errorbar/plus_value) | Représente le montant d'erreur positif lorsque le type de barre d'erreur est Personnalisé.|
+| [minus_value](/cells/python-net/fr/aspose.cells.charts/errorbar/minus_value) | Représente le montant d'erreur négatif lorsque le type de barre d'erreur est Personnalisé.|
 
 
 

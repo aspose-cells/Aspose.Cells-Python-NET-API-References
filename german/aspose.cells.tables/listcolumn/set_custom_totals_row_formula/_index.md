@@ -3,16 +3,17 @@ title: set_custom_totals_row_formula Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 50
+weight: 60
 url: /de/aspose.cells.tables/listcolumn/set_custom_totals_row_formula/
 is_root: false
 ---
-##  set_custom_totals_row_formula(formula, is_r1c1, is_local) {#str-bool-bool}
-Ruft die Summenformelzeile dieser Listenspalte ab.
+##  set_custom_totals_row_formula(self, formula, is_r1c1, is_local) {#str-bool-bool}
+Ruft die Formel der Summenzeile dieser Listenspalte ab.
 
 
 
 ```python
+
 def set_custom_totals_row_formula(self, formula, is_r1c1, is_local):
     ...
 ```
@@ -27,5 +28,5 @@ def set_custom_totals_row_formula(self, formula, is_r1c1, is_local):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.tables](../../)
-* Klasse [ListColumn](/cells/python-net/de/aspose.cells.tables/listcolumn)
+* Modul [`aspose.cells.tables`](../../)
+* Klasse [`ListColumn`](/cells/python-net/de/aspose.cells.tables/listcolumn)

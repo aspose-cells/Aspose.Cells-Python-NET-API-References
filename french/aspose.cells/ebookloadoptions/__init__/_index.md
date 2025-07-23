@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells/ebookloadoptions/__init__/
 is_root: false
 ---
-##  __initialisation__ {#}
+##  \_\_init\_\_(self){#}
 Crée une option de chargement du fichier ebook.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  __initialisation__ {#aspose.cells.LoadFormat}
+##  \_\_init\_\_(self, load_format){#aspose.cells.LoadFormat}
 Crée une option de chargement du fichier ebook.
 
 
 
 ```python
+
 def __init__(self, load_format):
     ...
 ```

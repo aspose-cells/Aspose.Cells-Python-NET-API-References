@@ -3,7 +3,7 @@ title: custom_xml_parts Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 510
+weight: 530
 url: /de/aspose.cells/workbook/custom_xml_parts/
 is_root: false
 ---

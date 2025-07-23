@@ -3,13 +3,13 @@ title: has_macro Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 580
+weight: 620
 url: /de/aspose.cells/workbook/has_macro/
 is_root: false
 ---
 ##  has_macro Eigentum
 
-Gibt an, ob diese Tabelle Makro/VBA enthält.
+Gibt an, ob diese Tabelle Makros/VBA enthält.
 ###  Definition:
 ```python
 @property

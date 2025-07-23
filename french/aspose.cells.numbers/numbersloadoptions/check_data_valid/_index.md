@@ -21,5 +21,5 @@ def check_data_valid(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.numbers](../../)
-* classe [NumbersLoadOptions](/cells/python-net/fr/aspose.cells.numbers/numbersloadoptions)
+* module [`aspose.cells.numbers`](../../)
+* classe [`NumbersLoadOptions`](/cells/python-net/fr/aspose.cells.numbers/numbersloadoptions)

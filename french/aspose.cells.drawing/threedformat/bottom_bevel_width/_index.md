@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  bottom_bevel_width propriété
 
-Obtient et définit la largeur du biseau inférieur ou la distance à laquelle il est appliqué dans la forme.
-En unité de Points.
+Obtient et définit la largeur du biseau inférieur, ou la distance à laquelle il est appliqué dans la forme.
+En unité de points.
 ###  Définition:
 ```python
 @property
@@ -22,5 +22,5 @@ def bottom_bevel_width(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ThreeDFormat](/cells/python-net/fr/aspose.cells.drawing/threedformat)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ThreeDFormat`](/cells/python-net/fr/aspose.cells.drawing/threedformat)

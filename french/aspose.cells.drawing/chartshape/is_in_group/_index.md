@@ -3,7 +3,7 @@ title: is_in_group propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 600
+weight: 610
 url: /fr/aspose.cells.drawing/chartshape/is_in_group/
 is_root: false
 ---

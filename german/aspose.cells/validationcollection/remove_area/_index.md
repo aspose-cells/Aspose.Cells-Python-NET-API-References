@@ -7,12 +7,13 @@ weight: 90
 url: /de/aspose.cells/validationcollection/remove_area/
 is_root: false
 ---
-##  remove_area(ca) {#CellArea}
+##  remove_area(self, ca) {#aspose.cells.CellArea}
 Entfernt alle Validierungseinstellungen für den Bereich.
 
 
 
 ```python
+
 def remove_area(self, ca):
     ...
 ```
@@ -20,10 +21,10 @@ def remove_area(self, ca):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| ca | [CellArea](/cells/python-net/de/aspose.cells/cellarea) | Der Bereich, der die Validierungseinstellung enthält.|
+| ca | [`CellArea`](/cells/python-net/de/aspose.cells/cellarea) | Der Bereich, der die Validierungseinstellungen enthält.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ValidationCollection](/cells/python-net/de/aspose.cells/validationcollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ValidationCollection`](/cells/python-net/de/aspose.cells/validationcollection)

@@ -7,7 +7,7 @@ weight: 20
 url: /de/aspose.cells/externallinkcollection/add/
 is_root: false
 ---
-##  add(file_name, sheet_names) {#str-list}
+##  add(self, file_name, sheet_names) {#str-list}
 Fügt einen externen Link hinzu.
 
 
@@ -17,6 +17,7 @@ Die Position des externen Namens in dieser Liste.
 
 
 ```python
+
 def add(self, file_name, sheet_names):
     ...
 ```
@@ -28,7 +29,7 @@ def add(self, file_name, sheet_names):
 | sheet_names | list | Alle Blattnamen der externen Datei.|
 
 
-##  add(directory_type, file_name, sheet_names) {#DirectoryType-str-list}
+##  add(self, directory_type, file_name, sheet_names) {#aspose.cells.DirectoryType-str-list}
 Fügen Sie einen externen Link hinzu.
 
 
@@ -38,6 +39,7 @@ Die Position des externen Namens in dieser Liste.
 
 
 ```python
+
 def add(self, directory_type, file_name, sheet_names):
     ...
 ```
@@ -45,12 +47,12 @@ def add(self, directory_type, file_name, sheet_names):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| directory_type | [DirectoryType](/cells/python-net/de/aspose.cells/directorytype) |Der Verzeichnistyp des Dateinamens.|
+| directory_type | [`DirectoryType`](/cells/python-net/de/aspose.cells/directorytype) | Der Verzeichnistyp des Dateinamens.|
 | file_name | str | der Dateiname.|
 | sheet_names | list | Alle Blattnamen der externen Datei.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ExternalLinkCollection](/cells/python-net/de/aspose.cells/externallinkcollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ExternalLinkCollection`](/cells/python-net/de/aspose.cells/externallinkcollection)

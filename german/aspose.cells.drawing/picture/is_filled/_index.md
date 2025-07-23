@@ -3,7 +3,7 @@ title: is_filled Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 640
+weight: 660
 url: /de/aspose.cells.drawing/picture/is_filled/
 is_root: false
 ---

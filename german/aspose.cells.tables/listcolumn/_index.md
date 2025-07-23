@@ -8,7 +8,7 @@ url: /de/aspose.cells.tables/listcolumn/
 is_root: false
 ---
 ##  ListColumn Klasse
-Stellt eine Spalte in einer Liste dar.
+Stellt eine Spalte in einer Tabelle dar.
 
 
 
@@ -18,18 +18,22 @@ Der Typ ListColumn macht die folgenden Member verfügbar:
 | Eigentum| Beschreibung|
 | :- | :- |
 | [name](/cells/python-net/de/aspose.cells.tables/listcolumn/name) | Ruft den Namen der Spalte ab und legt ihn fest.|
-| [totals_calculation](/cells/python-net/de/aspose.cells.tables/listcolumn/totals_calculation) | Ruft den Berechnungstyp in der Summenzeile der Listenspalte ab und legt ihn fest.|
+| [totals_calculation](/cells/python-net/de/aspose.cells.tables/listcolumn/totals_calculation) | Ruft den Berechnungstyp in der Zeile „Summen“ der Listenspalte ab und legt ihn fest.|
 | [range](/cells/python-net/de/aspose.cells.tables/listcolumn/range) | Ruft den Bereich dieser Listenspalte ab.|
+| [is_array_formula](/cells/python-net/de/aspose.cells.tables/listcolumn/is_array_formula) | Gibt an, ob es sich bei der Formel um eine Arrayformel handelt.|
 | [formula](/cells/python-net/de/aspose.cells.tables/listcolumn/formula) | Ruft die Formel der Listenspalte ab und legt sie fest.|
+| [totals_row_label](/cells/python-net/de/aspose.cells.tables/listcolumn/totals_row_label) | Ruft die Anzeigebeschriftungen der Gesamtzeile ab und legt sie fest.|
 
 
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [get_custom_totals_row_formula(is_r1c1, is_local)](/cells/python-net/de/aspose.cells.tables/listcolumn/get_custom_totals_row_formula/#bool-bool) | Ruft die Summenformelzeile dieser Listenspalte ab.|
-| [set_custom_totals_row_formula(formula, is_r1c1, is_local)](/cells/python-net/de/aspose.cells.tables/listcolumn/set_custom_totals_row_formula/#str-bool-bool) | Ruft die Summenformelzeile dieser Listenspalte ab.|
-| [get_custom_calculated_formula(is_r1c1, is_local)](/cells/python-net/de/aspose.cells.tables/listcolumn/get_custom_calculated_formula/#bool-bool) | Ruft die Formel dieser Listenspalte ab.|
-| [set_custom_calculated_formula(formula, is_r1c1, is_local)](/cells/python-net/de/aspose.cells.tables/listcolumn/set_custom_calculated_formula/#str-bool-bool) | Legt die Formel für diese Listenspalte fest.|
+| [`get_custom_totals_row_formula(self, is_r1c1, is_local)`](/cells/python-net/de/aspose.cells.tables/listcolumn/get_custom_totals_row_formula/#bool-bool) | Ruft die Formel der Summenzeile dieser Listenspalte ab.|
+| [`set_custom_totals_row_formula(self, formula, is_r1c1, is_local)`](/cells/python-net/de/aspose.cells.tables/listcolumn/set_custom_totals_row_formula/#str-bool-bool) | Ruft die Formel der Summenzeile dieser Listenspalte ab.|
+| [`get_custom_calculated_formula(self, is_r1c1, is_local)`](/cells/python-net/de/aspose.cells.tables/listcolumn/get_custom_calculated_formula/#bool-bool) | Ruft die Formel dieser Listenspalte ab.|
+| [`set_custom_calculated_formula(self, formula, is_r1c1, is_local)`](/cells/python-net/de/aspose.cells.tables/listcolumn/set_custom_calculated_formula/#str-bool-bool) | Legt die Formel für diese Listenspalte fest.|
+| [`get_data_style(self)`](/cells/python-net/de/aspose.cells.tables/listcolumn/get_data_style/#) | Ruft den Stil der Daten in dieser Spalte der Tabelle ab.|
+| [`set_data_style(self, style)`](/cells/python-net/de/aspose.cells.tables/listcolumn/set_data_style/#aspose.cells.style) | Legt den Stil der Daten in dieser Spalte der Tabelle fest.|
 
 
 
@@ -58,4 +62,4 @@ workbook.save(r"Book1.xlsx")
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.tables](..)
+* Modul [`aspose.cells.tables`](..)

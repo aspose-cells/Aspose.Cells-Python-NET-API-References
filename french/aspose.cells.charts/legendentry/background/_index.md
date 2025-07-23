@@ -13,10 +13,10 @@ Obtient et définit le mode d'affichage du background
 
 ###  Remarques
 
- REMARQUE : ce membre est désormais obsolète. Plutôt,
+ REMARQUE : Ce membre est désormais obsolète. À la place,
  veuillez utiliser la propriété LegendEntry.BackgroundMode.
- Cette propriété sera supprimée 12 mois plus tard depuis JANVIER 2012.
-Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ Cette propriété sera supprimée 12 mois plus tard soit JANVIER 2012.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 ###  Définition:
 ```python
 @property
@@ -28,6 +28,6 @@ def background(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [BackgroundMode](/cells/python-net/fr/aspose.cells.charts/backgroundmode)
-* classe [LegendEntry](/cells/python-net/fr/aspose.cells.charts/legendentry)
+* module [`aspose.cells.charts`](../../)
+* classe [`BackgroundMode`](/cells/python-net/fr/aspose.cells.charts/backgroundmode)
+* classe [`LegendEntry`](/cells/python-net/fr/aspose.cells.charts/legendentry)

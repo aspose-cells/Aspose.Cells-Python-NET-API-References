@@ -3,13 +3,13 @@ title: row_header_caption propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 850
+weight: 970
 url: /fr/aspose.cells.pivot/pivottable/row_header_caption/
 is_root: false
 ---
 ##  row_header_caption propriété
 
-Obtient la légende d'en-tête de ligne du tableau croisé dynamique.
+Obtient la légende de l'en-tête de ligne du tableau croisé dynamique.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def row_header_caption(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.pivot](../../)
-* classe [PivotTable](/cells/python-net/fr/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* classe [`PivotTable`](/cells/python-net/fr/aspose.cells.pivot/pivottable)

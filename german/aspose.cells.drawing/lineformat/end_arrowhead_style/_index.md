@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_arrowhead_style Eigentum
 
-Ruft den Endpfeiltyp der Linie ab und legt diesen fest.
+Ruft den Endpfeiltyp der Linie ab und legt ihn fest.
 
 ###  Beispiel
 
@@ -30,6 +30,6 @@ def end_arrowhead_style(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [LineFormat](/cells/python-net/de/aspose.cells.drawing/lineformat)
-* Klasse [MsoArrowheadStyle](/cells/python-net/de/aspose.cells.drawing/msoarrowheadstyle)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`LineFormat`](/cells/python-net/de/aspose.cells.drawing/lineformat)
+* Klasse [`MsoArrowheadStyle`](/cells/python-net/de/aspose.cells.drawing/msoarrowheadstyle)

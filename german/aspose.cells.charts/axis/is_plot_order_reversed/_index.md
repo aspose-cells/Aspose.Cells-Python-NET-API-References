@@ -3,13 +3,13 @@ title: is_plot_order_reversed Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 250
+weight: 260
 url: /de/aspose.cells.charts/axis/is_plot_order_reversed/
 is_root: false
 ---
 ##  is_plot_order_reversed Eigentum
 
-Stellt dar, ob Microsoft Excel Datenpunkte vom letzten zum ersten zeichnet.
+Stellt dar, wenn Microsoft Excel Datenpunkte vom letzten zum ersten aufzeichnet.
 ###  Definition:
 ```python
 @property

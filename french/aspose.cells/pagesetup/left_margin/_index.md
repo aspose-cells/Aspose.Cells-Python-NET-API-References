@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  left_margin propriété
 
-Représente la taille de la marge de gauche, en centimètres.
+Représente la taille de la marge gauche, en centimètres.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def left_margin(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/fr/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/fr/aspose.cells/pagesetup)

@@ -1,14 +1,14 @@
 ---
-title: sort méthode
+title: méthode sort
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 40
+weight: 50
 url: /fr/aspose.cells/datasorter/sort/
 is_root: false
 ---
-##  sort() {#}
-Triez les données dans la plage.
+##  sort(self) {#}
+Trier les données dans la plage.
 
 
 ###  Retour
@@ -18,6 +18,7 @@ Si aucune ligne/colonne ne doit être déplacée par cette opération de tri, nu
 
 
 ```python
+
 def sort(self):
     ...
 ```
@@ -25,7 +26,7 @@ def sort(self):
 
 
 
-##  sort(cells, area) {#Cells-CellArea}
+##  sort(self, cells, area) {#aspose.cells.Cells-aspose.cells.CellArea}
 Trier les données de la zone.
 
 
@@ -36,6 +37,7 @@ Si aucune ligne/colonne ne doit être déplacée par cette opération de tri, nu
 
 
 ```python
+
 def sort(self, cells, area):
     ...
 ```
@@ -43,11 +45,11 @@ def sort(self, cells, area):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| cells | [Cells](/cells/python-net/fr/aspose.cells/cells) | Les cellules contiennent la zone de données.|
-| area | [CellArea](/cells/python-net/fr/aspose.cells/cellarea) | La surface nécessaire pour trier|
+| cells | [`Cells`](/cells/python-net/fr/aspose.cells/cells) | Les cellules contiennent la zone de données.|
+| area | [`CellArea`](/cells/python-net/fr/aspose.cells/cellarea) | La zone nécessaire pour trier|
 
 
-##  sort(cells, start_row, start_column, end_row, end_column) {#Cells-int-int-int-int}
+##  sort(self, cells, start_row, start_column, end_row, end_column) {#aspose.cells.Cells-int-int-int-int}
 Trie les données de la zone.
 
 
@@ -58,6 +60,7 @@ Si aucune ligne/colonne ne doit être déplacée par cette opération de tri, nu
 
 
 ```python
+
 def sort(self, cells, start_row, start_column, end_row, end_column):
     ...
 ```
@@ -65,14 +68,14 @@ def sort(self, cells, start_row, start_column, end_row, end_column):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| cells | [Cells](/cells/python-net/fr/aspose.cells/cells) | Les cellules contiennent la zone de données.|
+| cells | [`Cells`](/cells/python-net/fr/aspose.cells/cells) | Les cellules contiennent la zone de données.|
 | start_row | int | La ligne de départ de la zone.|
 | start_column | int | La colonne de départ de la zone.|
-| end_row | int | La rangée de fin de la zone.|
+| end_row | int | La dernière rangée de la zone.|
 | end_column | int | La colonne de fin de la zone.|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DataSorter](/cells/python-net/fr/aspose.cells/datasorter)
+* module [`aspose.cells`](../../)
+* classe [`DataSorter`](/cells/python-net/fr/aspose.cells/datasorter)

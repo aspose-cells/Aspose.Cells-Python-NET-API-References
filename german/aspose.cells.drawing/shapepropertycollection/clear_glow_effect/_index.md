@@ -7,12 +7,13 @@ weight: 30
 url: /de/aspose.cells.drawing/shapepropertycollection/clear_glow_effect/
 is_root: false
 ---
-##  clear_glow_effect() {#}
-Hebt den Leuchteffekt der Form auf.
+##  clear_glow_effect(self) {#}
+Löscht den Leuchteffekt der Form.
 
 
 
 ```python
+
 def clear_glow_effect(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear_glow_effect(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ShapePropertyCollection](/cells/python-net/de/aspose.cells.drawing/shapepropertycollection)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ShapePropertyCollection`](/cells/python-net/de/aspose.cells.drawing/shapepropertycollection)

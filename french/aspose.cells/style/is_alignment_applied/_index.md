@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_alignment_applied propriété
 
-Indiquez si le formatage de l'alignement doit être appliqué.
+Indiquez si la mise en forme d'alignement doit être appliquée.
 
 ###  Remarques
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_negative_bubbles Eigentum
 
-True, wenn negative Blasen für die Diagrammgruppe angezeigt werden. Gilt nur für Blasendiagramme.
+Wahr, wenn für die Diagrammgruppe negative Blasen angezeigt werden. Gilt nur für Blasendiagramme.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_negative_bubbles(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Series](/cells/python-net/de/aspose.cells.charts/series)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Series`](/cells/python-net/de/aspose.cells.charts/series)

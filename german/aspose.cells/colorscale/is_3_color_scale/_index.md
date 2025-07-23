@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_3_color_scale Eigentum
 
-Gibt an, ob die bedingte Formatierung eine 3-Farbskala ist.
+Gibt an, ob die bedingte Formatierung eine 3-Farben-Skala ist.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_3_color_scale(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ColorScale](/cells/python-net/de/aspose.cells/colorscale)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ColorScale`](/cells/python-net/de/aspose.cells/colorscale)

@@ -3,14 +3,14 @@ title: display_right_to_left Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 470
+weight: 490
 url: /de/aspose.cells/worksheet/display_right_to_left/
 is_root: false
 ---
 ##  display_right_to_left Eigentum
 
 Gibt an, ob das angegebene Arbeitsblatt von rechts nach links statt von links nach rechts angezeigt wird.
-Der Standardwert ist falsch.
+Der Standardwert ist „false“.
 ###  Definition:
 ```python
 @property

@@ -7,7 +7,7 @@ weight: 30
 url: /fr/aspose.cells/calculationdata/get_param_value/
 is_root: false
 ---
-##  get_param_value {#int}
+##  get_param_value(self, index) {#int}
 Obtient l'objet valeur représenté du paramètre à un index donné.
 
 
@@ -17,6 +17,7 @@ La valeur calculée du paramètre.
 
 
 ```python
+
 def get_param_value(self, index):
     ...
 ```
@@ -27,25 +28,25 @@ def get_param_value(self, index):
 | index | int | L'index du paramètre (basé sur 0)|
 ###  Remarques
 
-Pour un paramètre :
+Pour un paramètre :
 
-S'il s'agit d'une valeur simple, renvoie alors la valeur simple elle-même ;
+S'il s'agit d'une valeur simple, renvoie la valeur simple elle-même ;
 
 
 S'il s'agit d'une référence, renvoie l'objet ReferredArea ;
 
 
-S'il fait référence à des ensembles de données avec plusieurs valeurs, renvoie un tableau d'objets ;
+S'il fait référence à un ou plusieurs ensembles de données avec plusieurs valeurs, il renvoie un tableau d'objets ;
 
 
 
 S'il s'agit d'une sorte d'expression qui doit être calculée, elle sera calculée en mode valeur
-et généralement, une seule valeur sera renvoyée en fonction de la base de cellules actuelle. Par exemple,
-si un paramètre de la formule de D2 est A:A+B:B, alors A2+B2 sera calculé et renvoyé.
+et généralement, une seule valeur sera renvoyée selon la base de cellules actuelle. Par exemple,
+si l'un des paramètres de la formule de D2 est A:A+B:B, alors A2+B2 sera calculé et renvoyé.
 Cependant, si ce paramètre a été spécifié en mode tableau
 (par [`Workbook.update_custom_function_definition`](/cells/python-net/fr/aspose.cells/workbook/update_custom_function_definition)
 ou [`FormulaParseOptions.custom_function_definition`](/cells/python-net/fr/aspose.cells/formulaparseoptions#custom_function_definition)),
-alors un tableau (object[][]) sera renvoyé dont les éléments sont A1+B1,A2+B2,....
+alors un tableau(object[][]) sera renvoyé dont les éléments sont A1+B1,A2+B2,....
 
 
 ###  Voir également

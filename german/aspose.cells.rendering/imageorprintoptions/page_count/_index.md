@@ -3,13 +3,13 @@ title: page_count Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 220
+weight: 230
 url: /de/aspose.cells.rendering/imageorprintoptions/page_count/
 is_root: false
 ---
 ##  page_count Eigentum
 
-Ruft die Anzahl der zu speichernden Seiten ab oder legt diese fest.
+Ruft die Anzahl der zu speichernden Seiten ab oder legt sie fest.
 
 ###  Bemerkungen
 

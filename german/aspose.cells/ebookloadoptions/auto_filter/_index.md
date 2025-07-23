@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  auto_filter Eigentum
 
-Gibt an, ob die Daten beim Laden der Dateien automatisch gefiltert werden.
+Gibt an, ob beim Laden der Dateien eine automatische Filterung der Daten erfolgen soll.
 
 ###  Bemerkungen
 
-Manchmal werden die entsprechenden Zeilen nicht in der Datei ausgeblendet, obwohl der Autofilter eingestellt ist.
+Manchmal werden die entsprechenden Zeilen in der Datei nicht ausgeblendet, obwohl der Autofilter aktiviert ist.
 Funktioniert jetzt nur für SpreadSheetML-Dateien.
 ###  Definition:
 ```python

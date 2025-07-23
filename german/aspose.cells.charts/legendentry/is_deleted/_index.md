@@ -21,5 +21,5 @@ def is_deleted(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [LegendEntry](/cells/python-net/de/aspose.cells.charts/legendentry)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`LegendEntry`](/cells/python-net/de/aspose.cells.charts/legendentry)

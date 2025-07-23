@@ -3,13 +3,13 @@ title: is_default_row_height_matched Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1050
+weight: 1080
 url: /de/aspose.cells/cells/is_default_row_height_matched/
 is_root: false
 ---
 ##  is_default_row_height_matched Eigentum
 
-Zeigt an, dass die Zeilenhöhe und die Standardschrifthöhe übereinstimmen
+Zeigt an, dass Zeilenhöhe und Standardschrifthöhe übereinstimmen
 ###  Definition:
 ```python
 @property

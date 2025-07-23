@@ -21,6 +21,6 @@ def line_style(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Border](/cells/python-net/fr/aspose.cells/border)
-* classe [CellBorderType](/cells/python-net/fr/aspose.cells/cellbordertype)
+* module [`aspose.cells`](../../)
+* classe [`Border`](/cells/python-net/fr/aspose.cells/border)
+* classe [`CellBorderType`](/cells/python-net/fr/aspose.cells/cellbordertype)

@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  radius Eigentum
 
-Ruft die radius des Glühens in Punkteinheiten ab und legt sie fest.
+Ruft den Wert radius des Glühens ab und legt ihn in der Einheit „Punkte“ fest.
 
 ###  Bemerkungen
 
- HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
- Bitte verwenden Sie die GlowEffect.Size-Eigenschaft.
- Diese Property wird 6 Monate später seit September 2016 entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+ HINWEIS: Dieses Mitglied ist mittlerweile veraltet. Stattdessen
+ Bitte verwenden Sie die Eigenschaft GlowEffect.Size.
+ Diese Eigenschaft wird 6 Monate später (ab September 2016) entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 ###  Definition:
 ```python
 @property
@@ -28,5 +28,5 @@ def radius(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [GlowEffect](/cells/python-net/de/aspose.cells.drawing/gloweffect)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`GlowEffect`](/cells/python-net/de/aspose.cells.drawing/gloweffect)

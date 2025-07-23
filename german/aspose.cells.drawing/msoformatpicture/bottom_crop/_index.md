@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom_crop Eigentum
 
-Stellt die Position des unteren Rands des Zuschneiderechtecks dar, ausgedrückt als Verhältnis zur Höhe des Bilds.
+Stellt die Position der Unterseite des Zuschneiderechtecks dar, ausgedrückt als Verhältnis zur Höhe des Bilds.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def bottom_crop(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [MsoFormatPicture](/cells/python-net/de/aspose.cells.drawing/msoformatpicture)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`MsoFormatPicture`](/cells/python-net/de/aspose.cells.drawing/msoformatpicture)

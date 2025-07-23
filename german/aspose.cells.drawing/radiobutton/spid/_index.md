@@ -3,13 +3,13 @@ title: spid Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 940
+weight: 950
 url: /de/aspose.cells.drawing/radiobutton/spid/
 is_root: false
 ---
 ##  spid Eigentum
 
-Gibt eine optionale Zeichenfolge an, die eine Anwendung zum Identifizieren der bestimmten Form verwenden kann.
+Gibt eine optionale Zeichenfolgekennung an, mit der eine Anwendung die jeweilige Form identifizieren kann.
 
 ###  Beispiel
 

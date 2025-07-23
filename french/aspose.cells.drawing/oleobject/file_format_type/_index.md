@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  file_format_type propriété
 
-Obtient et définit le type de fichier des données d'objet ole intégrées
+Obtient et définit le type de fichier des données de l'objet OLE intégré
 ###  Définition:
 ```python
 @property

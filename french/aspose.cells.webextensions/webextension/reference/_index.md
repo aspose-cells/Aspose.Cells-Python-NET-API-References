@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  reference propriété
 
-Obtenez le reference principal dans un complément Office.
+Obtenez le reference principal d'un complément Office.
 ###  Définition:
 ```python
 @property
@@ -18,6 +18,6 @@ def reference(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.webextensions](../../)
-* classe [WebExtension](/cells/python-net/fr/aspose.cells.webextensions/webextension)
-* classe [WebExtensionReference](/cells/python-net/fr/aspose.cells.webextensions/webextensionreference)
+* module [`aspose.cells.webextensions`](../../)
+* classe [`WebExtension`](/cells/python-net/fr/aspose.cells.webextensions/webextension)
+* classe [`WebExtensionReference`](/cells/python-net/fr/aspose.cells.webextensions/webextensionreference)

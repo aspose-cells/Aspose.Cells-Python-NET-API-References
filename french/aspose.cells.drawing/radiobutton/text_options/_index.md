@@ -3,7 +3,7 @@ title: text_options propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1030
+weight: 1040
 url: /fr/aspose.cells.drawing/radiobutton/text_options/
 is_root: false
 ---

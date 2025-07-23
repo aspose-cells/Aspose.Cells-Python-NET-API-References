@@ -18,6 +18,6 @@ def gradient_fill(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [GradientFill](/cells/python-net/de/aspose.cells.drawing/gradientfill)
-* Klasse [Trendline](/cells/python-net/de/aspose.cells.charts/trendline)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`GradientFill`](/cells/python-net/de/aspose.cells.drawing/gradientfill)
+* Klasse [`Trendline`](/cells/python-net/de/aspose.cells.charts/trendline)

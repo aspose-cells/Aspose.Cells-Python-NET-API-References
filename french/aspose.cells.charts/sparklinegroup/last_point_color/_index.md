@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  last_point_color propriété
 
-Obtient et définit la couleur du dernier point de données dans le groupe sparkline.
+Obtient et définit la couleur du dernier point de données dans le groupe Sparkline.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def last_point_color(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [CellsColor](/cells/python-net/fr/aspose.cells/cellscolor)
-* classe [SparklineGroup](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)
+* module [`aspose.cells.charts`](../../)
+* classe [`CellsColor`](/cells/python-net/fr/aspose.cells/cellscolor)
+* classe [`SparklineGroup`](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text_orientation_type Eigentum
 
-Ruft den Textausrichtungstyp des Kommentars ab und legt diesen fest.
+Ruft den Textausrichtungstyp des Kommentars ab und legt ihn fest.
 
 ###  Beispiel
 

@@ -3,13 +3,13 @@ title: type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1150
+weight: 1160
 url: /de/aspose.cells.drawing/radiobutton/type/
 is_root: false
 ---
 ##  type Eigentum
 
-Ruft die automatische Form type ab.
+Ruft die Autoform type ab.
 
 ###  Beispiel
 

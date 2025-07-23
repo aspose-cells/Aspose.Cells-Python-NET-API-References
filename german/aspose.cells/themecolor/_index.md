@@ -3,7 +3,7 @@ title: ThemeColor Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1500
+weight: 1400
 url: /de/aspose.cells/themecolor/
 is_root: false
 ---
@@ -17,7 +17,7 @@ Der Typ ThemeColor macht die folgenden Member verfügbar:
 ###  Konstrukteure
 | Konstrukteur| Beschreibung|
 | :- | :- |
-| [__init__](/cells/python-net/de/aspose.cells/themecolor/__init__/#aspose.cells.ThemeColorType-float) |  |
+| [`__init__(self, type, tint)`](/cells/python-net/de/aspose.cells/themecolor/__init__/#aspose.cells.themecolortype-float) |  |
 
 
 ###  Eigenschaften

@@ -21,6 +21,6 @@ def end_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [MsoArrowheadStyle](/cells/python-net/fr/aspose.cells.drawing/msoarrowheadstyle)
-* classe [Trendline](/cells/python-net/fr/aspose.cells.charts/trendline)
+* module [`aspose.cells.charts`](../../)
+* classe [`MsoArrowheadStyle`](/cells/python-net/fr/aspose.cells.drawing/msoarrowheadstyle)
+* classe [`Trendline`](/cells/python-net/fr/aspose.cells.charts/trendline)

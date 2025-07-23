@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  plot_visible_cells propriété
 
-Indique si seules les cellules visibles sont tracées.
+Indique si seules les cellules visibles du tracé doivent être tracées.
 
 ###  Remarques
 
- REMARQUE : ce membre est désormais obsolète. Plutôt,
+ REMARQUE : Ce membre est désormais obsolète. À la place,
 veuillez utiliser la propriété PlotVisibleCellsOnly.
-Cette méthode sera supprimée 12 mois plus tard depuis décembre 2022.
-Le Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ Cette méthode sera supprimée 12 mois plus tard soit en décembre 2022.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 ###  Définition:
 ```python
 @property

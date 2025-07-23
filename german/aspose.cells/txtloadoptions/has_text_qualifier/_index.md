@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_text_qualifier Eigentum
 
-Ob es einen Textqualifizierer für den Zellenwert gibt. Standard ist wahr.
+Gibt an, ob für den Zellenwert ein Textqualifizierer vorhanden ist. Der Standardwert ist „true“.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def has_text_qualifier(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [TxtLoadOptions](/cells/python-net/de/aspose.cells/txtloadoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`TxtLoadOptions`](/cells/python-net/de/aspose.cells/txtloadoptions)

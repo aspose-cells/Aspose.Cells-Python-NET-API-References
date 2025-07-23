@@ -3,7 +3,7 @@ title: macro_name propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 810
+weight: 820
 url: /fr/aspose.cells.drawing/groupshape/macro_name/
 is_root: false
 ---

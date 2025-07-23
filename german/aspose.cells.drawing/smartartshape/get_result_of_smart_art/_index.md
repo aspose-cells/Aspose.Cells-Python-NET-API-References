@@ -3,16 +3,17 @@ title: get_result_of_smart_art Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 120
+weight: 140
 url: /de/aspose.cells.drawing/smartartshape/get_result_of_smart_art/
 is_root: false
 ---
-##  get_result_of_smart_art() {#}
-Konvertieren von intelligenter Kunst in gruppierte Formen.
+##  get_result_of_smart_art(self) {#}
+Konvertieren von Smart Art in gruppierte Formen.
 
 
 
 ```python
+
 def get_result_of_smart_art(self):
     ...
 ```
@@ -32,5 +33,5 @@ if groupShape != None:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [SmartArtShape](/cells/python-net/de/aspose.cells.drawing/smartartshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`SmartArtShape`](/cells/python-net/de/aspose.cells.drawing/smartartshape)

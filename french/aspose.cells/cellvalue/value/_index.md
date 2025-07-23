@@ -20,7 +20,7 @@ Le value doit être du bon type d'objet correspondant au [`CellValue.type`](/cel
 | double |
 | DateHeure|
 | chaîne|
-| bouffon|
+| booléen|
 | chaîne d'erreur telle que "#VALUE!", "#NAME?", ...|
 ###  Définition:
 ```python

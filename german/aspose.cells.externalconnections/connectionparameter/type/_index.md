@@ -10,9 +10,9 @@ is_root: false
 ##  type Eigentum
 
 Typ des verwendeten Parameters.
- Wenn parameterType=value, dann der Wert aus boolean, double, integer,
- oder string verwendet werden. In diesem Fall wird erwartet, dass nur einer von
-{boolean, double, integer oder string} wird angegeben.
+ Wenn der Parametertyp = Wert ist, dann ist der Wert von Boolean, Double, Integer,
+ oder Zeichenfolge verwendet. In diesem Fall wird erwartet, dass nur einer der
+Es wird {Boolean, Double, Integer oder String} angegeben.
 ###  Definition:
 ```python
 @property
@@ -24,6 +24,6 @@ def type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.externalconnections](../../)
-* Klasse [ConnectionParameter](/cells/python-net/de/aspose.cells.externalconnections/connectionparameter)
-* Klasse [ConnectionParameterType](/cells/python-net/de/aspose.cells.externalconnections/connectionparametertype)
+* Modul [`aspose.cells.externalconnections`](../../)
+* Klasse [`ConnectionParameter`](/cells/python-net/de/aspose.cells.externalconnections/connectionparameter)
+* Klasse [`ConnectionParameterType`](/cells/python-net/de/aspose.cells.externalconnections/connectionparametertype)

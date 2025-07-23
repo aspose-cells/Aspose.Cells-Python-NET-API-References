@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_threaded_comment Eigentum
 
-Gibt an, ob dieser Kommentar ein Thread-Kommentar ist.
+Gibt an, ob es sich bei diesem Kommentar um einen Threadkommentar handelt.
 
 ###  Beispiel
 

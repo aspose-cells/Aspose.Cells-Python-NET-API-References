@@ -3,13 +3,13 @@ title: height Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 430
+weight: 420
 url: /de/aspose.cells.drawing/oval/height/
 is_root: false
 ---
 ##  height Eigentum
 
-Stellt die height der Form in der Einheit Pixel dar.
+Stellt die height der Form in Pixeleinheiten dar.
 
 ###  Beispiel
 

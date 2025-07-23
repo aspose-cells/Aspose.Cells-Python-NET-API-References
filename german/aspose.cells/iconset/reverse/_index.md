@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  reverse Eigentum
 
-Holen oder setzen Sie das Flag, das angibt, ob die Standardreihenfolge der Symbole in diesem Symbolsatz umgekehrt werden soll.
-Der Standardwert ist falsch.
+Rufen Sie das Flag ab oder legen Sie es fest, das angibt, ob die Standardreihenfolge der Symbole in diesem Symbolsatz umgekehrt werden soll.
+Der Standardwert ist „false“.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def reverse(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [IconSet](/cells/python-net/de/aspose.cells/iconset)
+* Modul [`aspose.cells`](../../)
+* Klasse [`IconSet`](/cells/python-net/de/aspose.cells/iconset)

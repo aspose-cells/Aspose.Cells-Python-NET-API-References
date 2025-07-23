@@ -3,7 +3,7 @@ title: reflection Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 860
+weight: 870
 url: /de/aspose.cells.drawing/checkbox/reflection/
 is_root: false
 ---

@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  max_cfvo Eigentum
 
-Rufen Sie das Objekt für den maximalen Wert dieses DataBar ab oder legen Sie es fest.
-Es kann nicht null oder CFValueObject mit dem Typ FormatConditionValueType.Min darauf gesetzt werden.
+Rufen Sie das Maximalwertobjekt dieses DataBar ab oder legen Sie es fest.
+Null oder CFValueObject mit dem Typ FormatConditionValueType.Min kann nicht darauf festgelegt werden.
 ###  Definition:
 ```python
 @property
@@ -19,6 +19,6 @@ def max_cfvo(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ConditionalFormattingValue](/cells/python-net/de/aspose.cells/conditionalformattingvalue)
-* Klasse [DataBar](/cells/python-net/de/aspose.cells/databar)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ConditionalFormattingValue`](/cells/python-net/de/aspose.cells/conditionalformattingvalue)
+* Klasse [`DataBar`](/cells/python-net/de/aspose.cells/databar)

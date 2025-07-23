@@ -3,17 +3,17 @@ title: validate_merged_areas Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 700
+weight: 790
 url: /de/aspose.cells/htmlsaveoptions/validate_merged_areas/
 is_root: false
 ---
 ##  validate_merged_areas Eigentum
 
-Gibt an, ob zusammengeführte Zellen vor dem Speichern der Datei validiert werden.
+Gibt an, ob zusammengeführte Zellen vor dem Speichern der Datei validiert werden sollen.
 
 ###  Bemerkungen
 
-Der Standardwert ist false.
+Der Standardwert ist „false“.
 ###  Definition:
 ```python
 @property

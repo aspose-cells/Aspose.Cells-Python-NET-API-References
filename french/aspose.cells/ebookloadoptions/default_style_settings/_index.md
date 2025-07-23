@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  default_style_settings propriété
 
-Obtient les paramètres de style par défaut pour initialiser les styles du classeur
+Obtient les paramètres de style par défaut pour l'initialisation des styles du classeur
 ###  Définition:
 ```python
 @property

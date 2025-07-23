@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fill_format propriété
 
-Représente un objet [Area.fill_format](/cells/python-net/fr/aspose.cells.drawing/area#fill_format) qui contient des propriétés de mise en forme de remplissage pour le graphique ou la forme spécifié.
+Représente un objet [`Area.fill_format`](/cells/python-net/fr/aspose.cells.drawing/area#fill_format) qui contient des propriétés de formatage de remplissage pour le graphique ou la forme spécifié.
 ###  Définition:
 ```python
 @property
@@ -18,6 +18,6 @@ def fill_format(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [FillFormat](/cells/python-net/fr/aspose.cells.drawing/fillformat)
-* classe [Walls](/cells/python-net/fr/aspose.cells.charts/walls)
+* module [`aspose.cells.charts`](../../)
+* classe [`FillFormat`](/cells/python-net/fr/aspose.cells.drawing/fillformat)
+* classe [`Walls`](/cells/python-net/fr/aspose.cells.charts/walls)

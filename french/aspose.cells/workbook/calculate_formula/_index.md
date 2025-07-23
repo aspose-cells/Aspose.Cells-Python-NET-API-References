@@ -7,12 +7,13 @@ weight: 40
 url: /fr/aspose.cells/workbook/calculate_formula/
 is_root: false
 ---
-##  calculate_formula {#}
+##  calculate_formula(self) {#}
 Calcule le résultat des formules.
 
 
 
 ```python
+
 def calculate_formula(self):
     ...
 ```
@@ -22,13 +23,14 @@ def calculate_formula(self):
 
 Pour toutes les formules prises en charge, veuillez consulter la liste sur https://docs.aspose.com/display/cellsnet/Supported+Formula+Functions
 
-##  calculate_formula {#bool}
+##  calculate_formula(self, ignore_error) {#bool}
 
 Calcule le résultat des formules.
 
 
 
 ```python
+
 def calculate_formula(self, ignore_error):
     ...
 ```
@@ -36,15 +38,16 @@ def calculate_formula(self, ignore_error):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| ignore_error | bool |Indique si masquer l'erreur dans le calcul des formules. L'erreur peut provenir d'une fonction non prise en charge, de liens externes, etc.|
+| ignore_error | bool | Indique si l'erreur de calcul des formules doit être masquée. L'erreur peut provenir d'une fonction non prise en charge, de liens externes, etc.|
 
 
-##  calculate_formula {#aspose.cells.CalculationOptions}
-Calculer des formules dans ce classeur.
+##  calculate_formula(self, options) {#aspose.cells.CalculationOptions}
+Calcul des formules dans ce classeur.
 
 
 
 ```python
+
 def calculate_formula(self, options):
     ...
 ```

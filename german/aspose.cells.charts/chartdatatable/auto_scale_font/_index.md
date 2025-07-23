@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  auto_scale_font Eigentum
 
- True, wenn der Text im Objekt die Schriftgröße ändert, wenn sich die Objektgröße ändert.
+ „True“, wenn sich die Schriftgröße des Textes im Objekt ändert, wenn sich die Objektgröße ändert.
 Der Standardwert ist True.
 ###  Definition:
 ```python
@@ -22,5 +22,5 @@ def auto_scale_font(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ChartDataTable](/cells/python-net/de/aspose.cells.charts/chartdatatable)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ChartDataTable`](/cells/python-net/de/aspose.cells.charts/chartdatatable)

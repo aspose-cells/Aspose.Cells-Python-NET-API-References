@@ -3,15 +3,15 @@ title: preserve_padding_spaces_in_formula propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 230
+weight: 220
 url: /fr/aspose.cells/odsloadoptions/preserve_padding_spaces_in_formula/
 is_root: false
 ---
 ##  preserve_padding_spaces_in_formula propriété
 
-Indique si les espaces et les sauts de ligne qui sont remplis entre les jetons de formule sont conservés
+Indique si les espaces et les sauts de ligne qui sont remplis entre les jetons de formule doivent être conservés
 tout en obtenant et en définissant des formules.
-La valeur par défaut est fausse.
+La valeur par défaut est faux.
 
 ###  Remarques
 

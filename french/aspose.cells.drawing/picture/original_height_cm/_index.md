@@ -3,13 +3,13 @@ title: original_height_cm propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 940
+weight: 960
 url: /fr/aspose.cells.drawing/picture/original_height_cm/
 is_root: false
 ---
 ##  original_height_cm propriété
 
-Obtient la hauteur d'origine de l'image, en unités de centimètres.
+Obtient la hauteur d'origine de l'image, en centimètres.
 
 ###  Exemple
 

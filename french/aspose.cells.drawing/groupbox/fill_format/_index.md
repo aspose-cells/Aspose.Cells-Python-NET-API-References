@@ -13,10 +13,10 @@ Renvoie un objet MsoFillFormat qui contient les propriétés de mise en forme de
 
 ###  Remarques
 
- REMARQUE : ce membre est désormais obsolète. Plutôt,
+ REMARQUE : Ce membre est désormais obsolète. À la place,
  veuillez utiliser la propriété Shape.Fill.
- Cette propriété sera supprimée 12 mois plus tard depuis juillet 2016.
-Le Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ Cette propriété sera supprimée 12 mois plus tard soit juillet 2016.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 ###  Définition:
 ```python
 @property

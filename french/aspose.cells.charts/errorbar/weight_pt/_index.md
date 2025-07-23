@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  weight_pt propriété
 
-Obtient ou définit l'épaisseur de la ligne en unités de points.
+Obtient ou définit le poids de la ligne en unité de points.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def weight_pt(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [ErrorBar](/cells/python-net/fr/aspose.cells.charts/errorbar)
+* module [`aspose.cells.charts`](../../)
+* classe [`ErrorBar`](/cells/python-net/fr/aspose.cells.charts/errorbar)

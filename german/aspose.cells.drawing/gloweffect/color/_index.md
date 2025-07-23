@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color Eigentum
 
-Ruft die color des Glow-Effekts ab.
+Ruft die color des Leuchteffekts ab.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def color(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [CellsColor](/cells/python-net/de/aspose.cells/cellscolor)
-* Klasse [GlowEffect](/cells/python-net/de/aspose.cells.drawing/gloweffect)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`CellsColor`](/cells/python-net/de/aspose.cells/cellscolor)
+* Klasse [`GlowEffect`](/cells/python-net/de/aspose.cells.drawing/gloweffect)

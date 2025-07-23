@@ -21,5 +21,5 @@ def convert_date_time_data(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [AbstractTextLoadOptions](/cells/python-net/de/aspose.cells/abstracttextloadoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`AbstractTextLoadOptions`](/cells/python-net/de/aspose.cells/abstracttextloadoptions)

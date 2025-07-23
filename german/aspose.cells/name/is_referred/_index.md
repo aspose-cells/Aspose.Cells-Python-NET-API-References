@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_referred Eigentum
 
-Gibt an, ob dieser Name von anderen Formeln referenziert wird.
+Gibt an, ob auf diesen Namen in anderen Formeln verwiesen wird.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_referred(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Name](/cells/python-net/de/aspose.cells/name)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Name`](/cells/python-net/de/aspose.cells/name)

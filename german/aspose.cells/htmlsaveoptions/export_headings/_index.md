@@ -3,7 +3,7 @@ title: export_headings Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 270
+weight: 340
 url: /de/aspose.cells/htmlsaveoptions/export_headings/
 is_root: false
 ---
@@ -13,10 +13,10 @@ Gibt an, ob die Zeilen- und Spaltenüberschriften des Blatts beim Speichern in H
 
 ###  Bemerkungen
 
- HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
+ HINWEIS: Dieses Mitglied ist mittlerweile veraltet. Stattdessen
 Bitte verwenden Sie die Eigenschaft HtmlSaveOptions.ExportRowColumnHeadings.
- Diese Immobilie wird 12 Monate später seit Juni 2022 entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+ Diese Eigenschaft wird 12 Monate später (ab Juni 2022) entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 ###  Definition:
 ```python
 @property

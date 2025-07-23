@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  background_color_set_type propriété
 
-Obtient ou définit le type de jeu de couleurs d'arrière-plan du marqueur.
+Obtient ou définit le type d'ensemble de couleurs d'arrière-plan du marqueur.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def background_color_set_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [FormattingType](/cells/python-net/fr/aspose.cells.charts/formattingtype)
-* classe [Marker](/cells/python-net/fr/aspose.cells.charts/marker)
+* module [`aspose.cells.charts`](../../)
+* classe [`FormattingType`](/cells/python-net/fr/aspose.cells.charts/formattingtype)
+* classe [`Marker`](/cells/python-net/fr/aspose.cells.charts/marker)

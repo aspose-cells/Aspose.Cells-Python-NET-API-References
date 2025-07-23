@@ -3,13 +3,13 @@ title: custom_list_sort Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 380
+weight: 480
 url: /de/aspose.cells.pivot/pivottable/custom_list_sort/
 is_root: false
 ---
 ##  custom_list_sort Eigentum
 
-Gibt an, ob beim Sortieren von Daten die integrierte benutzerdefinierte Liste berücksichtigt wird
+Gibt an, ob beim Sortieren der Daten die integrierte benutzerdefinierte Liste berücksichtigt wird
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def custom_list_sort(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotTable](/cells/python-net/de/aspose.cells.pivot/pivottable)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotTable`](/cells/python-net/de/aspose.cells.pivot/pivottable)

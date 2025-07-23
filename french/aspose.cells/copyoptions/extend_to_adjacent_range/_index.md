@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  extend_to_adjacent_range propriété
 
-Indique si les plages sont étendues lors de la copie de la plage dans la plage adjacente.
+Indique si les plages doivent être étendues lors de la copie de la plage vers la plage adjacente.
 
 ###  Remarques
 
-Si c'est vrai, étend uniquement la plage du lien hypertexte, sans ajouter de nouveau lien hypertexte lors de la copie de liens hypertexte vers des lignes adjacentes.
+Si c'est vrai, cela étend uniquement la portée de l'hyperlien, sans ajouter de nouvel hyperlien lors de la copie d'hyperliens vers des lignes adjacentes.
 ###  Définition:
 ```python
 @property
@@ -25,5 +25,5 @@ def extend_to_adjacent_range(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CopyOptions](/cells/python-net/fr/aspose.cells/copyoptions)
+* module [`aspose.cells`](../../)
+* classe [`CopyOptions`](/cells/python-net/fr/aspose.cells/copyoptions)

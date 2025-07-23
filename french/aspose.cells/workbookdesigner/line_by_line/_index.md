@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  line_by_line propriété
 
-Indique si le marqueur intelligent est traité ligne par ligne.
+Indique si le traitement du marqueur intelligent est effectué ligne par ligne.
 
 ###  Remarques
 
-La valeur par défaut est vraie.
-Si False, le fichier modèle doit contenir une plage nommée « _CellsSmartMarkers ».
+La valeur par défaut est vrai.
+Si la valeur est False, le fichier modèle doit contenir une plage nommée « _CellsSmartMarkers ».
 ###  Définition:
 ```python
 @property

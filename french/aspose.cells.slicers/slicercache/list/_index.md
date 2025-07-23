@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  list propriété
 
-Renvoie si le segment associé au cache de segment spécifié est basé sur une source de données non OLAP. Lecture seulement
+Indique si le segment associé au cache de segment spécifié est basé sur une source de données non OLAP. Lecture seule.
 
 ###  Exemple
 
@@ -26,5 +26,5 @@ def list(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.slicers](../../)
-* classe [SlicerCache](/cells/python-net/fr/aspose.cells.slicers/slicercache)
+* module [`aspose.cells.slicers`](../../)
+* classe [`SlicerCache`](/cells/python-net/fr/aspose.cells.slicers/slicercache)

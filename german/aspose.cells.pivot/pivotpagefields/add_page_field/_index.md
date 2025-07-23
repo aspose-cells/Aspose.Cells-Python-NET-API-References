@@ -7,12 +7,13 @@ weight: 30
 url: /de/aspose.cells.pivot/pivotpagefields/add_page_field/
 is_root: false
 ---
-##  add_page_field(page_items) {#list}
+##  add_page_field(self, page_items) {#list}
 Fügt ein Seitenfeld hinzu.
 
 
 
 ```python
+
 def add_page_field(self, page_items):
     ...
 ```
@@ -25,5 +26,5 @@ def add_page_field(self, page_items):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotPageFields](/cells/python-net/de/aspose.cells.pivot/pivotpagefields)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotPageFields`](/cells/python-net/de/aspose.cells.pivot/pivotpagefields)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_drag_behavior_enabled propriété
 
-Indique si le glisser-déposer est activé pour le champ.
+Indique si le glisser-déposer est activé pour le contrôle.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_drag_behavior_enabled(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [TextBoxActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`TextBoxActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

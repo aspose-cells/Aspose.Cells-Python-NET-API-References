@@ -3,13 +3,13 @@ title: formula_local Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 500
+weight: 510
 url: /de/aspose.cells/cell/formula_local/
 is_root: false
 ---
 ##  formula_local Eigentum
 
-Rufen Sie die gebietsschemaformatierte Formel der Zelle ab.
+Holen Sie sich die lokal formatierte Formel der Zelle.
 ###  Definition:
 ```python
 @property

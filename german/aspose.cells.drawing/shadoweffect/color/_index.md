@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color Eigentum
 
-Ruft die color des Schattens ab und setzt sie.
+Ruft die color des Schattens ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def color(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [CellsColor](/cells/python-net/de/aspose.cells/cellscolor)
-* Klasse [ShadowEffect](/cells/python-net/de/aspose.cells.drawing/shadoweffect)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`CellsColor`](/cells/python-net/de/aspose.cells/cellscolor)
+* Klasse [`ShadowEffect`](/cells/python-net/de/aspose.cells.drawing/shadoweffect)

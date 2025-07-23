@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  order Eigentum
 
-Gibt die order der Sortierung an.
+Gibt die Sortierung order an.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def order(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [DataSorterKey](/cells/python-net/de/aspose.cells/datasorterkey)
-* Klasse [SortOrder](/cells/python-net/de/aspose.cells/sortorder)
+* Modul [`aspose.cells`](../../)
+* Klasse [`DataSorterKey`](/cells/python-net/de/aspose.cells/datasorterkey)
+* Klasse [`SortOrder`](/cells/python-net/de/aspose.cells/sortorder)

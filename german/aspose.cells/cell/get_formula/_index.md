@@ -7,7 +7,7 @@ weight: 130
 url: /de/aspose.cells/cell/get_formula/
 is_root: false
 ---
-##  get_formula(is_r1c1, is_local) {#bool-bool}
+##  get_formula(self, is_r1c1, is_local) {#bool-bool}
 Holen Sie sich die Formel dieser Zelle.
 
 
@@ -17,6 +17,7 @@ die Formel dieser Zelle.
 
 
 ```python
+
 def get_formula(self, is_r1c1, is_local):
     ...
 ```
@@ -30,5 +31,5 @@ def get_formula(self, is_r1c1, is_local):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cell](/cells/python-net/de/aspose.cells/cell)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cell`](/cells/python-net/de/aspose.cells/cell)

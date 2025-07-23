@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  schema_data Eigentum
 
-Ruft den XML-Inhalt dieses benutzerdefinierten XML-Schemadatenspeicherteils ab oder legt diesen fest.
+Ruft den XML-Inhalt dieses benutzerdefinierten XML-Schema-Datenspeicherteils ab oder legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def schema_data(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.markup](../../)
-* Klasse [CustomXmlPart](/cells/python-net/de/aspose.cells.markup/customxmlpart)
+* Modul [`aspose.cells.markup`](../../)
+* Klasse [`CustomXmlPart`](/cells/python-net/de/aspose.cells.markup/customxmlpart)

@@ -21,5 +21,5 @@ def color2(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [TwoColorGradient](/cells/python-net/de/aspose.cells/twocolorgradient)
+* Modul [`aspose.cells`](../../)
+* Klasse [`TwoColorGradient`](/cells/python-net/de/aspose.cells/twocolorgradient)

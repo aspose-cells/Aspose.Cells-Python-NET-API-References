@@ -3,7 +3,7 @@ title: name propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 660
+weight: 690
 url: /fr/aspose.cells/cell/name/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Obtient le name de la cellule.
 
 ###  Remarques
 
-Une cellule name comprend sa lettre de colonne et son numéro de ligne. Par exemple, le name d’une cellule de la ligne 0 et de la colonne 0 est A1.
+La cellule name comprend la lettre de sa colonne et son numéro de ligne. Par exemple, la valeur name d'une cellule de la ligne 0 et de la colonne 0 est A1.
 ###  Définition:
 ```python
 @property

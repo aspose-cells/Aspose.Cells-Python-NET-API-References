@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  orientation Eigentum
 
-Repräsentiert den Seitendruck orientation.
+Stellt den Seitendruck orientation dar.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def orientation(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageOrientationType](/cells/python-net/de/aspose.cells/pageorientationtype)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageOrientationType`](/cells/python-net/de/aspose.cells/pageorientationtype)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

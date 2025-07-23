@@ -3,13 +3,13 @@ title: is_visible Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 630
+weight: 660
 url: /de/aspose.cells/worksheet/is_visible/
 is_root: false
 ---
 ##  is_visible Eigentum
 
-Stellt dar, ob das Arbeitsblatt sichtbar ist.
+Gibt an, ob das Arbeitsblatt sichtbar ist.
 ###  Definition:
 ```python
 @property

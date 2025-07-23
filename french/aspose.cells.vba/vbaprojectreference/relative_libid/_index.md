@@ -25,5 +25,5 @@ def relative_libid(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.vba](../../)
-* classe [VbaProjectReference](/cells/python-net/fr/aspose.cells.vba/vbaprojectreference)
+* module [`aspose.cells.vba`](../../)
+* classe [`VbaProjectReference`](/cells/python-net/fr/aspose.cells.vba/vbaprojectreference)

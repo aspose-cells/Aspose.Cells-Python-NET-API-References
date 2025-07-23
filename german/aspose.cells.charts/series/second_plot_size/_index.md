@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  second_plot_size Eigentum
 
- Gibt die Größe des sekundären Abschnitts eines Torten- oder Tortendiagramms oder eines Balken- oder Tortendiagramms zurück oder legt sie fest.
+ Gibt die Größe des sekundären Abschnitts eines Kreis- oder Kreisdiagramms oder eines Balken- oder Kreisdiagramms zurück oder legt sie fest.
 als Prozentsatz der Größe des primären Kuchens.
 Kann ein Wert zwischen 5 und 200 sein.
 ###  Definition:
@@ -23,5 +23,5 @@ def second_plot_size(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Series](/cells/python-net/de/aspose.cells.charts/series)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Series`](/cells/python-net/de/aspose.cells.charts/series)

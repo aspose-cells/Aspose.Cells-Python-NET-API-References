@@ -3,13 +3,13 @@ title: style_type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 250
+weight: 260
 url: /fr/aspose.cells.slicers/slicer/style_type/
 is_root: false
 ---
 ##  style_type propriété
 
-Spécifiez le type de style de trancheuse intégré
+Spécifiez le type de style de trancheur intégré
 le type par défaut est SlicerStyleLight1
 
 ###  Exemple
@@ -31,6 +31,6 @@ def style_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.slicers](../../)
-* classe [Slicer](/cells/python-net/fr/aspose.cells.slicers/slicer)
-* classe [SlicerStyleType](/cells/python-net/fr/aspose.cells.slicers/slicerstyletype)
+* module [`aspose.cells.slicers`](../../)
+* classe [`Slicer`](/cells/python-net/fr/aspose.cells.slicers/slicer)
+* classe [`SlicerStyleType`](/cells/python-net/fr/aspose.cells.slicers/slicerstyletype)

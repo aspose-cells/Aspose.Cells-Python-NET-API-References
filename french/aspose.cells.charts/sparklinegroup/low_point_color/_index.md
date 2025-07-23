@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  low_point_color propriété
 
-Obtient et définit la couleur des points de données les plus bas dans le groupe de graphiques sparkline.
+Obtient et définit la couleur des points les plus bas des données dans le groupe Sparkline.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def low_point_color(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [CellsColor](/cells/python-net/fr/aspose.cells/cellscolor)
-* classe [SparklineGroup](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)
+* module [`aspose.cells.charts`](../../)
+* classe [`CellsColor`](/cells/python-net/fr/aspose.cells/cellscolor)
+* classe [`SparklineGroup`](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)

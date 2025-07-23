@@ -21,6 +21,6 @@ def last_point_color(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [CellsColor](/cells/python-net/de/aspose.cells/cellscolor)
-* Klasse [SparklineGroup](/cells/python-net/de/aspose.cells.charts/sparklinegroup)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`CellsColor`](/cells/python-net/de/aspose.cells/cellscolor)
+* Klasse [`SparklineGroup`](/cells/python-net/de/aspose.cells.charts/sparklinegroup)

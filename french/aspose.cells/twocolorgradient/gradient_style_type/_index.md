@@ -21,6 +21,6 @@ def gradient_style_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [GradientStyleType](/cells/python-net/fr/aspose.cells.drawing/gradientstyletype)
-* classe [TwoColorGradient](/cells/python-net/fr/aspose.cells/twocolorgradient)
+* module [`aspose.cells`](../../)
+* classe [`GradientStyleType`](/cells/python-net/fr/aspose.cells.drawing/gradientstyletype)
+* classe [`TwoColorGradient`](/cells/python-net/fr/aspose.cells/twocolorgradient)

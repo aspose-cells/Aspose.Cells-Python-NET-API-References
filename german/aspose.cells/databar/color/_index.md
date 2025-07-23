@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color Eigentum
 
-Rufen Sie die Farbe dieses DataBar ab oder legen Sie sie fest.
+Rufen Sie die Farbe dieser Datenleiste ab oder legen Sie sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [DataBar](/cells/python-net/de/aspose.cells/databar)
+* Modul [`aspose.cells`](../../)
+* Klasse [`DataBar`](/cells/python-net/de/aspose.cells/databar)

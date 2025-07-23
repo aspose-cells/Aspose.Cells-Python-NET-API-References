@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color_index Eigentum
 
-Ruft den Farbindex in der Farbpalette ab und legt ihn fest. Gilt nur für indizierte Farbe.
+Ruft den Farbindex in der Farbpalette ab und legt ihn fest. Gilt nur für indizierte Farben.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def color_index(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CellsColor](/cells/python-net/de/aspose.cells/cellscolor)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CellsColor`](/cells/python-net/de/aspose.cells/cellscolor)

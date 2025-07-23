@@ -58,5 +58,5 @@ def invert_if_negative(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Walls](/cells/python-net/fr/aspose.cells.charts/walls)
+* module [`aspose.cells.charts`](../../)
+* classe [`Walls`](/cells/python-net/fr/aspose.cells.charts/walls)

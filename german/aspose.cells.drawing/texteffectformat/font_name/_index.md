@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_name Eigentum
 
-Der Name der Schriftart, die in der WordArt verwendet wird.
+Der Name der im WordArt-Objekt verwendeten Schriftart.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [TextEffectFormat](/cells/python-net/de/aspose.cells.drawing/texteffectformat)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`TextEffectFormat`](/cells/python-net/de/aspose.cells.drawing/texteffectformat)

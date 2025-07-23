@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_open propriété
 
-Lorsque cette propriété est vraie, l'entrée de signet se développera, sinon elle se réduira.
+Lorsque cette propriété est vraie, l'entrée du signet s'étendra, sinon elle se réduira.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_open(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.rendering](../../)
-* classe [PdfBookmarkEntry](/cells/python-net/fr/aspose.cells.rendering/pdfbookmarkentry)
+* module [`aspose.cells.rendering`](../../)
+* classe [`PdfBookmarkEntry`](/cells/python-net/fr/aspose.cells.rendering/pdfbookmarkentry)

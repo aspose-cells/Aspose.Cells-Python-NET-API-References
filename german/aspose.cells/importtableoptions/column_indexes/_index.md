@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column_indexes Eigentum
 
-Ruft die Spalten (basierend auf 0) ab oder legt sie fest, die aus der Datenquelle importiert werden sollen. null bedeutet, dass alle Spalten importiert werden sollen.
+Ruft die Spalten (0-basiert) ab oder legt sie fest, die aus der Datenquelle importiert werden sollen. Null bedeutet, dass alle Spalten importiert werden sollen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def column_indexes(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ImportTableOptions](/cells/python-net/de/aspose.cells/importtableoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ImportTableOptions`](/cells/python-net/de/aspose.cells/importtableoptions)

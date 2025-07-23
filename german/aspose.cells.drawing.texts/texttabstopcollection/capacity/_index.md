@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [TextTabStopCollection](/cells/python-net/de/aspose.cells.drawing.texts/texttabstopcollection)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`TextTabStopCollection`](/cells/python-net/de/aspose.cells.drawing.texts/texttabstopcollection)

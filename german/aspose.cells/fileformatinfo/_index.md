@@ -3,12 +3,12 @@ title: FileFormatInfo Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 620
+weight: 600
 url: /de/aspose.cells/fileformatinfo/
 is_root: false
 ---
 ##  FileFormatInfo Klasse
-Enthält Daten, die von [`FileFormatUtil`](/cells/python-net/de/aspose.cells/fileformatutil)-Dateiformaterkennungsmethoden zurückgegeben werden.
+Enthält Daten, die von [`FileFormatUtil`](/cells/python-net/de/aspose.cells/fileformatutil) Dateiformaterkennungsmethoden zurückgegeben wurden.
 
 
 
@@ -17,14 +17,14 @@ Der Typ FileFormatInfo macht die folgenden Member verfügbar:
 ###  Konstrukteure
 | Konstrukteur| Beschreibung|
 | :- | :- |
-| [__init__](/cells/python-net/de/aspose.cells/fileformatinfo/__init__/#) | Konstruiert eine neue Instanz von FileFormatInfo|
+| [`__init__(self)`](/cells/python-net/de/aspose.cells/fileformatinfo/__init__/#) | Erstellt eine neue Instanz von FileFormatInfo|
 
 
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
 | [is_protected_by_rms](/cells/python-net/de/aspose.cells/fileformatinfo/is_protected_by_rms) | Ruft ab, ob die Datei durch Microsoft Rights Management Server geschützt ist.|
-| [is_encrypted](/cells/python-net/de/aspose.cells/fileformatinfo/is_encrypted) | Gibt „true“ zurück, wenn das Dokument verschlüsselt ist und zum Öffnen ein Passwort erfordert.|
+| [is_encrypted](/cells/python-net/de/aspose.cells/fileformatinfo/is_encrypted) | Gibt „true“ zurück, wenn das Dokument verschlüsselt ist und zum Öffnen ein Kennwort erforderlich ist.|
 | [file_format_type](/cells/python-net/de/aspose.cells/fileformatinfo/file_format_type) | Ruft das erkannte Dateiformat ab.|
 | [load_format](/cells/python-net/de/aspose.cells/fileformatinfo/load_format) | Ruft das erkannte Ladeformat ab.|
 

@@ -3,12 +3,12 @@ title: ConditionalFormattingIconCollection Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 330
+weight: 300
 url: /de/aspose.cells/conditionalformattingiconcollection/
 is_root: false
 ---
 ##  ConditionalFormattingIconCollection Klasse
-Stellt eine Sammlung von [`ConditionalFormattingIcon`](/cells/python-net/de/aspose.cells/conditionalformattingicon)-Objekten dar.
+Stellt eine Sammlung von [`ConditionalFormattingIcon`](/cells/python-net/de/aspose.cells/conditionalformattingicon) Objekten dar.
 
 
 
@@ -23,16 +23,16 @@ Der Typ ConditionalFormattingIconCollection macht die folgenden Member verfügba
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [add](/cells/python-net/de/aspose.cells/conditionalformattingiconcollection/add/#aspose.cells.IconSetType-int) | Fügt das Objekt [`ConditionalFormattingIcon`](/cells/python-net/de/aspose.cells/conditionalformattingicon) hinzu.|
-| [add](/cells/python-net/de/aspose.cells/conditionalformattingiconcollection/add/#aspose.cells.ConditionalFormattingIcon) | Fügt das Objekt [`ConditionalFormattingIcon`](/cells/python-net/de/aspose.cells/conditionalformattingicon) hinzu.|
-| [copy_to](/cells/python-net/de/aspose.cells/conditionalformattingiconcollection/copy_to/#list) | Kopiert die gesamte Array-Liste in eine kompatible eindimensionale Array-Liste, beginnend am Anfang der Ziel-Array-Liste.|
-| [copy_to](/cells/python-net/de/aspose.cells/conditionalformattingiconcollection/copy_to/#int-list-int-int) | Kopiert einen Bereich von Elementen aus der Array-Liste in eine kompatible eindimensionale Array-Liste, beginnend am angegebenen Index der Ziel-Array-Liste.|
-| [index_of](/cells/python-net/de/aspose.cells/conditionalformattingiconcollection/index_of/#aspose.cells.ConditionalFormattingIcon-int) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des ersten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der vom angegebenen Index bis zum letzten Element reicht.|
-| [index_of](/cells/python-net/de/aspose.cells/conditionalformattingiconcollection/index_of/#aspose.cells.ConditionalFormattingIcon-int-int) |Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des ersten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der beim angegebenen Index beginnt und die angegebene Anzahl von Elementen enthält.|
-| [last_index_of](/cells/python-net/de/aspose.cells/conditionalformattingiconcollection/last_index_of/#aspose.cells.ConditionalFormattingIcon) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des letzten Vorkommens in der gesamten Array-Liste zurück.|
-| [last_index_of](/cells/python-net/de/aspose.cells/conditionalformattingiconcollection/last_index_of/#aspose.cells.ConditionalFormattingIcon-int) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des letzten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der vom ersten Element bis zum angegebenen Index reicht.|
-| [last_index_of](/cells/python-net/de/aspose.cells/conditionalformattingiconcollection/last_index_of/#aspose.cells.ConditionalFormattingIcon-int-int) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des letzten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der die angegebene Anzahl von Elementen enthält und beim angegebenen Index endet.|
-| [binary_search](/cells/python-net/de/aspose.cells/conditionalformattingiconcollection/binary_search/#aspose.cells.ConditionalFormattingIcon) | Durchsucht die gesamte sortierte Array-Liste mithilfe des Standardvergleichs nach einem Element und gibt den nullbasierten Index des Elements zurück.|
+| [`add(self, type, index)`](/cells/python-net/de/aspose.cells/conditionalformattingiconcollection/add/#aspose.cells.iconsettype-int) | Fügt das Objekt [`ConditionalFormattingIcon`](/cells/python-net/de/aspose.cells/conditionalformattingicon) hinzu.|
+| [`add(self, cficon)`](/cells/python-net/de/aspose.cells/conditionalformattingiconcollection/add/#aspose.cells.conditionalformattingicon) | Fügt das Objekt [`ConditionalFormattingIcon`](/cells/python-net/de/aspose.cells/conditionalformattingicon) hinzu.|
+| [`copy_to(self, array)`](/cells/python-net/de/aspose.cells/conditionalformattingiconcollection/copy_to/#list) |Kopiert die gesamte Array-Liste in eine kompatible eindimensionale Array-Liste, beginnend am Anfang der Ziel-Array-Liste.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/de/aspose.cells/conditionalformattingiconcollection/copy_to/#int-list-int-int) | Kopiert einen Bereich von Elementen aus der Array-Liste in eine kompatible eindimensionale Array-Liste, beginnend am angegebenen Index der Ziel-Array-Liste.|
+| [`index_of(self, item, index)`](/cells/python-net/de/aspose.cells/conditionalformattingiconcollection/index_of/#aspose.cells.conditionalformattingicon-int) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des ersten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der sich vom angegebenen Index bis zum letzten Element erstreckt.|
+| [`index_of(self, item, index, count)`](/cells/python-net/de/aspose.cells/conditionalformattingiconcollection/index_of/#aspose.cells.conditionalformattingicon-int-int) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des ersten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der am angegebenen Index beginnt und die angegebene Anzahl von Elementen enthält.|
+| [`last_index_of(self, item)`](/cells/python-net/de/aspose.cells/conditionalformattingiconcollection/last_index_of/#aspose.cells.conditionalformattingicon) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des letzten Vorkommens innerhalb der gesamten Arrayliste zurück.|
+| [`last_index_of(self, item, index)`](/cells/python-net/de/aspose.cells/conditionalformattingiconcollection/last_index_of/#aspose.cells.conditionalformattingicon-int) |Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des letzten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der sich vom ersten Element bis zum angegebenen Index erstreckt.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/de/aspose.cells/conditionalformattingiconcollection/last_index_of/#aspose.cells.conditionalformattingicon-int-int) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des letzten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der die angegebene Anzahl von Elementen enthält und am angegebenen Index endet.|
+| [`binary_search(self, item)`](/cells/python-net/de/aspose.cells/conditionalformattingiconcollection/binary_search/#aspose.cells.conditionalformattingicon) | Durchsucht die gesamte sortierte Array-Liste mithilfe des Standardvergleichers nach einem Element und gibt den nullbasierten Index des Elements zurück.|
 
 
 

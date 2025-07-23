@@ -18,5 +18,5 @@ def height(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [TickLabelItem](/cells/python-net/fr/aspose.cells.charts/ticklabelitem)
+* module [`aspose.cells.charts`](../../)
+* classe [`TickLabelItem`](/cells/python-net/fr/aspose.cells.charts/ticklabelitem)

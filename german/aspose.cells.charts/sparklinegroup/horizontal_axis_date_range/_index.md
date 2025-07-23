@@ -21,5 +21,5 @@ def horizontal_axis_date_range(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [SparklineGroup](/cells/python-net/de/aspose.cells.charts/sparklinegroup)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`SparklineGroup`](/cells/python-net/de/aspose.cells.charts/sparklinegroup)

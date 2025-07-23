@@ -3,13 +3,13 @@ title: shadow Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 930
+weight: 940
 url: /de/aspose.cells.drawing/spinner/shadow/
 is_root: false
 ---
 ##  shadow Eigentum
 
-Gibt an, ob die Form eine 3D-Schattierung aufweist.
+Gibt an, ob die Form eine 3D-Schattierung hat.
 ###  Definition:
 ```python
 @property

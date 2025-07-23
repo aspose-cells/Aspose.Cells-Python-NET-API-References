@@ -7,25 +7,30 @@ weight: 10
 url: /fr/aspose.cells/svgsaveoptions/__init__/
 is_root: false
 ---
-##  SvgSaveOptions() {#}
-Crée les options pour enregistrer le fichier svg.
+##  \_\_init\_\_(self){#}
+Crée les options d'enregistrement du fichier image.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
 
 
+###  Remarques
 
+Le type par défaut est Tiff.
 
-##  SvgSaveOptions(save_format) {#SaveFormat}
-Crée les options pour enregistrer le fichier svg.
+##  \_\_init\_\_(self, save_format){#aspose.cells.SaveFormat}
+
+Crée les options d'enregistrement du fichier image.
 
 
 
 ```python
+
 def __init__(self, save_format):
     ...
 ```
@@ -33,15 +38,10 @@ def __init__(self, save_format):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| save_format | [SaveFormat](/cells/python-net/fr/aspose.cells/saveformat) | Le format de fichier.<br/> Il doit être svg.|
-###  Remarques
+| save_format | [`SaveFormat`](/cells/python-net/fr/aspose.cells/saveformat) | Le format du fichier.<br/>Il doit s'agir de l'un des types suivants : [`SaveFormat.TIFF`](/cells/python-net/fr/aspose.cells/saveformat#TIFF), [`SaveFormat.SVG`](/cells/python-net/fr/aspose.cells/saveformat#SVG),<br/>[`SaveFormat.BMP`](/cells/python-net/aspose.cells/saveformat#BMP), [`SaveFormat.PNG`](/cells/python-net/aspose.cells/saveformat#PNG), [`SaveFormat.JPG`](/cells/python-net/aspose.cells/saveformat#JPG),<br/>[`SaveFormat.EMF`](/cells/python-net/fr/aspose.cells/saveformat#EMF) ou [`SaveFormat.GIF`](/cells/python-net/fr/aspose.cells/saveformat#GIF),<br/> sinon le format enregistré sera automatiquement défini sur [`SaveFormat.TIFF`](/cells/python-net/fr/aspose.cells/saveformat#TIFF).|
 
-REMARQUE : ce constructeur est désormais obsolète.
-À la place, veuillez utiliser le constructeur SvgSaveOptions().
- Cette propriété sera supprimée 12 mois plus tard depuis août 2022.
-Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [SvgSaveOptions](/cells/python-net/fr/aspose.cells/svgsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`SvgSaveOptions`](/cells/python-net/fr/aspose.cells/svgsaveoptions)

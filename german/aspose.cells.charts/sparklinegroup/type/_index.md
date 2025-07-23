@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [SparklineGroup](/cells/python-net/de/aspose.cells.charts/sparklinegroup)
-* Klasse [SparklineType](/cells/python-net/de/aspose.cells.charts/sparklinetype)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`SparklineGroup`](/cells/python-net/de/aspose.cells.charts/sparklinegroup)
+* Klasse [`SparklineType`](/cells/python-net/de/aspose.cells.charts/sparklinetype)

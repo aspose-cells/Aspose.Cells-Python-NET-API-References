@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_collapsed Eigentum
 
-ob die Spalte zugeklappt ist
+ob die Spalte reduziert ist
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_collapsed(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Column](/cells/python-net/de/aspose.cells/column)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Column`](/cells/python-net/de/aspose.cells/column)

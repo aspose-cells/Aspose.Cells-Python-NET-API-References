@@ -3,7 +3,7 @@ title: CountryCode Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1960
+weight: 1870
 url: /de/aspose.cells/countrycode/
 is_root: false
 ---
@@ -32,9 +32,9 @@ Der Typ CountryCode macht die folgenden Member verfügbar:
 | ITALY | Italien|
 | SWITZERLAND | Schweiz|
 | AUSTRIA | Österreich|
-| UNITED_KINGDOM | Großbritannien|
+| UNITED_KINGDOM | Vereinigtes Königreich|
 | DENMARK | Dänemark|
-| SWEDEN | Schweden|
+| SWEDEN |Schweden|
 | NORWAY | Norwegen|
 | POLAND | Polen|
 | GERMANY | Deutschland|
@@ -51,11 +51,11 @@ Der Typ CountryCode macht die folgenden Member verfügbar:
 | INDIA | Indien|
 | ALGERIA | Algerien|
 | MOROCCO | Marokko|
-| LIBYA |Libyen|
+| LIBYA | Libyen|
 | PORTUGAL | Portugal|
 | ICELAND | Island|
 | FINLAND | Finnland|
-| CZECH | Tschechien|
+| CZECH | Tschechische Republik|
 | TAIWAN | Taiwan|
 | LEBANON | Libanon|
 | JORDAN | Jordanien|

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  center_y_px Eigentum
 
-Ruft die y-Koordinate der linken unteren Ecke der Wandmitte in Pixeleinheiten ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.
+Ruft die Y-Koordinate der linken unteren Ecke der Wandmitte in Pixeleinheiten ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def center_y_px(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Walls](/cells/python-net/de/aspose.cells.charts/walls)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Walls`](/cells/python-net/de/aspose.cells.charts/walls)

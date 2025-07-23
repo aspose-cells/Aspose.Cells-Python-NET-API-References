@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  alter_references Eigentum
 
-Ruft eine Liste mit Änderungsreferenzen ab.
+Ruft eine Liste mit Änderungsverweisen ab.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def alter_references(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.webextensions](../../)
-* Klasse [WebExtension](/cells/python-net/de/aspose.cells.webextensions/webextension)
-* Klasse [WebExtensionReferenceCollection](/cells/python-net/de/aspose.cells.webextensions/webextensionreferencecollection)
+* Modul [`aspose.cells.webextensions`](../../)
+* Klasse [`WebExtension`](/cells/python-net/de/aspose.cells.webextensions/webextension)
+* Klasse [`WebExtensionReferenceCollection`](/cells/python-net/de/aspose.cells.webextensions/webextensionreferencecollection)

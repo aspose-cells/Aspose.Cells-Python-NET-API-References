@@ -3,13 +3,13 @@ title: display_name propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 270
+weight: 350
 url: /fr/aspose.cells.pivot/pivotfield/display_name/
 is_root: false
 ---
 ##  display_name propriété
 
-Représente le nom complet de PivotField.
+Représente le nom d’affichage du champ croisé dynamique.
 ###  Définition:
 ```python
 @property

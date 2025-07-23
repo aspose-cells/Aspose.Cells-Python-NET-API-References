@@ -3,7 +3,7 @@ title: text Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 320
+weight: 380
 url: /de/aspose.cells.charts/title/text/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Title](/cells/python-net/de/aspose.cells.charts/title)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Title`](/cells/python-net/de/aspose.cells.charts/title)

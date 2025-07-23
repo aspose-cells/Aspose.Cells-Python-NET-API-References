@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  marker_style Eigentum
 
-Stellt den Markierungsstil dar. Gilt für Liniendiagramme, Streudiagramme oder Netzdiagramme.
+Stellt den Markierungsstil dar. Gilt für Liniendiagramme, Streudiagramme und Netzdiagramme.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def marker_style(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ChartMarkerType](/cells/python-net/de/aspose.cells.charts/chartmarkertype)
-* Klasse [Marker](/cells/python-net/de/aspose.cells.charts/marker)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ChartMarkerType`](/cells/python-net/de/aspose.cells.charts/chartmarkertype)
+* Klasse [`Marker`](/cells/python-net/de/aspose.cells.charts/marker)

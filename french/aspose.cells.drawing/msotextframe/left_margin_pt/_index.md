@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  left_margin_pt propriété
 
-Renvoie la marge de gauche en unité de Points
+Renvoie la marge gauche en unités de points
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def left_margin_pt(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [MsoTextFrame](/cells/python-net/fr/aspose.cells.drawing/msotextframe)
+* module [`aspose.cells.drawing`](../../)
+* classe [`MsoTextFrame`](/cells/python-net/fr/aspose.cells.drawing/msotextframe)

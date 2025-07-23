@@ -1,5 +1,5 @@
 ---
-title: set_image_resample méthode
+title: méthode set_image_resample
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,14 +7,15 @@ weight: 20
 url: /fr/aspose.cells/pdfsaveoptions/set_image_resample/
 is_root: false
 ---
-##  set_image_resample(desired_ppi, jpeg_quality) {#int-int}
- Définit le PPI souhaité (pixels par pouce) des images de rééchantillonnage et la qualité jpeg.
+##  set_image_resample(self, desired_ppi, jpeg_quality) {#int-int}
+ Définit le PPI (pixels par pouce) souhaité des images de rééchantillonnage et la qualité jpeg.
  Toutes les images seront converties en JPEG avec le paramètre de qualité spécifié,
-et les images supérieures au PPI spécifié (pixels par pouce) seront rééchantillonnées.
+et les images supérieures au PPI (pixels par pouce) spécifié seront rééchantillonnées.
 
 
 
 ```python
+
 def set_image_resample(self, desired_ppi, jpeg_quality):
     ...
 ```
@@ -22,12 +23,12 @@ def set_image_resample(self, desired_ppi, jpeg_quality):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| desired_ppi | int | Pixels par pouce souhaités. 220 de haute qualité. 150 qualité d'écran. 96 qualité des e-mails.|
+| desired_ppi | int | Pixels souhaités par pouce. 220 haute qualité. 150 qualité d'écran. 96 qualité de courrier électronique.|
 | jpeg_quality | int | 0 - 100% JPEG qualité.|
 
 ###  Exemple
 
-Le code suivant définit le PPI souhaité sur 96 et la qualité jpeg sur 80 pour les images dans le pdf de sortie.
+Le code suivant définit le PPI souhaité sur 96 et la qualité jpeg sur 80 pour les images dans le PDF de sortie.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook
@@ -44,5 +45,5 @@ wb.save("output.pdf", pdfSaveOptions)
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PdfSaveOptions](/cells/python-net/fr/aspose.cells/pdfsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`PdfSaveOptions`](/cells/python-net/fr/aspose.cells/pdfsaveoptions)

@@ -7,8 +7,8 @@ weight: 80
 url: /de/aspose.cells/validation/get_value/
 is_root: false
 ---
-##  get_value {#int-int-bool}
-Rufen Sie den Wert der Validierung für die spezifische Zelle ab.
+##  get_value(self, row, column, is_value1) {#int-int-bool}
+Rufen Sie den Validierungswert für die jeweilige Zelle ab.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Rufen Sie den Wert der Validierung für die spezifische Zelle ab.
 
 
 ```python
+
 def get_value(self, row, column, is_value1):
     ...
 ```
@@ -26,7 +27,7 @@ def get_value(self, row, column, is_value1):
 | :- | :- | :- |
 | row | int | Der Zeilenindex.|
 | column | int | Der Spaltenindex.|
-| is_value1 | bool |Gibt an, ob der erste Wert abgerufen wird.|
+| is_value1 | bool | Gibt an, ob der erste Wert abgerufen wird.|
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: get méthode
+title: méthode get
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 60
 url: /fr/aspose.cells/namecollection/get/
 is_root: false
 ---
-##  get(index) {#int}
-Ajouter API for Python Via .Net.car cet [int index] n'est pas pris en charge
+##  get(self, index) {#int}
+Ajoutez API for Python via .Net. puisque cet [index int] n'est pas pris en charge
 
 
 ###  Retour
@@ -17,6 +17,7 @@ Ajouter API for Python Via .Net.car cet [int index] n'est pas pris en charge
 
 
 ```python
+
 def get(self, index):
     ...
 ```
@@ -24,11 +25,11 @@ def get(self, index):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| index | int | Index de base zéro de l'élément.|
+| index | int | L'indice de base zéro de l'élément.|
 
 
-##  get(text) {#str}
-Ajouter API for Python Via .Net.car ce [texte de chaîne] n'est pas pris en charge
+##  get(self, text) {#str}
+Ajoutez API for Python via .Net. puisque cette [chaîne de texte] n'est pas prise en charge
 
 
 ###  Retour
@@ -37,6 +38,7 @@ Ajouter API for Python Via .Net.car ce [texte de chaîne] n'est pas pris en char
 
 
 ```python
+
 def get(self, text):
     ...
 ```
@@ -49,5 +51,5 @@ def get(self, text):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [NameCollection](/cells/python-net/fr/aspose.cells/namecollection)
+* module [`aspose.cells`](../../)
+* classe [`NameCollection`](/cells/python-net/fr/aspose.cells/namecollection)

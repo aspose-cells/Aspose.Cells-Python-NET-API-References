@@ -10,7 +10,7 @@ is_root: false
 ##  has_up_down_bars propriété
 
 Vrai si un graphique linéaire comporte des barres montantes et descendantes.
-S'applique uniquement aux graphiques en courbes.
+S'applique uniquement aux graphiques linéaires.
 ###  Définition:
 ```python
 @property

@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells/workbook/__init__/
 is_root: false
 ---
-##  Workbook() {#}
-Initialise une nouvelle instance de la classe [Workbook](/cells/python-net/fr/aspose.cells/workbook).
+##  \_\_init\_\_(self){#}
+Initialise une nouvelle instance de la classe [`Workbook`](/cells/python-net/fr/aspose.cells/workbook).
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,7 +21,7 @@ def __init__(self):
 
 ###  Remarques
 
-Le type de format de fichier par défaut est Xlsx. Pour créer un autre type de fichier de format, veuillez utiliser Workbook(FileFormatType).
+Le format de fichier par défaut est XLSX. Pour créer d'autres types de fichiers, veuillez utiliser Workbook(FileFormatType).
 ###  Exemple
 
 
@@ -34,12 +35,13 @@ workbook = Workbook()
 ```
 
 
-##  Workbook(file_format_type) {#FileFormatType}
-Initialise une nouvelle instance de la classe [Workbook](/cells/python-net/fr/aspose.cells/workbook).
+##  \_\_init\_\_(self, type_de_format_de_fichier){#aspose.cells.FileFormatType}
+Initialise une nouvelle instance de la classe [`Workbook`](/cells/python-net/fr/aspose.cells/workbook).
 
 
 
 ```python
+
 def __init__(self, file_format_type):
     ...
 ```
@@ -47,14 +49,14 @@ def __init__(self, file_format_type):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| file_format_type | [FileFormatType](/cells/python-net/fr/aspose.cells/fileformattype) | Le nouveau format de fichier.|
+| file_format_type | [`FileFormatType`](/cells/python-net/fr/aspose.cells/fileformattype) | Le nouveau format de fichier.|
 ###  Remarques
 
 Le type de format de fichier par défaut est Excel97To2003.
 ###  Exemple
 
 
-Le code suivant montre comment utiliser le constructeur Workbook pour créer et initialiser une nouvelle instance de la classe.
+Le code suivant montre comment utiliser le constructeur Workbook pour créer et initialiser une nouvelle instance de la classe avec différents types de formats de fichiers.
 
 ```python
 from aspose.cells import FileFormatType, Workbook
@@ -64,12 +66,13 @@ workbook = Workbook(FileFormatType.XLSX)
 ```
 
 
-##  Workbook(file) {#str}
-Initialise une nouvelle instance de la classe [Workbook](/cells/python-net/fr/aspose.cells/workbook) et ouvre un fichier.
+##  \_\_init\_\_(self, fichier){#str}
+Initialise une nouvelle instance de la classe [`Workbook`](/cells/python-net/fr/aspose.cells/workbook) et ouvre un fichier.
 
 
 
 ```python
+
 def __init__(self, file):
     ...
 ```
@@ -80,12 +83,13 @@ def __init__(self, file):
 | file | str | Le nom du fichier.|
 
 
-##  Workbook(stream) {#io.RawIOBase}
-Initialise une nouvelle instance de la classe [Workbook](/cells/python-net/fr/aspose.cells/workbook) et ouvre un flux.
+##  \_\_init\_\_(self, flux){#io.RawIOBase}
+Initialise une nouvelle instance de la classe [`Workbook`](/cells/python-net/fr/aspose.cells/workbook) et ouvre un flux.
 
 
 
 ```python
+
 def __init__(self, stream):
     ...
 ```
@@ -93,15 +97,16 @@ def __init__(self, stream):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| stream | io.RawIOBase | Le flux.|
+| stream | io.RawIOBase | Le ruisseau.|
 
 
-##  Workbook(file, load_options) {#str-LoadOptions}
-Initialise une nouvelle instance de la classe [Workbook](/cells/python-net/fr/aspose.cells/workbook) et ouvre un fichier.
+##  \_\_init\_\_(self, fichier, options_de_chargement){#str-aspose.cells.LoadOptions}
+Initialise une nouvelle instance de la classe [`Workbook`](/cells/python-net/fr/aspose.cells/workbook) et ouvre un fichier.
 
 
 
 ```python
+
 def __init__(self, file, load_options):
     ...
 ```
@@ -110,15 +115,16 @@ def __init__(self, file, load_options):
 | Paramètre| Taper| Description|
 | :- | :- | :- |
 | file | str | Le nom du fichier.|
-| load_options | [LoadOptions](/cells/python-net/fr/aspose.cells/loadoptions) | Les options de charge|
+| load_options | [`LoadOptions`](/cells/python-net/fr/aspose.cells/loadoptions) | Les options de chargement|
 
 
-##  Workbook(stream, load_options) {#io.RawIOBase-LoadOptions}
-Initialise une nouvelle instance de la classe [Workbook](/cells/python-net/fr/aspose.cells/workbook) et du flux ouvert.
+##  \_\_init\_\_(self, flux, options_de_chargement){#io.RawIOBase-aspose.cells.LoadOptions}
+Initialise une nouvelle instance de la classe [`Workbook`](/cells/python-net/fr/aspose.cells/workbook) et ouvre le flux.
 
 
 
 ```python
+
 def __init__(self, stream, load_options):
     ...
 ```
@@ -126,11 +132,11 @@ def __init__(self, stream, load_options):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| stream | io.RawIOBase | Le flux.|
-| load_options | [LoadOptions](/cells/python-net/fr/aspose.cells/loadoptions) | Les options de charge|
+| stream | io.RawIOBase | Le ruisseau.|
+| load_options | [`LoadOptions`](/cells/python-net/fr/aspose.cells/loadoptions) | Les options de chargement|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Workbook](/cells/python-net/fr/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* classe [`Workbook`](/cells/python-net/fr/aspose.cells/workbook)

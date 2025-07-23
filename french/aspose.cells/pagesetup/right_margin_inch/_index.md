@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  right_margin_inch propriété
 
-Représente la taille de la marge de droite, en pouces.
+Représente la taille de la marge droite, en pouces.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def right_margin_inch(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/fr/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/fr/aspose.cells/pagesetup)

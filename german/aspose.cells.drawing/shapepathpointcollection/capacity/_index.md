@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ShapePathPointCollection](/cells/python-net/de/aspose.cells.drawing/shapepathpointcollection)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ShapePathPointCollection`](/cells/python-net/de/aspose.cells.drawing/shapepathpointcollection)

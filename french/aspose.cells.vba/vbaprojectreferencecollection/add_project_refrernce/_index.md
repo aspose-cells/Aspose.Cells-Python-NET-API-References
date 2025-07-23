@@ -1,5 +1,5 @@
 ---
-title: add_project_refrernce méthode
+title: méthode add_project_refrernce
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 30
 url: /fr/aspose.cells.vba/vbaprojectreferencecollection/add_project_refrernce/
 is_root: false
 ---
-##  add_project_refrernce(name, absolute_libid, relative_libid) {#str-str-str}
+##  add_project_refrernce(self, name, absolute_libid, relative_libid) {#str-str-str}
 Ajoute une référence à un projet VBA externe.
 
 
@@ -17,6 +17,7 @@ Ajoute une référence à un projet VBA externe.
 
 
 ```python
+
 def add_project_refrernce(self, name, absolute_libid, relative_libid):
     ...
 ```
@@ -31,5 +32,5 @@ def add_project_refrernce(self, name, absolute_libid, relative_libid):
 
 
 ###  Voir également
-* module [aspose.cells.vba](../../)
-* classe [VbaProjectReferenceCollection](/cells/python-net/fr/aspose.cells.vba/vbaprojectreferencecollection)
+* module [`aspose.cells.vba`](../../)
+* classe [`VbaProjectReferenceCollection`](/cells/python-net/fr/aspose.cells.vba/vbaprojectreferencecollection)

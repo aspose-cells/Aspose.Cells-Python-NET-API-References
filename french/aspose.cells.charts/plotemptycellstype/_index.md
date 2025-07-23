@@ -1,5 +1,5 @@
 ---
-title: PlotEmptyCellsType dénombrement
+title: PlotEmptyCellsType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 590
 url: /fr/aspose.cells.charts/plotemptycellstype/
 is_root: false
 ---
-##  PlotEmptyCellsType dénombrement
-Représente tous les types de cellules vides d'un graphique.
+##  PlotEmptyCellsType énumération
+Représente tous les types de cellules vides de tracé d'un graphique.
 
 
 
@@ -24,4 +24,4 @@ Le type PlotEmptyCellsType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.charts](..)
+* module [`aspose.cells.charts`](..)

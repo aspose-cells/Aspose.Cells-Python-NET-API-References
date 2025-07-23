@@ -3,7 +3,7 @@ title: has_revisions propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 590
+weight: 630
 url: /fr/aspose.cells/workbook/has_revisions/
 is_root: false
 ---

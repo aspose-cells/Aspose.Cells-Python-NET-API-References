@@ -3,21 +3,22 @@ title: get_rich_formattings Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 140
+weight: 150
 url: /de/aspose.cells.drawing/commentshape/get_rich_formattings/
 is_root: false
 ---
-##  get_rich_formattings {#}
+##  get_rich_formattings(self) {#}
  Gibt alle Characters-Objekte zurück
-das eine Reihe von Zeichen im Text darstellt.
+das einen Zeichenbereich innerhalb des Textes darstellt.
 
 
 ###  Kehrt zurück
 
-Alle Characters-Objekte
+Alle Charaktere-Objekte
 
 
 ```python
+
 def get_rich_formattings(self):
     ...
 ```

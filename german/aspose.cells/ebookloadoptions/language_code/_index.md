@@ -3,13 +3,13 @@ title: language_code Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 230
+weight: 220
 url: /de/aspose.cells/ebookloadoptions/language_code/
 is_root: false
 ---
 ##  language_code Eigentum
 
-Ruft die Benutzeroberflächensprache der Arbeitsmappenversion basierend auf dem CountryCode ab, der die Datei gespeichert hat, oder legt diese fest.
+Ruft die Benutzeroberflächensprache der Arbeitsmappenversion basierend auf dem Ländercode ab, in dem die Datei gespeichert wurde, oder legt diese fest.
 ###  Definition:
 ```python
 @property

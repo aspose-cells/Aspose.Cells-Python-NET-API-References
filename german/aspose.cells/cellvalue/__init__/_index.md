@@ -7,12 +7,13 @@ weight: 10
 url: /de/aspose.cells/cellvalue/__init__/
 is_root: false
 ---
-##  __drin__ {#}
+##  \_\_init\_\_(selbst){#}
 Erstellt eine neue Instanz von CellValue
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

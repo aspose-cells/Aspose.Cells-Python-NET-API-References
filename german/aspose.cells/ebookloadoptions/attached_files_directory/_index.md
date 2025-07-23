@@ -13,10 +13,10 @@ Das Verzeichnis, in dem die angehängten Dateien gespeichert werden.
 
 ###  Bemerkungen
 
- HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
+ HINWEIS: Dieses Mitglied ist mittlerweile veraltet. Stattdessen
 Bitte verwenden Sie die Eigenschaft HtmlLoadOptions.StreamProvider.
- Diese Eigenschaft wird seit Dezember 2014 12 Monate später entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+ Diese Eigenschaft wird 12 Monate später (ab Dezember 2014) entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 ###  Definition:
 ```python
 @property

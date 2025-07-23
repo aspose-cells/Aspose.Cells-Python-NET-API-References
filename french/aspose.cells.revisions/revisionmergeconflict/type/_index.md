@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.revisions](../../)
-* classe [RevisionMergeConflict](/cells/python-net/fr/aspose.cells.revisions/revisionmergeconflict)
-* classe [RevisionType](/cells/python-net/fr/aspose.cells.revisions/revisiontype)
+* module [`aspose.cells.revisions`](../../)
+* classe [`RevisionMergeConflict`](/cells/python-net/fr/aspose.cells.revisions/revisionmergeconflict)
+* classe [`RevisionType`](/cells/python-net/fr/aspose.cells.revisions/revisiontype)

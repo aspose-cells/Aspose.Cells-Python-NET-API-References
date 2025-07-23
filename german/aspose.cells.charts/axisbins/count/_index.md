@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  count Eigentum
 
-Ruft die count der Achsen-Bins ab oder legt sie fest
+Ruft den count der Achsenbehälter ab oder legt ihn fest
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def count(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [AxisBins](/cells/python-net/de/aspose.cells.charts/axisbins)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`AxisBins`](/cells/python-net/de/aspose.cells.charts/axisbins)

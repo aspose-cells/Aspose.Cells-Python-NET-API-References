@@ -3,7 +3,7 @@ title: number_of_columns propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 80
+weight: 90
 url: /fr/aspose.cells.drawing.texts/shapetextalignment/number_of_columns/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def number_of_columns(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [ShapeTextAlignment](/cells/python-net/fr/aspose.cells.drawing.texts/shapetextalignment)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`ShapeTextAlignment`](/cells/python-net/fr/aspose.cells.drawing.texts/shapetextalignment)

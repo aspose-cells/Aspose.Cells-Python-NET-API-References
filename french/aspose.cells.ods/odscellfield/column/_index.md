@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column propriété
 
-Obtient et définit l'index column de la cellule.
+Obtenir et définir l'index column de la cellule.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def column(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.ods](../../)
-* classe [OdsCellField](/cells/python-net/fr/aspose.cells.ods/odscellfield)
+* module [`aspose.cells.ods`](../../)
+* classe [`OdsCellField`](/cells/python-net/fr/aspose.cells.ods/odscellfield)

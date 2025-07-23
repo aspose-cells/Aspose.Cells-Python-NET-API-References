@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  x_values Eigentum
 
-Repräsentiert die x-Werte der Diagrammreihe.
+Stellt die x-Werte der Diagrammreihe dar.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def x_values(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Series](/cells/python-net/de/aspose.cells.charts/series)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Series`](/cells/python-net/de/aspose.cells.charts/series)

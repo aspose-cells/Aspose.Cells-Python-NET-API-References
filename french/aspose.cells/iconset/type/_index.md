@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  type propriété
 
-Obtenez ou définissez le jeu d'icônes type à afficher.
+Obtenez ou définissez l'ensemble d'icônes type à afficher.
 Le réglage du type vérifiera automatiquement si le nombre actuel de Cfvos est
- accord avec le nouveau type. Sinon, les anciens Cfvo seront nettoyés et
+ conforme au nouveau type. Si ce n'est pas le cas, les anciens Cfvo seront nettoyés et
 les Cfvos par défaut seront ajoutés.
 ###  Définition:
 ```python
@@ -24,6 +24,6 @@ def type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [IconSet](/cells/python-net/fr/aspose.cells/iconset)
-* classe [IconSetType](/cells/python-net/fr/aspose.cells/iconsettype)
+* module [`aspose.cells`](../../)
+* classe [`IconSet`](/cells/python-net/fr/aspose.cells/iconset)
+* classe [`IconSetType`](/cells/python-net/fr/aspose.cells/iconsettype)

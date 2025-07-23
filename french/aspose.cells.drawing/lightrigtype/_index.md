@@ -1,13 +1,13 @@
 ---
-title: LightRigType dénombrement
+title: LightRigType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 920
+weight: 910
 url: /fr/aspose.cells.drawing/lightrigtype/
 is_root: false
 ---
-##  LightRigType dénombrement
+##  LightRigType énumération
 Représente un droit de lumière prédéfini qui peut être appliqué à une forme
 
 
@@ -20,10 +20,10 @@ Le type LightRigType expose les membres suivants :
 | BALANCED | Équilibré|
 | BRIGHT_ROOM | Chambre lumineuse|
 | CHILLY | Froid|
-| CONTRASTING | Contrastant|
+| CONTRASTING | Contraste|
 | FLAT | Plat|
 | FLOOD | Inondation|
-| FREEZING | Gelé|
+| FREEZING | Gel|
 | GLOW | Briller|
 | HARSH | Rude|
 | LEGACY_FLAT1 | LegacyFlat1|
@@ -44,9 +44,9 @@ Le type LightRigType expose les membres suivants :
 | SUNSET | Coucher de soleil|
 | THREE_POINT | Trois points|
 | TWO_POINT | Deux points|
-| NONE | Pas de gréement léger.|
+| NONE | Pas de dispositif d'éclairage.|
 
 
 
 ###  Voir également
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

@@ -3,13 +3,13 @@ title: x Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1290
+weight: 1300
 url: /de/aspose.cells.drawing/arcshape/x/
 is_root: false
 ---
 ##  x Eigentum
 
-Ruft den horizontalen Versatz der Form vom linken Rand des Arbeitsblatts in Pixeleinheiten ab und legt diesen fest.
+Ruft den horizontalen Versatz der Form vom linken Rand des Arbeitsblatts in Pixeln ab und legt ihn fest.
 
 ###  Beispiel
 

@@ -25,5 +25,5 @@ def indent(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.utility](../../)
-* classe [ExportRangeToJsonOptions](/cells/python-net/fr/aspose.cells.utility/exportrangetojsonoptions)
+* module [`aspose.cells.utility`](../../)
+* classe [`ExportRangeToJsonOptions`](/cells/python-net/fr/aspose.cells.utility/exportrangetojsonoptions)

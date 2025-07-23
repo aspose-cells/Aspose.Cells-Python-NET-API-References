@@ -3,7 +3,7 @@ title: is_flipped_horizontally propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 570
+weight: 580
 url: /fr/aspose.cells.drawing/checkbox/is_flipped_horizontally/
 is_root: false
 ---

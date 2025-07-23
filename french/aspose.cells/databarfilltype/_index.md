@@ -3,7 +3,7 @@ title: DataBarFillType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1990
+weight: 1900
 url: /fr/aspose.cells/databarfilltype/
 is_root: false
 ---
@@ -18,7 +18,7 @@ Le type DataBarFillType expose les membres suivants :
 | Champ| Description|
 | :- | :- |
 | SOLID | La barre de données est remplie de couleur unie.|
-| GRADIENT | La barre de données est remplie d'un dégradé de couleurs.|
+| GRADIENT | La barre de données est remplie d’un dégradé de couleurs.|
 
 
 

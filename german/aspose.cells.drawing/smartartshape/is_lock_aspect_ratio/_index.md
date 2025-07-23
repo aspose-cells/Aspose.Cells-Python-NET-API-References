@@ -3,13 +3,20 @@ title: is_lock_aspect_ratio Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 600
+weight: 610
 url: /de/aspose.cells.drawing/smartartshape/is_lock_aspect_ratio/
 is_root: false
 ---
 ##  is_lock_aspect_ratio Eigentum
 
-„True“ bedeutet, dass keine Änderungen im Seitenverhältnis zulässig sind.
+„True“ bedeutet, dass das Seitenverhältnis der Form gesperrt ist.
+
+###  Bemerkungen
+
+Nur für Bilder und Ole-Objekte.
+ HINWEIS: Dieses Element ist mittlerweile veraltet. Verwenden Sie stattdessen die Eigenschaft Shape.IsAspectRatioLocked.
+ Diese Eigenschaft wird 12 Monate später ab Juli 2024 entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 
 ###  Beispiel
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  weight Eigentum
 
-Gibt die weight der Zeile in Einheiten von pt zurück oder setzt sie.
+Gibt den weight der Zeile in pt-Einheiten zurück oder legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def weight(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [MsoLineFormatHelper](/cells/python-net/de/aspose.cells.drawing/msolineformathelper)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`MsoLineFormatHelper`](/cells/python-net/de/aspose.cells.drawing/msolineformathelper)

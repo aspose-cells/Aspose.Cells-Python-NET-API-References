@@ -18,5 +18,5 @@ def y(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [TickLabelItem](/cells/python-net/de/aspose.cells.charts/ticklabelitem)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`TickLabelItem`](/cells/python-net/de/aspose.cells.charts/ticklabelitem)

@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  calculate_formula propriété
 
-Indique s'il faut calculer les formules avant d'enregistrer le fichier pdf.
+Indique s'il faut calculer les formules avant d'enregistrer le fichier PDF.
 
 ###  Remarques
 
-La valeur par défaut est faux.
+La valeur par défaut est false.
 ###  Définition:
 ```python
 @property
@@ -25,5 +25,5 @@ def calculate_formula(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PdfSaveOptions](/cells/python-net/fr/aspose.cells/pdfsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`PdfSaveOptions`](/cells/python-net/fr/aspose.cells/pdfsaveoptions)

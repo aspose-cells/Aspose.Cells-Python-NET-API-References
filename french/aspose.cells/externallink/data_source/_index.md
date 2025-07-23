@@ -21,5 +21,5 @@ def data_source(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ExternalLink](/cells/python-net/fr/aspose.cells/externallink)
+* module [`aspose.cells`](../../)
+* classe [`ExternalLink`](/cells/python-net/fr/aspose.cells/externallink)

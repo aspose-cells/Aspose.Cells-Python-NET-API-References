@@ -3,14 +3,14 @@ title: display_unit_label propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 160
+weight: 170
 url: /fr/aspose.cells.charts/axis/display_unit_label/
 is_root: false
 ---
 ##  display_unit_label propriété
 
- Représente une étiquette d’unité sur un axe dans le graphique spécifié.
-Les étiquettes d’unités sont utiles pour représenter des valeurs importantes, par exemple en millions ou en milliards.
+ Représente une étiquette d'unité sur un axe dans le graphique spécifié.
+Les étiquettes d’unités sont utiles pour représenter graphiquement de grandes valeurs, par exemple en millions ou en milliards.
 ###  Définition:
 ```python
 @property

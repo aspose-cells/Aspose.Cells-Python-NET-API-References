@@ -3,13 +3,13 @@ title: is_link Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 720
+weight: 730
 url: /de/aspose.cells.drawing/oleobject/is_link/
 is_root: false
 ---
 ##  is_link Eigentum
 
-Gibt true zurück, wenn das OleObject mit der Datei verknüpft ist.
+Gibt „true“ zurück, wenn das OleObject mit der Datei verknüpft ist.
 ###  Definition:
 ```python
 @property

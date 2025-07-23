@@ -3,13 +3,13 @@ title: is_text_wrapped propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 260
+weight: 320
 url: /fr/aspose.cells.charts/legend/is_text_wrapped/
 is_root: false
 ---
 ##  is_text_wrapped propriété
 
-Obtient ou définit une valeur indiquant si le texte est renvoyé à la ligne.
+Obtient ou définit une valeur indiquant si le texte est enveloppé.
 ###  Définition:
 ```python
 @property

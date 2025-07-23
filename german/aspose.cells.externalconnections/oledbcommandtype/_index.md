@@ -18,13 +18,14 @@ Der Typ OLEDBCommandType macht die folgenden Member verfügbar:
 | Feld| Beschreibung|
 | :- | :- |
 | NONE | Der Befehlstyp ist nicht angegeben.|
-| CUBE_NAME | Gibt einen Cube-Namen an|
+| CUBE_NAME | Gibt einen Würfelnamen an|
 | SQL_STATEMENT | Gibt eine SQL-Anweisung an|
 | TABLE_NAME | Gibt einen Tabellennamen an|
-| DEFAULT_INFORMATION | Gibt an, dass Standardinformationen angegeben wurden und es dem Anbieter überlassen ist, wie er interpretiert wird.|
-| WEB_BASED_LIST |Gibt eine Abfrage für einen webbasierten Listendatenanbieter an.|
+| DEFAULT_INFORMATION | Gibt an, dass Standardinformationen angegeben wurden und die Interpretation dem Anbieter überlassen bleibt.|
+| WEB_BASED_LIST | Gibt eine Abfrage an, die sich auf einen webbasierten Listendatenanbieter bezieht.|
+| TABLE_COLLECTION | Gibt die Tabellenliste an.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.externalconnections](..)
+* Modul [`aspose.cells.externalconnections`](..)

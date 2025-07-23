@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  provider_id propriété
 
-Obtient et définit l'ID du fournisseur de signature.
+Obtient ou définit l'ID du fournisseur de signature.
 
 ###  Remarques
 
@@ -23,7 +23,7 @@ from uuid import uuid4
 
 #  Create signature line object
 s2 = SignatureLine()
-s2.provider_id = uuid4()
+s2.provider_id = uuid4("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx")
 
 ```
 ###  Définition:
@@ -37,5 +37,5 @@ def provider_id(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [SignatureLine](/cells/python-net/fr/aspose.cells.drawing/signatureline)
+* module [`aspose.cells.drawing`](../../)
+* classe [`SignatureLine`](/cells/python-net/fr/aspose.cells.drawing/signatureline)

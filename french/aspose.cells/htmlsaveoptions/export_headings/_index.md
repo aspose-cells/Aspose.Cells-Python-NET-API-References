@@ -3,20 +3,20 @@ title: export_headings propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 270
+weight: 340
 url: /fr/aspose.cells/htmlsaveoptions/export_headings/
 is_root: false
 ---
 ##  export_headings propriété
 
-Indique si les en-têtes de lignes et de colonnes de la feuille sont exportés lors de l'enregistrement dans des fichiers HTML.
+Indique si les en-têtes de ligne et de colonne de la feuille sont exportés lors de l'enregistrement dans des fichiers HTML.
 
 ###  Remarques
 
- REMARQUE : ce membre est désormais obsolète. Plutôt,
+ REMARQUE : Ce membre est désormais obsolète. À la place,
 veuillez utiliser la propriété HtmlSaveOptions.ExportRowColumnHeadings.
- Ce bien sera supprimé 12 mois plus tard depuis juin 2022.
-Le Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ Cette propriété sera supprimée 12 mois plus tard soit juin 2022.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 ###  Définition:
 ```python
 @property

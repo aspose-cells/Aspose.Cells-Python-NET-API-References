@@ -21,5 +21,5 @@ def argb(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CellsColor](/cells/python-net/de/aspose.cells/cellscolor)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CellsColor`](/cells/python-net/de/aspose.cells/cellscolor)

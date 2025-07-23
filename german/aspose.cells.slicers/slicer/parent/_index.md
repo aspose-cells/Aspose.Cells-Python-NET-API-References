@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  parent Eigentum
 
-Gibt das Worksheet-Objekt zurück, das das Blatt darstellt, das den Slicer enthält. Schreibgeschützt.
+Gibt das Objekt [`Worksheet`](/cells/python-net/de/aspose.cells/worksheet) zurück, das diesen Slicer enthält. Schreibgeschützt.
 
 ###  Beispiel
 
@@ -26,6 +26,6 @@ def parent(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.slicers](../../)
-* Klasse [Slicer](/cells/python-net/de/aspose.cells.slicers/slicer)
-* Klasse [Worksheet](/cells/python-net/de/aspose.cells/worksheet)
+* Modul [`aspose.cells.slicers`](../../)
+* Klasse [`Slicer`](/cells/python-net/de/aspose.cells.slicers/slicer)
+* Klasse [`Worksheet`](/cells/python-net/de/aspose.cells/worksheet)

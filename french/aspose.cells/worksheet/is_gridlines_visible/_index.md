@@ -3,13 +3,13 @@ title: is_gridlines_visible propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 560
+weight: 590
 url: /fr/aspose.cells/worksheet/is_gridlines_visible/
 is_root: false
 ---
 ##  is_gridlines_visible propriété
 
-Obtient ou définit une valeur indiquant si le quadrillage est visible. La valeur par défaut est true.
+Obtient ou définit une valeur indiquant si les lignes de la grille sont visibles. La valeur par défaut est true.
 ###  Définition:
 ```python
 @property

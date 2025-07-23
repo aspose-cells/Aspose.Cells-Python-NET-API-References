@@ -21,5 +21,5 @@ def is_locked(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Scenario](/cells/python-net/de/aspose.cells/scenario)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Scenario`](/cells/python-net/de/aspose.cells/scenario)

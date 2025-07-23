@@ -7,12 +7,13 @@ weight: 100
 url: /fr/aspose.cells/validation/remove_area/
 is_root: false
 ---
-##  remove_area {#aspose.cells.CellArea}
+##  remove_area(self, cell_area) {#aspose.cells.CellArea}
 Supprimez les paramètres de validation dans la plage.
 
 
 
 ```python
+
 def remove_area(self, cell_area):
     ...
 ```
@@ -20,7 +21,7 @@ def remove_area(self, cell_area):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| cell_area | [`CellArea`](/cells/python-net/fr/aspose.cells/cellarea) | les zones dans lesquelles ces paramètres de validation doivent être supprimés.|
+| cell_area | [`CellArea`](/cells/python-net/fr/aspose.cells/cellarea) | les zones où ces paramètres de validation doivent être supprimés.|
 
 
 

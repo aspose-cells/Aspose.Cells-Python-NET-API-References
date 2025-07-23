@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column Eigentum
 
-Ruft den column-Index der Zelle ab.
+Ruft den Index column der Zelle ab.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def column(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.revisions](../../)
-* Klasse [RevisionCellChange](/cells/python-net/de/aspose.cells.revisions/revisioncellchange)
+* Modul [`aspose.cells.revisions`](../../)
+* Klasse [`RevisionCellChange`](/cells/python-net/de/aspose.cells.revisions/revisioncellchange)

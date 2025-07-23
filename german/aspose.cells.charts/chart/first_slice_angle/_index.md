@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  first_slice_angle Eigentum
 
- Ruft den Winkel des ersten Kreisdiagramm- oder Ringdiagrammabschnitts in Grad ab (im Uhrzeigersinn von der Vertikalen) oder legt diesen fest.
-Gilt nur für Kreis-, 3D-Kreis- und Ringdiagramme, 0 bis 360.
+ Ruft den Winkel des ersten Kreis- oder Ringdiagrammsegments in Grad ab oder legt ihn fest (im Uhrzeigersinn von der Vertikalen).
+Gilt nur für Kreis-, 3D-Kreis- und Ringdiagramme (0 bis 360).
 ###  Definition:
 ```python
 @property

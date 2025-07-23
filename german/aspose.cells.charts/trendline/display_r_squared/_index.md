@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_r_squared Eigentum
 
-Stellt dar, ob der R-Quadrat-Wert der Trendlinie im Diagramm angezeigt wird (in derselben Datenbeschriftung wie die Gleichung). Wenn Sie diese Eigenschaft auf True setzen, werden Datenbeschriftungen automatisch aktiviert.
+Gibt an, ob der R-Quadrat-Wert der Trendlinie im Diagramm angezeigt wird (in derselben Datenbeschriftung wie die Gleichung). Wenn Sie diese Eigenschaft auf „True“ setzen, werden Datenbeschriftungen automatisch aktiviert.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def display_r_squared(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Trendline](/cells/python-net/de/aspose.cells.charts/trendline)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Trendline`](/cells/python-net/de/aspose.cells.charts/trendline)

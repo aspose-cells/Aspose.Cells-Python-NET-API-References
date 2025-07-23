@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  theme_color propriété
 
-Obtient et définit la couleur de thème de la bordure.
+Obtient et définit la couleur du thème de la bordure.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def theme_color(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Border](/cells/python-net/fr/aspose.cells/border)
-* classe [ThemeColor](/cells/python-net/fr/aspose.cells/themecolor)
+* module [`aspose.cells`](../../)
+* classe [`Border`](/cells/python-net/fr/aspose.cells/border)
+* classe [`ThemeColor`](/cells/python-net/fr/aspose.cells/themecolor)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width_inch propriété
 
-Représente la largeur du commentaire, en unités de pouces.
+Représente la largeur du commentaire, en pouces.
 
 ###  Exemple
 

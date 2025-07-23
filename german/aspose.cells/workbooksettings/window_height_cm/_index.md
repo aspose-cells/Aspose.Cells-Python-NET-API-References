@@ -3,13 +3,13 @@ title: window_height_cm Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 530
+weight: 540
 url: /de/aspose.cells/workbooksettings/window_height_cm/
 is_root: false
 ---
 ##  window_height_cm Eigentum
 
-Die Höhe des Fensters in der Einheit Zentimeter.
+Die Höhe des Fensters in Zentimetern.
 ###  Definition:
 ```python
 @property

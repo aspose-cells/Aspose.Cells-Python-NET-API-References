@@ -7,8 +7,8 @@ weight: 20
 url: /de/aspose.cells.properties/customdocumentpropertycollection/add/
 is_root: false
 ---
-##  add(name, value) {#str-str}
- Erstellt eine neue benutzerdefinierte Dokumenteigenschaft der**PropertyType.String** Datentyp.
+##  add(self, name, value) {#str-str}
+ Erstellt eine neue benutzerdefinierte Dokumenteigenschaft des**PropertyType.String** Datentyp.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Das neu erstellte Eigenschaftsobjekt.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -28,8 +29,8 @@ def add(self, name, value):
 | value | str | Der Wert der Immobilie.|
 
 
-##  add(name, value) {#str-int}
- Erstellt eine neue benutzerdefinierte Dokumenteigenschaft der**PropertyType.Number** Datentyp.
+##  add(self, name, value) {#str-int}
+ Erstellt eine neue benutzerdefinierte Dokumenteigenschaft des**Eigenschaftstyp.Nummer** Datentyp.
 
 
 ###  Kehrt zurück
@@ -38,6 +39,7 @@ Das neu erstellte Eigenschaftsobjekt.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -49,8 +51,8 @@ def add(self, name, value):
 | value | int | Der Wert der Immobilie.|
 
 
-##  add(name, value) {#str-DateTime}
- Erstellt eine neue benutzerdefinierte Dokumenteigenschaft der**PropertyType.DateTime** Datentyp.
+##  add(self, name, value) {#str-DateTime}
+ Erstellt eine neue benutzerdefinierte Dokumenteigenschaft des**Eigenschaftstyp.Datum/Uhrzeit** Datentyp.
 
 
 ###  Kehrt zurück
@@ -59,6 +61,7 @@ Das neu erstellte Eigenschaftsobjekt.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -70,8 +73,8 @@ def add(self, name, value):
 | value | DateTime | Der Wert der Immobilie.|
 
 
-##  add(name, value) {#str-bool}
- Erstellt eine neue benutzerdefinierte Dokumenteigenschaft der**PropertyType.Boolean** Datentyp.
+##  add(self, name, value) {#str-bool}
+ Erstellt eine neue benutzerdefinierte Dokumenteigenschaft des**PropertyType.Boolean** Datentyp.
 
 
 ###  Kehrt zurück
@@ -80,6 +83,7 @@ Das neu erstellte Eigenschaftsobjekt.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -91,8 +95,8 @@ def add(self, name, value):
 | value | bool | Der Wert der Immobilie.|
 
 
-##  add(name, value) {#str-float}
- Erstellt eine neue benutzerdefinierte Dokumenteigenschaft der**PropertyType.Float** Datentyp.
+##  add(self, name, value) {#str-float}
+ Erstellt eine neue benutzerdefinierte Dokumenteigenschaft des**PropertyType.Float** Datentyp.
 
 
 ###  Kehrt zurück
@@ -101,6 +105,7 @@ Das neu erstellte Eigenschaftsobjekt.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -114,5 +119,5 @@ def add(self, name, value):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.properties](../../)
-* Klasse [CustomDocumentPropertyCollection](/cells/python-net/de/aspose.cells.properties/customdocumentpropertycollection)
+* Modul [`aspose.cells.properties`](../../)
+* Klasse [`CustomDocumentPropertyCollection`](/cells/python-net/de/aspose.cells.properties/customdocumentpropertycollection)

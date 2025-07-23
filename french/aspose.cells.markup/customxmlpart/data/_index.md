@@ -21,5 +21,5 @@ def data(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.markup](../../)
-* classe [CustomXmlPart](/cells/python-net/fr/aspose.cells.markup/customxmlpart)
+* module [`aspose.cells.markup`](../../)
+* classe [`CustomXmlPart`](/cells/python-net/fr/aspose.cells.markup/customxmlpart)

@@ -7,12 +7,13 @@ weight: 20
 url: /de/aspose.cells/pagesetup/clear_header_footer/
 is_root: false
 ---
-##  clear_header_footer() {#}
-Löscht die Kopf- und Fußzeileneinstellung.
+##  clear_header_footer(self) {#}
+Löscht die Kopf- und Fußzeileneinstellungen.
 
 
 
 ```python
+
 def clear_header_footer(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear_header_footer(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

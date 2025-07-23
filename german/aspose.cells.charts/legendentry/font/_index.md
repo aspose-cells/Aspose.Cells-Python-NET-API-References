@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font Eigentum
 
-Ruft ein [LegendEntry.font](/cells/python-net/de/aspose.cells.charts/legendentry#font)-Objekt des angegebenen ChartFrame-Objekts ab.
+Ruft ein [`LegendEntry.font`](/cells/python-net/de/aspose.cells.charts/legendentry#font)-Objekt des angegebenen ChartFrame-Objekts ab.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def font(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Font](/cells/python-net/de/aspose.cells/font)
-* Klasse [LegendEntry](/cells/python-net/de/aspose.cells.charts/legendentry)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Font`](/cells/python-net/de/aspose.cells/font)
+* Klasse [`LegendEntry`](/cells/python-net/de/aspose.cells.charts/legendentry)

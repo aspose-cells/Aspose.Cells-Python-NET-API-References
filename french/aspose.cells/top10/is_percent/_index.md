@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_percent propriété
 
-Obtenir ou définir si une règle "top/bottom n" est une règle "top/bottom n percent".
-La valeur par défaut est false.
+Obtenir ou définir si une règle « n haut/bas » est une règle « n haut/bas pour cent ».
+La valeur par défaut est faux.
 ###  Définition:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_percent(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Top10](/cells/python-net/fr/aspose.cells/top10)
+* module [`aspose.cells`](../../)
+* classe [`Top10`](/cells/python-net/fr/aspose.cells/top10)

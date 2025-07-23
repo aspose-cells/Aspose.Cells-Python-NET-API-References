@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  interval propriété
 
-Obtient l’interne du groupe.
+Obtient l'interne du groupe.
 ###  Définition:
 ```python
 @property

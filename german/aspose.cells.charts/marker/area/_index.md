@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  area Eigentum
 
-Ruft die [Marker.area](/cells/python-net/de/aspose.cells.charts/marker#area) ab.
+Ruft die [`Marker.area`](/cells/python-net/de/aspose.cells.charts/marker#area) ab.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def area(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Area](/cells/python-net/de/aspose.cells.drawing/area)
-* Klasse [Marker](/cells/python-net/de/aspose.cells.charts/marker)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Area`](/cells/python-net/de/aspose.cells.drawing/area)
+* Klasse [`Marker`](/cells/python-net/de/aspose.cells.charts/marker)

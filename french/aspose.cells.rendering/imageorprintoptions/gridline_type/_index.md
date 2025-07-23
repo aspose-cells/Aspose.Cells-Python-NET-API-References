@@ -3,17 +3,17 @@ title: gridline_type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 130
+weight: 140
 url: /fr/aspose.cells.rendering/imageorprintoptions/gridline_type/
 is_root: false
 ---
 ##  gridline_type propriété
 
-Obtient ou définit le type de quadrillage.
+Obtient ou définit le type de grille.
 
 ###  Remarques
 
-La valeur par défaut est le type Pointillé.
+Le type par défaut est le type pointillé.
 ###  Définition:
 ```python
 @property

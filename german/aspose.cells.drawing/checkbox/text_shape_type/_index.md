@@ -3,7 +3,7 @@ title: text_shape_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1040
+weight: 1050
 url: /de/aspose.cells.drawing/checkbox/text_shape_type/
 is_root: false
 ---

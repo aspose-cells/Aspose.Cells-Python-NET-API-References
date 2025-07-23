@@ -18,5 +18,5 @@ def name(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.properties](../../)
-* Klasse [DocumentProperty](/cells/python-net/de/aspose.cells.properties/documentproperty)
+* Modul [`aspose.cells.properties`](../../)
+* Klasse [`DocumentProperty`](/cells/python-net/de/aspose.cells.properties/documentproperty)

@@ -8,8 +8,6 @@ url: /de/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/width/
 is_root: false
 ---
 ##  width Eigentum
-
-Ruft die width des Steuerelements in Punkteinheiten ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def width(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [SpinButtonActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`SpinButtonActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

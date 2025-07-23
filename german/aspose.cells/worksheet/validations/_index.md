@@ -3,13 +3,13 @@ title: validations Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 890
+weight: 910
 url: /de/aspose.cells/worksheet/validations/
 is_root: false
 ---
 ##  validations Eigentum
 
-Ruft die Sammlung der Datenvalidierungseinstellungen im Arbeitsblatt ab.
+Ruft die Sammlung der Datenüberprüfungseinstellungen im Arbeitsblatt ab.
 ###  Definition:
 ```python
 @property

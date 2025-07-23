@@ -30,6 +30,6 @@ def dash_style(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [LineFormat](/cells/python-net/fr/aspose.cells.drawing/lineformat)
-* classe [MsoLineDashStyle](/cells/python-net/fr/aspose.cells.drawing/msolinedashstyle)
+* module [`aspose.cells.drawing`](../../)
+* classe [`LineFormat`](/cells/python-net/fr/aspose.cells.drawing/lineformat)
+* classe [`MsoLineDashStyle`](/cells/python-net/fr/aspose.cells.drawing/msolinedashstyle)

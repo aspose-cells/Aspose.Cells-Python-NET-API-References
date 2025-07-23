@@ -3,13 +3,13 @@ title: is_ascend_sort Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 370
+weight: 450
 url: /de/aspose.cells.pivot/pivotfield/is_ascend_sort/
 is_root: false
 ---
 ##  is_ascend_sort Eigentum
 
-Gibt an, ob das angegebene PivotTable-Feld automatisch aufsteigend sortiert ist.
+Gibt an, ob das angegebene PivotTable-Feld automatisch aufsteigend sortiert wird.
 ###  Definition:
 ```python
 @property

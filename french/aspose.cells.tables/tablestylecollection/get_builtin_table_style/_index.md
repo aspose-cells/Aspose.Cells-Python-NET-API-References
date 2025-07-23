@@ -1,14 +1,14 @@
 ---
-title: get_builtin_table_style méthode
+title: méthode get_builtin_table_style
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 60
+weight: 70
 url: /fr/aspose.cells.tables/tablestylecollection/get_builtin_table_style/
 is_root: false
 ---
-##  get_builtin_table_style(type) {#TableStyleType}
-Obtient le style de tableau intégré
+##  get_builtin_table_style(self, type) {#aspose.cells.tables.TableStyleType}
+Obtient le style de table intégré
 
 
 ###  Retour
@@ -17,6 +17,7 @@ Obtient le style de tableau intégré
 
 
 ```python
+
 def get_builtin_table_style(self, type):
     ...
 ```
@@ -24,10 +25,10 @@ def get_builtin_table_style(self, type):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| type | [TableStyleType](/cells/python-net/fr/aspose.cells.tables/tablestyletype) | Le type de style de tableau intégré.|
+| type | [`TableStyleType`](/cells/python-net/fr/aspose.cells.tables/tablestyletype) | Le type de style de table intégré.|
 
 
 
 ###  Voir également
-* module [aspose.cells.tables](../../)
-* classe [TableStyleCollection](/cells/python-net/fr/aspose.cells.tables/tablestylecollection)
+* module [`aspose.cells.tables`](../../)
+* classe [`TableStyleCollection`](/cells/python-net/fr/aspose.cells.tables/tablestylecollection)

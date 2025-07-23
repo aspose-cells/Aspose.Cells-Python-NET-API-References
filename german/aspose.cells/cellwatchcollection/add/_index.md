@@ -7,8 +7,8 @@ weight: 20
 url: /de/aspose.cells/cellwatchcollection/add/
 is_root: false
 ---
-##  add(cell_name) {#str}
-Fügt [CellWatch](/cells/python-net/de/aspose.cells/cellwatch) mit dem Namen der Zelle hinzu.
+##  add(self, cell_name) {#str}
+Fügt [`CellWatch`](/cells/python-net/de/aspose.cells/cellwatch) mit dem Namen der Zelle hinzu.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Fügt [CellWatch](/cells/python-net/de/aspose.cells/cellwatch) mit dem Namen der
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -27,8 +28,8 @@ def add(self, cell_name):
 | cell_name | str | Der Name der Zelle.|
 
 
-##  add(row, column) {#int-int}
-Fügt [CellWatch](/cells/python-net/de/aspose.cells/cellwatch) mit Zeile und Spalte hinzu.
+##  add(self, row, column) {#int-int}
+Addiert [`CellWatch`](/cells/python-net/de/aspose.cells/cellwatch) mit Zeile und Spalte.
 
 
 ###  Kehrt zurück
@@ -37,6 +38,7 @@ Gibt die Position dieses Elements in der Sammlung zurück.
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -50,6 +52,6 @@ def add(self, row, column):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CellWatch](/cells/python-net/de/aspose.cells/cellwatch)
-* Klasse [CellWatchCollection](/cells/python-net/de/aspose.cells/cellwatchcollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CellWatch`](/cells/python-net/de/aspose.cells/cellwatch)
+* Klasse [`CellWatchCollection`](/cells/python-net/de/aspose.cells/cellwatchcollection)

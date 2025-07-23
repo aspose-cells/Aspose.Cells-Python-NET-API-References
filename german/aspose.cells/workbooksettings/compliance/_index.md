@@ -13,7 +13,7 @@ Gibt die OOXML-Version für das Ausgabedokument an. Der Standardwert ist Ecma376
 
 ###  Bemerkungen
 
-Nur für XLSX-Dateien.
+Nur für .xlsx-Dateien.
 ###  Definition:
 ```python
 @property

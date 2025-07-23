@@ -8,7 +8,7 @@ url: /de/aspose.cells.properties/customproperty/
 is_root: false
 ---
 ##  CustomProperty Klasse
-Stellt Kennungsinformationen dar.
+Stellt Identifikationsinformationen dar.
 
 
 
@@ -17,7 +17,7 @@ Der Typ CustomProperty macht die folgenden Member verfügbar:
 ###  Konstrukteure
 | Konstrukteur| Beschreibung|
 | :- | :- |
-| [CustomProperty()](/cells/python-net/de/aspose.cells.properties/customproperty/__init__/#) | Erstellt eine neue Instanz von CustomProperty|
+| [`__init__(self)`](/cells/python-net/de/aspose.cells.properties/customproperty/__init__/#) | Erstellt eine neue Instanz von CustomProperty|
 
 
 ###  Eigenschaften
@@ -30,4 +30,4 @@ Der Typ CustomProperty macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.properties](..)
+* Modul [`aspose.cells.properties`](..)

@@ -3,13 +3,13 @@ title: top_inch Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1100
+weight: 1110
 url: /de/aspose.cells.drawing/textbox/top_inch/
 is_root: false
 ---
 ##  top_inch Eigentum
 
-Stellt den vertikalen Versatz der Form von ihrer oberen Reihe in der Einheit Zoll dar.
+Stellt den vertikalen Versatz der Form von ihrer obersten Reihe in Zoll dar.
 
 ###  Beispiel
 

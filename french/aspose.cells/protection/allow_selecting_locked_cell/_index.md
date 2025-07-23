@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_selecting_locked_cell propriété
 
-Indique si l'utilisateur est autorisé à sélectionner des cellules verrouillées dans une feuille de calcul protégée.
+Indique si l'utilisateur est autorisé à sélectionner des cellules verrouillées sur une feuille de calcul protégée.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_selecting_locked_cell(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Protection](/cells/python-net/fr/aspose.cells/protection)
+* module [`aspose.cells`](../../)
+* classe [`Protection`](/cells/python-net/fr/aspose.cells/protection)

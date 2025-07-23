@@ -1,13 +1,13 @@
 ---
-title: PropertyType dénombrement
+title: PropertyType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 90
+weight: 80
 url: /fr/aspose.cells.properties/propertytype/
 is_root: false
 ---
-##  PropertyType dénombrement
+##  PropertyType énumération
 Spécifie le type de données d'une propriété de document.
 
 
@@ -18,7 +18,7 @@ Le type PropertyType expose les membres suivants :
 | Champ| Description|
 | :- | :- |
 | BOOLEAN | La propriété est une valeur booléenne.|
-| DATE_TIME | La propriété est une valeur date/heure.|
+| DATE_TIME | La propriété est une valeur de date et d'heure.|
 | DOUBLE | La propriété est un nombre flottant.|
 | NUMBER | La propriété est un nombre entier.|
 | STRING | La propriété est une valeur de chaîne.|
@@ -27,4 +27,4 @@ Le type PropertyType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.properties](..)
+* module [`aspose.cells.properties`](..)

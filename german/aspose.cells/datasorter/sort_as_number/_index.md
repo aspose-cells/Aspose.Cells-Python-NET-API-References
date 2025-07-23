@@ -3,7 +3,7 @@ title: sort_as_number Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 150
+weight: 160
 url: /de/aspose.cells/datasorter/sort_as_number/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def sort_as_number(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [DataSorter](/cells/python-net/de/aspose.cells/datasorter)
+* Modul [`aspose.cells`](../../)
+* Klasse [`DataSorter`](/cells/python-net/de/aspose.cells/datasorter)

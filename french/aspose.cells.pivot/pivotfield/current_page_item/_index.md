@@ -3,7 +3,7 @@ title: current_page_item propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 250
+weight: 330
 url: /fr/aspose.cells.pivot/pivotfield/current_page_item/
 is_root: false
 ---

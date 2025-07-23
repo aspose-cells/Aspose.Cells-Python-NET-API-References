@@ -21,5 +21,5 @@ def copy_invalid_formulas_as_values(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CopyOptions](/cells/python-net/fr/aspose.cells/copyoptions)
+* module [`aspose.cells`](../../)
+* classe [`CopyOptions`](/cells/python-net/fr/aspose.cells/copyoptions)

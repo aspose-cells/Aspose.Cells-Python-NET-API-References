@@ -3,13 +3,13 @@ title: width_cm propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1170
+weight: 1180
 url: /fr/aspose.cells.drawing/label/width_cm/
 is_root: false
 ---
 ##  width_cm propriété
 
-Représente la largeur de la forme, en unités de centimètres.
+Représente la largeur de la forme, en centimètres.
 
 ###  Exemple
 

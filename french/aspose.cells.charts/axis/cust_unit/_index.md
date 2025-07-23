@@ -13,10 +13,10 @@ Spécifie une valeur personnalisée pour l'unité d'affichage.
 
 ###  Remarques
 
- REMARQUE : Cette propriété est désormais obsolète. Plutôt,
+ REMARQUE : Cette propriété est désormais obsolète. À la place,
 veuillez utiliser la propriété Axis.CustomUnit.
- Ce bien sera supprimé 12 mois plus tard depuis janvier 2023.
-Le Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ Cette propriété sera supprimée 12 mois plus tard soit en janvier 2023.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 ###  Définition:
 ```python
 @property

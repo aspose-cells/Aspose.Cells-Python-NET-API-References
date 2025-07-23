@@ -8,8 +8,6 @@ url: /fr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/back_ol
 is_root: false
 ---
 ##  back_ole_color propriété
-
-Obtient et définit l'ancienne couleur de l'arrière-plan.
 ###  Définition:
 ```python
 @property
@@ -21,5 +19,5 @@ def back_ole_color(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [ToggleButtonActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ToggleButtonActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

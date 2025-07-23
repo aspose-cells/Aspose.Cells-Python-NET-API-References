@@ -24,4 +24,4 @@ Der Typ MetadataType macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.metadata](..)
+* Modul [`aspose.cells.metadata`](..)

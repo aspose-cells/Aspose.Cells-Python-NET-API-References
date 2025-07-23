@@ -3,7 +3,7 @@ title: show_header_row propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 200
+weight: 210
 url: /fr/aspose.cells.tables/listobject/show_header_row/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_header_row(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.tables](../../)
-* classe [ListObject](/cells/python-net/fr/aspose.cells.tables/listobject)
+* module [`aspose.cells.tables`](../../)
+* classe [`ListObject`](/cells/python-net/fr/aspose.cells.tables/listobject)

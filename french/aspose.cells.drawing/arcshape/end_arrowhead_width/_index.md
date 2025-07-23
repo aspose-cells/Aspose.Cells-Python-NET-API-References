@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  end_arrowhead_width propriété
 
-Obtient et définit la largeur de la pointe de flèche de fin de la ligne.
+Obtient et définit la largeur de la pointe de la flèche de fin de la ligne.
 
 ###  Remarques
 
- REMARQUE : ce membre est désormais obsolète. Plutôt,
+ REMARQUE : Ce membre est désormais obsolète. À la place,
  veuillez utiliser la propriété Shape.Line.EndArrowheadWidth.
- Cette propriété sera supprimée 12 mois plus tard depuis août 2016.
-Le Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ Cette propriété sera supprimée 12 mois plus tard soit en août 2016.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 ###  Définition:
 ```python
 @property

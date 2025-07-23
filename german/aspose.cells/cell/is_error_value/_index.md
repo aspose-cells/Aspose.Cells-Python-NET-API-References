@@ -3,7 +3,7 @@ title: is_error_value Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 570
+weight: 600
 url: /de/aspose.cells/cell/is_error_value/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Bemerkungen
 
-Gilt auch für die Formelzelle, um zu überprüfen, ob das berechnete Ergebnis ein Fehler ist.
+Gilt auch für Formelzellen, um zu prüfen, ob das berechnete Ergebnis ein Fehler ist.
 ###  Definition:
 ```python
 @property

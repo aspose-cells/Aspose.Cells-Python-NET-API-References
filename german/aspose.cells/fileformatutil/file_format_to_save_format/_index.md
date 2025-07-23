@@ -7,7 +7,7 @@ weight: 40
 url: /de/aspose.cells/fileformatutil/file_format_to_save_format/
 is_root: false
 ---
-##  file_format_to_save_format(format) {#FileFormatType}
+##  file_format_to_save_format(, Format){#aspose.cells.FileFormatType}
 Konvertieren des Dateiformats in das Speicherformat.
 
 
@@ -17,17 +17,19 @@ Konvertieren des Dateiformats in das Speicherformat.
 
 
 ```python
-def file_format_to_save_format(self, format):
+
+@staticmethod
+def file_format_to_save_format(format):
     ...
 ```
 
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| format | [FileFormatType](/cells/python-net/de/aspose.cells/fileformattype) | Der Dateiformattyp.|
+| format | [`FileFormatType`](/cells/python-net/de/aspose.cells/fileformattype) | Der Dateiformattyp.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FileFormatUtil](/cells/python-net/de/aspose.cells/fileformatutil)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FileFormatUtil`](/cells/python-net/de/aspose.cells/fileformatutil)

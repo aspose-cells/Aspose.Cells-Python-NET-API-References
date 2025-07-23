@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  auto_filter propriété
 
-Indique si le filtrage automatique des données lors du chargement des fichiers est effectué.
+Indique si le filtrage automatique des données est effectué lors du chargement des fichiers.
 
 ###  Remarques
 

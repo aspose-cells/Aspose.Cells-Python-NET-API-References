@@ -3,12 +3,12 @@ title: get_freezed_panes Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 150
+weight: 160
 url: /de/aspose.cells/worksheet/get_freezed_panes/
 is_root: false
 ---
-##  get_freezed_panes {#any-any-any-any}
-Ruft die eingefrorenen Fenster ab.
+##  get_freezed_panes(self, row, column, freezed_rows, freezed_columns) {#any-any-any-any}
+Ruft die fixierten Fenster ab.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Gibt zurück, ob das Arbeitsblatt eingefroren ist
 
 
 ```python
+
 def get_freezed_panes(self, row, column, freezed_rows, freezed_columns):
     ...
 ```

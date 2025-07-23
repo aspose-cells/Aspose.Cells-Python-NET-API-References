@@ -3,7 +3,7 @@ title: TextCapsType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2620
+weight: 2590
 url: /fr/aspose.cells/textcapstype/
 is_root: false
 ---
@@ -17,9 +17,9 @@ Le type TextCapsType expose les membres suivants :
 ###  Des champs
 | Champ| Description|
 | :- | :- |
-| NONE | Aucun plafond|
-| ALL | Appliquez toutes les majuscules sur le texte.|
-| SMALL | Appliquez des petites majuscules au texte.|
+| NONE | Aucune majuscule|
+| ALL | Appliquer toutes les majuscules sur le texte.|
+| SMALL | Appliquer des petites majuscules au texte.|
 
 
 

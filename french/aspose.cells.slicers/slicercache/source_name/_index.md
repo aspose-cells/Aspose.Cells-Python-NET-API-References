@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  source_name propriété
 
-Renvoie le nom du champ de cache
+Renvoie le nom de ce cache de slicer.
 
 ###  Exemple
 
 ```python
 
-# get the name of cache field.
+# get the name of this slicer cache.
 print(slicerCache.source_name)
 
 ```
@@ -27,5 +27,5 @@ def source_name(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.slicers](../../)
-* classe [SlicerCache](/cells/python-net/fr/aspose.cells.slicers/slicercache)
+* module [`aspose.cells.slicers`](../../)
+* classe [`SlicerCache`](/cells/python-net/fr/aspose.cells.slicers/slicercache)

@@ -3,13 +3,13 @@ title: left_cm propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 790
+weight: 810
 url: /fr/aspose.cells.drawing/picture/left_cm/
 is_root: false
 ---
 ##  left_cm propriété
 
-Représente le décalage horizontal de la forme par rapport à sa colonne de gauche, en unités de centimètres.
+Représente le décalage horizontal de la forme par rapport à sa colonne de gauche, en centimètres.
 
 ###  Exemple
 

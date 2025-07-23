@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_name_auto propriété
 
-Renvoie si Microsoft Excel détermine automatiquement le nom de la courbe de tendance.
+Renvoie si Microsoft Excel détermine automatiquement le nom de la ligne de tendance.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_name_auto(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Trendline](/cells/python-net/fr/aspose.cells.charts/trendline)
+* module [`aspose.cells.charts`](../../)
+* classe [`Trendline`](/cells/python-net/fr/aspose.cells.charts/trendline)

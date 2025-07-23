@@ -3,7 +3,7 @@ title: index propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 150
+weight: 160
 url: /fr/aspose.cells/row/index/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def index(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Row](/cells/python-net/fr/aspose.cells/row)
+* module [`aspose.cells`](../../)
+* classe [`Row`](/cells/python-net/fr/aspose.cells/row)

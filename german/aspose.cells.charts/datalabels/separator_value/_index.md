@@ -3,13 +3,13 @@ title: separator_value Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 340
+weight: 410
 url: /de/aspose.cells.charts/datalabels/separator_value/
 is_root: false
 ---
 ##  separator_value Eigentum
 
-Ruft den Trennwert ab, der für die Datenbeschriftungen in einem Diagramm verwendet wird, oder legt diesen fest.
+Ruft den Trennzeichenwert ab, der für die Datenbeschriftungen in einem Diagramm verwendet wird, oder legt diesen fest.
 ###  Definition:
 ```python
 @property

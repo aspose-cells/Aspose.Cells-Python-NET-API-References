@@ -7,12 +7,13 @@ weight: 20
 url: /de/aspose.cells/license/set_license/
 is_root: false
 ---
-##  set_license(license_name) {#str}
+##  set_license(self, license_name) {#str}
 Lizenziert die Komponente.
 
 
 
 ```python
+
 def set_license(self, license_name):
     ...
 ```
@@ -26,7 +27,7 @@ def set_license(self, license_name):
 Versucht, die Lizenz an den folgenden Orten zu finden:
 
 
-1. Explizite Pfad.
+1. Expliziter Pfad.
 
 
 2. Der Ordner, der die Komponentenbaugruppe Aspose enthält.
@@ -35,28 +36,28 @@ Versucht, die Lizenz an den folgenden Orten zu finden:
 3. Der Ordner, der die aufrufende Assembly des Clients enthält.
 
 
-4. Der Ordner, der den Eintrag (Startup) Assembly enthält.
+4. Der Ordner, der die Einstiegs-(Start-)Assembly enthält.
 
 
 5. Eine eingebettete Ressource in der aufrufenden Assembly des Clients.
 
 
-**Notiz:** Versucht auf dem .NET Compact Framework, die Lizenz nur an diesen Orten zu finden:
+**Notiz:**Versucht im .NET Compact Framework, die Lizenz nur an diesen Orten zu finden:
 
 
-1. Explizite Pfad.
+1. Expliziter Pfad.
 
 
 2. Eine eingebettete Ressource in der aufrufenden Assembly des Clients.
 ###  Beispiel
 
 
-In diesem Beispiel wird versucht, eine Lizenzdatei namens MyLicense.lic zu finden
+In diesem Beispiel wird versucht, eine Lizenzdatei mit dem Namen MyLicense.lic zu finden
  in dem Ordner, der enthält
 
 
-die Komponente in dem Ordner, der die aufrufende Assembly enthält,
-im Ordner der Eintragsassembly und dann in den eingebetteten Ressourcen der aufrufenden Assembly.
+die Komponente, in dem Ordner, der die aufrufende Assembly enthält,
+im Ordner der Einstiegsassembly und dann in den eingebetteten Ressourcen der aufrufenden Assembly.
 
 ```python
 from aspose.cells import License
@@ -65,16 +66,17 @@ license = License()
 license.set_license("MyLicense.lic")
 
 ```
-Kann ein vollständiger oder kurzer Dateiname oder Name einer eingebetteten Ressource sein.
-Verwenden Sie eine leere Zeichenfolge, um in den Bewertungsmodus zu wechseln.
+Kann ein vollständiger oder kurzer Dateiname oder der Name einer eingebetteten Ressource sein.
+Verwenden Sie eine leere Zeichenfolge, um in den Auswertungsmodus zu wechseln.
 
 
-##  set_license(stream) {#io.RawIOBase}
+##  set_license(self, stream) {#io.RawIOBase}
 Lizenziert die Komponente.
 
 
 
 ```python
+
 def set_license(self, stream):
     ...
 ```
@@ -82,7 +84,7 @@ def set_license(self, stream):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| stream | io.RawIOBase | Ein Stream, der die Lizenz enthält.|
+| stream | io.RawIOBase |Ein Stream, der die Lizenz enthält.|
 ###  Bemerkungen
 
 Verwenden Sie diese Methode, um eine Lizenz aus einem Stream zu laden.
@@ -100,5 +102,5 @@ license.set_license(myStream)
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [License](/cells/python-net/de/aspose.cells/license)
+* Modul [`aspose.cells`](../../)
+* Klasse [`License`](/cells/python-net/de/aspose.cells/license)

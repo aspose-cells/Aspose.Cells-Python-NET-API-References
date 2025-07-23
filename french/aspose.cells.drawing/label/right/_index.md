@@ -3,13 +3,13 @@ title: right propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 860
+weight: 870
 url: /fr/aspose.cells.drawing/label/right/
 is_root: false
 ---
 ##  right propriété
 
-Représente la largeur du décalage horizontal de la forme par rapport à sa colonne de coin inférieure right, en unités de pixels.
+Représente la largeur du décalage horizontal de la forme par rapport à sa colonne d'angle inférieure right, en unités de pixels.
 
 ###  Exemple
 

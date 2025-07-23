@@ -3,7 +3,7 @@ title: lines Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 280
+weight: 290
 url: /de/aspose.cells.properties/builtindocumentpropertycollection/lines/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def lines(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.properties](../../)
-* Klasse [BuiltInDocumentPropertyCollection](/cells/python-net/de/aspose.cells.properties/builtindocumentpropertycollection)
+* Modul [`aspose.cells.properties`](../../)
+* Klasse [`BuiltInDocumentPropertyCollection`](/cells/python-net/de/aspose.cells.properties/builtindocumentpropertycollection)

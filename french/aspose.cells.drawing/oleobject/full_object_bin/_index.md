@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  full_object_bin propriété
 
-Obtient les données binaires complètes de l’objet ole intégrées dans le fichier modèle.
+Obtient les données binaires complètes de l'objet OLE intégré dans le fichier modèle.
 ###  Définition:
 ```python
 @property

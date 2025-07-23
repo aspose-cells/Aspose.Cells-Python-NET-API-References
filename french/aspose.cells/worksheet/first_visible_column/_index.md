@@ -3,7 +3,7 @@ title: first_visible_column propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 500
+weight: 520
 url: /fr/aspose.cells/worksheet/first_visible_column/
 is_root: false
 ---

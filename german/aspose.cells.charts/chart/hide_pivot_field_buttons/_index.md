@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  hide_pivot_field_buttons Eigentum
 
-Gibt an, ob die Feldschaltflächen des Pivot-Diagramms nur ausgeblendet werden, wenn es sich bei dem Diagramm um ein PivotChart handelt.
+Gibt an, ob die Schaltflächen der PivotChart-Felder nur ausgeblendet werden sollen, wenn es sich bei dem Diagramm um ein PivotChart handelt.
 ###  Definition:
 ```python
 @property

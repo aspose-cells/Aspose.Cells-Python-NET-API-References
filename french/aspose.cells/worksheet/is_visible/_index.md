@@ -3,13 +3,13 @@ title: is_visible propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 630
+weight: 660
 url: /fr/aspose.cells/worksheet/is_visible/
 is_root: false
 ---
 ##  is_visible propriété
 
-Représente si la feuille de calcul est visible.
+Indique si la feuille de calcul est visible.
 ###  Définition:
 ```python
 @property

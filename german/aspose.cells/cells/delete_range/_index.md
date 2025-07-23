@@ -7,12 +7,13 @@ weight: 240
 url: /de/aspose.cells/cells/delete_range/
 is_root: false
 ---
-##  delete_range(start_row, start_column, end_row, end_column, shift_type) {#int-int-int-int-ShiftType}
-Löscht einen Bereich von Zellen und verschiebt Zellen entsprechend der Verschiebeoption.
+##  delete_range(self, start_row, start_column, end_row, end_column, shift_type) {#int-int-int-int-aspose.cells.ShiftType}
+Löscht einen Zellbereich und verschiebt Zellen entsprechend der Verschiebeoption.
 
 
 
 ```python
+
 def delete_range(self, start_row, start_column, end_row, end_column, shift_type):
     ...
 ```
@@ -21,13 +22,13 @@ def delete_range(self, start_row, start_column, end_row, end_column, shift_type)
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | start_row | int | Zeilenindex starten.|
-| start_column | int | Spaltenindex starten.|
+| start_column | int |Spaltenindex starten.|
 | end_row | int | Zeilenindex beenden.|
-| end_column | int | Spaltenindex beenden.|
-| shift_type | [ShiftType](/cells/python-net/de/aspose.cells/shifttype) | Option Zellen verschieben.|
+| end_column | int | Index der Endspalte.|
+| shift_type | [`ShiftType`](/cells/python-net/de/aspose.cells/shifttype) |Option zum Verschieben von Zellen.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

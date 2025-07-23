@@ -8,8 +8,6 @@ url: /de/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/width/
 is_root: false
 ---
 ##  width Eigentum
-
-Ruft die width des Steuerelements in Punkteinheiten ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def width(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [ToggleButtonActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`ToggleButtonActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

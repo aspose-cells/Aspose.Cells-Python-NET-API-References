@@ -17,11 +17,11 @@ Der Typ DataLabelsSeparatorType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| AUTO | Stellt eine automatische Trennlinie dar|
-| SPACE | Stellt Leerzeichen dar(" ")|
-| COMMA | Stellt Komma(",") dar|
-| SEMICOLON | Stellt Semikolon(";") dar|
-| PERIOD | Stellt einen Punkt(".") dar.|
+| AUTO | Stellt einen automatischen Trenner dar|
+| SPACE | Stellt Leerzeichen dar (" ")|
+| COMMA | Stellt ein Komma dar (",")|
+| SEMICOLON | Stellt ein Semikolon dar (";")|
+| PERIOD | Stellt einen Punkt dar (".")|
 | NEW_LINE | Stellt newline("\n") dar|
 | CUSTOM | Stellt ein benutzerdefiniertes Trennzeichen dar|
 

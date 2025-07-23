@@ -3,18 +3,18 @@ title: left_in_shape propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 690
+weight: 700
 url: /fr/aspose.cells.drawing/cellsdrawing/left_in_shape/
 is_root: false
 ---
 ##  left_in_shape propriété
 
- Représente le décalage horizontal de la forme par rapport à la bordure gauche de la forme parent.
-en unité de 1/4000 de largeur de la forme parent.
+ Représente le décalage horizontal de la forme par rapport à la bordure gauche de la forme parent,
+en unité de 1/4000 de la largeur de la forme parente.
 
 ###  Remarques
 
-S'applique uniquement lorsque cette forme fait partie du groupe ou du graphique.
+S'applique uniquement lorsque cette forme se trouve dans le groupe ou le graphique.
 
 ###  Exemple
 

@@ -3,13 +3,13 @@ title: text Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 350
+weight: 410
 url: /de/aspose.cells.charts/legend/text/
 is_root: false
 ---
 ##  text Eigentum
 
-Ruft die text des Titels eines Frames ab oder legt diese fest.
+Ruft die text des Titels eines Frames ab oder legt sie fest.
 ###  Definition:
 ```python
 @property

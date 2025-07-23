@@ -18,6 +18,6 @@ def properties(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.webextensions](../../)
-* classe [WebExtension](/cells/python-net/fr/aspose.cells.webextensions/webextension)
-* classe [WebExtensionPropertyCollection](/cells/python-net/fr/aspose.cells.webextensions/webextensionpropertycollection)
+* module [`aspose.cells.webextensions`](../../)
+* classe [`WebExtension`](/cells/python-net/fr/aspose.cells.webextensions/webextension)
+* classe [`WebExtensionPropertyCollection`](/cells/python-net/fr/aspose.cells.webextensions/webextensionpropertycollection)

@@ -3,7 +3,7 @@ title: layout_options propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 140
+weight: 150
 url: /fr/aspose.cells/jsonloadoptions/layout_options/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def layout_options(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [JsonLayoutOptions](/cells/python-net/fr/aspose.cells.utility/jsonlayoutoptions)
-* classe [JsonLoadOptions](/cells/python-net/fr/aspose.cells/jsonloadoptions)
+* module [`aspose.cells`](../../)
+* classe [`JsonLayoutOptions`](/cells/python-net/fr/aspose.cells.utility/jsonlayoutoptions)
+* classe [`JsonLoadOptions`](/cells/python-net/fr/aspose.cells/jsonloadoptions)

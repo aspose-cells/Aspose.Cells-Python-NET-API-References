@@ -3,7 +3,7 @@ title: characters_with_spaces Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 120
+weight: 130
 url: /de/aspose.cells.properties/builtindocumentpropertycollection/characters_with_spaces/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def characters_with_spaces(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.properties](../../)
-* Klasse [BuiltInDocumentPropertyCollection](/cells/python-net/de/aspose.cells.properties/builtindocumentpropertycollection)
+* Modul [`aspose.cells.properties`](../../)
+* Klasse [`BuiltInDocumentPropertyCollection`](/cells/python-net/de/aspose.cells.properties/builtindocumentpropertycollection)

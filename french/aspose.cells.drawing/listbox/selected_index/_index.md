@@ -3,7 +3,7 @@ title: selected_index propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 930
+weight: 940
 url: /fr/aspose.cells.drawing/listbox/selected_index/
 is_root: false
 ---

@@ -3,12 +3,12 @@ title: NameScopeType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2340
+weight: 2310
 url: /de/aspose.cells/namescopetype/
 is_root: false
 ---
 ##  NameScopeType Aufzählung
-Stellt den Bereichstyp definierter Namen dar.
+Stellt den Gültigkeitsbereichstyp definierter Namen dar.
 
 
 

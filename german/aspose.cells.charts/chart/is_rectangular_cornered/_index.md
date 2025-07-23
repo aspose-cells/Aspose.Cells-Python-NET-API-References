@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_rectangular_cornered Eigentum
 
-Ruft einen Wert ab, der angibt, ob der Diagrammbereich rechteckige Ecken hat, oder legt diesen fest.
-Der Standardwert ist wahr.
+Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob der Diagrammbereich rechteckige Ecken hat.
+Der Standardwert ist „true“.
 ###  Definition:
 ```python
 @property

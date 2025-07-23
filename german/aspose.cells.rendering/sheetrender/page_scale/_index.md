@@ -10,7 +10,7 @@ is_root: false
 ##  page_scale Eigentum
 
 Ruft den berechneten Seitenmaßstab des Blattes ab.
-Gibt den eingestellten Maßstab zurück, wenn [`PageSetup.zoom`](/cells/python-net/de/aspose.cells/pagesetup#zoom) gesetzt ist. Andernfalls wird der berechnete Maßstab gemäß [`PageSetup.fit_to_pages_wide`](/cells/python-net/de/aspose.cells/pagesetup#fit_to_pages_wide) und [`PageSetup.fit_to_pages_tall`](/cells/python-net/de/aspose.cells/pagesetup#fit_to_pages_tall) zurückgegeben.
+Gibt den eingestellten Maßstab zurück, wenn [`PageSetup.zoom`](/cells/python-net/de/aspose.cells/pagesetup#zoom) eingestellt ist. Andernfalls wird der berechnete Maßstab gemäß [`PageSetup.fit_to_pages_wide`](/cells/python-net/de/aspose.cells/pagesetup#fit_to_pages_wide) und [`PageSetup.fit_to_pages_tall`](/cells/python-net/de/aspose.cells/pagesetup#fit_to_pages_tall) zurückgegeben.
 
 ###  Beispiel
 

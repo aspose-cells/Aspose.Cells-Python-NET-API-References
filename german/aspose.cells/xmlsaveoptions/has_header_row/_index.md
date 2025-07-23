@@ -3,7 +3,7 @@ title: has_header_row Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 70
+weight: 100
 url: /de/aspose.cells/xmlsaveoptions/has_header_row/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def has_header_row(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [XmlSaveOptions](/cells/python-net/de/aspose.cells/xmlsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`XmlSaveOptions`](/cells/python-net/de/aspose.cells/xmlsaveoptions)

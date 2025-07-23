@@ -3,13 +3,13 @@ title: selected_cell Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 890
+weight: 900
 url: /de/aspose.cells.drawing/combobox/selected_cell/
 is_root: false
 ---
 ##  selected_cell Eigentum
 
-Ruft die ausgewählte Zelle im Eingabebereich des Kombinationsfelds ab.
+Ruft die ausgewählte Zelle im Eingabebereich der Kombinationsbox ab.
 ###  Definition:
 ```python
 @property

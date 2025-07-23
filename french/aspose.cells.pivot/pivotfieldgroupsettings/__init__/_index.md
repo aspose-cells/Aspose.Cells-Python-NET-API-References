@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells.pivot/pivotfieldgroupsettings/__init__/
 is_root: false
 ---
-##  __initialisation__ {#}
+##  \_\_init\_\_(self){#}
 Construit une nouvelle instance de PivotFieldGroupSettings
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

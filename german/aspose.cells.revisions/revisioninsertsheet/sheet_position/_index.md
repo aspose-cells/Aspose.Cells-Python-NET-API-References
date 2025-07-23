@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  sheet_position Eigentum
 
-Ruft die nullbasierte Position des neuen Blatts in der Blattregisterleiste ab.
+Ruft die Nullposition des neuen Blatts in der Blattregisterleiste ab.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def sheet_position(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.revisions](../../)
-* Klasse [RevisionInsertSheet](/cells/python-net/de/aspose.cells.revisions/revisioninsertsheet)
+* Modul [`aspose.cells.revisions`](../../)
+* Klasse [`RevisionInsertSheet`](/cells/python-net/de/aspose.cells.revisions/revisioninsertsheet)

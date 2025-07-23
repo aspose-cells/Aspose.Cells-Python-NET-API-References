@@ -3,7 +3,7 @@ title: border_line_color propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 330
+weight: 350
 url: /fr/aspose.cells.drawing/picture/border_line_color/
 is_root: false
 ---

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_title_columns Eigentum
 
-Stellt die Spalten dar, die die zu wiederholenden Zellen auf der linken Seite jeder Seite enthalten.
+Stellt die Spalten dar, die die Zellen enthalten, die auf der linken Seite jeder Seite wiederholt werden sollen.
 
 ###  Beispiel
 
@@ -30,5 +30,5 @@ def print_title_columns(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

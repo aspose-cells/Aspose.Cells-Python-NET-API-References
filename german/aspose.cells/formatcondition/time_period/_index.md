@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  time_period Eigentum
 
- Der anwendbare Zeitraum in einer bedingten Formatierungsregel „Datum auftritt…“.
-Nur gültig für type = timePeriod.
+ Der anwendbare Zeitraum in einer Regel zur bedingten Formatierung vom Typ „Datum, an dem …“
+Nur gültig für Typ = Zeitraum.
 Der Standardwert ist TimePeriodType.Today.
 ###  Definition:
 ```python
@@ -23,6 +23,6 @@ def time_period(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FormatCondition](/cells/python-net/de/aspose.cells/formatcondition)
-* Klasse [TimePeriodType](/cells/python-net/de/aspose.cells/timeperiodtype)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FormatCondition`](/cells/python-net/de/aspose.cells/formatcondition)
+* Klasse [`TimePeriodType`](/cells/python-net/de/aspose.cells/timeperiodtype)

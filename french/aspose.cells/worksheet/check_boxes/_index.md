@@ -3,7 +3,7 @@ title: check_boxes propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 420
+weight: 440
 url: /fr/aspose.cells/worksheet/check_boxes/
 is_root: false
 ---

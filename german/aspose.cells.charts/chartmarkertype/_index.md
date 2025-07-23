@@ -8,7 +8,7 @@ url: /de/aspose.cells.charts/chartmarkertype/
 is_root: false
 ---
 ##  ChartMarkerType Aufzählung
-Stellt den Markierungsstil in einem Liniendiagramm, Streudiagramm oder Netzdiagramm dar.
+Stellt den Markierungsstil in einem Liniendiagramm, Streudiagramm oder Radardiagramm dar.
 
 
 

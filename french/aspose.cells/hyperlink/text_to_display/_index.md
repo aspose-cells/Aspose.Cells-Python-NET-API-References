@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text_to_display propriété
 
-Représente le texte à afficher pour le lien hypertexte spécifié. La valeur par défaut est l'adresse du lien hypertexte.
+Représente le texte à afficher pour l'hyperlien spécifié. La valeur par défaut est l'adresse de l'hyperlien.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def text_to_display(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Hyperlink](/cells/python-net/fr/aspose.cells/hyperlink)
+* module [`aspose.cells`](../../)
+* classe [`Hyperlink`](/cells/python-net/fr/aspose.cells/hyperlink)

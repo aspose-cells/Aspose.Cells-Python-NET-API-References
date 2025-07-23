@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  apply_excel_default_style_to_hyperlink propriété
 
-Indique si le style par défaut du lien hypertexte Excel est appliqué.
+Indique si le style par défaut d'Excel doit être appliqué au lien hypertexte.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def apply_excel_default_style_to_hyperlink(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [OdsLoadOptions](/cells/python-net/fr/aspose.cells/odsloadoptions)
+* module [`aspose.cells`](../../)
+* classe [`OdsLoadOptions`](/cells/python-net/fr/aspose.cells/odsloadoptions)

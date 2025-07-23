@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width_cm propriété
 
-Représente la largeur du commentaire, en unités de centimètres.
+Représente la largeur du commentaire, en centimètres.
 
 ###  Exemple
 

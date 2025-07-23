@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  ignore_useless_shapes Eigentum
 
-Gibt an, ob nutzlose Formen ignoriert werden.
+Gibt an, ob unnötige Formen ignoriert werden.
 
 ###  Bemerkungen
 
 Funktioniert nur für XLSX-, XLSB- und XLSM-Dateien.
- Es gibt viele überlappende identische Formen, die in manchen Dateien nutzlos sind.
-wir können sie beim Laden von Dateien berücksichtigen.
+ Es gibt viele überlappende identische Formen, die in einigen Dateien nutzlos sind,
+wir können sie beim Laden von Dateien ignorieren.
 ###  Definition:
 ```python
 @property

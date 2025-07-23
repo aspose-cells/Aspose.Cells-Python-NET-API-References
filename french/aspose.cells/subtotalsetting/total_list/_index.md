@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  total_list propriété
 
-Un tableau de décalages de champ de base zéro, indiquant les champs auxquels les sous-totaux sont ajoutés.
+Un tableau de décalages de champs basés sur zéro, indiquant les champs auxquels les sous-totaux sont ajoutés.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def total_list(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [SubtotalSetting](/cells/python-net/fr/aspose.cells/subtotalsetting)
+* module [`aspose.cells`](../../)
+* classe [`SubtotalSetting`](/cells/python-net/fr/aspose.cells/subtotalsetting)

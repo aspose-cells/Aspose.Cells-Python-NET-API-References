@@ -3,7 +3,7 @@ title: FontSetting classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 700
+weight: 690
 url: /fr/aspose.cells/fontsetting/
 is_root: false
 ---
@@ -17,14 +17,14 @@ Le type FontSetting expose les membres suivants :
 ###  Constructeurs
 | Constructeur| Description|
 | :- | :- |
-| [__init__](/cells/python-net/fr/aspose.cells/fontsetting/__init__/#int-int-aspose.cells.WorksheetCollection) |  |
+| [`__init__(self, start_index, length, sheets)`](/cells/python-net/fr/aspose.cells/fontsetting/__init__/#int-int-aspose.cells.worksheetcollection) |  |
 
 
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
-| [type](/cells/python-net/fr/aspose.cells/fontsetting/type) | Obtient le type de nœud de texte.|
-| [start_index](/cells/python-net/fr/aspose.cells/fontsetting/start_index) |Obtient l'index de début des caractères.|
+| [type](/cells/python-net/fr/aspose.cells/fontsetting/type) |Obtient le type de nœud de texte.|
+| [start_index](/cells/python-net/fr/aspose.cells/fontsetting/start_index) | Obtient l'index de départ des caractères.|
 | [length](/cells/python-net/fr/aspose.cells/fontsetting/length) | Obtient la longueur des caractères.|
 | [font](/cells/python-net/fr/aspose.cells/fontsetting/font) | Renvoie la police de cet objet.|
 | [text_options](/cells/python-net/fr/aspose.cells/fontsetting/text_options) | Renvoie les options de texte.|
@@ -33,7 +33,7 @@ Le type FontSetting expose les membres suivants :
 ###  Méthodes
 | Méthode| Description|
 | :- | :- |
-| [set_word_art_style](/cells/python-net/fr/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | Définit le style WordArt prédéfini.|
+| [`set_word_art_style(self, style)`](/cells/python-net/fr/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.presetwordartstyle) | Définit le style WordArt prédéfini.|
 
 
 

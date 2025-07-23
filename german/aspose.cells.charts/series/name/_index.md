@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name Eigentum
 
-Ruft die name der Datenreihe ab oder legt sie fest.
+Liest oder setzt den name der Datenreihe.
 
 ###  Beispiel
 
@@ -32,5 +32,5 @@ def name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Series](/cells/python-net/de/aspose.cells.charts/series)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Series`](/cells/python-net/de/aspose.cells.charts/series)

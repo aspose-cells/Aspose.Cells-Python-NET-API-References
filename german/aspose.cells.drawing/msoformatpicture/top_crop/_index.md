@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  top_crop Eigentum
 
-Stellt die Position der Oberseite des Zuschneiderechtecks dar, ausgedrückt als Verhältnis zur Bildhöhe.
+Stellt die Position der Oberseite des Zuschneiderechtecks dar, ausgedrückt als Verhältnis zur Höhe des Bilds.
 ###  Definition:
 ```python
 @property

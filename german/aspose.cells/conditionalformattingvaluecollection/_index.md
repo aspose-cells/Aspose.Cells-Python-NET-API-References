@@ -3,7 +3,7 @@ title: ConditionalFormattingValueCollection Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 360
+weight: 330
 url: /de/aspose.cells/conditionalformattingvaluecollection/
 is_root: false
 ---
@@ -24,15 +24,15 @@ Der Typ ConditionalFormattingValueCollection macht die folgenden Member verfügb
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [copy_to](/cells/python-net/de/aspose.cells/conditionalformattingvaluecollection/copy_to/#list) | Kopiert die gesamte Array-Liste in eine kompatible eindimensionale Array-Liste, beginnend am Anfang der Ziel-Array-Liste.|
-| [copy_to](/cells/python-net/de/aspose.cells/conditionalformattingvaluecollection/copy_to/#int-list-int-int) | Kopiert einen Bereich von Elementen aus der Array-Liste in eine kompatible eindimensionale Array-Liste, beginnend am angegebenen Index der Ziel-Array-Liste.|
-| [index_of](/cells/python-net/de/aspose.cells/conditionalformattingvaluecollection/index_of/#aspose.cells.ConditionalFormattingValue-int) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des ersten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der vom angegebenen Index bis zum letzten Element reicht.|
-| [index_of](/cells/python-net/de/aspose.cells/conditionalformattingvaluecollection/index_of/#aspose.cells.ConditionalFormattingValue-int-int) |Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des ersten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der beim angegebenen Index beginnt und die angegebene Anzahl von Elementen enthält.|
-| [last_index_of](/cells/python-net/de/aspose.cells/conditionalformattingvaluecollection/last_index_of/#aspose.cells.ConditionalFormattingValue) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des letzten Vorkommens in der gesamten Array-Liste zurück.|
-| [last_index_of](/cells/python-net/de/aspose.cells/conditionalformattingvaluecollection/last_index_of/#aspose.cells.ConditionalFormattingValue-int) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des letzten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der vom ersten Element bis zum angegebenen Index reicht.|
-| [last_index_of](/cells/python-net/de/aspose.cells/conditionalformattingvaluecollection/last_index_of/#aspose.cells.ConditionalFormattingValue-int-int) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des letzten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der die angegebene Anzahl von Elementen enthält und beim angegebenen Index endet.|
-| [add](/cells/python-net/de/aspose.cells/conditionalformattingvaluecollection/add/#aspose.cells.FormatConditionValueType-str) | Fügt das Objekt [`ConditionalFormattingValue`](/cells/python-net/de/aspose.cells/conditionalformattingvalue) hinzu.|
-| [binary_search](/cells/python-net/de/aspose.cells/conditionalformattingvaluecollection/binary_search/#aspose.cells.ConditionalFormattingValue) | Durchsucht die gesamte sortierte Array-Liste mithilfe des Standardvergleichs nach einem Element und gibt den nullbasierten Index des Elements zurück.|
+| [`copy_to(self, array)`](/cells/python-net/de/aspose.cells/conditionalformattingvaluecollection/copy_to/#list) |Kopiert die gesamte Array-Liste in eine kompatible eindimensionale Array-Liste, beginnend am Anfang der Ziel-Array-Liste.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/de/aspose.cells/conditionalformattingvaluecollection/copy_to/#int-list-int-int) | Kopiert einen Bereich von Elementen aus der Array-Liste in eine kompatible eindimensionale Array-Liste, beginnend am angegebenen Index der Ziel-Array-Liste.|
+| [`index_of(self, item, index)`](/cells/python-net/de/aspose.cells/conditionalformattingvaluecollection/index_of/#aspose.cells.conditionalformattingvalue-int) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des ersten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der sich vom angegebenen Index bis zum letzten Element erstreckt.|
+| [`index_of(self, item, index, count)`](/cells/python-net/de/aspose.cells/conditionalformattingvaluecollection/index_of/#aspose.cells.conditionalformattingvalue-int-int) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des ersten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der am angegebenen Index beginnt und die angegebene Anzahl von Elementen enthält.|
+| [`last_index_of(self, item)`](/cells/python-net/de/aspose.cells/conditionalformattingvaluecollection/last_index_of/#aspose.cells.conditionalformattingvalue) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des letzten Vorkommens innerhalb der gesamten Arrayliste zurück.|
+| [`last_index_of(self, item, index)`](/cells/python-net/de/aspose.cells/conditionalformattingvaluecollection/last_index_of/#aspose.cells.conditionalformattingvalue-int) |Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des letzten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der sich vom ersten Element bis zum angegebenen Index erstreckt.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/de/aspose.cells/conditionalformattingvaluecollection/last_index_of/#aspose.cells.conditionalformattingvalue-int-int) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des letzten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der die angegebene Anzahl von Elementen enthält und am angegebenen Index endet.|
+| [`add(self, type, value)`](/cells/python-net/de/aspose.cells/conditionalformattingvaluecollection/add/#aspose.cells.formatconditionvaluetype-str) | Fügt das Objekt [`ConditionalFormattingValue`](/cells/python-net/de/aspose.cells/conditionalformattingvalue) hinzu.|
+| [`binary_search(self, item)`](/cells/python-net/de/aspose.cells/conditionalformattingvaluecollection/binary_search/#aspose.cells.conditionalformattingvalue) | Durchsucht die gesamte sortierte Array-Liste mithilfe des Standardvergleichers nach einem Element und gibt den nullbasierten Index des Elements zurück.|
 
 
 

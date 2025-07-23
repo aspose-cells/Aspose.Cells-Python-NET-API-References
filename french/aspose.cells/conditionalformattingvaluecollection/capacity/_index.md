@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ConditionalFormattingValueCollection](/cells/python-net/fr/aspose.cells/conditionalformattingvaluecollection)
+* module [`aspose.cells`](../../)
+* classe [`ConditionalFormattingValueCollection`](/cells/python-net/fr/aspose.cells/conditionalformattingvaluecollection)

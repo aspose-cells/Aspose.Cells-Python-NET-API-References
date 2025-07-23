@@ -1,5 +1,5 @@
 ---
-title: add_copy méthode
+title: méthode add_copy
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,28 +7,29 @@ weight: 90
 url: /fr/aspose.cells.drawing/shapecollection/add_copy/
 is_root: false
 ---
-##  add_copy(source_shape, upper_left_row, top, upper_left_column, left) {#Shape-int-int-int-int}
+##  add_copy(self, source_shape, top_row, top, left_column, left) {#aspose.cells.drawing.Shape-int-int-int-int}
 Ajoute et copie une forme dans la feuille de calcul.
 
 
 ###  Retour
 
-Le nouvel index d'objet de forme.
+Le nouvel objet [`Shape`](/cells/python-net/fr/aspose.cells.drawing/shape).
 
 
 ```python
-def add_copy(self, source_shape, upper_left_row, top, upper_left_column, left):
+
+def add_copy(self, source_shape, top_row, top, left_column, left):
     ...
 ```
 
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| source_shape | [Shape](/cells/python-net/fr/aspose.cells.drawing/shape) | Forme source.|
-| upper_left_row | int | Index de ligne en haut à gauche.|
-| top | int |Représente le décalage vertical de la case à cocher par rapport à sa ligne de gauche, en unité de pixel.|
-| upper_left_column | int | Index de la colonne en haut à gauche.|
-| left | int | Représente le décalage horizontal de la zone de texte par rapport à sa colonne de gauche, en unité de pixel.|
+| source_shape | [`Shape`](/cells/python-net/fr/aspose.cells.drawing/shape) | Forme de la source.|
+| top_row | int |L'index de la ligne supérieure.|
+| top | int | Représente le décalage vertical par rapport à sa rangée supérieure, en unité de pixel.|
+| left_column | int | L'index de la colonne de gauche.|
+| left | int | Représente le décalage horizontal par rapport à sa colonne de gauche, en unité de pixel.|
 
 ###  Exemple
 
@@ -36,7 +37,7 @@ def add_copy(self, source_shape, upper_left_row, top, upper_left_column, left):
 
 # add a shape
 rectangle = shapes.add_rectangle(2, 0, 2, 0, 130, 130)
-# copy
+# Adds and copies a shape.
 shapes.add_copy(rectangle, 7, 0, 7, 0)
 
 ```
@@ -44,5 +45,6 @@ shapes.add_copy(rectangle, 7, 0, 7, 0)
 
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ShapeCollection](/cells/python-net/fr/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Shape`](/cells/python-net/fr/aspose.cells.drawing/shape)
+* classe [`ShapeCollection`](/cells/python-net/fr/aspose.cells.drawing/shapecollection)

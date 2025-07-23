@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  series_lines Eigentum
 
-Gibt ein SeriesLines-Objekt zurück, das die Reihenlinien für ein gestapeltes Balkendiagramm oder ein gestapeltes Säulendiagramm darstellt.
-Gilt nur für gestapelte Balken- und gestapelte Säulendiagramme.
+Gibt ein SeriesLines-Objekt zurück, das die Serienlinien für ein gestapeltes Balkendiagramm oder ein gestapeltes Säulendiagramm darstellt.
+Gilt nur für gestapelte Balken- und Säulendiagramme.
 ###  Definition:
 ```python
 @property
@@ -19,6 +19,6 @@ def series_lines(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Line](/cells/python-net/de/aspose.cells.drawing/line)
-* Klasse [Series](/cells/python-net/de/aspose.cells.charts/series)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Line`](/cells/python-net/de/aspose.cells.drawing/line)
+* Klasse [`Series`](/cells/python-net/de/aspose.cells.charts/series)

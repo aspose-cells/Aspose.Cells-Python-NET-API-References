@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  horizontal_alignment Eigentum
 
-Die Einstellung für die horizontale Ausrichtung wird angewendet.
+Die horizontale Ausrichtungseinstellung wird angewendet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def horizontal_alignment(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [StyleFlag](/cells/python-net/de/aspose.cells/styleflag)
+* Modul [`aspose.cells`](../../)
+* Klasse [`StyleFlag`](/cells/python-net/de/aspose.cells/styleflag)

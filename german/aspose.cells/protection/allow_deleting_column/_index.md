@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  allow_deleting_column Eigentum
 
-Stellt dar, ob das Löschen von Spalten auf einem geschützten Arbeitsblatt zulässig ist.
+Gibt an, ob das Löschen von Spalten in einem geschützten Arbeitsblatt zulässig ist.
 
 ###  Bemerkungen
 
-Die Spalten mit den zu löschenden Zellen müssen entsperrt werden, wenn das Blatt geschützt ist,
-und die Option "Entsperrte Zellen auswählen" muss aktiviert sein.
+Die Spalten mit den zu löschenden Zellen müssen entsperrt sein, wenn das Blatt geschützt ist.
+und die Option „Nicht gesperrte Zellen auswählen“ muss aktiviert sein.
 ###  Definition:
 ```python
 @property
@@ -26,5 +26,5 @@ def allow_deleting_column(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Protection](/cells/python-net/de/aspose.cells/protection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Protection`](/cells/python-net/de/aspose.cells/protection)

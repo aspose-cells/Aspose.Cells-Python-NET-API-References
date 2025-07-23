@@ -7,7 +7,7 @@ weight: 20
 url: /de/aspose.cells.vba/vbamodulecollection/add/
 is_root: false
 ---
-##  add(sheet) {#Worksheet}
+##  add(self, sheet) {#aspose.cells.Worksheet}
 Fügt ein Modul für ein Arbeitsblatt hinzu.
 
 
@@ -17,6 +17,7 @@ Fügt ein Modul für ein Arbeitsblatt hinzu.
 
 
 ```python
+
 def add(self, sheet):
     ...
 ```
@@ -24,10 +25,10 @@ def add(self, sheet):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| sheet | [Worksheet](/cells/python-net/de/aspose.cells/worksheet) | Das Arbeitsblatt|
+| sheet | [`Worksheet`](/cells/python-net/de/aspose.cells/worksheet) | Das Arbeitsblatt|
 
 
-##  add(type, name) {#VbaModuleType-str}
+##  add(self, type, name) {#aspose.cells.vba.VbaModuleType-str}
 Fügt Modul hinzu.
 
 
@@ -37,6 +38,7 @@ Fügt Modul hinzu.
 
 
 ```python
+
 def add(self, type, name):
     ...
 ```
@@ -44,11 +46,11 @@ def add(self, type, name):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| type | [VbaModuleType](/cells/python-net/de/aspose.cells.vba/vbamoduletype) | Der Typ des Moduls.|
+| type | [`VbaModuleType`](/cells/python-net/de/aspose.cells.vba/vbamoduletype) | Der Modultyp.|
 | name | str | Der Name des Moduls.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.vba](../../)
-* Klasse [VbaModuleCollection](/cells/python-net/de/aspose.cells.vba/vbamodulecollection)
+* Modul [`aspose.cells.vba`](../../)
+* Klasse [`VbaModuleCollection`](/cells/python-net/de/aspose.cells.vba/vbamodulecollection)

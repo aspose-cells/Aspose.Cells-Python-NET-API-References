@@ -3,12 +3,12 @@ title: méthode add_icons
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 130
+weight: 140
 url: /fr/aspose.cells.drawing/shapecollection/add_icons/
 is_root: false
 ---
-##  add_icons {#int-int-int-int-int-int-bytes-bytes}
-Ajoute une image SVG.
+##  add_icons(self, upper_left_row, top, upper_left_column, left, height, width, image_byte_data, compatible_image_data) {#int-int-int-int-int-int-bytes-bytes}
+Ajoute une image svg.
 
 
 ###  Retour
@@ -17,6 +17,7 @@ Ajoute une image SVG.
 
 
 ```python
+
 def add_icons(self, upper_left_row, top, upper_left_column, left, height, width, image_byte_data, compatible_image_data):
     ...
 ```
@@ -24,14 +25,14 @@ def add_icons(self, upper_left_row, top, upper_left_column, left, height, width,
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| upper_left_row | int | Index de la ligne supérieure gauche.|
-| top | int | Représente le décalage vertical de la forme par rapport à sa ligne de gauche, en unité de pixel.|
+| upper_left_row | int | Index de la rangée supérieure gauche.|
+| top | int | Représente le décalage vertical de la forme par rapport à sa rangée de gauche, en unité de pixel.|
 | upper_left_column | int | Index de la colonne supérieure gauche.|
 | left | int | Le décalage horizontal de la forme par rapport à sa colonne de gauche, en unité de pixel.|
 | height | int | La hauteur de la forme, en unité de pixel.|
 | width | int | La largeur de la forme, en unité de pixel.|
-| image_byte_data | bytes | Les données d'octet d'image.|
-| compatible_image_data | bytes | Données d'image converties à partir de SVG afin d'être compatibles avec Excel 2016 ou les versions inférieures.|
+| image_byte_data | bytes | Les données d'octets de l'image.|
+| compatible_image_data | bytes | Données d'image converties à partir de svg afin d'être compatibles avec Excel 2016 ou les versions inférieures.|
 
 ###  Exemple
 

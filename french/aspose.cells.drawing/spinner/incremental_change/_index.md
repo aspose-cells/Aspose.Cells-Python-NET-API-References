@@ -3,13 +3,13 @@ title: incremental_change propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 530
+weight: 520
 url: /fr/aspose.cells.drawing/spinner/incremental_change/
 is_root: false
 ---
 ##  incremental_change propriété
 
-Obtient ou définit la quantité d'incrémentation de la barre de défilement ou de la double flèche lors du défilement d'une ligne.
+Obtient ou définit le montant d'incrémentation de la barre de défilement ou du spinner d'une ligne de défilement.
 ###  Définition:
 ```python
 @property

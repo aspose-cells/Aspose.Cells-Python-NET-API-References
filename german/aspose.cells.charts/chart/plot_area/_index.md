@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_area Eigentum
 
-Ruft den Plotbereich des Diagramms ab, der Achsenteilstrichbeschriftungen enthält.
+Ruft den Zeichnungsbereich des Diagramms ab, der die Beschriftungen der Achsenmarkierungen enthält.
 
 ###  Bemerkungen
 

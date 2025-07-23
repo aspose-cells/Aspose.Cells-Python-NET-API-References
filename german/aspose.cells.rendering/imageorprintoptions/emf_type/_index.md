@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  emf_type Eigentum
 
-Ruft einen EmfType ab oder legt diesen fest, der das Format der Metadatei angibt.
+Ruft einen EmfType ab oder legt ihn fest, der das Format der Metadatei angibt.
 Der Standardwert ist EmfPlusDual.
 ###  Definition:
 ```python

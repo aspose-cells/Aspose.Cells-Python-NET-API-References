@@ -17,18 +17,18 @@ Der Typ SmartTag macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [deleted](/cells/python-net/de/aspose.cells.markup/smarttag/deleted) | Gibt an, ob das Smarttag gelöscht wurde.|
+| [deleted](/cells/python-net/de/aspose.cells.markup/smarttag/deleted) | Gibt an, ob das Smarttag gelöscht ist.|
 | [properties](/cells/python-net/de/aspose.cells.markup/smarttag/properties) | Ruft die Eigenschaften des Smarttags ab und legt sie fest.|
-| [uri](/cells/python-net/de/aspose.cells.markup/smarttag/uri) | Ruft den Namespace-URI des Smarttags ab.|
+| [uri](/cells/python-net/de/aspose.cells.markup/smarttag/uri) | Ruft die Namespace-URI des Smarttags ab.|
 | [name](/cells/python-net/de/aspose.cells.markup/smarttag/name) | Ruft den Namen des Smarttags ab.|
 
 
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [set_link(uri, name)](/cells/python-net/de/aspose.cells.markup/smarttag/set_link/#str-str) | Ändern Sie den Namen und den Namespace-URI des Smarttags.|
+| [`set_link(self, uri, name)`](/cells/python-net/de/aspose.cells.markup/smarttag/set_link/#str-str) |Ändern Sie den Namen und die Namespace-URI des Smarttags.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.markup](..)
+* Modul [`aspose.cells.markup`](..)

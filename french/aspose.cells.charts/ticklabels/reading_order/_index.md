@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  reading_order propriété
 
-Représente l’ordre de lecture du texte.
+Représente l'ordre de lecture du texte.
 ###  Définition:
 ```python
 @property

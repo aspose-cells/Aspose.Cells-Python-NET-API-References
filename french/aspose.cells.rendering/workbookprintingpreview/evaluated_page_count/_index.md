@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  evaluated_page_count propriété
 
-Évaluer le nombre total de pages de ce classeur
+Évaluez le nombre total de pages de ce classeur
 
 ###  Exemple
 
-Le code suivant montre le moyen le plus rapide d'obtenir le nombre de pages d'un classeur.
+Le code suivant montre le moyen le plus rapide d’obtenir le nombre de pages d’un classeur.
 
 ```python
 from aspose.cells import Workbook
@@ -33,5 +33,5 @@ def evaluated_page_count(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.rendering](../../)
-* classe [WorkbookPrintingPreview](/cells/python-net/fr/aspose.cells.rendering/workbookprintingpreview)
+* module [`aspose.cells.rendering`](../../)
+* classe [`WorkbookPrintingPreview`](/cells/python-net/fr/aspose.cells.rendering/workbookprintingpreview)

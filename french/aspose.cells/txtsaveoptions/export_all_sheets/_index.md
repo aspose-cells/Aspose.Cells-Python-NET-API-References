@@ -3,14 +3,14 @@ title: export_all_sheets propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 80
+weight: 100
 url: /fr/aspose.cells/txtsaveoptions/export_all_sheets/
 is_root: false
 ---
 ##  export_all_sheets propriété
 
-Indique si toutes les feuilles sont exportées vers le fichier texte.
-S'il est faux, exportez uniquement la feuille active, tout comme MS Excel.
+Indique si toutes les feuilles doivent être exportées vers le fichier texte.
+Si c'est faux, exportez uniquement la feuille active, tout comme MS Excel.
 
 ###  Remarques
 
@@ -26,5 +26,5 @@ def export_all_sheets(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [TxtSaveOptions](/cells/python-net/fr/aspose.cells/txtsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`TxtSaveOptions`](/cells/python-net/fr/aspose.cells/txtsaveoptions)

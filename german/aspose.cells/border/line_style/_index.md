@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  line_style Eigentum
 
-Ruft den Zellrahmentyp ab oder legt diesen fest.
+Ruft den Zellenrahmentyp ab oder legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def line_style(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Border](/cells/python-net/de/aspose.cells/border)
-* Klasse [CellBorderType](/cells/python-net/de/aspose.cells/cellbordertype)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Border`](/cells/python-net/de/aspose.cells/border)
+* Klasse [`CellBorderType`](/cells/python-net/de/aspose.cells/cellbordertype)

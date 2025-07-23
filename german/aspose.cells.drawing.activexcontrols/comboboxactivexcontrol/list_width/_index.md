@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  list_width Eigentum
 
-Ruft die Breite in Punkteinheiten ab und legt sie fest.
+Ruft die Breite in der Einheit „Punkte“ ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def list_width(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [ComboBoxActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`ComboBoxActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

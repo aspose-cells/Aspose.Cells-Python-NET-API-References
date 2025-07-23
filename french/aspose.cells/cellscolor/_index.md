@@ -3,7 +3,7 @@ title: CellsColor classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 200
+weight: 170
 url: /fr/aspose.cells/cellscolor/
 is_root: false
 ---
@@ -22,14 +22,14 @@ Le type CellsColor expose les membres suivants :
 | [theme_color](/cells/python-net/fr/aspose.cells/cellscolor/theme_color) | Obtient la couleur du thème. S'applique uniquement au type de couleur du thème.|
 | [color_index](/cells/python-net/fr/aspose.cells/cellscolor/color_index) | Obtient et définit l'index de couleur dans la palette de couleurs. S'applique uniquement aux couleurs indexées.|
 | [color](/cells/python-net/fr/aspose.cells/cellscolor/color) | Obtient et définit la couleur RVB.|
-| [argb](/cells/python-net/fr/aspose.cells/cellscolor/argb) | Obtient et définit la couleur à partir d’une valeur ARVB 32 bits.|
-| [transparency](/cells/python-net/fr/aspose.cells/cellscolor/transparency) |Obtient et définit la transparence sous la forme d'une valeur comprise entre 0,0 (opaque) et 1,0 (clair).|
+| [argb](/cells/python-net/fr/aspose.cells/cellscolor/argb) | Obtient et définit la couleur à partir d'une valeur ARGB 32 bits.|
+| [transparency](/cells/python-net/fr/aspose.cells/cellscolor/transparency) | Obtient et définit la transparence comme une valeur comprise entre 0,0 (opaque) et 1,0 (clair).|
 
 
 ###  Méthodes
 | Méthode| Description|
 | :- | :- |
-| [set_tint_of_shape_color](/cells/python-net/fr/aspose.cells/cellscolor/set_tint_of_shape_color/#float) | Définir la teinte de la couleur de la forme|
+| [`set_tint_of_shape_color(self, tint)`](/cells/python-net/fr/aspose.cells/cellscolor/set_tint_of_shape_color/#float) | Définir la teinte de la couleur de la forme|
 
 
 

@@ -3,14 +3,14 @@ title: drag_to_page propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 310
+weight: 390
 url: /fr/aspose.cells.pivot/pivotfield/drag_to_page/
 is_root: false
 ---
 ##  drag_to_page propriété
 
-Indique si le champ spécifié peut être glissé vers la position de la page.
-La valeur par défaut est vraie.
+Indique si le champ spécifié peut être déplacé vers la position de la page.
+La valeur par défaut est vrai.
 ###  Définition:
 ```python
 @property

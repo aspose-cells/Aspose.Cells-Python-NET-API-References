@@ -13,7 +13,7 @@ Gibt an, ob Formeln vor dem Speichern der PDF-Datei berechnet werden sollen.
 
 ###  Bemerkungen
 
-Der Standardwert ist falsch.
+Der Standardwert ist „false“.
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def calculate_formula(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PdfSaveOptions](/cells/python-net/de/aspose.cells/pdfsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PdfSaveOptions`](/cells/python-net/de/aspose.cells/pdfsaveoptions)

@@ -3,7 +3,7 @@ title: indent propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 130
+weight: 160
 url: /fr/aspose.cells/jsonsaveoptions/indent/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def indent(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [JsonSaveOptions](/cells/python-net/fr/aspose.cells/jsonsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`JsonSaveOptions`](/cells/python-net/fr/aspose.cells/jsonsaveoptions)

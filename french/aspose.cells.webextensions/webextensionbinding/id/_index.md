@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  id propriété
 
-Obtient et définit l'identificateur de liaison.
+Obtient et définit l'identifiant de liaison.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def id(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.webextensions](../../)
-* classe [WebExtensionBinding](/cells/python-net/fr/aspose.cells.webextensions/webextensionbinding)
+* module [`aspose.cells.webextensions`](../../)
+* classe [`WebExtensionBinding`](/cells/python-net/fr/aspose.cells.webextensions/webextensionbinding)

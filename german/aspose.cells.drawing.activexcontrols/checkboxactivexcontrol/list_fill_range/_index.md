@@ -8,8 +8,6 @@ url: /de/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol/list_fill_r
 is_root: false
 ---
 ##  list_fill_range Eigentum
-
-Ruft den Füllbereich der Liste ab und legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def list_fill_range(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [CheckBoxActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`CheckBoxActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  take_focus_on_click Eigentum
 
-Gibt an, ob das Steuerelement den Fokus erhält, wenn darauf geklickt wird.
+Gibt an, ob das Steuerelement beim Klicken den Fokus erhält.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def take_focus_on_click(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [CommandButtonActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`CommandButtonActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)

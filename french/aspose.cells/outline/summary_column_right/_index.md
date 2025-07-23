@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  summary_column_right propriété
 
-Indique si la colonne récapitulative sera positionnée à droite des colonnes de détail dans le plan.
+Indique si la colonne de résumé sera positionnée à droite des colonnes de détails dans le plan.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def summary_column_right(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Outline](/cells/python-net/fr/aspose.cells/outline)
+* module [`aspose.cells`](../../)
+* classe [`Outline`](/cells/python-net/fr/aspose.cells/outline)

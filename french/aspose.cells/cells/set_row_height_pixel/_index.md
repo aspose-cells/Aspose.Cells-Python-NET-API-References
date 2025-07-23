@@ -3,16 +3,17 @@ title: méthode set_row_height_pixel
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 880
+weight: 900
 url: /fr/aspose.cells/cells/set_row_height_pixel/
 is_root: false
 ---
-##  set_row_height_pixel {#int-int}
+##  set_row_height_pixel(self, row, pixels) {#int-int}
 Définit la hauteur de la ligne en unités de pixels.
 
 
 
 ```python
+
 def set_row_height_pixel(self, row, pixels):
     ...
 ```

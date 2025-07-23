@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  check_excel_restriction propriété
 
-Vérifier ou non la restriction du fichier Excel lorsque l'utilisateur modifie les objets liés aux cellules.
-Par exemple, Excel ne permet pas de saisir une valeur de chaîne supérieure à 32 Ko.
-Lorsque vous saisissez une valeur supérieure à 32 Ko, par exemple Cell.PutValue(string), si cette propriété est vraie, vous obtiendrez une exception.
+Vérifiez si la restriction du fichier Excel est vérifiée lorsque l'utilisateur modifie les objets liés aux cellules.
+Par exemple, Excel ne permet pas de saisir une valeur de chaîne supérieure à 32 Ko.
+Lorsque vous saisissez une valeur supérieure à 32 Ko, comme par exemple Cell.PutValue(string), si cette propriété est vraie, vous obtiendrez une exception.
 Si cette propriété est fausse, nous accepterons la valeur de votre chaîne d'entrée comme valeur de la cellule afin que plus tard
-vous pouvez afficher la valeur de chaîne complète pour d'autres formats de fichiers tels que CSV.
-Cependant, si vous avez défini un type de valeur non valide pour le format de fichier Excel,
-vous ne devez pas enregistrer le classeur au format de fichier Excel ultérieurement. Sinon, une erreur inattendue pourrait se produire pour le fichier Excel généré.
+vous pouvez générer la valeur de chaîne complète pour d'autres formats de fichiers tels que CSV.
+Cependant, si vous avez défini un type de valeur qui n'est pas valide pour le format de fichier Excel,
+Vous ne devez pas enregistrer le classeur au format Excel ultérieurement. Sinon, une erreur inattendue pourrait se produire dans le fichier Excel généré.
 ###  Définition:
 ```python
 @property

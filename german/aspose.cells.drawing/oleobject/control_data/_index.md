@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  control_data Eigentum
 
-Ruft die Kontrolldaten ab.
+Ruft die Daten der Steuerung ab.
 
 ###  Beispiel
 

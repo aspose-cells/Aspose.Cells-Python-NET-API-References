@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  password Eigentum
 
-Stellt die Verschlüsselung der Arbeitsmappendatei password dar.
+Stellt die Arbeitsmappendateiverschlüsselung password dar.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def password(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.metadata](../../)
-* Klasse [MetadataOptions](/cells/python-net/de/aspose.cells.metadata/metadataoptions)
+* Modul [`aspose.cells.metadata`](../../)
+* Klasse [`MetadataOptions`](/cells/python-net/de/aspose.cells.metadata/metadataoptions)

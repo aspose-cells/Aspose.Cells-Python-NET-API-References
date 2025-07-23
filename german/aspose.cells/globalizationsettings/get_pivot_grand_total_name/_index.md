@@ -7,16 +7,17 @@ weight: 150
 url: /de/aspose.cells/globalizationsettings/get_pivot_grand_total_name/
 is_root: false
 ---
-##  get_pivot_grand_total_name {#}
-Ruft den Namen der Bezeichnung „Grand Total“ in der PivotTable ab.
+##  get_pivot_grand_total_name(self) {#}
+Ruft den Namen der Beschriftung „Gesamtsumme“ in der PivotTable ab.
 
 
 ###  Kehrt zurück
 
-Der Name des „Grand Total“-Labels
+Der Name des Labels „Grand Total“
 
 
 ```python
+
 def get_pivot_grand_total_name(self):
     ...
 ```
@@ -24,10 +25,10 @@ def get_pivot_grand_total_name(self):
 
 ###  Bemerkungen
 
-HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
+HINWEIS: Dieses Mitglied ist mittlerweile veraltet. Stattdessen
 Bitte verwenden Sie die Methode PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
- Diese Immobilie wird 12 Monate später seit Dezember 2022 entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+ Diese Eigenschaft wird 12 Monate später (ab Dezember 2022) entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 
 
 ###  Siehe auch

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  scale Eigentum
 
-Ruft das Bildformat scale ab und setzt es.
+Ruft das Bildformat scale ab und legt es fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def scale(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [FillFormat](/cells/python-net/de/aspose.cells.drawing/fillformat)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`FillFormat`](/cells/python-net/de/aspose.cells.drawing/fillformat)

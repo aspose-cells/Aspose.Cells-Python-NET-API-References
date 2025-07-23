@@ -3,13 +3,13 @@ title: window_top propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 580
+weight: 590
 url: /fr/aspose.cells/workbooksettings/window_top/
 is_root: false
 ---
 ##  window_top propriété
 
-Distance entre le bord supérieur de la zone client et le bord supérieur de la fenêtre, en unité de point.
+La distance entre le bord supérieur de la zone client et le bord supérieur de la fenêtre, en unité de point.
 ###  Définition:
 ```python
 @property

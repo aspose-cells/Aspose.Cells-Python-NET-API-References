@@ -3,7 +3,7 @@ title: id propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 530
+weight: 520
 url: /fr/aspose.cells.drawing/listbox/id/
 is_root: false
 ---

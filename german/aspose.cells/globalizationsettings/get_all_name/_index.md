@@ -7,16 +7,17 @@ weight: 30
 url: /de/aspose.cells/globalizationsettings/get_all_name/
 is_root: false
 ---
-##  get_all_name() {#}
-Ruft den Namen der Bezeichnung „(Alle)“ in der PivotTable ab.
+##  get_all_name(self) {#}
+Ruft den Namen der Beschriftung „(Alle)“ in der PivotTable ab.
 
 
 ###  Kehrt zurück
 
-Der Name des Labels „(Alle)“.
+Der Name des Labels „(Alle)“
 
 
 ```python
+
 def get_all_name(self):
     ...
 ```
@@ -24,12 +25,12 @@ def get_all_name(self):
 
 ###  Bemerkungen
 
-HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
-verwenden Sie bitte die Methode GlobalizationSettings.GetColumnLabelsOfPivotTable().
- Diese Property wird 12 Monate später seit Dezember 2022 entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+HINWEIS: Dieses Mitglied ist mittlerweile veraltet. Stattdessen
+Bitte verwenden Sie die Methode GlobalizationSettings.GetColumnLabelsOfPivotTable().
+ Diese Eigenschaft wird 12 Monate später (ab Dezember 2022) entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [GlobalizationSettings](/cells/python-net/de/aspose.cells/globalizationsettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`GlobalizationSettings`](/cells/python-net/de/aspose.cells/globalizationsettings)

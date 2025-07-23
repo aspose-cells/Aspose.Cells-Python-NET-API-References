@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  children propriété
 
-Obtient toutes les exécutions de texte dans ce paragraphe.
-Si ce paragraphe est vide, retourne le paragraphe lui-même.
+Obtient tous les textes de ce paragraphe.
+Si ce paragraphe est vide, renvoie le paragraphe lui-même.
 ###  Définition:
 ```python
 @property
@@ -19,5 +19,5 @@ def children(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [TextParagraph](/cells/python-net/fr/aspose.cells.drawing.texts/textparagraph)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`TextParagraph`](/cells/python-net/fr/aspose.cells.drawing.texts/textparagraph)

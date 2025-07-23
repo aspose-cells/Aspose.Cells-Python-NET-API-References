@@ -1,13 +1,13 @@
 ---
-title: AutoShapeType dénombrement
+title: AutoShapeType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 760
+weight: 750
 url: /fr/aspose.cells.drawing/autoshapetype/
 is_root: false
 ---
-##  AutoShapeType dénombrement
+##  AutoShapeType énumération
 Représente tous les types de formes automatiques intégrés.
 
 
@@ -158,15 +158,15 @@ Le type AutoShapeType expose les membres suivants :
 | TEXT_TRIANGLE_INVERTED | Une forme de texte triangulaire pointant vers le bas.|
 | TEXT_CHEVRON | Une forme de texte en chevron pointant vers le haut.|
 | TEXT_CHEVRON_INVERTED | Une forme de texte en chevron pointant vers le bas.|
-| TEXT_RING_INSIDE |Une forme de texte circulaire, comme s'il lisait une inscription à l'intérieur d'un anneau.|
-| TEXT_RING_OUTSIDE | Une forme de texte circulaire, comme s'il lisait une inscription à l'extérieur d'un anneau.|
+| TEXT_RING_INSIDE | Une forme de texte circulaire, comme si l'on lisait une inscription à l'intérieur d'un anneau.|
+| TEXT_RING_OUTSIDE | Une forme de texte circulaire, comme si l'on lisait une inscription à l'extérieur d'un anneau.|
 | TEXT_ARCH_UP_CURVE | Une forme de texte incurvée vers le haut.|
 | TEXT_ARCH_DOWN_CURVE | Une forme de texte incurvée vers le bas.|
-| TEXT_CIRCLE_CURVE | Une forme de texte circulaire.|
+| TEXT_CIRCLE_CURVE |Une forme de texte circulaire.|
 | TEXT_BUTTON_CURVE | Une forme de texte qui ressemble à un bouton.|
 | TEXT_ARCH_UP_POUR | Une forme de texte arquée vers le haut.|
 | TEXT_ARCH_DOWN_POUR | Une forme de texte arquée vers le bas.|
-| TEXT_CIRCLE_POUR | Une forme de texte circulaire.|
+| TEXT_CIRCLE_POUR |Une forme de texte circulaire.|
 | TEXT_BUTTON_POUR | Une forme de texte qui ressemble à un bouton.|
 | TEXT_CURVE_UP | Une forme de texte incurvée vers le haut.|
 | TEXT_CURVE_DOWN | Une forme de texte incurvée vers le bas.|
@@ -176,22 +176,22 @@ Le type AutoShapeType expose les membres suivants :
 | TEXT_WAVE2 | Une forme de texte ondulée.|
 | TEXT_DOUBLE_WAVE1 | Une forme de texte ondulée.|
 | TEXT_DOUBLE_WAVE2 | Une forme de texte ondulée.|
-| TEXT_INFLATE | Une forme de texte qui se développe verticalement au milieu.|
-| TEXT_DEFLATE | Une forme de texte qui se rétrécit verticalement au milieu.|
-| TEXT_INFLATE_BOTTOM | Une forme de texte qui se développe vers le bas au milieu.|
-| TEXT_DEFLATE_BOTTOM | Une forme de texte qui se rétrécit vers le haut au milieu.|
-| TEXT_INFLATE_TOP | Une forme de texte qui se développe vers le haut au milieu.|
-| TEXT_DEFLATE_TOP | Une forme de texte qui se rétrécit vers le bas au milieu.|
-| TEXT_DEFLATE_INFLATE |Une forme de texte où les lignes inférieures s'étendent vers le haut. Les lignes supérieures rétrécissent pour compenser.|
-| TEXT_DEFLATE_INFLATE_DEFLATE | Une forme de texte où les lignes au centre s'étendent verticalement. Les lignes supérieures et inférieures rétrécissent pour compenser.|
-| TEXT_FADE_RIGHT | Une forme de texte qui se rétrécit verticalement sur le côté droit.|
-| TEXT_FADE_LEFT | Une forme de texte qui se rétrécit verticalement sur le côté gauche.|
-| TEXT_FADE_UP | Une forme de texte qui se rétrécit horizontalement en haut.|
-| TEXT_FADE_DOWN | Une forme de texte qui se rétrécit horizontalement en bas.|
+| TEXT_INFLATE | Une forme de texte qui s'étend verticalement au milieu.|
+| TEXT_DEFLATE | Une forme de texte qui rétrécit verticalement au milieu.|
+| TEXT_INFLATE_BOTTOM | Une forme de texte qui s'étend vers le bas au milieu.|
+| TEXT_DEFLATE_BOTTOM | Une forme de texte qui rétrécit vers le haut au milieu.|
+| TEXT_INFLATE_TOP | Une forme de texte qui s'étend vers le haut au milieu.|
+| TEXT_DEFLATE_TOP | Une forme de texte qui rétrécit vers le bas au milieu.|
+| TEXT_DEFLATE_INFLATE | Forme de texte où les lignes inférieures s'étendent vers le haut. Les lignes supérieures se rétrécissent pour compenser.|
+| TEXT_DEFLATE_INFLATE_DEFLATE | Forme de texte dont les lignes centrales s'étendent verticalement. Les lignes supérieures et inférieures se rétrécissent pour compenser.|
+| TEXT_FADE_RIGHT | Une forme de texte qui rétrécit verticalement sur le côté droit.|
+| TEXT_FADE_LEFT | Une forme de texte qui rétrécit verticalement sur le côté gauche.|
+| TEXT_FADE_UP |Une forme de texte qui rétrécit horizontalement sur le dessus.|
+| TEXT_FADE_DOWN | Une forme de texte qui rétrécit horizontalement en bas.|
 | TEXT_SLANT_UP | Une forme de texte inclinée vers le haut.|
-| TEXT_SLANT_DOWN | Forme de texte inclinée vers le bas.|
-| TEXT_CAN_UP | Une forme de texte incurvée vers le haut comme si elle était lue sur le côté d'une boîte de conserve.|
-| TEXT_CAN_DOWN | Forme de texte incurvée vers le bas comme si elle était lue sur le côté d'une boîte de conserve.|
+| TEXT_SLANT_DOWN | Une forme de texte inclinée vers le bas.|
+| TEXT_CAN_UP | Une forme de texte courbée vers le haut comme si elle était lue sur le côté d'une boîte de conserve.|
+| TEXT_CAN_DOWN | Une forme de texte courbée vers le bas comme si elle était lue sur le côté d'une canette.|
 | FLOW_CHART_ALTERNATE_PROCESS |  |
 | FLOW_CHART_OFFPAGE_CONNECTOR |  |
 | LINE_CALLOUT_NO_BORDER1 |  |
@@ -217,7 +217,7 @@ Le type AutoShapeType expose les membres suivants :
 | DOCUMENT_ACTION_BUTTON |  |
 | SOUND_ACTION_BUTTON |  |
 | MOVIE_ACTION_BUTTON |  |
-| HOST_CONTROL | Cette valeur NE DEVRAIT PAS être utilisée.|
+| HOST_CONTROL | Cette valeur NE DOIT PAS être utilisée.|
 | TEXT_BOX |  |
 | HEPTAGON |  |
 | DECAGON |  |
@@ -265,14 +265,14 @@ Le type AutoShapeType expose les membres suivants :
 | CHART_PLUS |  |
 | FRAME |  |
 | MODEL_3D |  |
-| ROUND_CALLOUT | Il n'y a pas un tel type dans Excel|
-| TEXT_ARCH_LEFT_POUR | Il n'y a pas un tel type dans Excel|
-| TEXT_ARCH_RIGHT_POUR | Il n'y a pas un tel type dans Excel|
-| TEXT_ARCH_LEFT_CURVE | Il n'y a pas un tel type dans Excel|
-| TEXT_ARCH_RIGHT_CURVE | Il n'y a pas un tel type dans Excel|
+| ROUND_CALLOUT | Il n'existe pas de tel type dans Excel|
+| TEXT_ARCH_LEFT_POUR | Il n'existe pas de tel type dans Excel|
+| TEXT_ARCH_RIGHT_POUR | Il n'existe pas de tel type dans Excel|
+| TEXT_ARCH_LEFT_CURVE | Il n'existe pas de tel type dans Excel|
+| TEXT_ARCH_RIGHT_CURVE | Il n'existe pas de tel type dans Excel|
 | UNKNOWN |  |
 
 
 
 ###  Voir également
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  depth Eigentum
 
-Ruft die depth von vorne nach hinten in Einheiten von 1/4000 der Breite des Diagramms ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.
+Ruft die Vorder- und Rückseite von depth in Einheiten von 1/4000 der Diagrammbreite ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def depth(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Walls](/cells/python-net/de/aspose.cells.charts/walls)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Walls`](/cells/python-net/de/aspose.cells.charts/walls)

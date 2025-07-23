@@ -7,12 +7,13 @@ weight: 150
 url: /de/aspose.cells/cells/copy_column/
 is_root: false
 ---
-##  copy_column(source_cells, source_column_index, destination_column_index) {#Cells-int-int}
+##  copy_column(self, source_cells, source_column_index, destination_column_index) {#aspose.cells.Cells-int-int}
 Kopiert Daten und Formate einer ganzen Spalte.
 
 
 
 ```python
+
 def copy_column(self, source_cells, source_column_index, destination_column_index):
     ...
 ```
@@ -20,12 +21,12 @@ def copy_column(self, source_cells, source_column_index, destination_column_inde
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| source_cells | [Cells](/cells/python-net/de/aspose.cells/cells) | Quellobjekt Cells enthält zu kopierende Daten und Formate.|
+| source_cells | [`Cells`](/cells/python-net/de/aspose.cells/cells) | Das Quellobjekt Cells enthält zu kopierende Daten und Formate.|
 | source_column_index | int | Quellspaltenindex.|
-| destination_column_index | int | Index der Zielspalte.|
+| destination_column_index | int | Zielspaltenindex.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_hf_diff_odd_even propriété
 
-True signifie que l'en-tête/le pied de page des pages impaires est différent des pages impaires.
+Vrai signifie que l'en-tête/pied de page des pages impaires est différent avec les pages impaires.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_hf_diff_odd_even(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/fr/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/fr/aspose.cells/pagesetup)

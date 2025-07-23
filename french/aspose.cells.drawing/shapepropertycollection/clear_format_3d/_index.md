@@ -1,5 +1,5 @@
 ---
-title: clear_format_3d méthode
+title: méthode clear_format_3d
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 20
 url: /fr/aspose.cells.drawing/shapepropertycollection/clear_format_3d/
 is_root: false
 ---
-##  clear_format_3d() {#}
+##  clear_format_3d(self) {#}
 Efface les propriétés de forme 3D de la forme.
 
 
 
 ```python
+
 def clear_format_3d(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear_format_3d(self):
 
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ShapePropertyCollection](/cells/python-net/fr/aspose.cells.drawing/shapepropertycollection)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ShapePropertyCollection`](/cells/python-net/fr/aspose.cells.drawing/shapepropertycollection)

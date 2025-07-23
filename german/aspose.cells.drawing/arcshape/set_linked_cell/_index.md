@@ -3,16 +3,17 @@ title: set_linked_cell Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 200
+weight: 210
 url: /de/aspose.cells.drawing/arcshape/set_linked_cell/
 is_root: false
 ---
-##  set_linked_cell {#str-bool-bool}
-Legt den Bereich fest, der mit dem Wert des Steuerelements verknüpft ist.
+##  set_linked_cell(self, formula, is_r1c1, is_local) {#str-bool-bool}
+Legt den mit dem Wert des Steuerelements verknüpften Bereich fest.
 
 
 
 ```python
+
 def set_linked_cell(self, formula, is_r1c1, is_local):
     ...
 ```
@@ -22,7 +23,7 @@ def set_linked_cell(self, formula, is_r1c1, is_local):
 | :- | :- | :- |
 | formula | str | Der mit dem Wert des Steuerelements verknüpfte Bereich.|
 | is_r1c1 | bool | Ob die Formel als R1C1 formatiert werden muss.|
-| is_local | bool | Ob die Formel je nach Gebietsschema formatiert werden muss.|
+| is_local | bool | Ob die Formel nach Gebietsschema formatiert werden muss.|
 
 ###  Beispiel
 

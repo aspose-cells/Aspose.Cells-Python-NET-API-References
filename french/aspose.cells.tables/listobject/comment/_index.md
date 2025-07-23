@@ -3,7 +3,7 @@ title: comment propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 120
+weight: 130
 url: /fr/aspose.cells.tables/listobject/comment/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def comment(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.tables](../../)
-* classe [ListObject](/cells/python-net/fr/aspose.cells.tables/listobject)
+* module [`aspose.cells.tables`](../../)
+* classe [`ListObject`](/cells/python-net/fr/aspose.cells.tables/listobject)

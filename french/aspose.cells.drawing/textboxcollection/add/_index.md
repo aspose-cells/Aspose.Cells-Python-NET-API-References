@@ -1,5 +1,5 @@
 ---
-title: add méthode
+title: méthode add
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 20
 url: /fr/aspose.cells.drawing/textboxcollection/add/
 is_root: false
 ---
-##  add(upper_left_row, upper_left_column, height, width) {#int-int-int-int}
+##  add(self, upper_left_row, upper_left_column, height, width) {#int-int-int-int}
 Ajoute une zone de texte à la collection.
 
 
 ###  Retour
 
-[TextBox](/cells/python-net/fr/aspose.cells.drawing/textbox) indice d'objet.
+[`TextBox`](/cells/python-net/fr/aspose.cells.drawing/textbox) index d'objet.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, height, width):
     ...
 ```
@@ -24,8 +25,8 @@ def add(self, upper_left_row, upper_left_column, height, width):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| upper_left_row | int | Index de ligne en haut à gauche.|
-| upper_left_column | int | Index de la colonne en haut à gauche.|
+| upper_left_row | int | Index de la rangée supérieure gauche.|
+| upper_left_column | int | Index de la colonne supérieure gauche.|
 | height | int | Hauteur de la zone de texte, en unité de pixel.|
 | width | int | Largeur de la zone de texte, en unité de pixel.|
 
@@ -41,6 +42,6 @@ index2 = textBoxCollection.add(1, 1, 50, 100)
 
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [TextBox](/cells/python-net/fr/aspose.cells.drawing/textbox)
-* classe [TextBoxCollection](/cells/python-net/fr/aspose.cells.drawing/textboxcollection)
+* module [`aspose.cells.drawing`](../../)
+* classe [`TextBox`](/cells/python-net/fr/aspose.cells.drawing/textbox)
+* classe [`TextBoxCollection`](/cells/python-net/fr/aspose.cells.drawing/textboxcollection)

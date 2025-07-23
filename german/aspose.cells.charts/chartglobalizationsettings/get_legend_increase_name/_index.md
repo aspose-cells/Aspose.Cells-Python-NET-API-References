@@ -7,8 +7,8 @@ weight: 60
 url: /de/aspose.cells.charts/chartglobalizationsettings/get_legend_increase_name/
 is_root: false
 ---
-##  get_legend_increase_name() {#}
-Ruft den Namen der Erhöhung für Legend ab.
+##  get_legend_increase_name(self) {#}
+Ruft den Namen der Erhöhung für die Legende ab.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Ruft den Namen der Erhöhung für Legend ab.
 
 
 ```python
+
 def get_legend_increase_name(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_legend_increase_name(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ChartGlobalizationSettings](/cells/python-net/de/aspose.cells.charts/chartglobalizationsettings)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ChartGlobalizationSettings`](/cells/python-net/de/aspose.cells.charts/chartglobalizationsettings)

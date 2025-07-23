@@ -18,6 +18,6 @@ def subtotal_function(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ConsolidationFunction](/cells/python-net/de/aspose.cells/consolidationfunction)
-* Klasse [SubtotalSetting](/cells/python-net/de/aspose.cells/subtotalsetting)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ConsolidationFunction`](/cells/python-net/de/aspose.cells/consolidationfunction)
+* Klasse [`SubtotalSetting`](/cells/python-net/de/aspose.cells/subtotalsetting)

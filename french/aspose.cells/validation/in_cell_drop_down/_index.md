@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  in_cell_drop_down propriété
 
-Indique si la validation des données affiche une liste déroulante contenant les valeurs acceptables.
+Indique si la validation des données affiche une liste déroulante contenant des valeurs acceptables.
 ###  Définition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  marker_style propriété
 
-Représente le style de marqueur. S'applique au graphique en courbes, au graphique en nuage de points ou au graphique en radar.
+Représente le style du marqueur. S'applique aux graphiques linéaires, aux graphiques en nuage de points et aux graphiques radar.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def marker_style(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [ChartMarkerType](/cells/python-net/fr/aspose.cells.charts/chartmarkertype)
-* classe [Marker](/cells/python-net/fr/aspose.cells.charts/marker)
+* module [`aspose.cells.charts`](../../)
+* classe [`ChartMarkerType`](/cells/python-net/fr/aspose.cells.charts/chartmarkertype)
+* classe [`Marker`](/cells/python-net/fr/aspose.cells.charts/marker)

@@ -3,16 +3,17 @@ title: méthode protect
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 200
+weight: 220
 url: /fr/aspose.cells/worksheet/protect/
 is_root: false
 ---
-##  protect {#aspose.cells.ProtectionType}
+##  protect(self, type) {#aspose.cells.ProtectionType}
 Protège la feuille de calcul.
 
 
 
 ```python
+
 def protect(self, type):
     ...
 ```
@@ -23,15 +24,16 @@ def protect(self, type):
 | type | [`ProtectionType`](/cells/python-net/fr/aspose.cells/protectiontype) | Type de protection.|
 ###  Remarques
 
-Cette méthode protège la feuille de calcul sans mot de passe. Il peut protect feuille de calcul dans toutes les versions du fichier Excel.
+Cette méthode protège la feuille de calcul sans mot de passe. Elle est compatible avec toutes les versions d'Excel.
 
-##  protect {#aspose.cells.ProtectionType-str-str}
+##  protect(self, type, password, old_password) {#aspose.cells.ProtectionType-str-str}
 
 Protège la feuille de calcul.
 
 
 
 ```python
+
 def protect(self, type, password, old_password):
     ...
 ```
@@ -44,7 +46,7 @@ def protect(self, type, password, old_password):
 | old_password | str | Si la feuille de calcul est déjà protégée par un mot de passe, veuillez fournir l'ancien mot de passe.<br/> Sinon, vous pouvez définir une valeur nulle ou une chaîne vide pour ce paramètre.|
 ###  Remarques
 
-Cette méthode peut générer une feuille de calcul protect dans toutes les versions du fichier Excel.
+Cette méthode peut être utilisée dans toutes les versions du fichier Excel.
 ###  Exemple
 
 

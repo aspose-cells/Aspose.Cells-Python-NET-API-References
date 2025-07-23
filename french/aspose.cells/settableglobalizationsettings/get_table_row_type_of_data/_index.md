@@ -7,17 +7,18 @@ weight: 250
 url: /fr/aspose.cells/settableglobalizationsettings/get_table_row_type_of_data/
 is_root: false
 ---
-##  get_table_row_type_of_data {#}
-Obtient le nom de type des lignes de la table constituées de la région de données de la table référencée.
-La valeur par défaut est "Data", donc dans la formule "#Data" représente la région de données de la table.
+##  get_table_row_type_of_data(self) {#}
+Obtient le nom du type des lignes de table qui se composent de la région de données de la table référencée.
+La valeur par défaut est « Données », donc dans la formule « #Données » représente la région de données de la table.
 
 
 ###  Retour
 
-le nom du type des lignes du tableau
+le nom du type des lignes de la table
 
 
 ```python
+
 def get_table_row_type_of_data(self):
     ...
 ```

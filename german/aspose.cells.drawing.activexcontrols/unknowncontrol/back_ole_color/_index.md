@@ -8,8 +8,6 @@ url: /de/aspose.cells.drawing.activexcontrols/unknowncontrol/back_ole_color/
 is_root: false
 ---
 ##  back_ole_color Eigentum
-
-Ruft die Ole-Farbe des Hintergrunds ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def back_ole_color(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [UnknownControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`UnknownControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol)

@@ -3,13 +3,13 @@ title: window_top_cm propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 590
+weight: 600
 url: /fr/aspose.cells/workbooksettings/window_top_cm/
 is_root: false
 ---
 ##  window_top_cm propriété
 
-La distance entre le bord supérieur de la zone client et le bord supérieur de la fenêtre, en unité de centimètre.
+La distance entre le bord supérieur de la zone client et le bord supérieur de la fenêtre, en centimètre.
 ###  Définition:
 ```python
 @property

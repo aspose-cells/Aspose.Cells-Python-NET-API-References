@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  direction Eigentum
 
-Ruft den Wert direction der Alpha-Gradientenrampe relativ zur Form selbst ab und legt ihn fest.
+Ruft den Wert direction der Alpha-Gradientenrampe ab und legt ihn relativ zur Form selbst fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def direction(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ReflectionEffect](/cells/python-net/de/aspose.cells.drawing/reflectioneffect)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ReflectionEffect`](/cells/python-net/de/aspose.cells.drawing/reflectioneffect)

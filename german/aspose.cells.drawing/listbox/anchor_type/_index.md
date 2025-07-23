@@ -3,13 +3,13 @@ title: anchor_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 310
+weight: 320
 url: /de/aspose.cells.drawing/listbox/anchor_type/
 is_root: false
 ---
 ##  anchor_type Eigentum
 
-Ruft den Platzhalter für den Formanker ab und legt ihn fest.
+Ruft den Typ des Formankerplatzhalters ab und legt ihn fest.
 
 ###  Beispiel
 

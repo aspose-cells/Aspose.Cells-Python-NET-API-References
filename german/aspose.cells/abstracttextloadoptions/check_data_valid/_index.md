@@ -21,5 +21,5 @@ def check_data_valid(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [AbstractTextLoadOptions](/cells/python-net/de/aspose.cells/abstracttextloadoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`AbstractTextLoadOptions`](/cells/python-net/de/aspose.cells/abstracttextloadoptions)

@@ -3,13 +3,13 @@ title: value propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1190
+weight: 1200
 url: /fr/aspose.cells.drawing/checkbox/value/
 is_root: false
 ---
 ##  value propriété
 
-Indique si la case est cochée ou non.
+Indique si la case à cocher est cochée ou non.
 ###  Définition:
 ```python
 @property

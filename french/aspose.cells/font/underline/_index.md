@@ -21,6 +21,6 @@ def underline(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Font](/cells/python-net/fr/aspose.cells/font)
-* classe [FontUnderlineType](/cells/python-net/fr/aspose.cells/fontunderlinetype)
+* module [`aspose.cells`](../../)
+* classe [`Font`](/cells/python-net/fr/aspose.cells/font)
+* classe [`FontUnderlineType`](/cells/python-net/fr/aspose.cells/fontunderlinetype)

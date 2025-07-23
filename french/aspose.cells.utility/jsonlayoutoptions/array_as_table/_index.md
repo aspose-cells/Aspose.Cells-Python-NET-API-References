@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  array_as_table propriété
 
-Traite le tableau comme une table.
+Processus Array sous forme de tableau.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def array_as_table(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.utility](../../)
-* classe [JsonLayoutOptions](/cells/python-net/fr/aspose.cells.utility/jsonlayoutoptions)
+* module [`aspose.cells.utility`](../../)
+* classe [`JsonLayoutOptions`](/cells/python-net/fr/aspose.cells.utility/jsonlayoutoptions)

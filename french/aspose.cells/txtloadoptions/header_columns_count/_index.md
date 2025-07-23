@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  header_columns_count propriété
 
-Nombre de colonnes d'en-tête à répéter pour les feuilles étendues.
+Le nombre de colonnes d'en-tête à répéter pour les feuilles étendues.
 
 ###  Remarques
 

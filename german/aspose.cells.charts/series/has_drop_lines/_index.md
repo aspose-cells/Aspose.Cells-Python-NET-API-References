@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  has_drop_lines Eigentum
 
-True, wenn das Diagramm Falllinien hat.
-Gilt nur für Liniendiagramme oder Flächendiagramme.
+Wahr, wenn das Diagramm Falllinien hat.
+Gilt nur für Linien- oder Flächendiagramme.
 ###  Definition:
 ```python
 @property

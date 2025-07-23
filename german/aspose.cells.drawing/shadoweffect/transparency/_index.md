@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  transparency Eigentum
 
-Ruft den Grad transparency des Schattens ab und legt ihn fest. Bereich von 0,0 (undurchsichtig) bis 1,0 (durchsichtig).
+Ruft den Grad des Schattens ab und legt ihn fest. Bereich von 0,0 (undurchsichtig) bis 1,0 (klar).
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def transparency(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ShadowEffect](/cells/python-net/de/aspose.cells.drawing/shadoweffect)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ShadowEffect`](/cells/python-net/de/aspose.cells.drawing/shadoweffect)

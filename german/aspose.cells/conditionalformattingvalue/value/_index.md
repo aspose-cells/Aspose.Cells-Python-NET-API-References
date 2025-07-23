@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  value Eigentum
 
-Holen oder setzen Sie den value dieses value-Objekts für die bedingte Formatierung.
+Rufen Sie value dieses Objekts zur bedingten Formatierung value ab oder legen Sie es fest.
 Es sollte in Verbindung mit Typ verwendet werden.
 
 ###  Bemerkungen
 
-Wenn die value eine Zeichenfolge ist und mit "=" beginnt, wird sie als Formel verarbeitet.
-Andernfalls verarbeiten wir es als einfache value.
+Wenn value eine Zeichenfolge ist und mit "=" beginnt, wird es als Formel verarbeitet.
+andernfalls verarbeiten wir es als einfaches value.
 ###  Definition:
 ```python
 @property
@@ -27,5 +27,5 @@ def value(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ConditionalFormattingValue](/cells/python-net/de/aspose.cells/conditionalformattingvalue)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ConditionalFormattingValue`](/cells/python-net/de/aspose.cells/conditionalformattingvalue)

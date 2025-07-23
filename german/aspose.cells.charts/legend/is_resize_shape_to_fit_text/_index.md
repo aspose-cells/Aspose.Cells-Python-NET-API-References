@@ -3,14 +3,14 @@ title: is_resize_shape_to_fit_text Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 250
+weight: 310
 url: /de/aspose.cells.charts/legend/is_resize_shape_to_fit_text/
 is_root: false
 ---
 ##  is_resize_shape_to_fit_text Eigentum
 
-Ruft ab oder legt fest, ob eine Form automatisch angepasst werden soll, um den darin beschriebenen Text vollständig zu enthalten. Auto-Fitting ist
-wenn Text innerhalb einer Form skaliert wird, um den gesamten darin enthaltenen Text aufzunehmen.
+Legt fest, ob eine Form automatisch angepasst werden soll, um den darin beschriebenen Text vollständig aufzunehmen. Die automatische Anpassung ist
+wenn Text innerhalb einer Form skaliert wird, um den gesamten Text darin unterzubringen.
 ###  Definition:
 ```python
 @property

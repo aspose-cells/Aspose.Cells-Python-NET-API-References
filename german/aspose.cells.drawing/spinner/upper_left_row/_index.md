@@ -3,13 +3,13 @@ title: upper_left_row Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1210
+weight: 1220
 url: /de/aspose.cells.drawing/spinner/upper_left_row/
 is_root: false
 ---
 ##  upper_left_row Eigentum
 
-Stellt den Zeilenindex der oberen linken Ecke dar.
+Stellt den Index der obersten Zeile dar.
 
 ###  Bemerkungen
 

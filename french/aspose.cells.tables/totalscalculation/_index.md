@@ -1,5 +1,5 @@
 ---
-title: TotalsCalculation dénombrement
+title: TotalsCalculation énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 130
 url: /fr/aspose.cells.tables/totalscalculation/
 is_root: false
 ---
-##  TotalsCalculation dénombrement
+##  TotalsCalculation énumération
 Détermine le type de calcul dans la ligne Totaux de la colonne de liste.
 
 
@@ -18,10 +18,10 @@ Le type TotalsCalculation expose les membres suivants :
 | Champ| Description|
 | :- | :- |
 | SUM | Représente le calcul des totaux.|
-| COUNT | Représente le calcul des totaux.|
-| AVERAGE |Représente le calcul des totaux moyens.|
+| COUNT | Représente le calcul du total des comptes.|
+| AVERAGE | Représente le calcul des totaux moyens.|
 | MAX | Représente le calcul des totaux maximum.|
-| MIN | Représente le calcul des totaux Min.|
+| MIN | Représente le calcul des totaux minimum.|
 | VAR | Représente le calcul des totaux Var.|
 | COUNT_NUMS | Représente le calcul des totaux de Count Nums.|
 | STD_DEV | Représente le calcul des totaux StdDev.|
@@ -31,4 +31,4 @@ Le type TotalsCalculation expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.tables](..)
+* module [`aspose.cells.tables`](..)

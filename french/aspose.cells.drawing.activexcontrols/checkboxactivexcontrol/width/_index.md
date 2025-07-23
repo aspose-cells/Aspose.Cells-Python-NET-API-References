@@ -8,8 +8,6 @@ url: /fr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol/width/
 is_root: false
 ---
 ##  width propriété
-
-Obtient et définit le width du contrôle en unité de points.
 ###  Définition:
 ```python
 @property
@@ -21,5 +19,5 @@ def width(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [CheckBoxActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`CheckBoxActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

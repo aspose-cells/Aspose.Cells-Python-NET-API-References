@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_gridlines propriété
 
-Indique si le quadrillage des cellules est imprimé sur la page.
+Indique si les lignes de la grille des cellules sont imprimées sur la page.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def print_gridlines(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/fr/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/fr/aspose.cells/pagesetup)

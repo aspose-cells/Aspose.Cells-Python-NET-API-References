@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  reference Eigentum
 
-Rufen Sie die primäre reference für ein Office-Add-In ab.
+Holen Sie sich die primäre reference für ein Office-Add-In.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def reference(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.webextensions](../../)
-* Klasse [WebExtension](/cells/python-net/de/aspose.cells.webextensions/webextension)
-* Klasse [WebExtensionReference](/cells/python-net/de/aspose.cells.webextensions/webextensionreference)
+* Modul [`aspose.cells.webextensions`](../../)
+* Klasse [`WebExtension`](/cells/python-net/de/aspose.cells.webextensions/webextension)
+* Klasse [`WebExtensionReference`](/cells/python-net/de/aspose.cells.webextensions/webextensionreference)

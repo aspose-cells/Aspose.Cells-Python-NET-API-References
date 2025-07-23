@@ -3,13 +3,13 @@ title: worksheet Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1400
+weight: 1410
 url: /de/aspose.cells.drawing/oleobject/worksheet/
 is_root: false
 ---
 ##  worksheet Eigentum
 
-Ruft das [`Shape.worksheet`](/cells/python-net/de/aspose.cells.drawing/shape#worksheet)-Objekt ab, das diese Form enthält.
+Ruft das Objekt [`Shape.worksheet`](/cells/python-net/de/aspose.cells.drawing/shape#worksheet) ab, das diese Form enthält.
 
 ###  Beispiel
 

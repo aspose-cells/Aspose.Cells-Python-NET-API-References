@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  uri Eigentum
 
-Ruft den Namespace-URI des Smarttags ab.
+Ruft die Namespace-URI des Smarttags ab.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def uri(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.markup](../../)
-* Klasse [SmartTag](/cells/python-net/de/aspose.cells.markup/smarttag)
+* Modul [`aspose.cells.markup`](../../)
+* Klasse [`SmartTag`](/cells/python-net/de/aspose.cells.markup/smarttag)

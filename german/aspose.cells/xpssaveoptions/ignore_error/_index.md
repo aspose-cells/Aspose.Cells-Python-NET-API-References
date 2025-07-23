@@ -3,14 +3,11 @@ title: ignore_error Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 140
+weight: 180
 url: /de/aspose.cells/xpssaveoptions/ignore_error/
 is_root: false
 ---
 ##  ignore_error Eigentum
-
-Gibt an, ob Sie den Fehler beim Rendern ausblenden müssen.
-Der Fehler kann ein Fehler in Form, Bild, Diagrammdarstellung usw. sein.
 ###  Definition:
 ```python
 @property

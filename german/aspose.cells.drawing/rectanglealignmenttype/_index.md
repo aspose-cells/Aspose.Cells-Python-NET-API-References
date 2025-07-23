@@ -3,7 +3,7 @@ title: RectangleAlignmentType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1110
+weight: 1100
 url: /de/aspose.cells.drawing/rectanglealignmenttype/
 is_root: false
 ---
@@ -17,7 +17,7 @@ Der Typ RectangleAlignmentType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| BOTTOM | Unterseite|
+| BOTTOM | Unten|
 | BOTTOM_LEFT | Unten links|
 | BOTTOM_RIGHT | Unten rechts|
 | CENTER | Center|
@@ -25,9 +25,9 @@ Der Typ RectangleAlignmentType macht die folgenden Member verfügbar:
 | RIGHT | Rechts|
 | TOP | Spitze|
 | TOP_LEFT | Oben links|
-| TOP_RIGHT | Oben rechts|
+| TOP_RIGHT | ObenRechts|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](..)
+* Modul [`aspose.cells.drawing`](..)

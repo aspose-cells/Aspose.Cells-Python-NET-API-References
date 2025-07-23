@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  language_code Eigentum
 
-Ruft die Sprache der Benutzeroberfläche der Workbook-Version basierend auf dem CountryCode ab, der die Datei gespeichert hat, oder legt diese fest.
+Ruft die Benutzeroberflächensprache der Arbeitsmappenversion basierend auf dem Ländercode ab, in dem die Datei gespeichert wurde, oder legt diese fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def language_code(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.numbers](../../)
-* Klasse [CountryCode](/cells/python-net/de/aspose.cells/countrycode)
-* Klasse [NumbersLoadOptions](/cells/python-net/de/aspose.cells.numbers/numbersloadoptions)
+* Modul [`aspose.cells.numbers`](../../)
+* Klasse [`CountryCode`](/cells/python-net/de/aspose.cells/countrycode)
+* Klasse [`NumbersLoadOptions`](/cells/python-net/de/aspose.cells.numbers/numbersloadoptions)

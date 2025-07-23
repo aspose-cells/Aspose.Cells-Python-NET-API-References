@@ -7,16 +7,17 @@ weight: 190
 url: /de/aspose.cells/cells/create_range/
 is_root: false
 ---
-##  create_range(address) {#str}
-Erstellt ein [Range](/cells/python-net/de/aspose.cells/range)-Objekt aus einer Adresse des Bereichs.
+##  create_range(self, address) {#str}
+Erstellt ein [`Range`](/cells/python-net/de/aspose.cells/range)-Objekt aus einer Adresse des Bereichs.
 
 
 ###  Kehrt zurück
 
-Ein [Range](/cells/python-net/de/aspose.cells/range)-Objekt
+Ein [`Range`](/cells/python-net/de/aspose.cells/range)-Objekt
 
 
 ```python
+
 def create_range(self, address):
     ...
 ```
@@ -27,16 +28,17 @@ def create_range(self, address):
 | address | str | Die Adresse des Bereichs.|
 
 
-##  create_range(upper_left_cell, lower_right_cell) {#str-str}
-Erstellt ein [Range](/cells/python-net/de/aspose.cells/range)-Objekt aus einem Zellbereich.
+##  create_range(self, upper_left_cell, lower_right_cell) {#str-str}
+Erstellt ein [`Range`](/cells/python-net/de/aspose.cells/range)-Objekt aus einem Zellbereich.
 
 
 ###  Kehrt zurück
 
-Ein [Range](/cells/python-net/de/aspose.cells/range)-Objekt
+Ein [`Range`](/cells/python-net/de/aspose.cells/range)-Objekt
 
 
 ```python
+
 def create_range(self, upper_left_cell, lower_right_cell):
     ...
 ```
@@ -44,20 +46,21 @@ def create_range(self, upper_left_cell, lower_right_cell):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| upper_left_cell | str | Zellname oben links.|
+| upper_left_cell | str | Zellenname oben links.|
 | lower_right_cell | str | Zellenname unten rechts.|
 
 
-##  create_range(first_index, number, is_vertical) {#int-int-bool}
-Erstellt ein [Range](/cells/python-net/de/aspose.cells/range)-Objekt aus Zeilen von Zellen oder Spalten von Zellen.
+##  create_range(self, first_index, number, is_vertical) {#int-int-bool}
+Erstellt ein [`Range`](/cells/python-net/de/aspose.cells/range)-Objekt aus Zellenzeilen oder Zellenspalten.
 
 
 ###  Kehrt zurück
 
-Ein [Range](/cells/python-net/de/aspose.cells/range)-Objekt.
+Ein [`Range`](/cells/python-net/de/aspose.cells/range)-Objekt.
 
 
 ```python
+
 def create_range(self, first_index, number, is_vertical):
     ...
 ```
@@ -65,21 +68,22 @@ def create_range(self, first_index, number, is_vertical):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| first_index | int | Index der ersten Zeile oder Index der ersten Spalte, nullbasiert.|
-| number | int | Gesamtzahl der Zeilen oder Spalten, basierend auf einer.|
-| is_vertical | bool | True – Bereich, der aus Zellenspalten erstellt wurde. False – Bereich, der aus Zeilen von Zellen erstellt wurde.|
+| first_index | int | Erster Zeilenindex oder erster Spaltenindex, nullbasiert.|
+| number | int | Gesamtzahl der Zeilen oder Spalten, einsbasiert.|
+| is_vertical | bool | Wahr – Bereich aus Zellspalten erstellt. Falsch – Bereich aus Zellzeilen erstellt.|
 
 
-##  create_range(first_row, first_column, total_rows, total_columns) {#int-int-int-int}
-Erstellt ein [Range](/cells/python-net/de/aspose.cells/range)-Objekt aus einem Zellbereich.
+##  create_range(self, first_row, first_column, total_rows, total_columns) {#int-int-int-int}
+Erstellt ein [`Range`](/cells/python-net/de/aspose.cells/range)-Objekt aus einem Zellbereich.
 
 
 ###  Kehrt zurück
 
-Ein [Range](/cells/python-net/de/aspose.cells/range)-Objekt
+Ein [`Range`](/cells/python-net/de/aspose.cells/range)-Objekt
 
 
 ```python
+
 def create_range(self, first_row, first_column, total_rows, total_columns):
     ...
 ```
@@ -87,14 +91,14 @@ def create_range(self, first_row, first_column, total_rows, total_columns):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| first_row | int | Erste Reihe dieses Bereichs|
+| first_row | int |Erste Zeile dieses Bereichs|
 | first_column | int | Erste Spalte dieses Bereichs|
-| total_rows | int | Anzahl der Reihen|
+| total_rows | int | Anzahl der Zeilen|
 | total_columns | int | Anzahl der Spalten|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
-* Klasse [Range](/cells/python-net/de/aspose.cells/range)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)
+* Klasse [`Range`](/cells/python-net/de/aspose.cells/range)

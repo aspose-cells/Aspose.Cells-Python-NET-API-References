@@ -1,13 +1,13 @@
 ---
-title: add_svg méthode
+title: méthode add_svg
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 300
+weight: 330
 url: /fr/aspose.cells.drawing/shapecollection/add_svg/
 is_root: false
 ---
-##  add_svg(upper_left_row, top, upper_left_column, left, height, width, svg_data, compatible_image_data) {#int-int-int-int-int-int-bytes-bytes}
+##  add_svg(self, upper_left_row, top, upper_left_column, left, height, width, svg_data, compatible_image_data) {#int-int-int-int-int-int-bytes-bytes}
 Ajoute une image svg.
 
 
@@ -17,6 +17,7 @@ Ajoute une image svg.
 
 
 ```python
+
 def add_svg(self, upper_left_row, top, upper_left_column, left, height, width, svg_data, compatible_image_data):
     ...
 ```
@@ -24,19 +25,21 @@ def add_svg(self, upper_left_row, top, upper_left_column, left, height, width, s
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| upper_left_row | int | Index de ligne en haut à gauche.|
-| top | int | Représente le décalage vertical de la forme par rapport à sa ligne de gauche, en unité de pixel.|
-| upper_left_column | int | Index de la colonne en haut à gauche.|
-| left | int | Décalage horizontal de la forme par rapport à sa colonne de gauche, en pixels.|
+| upper_left_row | int | Index de la rangée supérieure gauche.|
+| top | int | Représente le décalage vertical de la forme par rapport à sa rangée de gauche, en unité de pixel.|
+| upper_left_column | int | Index de la colonne supérieure gauche.|
+| left | int | Le décalage horizontal de la forme par rapport à sa colonne de gauche, en unité de pixel.|
 | height | int | La hauteur de la forme, en unité de pixel.|
 | width | int | La largeur de la forme, en unité de pixel.|
 | svg_data | bytes | Les données d'image svg.|
-| compatible_image_data | bytes |Conversion des données d'image à partir de svg afin d'être compatible avec Excel 2016 ou versions antérieures.|
+| compatible_image_data | bytes | Données d'image converties à partir de svg afin d'être compatibles avec Excel 2016 ou les versions inférieures.|
 
 ###  Exemple
 
 ```python
 from aspose import pycore
+import bytearray
+import int
 
 #  add a svg
 with open("image.svg", "rb") as fs:
@@ -50,5 +53,5 @@ with open("image.svg", "rb") as fs:
 
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ShapeCollection](/cells/python-net/fr/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ShapeCollection`](/cells/python-net/fr/aspose.cells.drawing/shapecollection)

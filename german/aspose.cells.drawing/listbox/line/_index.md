@@ -3,13 +3,13 @@ title: line Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 750
+weight: 760
 url: /de/aspose.cells.drawing/listbox/line/
 is_root: false
 ---
 ##  line Eigentum
 
-Ruft den Stil line ab
+Erhält line Stil
 
 ###  Beispiel
 

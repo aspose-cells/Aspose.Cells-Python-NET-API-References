@@ -7,12 +7,13 @@ weight: 260
 url: /de/aspose.cells/cells/delete_rows/
 is_root: false
 ---
-##  delete_rows {#int-int}
+##  delete_rows(self, row_index, total_rows) {#int-int}
 Löscht mehrere Zeilen.
 
 
 
 ```python
+
 def delete_rows(self, row_index, total_rows):
     ...
 ```
@@ -26,9 +27,9 @@ def delete_rows(self, row_index, total_rows):
 
 Wenn der gelöschte Bereich den oberen Teil (nicht die ganze) der Tabelle (ListObject) enthält,
 Der Bereich konnte nicht gelöscht werden und es wird nichts unternommen.
-Genauso funktioniert es auch mit MS Excel.
+Mit MS Excel funktioniert es auf die gleiche Weise.
 
-##  delete_rows {#int-int-bool}
+##  delete_rows(self, row_index, total_rows, update_reference) {#int-int-bool}
 Löscht mehrere Zeilen im Arbeitsblatt.
 
 
@@ -38,6 +39,7 @@ Löscht mehrere Zeilen im Arbeitsblatt.
 
 
 ```python
+
 def delete_rows(self, row_index, total_rows, update_reference):
     ...
 ```
@@ -45,9 +47,32 @@ def delete_rows(self, row_index, total_rows, update_reference):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| row_index | int | Index der ersten Zeile, die gelöscht werden soll.|
+| row_index | int | Index der ersten zu löschenden Zeile.|
 | total_rows | int | Anzahl der zu löschenden Zeilen.|
-| update_reference | bool | Gibt an, ob Verweise in anderen Arbeitsblättern aktualisiert werden.|
+| update_reference | bool | Gibt an, ob Verweise in anderen Arbeitsblättern aktualisiert werden sollen.|
+
+
+##  delete_rows(self, row_index, total_rows, options) {#int-int-aspose.cells.DeleteOptions}
+Löscht mehrere Zeilen im Arbeitsblatt.
+
+
+###  Kehrt zurück
+
+
+
+
+```python
+
+def delete_rows(self, row_index, total_rows, options):
+    ...
+```
+
+
+| Parameter| Typ| Beschreibung|
+| :- | :- | :- |
+| row_index | int | Index der ersten zu löschenden Zeile.|
+| total_rows | int | Anzahl der zu löschenden Zeilen.|
+| options | [`DeleteOptions`](/cells/python-net/de/aspose.cells/deleteoptions) | Optionen für den Löschvorgang|
 
 
 

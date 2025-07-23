@@ -1,5 +1,5 @@
 ---
-title: add méthode
+title: méthode add
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,27 +7,21 @@ weight: 20
 url: /fr/aspose.cells.pivot/pivotformatconditioncollection/add/
 is_root: false
 ---
-##  add() {#}
-Ajoute un pivot FormatCondition à la collection.
+##  add(self) {#}
 
 
-###  Retour
-
-pivot Index d'objet FormatCondition.
 
 
 ```python
+
 def add(self):
     ...
 ```
 
 
-###  Remarques
 
-non supporté
 
 
 ###  Voir également
-
-* module [aspose.cells.pivot](../../)
-* classe [PivotFormatConditionCollection](/cells/python-net/fr/aspose.cells.pivot/pivotformatconditioncollection)
+* module [`aspose.cells.pivot`](../../)
+* classe [`PivotFormatConditionCollection`](/cells/python-net/fr/aspose.cells.pivot/pivotformatconditioncollection)

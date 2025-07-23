@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height_cm Eigentum
 
-Stellt die Höhe der Form in der Einheit Zentimeter dar.
+Stellt die Höhe der Form in Zentimetern dar.
 
 ###  Beispiel
 

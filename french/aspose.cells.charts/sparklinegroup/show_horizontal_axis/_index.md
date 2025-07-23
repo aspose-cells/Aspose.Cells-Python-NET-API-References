@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_horizontal_axis propriété
 
-Indique s'il faut afficher l'axe horizontal du graphique sparkline.
+Indique s'il faut afficher l'axe horizontal du sparkline.
 L'axe horizontal apparaît si le graphique sparkline contient des données qui croisent l'axe zéro.
 ###  Définition:
 ```python
@@ -22,5 +22,5 @@ def show_horizontal_axis(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [SparklineGroup](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)
+* module [`aspose.cells.charts`](../../)
+* classe [`SparklineGroup`](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)

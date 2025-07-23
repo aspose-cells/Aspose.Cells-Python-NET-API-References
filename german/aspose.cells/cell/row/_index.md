@@ -3,7 +3,7 @@ title: row Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 690
+weight: 720
 url: /de/aspose.cells/cell/row/
 is_root: false
 ---

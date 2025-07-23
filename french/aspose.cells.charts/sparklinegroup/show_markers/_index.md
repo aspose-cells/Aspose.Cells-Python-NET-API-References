@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_markers propriété
 
-Indique s'il faut mettre en surbrillance chaque point de chaque ligne sparkline du groupe de lignes sparkline.
+Indique s'il faut mettre en surbrillance chaque point de chaque ligne sparkline dans le groupe sparkline.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_markers(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [SparklineGroup](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)
+* module [`aspose.cells.charts`](../../)
+* classe [`SparklineGroup`](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)

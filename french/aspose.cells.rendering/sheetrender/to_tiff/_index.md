@@ -7,12 +7,13 @@ weight: 70
 url: /fr/aspose.cells.rendering/sheetrender/to_tiff/
 is_root: false
 ---
-##  to_tiff {#io.RawIOBase}
+##  to_tiff(self, stream) {#io.RawIOBase}
 Rendre la feuille de calcul entière sous forme d'image Tiff à diffuser.
 
 
 
 ```python
+
 def to_tiff(self, stream):
     ...
 ```
@@ -23,12 +24,13 @@ def to_tiff(self, stream):
 | stream | io.RawIOBase | le flux de l'image de sortie|
 
 
-##  to_tiff {#str}
+##  to_tiff(self, filename) {#str}
 Rendre la feuille de calcul entière sous forme d'image Tiff dans un fichier.
 
 
 
 ```python
+
 def to_tiff(self, filename):
     ...
 ```
@@ -40,7 +42,7 @@ def to_tiff(self, filename):
 
 ###  Exemple
 
-Le code suivant affiche toutes les pages de la première feuille sur une image Tiff.
+Le code suivant génère toutes les pages de la première feuille dans une image Tiff.
 
 ```python
 from aspose.cells import SaveFormat, Workbook

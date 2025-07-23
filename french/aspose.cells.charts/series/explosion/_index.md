@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  explosion propriété
 
-La distance entre une tranche de secteur ouverte et le centre du diagramme à secteurs est exprimée en pourcentage du diamètre du secteur.
+La distance entre une tranche de tarte ouverte et le centre du graphique à secteurs est exprimée en pourcentage du diamètre du secteur.
 ###  Définition:
 ```python
 @property

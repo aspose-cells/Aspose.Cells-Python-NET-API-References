@@ -21,6 +21,6 @@ def pattern(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [FillPattern](/cells/python-net/fr/aspose.cells.drawing/fillpattern)
-* classe [PatternFill](/cells/python-net/fr/aspose.cells.drawing/patternfill)
+* module [`aspose.cells.drawing`](../../)
+* classe [`FillPattern`](/cells/python-net/fr/aspose.cells.drawing/fillpattern)
+* classe [`PatternFill`](/cells/python-net/fr/aspose.cells.drawing/patternfill)

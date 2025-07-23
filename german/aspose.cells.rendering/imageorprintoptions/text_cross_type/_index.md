@@ -3,13 +3,13 @@ title: text_cross_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 330
+weight: 340
 url: /de/aspose.cells.rendering/imageorprintoptions/text_cross_type/
 is_root: false
 ---
 ##  text_cross_type Eigentum
 
-Ruft den Anzeigetexttyp ab oder legt diesen fest, wenn die Textbreite größer als die Zellenbreite ist.
+Ruft den anzuzeigenden Texttyp ab oder legt ihn fest, wenn die Textbreite größer als die Zellenbreite ist.
 ###  Definition:
 ```python
 @property

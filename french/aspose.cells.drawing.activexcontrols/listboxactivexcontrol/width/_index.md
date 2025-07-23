@@ -8,8 +8,6 @@ url: /fr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol/width/
 is_root: false
 ---
 ##  width propriété
-
-Obtient et définit le width du contrôle en unité de points.
 ###  Définition:
 ```python
 @property
@@ -21,5 +19,5 @@ def width(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [ListBoxActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ListBoxActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

@@ -21,5 +21,5 @@ def lighting_angle(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Format3D](/cells/python-net/fr/aspose.cells.drawing/format3d)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Format3D`](/cells/python-net/fr/aspose.cells.drawing/format3d)

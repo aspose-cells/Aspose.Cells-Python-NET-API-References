@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Bevel](/cells/python-net/fr/aspose.cells.drawing/bevel)
-* classe [BevelPresetType](/cells/python-net/fr/aspose.cells.drawing/bevelpresettype)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Bevel`](/cells/python-net/fr/aspose.cells.drawing/bevel)
+* classe [`BevelPresetType`](/cells/python-net/fr/aspose.cells.drawing/bevelpresettype)

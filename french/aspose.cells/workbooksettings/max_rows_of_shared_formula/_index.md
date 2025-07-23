@@ -3,7 +3,7 @@ title: max_rows_of_shared_formula propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 320
+weight: 350
 url: /fr/aspose.cells/workbooksettings/max_rows_of_shared_formula/
 is_root: false
 ---

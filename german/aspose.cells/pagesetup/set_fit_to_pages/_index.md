@@ -7,12 +7,13 @@ weight: 170
 url: /de/aspose.cells/pagesetup/set_fit_to_pages/
 is_root: false
 ---
-##  set_fit_to_pages(wide, tall) {#int-int}
+##  set_fit_to_pages(self, wide, tall) {#int-int}
 Legt die Anzahl der Seiten fest, auf die das Arbeitsblatt beim Drucken skaliert wird.
 
 
 
 ```python
+
 def set_fit_to_pages(self, wide, tall):
     ...
 ```
@@ -26,5 +27,5 @@ def set_fit_to_pages(self, wide, tall):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

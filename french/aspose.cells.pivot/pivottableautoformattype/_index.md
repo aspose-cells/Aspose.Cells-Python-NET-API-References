@@ -3,12 +3,12 @@ title: PivotTableAutoFormatType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 340
+weight: 440
 url: /fr/aspose.cells.pivot/pivottableautoformattype/
 is_root: false
 ---
 ##  PivotTableAutoFormatType énumération
-Représente le type de formatage automatique du tableau croisé dynamique.
+Représente le type de format automatique du tableau croisé dynamique.
 
 
 
@@ -18,10 +18,10 @@ Le type PivotTableAutoFormatType expose les membres suivants :
 | Champ| Description|
 | :- | :- |
 | NONE | Représente le type de format Aucun.|
-| CLASSIC | Représente le type de formatage automatique classique.|
-| REPORT1 | Représente le type de format Report1.|
+| CLASSIC | Représente le type de format automatique classique.|
+| REPORT1 |Représente le type de format Report1.|
 | REPORT2 | Représente le type de format Report2.|
-| REPORT3 |Représente le type de format Report3.|
+| REPORT3 | Représente le type de format Report3.|
 | REPORT4 | Représente le type de format Report4.|
 | REPORT5 | Représente le type de format Report5.|
 | REPORT6 | Représente le type de format Report6.|

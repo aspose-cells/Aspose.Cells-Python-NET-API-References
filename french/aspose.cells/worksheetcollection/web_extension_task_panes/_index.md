@@ -3,7 +3,7 @@ title: web_extension_task_panes propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 370
+weight: 400
 url: /fr/aspose.cells/worksheetcollection/web_extension_task_panes/
 is_root: false
 ---

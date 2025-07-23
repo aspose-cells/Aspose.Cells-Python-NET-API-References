@@ -3,17 +3,17 @@ title: PageEndSavingArgs Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 50
+weight: 40
 url: /de/aspose.cells.rendering/pageendsavingargs/
 is_root: false
 ---
 ##  PageEndSavingArgs Klasse
-Info für eine Seite beendet den Speichervorgang.
+Informationen zu einer Seite beenden den Speichervorgang.
 
 
 
-**Nachlass:** [PageEndSavingArgs](/cells/python-net/aspose.cells.rendering/pageendsavingargs) → 
-[PageSavingArgs](/cells/python-net/de/aspose.cells.rendering/pagesavingargs)
+**Nachlass:** [`PageEndSavingArgs`](/cells/python-net/aspose.cells.rendering/pageendsavingargs) → 
+[`PageSavingArgs`](/cells/python-net/de/aspose.cells.rendering/pagesavingargs)
 
 
 
@@ -24,11 +24,11 @@ Der Typ PageEndSavingArgs macht die folgenden Member verfügbar:
 | :- | :- |
 | [page_index](/cells/python-net/de/aspose.cells.rendering/pageendsavingargs/page_index) | Aktueller Seitenindex, nullbasiert.|
 | [page_count](/cells/python-net/de/aspose.cells.rendering/pageendsavingargs/page_count) | Gesamtseitenzahl.|
-| [has_more_pages](/cells/python-net/de/aspose.cells.rendering/pageendsavingargs/has_more_pages) | Ruft einen Wert ab, der angibt, ob weitere Seiten ausgegeben werden sollen, oder legt diesen fest.<br/> Der Standardwert ist wahr.|
+| [has_more_pages](/cells/python-net/de/aspose.cells.rendering/pageendsavingargs/has_more_pages) |Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob weitere Seiten ausgegeben werden sollen.<br/> Der Standardwert ist „true“.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](..)
-* Klasse [PageEndSavingArgs](/cells/python-net/de/aspose.cells.rendering/pageendsavingargs)
-* Klasse [PageSavingArgs](/cells/python-net/de/aspose.cells.rendering/pagesavingargs)
+* Modul [`aspose.cells.rendering`](..)
+* Klasse [`PageEndSavingArgs`](/cells/python-net/de/aspose.cells.rendering/pageendsavingargs)
+* Klasse [`PageSavingArgs`](/cells/python-net/de/aspose.cells.rendering/pagesavingargs)

@@ -3,7 +3,7 @@ title: rotation_angle propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 320
+weight: 380
 url: /fr/aspose.cells.charts/legend/rotation_angle/
 is_root: false
 ---

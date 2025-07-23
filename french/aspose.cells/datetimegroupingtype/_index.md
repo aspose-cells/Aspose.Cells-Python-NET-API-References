@@ -3,7 +3,7 @@ title: DateTimeGroupingType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2010
+weight: 1920
 url: /fr/aspose.cells/datetimegroupingtype/
 is_root: false
 ---

@@ -3,16 +3,17 @@ title: remove_split Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 240
+weight: 270
 url: /de/aspose.cells/worksheet/remove_split/
 is_root: false
 ---
-##  remove_split {#}
+##  remove_split(self) {#}
 Entfernt geteiltes Fenster.
 
 
 
 ```python
+
 def remove_split(self):
     ...
 ```

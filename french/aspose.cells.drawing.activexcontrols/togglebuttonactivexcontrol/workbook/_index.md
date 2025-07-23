@@ -8,8 +8,6 @@ url: /fr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/workboo
 is_root: false
 ---
 ##  workbook propriété
-
-Obtient l'objet [ActiveXControlBase.workbook](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook).
 ###  Définition:
 ```python
 @property
@@ -18,6 +16,6 @@ def workbook(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [ToggleButtonActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
-* classe [Workbook](/cells/python-net/fr/aspose.cells/workbook)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ToggleButtonActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* classe [`Workbook`](/cells/python-net/fr/aspose.cells/workbook)

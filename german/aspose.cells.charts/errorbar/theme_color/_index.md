@@ -25,6 +25,6 @@ def theme_color(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ErrorBar](/cells/python-net/de/aspose.cells.charts/errorbar)
-* Klasse [ThemeColor](/cells/python-net/de/aspose.cells/themecolor)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ErrorBar`](/cells/python-net/de/aspose.cells.charts/errorbar)
+* Klasse [`ThemeColor`](/cells/python-net/de/aspose.cells/themecolor)

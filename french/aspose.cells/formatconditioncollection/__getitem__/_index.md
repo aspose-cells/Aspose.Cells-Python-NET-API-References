@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  FormatConditionCollection indexeur
 
-Obtient la condition de mise en forme par index.
+Obtient la condition de formatage par index.
 ###  Indexeur
 | Nom| Description|
 | :- | :- |
@@ -22,5 +22,5 @@ Obtient la condition de mise en forme par index.
 la condition de formatage
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FormatConditionCollection](/cells/python-net/fr/aspose.cells/formatconditioncollection)
+* module [`aspose.cells`](../../)
+* classe [`FormatConditionCollection`](/cells/python-net/fr/aspose.cells/formatconditioncollection)

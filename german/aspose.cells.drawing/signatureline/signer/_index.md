@@ -3,13 +3,13 @@ title: signer Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 100
+weight: 110
 url: /de/aspose.cells.drawing/signatureline/signer/
 is_root: false
 ---
 ##  signer Eigentum
 
-Ruft die signer ab und setzt sie.
+Ruft signer ab oder legt diese fest.
 
 ###  Beispiel
 
@@ -32,5 +32,5 @@ def signer(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [SignatureLine](/cells/python-net/de/aspose.cells.drawing/signatureline)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`SignatureLine`](/cells/python-net/de/aspose.cells.drawing/signatureline)

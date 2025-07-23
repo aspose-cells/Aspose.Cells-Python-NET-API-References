@@ -3,13 +3,13 @@ title: only_visible_cells propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 30
+weight: 40
 url: /fr/aspose.cells/pasteoptions/only_visible_cells/
 is_root: false
 ---
 ##  only_visible_cells propriété
 
-True signifie copier uniquement les cellules visibles.
+Vrai signifie que seules les cellules visibles sont copiées.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def only_visible_cells(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PasteOptions](/cells/python-net/fr/aspose.cells/pasteoptions)
+* module [`aspose.cells`](../../)
+* classe [`PasteOptions`](/cells/python-net/fr/aspose.cells/pasteoptions)

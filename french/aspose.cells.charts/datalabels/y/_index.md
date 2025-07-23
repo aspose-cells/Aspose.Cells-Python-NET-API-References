@@ -3,18 +3,18 @@ title: y propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 530
+weight: 640
 url: /fr/aspose.cells.charts/datalabels/y/
 is_root: false
 ---
 ##  y propriété
 
-Obtient ou définit la coordonnée y du coin supérieur gauche en unités de 1/4 000 de la zone du graphique.
+Obtient ou définit la coordonnée y du coin supérieur gauche en unités de 1/4000 de la zone du graphique.
 
 ###  Remarques
 
  Comment convertir des unités de 1/4000 en pixels ?
-Y en pixels = Y * Chart.ChartObject.Height / 4000 ;
+Y en pixels = Y * Chart.ChartObject.Height / 4000d ;
 ###  Définition:
 ```python
 @property

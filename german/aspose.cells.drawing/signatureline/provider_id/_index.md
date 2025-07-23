@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  provider_id Eigentum
 
-Ruft die ID des Signaturanbieters ab und legt sie fest.
+Ruft die ID des Signaturanbieters ab oder legt sie fest.
 
 ###  Bemerkungen
 
-Dies ist in der Regel die CLSID des Provider-COM-Add-Ins.
+Normalerweise handelt es sich dabei um die CLSID des Provider-Com-Add-Ins.
 
 ###  Beispiel
 
@@ -23,7 +23,7 @@ from uuid import uuid4
 
 #  Create signature line object
 s2 = SignatureLine()
-s2.provider_id = uuid4()
+s2.provider_id = uuid4("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx")
 
 ```
 ###  Definition:
@@ -37,5 +37,5 @@ def provider_id(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [SignatureLine](/cells/python-net/de/aspose.cells.drawing/signatureline)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`SignatureLine`](/cells/python-net/de/aspose.cells.drawing/signatureline)

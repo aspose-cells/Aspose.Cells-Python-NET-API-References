@@ -3,12 +3,12 @@ title: get_row_by_index Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 30
+weight: 40
 url: /de/aspose.cells/rowcollection/get_row_by_index/
 is_root: false
 ---
-##  get_row_by_index(index) {#int}
-Ruft das Zeilenobjekt nach der Position in der Liste ab.
+##  get_row_by_index(self, index) {#int}
+Ruft das Zeilenobjekt anhand der Position in der Liste ab.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Das Row-Objekt an der angegebenen Position.
 
 
 ```python
+
 def get_row_by_index(self, index):
     ...
 ```
@@ -29,5 +30,5 @@ def get_row_by_index(self, index):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [RowCollection](/cells/python-net/de/aspose.cells/rowcollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`RowCollection`](/cells/python-net/de/aspose.cells/rowcollection)

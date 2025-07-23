@@ -1,5 +1,5 @@
 ---
-title: add méthode
+title: méthode add
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 20
 url: /fr/aspose.cells/multiplefiltercollection/add/
 is_root: false
 ---
-##  add(filter) {#str}
+##  add(self, filter) {#str}
 Ajoute un filtre de chaîne.
 
 
 
 ```python
+
 def add(self, filter):
     ...
 ```
@@ -25,5 +26,5 @@ def add(self, filter):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [MultipleFilterCollection](/cells/python-net/fr/aspose.cells/multiplefiltercollection)
+* module [`aspose.cells`](../../)
+* classe [`MultipleFilterCollection`](/cells/python-net/fr/aspose.cells/multiplefiltercollection)

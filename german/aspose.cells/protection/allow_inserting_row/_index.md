@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_inserting_row Eigentum
 
-Stellt dar, ob das Einfügen von Zeilen in einem geschützten Arbeitsblatt zulässig ist
+Gibt an, ob das Einfügen von Zeilen in ein geschütztes Arbeitsblatt zulässig ist.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_inserting_row(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Protection](/cells/python-net/de/aspose.cells/protection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Protection`](/cells/python-net/de/aspose.cells/protection)

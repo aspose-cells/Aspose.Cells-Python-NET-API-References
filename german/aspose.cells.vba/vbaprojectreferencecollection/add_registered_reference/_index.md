@@ -7,7 +7,7 @@ weight: 40
 url: /de/aspose.cells.vba/vbaprojectreferencecollection/add_registered_reference/
 is_root: false
 ---
-##  add_registered_reference(name, libid) {#str-str}
+##  add_registered_reference(self, name, libid) {#str-str}
 Fügen Sie einen Verweis auf eine Automatisierungstypbibliothek hinzu.
 
 
@@ -17,6 +17,7 @@ Fügen Sie einen Verweis auf eine Automatisierungstypbibliothek hinzu.
 
 
 ```python
+
 def add_registered_reference(self, name, libid):
     ...
 ```
@@ -25,10 +26,10 @@ def add_registered_reference(self, name, libid):
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | name | str | Der Name der Referenz.|
-| libid | str | Der Bezeichner einer Automatisierungstypbibliothek.|
+| libid | str | Die Kennung einer Automatisierungstypbibliothek.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.vba](../../)
-* Klasse [VbaProjectReferenceCollection](/cells/python-net/de/aspose.cells.vba/vbaprojectreferencecollection)
+* Modul [`aspose.cells.vba`](../../)
+* Klasse [`VbaProjectReferenceCollection`](/cells/python-net/de/aspose.cells.vba/vbaprojectreferencecollection)

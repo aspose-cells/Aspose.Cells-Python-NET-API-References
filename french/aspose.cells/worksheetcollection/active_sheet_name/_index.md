@@ -3,7 +3,7 @@ title: active_sheet_name propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 250
+weight: 270
 url: /fr/aspose.cells/worksheetcollection/active_sheet_name/
 is_root: false
 ---

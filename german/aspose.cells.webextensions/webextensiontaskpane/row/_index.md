@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row Eigentum
 
-Ruft den Index dieses Aufgabenbereichs unter anderen dauerhaften Aufgabenbereichen ab, die am selben Standardspeicherort angedockt sind, und legt ihn fest.
+Ruft den Index dieses Aufgabenbereichs unter anderen persistenten Aufgabenbereichen ab und legt ihn fest (von außen nach innen aufgezählt), die am gleichen Standardspeicherort angedockt sind.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def row(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.webextensions](../../)
-* Klasse [WebExtensionTaskPane](/cells/python-net/de/aspose.cells.webextensions/webextensiontaskpane)
+* Modul [`aspose.cells.webextensions`](../../)
+* Klasse [`WebExtensionTaskPane`](/cells/python-net/de/aspose.cells.webextensions/webextensiontaskpane)

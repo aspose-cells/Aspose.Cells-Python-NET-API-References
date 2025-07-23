@@ -10,7 +10,7 @@ is_root: false
 ##  export_column_name propriété
 
 Indique si les données de la première ligne sont exportées vers le nom de colonne du DataTable.
-La valeur par défaut est fausse.
+La valeur par défaut est false.
 ###  Définition:
 ```python
 @property

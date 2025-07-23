@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  image_data propriété
 
-Obtient et définit les données d'image de l'image.
+Obtient et définit les données de l'image.
 
 ###  Remarques
 
@@ -25,5 +25,5 @@ def image_data(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [FillFormat](/cells/python-net/fr/aspose.cells.drawing/fillformat)
+* module [`aspose.cells.drawing`](../../)
+* classe [`FillFormat`](/cells/python-net/fr/aspose.cells.drawing/fillformat)

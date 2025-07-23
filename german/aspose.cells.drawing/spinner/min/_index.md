@@ -3,13 +3,13 @@ title: min Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 840
+weight: 850
 url: /de/aspose.cells.drawing/spinner/min/
 is_root: false
 ---
 ##  min Eigentum
 
-Ruft den Mindestwert einer Bildlaufleiste oder eines Spinnerbereichs ab oder legt diesen fest.
+Ruft den Mindestwert eines Bildlaufleisten- oder Spinnerbereichs ab oder legt ihn fest.
 ###  Definition:
 ```python
 @property

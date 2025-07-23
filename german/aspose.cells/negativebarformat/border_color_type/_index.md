@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border_color_type Eigentum
 
-Ruft ab, ob dieselbe Rahmenfarbe wie positive Datenbalken verwendet werden soll.
+Ruft ab, ob die gleiche Rahmenfarbe wie bei positiven Datenbalken verwendet werden soll.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def border_color_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [DataBarNegativeColorType](/cells/python-net/de/aspose.cells/databarnegativecolortype)
-* Klasse [NegativeBarFormat](/cells/python-net/de/aspose.cells/negativebarformat)
+* Modul [`aspose.cells`](../../)
+* Klasse [`DataBarNegativeColorType`](/cells/python-net/de/aspose.cells/databarnegativecolortype)
+* Klasse [`NegativeBarFormat`](/cells/python-net/de/aspose.cells/negativebarformat)

@@ -3,13 +3,13 @@ title: number_group_separator Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 350
+weight: 380
 url: /de/aspose.cells/workbooksettings/number_group_separator/
 is_root: false
 ---
 ##  number_group_separator Eigentum
 
-Ruft das Zeichen ab, das in numerischen Werten Gruppen von Ziffern links von der Dezimalstelle trennt, oder legt dieses fest. Standard ist das Gruppentrennzeichen der aktuellen Region.
+Ruft das Zeichen ab, das Zifferngruppen links vom Dezimaltrennzeichen in numerischen Werten trennt, oder legt dieses fest. Standardmäßig wird das Gruppentrennzeichen der aktuellen Region verwendet.
 ###  Definition:
 ```python
 @property

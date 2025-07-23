@@ -18,6 +18,6 @@ def action_type(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.revisions](../../)
-* classe [RevisionActionType](/cells/python-net/fr/aspose.cells.revisions/revisionactiontype)
-* classe [RevisionCellComment](/cells/python-net/fr/aspose.cells.revisions/revisioncellcomment)
+* module [`aspose.cells.revisions`](../../)
+* classe [`RevisionActionType`](/cells/python-net/fr/aspose.cells.revisions/revisionactiontype)
+* classe [`RevisionCellComment`](/cells/python-net/fr/aspose.cells.revisions/revisioncellcomment)

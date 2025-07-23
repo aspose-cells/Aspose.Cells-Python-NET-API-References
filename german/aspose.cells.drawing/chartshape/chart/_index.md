@@ -3,13 +3,13 @@ title: chart Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 320
+weight: 330
 url: /de/aspose.cells.drawing/chartshape/chart/
 is_root: false
 ---
 ##  chart Eigentum
 
-Gibt ein Chart-Objekt zurück, das den im Objekt enthaltenen Wert chart darstellt.
+Gibt ein Chart-Objekt zurück, das die im Objekt enthaltene chart darstellt.
 ###  Definition:
 ```python
 @property

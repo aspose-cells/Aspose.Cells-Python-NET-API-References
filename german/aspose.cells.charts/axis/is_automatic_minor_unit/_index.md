@@ -3,7 +3,7 @@ title: is_automatic_minor_unit Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 220
+weight: 230
 url: /de/aspose.cells.charts/axis/is_automatic_minor_unit/
 is_root: false
 ---

@@ -3,16 +3,17 @@ title: get_designer_storage Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 70
+weight: 80
 url: /de/aspose.cells.vba/vbamodulecollection/get_designer_storage/
 is_root: false
 ---
-##  get_designer_storage {#str}
-Stellt die Daten von Designer dar.
+##  get_designer_storage(self, name) {#str}
+Stellt die Daten des Designers dar.
 
 
 
 ```python
+
 def get_designer_storage(self, name):
     ...
 ```
@@ -23,7 +24,7 @@ def get_designer_storage(self, name):
 | name | str |  |
 ###  Bemerkungen
 
-Wir unterstützen nicht, sie zu analysieren. Nur zum Kopieren.
+Wir unterstützen das Parsen nicht. Nur das Kopieren.
 
 
 ###  Siehe auch

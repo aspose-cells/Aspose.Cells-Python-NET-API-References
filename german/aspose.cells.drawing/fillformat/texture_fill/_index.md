@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  texture_fill Eigentum
 
-Ruft [FillFormat.texture_fill](/cells/python-net/de/aspose.cells.drawing/fillformat#texture_fill)-Objekt ab.
+Ruft das Objekt [`FillFormat.texture_fill`](/cells/python-net/de/aspose.cells.drawing/fillformat#texture_fill) ab.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def texture_fill(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [FillFormat](/cells/python-net/de/aspose.cells.drawing/fillformat)
-* Klasse [TextureFill](/cells/python-net/de/aspose.cells.drawing/texturefill)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`FillFormat`](/cells/python-net/de/aspose.cells.drawing/fillformat)
+* Klasse [`TextureFill`](/cells/python-net/de/aspose.cells.drawing/texturefill)

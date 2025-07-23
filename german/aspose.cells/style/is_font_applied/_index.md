@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_font_applied Eigentum
 
-Geben Sie an, ob die Schriftartformatierung angewendet werden soll.
+Geben Sie an, ob die Schriftformatierung angewendet werden soll.
 
 ###  Bemerkungen
 

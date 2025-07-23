@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  compound_type Eigentum
 
-Gibt den Verbundtyp der Linie an.
+Gibt den Linienverbundtyp an.
 
 ###  Beispiel
 
@@ -30,6 +30,6 @@ def compound_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [LineFormat](/cells/python-net/de/aspose.cells.drawing/lineformat)
-* Klasse [MsoLineStyle](/cells/python-net/de/aspose.cells.drawing/msolinestyle)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`LineFormat`](/cells/python-net/de/aspose.cells.drawing/lineformat)
+* Klasse [`MsoLineStyle`](/cells/python-net/de/aspose.cells.drawing/msolinestyle)

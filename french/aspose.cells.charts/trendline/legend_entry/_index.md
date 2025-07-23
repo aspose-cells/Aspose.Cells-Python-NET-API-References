@@ -18,6 +18,6 @@ def legend_entry(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [LegendEntry](/cells/python-net/fr/aspose.cells.charts/legendentry)
-* classe [Trendline](/cells/python-net/fr/aspose.cells.charts/trendline)
+* module [`aspose.cells.charts`](../../)
+* classe [`LegendEntry`](/cells/python-net/fr/aspose.cells.charts/legendentry)
+* classe [`Trendline`](/cells/python-net/fr/aspose.cells.charts/trendline)

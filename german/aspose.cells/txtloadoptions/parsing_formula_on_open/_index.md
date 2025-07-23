@@ -3,7 +3,7 @@ title: parsing_formula_on_open Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 320
+weight: 300
 url: /de/aspose.cells/txtloadoptions/parsing_formula_on_open/
 is_root: false
 ---
@@ -13,8 +13,8 @@ Gibt an, ob die Formel beim Lesen der Datei analysiert wird.
 
 ###  Bemerkungen
 
-Gilt nur für Excel Xlsx-, Xltx-, Xltm- und Xlsm-Dateien
-weil die Formeln in den Dateien mit einer Zeichenfolgenformel gespeichert sind.
+Gilt nur für Excel-Dateien vom Typ Xlsx, Xltx, Xltm und Xlsm
+weil die Formeln in den Dateien mit einer String-Formel gespeichert werden.
 ###  Definition:
 ```python
 @property

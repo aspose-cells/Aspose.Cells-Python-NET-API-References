@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  bottom_bevel_type Eigentum
 
-Ruft den Typ der unteren Abschrägung ab und legt diesen fest oder wie weit in die Form hinein wird sie angewendet.
-In Einheiten von Punkten.
+Ruft den Typ der unteren Abschrägung ab und legt ihn fest, bzw. wie weit in die Form hinein sie angewendet wird.
+In Punkten.
 ###  Definition:
 ```python
 @property
@@ -22,6 +22,6 @@ def bottom_bevel_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [BevelType](/cells/python-net/de/aspose.cells.drawing/beveltype)
-* Klasse [ThreeDFormat](/cells/python-net/de/aspose.cells.drawing/threedformat)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`BevelType`](/cells/python-net/de/aspose.cells.drawing/beveltype)
+* Klasse [`ThreeDFormat`](/cells/python-net/de/aspose.cells.drawing/threedformat)

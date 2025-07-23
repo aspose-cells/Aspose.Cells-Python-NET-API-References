@@ -3,18 +3,18 @@ title: top_in_shape propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1080
+weight: 1090
 url: /fr/aspose.cells.drawing/dialogbox/top_in_shape/
 is_root: false
 ---
 ##  top_in_shape propriété
 
- Représente le décalage vertical de la forme par rapport à la bordure supérieure de la forme parent.
-en unité de 1/4000 de hauteur de la forme parent.
+ Représente le décalage vertical de la forme par rapport à la bordure supérieure de la forme parent,
+en unité de 1/4000 de la hauteur de la forme parente.
 
 ###  Remarques
 
-S'applique uniquement lorsque cette forme fait partie du groupe ou du graphique.
+S'applique uniquement lorsque cette forme se trouve dans le groupe ou le graphique.
 
 ###  Exemple
 

@@ -3,13 +3,13 @@ title: original_items propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 520
+weight: 610
 url: /fr/aspose.cells.pivot/pivotfield/original_items/
 is_root: false
 ---
 ##  original_items propriété
 
-Obtenez les éléments de base originaux ;
+Obtenez les éléments de base d'origine ;
 ###  Définition:
 ```python
 @property

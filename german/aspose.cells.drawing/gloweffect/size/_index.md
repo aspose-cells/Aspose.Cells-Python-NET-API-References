@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  size Eigentum
 
-Ruft den Radius des Glühens in Punkteinheiten ab und legt ihn fest.
+Ruft den Radius des Glühens in Punkten ab und legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def size(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [GlowEffect](/cells/python-net/de/aspose.cells.drawing/gloweffect)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`GlowEffect`](/cells/python-net/de/aspose.cells.drawing/gloweffect)

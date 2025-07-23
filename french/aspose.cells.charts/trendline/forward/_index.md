@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  forward propriété
 
-Renvoie ou définit le nombre de périodes (ou d'unités sur un graphique en nuage de points) que la courbe de tendance étend forward.
+Renvoie ou définit le nombre de périodes (ou d'unités sur un graphique en nuage de points) pendant lesquelles la ligne de tendance s'étend forward.
 Le nombre de périodes doit être supérieur ou égal à zéro.
 ###  Définition:
 ```python
@@ -22,5 +22,5 @@ def forward(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Trendline](/cells/python-net/fr/aspose.cells.charts/trendline)
+* module [`aspose.cells.charts`](../../)
+* classe [`Trendline`](/cells/python-net/fr/aspose.cells.charts/trendline)

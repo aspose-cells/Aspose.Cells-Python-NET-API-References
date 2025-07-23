@@ -21,5 +21,5 @@ def criteria(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Top10Filter](/cells/python-net/de/aspose.cells/top10filter)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Top10Filter`](/cells/python-net/de/aspose.cells/top10filter)

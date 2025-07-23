@@ -21,5 +21,5 @@ def version(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.webextensions](../../)
-* classe [WebExtensionReference](/cells/python-net/fr/aspose.cells.webextensions/webextensionreference)
+* module [`aspose.cells.webextensions`](../../)
+* classe [`WebExtensionReference`](/cells/python-net/fr/aspose.cells.webextensions/webextensionreference)

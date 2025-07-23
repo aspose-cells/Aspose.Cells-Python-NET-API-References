@@ -3,7 +3,7 @@ title: lower_right_column Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 880
+weight: 900
 url: /de/aspose.cells.drawing/picture/lower_right_column/
 is_root: false
 ---

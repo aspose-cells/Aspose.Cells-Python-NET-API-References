@@ -7,8 +7,8 @@ weight: 130
 url: /fr/aspose.cells.pivot/pivottable/get_cell_by_display_name/
 is_root: false
 ---
-##  get_cell_by_display_name {#str}
-Obtient l’objet [`Cell`](/cells/python-net/fr/aspose.cells/cell) sous le nom d’affichage PivotField.
+##  get_cell_by_display_name(self, display_name) {#str}
+Obtient l'objet [`Cell`](/cells/python-net/fr/aspose.cells/cell) par le nom d'affichage de PivotField.
 
 
 ###  Retour
@@ -17,6 +17,7 @@ l'objet Cell
 
 
 ```python
+
 def get_cell_by_display_name(self, display_name):
     ...
 ```
@@ -24,7 +25,7 @@ def get_cell_by_display_name(self, display_name):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| display_name | str | le nom d'affichage de PivotField|
+| display_name | str | le nom d'affichage du champ croisé dynamique|
 
 
 

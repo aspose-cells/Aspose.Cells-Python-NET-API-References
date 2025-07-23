@@ -3,13 +3,13 @@ title: minor_grid_lines propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 340
+weight: 350
 url: /fr/aspose.cells.charts/axis/minor_grid_lines/
 is_root: false
 ---
 ##  minor_grid_lines propriété
 
-Représente un quadrillage mineur sur un axe du graphique.
+Représente les lignes de grille mineures sur un axe de graphique.
 ###  Définition:
 ```python
 @property

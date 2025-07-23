@@ -3,12 +3,12 @@ title: NumberCategoryType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2350
+weight: 2320
 url: /fr/aspose.cells/numbercategorytype/
 is_root: false
 ---
 ##  NumberCategoryType énumération
-Représente le type de catégorie de formatage des nombres de cellule.
+Représente le type de catégorie du formatage numérique de la cellule.
 
 
 
@@ -22,7 +22,7 @@ Le type NumberCategoryType expose les membres suivants :
 | NUMBER | Nombre|
 | DATE | Date ou Date et heure|
 | TIME | Temps|
-| FRACTION | Fraction|
+| FRACTION |Fraction|
 | SCIENTIFIC | Scientifique|
 
 

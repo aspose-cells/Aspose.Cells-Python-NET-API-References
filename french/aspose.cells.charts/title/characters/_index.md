@@ -1,5 +1,5 @@
 ---
-title: characters méthode
+title: méthode characters
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 20
 url: /fr/aspose.cells.charts/title/characters/
 is_root: false
 ---
-##  characters() {#}
-Obtient la mise en forme de texte enrichi de ce titre.
+##  characters(self) {#}
+Obtient un formatage de texte enrichi de ce titre.
 
 
 ###  Retour
 
-renvoie le tableau FontSetting
+renvoie un tableau FontSetting
 
 
 ```python
+
 def characters(self):
     ...
 ```
@@ -24,16 +25,17 @@ def characters(self):
 
 
 
-##  characters(start_index, length) {#int-int}
+##  characters(self, start_index, length) {#int-int}
 Renvoie un objet Characters qui représente une plage de characters dans le texte.
 
 
 ###  Retour
 
-Objet personnages.
+Objet Personnages.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -47,5 +49,5 @@ def characters(self, start_index, length):
 
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Title](/cells/python-net/fr/aspose.cells.charts/title)
+* module [`aspose.cells.charts`](../../)
+* classe [`Title`](/cells/python-net/fr/aspose.cells.charts/title)

@@ -7,12 +7,13 @@ weight: 20
 url: /de/aspose.cells.charts/chartarea/set_position_auto/
 is_root: false
 ---
-##  set_position_auto() {#}
-Stellen Sie die Position des Rahmens auf automatisch
+##  set_position_auto(self) {#}
+Position des Rahmens auf automatisch einstellen
 
 
 
 ```python
+
 def set_position_auto(self):
     ...
 ```
@@ -22,5 +23,5 @@ def set_position_auto(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ChartArea](/cells/python-net/de/aspose.cells.charts/chartarea)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ChartArea`](/cells/python-net/de/aspose.cells.charts/chartarea)

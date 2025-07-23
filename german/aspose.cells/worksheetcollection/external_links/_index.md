@@ -3,7 +3,7 @@ title: external_links Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 300
+weight: 320
 url: /de/aspose.cells/worksheetcollection/external_links/
 is_root: false
 ---

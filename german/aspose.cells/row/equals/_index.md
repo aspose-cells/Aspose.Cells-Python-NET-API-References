@@ -7,16 +7,17 @@ weight: 40
 url: /de/aspose.cells/row/equals/
 is_root: false
 ---
-##  equals(row) {#Row}
-Überprüft, ob dieses Objekt mit einem anderen Zeilenobjekt auf dieselbe Zeile verweist.
+##  equals(self, row) {#aspose.cells.Row}
+Überprüft, ob dieses Objekt auf dieselbe Zeile wie ein anderes Zeilenobjekt verweist.
 
 
 ###  Kehrt zurück
 
-true, wenn zwei Zeilenobjekte auf dieselbe Zeile verweisen.
+Wahr, wenn sich zwei Zeilenobjekte auf dieselbe Zeile beziehen.
 
 
 ```python
+
 def equals(self, row):
     ...
 ```
@@ -24,10 +25,10 @@ def equals(self, row):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| row | [Row](/cells/python-net/de/aspose.cells/row) | ein weiteres Zeilenobjekt|
+| row | [`Row`](/cells/python-net/de/aspose.cells/row) | ein anderes Zeilenobjekt|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Row](/cells/python-net/de/aspose.cells/row)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Row`](/cells/python-net/de/aspose.cells/row)

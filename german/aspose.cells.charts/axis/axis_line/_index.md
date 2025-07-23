@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  axis_line Eigentum
 
-Ruft das Erscheinungsbild einer Achse ab.
+Erhält das Erscheinungsbild einer Achse.
 ###  Definition:
 ```python
 @property

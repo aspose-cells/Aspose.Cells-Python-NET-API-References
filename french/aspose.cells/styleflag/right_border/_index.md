@@ -21,5 +21,5 @@ def right_border(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [StyleFlag](/cells/python-net/fr/aspose.cells/styleflag)
+* module [`aspose.cells`](../../)
+* classe [`StyleFlag`](/cells/python-net/fr/aspose.cells/styleflag)

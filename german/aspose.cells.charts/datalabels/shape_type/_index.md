@@ -3,13 +3,13 @@ title: shape_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 370
+weight: 440
 url: /de/aspose.cells.charts/datalabels/shape_type/
 is_root: false
 ---
 ##  shape_type Eigentum
 
-Ruft den Formtyp der Datenbeschriftung ab oder legt diesen fest.
+Ruft den Formtyp der Datenbeschriftung ab oder legt ihn fest.
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name Eigentum
 
-Ruft den Range-Titel ab. Dies wird als Deskriptor verwendet, nicht als benannte Bereichsdefinition.
+Ruft den Bereichstitel ab. Dieser wird als Deskriptor und nicht als benannte Bereichsdefinition verwendet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ProtectedRange](/cells/python-net/de/aspose.cells/protectedrange)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ProtectedRange`](/cells/python-net/de/aspose.cells/protectedrange)

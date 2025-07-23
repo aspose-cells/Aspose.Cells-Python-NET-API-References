@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name Eigentum
 
-Gibt die name des Objekts zurück oder setzt sie.
+Gibt den name des Objekts zurück oder legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [XmlMap](/cells/python-net/de/aspose.cells/xmlmap)
+* Modul [`aspose.cells`](../../)
+* Klasse [`XmlMap`](/cells/python-net/de/aspose.cells/xmlmap)

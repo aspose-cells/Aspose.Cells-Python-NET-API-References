@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height Eigentum
 
-Ruft die height von oben nach unten in Einheiten von 1/4000 von height des Diagramms ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.
+Ruft den Wert height von oben nach unten in Einheiten von 1/4000 des Werts height des Diagramms ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def height(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Walls](/cells/python-net/de/aspose.cells.charts/walls)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Walls`](/cells/python-net/de/aspose.cells.charts/walls)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_auto_first_page_number propriété
 
-Indique si le premier numéro de page est automatiquement attribué.
+Indique si le premier numéro de page est attribué automatiquement.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_auto_first_page_number(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/fr/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/fr/aspose.cells/pagesetup)

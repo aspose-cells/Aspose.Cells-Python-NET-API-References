@@ -8,10 +8,6 @@ url: /de/aspose.cells/xpssaveoptions/all_columns_in_one_page_per_sheet/
 is_root: false
 ---
 ##  all_columns_in_one_page_per_sheet Eigentum
-
- Wenn AllColumnsInOnePagePerSheet true ist, werden alle Spalteninhalte eines Blatts als Ergebnis nur auf einer Seite ausgegeben.
- Die Breite des Papierformats von pagesetup und die anderen Einstellungen von pagesetup werden ignoriert
-wird noch wirksam.
 ###  Definition:
 ```python
 @property
@@ -23,5 +19,5 @@ def all_columns_in_one_page_per_sheet(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [XpsSaveOptions](/cells/python-net/de/aspose.cells/xpssaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`XpsSaveOptions`](/cells/python-net/de/aspose.cells/xpssaveoptions)

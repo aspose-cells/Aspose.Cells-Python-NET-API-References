@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  intercept Eigentum
 
-Gibt den Punkt zurück, an dem die Trendlinie die Werteachse schneidet, oder legt ihn fest.
+Gibt den Punkt zurück oder legt ihn fest, an dem die Trendlinie die Werteachse schneidet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def intercept(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Trendline](/cells/python-net/de/aspose.cells.charts/trendline)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Trendline`](/cells/python-net/de/aspose.cells.charts/trendline)

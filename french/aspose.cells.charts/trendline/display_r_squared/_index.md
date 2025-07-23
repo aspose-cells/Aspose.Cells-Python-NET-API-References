@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_r_squared propriété
 
-Représente si la valeur R au carré de la courbe de tendance est affichée sur le graphique (dans la même étiquette de données que l'équation). La définition de cette propriété sur True active automatiquement les étiquettes de données.
+Indique si la valeur R² de la courbe de tendance est affichée sur le graphique (dans la même étiquette de données que l'équation). Définir cette propriété sur « True » active automatiquement les étiquettes de données.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def display_r_squared(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Trendline](/cells/python-net/fr/aspose.cells.charts/trendline)
+* module [`aspose.cells.charts`](../../)
+* classe [`Trendline`](/cells/python-net/fr/aspose.cells.charts/trendline)

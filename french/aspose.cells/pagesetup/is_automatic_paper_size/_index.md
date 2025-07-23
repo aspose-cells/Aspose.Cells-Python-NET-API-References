@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_automatic_paper_size propriété
 
-Indique si le format de papier est automatique.
+Indique si le format du papier est automatique.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_automatic_paper_size(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/fr/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/fr/aspose.cells/pagesetup)

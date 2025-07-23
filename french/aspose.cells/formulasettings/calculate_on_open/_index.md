@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  calculate_on_open propriété
 
-Indique si l'application doit effectuer un calcul complet à l'ouverture du classeur.
+Indique si l'application doit effectuer un calcul complet lorsque le classeur est ouvert.
 
 ###  Remarques
 
 Cette propriété sert uniquement à enregistrer les paramètres dans le fichier de feuille de calcul résultant
-afin que d'autres applications (telles que ms excel) puissent agir en conséquence lors du chargement du fichier résultant.
-Pour des raisons de performances pour la plupart des applications des utilisateurs, nous ne calculons aucune formule automatiquement dans le classeur,
+afin que d'autres applications (telles que MS Excel) puissent agir en conséquence lors du chargement du fichier résultant.
+Pour des raisons de performances pour la plupart des applications des utilisateurs, nous ne calculons automatiquement aucune formule dans le classeur,
 quelle que soit la valeur définie pour cette propriété.
 ###  Définition:
 ```python
@@ -28,5 +28,5 @@ def calculate_on_open(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FormulaSettings](/cells/python-net/fr/aspose.cells/formulasettings)
+* module [`aspose.cells`](../../)
+* classe [`FormulaSettings`](/cells/python-net/fr/aspose.cells/formulasettings)

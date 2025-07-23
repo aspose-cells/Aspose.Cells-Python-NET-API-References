@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  perspective propriété
 
-Obtient et définit l'angle auquel un objet ThreeDFormat peut être affiché.
+Obtient et définit l'angle sous lequel un objet ThreeDFormat peut être visualisé.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def perspective(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ThreeDFormat](/cells/python-net/fr/aspose.cells.drawing/threedformat)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ThreeDFormat`](/cells/python-net/fr/aspose.cells.drawing/threedformat)

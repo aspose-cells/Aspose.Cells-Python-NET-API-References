@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  load_format propriété
 
-Obtient le format de chargement détecté.
+Obtient le format de charge détecté.
 ###  Définition:
 ```python
 @property
@@ -18,6 +18,6 @@ def load_format(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FileFormatInfo](/cells/python-net/fr/aspose.cells/fileformatinfo)
-* classe [LoadFormat](/cells/python-net/fr/aspose.cells/loadformat)
+* module [`aspose.cells`](../../)
+* classe [`FileFormatInfo`](/cells/python-net/fr/aspose.cells/fileformatinfo)
+* classe [`LoadFormat`](/cells/python-net/fr/aspose.cells/loadformat)

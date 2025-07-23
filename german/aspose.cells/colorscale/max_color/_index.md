@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  max_color Eigentum
 
-Rufen Sie die Verlaufsfarbe für den Höchstwert im Bereich ab oder legen Sie sie fest.
+Rufen Sie die Verlaufsfarbe für den Maximalwert im Bereich ab oder legen Sie sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def max_color(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ColorScale](/cells/python-net/de/aspose.cells/colorscale)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ColorScale`](/cells/python-net/de/aspose.cells/colorscale)

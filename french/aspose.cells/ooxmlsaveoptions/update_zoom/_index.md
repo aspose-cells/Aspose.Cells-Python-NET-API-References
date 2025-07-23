@@ -3,14 +3,14 @@ title: update_zoom propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 170
+weight: 180
 url: /fr/aspose.cells/ooxmlsaveoptions/update_zoom/
 is_root: false
 ---
 ##  update_zoom propriété
 
- Indique s'il faut mettre à jour le facteur d'échelle avant d'enregistrer le fichier
-si les propriétés PageSetup.FitToPagesWide et PageSetup.FitToPagesTall contrôlent la mise à l'échelle de la feuille de calcul.
+ Indique si le facteur d'échelle doit être mis à jour avant d'enregistrer le fichier
+si les propriétés PageSetup.FitToPagesWide et PageSetup.FitToPagesTall contrôlent la façon dont la feuille de calcul est mise à l'échelle.
 
 ###  Remarques
 
@@ -26,5 +26,5 @@ def update_zoom(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [OoxmlSaveOptions](/cells/python-net/fr/aspose.cells/ooxmlsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`OoxmlSaveOptions`](/cells/python-net/fr/aspose.cells/ooxmlsaveoptions)

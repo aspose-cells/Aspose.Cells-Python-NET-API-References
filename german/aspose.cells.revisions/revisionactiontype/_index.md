@@ -8,7 +8,7 @@ url: /de/aspose.cells.revisions/revisionactiontype/
 is_root: false
 ---
 ##  RevisionActionType Aufzählung
-Repräsentiert die Art der Überarbeitungsaktion.
+Stellt den Typ der Revisionsaktion dar.
 
 
 
@@ -17,14 +17,14 @@ Der Typ RevisionActionType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| ADD | Überarbeitung hinzufügen.|
-| DELETE | Überarbeitung löschen.|
-| DELETE_COLUMN | Spalte löschen Revision.|
+| ADD | Revision hinzufügen.|
+| DELETE | Revision löschen.|
+| DELETE_COLUMN | Revision zum Löschen der Spalte.|
 | DELETE_ROW | Zeilenlöschrevision.|
 | INSERT_COLUMN | Überarbeitung der Spalteneinfügung.|
-| INSERT_ROW | Zeileneinfügungsrevision.|
+| INSERT_ROW | Überarbeitung der Zeileneinfügung.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.revisions](..)
+* Modul [`aspose.cells.revisions`](..)

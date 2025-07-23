@@ -1,5 +1,5 @@
 ---
-title: add_condition méthode
+title: méthode add_condition
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 40
 url: /fr/aspose.cells/formatconditioncollection/add_condition/
 is_root: false
 ---
-##  add_condition(type) {#FormatConditionType}
-Ajoutez une condition de mise en forme.
+##  add_condition(self, type) {#aspose.cells.FormatConditionType}
+Ajouter une condition de format.
 
 
 ###  Retour
 
-Index d'objet de condition de formatage ;
+Condition de formatage de l'index de l'objet ;
 
 
 ```python
+
 def add_condition(self, type):
     ...
 ```
@@ -24,19 +25,20 @@ def add_condition(self, type):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| type | [FormatConditionType](/cells/python-net/fr/aspose.cells/formatconditiontype) | Formater le type de condition.|
+| type | [`FormatConditionType`](/cells/python-net/fr/aspose.cells/formatconditiontype) | Type de condition de format.|
 
 
-##  add_condition(type, operator_type, formula1, formula2) {#FormatConditionType-OperatorType-str-str}
+##  add_condition(self, type, operator_type, formula1, formula2) {#aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str}
 Ajoute une condition de formatage.
 
 
 ###  Retour
 
-Index d'objet de condition de formatage ;
+Condition de formatage de l'index de l'objet ;
 
 
 ```python
+
 def add_condition(self, type, operator_type, formula1, formula2):
     ...
 ```
@@ -44,15 +46,13 @@ def add_condition(self, type, operator_type, formula1, formula2):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| type | [FormatConditionType](/cells/python-net/fr/aspose.cells/formatconditiontype) | [FormatConditionType](/cells/python-net/fr/aspose.cells/formatconditiontype) de mise en forme conditionnelle.<br/> Il peut s'agir de l'un des membres de FormatConditionType.|
-| operator_type | [OperatorType](/cells/python-net/fr/aspose.cells/operatortype) | La comparaison [OperatorType](/cells/python-net/fr/aspose.cells/operatortype).<br/> Il peut s'agir de l'un des membres de OperatorType.|
-| formula1 | str | La valeur ou l'expression associée à la mise en forme conditionnelle.<br/>Si la valeur d'entrée commence par '=', elle sera considérée comme une formule.<br/>Sinon, il sera pris comme valeur simple (texte, nombre, booléen).<br/> Pour une valeur de texte commençant par '=', l'utilisateur peut la saisir sous forme de formule au format : "=\"=...\"".|
-| formula2 | str | La valeur ou l'expression associée à la mise en forme conditionnelle.<br/>Le format d'entrée est le même avec formula1|
+| type | [`FormatConditionType`](/cells/python-net/fr/aspose.cells/formatconditiontype) | Le type de condition de format.|
+| operator_type | [`OperatorType`](/cells/python-net/fr/aspose.cells/operatortype) | Le type d'opérateur|
+| formula1 | str | La valeur ou l’expression associée à la mise en forme conditionnelle.<br/>Si la valeur d'entrée commence par « = », elle sera alors considérée comme une formule.<br/>Sinon, il sera considéré comme une valeur simple (texte, nombre, booléen).<br/> Pour une valeur de texte commençant par « = », l'utilisateur peut la saisir sous forme de formule au format : « =\"=...\" ».|
+| formula2 | str | La valeur ou l’expression associée à la mise en forme conditionnelle.<br/> Le format d'entrée est le même que celui de la formule 1|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FormatConditionCollection](/cells/python-net/fr/aspose.cells/formatconditioncollection)
-* classe [FormatConditionType](/cells/python-net/fr/aspose.cells/formatconditiontype)
-* classe [OperatorType](/cells/python-net/fr/aspose.cells/operatortype)
+* module [`aspose.cells`](../../)
+* classe [`FormatConditionCollection`](/cells/python-net/fr/aspose.cells/formatconditioncollection)

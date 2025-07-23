@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells/pptxsaveoptions/__init__/
 is_root: false
 ---
-##  PptxSaveOptions() {#}
-Représente les options d'enregistrement pptx.
+##  \_\_init\_\_(self){#}
+Représente les options de sauvegarde pptx.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  PptxSaveOptions(save_as_image) {#bool}
+##  \_\_init\_\_(self, enregistrer_sous_une_image){#bool}
 Représente les options d'enregistrement du fichier .pptx.
 
 
 
 ```python
+
 def __init__(self, save_as_image):
     ...
 ```
@@ -33,10 +35,10 @@ def __init__(self, save_as_image):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| save_as_image | bool | Si True, le classeur sera converti en quelques images du fichier .pptx.<br/> Si False, le classeur sera converti en certaines tables du fichier .pptx.|
+| save_as_image | bool | Si vrai, le classeur sera converti en quelques images du fichier .pptx.<br/>Si Faux, le classeur sera converti en quelques tables du fichier .pptx.|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PptxSaveOptions](/cells/python-net/fr/aspose.cells/pptxsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`PptxSaveOptions`](/cells/python-net/fr/aspose.cells/pptxsaveoptions)

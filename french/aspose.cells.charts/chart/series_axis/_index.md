@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  series_axis propriété
 
-Obtient l’axe des séries du graphique.
+Obtient l'axe des séries du graphique.
 ###  Définition:
 ```python
 @property

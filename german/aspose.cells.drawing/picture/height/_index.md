@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height Eigentum
 
-Stellt die height der Form in der Einheit Pixel dar.
+Stellt die height der Form in Pixeleinheiten dar.
 
 ###  Beispiel
 

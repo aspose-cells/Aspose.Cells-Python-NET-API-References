@@ -3,20 +3,21 @@ title: méthode is_intersect
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 140
+weight: 190
 url: /fr/aspose.cells/range/is_intersect/
 is_root: false
 ---
-##  is_intersect {#aspose.cells.Range}
+##  is_intersect(self, range) {#aspose.cells.Range}
 Indique si la plage est intersectée.
 
 
 ###  Retour
 
-Si la plage est croisée.
+Si la plage est intersectée.
 
 
 ```python
+
 def is_intersect(self, range):
     ...
 ```

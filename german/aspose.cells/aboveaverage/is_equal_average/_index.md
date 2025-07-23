@@ -9,10 +9,10 @@ is_root: false
 ---
 ##  is_equal_average Eigentum
 
- Holen oder setzen Sie das Flag, das angibt, ob die Kriterien „aboveAverage“ und „belowAverage“ erfüllt sind
- schließt den Durchschnitt selbst ein oder schließt diesen Wert aus.
-true' gibt an, dass der Durchschnittswert in die Kriterien aufgenommen werden soll.
-Der Standardwert ist falsch.
+ Holen oder setzen Sie das Flag, das angibt, ob die Kriterien „überdurchschnittlich“ und „unterdurchschnittlich“
+ ist inklusive des Durchschnittswerts selbst oder exklusive dieses Werts.
+„true“ gibt an, dass der Durchschnittswert in die Kriterien einbezogen werden soll.
+Der Standardwert ist „false“.
 ###  Definition:
 ```python
 @property
@@ -24,5 +24,5 @@ def is_equal_average(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [AboveAverage](/cells/python-net/de/aspose.cells/aboveaverage)
+* Modul [`aspose.cells`](../../)
+* Klasse [`AboveAverage`](/cells/python-net/de/aspose.cells/aboveaverage)

@@ -3,13 +3,13 @@ title: window_width_inch propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 630
+weight: 640
 url: /fr/aspose.cells/workbooksettings/window_width_inch/
 is_root: false
 ---
 ##  window_width_inch propriété
 
-La largeur de la fenêtre, en unité de pouce.
+La largeur de la fenêtre, en pouces.
 ###  Définition:
 ```python
 @property

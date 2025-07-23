@@ -3,16 +3,17 @@ title: méthode copy
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 50
+weight: 100
 url: /fr/aspose.cells/range/copy/
 is_root: false
 ---
-##  copy {#aspose.cells.Range}
-Copie les données (y compris les formules), le formatage, les objets de dessin, etc. à partir d'une plage source.
+##  copy(self, range) {#aspose.cells.Range}
+Copie les données (y compris les formules), la mise en forme, les objets de dessin, etc. à partir d'une plage source.
 
 
 
 ```python
+
 def copy(self, range):
     ...
 ```
@@ -20,7 +21,7 @@ def copy(self, range):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/fr/aspose.cells/range) |Objet source [`Range`](/cells/python-net/fr/aspose.cells/range).|
+| range | [`Range`](/cells/python-net/fr/aspose.cells/range) | Source objet [`Range`](/cells/python-net/fr/aspose.cells/range).|
 
 ###  Exemple
 
@@ -41,12 +42,13 @@ workbook.save("book1.xlsm")
 ```
 
 
-##  copy {#aspose.cells.Range-aspose.cells.PasteOptions}
-Copie de la plage avec les options spéciales de collage.
+##  copy(self, range, options) {#aspose.cells.Range-aspose.cells.PasteOptions}
+Copie de la plage avec les options de collage spécial.
 
 
 
 ```python
+
 def copy(self, range, options):
     ...
 ```
@@ -54,8 +56,8 @@ def copy(self, range, options):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/fr/aspose.cells/range) | La plage source.|
-| options | [`PasteOptions`](/cells/python-net/fr/aspose.cells/pasteoptions) | Les options spéciales de collage.|
+| range | [`Range`](/cells/python-net/fr/aspose.cells/range) | La gamme source.|
+| options | [`PasteOptions`](/cells/python-net/fr/aspose.cells/pasteoptions) | Les options spéciales de pâte.|
 
 
 

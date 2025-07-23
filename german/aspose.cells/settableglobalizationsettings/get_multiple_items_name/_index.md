@@ -7,16 +7,17 @@ weight: 140
 url: /de/aspose.cells/settableglobalizationsettings/get_multiple_items_name/
 is_root: false
 ---
-##  get_multiple_items_name {#}
-Ruft den Namen der Bezeichnung „(Mehrere Elemente)“ in der PivotTable ab.
+##  get_multiple_items_name(self) {#}
+Ruft den Namen der Beschriftung „(Mehrere Elemente)“ in der PivotTable ab.
 
 
 ###  Kehrt zurück
 
-Der Name des Labels „(Mehrere Elemente)“.
+Der Name des Labels „(Mehrere Elemente)“
 
 
 ```python
+
 def get_multiple_items_name(self):
     ...
 ```
@@ -24,10 +25,10 @@ def get_multiple_items_name(self):
 
 ###  Bemerkungen
 
-HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
+HINWEIS: Dieses Mitglied ist mittlerweile veraltet. Stattdessen
 Bitte verwenden Sie die Methode PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
- Diese Immobilie wird 12 Monate später seit Dezember 2022 entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+ Diese Eigenschaft wird 12 Monate später (ab Dezember 2022) entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 
 
 ###  Siehe auch

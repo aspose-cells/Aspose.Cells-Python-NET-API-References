@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells.pivot/custompiovtfieldgroupitem/__init__/
 is_root: false
 ---
-##  __initialisation__ {#str-list}
+##  \_\_init\_\_(self, nom, index_éléments){#str-list}
 Le constructeur de l'élément de groupe personnalisé du champ pivot.
 
 
 
 ```python
+
 def __init__(self, name, item_indexes):
     ...
 ```
@@ -20,7 +21,7 @@ def __init__(self, name, item_indexes):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| name | str | Le nom de l'élément de groupe|
+| name | str | Le nom de l'élément du groupe|
 | item_indexes | list | Tous les index des éléments du champ pivot de base.|
 
 

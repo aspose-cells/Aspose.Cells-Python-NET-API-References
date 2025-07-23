@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  insert_rows Eigentum
 
-Gibt an, ob neue Zeilen zum Importieren von Datensätzen hinzugefügt werden sollen.
+Gibt an, ob beim Importieren von Datensätzen neue Zeilen hinzugefügt werden sollen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def insert_rows(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ImportTableOptions](/cells/python-net/de/aspose.cells/importtableoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ImportTableOptions`](/cells/python-net/de/aspose.cells/importtableoptions)

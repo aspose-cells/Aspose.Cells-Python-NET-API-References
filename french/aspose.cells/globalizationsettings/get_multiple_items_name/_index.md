@@ -7,16 +7,17 @@ weight: 140
 url: /fr/aspose.cells/globalizationsettings/get_multiple_items_name/
 is_root: false
 ---
-##  get_multiple_items_name {#}
-Obtient le nom de l'étiquette « (Éléments multiples) » dans le tableau croisé dynamique.
+##  get_multiple_items_name(self) {#}
+Obtient le nom de l'étiquette « (Plusieurs éléments) » dans le tableau croisé dynamique.
 
 
 ###  Retour
 
-Le nom de l'étiquette "(Éléments multiples)"
+Le nom de l'étiquette « (Plusieurs éléments) »
 
 
 ```python
+
 def get_multiple_items_name(self):
     ...
 ```
@@ -24,10 +25,10 @@ def get_multiple_items_name(self):
 
 ###  Remarques
 
-REMARQUE : ce membre est désormais obsolète. Plutôt,
+REMARQUE : Ce membre est désormais obsolète. À la place,
 veuillez utiliser la méthode PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
- Ce bien sera supprimé 12 mois plus tard depuis décembre 2022.
-Le Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ Cette propriété sera supprimée 12 mois plus tard soit décembre 2022.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 
 
 ###  Voir également

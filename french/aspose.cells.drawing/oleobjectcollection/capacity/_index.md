@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [OleObjectCollection](/cells/python-net/fr/aspose.cells.drawing/oleobjectcollection)
+* module [`aspose.cells.drawing`](../../)
+* classe [`OleObjectCollection`](/cells/python-net/fr/aspose.cells.drawing/oleobjectcollection)

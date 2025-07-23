@@ -18,6 +18,6 @@ def paths(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [CustomGeometry](/cells/python-net/fr/aspose.cells.drawing/customgeometry)
-* classe [ShapePathCollection](/cells/python-net/fr/aspose.cells.drawing/shapepathcollection)
+* module [`aspose.cells.drawing`](../../)
+* classe [`CustomGeometry`](/cells/python-net/fr/aspose.cells.drawing/customgeometry)
+* classe [`ShapePathCollection`](/cells/python-net/fr/aspose.cells.drawing/shapepathcollection)

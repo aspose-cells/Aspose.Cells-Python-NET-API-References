@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  picture_position Eigentum
 
-Ruft die Position des Bilds des Steuerelements relativ zu seiner Beschriftung ab und legt diese fest.
+Ruft die Position des Steuerelementbilds relativ zu seiner Beschriftung ab und legt diese fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def picture_position(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [CheckBoxActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
-* Klasse [ControlPicturePositionType](/cells/python-net/de/aspose.cells.drawing.activexcontrols/controlpicturepositiontype)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`CheckBoxActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* Klasse [`ControlPicturePositionType`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/controlpicturepositiontype)

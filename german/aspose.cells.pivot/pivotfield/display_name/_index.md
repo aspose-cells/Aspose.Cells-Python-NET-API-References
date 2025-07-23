@@ -3,13 +3,13 @@ title: display_name Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 270
+weight: 350
 url: /de/aspose.cells.pivot/pivotfield/display_name/
 is_root: false
 ---
 ##  display_name Eigentum
 
-Stellt den PivotField-Anzeigenamen dar.
+Stellt den Anzeigenamen des PivotField dar.
 ###  Definition:
 ```python
 @property

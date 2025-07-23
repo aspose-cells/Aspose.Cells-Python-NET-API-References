@@ -18,9 +18,9 @@ Der Typ TickLabelPositionType macht die folgenden Member verfügbar:
 | Feld| Beschreibung|
 | :- | :- |
 | HIGH | Der Positionstyp ist hoch.|
-| LOW | Positionstyp ist niedrig.|
-| NEXT_TO_AXIS | Positionstyp ist neben der Achse.|
-| NONE | Der Positionstyp ist „Keiner“.|
+| LOW | Der Positionstyp ist niedrig.|
+| NEXT_TO_AXIS | Der Positionstyp befindet sich neben der Achse.|
+| NONE | Der Positionstyp ist keiner.|
 
 
 

@@ -3,13 +3,13 @@ title: width_cm Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1190
+weight: 1200
 url: /de/aspose.cells.drawing/groupshape/width_cm/
 is_root: false
 ---
 ##  width_cm Eigentum
 
-Stellt die Breite der Form in der Einheit Zentimeter dar.
+Stellt die Breite der Form in Zentimetern dar.
 
 ###  Beispiel
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  data_labels propriété
 
-Renvoie un objet DataLabels qui représente l'étiquette de données associée au point.
+Renvoie un objet [`ChartPoint.data_labels`](/cells/python-net/fr/aspose.cells.charts/chartpoint#data_labels) qui représente l'étiquette de données associée à ce point de graphique.
 ###  Définition:
 ```python
 @property
@@ -18,6 +18,6 @@ def data_labels(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [ChartPoint](/cells/python-net/fr/aspose.cells.charts/chartpoint)
-* classe [DataLabels](/cells/python-net/fr/aspose.cells.charts/datalabels)
+* module [`aspose.cells.charts`](../../)
+* classe [`ChartPoint`](/cells/python-net/fr/aspose.cells.charts/chartpoint)
+* classe [`DataLabels`](/cells/python-net/fr/aspose.cells.charts/datalabels)

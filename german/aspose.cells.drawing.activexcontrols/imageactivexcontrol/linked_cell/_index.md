@@ -8,8 +8,6 @@ url: /de/aspose.cells.drawing.activexcontrols/imageactivexcontrol/linked_cell/
 is_root: false
 ---
 ##  linked_cell Eigentum
-
-Ruft die verknüpfte Zelle ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def linked_cell(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [ImageActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`ImageActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

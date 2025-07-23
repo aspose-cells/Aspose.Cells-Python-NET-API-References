@@ -10,7 +10,11 @@ is_root: false
 ##  end_column Eigentum
 
 Ruft die Endspalte dieses Bereichs ab oder legt sie fest.
+###  Definition:
+```python
+f end_column 
+```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CellArea](/cells/python-net/de/aspose.cells/cellarea)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CellArea`](/cells/python-net/de/aspose.cells/cellarea)

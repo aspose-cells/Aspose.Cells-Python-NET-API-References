@@ -3,7 +3,7 @@ title: reflection propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 900
+weight: 910
 url: /fr/aspose.cells.drawing/arcshape/reflection/
 is_root: false
 ---

@@ -21,5 +21,5 @@ def embed_smart_tags(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.markup](../../)
-* Klasse [SmartTagOptions](/cells/python-net/de/aspose.cells.markup/smarttagoptions)
+* Modul [`aspose.cells.markup`](../../)
+* Klasse [`SmartTagOptions`](/cells/python-net/de/aspose.cells.markup/smarttagoptions)

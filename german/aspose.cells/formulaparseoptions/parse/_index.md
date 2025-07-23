@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  parse Eigentum
 
-Ob parse gegebene Formel. Der Standardwert ist wahr.
-Wenn es falsch ist, bleibt die angegebene Formelzeichenfolge für die Zelle unverändert, bis der Benutzer andere Methoden aufruft, um sie zu bearbeiten
-oder analysierte Formeldaten werden für andere Vorgänge wie die Berechnung von Formeln benötigt.
+Ob parse Formel angegeben. Standard ist true.
+Wenn es falsch ist, wird die angegebene Formelzeichenfolge für die Zelle so beibehalten, bis der Benutzer andere Methoden aufruft, um sie zu parse
+oder analysierte Formeldaten werden für andere Operationen benötigt, beispielsweise zum Berechnen von Formeln.
 ###  Definition:
 ```python
 @property

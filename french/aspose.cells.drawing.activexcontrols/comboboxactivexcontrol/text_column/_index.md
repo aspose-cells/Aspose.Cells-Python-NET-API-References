@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text_column propriété
 
-Représente la colonne dans un ComboBox ou ListBox à afficher à l'utilisateur.
+Représente la colonne dans une ComboBox ou une ListBox à afficher à l'utilisateur.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def text_column(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [ComboBoxActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ComboBoxActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

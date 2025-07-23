@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border_ole_color Eigentum
 
-Ruft die Ole-Farbe des Hintergrunds ab und legt sie fest.
+Ruft die alte Farbe des Hintergrunds ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def border_ole_color(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [LabelActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/labelactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`LabelActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/labelactivexcontrol)

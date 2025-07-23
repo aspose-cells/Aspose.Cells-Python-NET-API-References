@@ -3,7 +3,7 @@ title: export_images_as_base64 propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 290
+weight: 360
 url: /fr/aspose.cells.saving/ebooksaveoptions/export_images_as_base64/
 is_root: false
 ---
@@ -13,8 +13,8 @@ Spécifie si les images sont enregistrées au format Base64 au format HTML, MHTM
 
 ###  Remarques
 
-Lorsque cette propriété est définie sur True, les données d'image sont exportées directement sur le
-Les éléments img et les fichiers séparés ne sont pas créés.
+Lorsque cette propriété est définie sur true, les données d'image sont exportées directement sur le
+les éléments img et les fichiers séparés ne sont pas créés.
 ###  Définition:
 ```python
 @property

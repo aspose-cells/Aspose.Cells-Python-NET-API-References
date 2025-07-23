@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name propriété
 
-Renvoie ou définit le name de la Timeline spécifiée
+Renvoie ou définit le name de la chronologie spécifiée
 
 ###  Exemple
 
@@ -30,5 +30,5 @@ def name(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.timelines](../../)
-* classe [Timeline](/cells/python-net/fr/aspose.cells.timelines/timeline)
+* module [`aspose.cells.timelines`](../../)
+* classe [`Timeline`](/cells/python-net/fr/aspose.cells.timelines/timeline)

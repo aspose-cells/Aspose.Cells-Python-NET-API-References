@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  has_hi_lo_lines propriété
 
- Vrai si le graphique linéaire comporte des lignes haut-bas.
-S'applique uniquement aux graphiques en courbes.
+ Vrai si le graphique linéaire comporte des lignes hautes et basses.
+S'applique uniquement aux graphiques linéaires.
 ###  Définition:
 ```python
 @property

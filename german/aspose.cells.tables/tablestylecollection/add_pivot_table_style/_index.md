@@ -7,16 +7,17 @@ weight: 20
 url: /de/aspose.cells.tables/tablestylecollection/add_pivot_table_style/
 is_root: false
 ---
-##  add_pivot_table_style(name) {#str}
-Fügt einen benutzerdefinierten Pivot-Tabellenstil hinzu.
+##  add_pivot_table_style(self, name) {#str}
+Fügt einen benutzerdefinierten PivotTable-Stil hinzu.
 
 
 ###  Kehrt zurück
 
-Der Index des Pivot-Tabellenstils.
+Der Index des PivotTable-Stils.
 
 
 ```python
+
 def add_pivot_table_style(self, name):
     ...
 ```
@@ -24,10 +25,10 @@ def add_pivot_table_style(self, name):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| name | str |Der Stilname der Pivot-Tabelle.|
+| name | str | Der Name des PivotTable-Stils.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.tables](../../)
-* Klasse [TableStyleCollection](/cells/python-net/de/aspose.cells.tables/tablestylecollection)
+* Modul [`aspose.cells.tables`](../../)
+* Klasse [`TableStyleCollection`](/cells/python-net/de/aspose.cells.tables/tablestylecollection)

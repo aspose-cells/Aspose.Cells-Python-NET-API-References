@@ -3,13 +3,13 @@ title: table_styles propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 350
+weight: 380
 url: /fr/aspose.cells/worksheetcollection/table_styles/
 is_root: false
 ---
 ##  table_styles propriété
 
-Obtient l’objet [`WorksheetCollection.table_styles`](/cells/python-net/fr/aspose.cells/worksheetcollection#table_styles).
+Obtient l'objet [`WorksheetCollection.table_styles`](/cells/python-net/fr/aspose.cells/worksheetcollection#table_styles).
 ###  Définition:
 ```python
 @property

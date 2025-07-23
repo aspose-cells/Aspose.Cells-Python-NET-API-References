@@ -13,7 +13,7 @@ Ruft den Namen des Ziels ab oder legt ihn fest.
 
 ###  Bemerkungen
 
-Wenn der Zielname festgelegt ist, wird das Ziel als benanntes Ziel mit diesem Namen definiert.
+Wenn ein Zielname festgelegt ist, wird das Ziel als benanntes Ziel mit diesem Namen definiert.
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def destination_name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](../../)
-* Klasse [PdfBookmarkEntry](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry)
+* Modul [`aspose.cells.rendering`](../../)
+* Klasse [`PdfBookmarkEntry`](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry)

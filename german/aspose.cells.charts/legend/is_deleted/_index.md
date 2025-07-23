@@ -3,7 +3,7 @@ title: is_deleted Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 220
+weight: 280
 url: /de/aspose.cells.charts/legend/is_deleted/
 is_root: false
 ---

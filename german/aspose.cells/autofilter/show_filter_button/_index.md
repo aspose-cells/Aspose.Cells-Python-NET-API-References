@@ -21,5 +21,5 @@ def show_filter_button(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [AutoFilter](/cells/python-net/de/aspose.cells/autofilter)
+* Modul [`aspose.cells`](../../)
+* Klasse [`AutoFilter`](/cells/python-net/de/aspose.cells/autofilter)

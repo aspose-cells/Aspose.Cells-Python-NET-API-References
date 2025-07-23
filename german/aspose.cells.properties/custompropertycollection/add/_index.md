@@ -7,12 +7,13 @@ weight: 20
 url: /de/aspose.cells.properties/custompropertycollection/add/
 is_root: false
 ---
-##  add(name, value) {#str-str}
-Fügt Informationen zu benutzerdefinierten Eigenschaften hinzu.
+##  add(self, name, value) {#str-str}
+Fügt benutzerdefinierte Eigenschaftsinformationen hinzu.
 
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self, name, value):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.properties](../../)
-* Klasse [CustomPropertyCollection](/cells/python-net/de/aspose.cells.properties/custompropertycollection)
+* Modul [`aspose.cells.properties`](../../)
+* Klasse [`CustomPropertyCollection`](/cells/python-net/de/aspose.cells.properties/custompropertycollection)

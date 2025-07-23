@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name Eigentum
 
-Ruft die name von Querytable ab.
+Ruft die name der Abfragetabelle ab.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def name(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [QueryTable](/cells/python-net/de/aspose.cells/querytable)
+* Modul [`aspose.cells`](../../)
+* Klasse [`QueryTable`](/cells/python-net/de/aspose.cells/querytable)

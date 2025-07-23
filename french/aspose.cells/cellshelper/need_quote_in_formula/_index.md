@@ -3,11 +3,11 @@ title: méthode need_quote_in_formula
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 170
+weight: 180
 url: /fr/aspose.cells/cellshelper/need_quote_in_formula/
 is_root: false
 ---
-##  need_quote_in_formula {#str}
+##  need_quote_in_formula(, nom_feuille){#str}
 Indique si le nom de la feuille doit être placé entre guillemets simples
 
 
@@ -17,7 +17,9 @@ Indique si le nom de la feuille doit être placé entre guillemets simples
 
 
 ```python
-def need_quote_in_formula(self, sheet_name):
+
+@staticmethod
+def need_quote_in_formula(sheet_name):
     ...
 ```
 

@@ -3,7 +3,7 @@ title: capacity propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 70
+weight: 80
 url: /fr/aspose.cells.revisions/revisionlogcollection/capacity/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.revisions](../../)
-* classe [RevisionLogCollection](/cells/python-net/fr/aspose.cells.revisions/revisionlogcollection)
+* module [`aspose.cells.revisions`](../../)
+* classe [`RevisionLogCollection`](/cells/python-net/fr/aspose.cells.revisions/revisionlogcollection)

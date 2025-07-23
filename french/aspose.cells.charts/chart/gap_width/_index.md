@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gap_width propriété
 
-Renvoie ou définit l'espace entre les clusters de barres ou de colonnes, en pourcentage de la largeur de la barre ou de la colonne.
+Renvoie ou définit l'espace entre les groupes de barres ou de colonnes, sous forme de pourcentage de la largeur de la barre ou de la colonne.
 La valeur de cette propriété doit être comprise entre 0 et 500.
 ###  Définition:
 ```python

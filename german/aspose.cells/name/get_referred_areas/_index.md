@@ -7,8 +7,8 @@ weight: 40
 url: /de/aspose.cells/name/get_referred_areas/
 is_root: false
 ---
-##  get_referred_areas(recalculate) {#bool}
-Ruft alle Verweise ab, auf die mit diesem Namen verwiesen wird.
+##  get_referred_areas(self, recalculate) {#bool}
+Ruft alle Referenzen ab, auf die dieser Name verweist.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Alle Bereiche.
 
 
 ```python
+
 def get_referred_areas(self, recalculate):
     ...
 ```
@@ -24,10 +25,10 @@ def get_referred_areas(self, recalculate):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| recalculate | bool | ob er neu berechnet wird, wenn dieser Name vor diesem Aufruf berechnet wurde.|
+| recalculate | bool | ob es neu berechnet werden soll, wenn dieser Name vor diesem Aufruf berechnet wurde.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Name](/cells/python-net/de/aspose.cells/name)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Name`](/cells/python-net/de/aspose.cells/name)

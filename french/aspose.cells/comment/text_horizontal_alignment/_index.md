@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text_horizontal_alignment propriété
 
-Obtient et définit le type d’alignement horizontal du texte du commentaire.
+Obtient et définit le type d'alignement horizontal du texte du commentaire.
 
 ###  Exemple
 

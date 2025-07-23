@@ -14,7 +14,7 @@ Indique si la suppression de colonnes est autorisée sur une feuille de calcul p
 ###  Remarques
 
 Les colonnes contenant les cellules à supprimer doivent être déverrouillées lorsque la feuille est protégée,
-et l'option "Sélectionner les cellules déverrouillées" doit être activée.
+et l'option « Sélectionner les cellules déverrouillées » doit être activée.
 ###  Définition:
 ```python
 @property
@@ -26,5 +26,5 @@ def allow_deleting_column(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Protection](/cells/python-net/fr/aspose.cells/protection)
+* module [`aspose.cells`](../../)
+* classe [`Protection`](/cells/python-net/fr/aspose.cells/protection)

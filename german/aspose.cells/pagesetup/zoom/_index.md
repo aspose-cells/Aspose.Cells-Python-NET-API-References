@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  zoom Eigentum
 
-Stellt den Skalierungsfaktor in Prozent dar. Es sollte zwischen 10 und 400 liegen.
+Stellt den Skalierungsfaktor in Prozent dar. Er sollte zwischen 10 und 400 liegen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def zoom(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

@@ -3,12 +3,12 @@ title: ConnectionDataSourceType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 80
+weight: 70
 url: /de/aspose.cells.externalconnections/connectiondatasourcetype/
 is_root: false
 ---
 ##  ConnectionDataSourceType Aufzählung
-Gibt den Typ der externen Datenbankquelle an
+Gibt den externen Datenbankquellentyp an
 
 
 
@@ -20,19 +20,19 @@ Der Typ ConnectionDataSourceType macht die folgenden Member verfügbar:
 | ODBC_BASED_SOURCE | ODBC-basierte Quelle|
 | DAO_BASED_SOURCE | DAO-basierte Quelle|
 | FILE_BASED_DATA_BASE_SOURCE | Dateibasierte Datenbankquelle|
-| WEB_QUERY | Web-Abfrage|
+| WEB_QUERY | Webabfrage|
 | OLEDB_BASED_SOURCE | OLE DB-basierte Quelle|
 | TEXT_BASED_SOURCE | Textbasierte Quelle|
-| ADO_RECORD_SET | ADO-Rekordsatz|
+| ADO_RECORD_SET | ADO-Datensatz|
 | DSP | DSP |
-| OLEDB_DATA_MODEL | OLE DB-Datenquelle, die vom Spreadsheet Data Model erstellt wurde.|
-| DATA_FEED_DATA_MODEL |Vom Spreadsheet-Datenmodell erstellte Datenfeed-Datenquelle.|
-| WORKSHEET_DATA_MODEL | Arbeitsblatt-Datenquelle, die vom Spreadsheet-Datenmodell erstellt wurde.|
-| TABLE | Arbeitsblatt-Datenquelle, die vom Spreadsheet-Datenmodell erstellt wurde.|
-| TEXT_DATA_MODEL | Vom Spreadsheet Data Model erstellte Textdatenquelle.|
-| UNKNOWN | Vom Spreadsheet Data Model erstellte Textdatenquelle.|
+| OLEDB_DATA_MODEL | OLE DB-Datenquelle, die vom Tabellenkalkulationsdatenmodell erstellt wurde.|
+| DATA_FEED_DATA_MODEL |Datenfeed-Datenquelle, die vom Tabellenkalkulationsdatenmodell erstellt wurde.|
+| WORKSHEET_DATA_MODEL | Vom Tabellenkalkulationsdatenmodell erstellte Arbeitsblattdatenquelle.|
+| TABLE | Vom Tabellenkalkulationsdatenmodell erstellte Arbeitsblattdatenquelle.|
+| TEXT_DATA_MODEL | Textdatenquelle, die vom Tabellenkalkulationsdatenmodell erstellt wurde.|
+| UNKNOWN | Textdatenquelle, die vom Tabellenkalkulationsdatenmodell erstellt wurde.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.externalconnections](..)
+* Modul [`aspose.cells.externalconnections`](..)

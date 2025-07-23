@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells.charts/serieslayoutproperties/__init__/
 is_root: false
 ---
-##  SeriesLayoutProperties() {#}
+##  \_\_init\_\_(self){#}
 Construit une nouvelle instance de SeriesLayoutProperties
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [SeriesLayoutProperties](/cells/python-net/fr/aspose.cells.charts/serieslayoutproperties)
+* module [`aspose.cells.charts`](../../)
+* classe [`SeriesLayoutProperties`](/cells/python-net/fr/aspose.cells.charts/serieslayoutproperties)

@@ -7,16 +7,17 @@ weight: 210
 url: /fr/aspose.cells/globalizationsettings/get_standard_header_footer_font_style_name/
 is_root: false
 ---
-##  get_standard_header_footer_font_style_name {#str}
-Obtient le nom du style de police anglais standard (régulier, gras, italique) pour l’en-tête/pied de page en fonction du nom du style de police des paramètres régionaux donné.
+##  get_standard_header_footer_font_style_name(self, localfont_style_name) {#str}
+Obtient le nom de style de police anglais standard (normal, gras, italique) pour l'en-tête/pied de page en fonction du nom de style de police local donné.
 
 
 ###  Retour
 
-Nom du style de police anglais standard (régulier, gras, italique)
+Nom du style de police anglais standard (normal, gras, italique)
 
 
 ```python
+
 def get_standard_header_footer_font_style_name(self, localfont_style_name):
     ...
 ```
@@ -24,7 +25,7 @@ def get_standard_header_footer_font_style_name(self, localfont_style_name):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| localfont_style_name | str | Nom du style de police locale pour l’en-tête/pied de page.|
+| localfont_style_name | str | Nom du style de police local pour l'en-tête/pied de page.|
 
 
 

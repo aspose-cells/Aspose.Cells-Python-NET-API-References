@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  space_before Eigentum
 
-Ruft die Menge an vertikalem Leerraum ab, die vor einem Absatz vorhanden sein wird, und legt diese fest.
+Ruft die Menge des vertikalen Leerraums ab, der vor einem Absatz vorhanden sein soll, und legt diese fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def space_before(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [TextParagraph](/cells/python-net/de/aspose.cells.drawing.texts/textparagraph)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`TextParagraph`](/cells/python-net/de/aspose.cells.drawing.texts/textparagraph)

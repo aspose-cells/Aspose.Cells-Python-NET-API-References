@@ -3,16 +3,17 @@ title: méthode set_text_of_sub_total
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 310
+weight: 320
 url: /fr/aspose.cells/settablepivotglobalizationsettings/set_text_of_sub_total/
 is_root: false
 ---
-##  set_text_of_sub_total {#aspose.cells.pivot.PivotFieldSubtotalType-str}
+##  set_text_of_sub_total(self, sub_total_type, text) {#aspose.cells.pivot.PivotFieldSubtotalType-str}
 Définit le texte de type [`PivotFieldSubtotalType`](/cells/python-net/fr/aspose.cells.pivot/pivotfieldsubtotaltype) dans le tableau croisé dynamique.
 
 
 
 ```python
+
 def set_text_of_sub_total(self, sub_total_type, text):
     ...
 ```

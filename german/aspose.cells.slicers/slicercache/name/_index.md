@@ -27,5 +27,5 @@ def name(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.slicers](../../)
-* Klasse [SlicerCache](/cells/python-net/de/aspose.cells.slicers/slicercache)
+* Modul [`aspose.cells.slicers`](../../)
+* Klasse [`SlicerCache`](/cells/python-net/de/aspose.cells.slicers/slicercache)

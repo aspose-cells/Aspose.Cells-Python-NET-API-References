@@ -3,13 +3,13 @@ title: left_to_corner Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 710
+weight: 720
 url: /de/aspose.cells.drawing/smartartshape/left_to_corner/
 is_root: false
 ---
 ##  left_to_corner Eigentum
 
-Ruft den horizontalen Versatz der Form vom linken Rand des Arbeitsblatts ab und legt diesen fest.
+Ruft den horizontalen Versatz der Form vom linken Rand des Arbeitsblatts ab und legt ihn fest.
 
 ###  Beispiel
 

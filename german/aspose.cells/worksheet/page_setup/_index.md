@@ -3,13 +3,13 @@ title: page_setup Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 680
+weight: 710
 url: /de/aspose.cells/worksheet/page_setup/
 is_root: false
 ---
 ##  page_setup Eigentum
 
-Stellt die Beschreibung der Seiteneinrichtung in diesem Blatt dar.
+Stellt die Seiteneinrichtungsbeschreibung in diesem Blatt dar.
 ###  Definition:
 ```python
 @property

@@ -3,13 +3,13 @@ title: soft_edges Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 970
+weight: 980
 url: /de/aspose.cells.drawing/listbox/soft_edges/
 is_root: false
 ---
 ##  soft_edges Eigentum
 
-Ruft den auf die Kanten anzuwendenden Unschärferadius in Punkteinheiten ab und legt diesen fest.
+Ruft den auf die Kanten anzuwendenden Unschärferadius in Punkten ab und legt ihn fest.
 
 ###  Beispiel
 

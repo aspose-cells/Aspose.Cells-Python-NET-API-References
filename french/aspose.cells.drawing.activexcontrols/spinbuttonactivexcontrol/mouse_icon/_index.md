@@ -8,8 +8,6 @@ url: /fr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/mouse_ico
 is_root: false
 ---
 ##  mouse_icon propriété
-
-Obtient et définit une icône personnalisée à afficher comme pointeur de souris pour le contrôle.
 ###  Définition:
 ```python
 @property
@@ -21,5 +19,5 @@ def mouse_icon(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [SpinButtonActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`SpinButtonActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

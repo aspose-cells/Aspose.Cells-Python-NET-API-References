@@ -1,13 +1,13 @@
 ---
-title: PresetThemeGradientType dénombrement
+title: PresetThemeGradientType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1090
+weight: 1080
 url: /fr/aspose.cells.drawing/presetthemegradienttype/
 is_root: false
 ---
-##  PresetThemeGradientType dénombrement
+##  PresetThemeGradientType énumération
 Représente le type de dégradé de thème prédéfini.
 
 
@@ -17,13 +17,13 @@ Le type PresetThemeGradientType expose les membres suivants :
 ###  Des champs
 | Champ| Description|
 | :- | :- |
-| LIGHT_GRADIENT | Dégradé léger|
-| TOP_SPOTLIGHT | Spot haut|
-| MEDIUM_GRADIENT | Dégradé moyen|
-| BOTTOM_SPOTLIGHT | Spot bas|
-| RADIAL_GRADIENT | Dégradé radial|
+| LIGHT_GRADIENT | Dégradé de lumière|
+| TOP_SPOTLIGHT | Pleins feux sur|
+| MEDIUM_GRADIENT | Gradient moyen|
+| BOTTOM_SPOTLIGHT | Projecteur inférieur|
+| RADIAL_GRADIENT | Gradient radial|
 
 
 
 ###  Voir également
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

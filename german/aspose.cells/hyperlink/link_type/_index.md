@@ -18,6 +18,6 @@ def link_type(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Hyperlink](/cells/python-net/de/aspose.cells/hyperlink)
-* Klasse [TargetModeType](/cells/python-net/de/aspose.cells/targetmodetype)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Hyperlink`](/cells/python-net/de/aspose.cells/hyperlink)
+* Klasse [`TargetModeType`](/cells/python-net/de/aspose.cells/targetmodetype)

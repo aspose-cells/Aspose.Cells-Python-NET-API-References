@@ -3,7 +3,7 @@ title: TextEffectFormat classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 700
+weight: 680
 url: /fr/aspose.cells.drawing/texteffectformat/
 is_root: false
 ---
@@ -21,7 +21,7 @@ Le type TextEffectFormat expose les membres suivants :
 | [font_name](/cells/python-net/fr/aspose.cells.drawing/texteffectformat/font_name) | Le nom de la police utilisée dans le WordArt.|
 | [font_bold](/cells/python-net/fr/aspose.cells.drawing/texteffectformat/font_bold) | Indique si la police est en gras.|
 | [font_italic](/cells/python-net/fr/aspose.cells.drawing/texteffectformat/font_italic) | Indique si la police est en italique.|
-| [rotated_chars](/cells/python-net/fr/aspose.cells.drawing/texteffectformat/rotated_chars) | Si true, les caractères du WordArt spécifié pivotent de 90 degrés par rapport à la forme de délimitation du WordArt.|
+| [rotated_chars](/cells/python-net/fr/aspose.cells.drawing/texteffectformat/rotated_chars) | Si cette option est vraie, les caractères du WordArt spécifié sont pivotés de 90 degrés par rapport à la forme de délimitation du WordArt.|
 | [font_size](/cells/python-net/fr/aspose.cells.drawing/texteffectformat/font_size) | La taille (en points) de la police utilisée dans le WordArt.|
 | [preset_shape](/cells/python-net/fr/aspose.cells.drawing/texteffectformat/preset_shape) | Obtient et définit le type de forme prédéfini.|
 
@@ -29,7 +29,7 @@ Le type TextEffectFormat expose les membres suivants :
 ###  Méthodes
 | Méthode| Description|
 | :- | :- |
-| [set_text_effect(effect)](/cells/python-net/fr/aspose.cells.drawing/texteffectformat/set_text_effect/#MsoPresetTextEffect) | Définit l'effet de texte prédéfini.|
+| [`set_text_effect(self, effect)`](/cells/python-net/fr/aspose.cells.drawing/texteffectformat/set_text_effect/#aspose.cells.drawing.msopresettexteffect) | Définit l'effet de texte prédéfini.|
 
 
 
@@ -50,4 +50,4 @@ workbook.save("Book1.xls")
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

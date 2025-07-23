@@ -8,8 +8,6 @@ url: /fr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/is_enable
 is_root: false
 ---
 ##  is_enabled propriété
-
-Indique si le contrôle peut recevoir le focus et répondre aux événements générés par l'utilisateur.
 ###  Définition:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_enabled(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [SpinButtonActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`SpinButtonActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

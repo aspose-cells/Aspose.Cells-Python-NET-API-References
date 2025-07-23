@@ -3,13 +3,11 @@ title: name Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 240
+weight: 290
 url: /de/aspose.cells.externalconnections/webqueryconnection/name/
 is_root: false
 ---
 ##  name Eigentum
-
-Gibt die name der Verbindung an. Jede Verbindung muss eine eindeutige name haben.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.externalconnections](../../)
-* Klasse [WebQueryConnection](/cells/python-net/de/aspose.cells.externalconnections/webqueryconnection)
+* Modul [`aspose.cells.externalconnections`](../../)
+* Klasse [`WebQueryConnection`](/cells/python-net/de/aspose.cells.externalconnections/webqueryconnection)

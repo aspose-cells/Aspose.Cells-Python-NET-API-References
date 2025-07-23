@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_size Eigentum
 
-Ruft die Größe des gedruckten Diagramms ab und legt diese fest.
+Ruft die Größe des gedruckten Diagramms ab und legt sie fest.
 ###  Definition:
 ```python
 @property

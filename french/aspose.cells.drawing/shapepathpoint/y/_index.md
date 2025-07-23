@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  y propriété
 
-Obtient la coordonnée y pour cette coordonnée de position.
+Obtient les coordonnées y pour cette coordonnée de position.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def y(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ShapePathPoint](/cells/python-net/fr/aspose.cells.drawing/shapepathpoint)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ShapePathPoint`](/cells/python-net/fr/aspose.cells.drawing/shapepathpoint)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type Eigentum
 
-Ruft die type eines Diagramms ab oder legt diese fest.
+Ruft die type eines Diagramms ab oder legt sie fest.
 ###  Definition:
 ```python
 @property

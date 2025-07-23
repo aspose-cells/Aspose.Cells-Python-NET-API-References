@@ -16,4 +16,4 @@ Le type BaseShapeGuide expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

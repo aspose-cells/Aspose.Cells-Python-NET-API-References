@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_row Eigentum
 
-Die Endreihe des Bereichs.
+Die letzte Reihe des Bereichs.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def end_row(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ReferredArea](/cells/python-net/de/aspose.cells/referredarea)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ReferredArea`](/cells/python-net/de/aspose.cells/referredarea)

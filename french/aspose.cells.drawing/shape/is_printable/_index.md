@@ -3,13 +3,14 @@ title: is_printable propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 620
+weight: 630
 url: /fr/aspose.cells.drawing/shape/is_printable/
 is_root: false
 ---
 ##  is_printable propriété
 
-Vrai si l'objet est imprimable
+Indique si l'objet est imprimable.
+Si Faux, cette forme ne sera pas imprimée lors de l'impression.
 
 ###  Exemple
 

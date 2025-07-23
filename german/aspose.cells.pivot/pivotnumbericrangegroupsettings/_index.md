@@ -3,12 +3,12 @@ title: PivotNumbericRangeGroupSettings Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 160
+weight: 200
 url: /de/aspose.cells.pivot/pivotnumbericrangegroupsettings/
 is_root: false
 ---
 ##  PivotNumbericRangeGroupSettings Klasse
-Stellt die Zahlenbereichsgruppe des Pivotfelds dar.
+Stellt die numerische Bereichsgruppe des Pivot-Felds dar.
 
 
 

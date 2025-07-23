@@ -8,7 +8,7 @@ url: /fr/aspose.cells.slicers/slicercacheitem/
 is_root: false
 ---
 ##  SlicerCacheItem classe
-Représenter l'élément de source de données du segment
+Représenter l'élément de source de données du slicer
 
 
 
@@ -17,10 +17,10 @@ Le type SlicerCacheItem expose les membres suivants :
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
-| [selected](/cells/python-net/fr/aspose.cells.slicers/slicercacheitem/selected) | Spécifie si le SlicerItem est sélectionné ou non.|
-| [value](/cells/python-net/fr/aspose.cells.slicers/slicercacheitem/value) | Renvoie le texte de l'étiquette de l'élément de segment. Lecture seulement.|
+| [selected](/cells/python-net/fr/aspose.cells.slicers/slicercacheitem/selected) | Spécifie si SlicerItem est sélectionné ou non.|
+| [value](/cells/python-net/fr/aspose.cells.slicers/slicercacheitem/value) | Renvoie le texte de l'étiquette de l'élément du slicer. Lecture seule.|
 
 
 
 ###  Voir également
-* module [aspose.cells.slicers](..)
+* module [`aspose.cells.slicers`](..)

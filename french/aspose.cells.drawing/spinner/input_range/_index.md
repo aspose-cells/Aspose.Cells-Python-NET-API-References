@@ -3,7 +3,7 @@ title: input_range propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 540
+weight: 530
 url: /fr/aspose.cells.drawing/spinner/input_range/
 is_root: false
 ---
