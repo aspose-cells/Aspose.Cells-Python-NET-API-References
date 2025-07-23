@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  top_bevel_type propiedad
 
-Obtiene y establece el tipo de bisel superior o hasta qué punto se aplica en la forma.
+Obtiene y establece el tipo de bisel superior, o hasta qué punto se aplica en la forma.
 En unidad de Puntos.
 ###  Definición:
 ```python
@@ -22,6 +22,6 @@ def top_bevel_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [BevelType](/cells/python-net/es/aspose.cells.drawing/beveltype)
-* clase [ThreeDFormat](/cells/python-net/es/aspose.cells.drawing/threedformat)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`BevelType`](/cells/python-net/es/aspose.cells.drawing/beveltype)
+* clase [`ThreeDFormat`](/cells/python-net/es/aspose.cells.drawing/threedformat)

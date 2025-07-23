@@ -3,14 +3,14 @@ title: is_same_settings fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 170
+weight: 220
 url: /sv/aspose.cells.externalconnections/webqueryconnection/is_same_settings/
 is_root: false
 ---
 ##  is_same_settings fastighet
 
 Flagga som anger om alla tabeller i ett PRE-block ska analyseras med samma breddinställningar
-som första raden.
+som den första raden.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_same_settings(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.externalconnections](../../)
-* klass [WebQueryConnection](/cells/python-net/sv/aspose.cells.externalconnections/webqueryconnection)
+* modul [`aspose.cells.externalconnections`](../../)
+* klass [`WebQueryConnection`](/cells/python-net/sv/aspose.cells.externalconnections/webqueryconnection)

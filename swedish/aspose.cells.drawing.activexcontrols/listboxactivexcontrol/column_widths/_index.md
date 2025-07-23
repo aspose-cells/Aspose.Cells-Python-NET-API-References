@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column_widths fastighet
 
-Hämtar och ställer in bredden på kolumnen.
+Hämtar och anger kolumnens bredd.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def column_widths(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ListBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ListBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

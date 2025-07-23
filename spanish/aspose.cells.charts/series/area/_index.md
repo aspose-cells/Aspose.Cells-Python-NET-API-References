@@ -18,6 +18,6 @@ def area(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Area](/cells/python-net/es/aspose.cells.drawing/area)
-* clase [Series](/cells/python-net/es/aspose.cells.charts/series)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Area`](/cells/python-net/es/aspose.cells.drawing/area)
+* clase [`Series`](/cells/python-net/es/aspose.cells.charts/series)

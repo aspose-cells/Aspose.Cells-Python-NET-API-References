@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  size_with_window propiedad
 
-Verdadero si Microsoft Excel cambia el tamaño del gráfico para que coincida con el tamaño de la ventana de la hoja del gráfico.
+Verdadero si Microsoft Excel redimensiona el gráfico para que coincida con el tamaño de la ventana de la hoja del gráfico.
 ###  Definición:
 ```python
 @property

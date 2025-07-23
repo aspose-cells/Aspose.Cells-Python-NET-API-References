@@ -3,13 +3,13 @@ title: is_formula propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 580
+weight: 610
 url: /es/aspose.cells/cell/is_formula/
 is_root: false
 ---
 ##  is_formula propiedad
 
-Representa si la celda especificada contiene una fórmula.
+Representa si la celda especificada contiene fórmula.
 ###  Definición:
 ```python
 @property

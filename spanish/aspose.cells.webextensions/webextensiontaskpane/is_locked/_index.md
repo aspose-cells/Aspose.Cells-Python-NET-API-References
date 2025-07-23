@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_locked propiedad
 
-Indica si el panel de tareas está bloqueado para el documento en la interfaz de usuario y el usuario no puede cerrarlo.
+Indica si el panel de tareas está bloqueado en el documento en la interfaz de usuario y el usuario no puede cerrarlo.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_locked(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.webextensions](../../)
-* clase [WebExtensionTaskPane](/cells/python-net/es/aspose.cells.webextensions/webextensiontaskpane)
+* módulo [`aspose.cells.webextensions`](../../)
+* clase [`WebExtensionTaskPane`](/cells/python-net/es/aspose.cells.webextensions/webextensiontaskpane)

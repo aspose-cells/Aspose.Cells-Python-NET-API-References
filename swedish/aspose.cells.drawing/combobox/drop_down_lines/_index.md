@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  drop_down_lines fastighet
 
-Hämtar eller ställer in antalet listrader som visas i rullgardinsmenyn i en kombinationsruta.
+Hämtar eller anger antalet listrader som visas i den nedrullningsbara delen av en kombinationsruta.
 ###  Definition:
 ```python
 @property

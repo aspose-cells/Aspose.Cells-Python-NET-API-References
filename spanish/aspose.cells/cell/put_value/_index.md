@@ -3,16 +3,17 @@ title: método put_value
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 280
+weight: 290
 url: /es/aspose.cells/cell/put_value/
 is_root: false
 ---
-##  put_value {#bool}
-Pone un valor booleano en la celda.
+##  put_value(self, bool_value) {#bool}
+Coloca un valor booleano en la celda.
 
 
 
 ```python
+
 def put_value(self, bool_value):
     ...
 ```
@@ -23,12 +24,13 @@ def put_value(self, bool_value):
 | bool_value | bool |  |
 
 
-##  put_value {#int}
-Pone un valor entero en la celda.
+##  put_value(self, int_value) {#int}
+Coloca un valor entero en la celda.
 
 
 
 ```python
+
 def put_value(self, int_value):
     ...
 ```
@@ -39,12 +41,13 @@ def put_value(self, int_value):
 | int_value | int | Valor de entrada|
 
 
-##  put_value {#float}
-Pone un valor doble en la celda.
+##  put_value(self, double_value) {#float}
+Coloca un valor doble en la celda.
 
 
 
 ```python
+
 def put_value(self, double_value):
     ...
 ```
@@ -55,12 +58,13 @@ def put_value(self, double_value):
 | double_value | float | Valor de entrada|
 
 
-##  put_value {#str}
-Pone un valor de cadena en la celda.
+##  put_value(self, string_value) {#str}
+Coloca un valor de cadena en la celda.
 
 
 
 ```python
+
 def put_value(self, string_value):
     ...
 ```
@@ -71,12 +75,13 @@ def put_value(self, string_value):
 | string_value | str | Valor de entrada|
 
 
-##  put_value {#DateTime}
-Pone un valor DateTime en la celda.
+##  put_value(self, date_time) {#DateTime}
+Coloca un valor de fecha y hora en la celda.
 
 
 
 ```python
+
 def put_value(self, date_time):
     ...
 ```
@@ -87,14 +92,14 @@ def put_value(self, date_time):
 | date_time | DateTime | Valor de entrada|
 ###  Observaciones
 
-Establecer un valor de Fecha y hora para una dosis de celda no significa que la celda se formateará automáticamente como fecha y hora.
-El valor de DateTime se mantuvo como valor numérico en el modelo de datos de ms excel y Aspose.Cells.
+Establecer un valor de fecha y hora para una celda no significa que la celda se formateará como fecha y hora automáticamente.
+El valor de fecha y hora se mantuvo como valor numérico en el modelo de datos de MS Excel y Aspose.Cells.
 Si el valor numérico se tomará como el valor numérico en sí o como fecha y hora
-Depende del formato de número aplicado en esta celda. Si esta celda no ha sido formateada como fecha y hora,
-se mostrará como un valor numérico aunque lo que ingrese sea Fecha y hora.
+Depende del formato de número aplicado a esta celda. Si esta celda no tiene formato de fecha y hora,
+Se mostrará como un valor numérico aunque lo que ingrese sea fecha y hora.
 ###  Ejemplo
 
-Este ejemplo muestra cómo establecer el valor DateTime en una celda y hacer que se muestre como fecha y hora.
+Este ejemplo muestra cómo establecer el valor de fecha y hora en una celda y hacer que se muestre como fecha y hora.
 
 ```python
 from aspose.cells import Workbook
@@ -112,12 +117,13 @@ cell.set_style(style)
 ```
 
 
-##  put_value {#any}
-Pone un valor de objeto en la celda.
+##  put_value(self, object_value) {#any}
+Coloca un valor de objeto en la celda.
 
 
 
 ```python
+
 def put_value(self, object_value):
     ...
 ```
@@ -128,12 +134,13 @@ def put_value(self, object_value):
 | object_value | any | valor de entrada|
 
 
-##  put_value {#str-bool}
-Coloca un valor de cadena en la celda y convierte el valor a otro tipo de datos, si corresponde.
+##  put_value(self, string_value, is_converted) {#str-bool}
+Coloca un valor de cadena en la celda y convierte el valor a otro tipo de datos si corresponde.
 
 
 
 ```python
+
 def put_value(self, string_value, is_converted):
     ...
 ```
@@ -142,15 +149,16 @@ def put_value(self, string_value, is_converted):
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
 | string_value | str | Valor de entrada|
-| is_converted | bool | Verdadero: convertido a otro tipo de datos si corresponde.|
+| is_converted | bool | Verdadero: se convierte a otro tipo de datos si corresponde.|
 
 
-##  put_value {#str-bool-bool}
-Coloca un valor en la celda; si corresponde, el valor se convertirá a otro tipo de datos y se restablecerá el formato del número de la celda.
+##  put_value(self, string_value, is_converted, set_style) {#str-bool-bool}
+Coloca un valor en la celda, si corresponde, el valor se convertirá a otro tipo de datos y se restablecerá el formato de número de la celda.
 
 
 
 ```python
+
 def put_value(self, string_value, is_converted, set_style):
     ...
 ```
@@ -159,8 +167,8 @@ def put_value(self, string_value, is_converted, set_style):
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
 | string_value | str | Valor de entrada|
-| is_converted | bool | Verdadero: convertido a otro tipo de datos si corresponde.|
-| set_style | bool | Verdadero: establezca el formato del número según el estilo de la celda al convertir a otro tipo de datos|
+| is_converted | bool | Verdadero: se convierte a otro tipo de datos si corresponde.|
+| set_style | bool | Verdadero: establece el formato del número al estilo de la celda al convertir a otro tipo de datos|
 
 
 

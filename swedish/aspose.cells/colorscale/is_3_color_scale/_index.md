@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_3_color_scale fastighet
 
-Anger om villkorlig formatering är 3 färgskala.
+Anger om villkorsstyrd formatering är i 3-färgsskala.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_3_color_scale(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ColorScale](/cells/python-net/sv/aspose.cells/colorscale)
+* modul [`aspose.cells`](../../)
+* klass [`ColorScale`](/cells/python-net/sv/aspose.cells/colorscale)

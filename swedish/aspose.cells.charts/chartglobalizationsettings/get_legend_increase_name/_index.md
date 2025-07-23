@@ -7,8 +7,8 @@ weight: 60
 url: /sv/aspose.cells.charts/chartglobalizationsettings/get_legend_increase_name/
 is_root: false
 ---
-##  get_legend_increase_name() {#}
-Får namnet ökning för Legend.
+##  get_legend_increase_name(self) {#}
+Hämtar namnet ökning för Legend.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Får namnet ökning för Legend.
 
 
 ```python
+
 def get_legend_increase_name(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_legend_increase_name(self):
 
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ChartGlobalizationSettings](/cells/python-net/sv/aspose.cells.charts/chartglobalizationsettings)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ChartGlobalizationSettings`](/cells/python-net/sv/aspose.cells.charts/chartglobalizationsettings)

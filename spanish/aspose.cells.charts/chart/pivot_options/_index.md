@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  pivot_options propiedad
 
-Especifica los controles dinámicos que aparecen en el gráfico.
+Especifica los controles de pivote que aparecen en el gráfico
 ###  Definición:
 ```python
 @property

@@ -3,13 +3,13 @@ title: visibility_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 920
+weight: 940
 url: /sv/aspose.cells/worksheet/visibility_type/
 is_root: false
 ---
 ##  visibility_type fastighet
 
-Indikerar det synliga tillståndet för detta ark.
+Anger det synliga tillståndet för detta ark.
 ###  Definition:
 ```python
 @property

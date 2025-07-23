@@ -1,5 +1,5 @@
 ---
-title: get_double_value método
+title: método get_double_value
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,13 +7,14 @@ weight: 30
 url: /es/aspose.cells.pivot/pivotitem/get_double_value/
 is_root: false
 ---
-##  get_double_value() {#}
+##  get_double_value(self) {#}
 Obtiene el valor doble del elemento pivote
 Si el valor es nulo o no es un número, devolverá 0
 
 
 
 ```python
+
 def get_double_value(self):
     ...
 ```
@@ -23,5 +24,5 @@ def get_double_value(self):
 
 
 ###  Ver también
-* módulo [aspose.cells.pivot](../../)
-* clase [PivotItem](/cells/python-net/es/aspose.cells.pivot/pivotitem)
+* módulo [`aspose.cells.pivot`](../../)
+* clase [`PivotItem`](/cells/python-net/es/aspose.cells.pivot/pivotitem)

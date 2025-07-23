@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  marker_size_px propiedad
 
-Representa el tamaño del marcador en unidades de píxeles. Se aplica a gráfico de líneas, gráfico de dispersión o gráfico de radar.
+Representa el tamaño del marcador en píxeles. Se aplica a gráficos de líneas, de dispersión y radiales.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def marker_size_px(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Marker](/cells/python-net/es/aspose.cells.charts/marker)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Marker`](/cells/python-net/es/aspose.cells.charts/marker)

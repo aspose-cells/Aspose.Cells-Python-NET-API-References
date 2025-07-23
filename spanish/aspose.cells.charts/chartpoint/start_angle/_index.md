@@ -3,13 +3,13 @@ title: start_angle propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 400
+weight: 410
 url: /es/aspose.cells.charts/chartpoint/start_angle/
 is_root: false
 ---
 ##  start_angle propiedad
 
-Obtiene el ángulo inicial de la sección circular, medido en grados en el sentido de las agujas del reloj desde el eje x después de llamar al método Chart.Calculate().
+Obtiene el ángulo inicial para la sección circular, medido en grados en el sentido de las agujas del reloj desde el eje x después de llamar al método Chart.Calculate().
 Se aplica al gráfico circular.
 ###  Definición:
 ```python
@@ -19,5 +19,5 @@ def start_angle(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [ChartPoint](/cells/python-net/es/aspose.cells.charts/chartpoint)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`ChartPoint`](/cells/python-net/es/aspose.cells.charts/chartpoint)

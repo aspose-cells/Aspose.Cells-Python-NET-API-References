@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  left fastighet
 
-Får eller ställer in left offset för sträckbild.
+Hämtar eller ställer in offseten left för att sträcka bilden.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def left(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [PicFormatOption](/cells/python-net/sv/aspose.cells.drawing/picformatoption)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`PicFormatOption`](/cells/python-net/sv/aspose.cells.drawing/picformatoption)

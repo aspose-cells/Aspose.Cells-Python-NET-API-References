@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells.drawing/tilepicoption/__init__/
 is_root: false
 ---
-##  TilePicOption() {#}
+##  \_\_init\_\_(yo mismo){#}
 Construye una nueva instancia de TilePicOption
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [TilePicOption](/cells/python-net/es/aspose.cells.drawing/tilepicoption)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`TilePicOption`](/cells/python-net/es/aspose.cells.drawing/tilepicoption)

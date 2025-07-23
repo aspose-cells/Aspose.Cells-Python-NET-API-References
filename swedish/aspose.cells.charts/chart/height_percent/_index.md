@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height_percent fastighet
 
-Returnerar eller ställer in höjden på ett 3D-diagram som en procentandel av diagrammets bredd (mellan 5 och 500 procent).
+Returnerar eller anger höjden på ett 3D-diagram som en procentandel av diagrammets bredd (mellan 5 och 500 procent).
 ###  Definition:
 ```python
 @property

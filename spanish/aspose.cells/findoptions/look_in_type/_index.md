@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  look_in_type propiedad
 
-Mira en tipo.
+Mirar en tipo.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def look_in_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FindOptions](/cells/python-net/es/aspose.cells/findoptions)
-* clase [LookInType](/cells/python-net/es/aspose.cells/lookintype)
+* módulo [`aspose.cells`](../../)
+* clase [`FindOptions`](/cells/python-net/es/aspose.cells/findoptions)
+* clase [`LookInType`](/cells/python-net/es/aspose.cells/lookintype)

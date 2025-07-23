@@ -13,7 +13,7 @@ Ignorera data som inte skrivs ut om du skriver ut filen direkt
 
 ###  Anmärkningar
 
-Endast för xlsx-fil.
+Endast för xlsx-filer.
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def ignore_not_printed(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [LoadOptions](/cells/python-net/sv/aspose.cells/loadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`LoadOptions`](/cells/python-net/sv/aspose.cells/loadoptions)

@@ -18,6 +18,6 @@ def conditional_formatting_data_bar(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ConditionalFormattingResult](/cells/python-net/es/aspose.cells/conditionalformattingresult)
-* clase [DataBar](/cells/python-net/es/aspose.cells/databar)
+* módulo [`aspose.cells`](../../)
+* clase [`ConditionalFormattingResult`](/cells/python-net/es/aspose.cells/conditionalformattingresult)
+* clase [`DataBar`](/cells/python-net/es/aspose.cells/databar)

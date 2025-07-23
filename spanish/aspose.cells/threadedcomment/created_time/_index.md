@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  created_time propiedad
 
-Obtiene y establece la hora de creación de este comentario encadenado.
+Obtiene y establece la hora de creación de este comentario enhebrado.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def created_time(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ThreadedComment](/cells/python-net/es/aspose.cells/threadedcomment)
+* módulo [`aspose.cells`](../../)
+* clase [`ThreadedComment`](/cells/python-net/es/aspose.cells/threadedcomment)

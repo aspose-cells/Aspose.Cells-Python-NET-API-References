@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  is_height_matched fastighet
 
-Indikerar om radhöjden matchar nuvarande standardteckensnittsinställning för arbetsboken.
-Sant för denna egenskap anger också att radhöjden är "automatisk" utan anpassat höjdvärde som ställts in av användaren.
+Anger om radhöjden matchar arbetsbokens aktuella standardteckensnittsinställning.
+Sant för den här egenskapen anger också att radhöjden är "automatisk" utan ett anpassat höjdvärde som anges av användaren.
 
 ###  Anmärkningar
 
 När den här egenskapen är sann, om innehållet i den här raden ändras,
-i allmänhet måste radhöjden beräknas om (t.ex. med [`Worksheet.auto_fit_rows`](/cells/python-net/sv/aspose.cells/worksheet/auto_fit_rows))
-för att få samma resultat med det som visas i ms excel när du öppnar arbetsboken i den.
+Generellt sett måste radhöjden beräknas om (t.ex. med [`Worksheet.auto_fit_rows`](/cells/python-net/sv/aspose.cells/worksheet/auto_fit_rows))
+för att få samma resultat som det som visas i MS Excel när du öppnar arbetsboken i den.
 ###  Definition:
 ```python
 @property

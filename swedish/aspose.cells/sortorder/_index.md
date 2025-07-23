@@ -3,12 +3,12 @@ title: SortOrder uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2580
+weight: 2550
 url: /sv/aspose.cells/sortorder/
 is_root: false
 ---
 ##  SortOrder uppräkning
-Representerar sorteringsordning för dataintervallet.
+Representerar sorteringsordningen för dataområdet.
 
 
 
@@ -17,8 +17,9 @@ Typen SortOrder avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| ASCENDING |  |
-| DESCENDING |  |
+| ASCENDING | Sorterar data i stigande ordning|
+| DESCENDING | Sorterar data i fallande ordning|
+| NATURAL | Behåller originaldataordningen utan sortering. Gäller endast i vissa specialscenarier, till exempel pivottabeller.|
 
 
 

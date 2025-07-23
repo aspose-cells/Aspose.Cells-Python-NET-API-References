@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  input_range propiedad
 
-Obtiene o establece el rango de la hoja de cálculo utilizado para llenar el cuadro combinado especificado.
+Obtiene o establece el rango de la hoja de cálculo utilizado para completar el cuadro combinado especificado.
 
 ###  Ejemplo
 

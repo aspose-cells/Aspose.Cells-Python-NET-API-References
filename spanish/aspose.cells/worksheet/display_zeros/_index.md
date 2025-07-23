@@ -3,7 +3,7 @@ title: display_zeros propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 480
+weight: 500
 url: /es/aspose.cells/worksheet/display_zeros/
 is_root: false
 ---

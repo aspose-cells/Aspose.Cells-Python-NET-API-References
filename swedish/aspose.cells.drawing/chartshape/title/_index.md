@@ -3,7 +3,7 @@ title: title fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1060
+weight: 1070
 url: /sv/aspose.cells.drawing/chartshape/title/
 is_root: false
 ---

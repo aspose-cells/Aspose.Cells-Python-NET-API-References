@@ -1,18 +1,19 @@
 ---
-title: copy_in_range método
+title: método copy_in_range
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 380
+weight: 410
 url: /es/aspose.cells.drawing/shapecollection/copy_in_range/
 is_root: false
 ---
-##  copy_in_range(source_shapes, ca, dest_row, dest_column, is_contained) {#ShapeCollection-CellArea-int-int-bool}
-Copie formas en el rango al rango de destino.
+##  copy_in_range(self, source_shapes, ca, dest_row, dest_column, is_contained) {#aspose.cells.drawing.ShapeCollection-aspose.cells.CellArea-int-int-bool}
+Copiar formas del rango al rango de destino.
 
 
 
 ```python
+
 def copy_in_range(self, source_shapes, ca, dest_row, dest_column, is_contained):
     ...
 ```
@@ -20,11 +21,11 @@ def copy_in_range(self, source_shapes, ca, dest_row, dest_column, is_contained):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| source_shapes | [ShapeCollection](/cells/python-net/es/aspose.cells.drawing/shapecollection) | Formas de origen.|
-| ca | [CellArea](/cells/python-net/es/aspose.cells/cellarea) | El rango de la fuente.|
-| dest_row | int | El índice de la fila de destino del rango de destino.|
-| dest_column | int | La columna dest del rango dest.|
-| is_contained | bool | Si solo copia las formas que están contenidas en el rango.<br/> Si es verdadero, solo copia las formas en el rango.<br/> De lo contrario, funciona como MS Office.|
+| source_shapes | [`ShapeCollection`](/cells/python-net/es/aspose.cells.drawing/shapecollection) | Formas de origen.|
+| ca | [`CellArea`](/cells/python-net/es/aspose.cells/cellarea) | El rango de origen.|
+| dest_row | int | El índice de fila de destino del rango de destino.|
+| dest_column | int | La columna de destino del rango de destino.|
+| is_contained | bool | Si solo se copian las formas que están contenidas en el rango.<br/> Si es verdadero, solo copia las formas en el rango.<br/> De lo contrario, funciona como MS Office.|
 
 ###  Ejemplo
 
@@ -46,5 +47,5 @@ shapes.copy_in_range(shapes, area2, 12, 1, False)
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ShapeCollection](/cells/python-net/es/aspose.cells.drawing/shapecollection)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ShapeCollection`](/cells/python-net/es/aspose.cells.drawing/shapecollection)

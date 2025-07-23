@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fill_type fastighet
 
-Hämtar gradientfyllningstypen.
+Hämtar fyllningstypen för gradient.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def fill_type(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [GradientFill](/cells/python-net/sv/aspose.cells.drawing/gradientfill)
-* klass [GradientFillType](/cells/python-net/sv/aspose.cells.drawing/gradientfilltype)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`GradientFill`](/cells/python-net/sv/aspose.cells.drawing/gradientfill)
+* klass [`GradientFillType`](/cells/python-net/sv/aspose.cells.drawing/gradientfilltype)

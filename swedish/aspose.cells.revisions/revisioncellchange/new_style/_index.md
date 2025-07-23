@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  new_style fastighet
 
-Får den nya stilen på cellen.
+Hämtar cellens nya stil.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def new_style(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionCellChange](/cells/python-net/sv/aspose.cells.revisions/revisioncellchange)
-* klass [Style](/cells/python-net/sv/aspose.cells/style)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionCellChange`](/cells/python-net/sv/aspose.cells.revisions/revisioncellchange)
+* klass [`Style`](/cells/python-net/sv/aspose.cells/style)

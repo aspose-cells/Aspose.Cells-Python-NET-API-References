@@ -9,10 +9,11 @@ is_root: false
 ---
 ##  refer_to_sheet_with_same_name fastighet
 
-När du kopierar ett kalkylblad till en annan arbetsbok och kalkylbladet innehåller formlerna som hänvisar till andra kalkylblad i MS Excel,
-de kopierade formlerna bör referera till källarbetsboken.
-Men ibland har vi kopierat andra kalkylblad och vi hoppas att de kopierade formlerna refererar till andra kalkylblad med namnet i samma arbetsbok,
-vänligen ange denna egenskap som sann.
+I MS Excel, när man kopierar formler som refererar till andra kalkylblad samtidigt som man kopierar ett kalkylblad till ett annat,
+De kopierade formlerna ska referera till källarbetsboken.
+I vissa situationer kan dock användaren behöva att de kopierade formlerna refererar till kalkylblad med samma namn.
+i samma arbetsbok, till exempel när dessa arbetsblad har kopierats före denna kopieringsoperation,
+då bör denna egenskap behållas som sann.
 
 ###  Anmärkningar
 
@@ -28,5 +29,5 @@ def refer_to_sheet_with_same_name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CopyOptions](/cells/python-net/sv/aspose.cells/copyoptions)
+* modul [`aspose.cells`](../../)
+* klass [`CopyOptions`](/cells/python-net/sv/aspose.cells/copyoptions)

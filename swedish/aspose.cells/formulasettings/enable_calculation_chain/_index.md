@@ -9,16 +9,16 @@ is_root: false
 ---
 ##  enable_calculation_chain fastighet
 
-Om aktivera beräkningskedja för formler. Standard är falskt.
+Om beräkningskedjan för formler ska aktiveras. Standardvärdet är falskt.
 
 ###  Anmärkningar
 
-När det finns massor av formler i arbetsboken och användaren behöver beräkna dem upprepade gånger
-Om du bara ändrar en liten del av dem kan det vara till hjälp för prestanda att aktivera beräkningskedjan.
-Å andra sidan, om kedjan är aktiverad kräver underhåll av kedjans modell extra minne,
-och det kräver också lite mer cpu-tid för vissa andra operationer som att ändra cellens värde eller formler.
-Efter att ha ändrat den här egenskapen från falsk till sann, kommer beräkningskedjan att analyseras och byggas
-vid tidpunkten för första beräkningen för arbetsboken, så den tid som krävs för den första beräkningen
+När det finns många formler i arbetsboken och användaren behöver beräkna dem upprepade gånger
+Genom att endast modifiera en liten del av dem kan det vara bra för prestandan att aktivera beräkningskedjan.
+Å andra sidan, om kedjan är aktiverad, kräver underhåll av kedjemodellen extra minne,
+och det kräver också lite mer processortid för vissa andra operationer, som att ändra cellers värde eller formler.
+Efter att denna egenskap ändrats från falskt till sant kommer beräkningskedjan att analyseras och byggas
+vid tidpunkten för den första beräkningen för arbetsboken, så den tid som krävs för den första beräkningen
 kan vara mer än normal beräkning utan kedja.
 ###  Definition:
 ```python
@@ -31,5 +31,5 @@ def enable_calculation_chain(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormulaSettings](/cells/python-net/sv/aspose.cells/formulasettings)
+* modul [`aspose.cells`](../../)
+* klass [`FormulaSettings`](/cells/python-net/sv/aspose.cells/formulasettings)

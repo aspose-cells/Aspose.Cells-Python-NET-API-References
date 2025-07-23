@@ -7,16 +7,17 @@ weight: 20
 url: /sv/aspose.cells/worksheetcollection/add/
 is_root: false
 ---
-##  add() {#}
+##  add(self) {#}
 Lägger till ett kalkylblad i samlingen.
 
 
 ###  Returnerar
 
-[Worksheet](/cells/python-net/sv/aspose.cells/worksheet) objektindex.
+[`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet) objektindex.
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -24,16 +25,17 @@ def add(self):
 
 
 
-##  add(type) {#SheetType}
+##  add(self, type) {#aspose.cells.SheetType}
 Lägger till ett kalkylblad i samlingen.
 
 
 ###  Returnerar
 
-[Worksheet](/cells/python-net/sv/aspose.cells/worksheet) objektindex.
+[`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet) objektindex.
 
 
 ```python
+
 def add(self, type):
     ...
 ```
@@ -41,7 +43,7 @@ def add(self, type):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| type | [SheetType](/cells/python-net/sv/aspose.cells/sheettype) | Typ av arbetsblad.|
+| type | [`SheetType`](/cells/python-net/sv/aspose.cells/sheettype) | Arbetsbladstyp.|
 
 ###  Exempel
 
@@ -65,16 +67,17 @@ chart.n_series.add("Sheet1!C2:C6", True)
 ```
 
 
-##  add(sheet_name) {#str}
+##  add(self, sheet_name) {#str}
 Lägger till ett kalkylblad i samlingen.
 
 
 ###  Returnerar
 
-[Worksheet](/cells/python-net/sv/aspose.cells/worksheet) objekt.
+[`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet)-objekt.
 
 
 ```python
+
 def add(self, sheet_name):
     ...
 ```
@@ -82,11 +85,11 @@ def add(self, sheet_name):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| sheet_name | str | Arbetsbladsnamn|
+| sheet_name | str | Arbetsbladets namn|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Worksheet](/cells/python-net/sv/aspose.cells/worksheet)
-* klass [WorksheetCollection](/cells/python-net/sv/aspose.cells/worksheetcollection)
+* modul [`aspose.cells`](../../)
+* klass [`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet)
+* klass [`WorksheetCollection`](/cells/python-net/sv/aspose.cells/worksheetcollection)

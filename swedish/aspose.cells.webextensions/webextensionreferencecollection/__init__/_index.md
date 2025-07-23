@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells.webextensions/webextensionreferencecollection/__init__/
 is_root: false
 ---
-##  WebExtensionReferenceCollection() {#}
+##  \_\_init\_\_(själv){#}
 Konstruerar en ny instans av WebExtensionReferenceCollection
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells.webextensions](../../)
-* klass [WebExtensionReferenceCollection](/cells/python-net/sv/aspose.cells.webextensions/webextensionreferencecollection)
+* modul [`aspose.cells.webextensions`](../../)
+* klass [`WebExtensionReferenceCollection`](/cells/python-net/sv/aspose.cells.webextensions/webextensionreferencecollection)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  alignment propiedad
 
-Obtiene y establece la posición del Caption en relación con el control.
+Obtiene y establece la posición del título en relación con el control.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def alignment(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [CheckBoxActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
-* clase [ControlCaptionAlignmentType](/cells/python-net/es/aspose.cells.drawing.activexcontrols/controlcaptionalignmenttype)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`CheckBoxActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* clase [`ControlCaptionAlignmentType`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/controlcaptionalignmenttype)

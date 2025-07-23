@@ -18,6 +18,6 @@ def sorter(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [AutoFilter](/cells/python-net/es/aspose.cells/autofilter)
-* clase [DataSorter](/cells/python-net/es/aspose.cells/datasorter)
+* módulo [`aspose.cells`](../../)
+* clase [`AutoFilter`](/cells/python-net/es/aspose.cells/autofilter)
+* clase [`DataSorter`](/cells/python-net/es/aspose.cells/datasorter)

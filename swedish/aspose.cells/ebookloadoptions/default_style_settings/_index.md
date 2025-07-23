@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  default_style_settings fastighet
 
-Hämtar standardformatinställningarna för att initiera arbetsbokens stilar
+Hämtar standardinställningarna för stilar för att initiera arbetsbokens stilar
 ###  Definition:
 ```python
 @property

@@ -18,5 +18,5 @@ def page_field_count(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotPageFields](/cells/python-net/sv/aspose.cells.pivot/pivotpagefields)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotPageFields`](/cells/python-net/sv/aspose.cells.pivot/pivotpagefields)

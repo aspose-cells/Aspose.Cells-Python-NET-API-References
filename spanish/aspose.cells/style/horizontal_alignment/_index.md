@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  horizontal_alignment propiedad
 
-Obtiene o establece el tipo de alineación horizontal del texto de una celda.
+Obtiene o establece el tipo de alineación horizontal del texto en una celda.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def horizontal_alignment(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Style](/cells/python-net/es/aspose.cells/style)
-* clase [TextAlignmentType](/cells/python-net/es/aspose.cells/textalignmenttype)
+* módulo [`aspose.cells`](../../)
+* clase [`Style`](/cells/python-net/es/aspose.cells/style)
+* clase [`TextAlignmentType`](/cells/python-net/es/aspose.cells/textalignmenttype)

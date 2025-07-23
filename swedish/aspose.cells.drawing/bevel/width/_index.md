@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  width fastighet
 
-Får och ställer in avfasningens width, eller hur långt in i formen den appliceras.
-I enhet av poäng.
+Hämtar och anger width för avfasningen, eller hur långt in i formen den appliceras.
+I enheten poäng.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def width(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Bevel](/cells/python-net/sv/aspose.cells.drawing/bevel)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Bevel`](/cells/python-net/sv/aspose.cells.drawing/bevel)

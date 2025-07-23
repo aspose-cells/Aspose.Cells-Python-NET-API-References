@@ -3,13 +3,13 @@ title: show_empty_col propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 900
+weight: 1030
 url: /es/aspose.cells.pivot/pivottable/show_empty_col/
 is_root: false
 ---
 ##  show_empty_col propiedad
 
-Especifica un valor booleano que indica si incluir columnas vacías en la tabla
+Indica si se deben incluir columnas vacías en la tabla
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_empty_col(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.pivot](../../)
-* clase [PivotTable](/cells/python-net/es/aspose.cells.pivot/pivottable)
+* módulo [`aspose.cells.pivot`](../../)
+* clase [`PivotTable`](/cells/python-net/es/aspose.cells.pivot/pivottable)

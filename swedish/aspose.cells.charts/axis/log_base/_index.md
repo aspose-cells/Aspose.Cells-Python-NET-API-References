@@ -3,13 +3,13 @@ title: log_base fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 270
+weight: 280
 url: /sv/aspose.cells.charts/axis/log_base/
 is_root: false
 ---
 ##  log_base fastighet
 
-Representerar den logaritmiska basen. Standardvärdet är 10. Gäller endast Excel2007.
+Representerar den logaritmiska basen. Standardvärdet är 10. Gäller endast för Excel 2007.
 ###  Definition:
 ```python
 @property

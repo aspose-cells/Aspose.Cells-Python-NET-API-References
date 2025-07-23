@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text fastighet
 
-Hämtar och ställer in text av kontrollen.
+Hämtar och ställer in text för kontrollen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [TextBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`TextBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

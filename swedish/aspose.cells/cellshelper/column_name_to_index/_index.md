@@ -7,7 +7,7 @@ weight: 60
 url: /sv/aspose.cells/cellshelper/column_name_to_index/
 is_root: false
 ---
-##  column_name_to_index(column_name) {#str}
+##  column_name_to_index(, kolumnnamn){#str}
 Hämtar kolumnindex enligt kolumnnamn.
 
 
@@ -17,7 +17,9 @@ Kolumnindex.
 
 
 ```python
-def column_name_to_index(self, column_name):
+
+@staticmethod
+def column_name_to_index(column_name):
     ...
 ```
 
@@ -29,5 +31,5 @@ def column_name_to_index(self, column_name):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellsHelper](/cells/python-net/sv/aspose.cells/cellshelper)
+* modul [`aspose.cells`](../../)
+* klass [`CellsHelper`](/cells/python-net/sv/aspose.cells/cellshelper)

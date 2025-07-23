@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  pattern propiedad
 
-Representa la visualización de un área pattern.
+Representa la visualización del área pattern.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def pattern(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [FillPattern](/cells/python-net/es/aspose.cells.drawing/fillpattern)
-* clase [LineFormat](/cells/python-net/es/aspose.cells.drawing/lineformat)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`FillPattern`](/cells/python-net/es/aspose.cells.drawing/fillpattern)
+* clase [`LineFormat`](/cells/python-net/es/aspose.cells.drawing/lineformat)

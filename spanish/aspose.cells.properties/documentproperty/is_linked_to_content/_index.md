@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_linked_to_content propiedad
 
-Indica si esta propiedad está vinculada al contenido.
+Indica si esta propiedad está vinculada al contenido
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_linked_to_content(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.properties](../../)
-* clase [DocumentProperty](/cells/python-net/es/aspose.cells.properties/documentproperty)
+* módulo [`aspose.cells.properties`](../../)
+* clase [`DocumentProperty`](/cells/python-net/es/aspose.cells.properties/documentproperty)

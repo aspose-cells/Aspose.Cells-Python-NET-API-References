@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name fastighet
 
-Får name för smarttaggen.
+Hämtar name för smarttaggen.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def name(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.markup](../../)
-* klass [SmartTag](/cells/python-net/sv/aspose.cells.markup/smarttag)
+* modul [`aspose.cells.markup`](../../)
+* klass [`SmartTag`](/cells/python-net/sv/aspose.cells.markup/smarttag)

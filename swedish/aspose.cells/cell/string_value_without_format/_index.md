@@ -3,19 +3,19 @@ title: string_value_without_format fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 720
+weight: 750
 url: /sv/aspose.cells/cell/string_value_without_format/
 is_root: false
 ---
 ##  string_value_without_format fastighet
 
-Hämtar cellens värde som sträng utan något format.
+Hämtar cellens värde som en sträng utan format.
 
 ###  Anmärkningar
 
-OBS: Denna metod är nu föråldrad. Istället,
-Användaren ska hämta värdeobjektet och formatera det enligt värdetypen och det specifika kravet.
-Den här egenskapen kommer att tas bort 12 månader senare sedan december 2020.
+OBS! Den här metoden är nu föråldrad. Istället,
+Användaren bör hämta värdeobjektet och formatera det enligt värdetypen och det specifika kravet.
+Den här egenskapen kommer att tas bort 12 månader senare från och med december 2020.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 ###  Definition:
 ```python

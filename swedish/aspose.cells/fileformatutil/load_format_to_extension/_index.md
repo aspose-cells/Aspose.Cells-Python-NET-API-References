@@ -7,30 +7,32 @@ weight: 60
 url: /sv/aspose.cells/fileformatutil/load_format_to_extension/
 is_root: false
 ---
-##  load_format_to_extension(load_format) {#LoadFormat}
-Konverterar ett laddningsformat uppräknat värde till ett filtillägg.
+##  load_format_to_extension(, ladda_format){#aspose.cells.LoadFormat}
+Konverterar ett uppräknat värde i laddningsformat till en filändelse.
 
 
 ###  Returnerar
 
-Den returnerade förlängningen är en sträng med små bokstäver med en inledande prick.
+Det returnerade tillägget är en sträng med gemener och en inledande punkt.
 
 
 ```python
-def load_format_to_extension(self, load_format):
+
+@staticmethod
+def load_format_to_extension(load_format):
     ...
 ```
 
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| load_format | [LoadFormat](/cells/python-net/sv/aspose.cells/loadformat) | Det inlästa filformatet.|
+| load_format | [`LoadFormat`](/cells/python-net/sv/aspose.cells/loadformat) | Det laddade filformatet.|
 ###  Anmärkningar
 
-Om det inte går att konvertera, returneras null.
+Om det inte kan konverteras returneras null.
 
 
 ###  Se även
 
-* modul [aspose.cells](../../)
-* klass [FileFormatUtil](/cells/python-net/sv/aspose.cells/fileformatutil)
+* modul [`aspose.cells`](../../)
+* klass [`FileFormatUtil`](/cells/python-net/sv/aspose.cells/fileformatutil)

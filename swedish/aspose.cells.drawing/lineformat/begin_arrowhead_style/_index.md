@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  begin_arrowhead_style fastighet
 
-Hämtar och ställer in startpiltypen för linjen.
+Hämtar och anger linjens startpiltyp.
 
 ###  Exempel
 
@@ -30,6 +30,6 @@ def begin_arrowhead_style(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [LineFormat](/cells/python-net/sv/aspose.cells.drawing/lineformat)
-* klass [MsoArrowheadStyle](/cells/python-net/sv/aspose.cells.drawing/msoarrowheadstyle)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`LineFormat`](/cells/python-net/sv/aspose.cells.drawing/lineformat)
+* klass [`MsoArrowheadStyle`](/cells/python-net/sv/aspose.cells.drawing/msoarrowheadstyle)

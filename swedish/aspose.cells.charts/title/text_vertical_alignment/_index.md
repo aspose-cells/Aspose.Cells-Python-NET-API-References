@@ -3,13 +3,13 @@ title: text_vertical_alignment fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 370
+weight: 430
 url: /sv/aspose.cells.charts/title/text_vertical_alignment/
 is_root: false
 ---
 ##  text_vertical_alignment fastighet
 
-Hämtar eller ställer in textens vertikala justering av text.
+Hämtar eller ställer in textens vertikala justering.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def text_vertical_alignment(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [TextAlignmentType](/cells/python-net/sv/aspose.cells/textalignmenttype)
-* klass [Title](/cells/python-net/sv/aspose.cells.charts/title)
+* modul [`aspose.cells.charts`](../../)
+* klass [`TextAlignmentType`](/cells/python-net/sv/aspose.cells/textalignmenttype)
+* klass [`Title`](/cells/python-net/sv/aspose.cells.charts/title)

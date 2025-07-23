@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  allow_deleting_column fastighet
 
-Representerar om radering av kolumner är tillåten på ett skyddat kalkylblad.
+Representerar om borttagning av kolumner är tillåten i ett skyddat kalkylblad.
 
 ###  Anmärkningar
 
-Kolumnerna som innehåller cellerna som ska raderas måste låsas upp när arket är skyddat,
-och alternativet "Välj olåsta celler" måste vara aktiverat.
+Kolumnerna som innehåller cellerna som ska raderas måste vara upplåsta när arket är skyddat,
+och alternativet "Markera olåsta celler" måste vara aktiverat.
 ###  Definition:
 ```python
 @property
@@ -26,5 +26,5 @@ def allow_deleting_column(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Protection](/cells/python-net/sv/aspose.cells/protection)
+* modul [`aspose.cells`](../../)
+* klass [`Protection`](/cells/python-net/sv/aspose.cells/protection)

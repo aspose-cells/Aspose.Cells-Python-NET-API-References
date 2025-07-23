@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  soft_edge_radius fastighet
 
-Hämtar och ställer in oskärmens radie som ska appliceras på kanterna, i punktenhet.
+Hämtar och ställer in oskärpa-radien som ska tillämpas på kanterna, i punktenheter.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def soft_edge_radius(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShapePropertyCollection](/cells/python-net/sv/aspose.cells.drawing/shapepropertycollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShapePropertyCollection`](/cells/python-net/sv/aspose.cells.drawing/shapepropertycollection)

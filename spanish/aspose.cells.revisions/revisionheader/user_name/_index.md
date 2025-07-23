@@ -21,5 +21,5 @@ def user_name(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.revisions](../../)
-* clase [RevisionHeader](/cells/python-net/es/aspose.cells.revisions/revisionheader)
+* módulo [`aspose.cells.revisions`](../../)
+* clase [`RevisionHeader`](/cells/python-net/es/aspose.cells.revisions/revisionheader)

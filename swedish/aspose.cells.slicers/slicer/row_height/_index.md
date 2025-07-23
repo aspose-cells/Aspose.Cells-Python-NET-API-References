@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  row_height fastighet
 
-Returnerar eller ställer in höjden, i punkter, för varje rad i den angivna slicern.
+Returnerar eller anger höjden, i punkter, för varje rad i det angivna utsnittet.
 
 ###  Exempel
 
 ```python
 
-slicer.row_height = 20
+slicer.row_height = 20.0
 
 ```
 ###  Definition:
@@ -29,5 +29,5 @@ def row_height(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.slicers](../../)
-* klass [Slicer](/cells/python-net/sv/aspose.cells.slicers/slicer)
+* modul [`aspose.cells.slicers`](../../)
+* klass [`Slicer`](/cells/python-net/sv/aspose.cells.slicers/slicer)

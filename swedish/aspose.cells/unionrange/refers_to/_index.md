@@ -3,13 +3,13 @@ title: refers_to fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 220
+weight: 210
 url: /sv/aspose.cells/unionrange/refers_to/
 is_root: false
 ---
 ##  refers_to fastighet
 
-Får sortimentets hänvisar till.
+Hämtar intervallet som refererar till.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def refers_to(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [UnionRange](/cells/python-net/sv/aspose.cells/unionrange)
+* modul [`aspose.cells`](../../)
+* klass [`UnionRange`](/cells/python-net/sv/aspose.cells/unionrange)

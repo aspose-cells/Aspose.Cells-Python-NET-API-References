@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  convert_formulas_data fastighet
 
-om sant, konvertera sträng till formel när strängvärde börjar med tecknet '=', standardvärdet är falskt.
+Om sant, konvertera sträng till formel när strängvärdet börjar med tecknet '=', standardvärdet är falskt.
 
 ###  Anmärkningar
 
  OBS: Den här egenskapen är nu föråldrad.
 Använd istället egenskapen HtmlLoadOptions.HasFormula.
- Den här egenskapen kommer att tas bort 12 månader senare sedan mars 2023.
+ Den här egenskapen kommer att tas bort 12 månader senare från och med mars 2023.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 ###  Definition:
 ```python

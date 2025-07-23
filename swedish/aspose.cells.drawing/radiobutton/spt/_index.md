@@ -3,7 +3,7 @@ title: spt fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 950
+weight: 960
 url: /sv/aspose.cells.drawing/radiobutton/spt/
 is_root: false
 ---

@@ -3,13 +3,13 @@ title: label propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 800
+weight: 810
 url: /es/aspose.cells.drawing/oleobject/label/
 is_root: false
 ---
 ##  label propiedad
 
-Obtiene y establece la visualización label del objeto OLE vinculado.
+Obtiene y establece la visualización label del objeto ole vinculado.
 ###  Definición:
 ```python
 @property

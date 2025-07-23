@@ -3,13 +3,13 @@ title: custom_xml_parts fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 510
+weight: 530
 url: /sv/aspose.cells/workbook/custom_xml_parts/
 is_root: false
 ---
 ##  custom_xml_parts fastighet
 
-Representerar en anpassad XML-datalagringsdel (anpassad XML-data i ett paket).
+Representerar en anpassad XML-datalagringsdel (anpassade XML-data i ett paket).
 ###  Definition:
 ```python
 @property

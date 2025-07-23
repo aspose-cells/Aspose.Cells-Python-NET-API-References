@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cell_name fastighet
 
-Får namnet på cellen.
+Hämtar cellens namn.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def cell_name(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionCellChange](/cells/python-net/sv/aspose.cells.revisions/revisioncellchange)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionCellChange`](/cells/python-net/sv/aspose.cells.revisions/revisioncellchange)

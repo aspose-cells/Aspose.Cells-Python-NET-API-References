@@ -8,26 +8,32 @@ url: /sv/aspose.cells.querytables/powerqueryformulaparameter/
 is_root: false
 ---
 ##  PowerQueryFormulaParameter klass
-Representerar parametern för power-frågeformeln.
+Representerar parametern för Power Query-formeln.
+
+
+
+**Arv:** [`PowerQueryFormulaParameter`](/cells/python-net/aspose.cells.querytables/powerqueryformulaparameter) → 
+[`PowerQueryFormula`](/cells/python-net/sv/aspose.cells.querytables/powerqueryformula)
 
 
 
 Typen PowerQueryFormulaParameter avslöjar följande medlemmar:
 
-###  Konstruktörer
-| Konstruktör| Beskrivning|
-| :- | :- |
-| [PowerQueryFormulaParameter()](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaparameter/__init__/#) | Konstruerar en ny instans av PowerQueryFormulaParameter|
-
-
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [name](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaparameter/name) | Hämtar namnet på parametern.|
-| [value](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaparameter/value) | Hämtar parametervärdet.|
+| [type](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaparameter/type) | Hämtar typen av Power Query-formel.|
+| [group_name](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaparameter/group_name) | Hämtar namnet på gruppen som innehåller denna Power Query-formel.|
+| [formula_definition](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaparameter/formula_definition) | Hämtar definitionen av parametern.|
+| [name](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaparameter/name) | Hämtar och anger namnet på Power Query-formeln.|
+| [description](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaparameter/description) |Hämtar och anger beskrivningen av Power Query-formeln.|
+| [power_query_formula_items](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaparameter/power_query_formula_items) | Hämtar alla objekt i Power Query-formeln.|
+| [value](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaparameter/value) | Hämtar parameterns värde.|
 | [parameter_definition](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaparameter/parameter_definition) | Hämtar definitionen av parametern.|
 
 
 
 ###  Se även
-* modul [aspose.cells.querytables](..)
+* modul [`aspose.cells.querytables`](..)
+* klass [`PowerQueryFormula`](/cells/python-net/sv/aspose.cells.querytables/powerqueryformula)
+* klass [`PowerQueryFormulaParameter`](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaparameter)

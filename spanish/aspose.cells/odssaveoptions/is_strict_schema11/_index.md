@@ -3,7 +3,7 @@ title: is_strict_schema11 propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 70
+weight: 100
 url: /es/aspose.cells/odssaveoptions/is_strict_schema11/
 is_root: false
 ---
@@ -13,10 +13,10 @@ Indica si el archivo ods debe guardarse en formato ODF versión 1.1. El valor pr
 
 ###  Observaciones
 
- NOTA: Este miembro ahora está obsoleto. En cambio,
-utilice la propiedad OdsSaveOptions.OdfStrictVersion.
- Este método se eliminará 12 meses después, desde febrero de 2024.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+ NOTA: Este miembro ya no está disponible. En su lugar,
+Utilice la propiedad OdsSaveOptions.OdfStrictVersion.
+ Este método se eliminará 12 meses después, a partir de febrero de 2024.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 ###  Definición:
 ```python
 @property

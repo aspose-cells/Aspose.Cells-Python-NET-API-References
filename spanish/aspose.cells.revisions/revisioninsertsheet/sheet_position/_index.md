@@ -18,5 +18,5 @@ def sheet_position(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.revisions](../../)
-* clase [RevisionInsertSheet](/cells/python-net/es/aspose.cells.revisions/revisioninsertsheet)
+* módulo [`aspose.cells.revisions`](../../)
+* clase [`RevisionInsertSheet`](/cells/python-net/es/aspose.cells.revisions/revisioninsertsheet)

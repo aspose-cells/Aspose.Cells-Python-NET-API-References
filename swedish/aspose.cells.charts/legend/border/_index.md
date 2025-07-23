@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border fastighet
 
-Får [`Line`](/cells/python-net/sv/aspose.cells.drawing/line).
+Hämtar [`Line`](/cells/python-net/sv/aspose.cells.drawing/line).
 ###  Definition:
 ```python
 @property

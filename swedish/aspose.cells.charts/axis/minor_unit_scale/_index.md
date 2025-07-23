@@ -3,13 +3,13 @@ title: minor_unit_scale fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 370
+weight: 380
 url: /sv/aspose.cells.charts/axis/minor_unit_scale/
 is_root: false
 ---
 ##  minor_unit_scale fastighet
 
-Representerar huvudenhetsskalan för kategoriaxeln.
+Representerar den huvudsakliga enhetsskalan för kategoriaxeln.
 
 ###  Exempel
 

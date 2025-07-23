@@ -3,7 +3,7 @@ title: left_to_corner fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 710
+weight: 720
 url: /sv/aspose.cells.drawing/smartartshape/left_to_corner/
 is_root: false
 ---

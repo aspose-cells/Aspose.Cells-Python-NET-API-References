@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  case_sensitive fastighet
 
-Indikerar om den sökta strängen är skiftlägeskänslig.
+Anger om den sökta strängen är skiftlägeskänslig.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def case_sensitive(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FindOptions](/cells/python-net/sv/aspose.cells/findoptions)
+* modul [`aspose.cells`](../../)
+* klass [`FindOptions`](/cells/python-net/sv/aspose.cells/findoptions)

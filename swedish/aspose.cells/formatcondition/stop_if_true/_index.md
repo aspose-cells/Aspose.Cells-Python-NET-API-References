@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  stop_if_true fastighet
 
-Det är sant att inga regler med lägre prioritet kan tillämpas över denna regel när denna regel utvärderas till sann.
-Gäller endast Excel 2007;
+Sant, inga regler med lägre prioritet kan tillämpas över denna regel när regeln utvärderas till sant.
+Gäller endast för Excel 2007;
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def stop_if_true(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormatCondition](/cells/python-net/sv/aspose.cells/formatcondition)
+* modul [`aspose.cells`](../../)
+* klass [`FormatCondition`](/cells/python-net/sv/aspose.cells/formatcondition)

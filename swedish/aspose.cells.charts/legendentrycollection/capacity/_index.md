@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [LegendEntryCollection](/cells/python-net/sv/aspose.cells.charts/legendentrycollection)
+* modul [`aspose.cells.charts`](../../)
+* klass [`LegendEntryCollection`](/cells/python-net/sv/aspose.cells.charts/legendentrycollection)

@@ -8,8 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol/mouse_point
 is_root: false
 ---
 ##  mouse_pointer fastighet
-
-Hämtar och ställer in typen av ikon som visas som muspekare för kontrollen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +19,6 @@ def mouse_pointer(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [CheckBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
-* klass [ControlMousePointerType](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/controlmousepointertype)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`CheckBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* klass [`ControlMousePointerType`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/controlmousepointertype)

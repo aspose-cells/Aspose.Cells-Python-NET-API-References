@@ -3,7 +3,7 @@ title: is_visible propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 630
+weight: 660
 url: /es/aspose.cells/worksheet/is_visible/
 is_root: false
 ---

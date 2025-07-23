@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cells_color propiedad
 
-Obtiene y establece el objeto [SolidFill.cells_color](/cells/python-net/es/aspose.cells.drawing/solidfill#cells_color).
+Obtiene y establece el objeto [`SolidFill.cells_color`](/cells/python-net/es/aspose.cells.drawing/solidfill#cells_color).
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def cells_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [CellsColor](/cells/python-net/es/aspose.cells/cellscolor)
-* clase [SolidFill](/cells/python-net/es/aspose.cells.drawing/solidfill)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`CellsColor`](/cells/python-net/es/aspose.cells/cellscolor)
+* clase [`SolidFill`](/cells/python-net/es/aspose.cells.drawing/solidfill)

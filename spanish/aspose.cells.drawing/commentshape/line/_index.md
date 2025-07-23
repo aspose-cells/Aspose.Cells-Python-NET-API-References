@@ -3,7 +3,7 @@ title: line propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 730
+weight: 740
 url: /es/aspose.cells.drawing/commentshape/line/
 is_root: false
 ---

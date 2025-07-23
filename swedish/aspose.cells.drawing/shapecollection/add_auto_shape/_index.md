@@ -7,16 +7,17 @@ weight: 40
 url: /sv/aspose.cells.drawing/shapecollection/add_auto_shape/
 is_root: false
 ---
-##  add_auto_shape(type, upper_left_row, top, upper_left_column, left, height, width) {#AutoShapeType-int-int-int-int-int-int}
-Lägger till en AutoShape i kalkylbladet.
+##  add_auto_shape(self, type, upper_left_row, top, upper_left_column, left, height, width) {#aspose.cells.drawing.AutoShapeType-int-int-int-int-int-int}
+Lägger till en autoform i kalkylbladet.
 
 
 ###  Returnerar
 
-Ett Shape-objekt.
+Ett formobjekt.
 
 
 ```python
+
 def add_auto_shape(self, type, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```
@@ -24,16 +25,16 @@ def add_auto_shape(self, type, upper_left_row, top, upper_left_column, left, hei
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| type | [AutoShapeType](/cells/python-net/sv/aspose.cells.drawing/autoshapetype) | Automatisk formtyp.|
-| upper_left_row | int | Övre vänstra radens index.|
-| top | int | Representerar den vertikala förskjutningen av Shape från dess vänstra rad, i pixelenhet.|
-| upper_left_column | int | Övre vänstra kolumnindex.|
-| left | int | Representerar den horisontella förskjutningen av Shape från dess vänstra kolumn, i pixelenhet.|
-| height | int | Representerar höjden på Shape, i pixelenhet.|
-| width | int | Representerar bredden på Shape, i pixelenhet.|
+| type | [`AutoShapeType`](/cells/python-net/sv/aspose.cells.drawing/autoshapetype) | Automatisk formtyp.|
+| upper_left_row | int | Index för övre vänstra raden.|
+| top | int | Representerar den vertikala förskjutningen av formen från dess vänstra rad, i pixelenhet.|
+| upper_left_column | int | Index i övre vänstra kolumnen.|
+| left | int | Representerar den horisontella förskjutningen av formen från dess vänstra kolumn, i pixelenhet.|
+| height | int | Representerar formens höjd, i pixelenhet.|
+| width | int | Representerar formens bredd, i pixelenhet.|
 ###  Anmärkningar
 
-Typen kunde inte vara Chart/Comment/Picture/OleObject/Polygon/DialogBox
+Typen kunde inte vara Diagram/Kommentar/Bild/OleObjekt/Polygon/DialogBox
 ###  Exempel
 
 
@@ -48,5 +49,5 @@ autoShape = shapes.add_auto_shape(AutoShapeType.CUBE, 1, 0, 1, 0, 100, 50)
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShapeCollection](/cells/python-net/sv/aspose.cells.drawing/shapecollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShapeCollection`](/cells/python-net/sv/aspose.cells.drawing/shapecollection)

@@ -16,9 +16,9 @@ Hämtar/ställer in cellen value.
 value måste vara av rätt typ av objekt som motsvarar [`CellValue.type`](/cells/python-net/sv/aspose.cells/cellvalue#type):
 | Typ| Värde|
 | :- | :- |
-| null, kommer alla andra objekt att ignoreras|
+| null, alla andra objekt kommer att ignoreras|
 | double |
-| Datum Tid|
+| Datum och tid|
 | sträng|
 | bool|
 | felsträng som "#VÄRDE!", "#NAMN?", ...|

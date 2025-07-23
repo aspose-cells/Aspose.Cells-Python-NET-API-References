@@ -3,18 +3,18 @@ title: name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 650
+weight: 680
 url: /sv/aspose.cells/worksheet/name/
 is_root: false
 ---
 ##  name fastighet
 
-Hämtar eller ställer in name för kalkylbladet.
+Hämtar eller ställer in name i kalkylbladet.
 
 ###  Anmärkningar
 
- Den maximala längden på ark name är 31. Och du kan inte tilldela samma name(skiftlägesokänslig) till två kalkylblad.
-Du kan till exempel inte ställa in "SheetName1" till det första kalkylbladet och ställa in "SHEETNAME1" till det andra kalkylbladet.
+ Maxlängden på ark name är 31. Och du kan inte tilldela samma name (skiftlägeskänsligt) till två kalkylblad.
+Du kan till exempel inte ange "Bladnamn1" till det första kalkylbladet och ange "BLADSNAMN1" till det andra kalkylbladet.
 ###  Definition:
 ```python
 @property

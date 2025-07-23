@@ -21,5 +21,5 @@ def light_angle(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ThreeDFormat](/cells/python-net/es/aspose.cells.drawing/threedformat)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ThreeDFormat`](/cells/python-net/es/aspose.cells.drawing/threedformat)

@@ -3,12 +3,12 @@ title: PivotConditionFormatScopeType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 250
+weight: 320
 url: /sv/aspose.cells.pivot/pivotconditionformatscopetype/
 is_root: false
 ---
 ##  PivotConditionFormatScopeType uppräkning
-Representerar omfattningstyp för formatering av pivottabellvillkor.
+Representerar formateringsområdet för pivottabellvillkor.
 
 
 
@@ -17,9 +17,9 @@ Typen PivotConditionFormatScopeType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| DATA | Indikerar att villkorlig formatering tillämpas på de valda datafälten.|
-| FIELD |Indikerar att villkorlig formatering tillämpas på de markerade pivottabellfältskärningarna.|
-| SELECTION | Indikerar att villkorlig formatering tillämpas på de markerade cellerna.|
+| DATA | Indikerar att villkorsstyrd formatering tillämpas på de valda datafälten.|
+| FIELD | Indikerar att villkorsstyrd formatering tillämpas på de valda skärningspunkterna i pivottabellfältet.|
+| SELECTION |Indikerar att villkorsstyrd formatering tillämpas på de markerade cellerna.|
 
 
 

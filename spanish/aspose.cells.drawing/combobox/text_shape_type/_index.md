@@ -3,7 +3,7 @@ title: text_shape_type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1060
+weight: 1070
 url: /es/aspose.cells.drawing/combobox/text_shape_type/
 is_root: false
 ---

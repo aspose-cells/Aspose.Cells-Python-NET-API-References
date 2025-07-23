@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_line propiedad
 
-Indica si se trata de una línea de firma.
+Indica si es una línea de firma.
 
 ###  Ejemplo
 
@@ -30,5 +30,5 @@ def is_line(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [SignatureLine](/cells/python-net/es/aspose.cells.drawing/signatureline)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`SignatureLine`](/cells/python-net/es/aspose.cells.drawing/signatureline)

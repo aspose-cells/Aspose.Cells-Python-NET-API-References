@@ -14,7 +14,7 @@ Hämtar och ställer in värdet tint.
 ###  Anmärkningar
 
  Värdet tint lagras som en dubbel från -1,0 .. 1,0, där -1,0 betyder 100 % mörkare
-och 1,0 betyder 100% ljusare. Dessutom betyder 0,0 ingen förändring.
+och 1,0 betyder 100 % ljusare färg. Dessutom betyder 0,0 ingen förändring.
 ###  Definition:
 ```python
 @property
@@ -26,5 +26,5 @@ def tint(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ThemeColor](/cells/python-net/sv/aspose.cells/themecolor)
+* modul [`aspose.cells`](../../)
+* klass [`ThemeColor`](/cells/python-net/sv/aspose.cells/themecolor)

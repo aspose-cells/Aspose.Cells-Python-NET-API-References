@@ -3,13 +3,13 @@ title: is_dynamic_data_exchange propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 620
+weight: 640
 url: /es/aspose.cells.drawing/picture/is_dynamic_data_exchange/
 is_root: false
 ---
 ##  is_dynamic_data_exchange propiedad
 
-Obtiene o establece si el intercambio de datos dinámico
+Obtiene o establece si se intercambian datos dinámicos
 ###  Definición:
 ```python
 @property

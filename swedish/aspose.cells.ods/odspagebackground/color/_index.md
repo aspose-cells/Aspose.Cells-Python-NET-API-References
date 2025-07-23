@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color fastighet
 
-Hämtar och ställer in color för bakgrund.
+Hämtar och anger color för bakgrunden.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.ods](../../)
-* klass [OdsPageBackground](/cells/python-net/sv/aspose.cells.ods/odspagebackground)
+* modul [`aspose.cells.ods`](../../)
+* klass [`OdsPageBackground`](/cells/python-net/sv/aspose.cells.ods/odspagebackground)

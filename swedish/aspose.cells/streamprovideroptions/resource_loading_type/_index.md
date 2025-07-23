@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  resource_loading_type fastighet
 
-Hämtar och ställer in typen av laddningsresurs.
+Hämtar och anger typen av laddningsresurs.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def resource_loading_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ResourceLoadingType](/cells/python-net/sv/aspose.cells/resourceloadingtype)
-* klass [StreamProviderOptions](/cells/python-net/sv/aspose.cells/streamprovideroptions)
+* modul [`aspose.cells`](../../)
+* klass [`ResourceLoadingType`](/cells/python-net/sv/aspose.cells/resourceloadingtype)
+* klass [`StreamProviderOptions`](/cells/python-net/sv/aspose.cells/streamprovideroptions)

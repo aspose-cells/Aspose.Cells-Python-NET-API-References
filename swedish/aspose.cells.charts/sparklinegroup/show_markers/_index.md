@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_markers fastighet
 
-Indikerar om varje punkt i varje linje sparkline i sparklinegruppen ska markeras.
+Anger om varje punkt i varje linjesparkline i sparkline-gruppen ska markeras.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_markers(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [SparklineGroup](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)
+* modul [`aspose.cells.charts`](../../)
+* klass [`SparklineGroup`](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)

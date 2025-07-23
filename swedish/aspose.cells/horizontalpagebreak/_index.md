@@ -3,12 +3,12 @@ title: HorizontalPageBreak klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 780
+weight: 760
 url: /sv/aspose.cells/horizontalpagebreak/
 is_root: false
 ---
 ##  HorizontalPageBreak klass
-Kapslar in objektet som representerar en horisontell sidbrytning.
+Inkapslar objektet som representerar en horisontell sidbrytning.
 
 
 
@@ -17,9 +17,9 @@ Typen HorizontalPageBreak avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [start_column](/cells/python-net/sv/aspose.cells/horizontalpagebreak/start_column) | Hämtar startkolumnindex för denna horisontella sidbrytning.|
-| [end_column](/cells/python-net/sv/aspose.cells/horizontalpagebreak/end_column) | Hämtar slutkolumnindexet för denna horisontella sidbrytning.|
-| [row](/cells/python-net/sv/aspose.cells/horizontalpagebreak/row) | Hämtar det nollbaserade radindexet.|
+| [start_column](/cells/python-net/sv/aspose.cells/horizontalpagebreak/start_column) | Hämtar startkolumnindexet för denna horisontella sidbrytning.|
+| [end_column](/cells/python-net/sv/aspose.cells/horizontalpagebreak/end_column) | Hämtar indexet för den sista kolumnen för denna horisontella sidbrytning.|
+| [row](/cells/python-net/sv/aspose.cells/horizontalpagebreak/row) |Hämtar det nollbaserade radindexet.|
 
 
 

@@ -7,7 +7,7 @@ weight: 40
 url: /es/aspose.cells/settablepivotglobalizationsettings/get_text_of_all/
 is_root: false
 ---
-##  get_text_of_all {#}
+##  get_text_of_all(self) {#}
 Obtiene el texto de la etiqueta "(Todos)" en la tabla dinámica.
 
 
@@ -17,6 +17,7 @@ El texto de la etiqueta "(Todos)"
 
 
 ```python
+
 def get_text_of_all(self):
     ...
 ```

@@ -13,7 +13,7 @@ Obtiene y establece el color del tema.
 
 ###  Observaciones
 
-Si el color de fuente no es un color de tema, se devolverá NULL.
+Si el color de la fuente no es un color de tema, se devolverá NULL.
 ###  Definición:
 ```python
 @property
@@ -25,6 +25,6 @@ def theme_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Font](/cells/python-net/es/aspose.cells/font)
-* clase [ThemeColor](/cells/python-net/es/aspose.cells/themecolor)
+* módulo [`aspose.cells`](../../)
+* clase [`Font`](/cells/python-net/es/aspose.cells/font)
+* clase [`ThemeColor`](/cells/python-net/es/aspose.cells/themecolor)

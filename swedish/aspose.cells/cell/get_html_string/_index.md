@@ -7,8 +7,8 @@ weight: 150
 url: /sv/aspose.cells/cell/get_html_string/
 is_root: false
 ---
-##  get_html_string(html5) {#bool}
-Hämtar html-strängen som innehåller data och vissa format i denna cell.
+##  get_html_string(self, html5) {#bool}
+Hämtar html-strängen som innehåller data och vissa format i den här cellen.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Hämtar html-strängen som innehåller data och vissa format i denna cell.
 
 
 ```python
+
 def get_html_string(self, html5):
     ...
 ```
@@ -24,10 +25,10 @@ def get_html_string(self, html5):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| html5 | bool | Indikerar om värdet är kompatibelt för html5|
+| html5 | bool | Anger om värdet är kompatibelt med HTML5|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
+* modul [`aspose.cells`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)

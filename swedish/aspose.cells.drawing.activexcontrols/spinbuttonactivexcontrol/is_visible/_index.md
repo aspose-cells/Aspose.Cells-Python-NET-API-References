@@ -8,8 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/is_visibl
 is_root: false
 ---
 ##  is_visible fastighet
-
-Indikerar om denna kontroll är synlig.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_visible(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [SpinButtonActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`SpinButtonActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

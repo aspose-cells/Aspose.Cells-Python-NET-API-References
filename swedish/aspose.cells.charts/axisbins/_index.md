@@ -18,18 +18,18 @@ Typen AxisBins avslöjar följande medlemmar:
 | Fast egendom| Beskrivning|
 | :- | :- |
 | [is_by_category](/cells/python-net/sv/aspose.cells.charts/axisbins/is_by_category) | Anger om data grupperas efter kategori|
-| [is_automatic](/cells/python-net/sv/aspose.cells.charts/axisbins/is_automatic) | Indikerar om axelfacken är automatiska.|
+| [is_automatic](/cells/python-net/sv/aspose.cells.charts/axisbins/is_automatic) | Anger om axelfacken är automatiska.|
 | [width](/cells/python-net/sv/aspose.cells.charts/axisbins/width) | Hämtar eller ställer in bredden på axelfacket|
 | [count](/cells/python-net/sv/aspose.cells.charts/axisbins/count) | Hämtar eller ställer in antalet axelfack|
-| [overflow](/cells/python-net/sv/aspose.cells.charts/axisbins/overflow) | Får eller ställer in överflödet av axelfack|
-| [underflow](/cells/python-net/sv/aspose.cells.charts/axisbins/underflow) | Får eller ställer in underflödet av axelfack|
+| [overflow](/cells/python-net/sv/aspose.cells.charts/axisbins/overflow) | Hämtar eller ställer in överflödet av axelfack|
+| [underflow](/cells/python-net/sv/aspose.cells.charts/axisbins/underflow) | Hämtar eller ställer in underflödet för axelfack|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [reset_overflow](/cells/python-net/sv/aspose.cells.charts/axisbins/reset_overflow/#) | Återställ överflödet|
-| [reset_underflow](/cells/python-net/sv/aspose.cells.charts/axisbins/reset_underflow/#) | Återställ underflödet|
+| [`reset_overflow(self)`](/cells/python-net/sv/aspose.cells.charts/axisbins/reset_overflow/#) | Återställ överflödet|
+| [`reset_underflow(self)`](/cells/python-net/sv/aspose.cells.charts/axisbins/reset_underflow/#) | Återställ underflödet|
 
 
 

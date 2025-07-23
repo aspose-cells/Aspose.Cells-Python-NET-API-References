@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_auto fastighet
 
-Indikerar om denna linjestil är autotilldelad.
+Anger om denna linjestil tilldelas automatiskt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_auto(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Trendline](/cells/python-net/sv/aspose.cells.charts/trendline)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Trendline`](/cells/python-net/sv/aspose.cells.charts/trendline)

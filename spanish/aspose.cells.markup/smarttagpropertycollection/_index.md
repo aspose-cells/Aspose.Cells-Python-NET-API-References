@@ -8,7 +8,7 @@ url: /es/aspose.cells.markup/smarttagpropertycollection/
 is_root: false
 ---
 ##  SmartTagPropertyCollection clase
-Representa todas las propiedades de la etiqueta inteligente de celda.
+Representa todas las propiedades de la etiqueta inteligente celular.
 
 
 
@@ -17,7 +17,7 @@ El tipo SmartTagPropertyCollection expone los siguientes miembros:
 ###  Constructores
 | Constructor| Descripción|
 | :- | :- |
-| [SmartTagPropertyCollection()](/cells/python-net/es/aspose.cells.markup/smarttagpropertycollection/__init__/#) |Construye una nueva instancia de SmartTagPropertyCollection|
+| [`__init__(self)`](/cells/python-net/es/aspose.cells.markup/smarttagpropertycollection/__init__/#) | Construye una nueva instancia de SmartTagPropertyCollection|
 
 
 ###  Propiedades
@@ -29,17 +29,19 @@ El tipo SmartTagPropertyCollection expone los siguientes miembros:
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [copy_to(array)](/cells/python-net/es/aspose.cells.markup/smarttagpropertycollection/copy_to/#list) | Copia toda la lista de matrices en una lista de matrices unidimensional compatible, comenzando por el principio de la lista de matrices de destino.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/es/aspose.cells.markup/smarttagpropertycollection/copy_to/#int-list-int-int) |Copia un rango de elementos de la lista de arreglos a una lista de arreglos unidimensional compatible, comenzando en el índice especificado de la lista de arreglos de destino.|
-| [index_of(item, index)](/cells/python-net/es/aspose.cells.markup/smarttagpropertycollection/index_of/#SmartTagProperty-int) | Busca el objeto especificado y devuelve el índice basado en cero de la primera aparición dentro del rango de elementos en la lista de arreglos que se extiende desde el índice especificado hasta el último elemento.|
-| [index_of(item, index, count)](/cells/python-net/es/aspose.cells.markup/smarttagpropertycollection/index_of/#SmartTagProperty-int-int) | Busca el objeto especificado y devuelve el índice basado en cero de la primera aparición dentro del rango de elementos en la lista de matriz que comienza en el índice especificado y contiene el número especificado de elementos.|
-| [last_index_of(item)](/cells/python-net/es/aspose.cells.markup/smarttagpropertycollection/last_index_of/#SmartTagProperty) | Busca el objeto especificado y devuelve el índice de base cero de la última aparición en toda la lista de matrices.|
-| [last_index_of(item, index)](/cells/python-net/es/aspose.cells.markup/smarttagpropertycollection/last_index_of/#SmartTagProperty-int) | Busca el objeto especificado y devuelve el índice basado en cero de la última aparición dentro del rango de elementos en la lista de arreglos que se extiende desde el primer elemento hasta el índice especificado.|
-| [last_index_of(item, index, count)](/cells/python-net/es/aspose.cells.markup/smarttagpropertycollection/last_index_of/#SmartTagProperty-int-int) |Busca el objeto especificado y devuelve el índice basado en cero de la última aparición dentro del rango de elementos en la lista de matriz que contiene el número especificado de elementos y termina en el índice especificado.|
-| [add(name, value)](/cells/python-net/es/aspose.cells.markup/smarttagpropertycollection/add/#str-str) | Agrega una propiedad de la etiqueta inteligente de la celda.|
-| [binary_search(item)](/cells/python-net/es/aspose.cells.markup/smarttagpropertycollection/binary_search/#SmartTagProperty) | Busca un elemento en toda la lista de matrices ordenadas mediante el comparador predeterminado y devuelve el índice de base cero del elemento.|
+| [`copy_to(self, array)`](/cells/python-net/es/aspose.cells.markup/smarttagpropertycollection/copy_to/#list) |Copia la lista de matrices completa a una lista de matrices unidimensional compatible, comenzando por el principio de la lista de matrices de destino.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/es/aspose.cells.markup/smarttagpropertycollection/copy_to/#int-list-int-int) | Copia un rango de elementos de la lista de matrices a una lista de matrices unidimensionales compatible, comenzando en el índice especificado de la lista de matrices de destino.|
+| [`index_of(self, item, index)`](/cells/python-net/es/aspose.cells.markup/smarttagpropertycollection/index_of/#aspose.cells.markup.smarttagproperty-int) | Busca el objeto especificado y devuelve el índice basado en cero de la primera ocurrencia dentro del rango de elementos en la lista de la matriz que se extiende desde el índice especificado hasta el último elemento.|
+| [`index_of(self, item, index, count)`](/cells/python-net/es/aspose.cells.markup/smarttagpropertycollection/index_of/#aspose.cells.markup.smarttagproperty-int-int) | Busca el objeto especificado y devuelve el índice basado en cero de la primera ocurrencia dentro del rango de elementos en la lista de matriz que comienza en el índice especificado y contiene la cantidad especificada de elementos.|
+| [`last_index_of(self, item)`](/cells/python-net/es/aspose.cells.markup/smarttagpropertycollection/last_index_of/#aspose.cells.markup.smarttagproperty) | Busca el objeto especificado y devuelve el índice basado en cero de la última aparición dentro de toda la lista de la matriz.|
+| [`last_index_of(self, item, index)`](/cells/python-net/es/aspose.cells.markup/smarttagpropertycollection/last_index_of/#aspose.cells.markup.smarttagproperty-int) |Busca el objeto especificado y devuelve el índice basado en cero de la última ocurrencia dentro del rango de elementos en la lista de matriz que se extiende desde el primer elemento hasta el índice especificado.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/es/aspose.cells.markup/smarttagpropertycollection/last_index_of/#aspose.cells.markup.smarttagproperty-int-int) | Busca el objeto especificado y devuelve el índice basado en cero de la última ocurrencia dentro del rango de elementos en la lista de matriz que contiene la cantidad especificada de elementos y termina en el índice especificado.|
+| [`get(self, name)`](/cells/python-net/es/aspose.cells.markup/smarttagpropertycollection/get/#str) | Obtiene un objeto [`SmartTagProperty`](/cells/python-net/es/aspose.cells.markup/smarttagproperty) por el nombre de la propiedad.|
+| [`add(self, name, value)`](/cells/python-net/es/aspose.cells.markup/smarttagpropertycollection/add/#str-str) | Agrega una propiedad de la etiqueta inteligente de la celda.|
+| [`binary_search(self, item)`](/cells/python-net/es/aspose.cells.markup/smarttagpropertycollection/binary_search/#aspose.cells.markup.smarttagproperty) | Busca en toda la lista de la matriz ordenada un elemento utilizando el comparador predeterminado y devuelve el índice basado en cero del elemento.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.markup](..)
+* módulo [`aspose.cells.markup`](..)
+* clase [`SmartTagProperty`](/cells/python-net/es/aspose.cells.markup/smarttagproperty)

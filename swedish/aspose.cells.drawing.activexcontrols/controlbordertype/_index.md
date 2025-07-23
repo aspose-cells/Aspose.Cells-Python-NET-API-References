@@ -3,12 +3,12 @@ title: ControlBorderType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 160
+weight: 140
 url: /sv/aspose.cells.drawing.activexcontrols/controlbordertype/
 is_root: false
 ---
 ##  ControlBorderType uppräkning
-Representerar kanttypen för ActiveX-kontrollen.
+Representerar kantlinjetypen för ActiveX-kontrollen.
 
 
 
@@ -18,9 +18,9 @@ Typen ControlBorderType avslöjar följande medlemmar:
 | Fält| Beskrivning|
 | :- | :- |
 | NONE | Ingen gräns.|
-| SINGLE | Den enda raden.|
+| SINGLE | Den enda linjen.|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](..)
+* modul [`aspose.cells.drawing.activexcontrols`](..)

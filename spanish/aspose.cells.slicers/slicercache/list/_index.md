@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  list propiedad
 
-Devuelve si la segmentación asociada con la caché de segmentación especificada se basa en un origen de datos no OLAP. Solo lectura
+Devuelve si la segmentación de datos asociada a la caché de segmentación de datos especificada se basa en una fuente de datos no OLAP. Solo lectura.
 
 ###  Ejemplo
 
@@ -26,5 +26,5 @@ def list(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.slicers](../../)
-* clase [SlicerCache](/cells/python-net/es/aspose.cells.slicers/slicercache)
+* módulo [`aspose.cells.slicers`](../../)
+* clase [`SlicerCache`](/cells/python-net/es/aspose.cells.slicers/slicercache)

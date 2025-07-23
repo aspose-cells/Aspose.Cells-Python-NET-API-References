@@ -21,5 +21,5 @@ def corrected_object(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [WarningInfo](/cells/python-net/es/aspose.cells/warninginfo)
+* módulo [`aspose.cells`](../../)
+* clase [`WarningInfo`](/cells/python-net/es/aspose.cells/warninginfo)

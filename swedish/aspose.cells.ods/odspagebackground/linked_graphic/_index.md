@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  linked_graphic fastighet
 
-Hämtar och ställer in den länkade grafiska sökvägen.
+Hämtar och anger den länkade grafiska sökvägen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def linked_graphic(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.ods](../../)
-* klass [OdsPageBackground](/cells/python-net/sv/aspose.cells.ods/odspagebackground)
+* modul [`aspose.cells.ods`](../../)
+* klass [`OdsPageBackground`](/cells/python-net/sv/aspose.cells.ods/odspagebackground)

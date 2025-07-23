@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ShapeGuide](/cells/python-net/es/aspose.cells.drawing/shapeguide)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ShapeGuide`](/cells/python-net/es/aspose.cells.drawing/shapeguide)

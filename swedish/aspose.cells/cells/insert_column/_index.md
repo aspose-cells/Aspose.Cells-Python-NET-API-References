@@ -3,16 +3,17 @@ title: insert_column metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 670
+weight: 690
 url: /sv/aspose.cells/cells/insert_column/
 is_root: false
 ---
-##  insert_column {#int}
+##  insert_column(self, column_index) {#int}
 Infogar en ny kolumn i kalkylbladet.
 
 
 
 ```python
+
 def insert_column(self, column_index):
     ...
 ```
@@ -23,12 +24,13 @@ def insert_column(self, column_index):
 | column_index | int | Kolumnindex.|
 
 
-##  insert_column {#int-bool}
+##  insert_column(self, column_index, update_reference) {#int-bool}
 Infogar en ny kolumn i kalkylbladet.
 
 
 
 ```python
+
 def insert_column(self, column_index, update_reference):
     ...
 ```

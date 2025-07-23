@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  graphic_type fastighet
 
-Hämtar och ställer in sidans bakgrundsgrafiktyp.
+Hämtar och anger sidans bakgrundsgrafiktyp.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def graphic_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.ods](../../)
-* klass [OdsPageBackground](/cells/python-net/sv/aspose.cells.ods/odspagebackground)
-* klass [OdsPageBackgroundGraphicType](/cells/python-net/sv/aspose.cells.ods/odspagebackgroundgraphictype)
+* modul [`aspose.cells.ods`](../../)
+* klass [`OdsPageBackground`](/cells/python-net/sv/aspose.cells.ods/odspagebackground)
+* klass [`OdsPageBackgroundGraphicType`](/cells/python-net/sv/aspose.cells.ods/odspagebackgroundgraphictype)

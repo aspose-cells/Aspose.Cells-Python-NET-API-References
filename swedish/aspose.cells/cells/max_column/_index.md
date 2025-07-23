@@ -3,7 +3,7 @@ title: max_column fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1080
+weight: 1110
 url: /sv/aspose.cells/cells/max_column/
 is_root: false
 ---
@@ -14,7 +14,7 @@ där stilen är definierad för hela kolumnen men ingen cell har instansierats i
 
 ###  Anmärkningar
 
-Returnera -1 om det inte finns någon cell.
+Returnera -1 om ingen cell har instansierats.
 ###  Definition:
 ```python
 @property

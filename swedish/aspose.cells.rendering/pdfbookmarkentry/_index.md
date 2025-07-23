@@ -3,14 +3,14 @@ title: PdfBookmarkEntry klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 80
+weight: 70
 url: /sv/aspose.cells.rendering/pdfbookmarkentry/
 is_root: false
 ---
 ##  PdfBookmarkEntry klass
-PdfBookmarkEntry är en post i pdf-bokmärke.
-om textegenskapen för aktuell instans är null eller "",
-aktuell instans kommer att döljas och barn kommer att infogas på aktuell nivå.
+PdfBookmarkEntry är en post i pdf-bokmärket.
+om egenskapen Text för den aktuella instansen är null eller "",
+Den aktuella instansen kommer att döljas och underordnade filer kommer att infogas på den aktuella nivån.
 
 
 
@@ -19,18 +19,18 @@ Typen PdfBookmarkEntry avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [PdfBookmarkEntry()](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry/__init__/#) | Konstruerar en ny instans av PdfBookmarkEntry|
+| [`__init__(self)`](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry/__init__/#) | Skapar en ny instans av PdfBookmarkEntry|
 
 
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [text](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry/text) | Titeln på ett bokmärke.|
-| [destination](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry/destination) | Cellen som bokmärket länkar till.|
-| [destination_name](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry/destination_name) | Hämtar eller ställer in namnet på destinationen.|
-| [sub_entry](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry/sub_entry) | Underpost till ett bokmärke.|
-| [is_open](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry/is_open) |När den här egenskapen är sann kommer bokmärkesposten att expandera, annars kommer den att kollapsa.|
-| [is_collapse](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry/is_collapse) | När den här egenskapen är sann kommer bokmärkesposten att kollapsa, annars expanderar den.|
+| [text](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry/text) | Titel på ett bokmärke.|
+| [destination](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry/destination) |Cellen som bokmärket länkar till.|
+| [destination_name](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry/destination_name) | Hämtar eller anger namnet på destinationen.|
+| [sub_entry](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry/sub_entry) | Delpost till ett bokmärke.|
+| [is_open](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry/is_open) | När den här egenskapen är sann kommer bokmärkesposten att expandera, annars kommer den att kollapsa.|
+| [is_collapse](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry/is_collapse) | När den här egenskapen är sann kommer bokmärkesposten att kollapsa, annars kommer den att expandera.|
 
 
 
@@ -69,4 +69,4 @@ workbook.save("output_bookmark.pdf", saveOptions)
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](..)
+* modul [`aspose.cells.rendering`](..)

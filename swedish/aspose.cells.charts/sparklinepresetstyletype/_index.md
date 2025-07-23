@@ -8,7 +8,7 @@ url: /sv/aspose.cells.charts/sparklinepresetstyletype/
 is_root: false
 ---
 ##  SparklinePresetStyleType uppräkning
-Representerar de förinställda stiltyperna för sparkline.
+Representerar de förinställda stiltyperna för miniatyrdiagram.
 
 
 
@@ -28,7 +28,7 @@ Typen SparklinePresetStyleType avslöjar följande medlemmar:
 | STYLE9 | Stil 9|
 | STYLE10 | Stil 10|
 | STYLE11 | Stil 11|
-| STYLE12 |Stil 12|
+| STYLE12 | Stil 12|
 | STYLE13 | Stil 13|
 | STYLE14 | Stil 14|
 | STYLE15 | Stil 15|
@@ -45,7 +45,7 @@ Typen SparklinePresetStyleType avslöjar följande medlemmar:
 | STYLE26 | Stil 26|
 | STYLE27 | Stil 27|
 | STYLE28 | Stil 28|
-| STYLE29 | Stil 29|
+| STYLE29 |Stil 29|
 | STYLE30 | Stil 30|
 | STYLE31 | Stil 31|
 | STYLE32 | Stil 32|
@@ -58,4 +58,4 @@ Typen SparklinePresetStyleType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

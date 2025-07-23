@@ -3,7 +3,7 @@ title: title fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1080
+weight: 1090
 url: /sv/aspose.cells.drawing/checkbox/title/
 is_root: false
 ---

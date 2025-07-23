@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  ignore_useless_shapes fastighet
 
-Anger om värdelösa former ignoreras.
+Anger om oanvändbara former ignoreras.
 
 ###  Anmärkningar
 
-Fungerar endast för xlsx-, xlsb- och xlsm-filer.
- Det finns många överlappande identiska former som är värdelösa i vissa filer,
-vi kan tappa dem när vi laddar filer.
+Fungerar bara för xlsx-, xlsb- och xlsm-filer.
+ Det finns många överlappande identiska former som är oanvändbara i vissa filer,
+Vi kan ignorera dem när vi laddar filer.
 ###  Definition:
 ```python
 @property

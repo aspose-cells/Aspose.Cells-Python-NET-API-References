@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  workbook propiedad
 
-Obtiene el objeto Libro de trabajo donde se encuentra la función.
+Obtiene el objeto Workbook donde se encuentra la función.
 ###  Definición:
 ```python
 @property

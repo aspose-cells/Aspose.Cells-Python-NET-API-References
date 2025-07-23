@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  password propiedad
 
-Representa el password para proteger la gama.
+Representa el password para proteger el rango.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def password(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ProtectedRange](/cells/python-net/es/aspose.cells/protectedrange)
+* módulo [`aspose.cells`](../../)
+* clase [`ProtectedRange`](/cells/python-net/es/aspose.cells/protectedrange)

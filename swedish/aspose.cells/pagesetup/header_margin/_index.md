@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  header_margin fastighet
 
-Representerar avståndet från toppen av sidan till sidhuvudet, i centimeterenhet.
+Representerar avståndet från sidans överkant till sidhuvudet, i centimeter.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def header_margin(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  export_empty_cells fastighet
 
-Anger om tomma celler exporteras som null.
+Anger om tomma celler ska exporteras som null.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def export_empty_cells(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.utility](../../)
-* klass [ExportRangeToJsonOptions](/cells/python-net/sv/aspose.cells.utility/exportrangetojsonoptions)
+* modul [`aspose.cells.utility`](../../)
+* klass [`ExportRangeToJsonOptions`](/cells/python-net/sv/aspose.cells.utility/exportrangetojsonoptions)

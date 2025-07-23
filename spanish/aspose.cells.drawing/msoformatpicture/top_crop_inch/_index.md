@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  top_crop_inch propiedad
 
-Representa la ubicación de la parte superior del rectángulo de recorte expresada en pulgadas.
+Representa la ubicación de la parte superior del rectángulo de recorte expresada en unidades de pulgadas.
 ###  Definición:
 ```python
 @property

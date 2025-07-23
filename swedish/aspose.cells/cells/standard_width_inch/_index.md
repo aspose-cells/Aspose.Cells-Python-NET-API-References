@@ -3,13 +3,13 @@ title: standard_width_inch fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1280
+weight: 1310
 url: /sv/aspose.cells/cells/standard_width_inch/
 is_root: false
 ---
 ##  standard_width_inch fastighet
 
-Hämtar eller ställer in standardkolumnbredden i kalkylbladet, i enhet av tum.
+Hämtar eller anger standardkolumnbredden i kalkylbladet, i enheten tum.
 ###  Definition:
 ```python
 @property

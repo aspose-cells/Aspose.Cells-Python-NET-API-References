@@ -3,13 +3,13 @@ title: show_all_items propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 560
+weight: 660
 url: /es/aspose.cells.pivot/pivotfield/show_all_items/
 is_root: false
 ---
 ##  show_all_items propiedad
 
- Indica si todos los elementos se muestran en el informe de tabla dinámica.
+ Indica si se muestran todos los elementos en el informe de tabla dinámica.
 incluso si no contienen datos resumidos.
 mostrar elementos sin datos
 El valor predeterminado es falso.

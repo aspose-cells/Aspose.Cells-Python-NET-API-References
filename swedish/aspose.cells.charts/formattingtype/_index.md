@@ -8,7 +8,7 @@ url: /sv/aspose.cells.charts/formattingtype/
 is_root: false
 ---
 ##  FormattingType uppräkning
-Representerar typen av formatering som tillämpas på ett [Area](/cells/python-net/sv/aspose.cells.drawing/area)-objekt eller ett [Line](/cells/python-net/sv/aspose.cells.drawing/line)-objekt.
+Representerar den typ av formatering som tillämpas på ett [`Area`](/cells/python-net/sv/aspose.cells.drawing/area)-objekt eller ett [`Line`](/cells/python-net/sv/aspose.cells.drawing/line)-objekt.
 
 
 
@@ -24,6 +24,6 @@ Typen FormattingType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.charts](..)
-* klass [Area](/cells/python-net/sv/aspose.cells.drawing/area)
-* klass [Line](/cells/python-net/sv/aspose.cells.drawing/line)
+* modul [`aspose.cells.charts`](..)
+* klass [`Area`](/cells/python-net/sv/aspose.cells.drawing/area)
+* klass [`Line`](/cells/python-net/sv/aspose.cells.drawing/line)

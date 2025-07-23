@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_error propiedad
 
-Indica si el mensaje de error de validación de datos se mostrará cada vez que el usuario ingrese datos no válidos.
+Indica si se mostrará el mensaje de error de validación de datos cada vez que el usuario ingrese datos no válidos.
 ###  Definición:
 ```python
 @property

@@ -3,7 +3,7 @@ title: GroupFill clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 260
+weight: 240
 url: /es/aspose.cells.drawing/groupfill/
 is_root: false
 ---
@@ -12,8 +12,7 @@ Representa que este formato de relleno debe heredar las propiedades de relleno d
 
 
 
-**Herencia:** [GroupFill](/cells/python-net/aspose.cells.drawing/groupfill) → 
-[Fill](/cells/python-net/es/aspose.cells.drawing/fill)
+**Herencia:** [`GroupFill`](/cells/python-net/es/aspose.cells.drawing/groupfill)
 
 
 
@@ -21,6 +20,5 @@ El tipo GroupFill expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](..)
-* clase [Fill](/cells/python-net/es/aspose.cells.drawing/fill)
-* clase [GroupFill](/cells/python-net/es/aspose.cells.drawing/groupfill)
+* módulo [`aspose.cells.drawing`](..)
+* clase [`GroupFill`](/cells/python-net/es/aspose.cells.drawing/groupfill)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_column fastighet
 
-Hämtar slutkolumnindexet för denna horisontella sidbrytning.
+Hämtar indexet för den sista kolumnen för denna horisontella sidbrytning.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def end_column(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HorizontalPageBreak](/cells/python-net/sv/aspose.cells/horizontalpagebreak)
+* modul [`aspose.cells`](../../)
+* klass [`HorizontalPageBreak`](/cells/python-net/sv/aspose.cells/horizontalpagebreak)

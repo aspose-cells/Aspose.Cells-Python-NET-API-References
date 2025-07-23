@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  field_id fastighet
 
-Hämtar ID för det specifika frågetabellfältet som togs bort.
+Hämtar ID för det specifika frågetabelfält som togs bort.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def field_id(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionQueryTable](/cells/python-net/sv/aspose.cells.revisions/revisionquerytable)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionQueryTable`](/cells/python-net/sv/aspose.cells.revisions/revisionquerytable)

@@ -3,7 +3,7 @@ title: depth_percent propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 220
+weight: 240
 url: /es/aspose.cells.charts/chart/depth_percent/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def depth_percent(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Chart](/cells/python-net/es/aspose.cells.charts/chart)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Chart`](/cells/python-net/es/aspose.cells.charts/chart)

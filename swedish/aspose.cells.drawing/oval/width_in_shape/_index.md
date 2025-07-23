@@ -3,7 +3,7 @@ title: width_in_shape fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1180
+weight: 1190
 url: /sv/aspose.cells.drawing/oval/width_in_shape/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Representerar formens bredd, i enheten 1/4000 av den överordnade formen.
 
 ###  Anmärkningar
 
-Gäller endast när denna form i gruppen eller diagrammet.
+Gäller endast när den här formen finns i gruppen eller diagrammet.
 
 ###  Exempel
 

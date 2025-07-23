@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type propiedad
 
-Obtiene el type del valor de la viñeta.
+Obtiene el type del valor de la bala.
 ###  Definición:
 ```python
 @property
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](../../)
-* clase [BulletType](/cells/python-net/es/aspose.cells.drawing.texts/bullettype)
-* clase [NoneBulletValue](/cells/python-net/es/aspose.cells.drawing.texts/nonebulletvalue)
+* módulo [`aspose.cells.drawing.texts`](../../)
+* clase [`BulletType`](/cells/python-net/es/aspose.cells.drawing.texts/bullettype)
+* clase [`NoneBulletValue`](/cells/python-net/es/aspose.cells.drawing.texts/nonebulletvalue)

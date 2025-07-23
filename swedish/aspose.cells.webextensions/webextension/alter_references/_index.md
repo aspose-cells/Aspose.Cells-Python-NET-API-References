@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  alter_references fastighet
 
-Får en lista med alternativa referenser.
+Hämtar en lista med alterreferenser.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def alter_references(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.webextensions](../../)
-* klass [WebExtension](/cells/python-net/sv/aspose.cells.webextensions/webextension)
-* klass [WebExtensionReferenceCollection](/cells/python-net/sv/aspose.cells.webextensions/webextensionreferencecollection)
+* modul [`aspose.cells.webextensions`](../../)
+* klass [`WebExtension`](/cells/python-net/sv/aspose.cells.webextensions/webextension)
+* klass [`WebExtensionReferenceCollection`](/cells/python-net/sv/aspose.cells.webextensions/webextensionreferencecollection)

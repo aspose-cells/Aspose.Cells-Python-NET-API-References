@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  refers_to fastighet
 
-Returnerar eller ställer in formeln som namnet är definierat för att referera till, som börjar med ett likhetstecken.
+Returnerar eller anger formeln som namnet är definierat att referera till, med början med ett likhetstecken.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def refers_to(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Name](/cells/python-net/sv/aspose.cells/name)
+* modul [`aspose.cells`](../../)
+* klass [`Name`](/cells/python-net/sv/aspose.cells/name)

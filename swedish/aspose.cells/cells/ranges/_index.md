@@ -3,13 +3,13 @@ title: ranges fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1220
+weight: 1250
 url: /sv/aspose.cells/cells/ranges/
 is_root: false
 ---
 ##  ranges fastighet
 
-Hämtar samlingen av [`Range`](/cells/python-net/sv/aspose.cells/range) objekt skapade under körning.
+Hämtar samlingen av [`Range`](/cells/python-net/sv/aspose.cells/range) objekt som skapades vid körning.
 ###  Definition:
 ```python
 @property

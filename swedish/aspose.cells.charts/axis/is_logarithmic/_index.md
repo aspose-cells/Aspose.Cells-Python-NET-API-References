@@ -3,13 +3,13 @@ title: is_logarithmic fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 240
+weight: 250
 url: /sv/aspose.cells.charts/axis/is_logarithmic/
 is_root: false
 ---
 ##  is_logarithmic fastighet
 
-Representerar om skaltypen för värdeaxeln är logaritmisk eller inte.
+Representerar om värdeaxelns skalningstyp är logaritmisk eller inte.
 ###  Definition:
 ```python
 @property

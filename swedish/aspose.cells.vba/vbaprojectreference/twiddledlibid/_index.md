@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  twiddledlibid fastighet
 
-Får och ställer in referensens vridna Libid.
+Hämtar och ställer in referensens twiddlade Libid.
 
 ###  Anmärkningar
 
@@ -25,5 +25,5 @@ def twiddledlibid(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.vba](../../)
-* klass [VbaProjectReference](/cells/python-net/sv/aspose.cells.vba/vbaprojectreference)
+* modul [`aspose.cells.vba`](../../)
+* klass [`VbaProjectReference`](/cells/python-net/sv/aspose.cells.vba/vbaprojectreference)

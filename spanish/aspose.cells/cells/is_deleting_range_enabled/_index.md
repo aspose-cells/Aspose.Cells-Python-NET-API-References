@@ -3,12 +3,12 @@ title: método is_deleting_range_enabled
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 750
+weight: 770
 url: /es/aspose.cells/cells/is_deleting_range_enabled/
 is_root: false
 ---
-##  is_deleting_range_enabled {#int-int-int-int}
-Compruebe si el rango se pudo eliminar.
+##  is_deleting_range_enabled(self, start_row, start_column, total_rows, total_columns) {#int-int-int-int}
+Comprueba si se puede eliminar el rango.
 
 
 ###  Devoluciones
@@ -17,6 +17,7 @@ Compruebe si el rango se pudo eliminar.
 
 
 ```python
+
 def is_deleting_range_enabled(self, start_row, start_column, total_rows, total_columns):
     ...
 ```
@@ -25,9 +26,9 @@ def is_deleting_range_enabled(self, start_row, start_column, total_rows, total_c
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
 | start_row | int | El índice de la fila inicial del rango.|
-| start_column | int | El índice de la columna inicial del rango.|
-| total_rows | int | El número de filas del rango.|
-| total_columns | int | El número de columnas del rango.|
+| start_column | int | El índice de la columna de inicio del rango.|
+| total_rows | int | El número de filas en el rango.|
+| total_columns | int | El número de columnas en el rango.|
 
 
 

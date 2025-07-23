@@ -3,7 +3,7 @@ title: DisplayDrawingObjects enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2040
+weight: 1950
 url: /es/aspose.cells/displaydrawingobjects/
 is_root: false
 ---
@@ -17,9 +17,9 @@ El tipo DisplayDrawingObjects expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| DISPLAY_SHAPES | Mostrar todos los objetos|
+| DISPLAY_SHAPES |Mostrar todos los objetos|
 | PLACEHOLDERS | Mostrar marcadores de posición|
-| HIDE | Oculta todas las formas.|
+| HIDE | Ocultar todas las formas.|
 
 
 

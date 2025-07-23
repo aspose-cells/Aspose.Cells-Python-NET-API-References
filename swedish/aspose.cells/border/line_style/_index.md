@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  line_style fastighet
 
-Hämtar eller ställer in cellkanttyp.
+Hämtar eller anger cellkantlinjetypen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def line_style(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Border](/cells/python-net/sv/aspose.cells/border)
-* klass [CellBorderType](/cells/python-net/sv/aspose.cells/cellbordertype)
+* modul [`aspose.cells`](../../)
+* klass [`Border`](/cells/python-net/sv/aspose.cells/border)
+* klass [`CellBorderType`](/cells/python-net/sv/aspose.cells/cellbordertype)

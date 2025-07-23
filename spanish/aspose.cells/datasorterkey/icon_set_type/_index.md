@@ -13,7 +13,7 @@ Representa el tipo de conjunto de iconos.
 
 ###  Observaciones
 
-Solo efectos cuando [SortOnType](/cells/python-net/es/aspose.cells/sortontype) es SortOnType.Icon.
+Sólo tiene efecto cuando [`DataSorterKey.type`](/cells/python-net/es/aspose.cells/datasorterkey#type) es [`SortOnType.ICON`](/cells/python-net/es/aspose.cells/sortontype#ICON).
 ###  Definición:
 ```python
 @property
@@ -22,7 +22,6 @@ def icon_set_type(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [DataSorterKey](/cells/python-net/es/aspose.cells/datasorterkey)
-* clase [IconSetType](/cells/python-net/es/aspose.cells/iconsettype)
-* clase [SortOnType](/cells/python-net/es/aspose.cells/sortontype)
+* módulo [`aspose.cells`](../../)
+* clase [`DataSorterKey`](/cells/python-net/es/aspose.cells/datasorterkey)
+* clase [`IconSetType`](/cells/python-net/es/aspose.cells/iconsettype)

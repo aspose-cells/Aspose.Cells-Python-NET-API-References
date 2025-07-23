@@ -3,7 +3,7 @@ title: rotation_angle propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 320
+weight: 390
 url: /es/aspose.cells.charts/datalabels/rotation_angle/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def rotation_angle(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [DataLabels](/cells/python-net/es/aspose.cells.charts/datalabels)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`DataLabels`](/cells/python-net/es/aspose.cells.charts/datalabels)

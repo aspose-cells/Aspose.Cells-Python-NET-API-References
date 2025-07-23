@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  paper_height fastighet
 
-Hämtar höjden på papperet i enhet av tum, betraktad som sidorientering.
+Hämtar papprets höjd i tum, betraktad som sidorientering.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def paper_height(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

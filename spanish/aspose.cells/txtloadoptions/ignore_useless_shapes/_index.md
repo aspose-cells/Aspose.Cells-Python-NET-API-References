@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  ignore_useless_shapes propiedad
 
-Indica si se ignoran formas inútiles.
+Indica si se ignoran las formas inútiles.
 
 ###  Observaciones
 
-Solo funciona para archivos xlsx,xlsb y xlsm.
+Solo funciona con archivos xlsx, xlsb y xlsm.
  Hay muchas formas idénticas superpuestas que son inútiles en algunos archivos,
 Podemos ignorarlos al cargar archivos.
 ###  Definición:

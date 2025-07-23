@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  embed_smart_tags fastighet
 
-Anger om smarta taggar sparas med arbetsboken.
+Anger om smarta taggar ska sparas med arbetsboken.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def embed_smart_tags(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.markup](../../)
-* klass [SmartTagOptions](/cells/python-net/sv/aspose.cells.markup/smarttagoptions)
+* modul [`aspose.cells.markup`](../../)
+* klass [`SmartTagOptions`](/cells/python-net/sv/aspose.cells.markup/smarttagoptions)

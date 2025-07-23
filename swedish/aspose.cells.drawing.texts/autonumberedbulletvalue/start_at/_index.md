@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  start_at fastighet
 
-Hämtar och ställer in startnumret på kulan.
+Hämtar och anger startnumret för punkten.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def start_at(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [AutoNumberedBulletValue](/cells/python-net/sv/aspose.cells.drawing.texts/autonumberedbulletvalue)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`AutoNumberedBulletValue`](/cells/python-net/sv/aspose.cells.drawing.texts/autonumberedbulletvalue)

@@ -3,12 +3,12 @@ title: AutoShapeType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 760
+weight: 750
 url: /sv/aspose.cells.drawing/autoshapetype/
 is_root: false
 ---
 ##  AutoShapeType uppräkning
-Representerar alla inbyggda autoformtyper.
+Representerar alla inbyggda automatiska formtyper.
 
 
 
@@ -153,43 +153,43 @@ Typen AutoShapeType avslöjar följande medlemmar:
 | FLOW_CHART_DISPLAY |  |
 | FLOW_CHART_DELAY |  |
 | TEXT_PLAIN_TEXT | En vanlig textform.|
-| TEXT_STOP | En åttakantig textform.|
+| TEXT_STOP | En åttkantig textform.|
 | TEXT_TRIANGLE | En triangulär textform som pekar uppåt.|
 | TEXT_TRIANGLE_INVERTED | En triangulär textform som pekar nedåt.|
 | TEXT_CHEVRON | En chevrontextform som pekar uppåt.|
 | TEXT_CHEVRON_INVERTED | En chevrontextform som pekar nedåt.|
-| TEXT_RING_INSIDE |En cirkulär textform, som om man läser en inskription på insidan av en ring.|
+| TEXT_RING_INSIDE | En cirkulär textform, som om man läser en inskription på insidan av en ring.|
 | TEXT_RING_OUTSIDE | En cirkulär textform, som om man läser en inskription på utsidan av en ring.|
-| TEXT_ARCH_UP_CURVE | En uppåtbågande böjd textform.|
-| TEXT_ARCH_DOWN_CURVE | En nedåtbågande böjd textform.|
-| TEXT_CIRCLE_CURVE | En cirkulär textform.|
+| TEXT_ARCH_UP_CURVE | En uppåtgående välvd böjd textform.|
+| TEXT_ARCH_DOWN_CURVE | En nedåtgående välvd böjd textform.|
+| TEXT_CIRCLE_CURVE |En cirkulär textform.|
 | TEXT_BUTTON_CURVE | En textform som liknar en knapp.|
-| TEXT_ARCH_UP_POUR | En uppåtbågande textform.|
-| TEXT_ARCH_DOWN_POUR | En nedåtbågande textform.|
-| TEXT_CIRCLE_POUR | En cirkulär textform.|
+| TEXT_ARCH_UP_POUR | En uppåtgående välvd textform.|
+| TEXT_ARCH_DOWN_POUR | En nedåtgående välvd textform.|
+| TEXT_CIRCLE_POUR |En cirkulär textform.|
 | TEXT_BUTTON_POUR | En textform som liknar en knapp.|
 | TEXT_CURVE_UP | En uppåtböjd textform.|
 | TEXT_CURVE_DOWN | En nedåtböjd textform.|
-| TEXT_CASCADE_UP | En överlappande textform pekade uppåt.|
-| TEXT_CASCADE_DOWN | En överlappande textform pekade nedåt.|
+| TEXT_CASCADE_UP | En kaskadformad text pekade uppåt.|
+| TEXT_CASCADE_DOWN | En kaskadformad text pekade nedåt.|
 | TEXT_WAVE1 | En vågig textform.|
 | TEXT_WAVE2 | En vågig textform.|
 | TEXT_DOUBLE_WAVE1 | En vågig textform.|
 | TEXT_DOUBLE_WAVE2 | En vågig textform.|
 | TEXT_INFLATE | En textform som expanderar vertikalt i mitten.|
-| TEXT_DEFLATE | En textform som krymper vertikalt på mitten.|
+| TEXT_DEFLATE | En textform som krymper vertikalt i mitten.|
 | TEXT_INFLATE_BOTTOM | En textform som expanderar nedåt i mitten.|
 | TEXT_DEFLATE_BOTTOM | En textform som krymper uppåt i mitten.|
 | TEXT_INFLATE_TOP | En textform som expanderar uppåt i mitten.|
 | TEXT_DEFLATE_TOP | En textform som krymper nedåt i mitten.|
-| TEXT_DEFLATE_INFLATE |En textform där nedre linjer expanderar uppåt. De övre linjerna krymper för att kompensera.|
-| TEXT_DEFLATE_INFLATE_DEFLATE | En textform där linjer i mitten expanderar vertikalt. De övre och nedre linjerna krymper för att kompensera.|
+| TEXT_DEFLATE_INFLATE | En textform där de nedre raderna expanderar uppåt. De övre raderna krymper för att kompensera.|
+| TEXT_DEFLATE_INFLATE_DEFLATE | En textform där linjerna i mitten expanderar vertikalt. Övre och nedre linjer krymper för att kompensera.|
 | TEXT_FADE_RIGHT | En textform som krymper vertikalt på höger sida.|
 | TEXT_FADE_LEFT | En textform som krymper vertikalt på vänster sida.|
-| TEXT_FADE_UP | En textform som krymper horisontellt ovanpå.|
-| TEXT_FADE_DOWN | En textform som krymper horisontellt på botten.|
-| TEXT_SLANT_UP | En uppåtlutad textform.|
-| TEXT_SLANT_DOWN | En nedåtlutad textform.|
+| TEXT_FADE_UP |En textform som krymper horisontellt upptill.|
+| TEXT_FADE_DOWN | En textform som krymper horisontellt längst ner.|
+| TEXT_SLANT_UP | En uppåt lutande textform.|
+| TEXT_SLANT_DOWN | En nedåtlutande textform.|
 | TEXT_CAN_UP | En textform som är böjd uppåt som om den läses på sidan av en burk.|
 | TEXT_CAN_DOWN | En textform som är böjd nedåt som om den läses på sidan av en burk.|
 | FLOW_CHART_ALTERNATE_PROCESS |  |
@@ -201,8 +201,8 @@ Typen AutoShapeType avslöjar följande medlemmar:
 | LEFT_RIGHT_UP_ARROW |  |
 | SUN |  |
 | MOON |  |
-| DOUBLE_BRACKET | En form omsluten av parentes.|
-| DOUBLE_BRACE | En form innesluten i hängslen.|
+| DOUBLE_BRACKET | En form inom parentes.|
+| DOUBLE_BRACE | En form omgiven av klammerparenteser.|
 | STAR4 |  |
 | DOUBLE_WAVE |  |
 | BLANK_ACTION_BUTTON |  |
@@ -217,7 +217,7 @@ Typen AutoShapeType avslöjar följande medlemmar:
 | DOCUMENT_ACTION_BUTTON |  |
 | SOUND_ACTION_BUTTON |  |
 | MOVIE_ACTION_BUTTON |  |
-| HOST_CONTROL | Detta värde SKA INTE användas.|
+| HOST_CONTROL | Detta värde BÖR INTE användas.|
 | TEXT_BOX |  |
 | HEPTAGON |  |
 | DECAGON |  |
@@ -275,4 +275,4 @@ Typen AutoShapeType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

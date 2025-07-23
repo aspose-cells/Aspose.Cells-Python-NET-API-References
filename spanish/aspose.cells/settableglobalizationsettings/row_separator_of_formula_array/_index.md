@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row_separator_of_formula_array propiedad
 
-Obtiene el separador de filas de datos de matriz en la fórmula.
+Obtiene el separador de filas en los datos de la matriz en la fórmula.
 ###  Definición:
 ```python
 @property

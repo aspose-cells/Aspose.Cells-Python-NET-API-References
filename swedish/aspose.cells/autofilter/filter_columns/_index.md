@@ -18,6 +18,6 @@ def filter_columns(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [AutoFilter](/cells/python-net/sv/aspose.cells/autofilter)
-* klass [FilterColumnCollection](/cells/python-net/sv/aspose.cells/filtercolumncollection)
+* modul [`aspose.cells`](../../)
+* klass [`AutoFilter`](/cells/python-net/sv/aspose.cells/autofilter)
+* klass [`FilterColumnCollection`](/cells/python-net/sv/aspose.cells/filtercolumncollection)

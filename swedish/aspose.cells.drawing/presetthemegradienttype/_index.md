@@ -3,12 +3,12 @@ title: PresetThemeGradientType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1090
+weight: 1080
 url: /sv/aspose.cells.drawing/presetthemegradienttype/
 is_root: false
 ---
 ##  PresetThemeGradientType uppräkning
-Representerar den förinställda tematoningstypen.
+Representerar den förinställda temaövertoningstypen.
 
 
 
@@ -17,13 +17,13 @@ Typen PresetThemeGradientType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| LIGHT_GRADIENT | Ljus gradient|
-| TOP_SPOTLIGHT | Toppstrålkastare|
-| MEDIUM_GRADIENT | Medium gradient|
-| BOTTOM_SPOTLIGHT | Nedre strålkastare|
+| LIGHT_GRADIENT | Ljusgradient|
+| TOP_SPOTLIGHT | Toppspotlight|
+| MEDIUM_GRADIENT | Medelgradient|
+| BOTTOM_SPOTLIGHT | Bottenstrålkastare|
 | RADIAL_GRADIENT | Radiell gradient|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

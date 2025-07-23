@@ -3,13 +3,13 @@ title: show_compact propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 570
+weight: 670
 url: /es/aspose.cells.pivot/pivotfield/show_compact/
 is_root: false
 ---
 ##  show_compact propiedad
 
-Indica si se muestran etiquetas del siguiente campo en la misma columna en la vista de tabla dinámica
+Indica si se muestran las etiquetas del siguiente campo en la misma columna en la vista de tabla dinámica
 ###  Definición:
 ```python
 @property

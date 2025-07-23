@@ -3,7 +3,7 @@ title: has_blank_rows propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 560
+weight: 660
 url: /es/aspose.cells.pivot/pivottable/has_blank_rows/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def has_blank_rows(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.pivot](../../)
-* clase [PivotTable](/cells/python-net/es/aspose.cells.pivot/pivottable)
+* módulo [`aspose.cells.pivot`](../../)
+* clase [`PivotTable`](/cells/python-net/es/aspose.cells.pivot/pivottable)

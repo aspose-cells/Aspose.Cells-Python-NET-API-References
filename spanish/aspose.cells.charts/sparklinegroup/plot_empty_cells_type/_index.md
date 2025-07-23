@@ -21,6 +21,6 @@ def plot_empty_cells_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [PlotEmptyCellsType](/cells/python-net/es/aspose.cells.charts/plotemptycellstype)
-* clase [SparklineGroup](/cells/python-net/es/aspose.cells.charts/sparklinegroup)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`PlotEmptyCellsType`](/cells/python-net/es/aspose.cells.charts/plotemptycellstype)
+* clase [`SparklineGroup`](/cells/python-net/es/aspose.cells.charts/sparklinegroup)

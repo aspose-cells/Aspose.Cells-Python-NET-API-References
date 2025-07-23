@@ -3,13 +3,13 @@ title: is_text_dates propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 180
+weight: 230
 url: /es/aspose.cells.externalconnections/webqueryconnection/is_text_dates/
 is_root: false
 ---
 ##  is_text_dates propiedad
 
-Marca que indica si las fechas deben importarse a las celdas de la hoja de trabajo como texto en lugar de fechas.
+Bandera que indica si las fechas deben importarse a las celdas de la hoja de cálculo como texto en lugar de fechas.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_text_dates(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.externalconnections](../../)
-* clase [WebQueryConnection](/cells/python-net/es/aspose.cells.externalconnections/webqueryconnection)
+* módulo [`aspose.cells.externalconnections`](../../)
+* clase [`WebQueryConnection`](/cells/python-net/es/aspose.cells.externalconnections/webqueryconnection)

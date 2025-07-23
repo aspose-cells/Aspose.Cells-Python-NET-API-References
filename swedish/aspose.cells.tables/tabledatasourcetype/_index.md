@@ -8,7 +8,7 @@ url: /sv/aspose.cells.tables/tabledatasourcetype/
 is_root: false
 ---
 ##  TableDataSourceType uppräkning
-Representerar tabellens datakällastyp.
+Representerar tabellens datakälltyp.
 
 
 
@@ -17,12 +17,12 @@ Typen TableDataSourceType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| WORKSHEET | Excel kalkylbladstabell|
-| SHARE_POINT | Läs-skriv SharePoint-länkad lista|
+| WORKSHEET | Excel-arbetsbladstabell|
+| SHARE_POINT | Läs-skriv-länkad SharePoint-lista|
 | XML | XML-mappningstabell|
 | QUERY_TABLE | Frågetabell|
 
 
 
 ###  Se även
-* modul [aspose.cells.tables](..)
+* modul [`aspose.cells.tables`](..)

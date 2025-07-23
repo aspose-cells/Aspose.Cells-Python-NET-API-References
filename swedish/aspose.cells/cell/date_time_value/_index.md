@@ -3,13 +3,13 @@ title: date_time_value fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 440
+weight: 450
 url: /sv/aspose.cells/cell/date_time_value/
 is_root: false
 ---
 ##  date_time_value fastighet
 
-Hämtar värdet DateTime som finns i cellen.
+Hämtar DateTime-värdet som finns i cellen.
 ###  Definition:
 ```python
 @property

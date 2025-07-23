@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  horizontal_axis_date_range propiedad
 
-Representa el rango que contiene los valores de fecha para los datos del minigráfico.
+Representa el rango que contiene los valores de fecha para los datos del gráfico de minigráficos.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def horizontal_axis_date_range(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [SparklineGroup](/cells/python-net/es/aspose.cells.charts/sparklinegroup)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`SparklineGroup`](/cells/python-net/es/aspose.cells.charts/sparklinegroup)

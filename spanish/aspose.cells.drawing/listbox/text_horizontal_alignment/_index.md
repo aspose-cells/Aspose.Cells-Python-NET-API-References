@@ -3,7 +3,7 @@ title: text_horizontal_alignment propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1050
+weight: 1060
 url: /es/aspose.cells.drawing/listbox/text_horizontal_alignment/
 is_root: false
 ---

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_hf_diff_first propiedad
 
-Verdadero significa que el encabezado/pie de página de la primera página es diferente al de otras páginas.
+Verdadero significa que el encabezado/pie de página de la primera página es diferente al de las otras páginas.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_hf_diff_first(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PageSetup](/cells/python-net/es/aspose.cells/pagesetup)
+* módulo [`aspose.cells`](../../)
+* clase [`PageSetup`](/cells/python-net/es/aspose.cells/pagesetup)

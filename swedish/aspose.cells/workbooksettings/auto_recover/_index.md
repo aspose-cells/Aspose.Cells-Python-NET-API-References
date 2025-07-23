@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  auto_recover fastighet
 
-Indikerar om filen är markerad för automatisk återställning.
+Anger om filen är markerad för automatisk återställning.
 ###  Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 50
+weight: 60
 url: /sv/aspose.cells.vba/vbamodule/type/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.vba](../../)
-* klass [VbaModule](/cells/python-net/sv/aspose.cells.vba/vbamodule)
-* klass [VbaModuleType](/cells/python-net/sv/aspose.cells.vba/vbamoduletype)
+* modul [`aspose.cells.vba`](../../)
+* klass [`VbaModule`](/cells/python-net/sv/aspose.cells.vba/vbamodule)
+* klass [`VbaModuleType`](/cells/python-net/sv/aspose.cells.vba/vbamoduletype)

@@ -3,13 +3,13 @@ title: is_visible fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 630
+weight: 660
 url: /sv/aspose.cells/worksheet/is_visible/
 is_root: false
 ---
 ##  is_visible fastighet
 
-Representerar om arbetsbladet är synligt.
+Representerar om kalkylbladet är synligt.
 ###  Definition:
 ```python
 @property

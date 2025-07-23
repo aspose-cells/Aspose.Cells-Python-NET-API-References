@@ -8,8 +8,6 @@ url: /es/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/list_fill_
 is_root: false
 ---
 ##  list_fill_range propiedad
-
-Obtiene y establece el rango de relleno de la lista.
 ###  Definición:
 ```python
 @property
@@ -21,5 +19,5 @@ def list_fill_range(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [ScrollBarActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`ScrollBarActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

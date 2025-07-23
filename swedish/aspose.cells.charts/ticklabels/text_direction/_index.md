@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  text_direction fastighet
 
-Representerar textläsordning.
+Representerar textens läsordning.
 
 ###  Anmärkningar
 
- OBS: Denna medlem är nu föråldrad. Istället,
- använd TickLabels.ReadingOrder-egenskapen.
- Den här egenskapen kommer att tas bort 12 månader senare sedan mars 2020.
+ OBS! Denna medlem är nu föråldrad. Istället,
+ vänligen använd egenskapen TickLabels.ReadingOrder.
+Den här egenskapen kommer att tas bort 12 månader senare från och med mars 2020.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 ###  Definition:
 ```python

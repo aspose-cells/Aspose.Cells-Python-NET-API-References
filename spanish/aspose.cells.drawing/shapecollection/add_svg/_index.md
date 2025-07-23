@@ -1,14 +1,14 @@
 ---
-title: add_svg método
+title: método add_svg
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 300
+weight: 330
 url: /es/aspose.cells.drawing/shapecollection/add_svg/
 is_root: false
 ---
-##  add_svg(upper_left_row, top, upper_left_column, left, height, width, svg_data, compatible_image_data) {#int-int-int-int-int-int-bytes-bytes}
-Agrega imagen svg.
+##  add_svg(self, upper_left_row, top, upper_left_column, left, height, width, svg_data, compatible_image_data) {#int-int-int-int-int-int-bytes-bytes}
+Agrega imagen SVG.
 
 
 ###  Devoluciones
@@ -17,6 +17,7 @@ Agrega imagen svg.
 
 
 ```python
+
 def add_svg(self, upper_left_row, top, upper_left_column, left, height, width, svg_data, compatible_image_data):
     ...
 ```
@@ -25,18 +26,20 @@ def add_svg(self, upper_left_row, top, upper_left_column, left, height, width, s
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
 | upper_left_row | int | Índice de la fila superior izquierda.|
-| top | int | Representa el desplazamiento vertical de la forma desde su fila izquierda, en unidades de píxel.|
+| top | int | Representa el desplazamiento vertical de la forma desde su fila izquierda, en unidades de píxeles.|
 | upper_left_column | int | Índice de la columna superior izquierda.|
-| left | int | El desplazamiento horizontal de la forma desde su columna izquierda, en unidades de píxel.|
-| height | int | La altura de la forma, en unidades de píxel.|
-| width | int | El ancho de la forma, en unidades de píxel.|
-| svg_data | bytes | Los datos de la imagen svg.|
-| compatible_image_data | bytes |Datos de imagen convertidos de svg para que sean compatibles con Excel 2016 o versiones inferiores.|
+| left | int | El desplazamiento horizontal de la forma desde su columna izquierda, en unidades de píxeles.|
+| height | int | La altura de la forma, en unidades de píxeles.|
+| width | int | El ancho de la forma, en unidades de píxeles.|
+| svg_data | bytes | Los datos de la imagen SVG.|
+| compatible_image_data | bytes | Se convirtieron los datos de imagen de SVG para que sean compatibles con Excel 2016 o versiones anteriores.|
 
 ###  Ejemplo
 
 ```python
 from aspose import pycore
+import bytearray
+import int
 
 #  add a svg
 with open("image.svg", "rb") as fs:
@@ -50,5 +53,5 @@ with open("image.svg", "rb") as fs:
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ShapeCollection](/cells/python-net/es/aspose.cells.drawing/shapecollection)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ShapeCollection`](/cells/python-net/es/aspose.cells.drawing/shapecollection)

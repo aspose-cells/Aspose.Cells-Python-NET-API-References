@@ -3,13 +3,13 @@ title: float_value fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 480
+weight: 490
 url: /sv/aspose.cells/cell/float_value/
 is_root: false
 ---
 ##  float_value fastighet
 
-Hämtar flytvärdet som finns i cellen.
+Hämtar flyttalsvärdet i cellen.
 ###  Definition:
 ```python
 @property

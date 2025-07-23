@@ -21,6 +21,6 @@ def graphic_position_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.ods](../../)
-* clase [OdsPageBackground](/cells/python-net/es/aspose.cells.ods/odspagebackground)
-* clase [OdsPageBackgroundGraphicPositionType](/cells/python-net/es/aspose.cells.ods/odspagebackgroundgraphicpositiontype)
+* módulo [`aspose.cells.ods`](../../)
+* clase [`OdsPageBackground`](/cells/python-net/es/aspose.cells.ods/odspagebackground)
+* clase [`OdsPageBackgroundGraphicPositionType`](/cells/python-net/es/aspose.cells.ods/odspagebackgroundgraphicpositiontype)

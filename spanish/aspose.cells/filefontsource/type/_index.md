@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type propiedad
 
-Devuelve el type del origen de la fuente.
+Devuelve el type de la fuente fuente.
 ###  Definición:
 ```python
 @property
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FileFontSource](/cells/python-net/es/aspose.cells/filefontsource)
-* clase [FontSourceType](/cells/python-net/es/aspose.cells/fontsourcetype)
+* módulo [`aspose.cells`](../../)
+* clase [`FileFontSource`](/cells/python-net/es/aspose.cells/filefontsource)
+* clase [`FontSourceType`](/cells/python-net/es/aspose.cells/fontsourcetype)

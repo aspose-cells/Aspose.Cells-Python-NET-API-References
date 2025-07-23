@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_east_asian_line_break propiedad
 
-Especifica si una palabra de Asia oriental se puede dividir por la mitad y pasar a la siguiente línea sin agregar un guión.
+Especifica si una palabra del este asiático se puede dividir por la mitad y pasar a la siguiente línea sin necesidad de añadir un guion.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_east_asian_line_break(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](../../)
-* clase [TextParagraph](/cells/python-net/es/aspose.cells.drawing.texts/textparagraph)
+* módulo [`aspose.cells.drawing.texts`](../../)
+* clase [`TextParagraph`](/cells/python-net/es/aspose.cells.drawing.texts/textparagraph)

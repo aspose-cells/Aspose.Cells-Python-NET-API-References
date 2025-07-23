@@ -3,17 +3,17 @@ title: name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 80
+weight: 110
 url: /sv/aspose.cells.tables/listcolumn/name/
 is_root: false
 ---
 ##  name fastighet
 
-Hämtar och ställer in name för kolumnen.
+Hämtar och anger name för kolumnen.
 
 ###  Anmärkningar
 
-Om du ställer in name för kolumnen, ändras också cellens värde.
+Om värdet name anges för kolumnen, kommer även värdet i motsvarande cell att ändras.
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.tables](../../)
-* klass [ListColumn](/cells/python-net/sv/aspose.cells.tables/listcolumn)
+* modul [`aspose.cells.tables`](../../)
+* klass [`ListColumn`](/cells/python-net/sv/aspose.cells.tables/listcolumn)

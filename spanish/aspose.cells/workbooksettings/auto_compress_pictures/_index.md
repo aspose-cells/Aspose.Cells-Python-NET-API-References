@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  auto_compress_pictures propiedad
 
-Especifica un valor booleano que indica que la aplicación comprimió automáticamente las imágenes del libro.
+Especifica un valor booleano que indica que la aplicación comprimió automáticamente las imágenes en el libro.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def auto_compress_pictures(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [WorkbookSettings](/cells/python-net/es/aspose.cells/workbooksettings)
+* módulo [`aspose.cells`](../../)
+* clase [`WorkbookSettings`](/cells/python-net/es/aspose.cells/workbooksettings)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fill_forms_permission fastighet
 
- Anger om man ska tillåta att fylla i befintliga interaktiva formulärfält (inklusive signaturfält),
+ Anger om det ska vara tillåtet att fylla i befintliga interaktiva formulärfält (inklusive signaturfält),
 även om [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) är klart.
 ###  Definition:
 ```python

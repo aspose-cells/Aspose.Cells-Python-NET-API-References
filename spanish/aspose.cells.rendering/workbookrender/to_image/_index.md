@@ -7,12 +7,13 @@ weight: 50
 url: /es/aspose.cells.rendering/workbookrender/to_image/
 is_root: false
 ---
-##  to_image {#io.RawIOBase}
-Renderice todo el libro como imagen Tiff para transmitirlo.
+##  to_image(self, stream) {#io.RawIOBase}
+Representar todo el libro de trabajo como una imagen TIFF para transmitir.
 
 
 
 ```python
+
 def to_image(self, stream):
     ...
 ```
@@ -23,12 +24,13 @@ def to_image(self, stream):
 | stream | io.RawIOBase | el flujo de la imagen de salida|
 
 
-##  to_image {#str}
-Renderice todo el libro como imagen Tiff en un archivo.
+##  to_image(self, filename) {#str}
+Representar todo el libro de trabajo como una imagen Tiff en un archivo.
 
 
 
 ```python
+
 def to_image(self, filename):
     ...
 ```
@@ -36,15 +38,16 @@ def to_image(self, filename):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| filename | str | el nombre de archivo de la imagen de salida|
+| filename | str | el nombre del archivo de la imagen de salida|
 
 
-##  to_image {#int-str}
-Renderiza cierta página en un archivo.
+##  to_image(self, page_index, file_name) {#int-str}
+Representar determinada página en un archivo.
 
 
 
 ```python
+
 def to_image(self, page_index, file_name):
     ...
 ```
@@ -52,16 +55,17 @@ def to_image(self, page_index, file_name):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| page_index | int | indicar qué página se va a convertir|
+| page_index | int | Indica qué página se va a convertir|
 | file_name | str | nombre de archivo de la imagen de salida|
 
 
-##  to_image {#int-io.RawIOBase}
-Renderiza cierta página en una secuencia.
+##  to_image(self, page_index, stream) {#int-io.RawIOBase}
+Representar una página determinada en una secuencia.
 
 
 
 ```python
+
 def to_image(self, page_index, stream):
     ...
 ```
@@ -69,7 +73,7 @@ def to_image(self, page_index, stream):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| page_index | int | indicar qué página se va a convertir|
+| page_index | int | Indica qué página se va a convertir|
 | stream | io.RawIOBase | el flujo de la imagen de salida|
 
 

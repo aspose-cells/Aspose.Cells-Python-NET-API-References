@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value fastighet
 
-Hämtar objektets value.
+Hämtar value för artikeln.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.querytables](../../)
-* klass [PowerQueryFormulaItem](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaitem)
+* modul [`aspose.cells.querytables`](../../)
+* klass [`PowerQueryFormulaItem`](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaitem)

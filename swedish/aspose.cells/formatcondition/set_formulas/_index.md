@@ -7,12 +7,13 @@ weight: 60
 url: /sv/aspose.cells/formatcondition/set_formulas/
 is_root: false
 ---
-##  set_formulas(formula1, formula2, is_r1c1, is_local) {#str-str-bool-bool}
-Ställer in värdet eller uttrycket som är associerat med detta formatvillkor.
+##  set_formulas(self, formula1, formula2, is_r1c1, is_local) {#str-str-bool-bool}
+Anger värdet eller uttrycket som är associerat med detta formatvillkor.
 
 
 
 ```python
+
 def set_formulas(self, formula1, formula2, is_r1c1, is_local):
     ...
 ```
@@ -20,13 +21,13 @@ def set_formulas(self, formula1, formula2, is_r1c1, is_local):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| formula1 | str | Värdet eller uttrycket som är associerat med detta formatvillkor.<br/>Om inmatningsvärdet börjar med '=' kommer det att tas som formel. Annars kommer det att tas som vanligt värde (text, nummer, bool).<br/> För textvärde som börjar med '=' kan användaren mata in det som formel i formatet: "=\"=...\"".|
-| formula2 | str | Värdet eller uttrycket som är associerat med detta formatvillkor. Inmatningsformatet är detsamma som formel1|
-| is_r1c1 | bool | Om formeln är R1C1-formel.|
+| formula1 | str | Värdet eller uttrycket som är associerat med detta formatvillkor.<br/>Om inmatningsvärdet börjar med '=', tas det som formel. Annars tas det som ett vanligt värde (text, tal, bool).<br/> För textvärden som börjar med '=' kan användaren mata in det som en formel i formatet: "=\"=...\".|
+| formula2 | str | Värdet eller uttrycket som är associerat med detta formatvillkor. Inmatningsformatet är detsamma som i formel 1.|
+| is_r1c1 | bool | Om formeln är R1C1-formeln.|
 | is_local | bool | Om formeln är språkformaterad.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormatCondition](/cells/python-net/sv/aspose.cells/formatcondition)
+* modul [`aspose.cells`](../../)
+* klass [`FormatCondition`](/cells/python-net/sv/aspose.cells/formatcondition)

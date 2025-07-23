@@ -3,13 +3,13 @@ title: is_default_row_hidden fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1060
+weight: 1090
 url: /sv/aspose.cells/cells/is_default_row_hidden/
 is_root: false
 ---
 ##  is_default_row_hidden fastighet
 
-Indikerar om raden är dold som standard.
+Anger om raden är dold som standard.
 ###  Definition:
 ```python
 @property

@@ -8,8 +8,6 @@ url: /es/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_tran
 is_root: false
 ---
 ##  is_transparent propiedad
-
-Indica si el control es transparente.
 ###  Definición:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_transparent(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [ToggleButtonActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`ToggleButtonActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  apply_excel_default_style_to_hyperlink fastighet
 
-Anger om standardformatet för Excel tillämpas på hyperlänk.
+Anger om standardformatet för Excel ska tillämpas på hyperlänken.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def apply_excel_default_style_to_hyperlink(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [OdsLoadOptions](/cells/python-net/sv/aspose.cells/odsloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`OdsLoadOptions`](/cells/python-net/sv/aspose.cells/odsloadoptions)

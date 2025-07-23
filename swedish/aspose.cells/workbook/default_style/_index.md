@@ -3,13 +3,13 @@ title: default_style fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 550
+weight: 580
 url: /sv/aspose.cells/workbook/default_style/
 is_root: false
 ---
 ##  default_style fastighet
 
-Hämtar eller ställer in standardobjektet [`Style`](/cells/python-net/sv/aspose.cells/style) för arbetsboken.
+Hämtar eller ställer in standardobjektet [`Style`](/cells/python-net/sv/aspose.cells/style) i arbetsboken.
 
 ###  Anmärkningar
 

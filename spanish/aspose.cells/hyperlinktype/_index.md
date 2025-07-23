@@ -3,7 +3,7 @@ title: HyperlinkType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2260
+weight: 2220
 url: /es/aspose.cells/hyperlinktype/
 is_root: false
 ---
@@ -19,7 +19,7 @@ El tipo HyperlinkType expone los siguientes miembros:
 | :- | :- |
 | URL | URL |
 | FILE | Enlace a archivo externo.|
-| CELL | Vincula la celda del libro de trabajo.|
+| CELL | Vincular la celda del libro de trabajo.|
 | UNKNOWN | Tipo desconocido.|
 
 

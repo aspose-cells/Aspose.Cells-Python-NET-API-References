@@ -3,13 +3,13 @@ title: number_group_separator fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 350
+weight: 380
 url: /sv/aspose.cells/workbooksettings/number_group_separator/
 is_root: false
 ---
 ##  number_group_separator fastighet
 
-Hämtar eller ställer in tecknet som skiljer grupper av siffror till vänster om decimalen i numeriska värden. Standard är gruppseparatorn för aktuell region.
+Hämtar eller anger tecknet som separerar grupper av siffror till vänster om decimaltecknet i numeriska värden. Standard är gruppavgränsaren för aktuell region.
 ###  Definition:
 ```python
 @property

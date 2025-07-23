@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  store_type fastighet
 
-Hämtar och ställer in den typ av marknadsplats som butiksattributet identifierar.
+Hämtar och anger den typ av marknadsplats som attributet store identifierar.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def store_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.webextensions](../../)
-* klass [WebExtensionReference](/cells/python-net/sv/aspose.cells.webextensions/webextensionreference)
-* klass [WebExtensionStoreType](/cells/python-net/sv/aspose.cells.webextensions/webextensionstoretype)
+* modul [`aspose.cells.webextensions`](../../)
+* klass [`WebExtensionReference`](/cells/python-net/sv/aspose.cells.webextensions/webextensionreference)
+* klass [`WebExtensionStoreType`](/cells/python-net/sv/aspose.cells.webextensions/webextensionstoretype)

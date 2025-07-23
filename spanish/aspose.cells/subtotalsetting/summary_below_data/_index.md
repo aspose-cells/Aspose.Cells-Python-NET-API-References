@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  summary_below_data propiedad
 
-Indica si se agrega un resumen debajo de los datos.
+Indica si desea agregar un resumen debajo de los datos.
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def summary_below_data(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [SubtotalSetting](/cells/python-net/es/aspose.cells/subtotalsetting)
+* módulo [`aspose.cells`](../../)
+* clase [`SubtotalSetting`](/cells/python-net/es/aspose.cells/subtotalsetting)

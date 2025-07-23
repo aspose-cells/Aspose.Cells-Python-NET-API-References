@@ -3,7 +3,7 @@ title: display_as_icon fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 400
+weight: 410
 url: /sv/aspose.cells.drawing/picture/display_as_icon/
 is_root: false
 ---

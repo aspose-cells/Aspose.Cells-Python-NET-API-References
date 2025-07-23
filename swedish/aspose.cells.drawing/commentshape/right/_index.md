@@ -3,13 +3,13 @@ title: right fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 870
+weight: 880
 url: /sv/aspose.cells.drawing/commentshape/right/
 is_root: false
 ---
 ##  right fastighet
 
-Representerar bredden på formens horisontella förskjutning från dess nedre right hörnkolumn, i pixelenhet.
+Representerar bredden på formens horisontella förskjutning från dess nedre hörnkolumn right, i pixlar.
 
 ###  Exempel
 

@@ -3,13 +3,13 @@ title: is_group fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 570
+weight: 580
 url: /sv/aspose.cells.drawing/groupbox/is_group/
 is_root: false
 ---
 ##  is_group fastighet
 
-Anger om formen är en grupp.
+Anger om den här formen är en gruppform.
 
 ###  Exempel
 

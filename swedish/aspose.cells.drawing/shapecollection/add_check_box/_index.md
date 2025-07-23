@@ -7,7 +7,7 @@ weight: 70
 url: /sv/aspose.cells.drawing/shapecollection/add_check_box/
 is_root: false
 ---
-##  add_check_box(upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
+##  add_check_box(self, upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
 Lägger till en kryssruta i kalkylbladet.
 
 
@@ -17,6 +17,7 @@ Det nya CheckBox-objektindexet.
 
 
 ```python
+
 def add_check_box(self, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```
@@ -24,12 +25,12 @@ def add_check_box(self, upper_left_row, top, upper_left_column, left, height, wi
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| upper_left_row | int | Övre vänstra radens index.|
-| top | int |Representerar den vertikala förskjutningen av kryssrutan från dess vänstra rad, i pixelenhet.|
-| upper_left_column | int | Övre vänstra kolumnindex.|
+| upper_left_row | int | Index för övre vänstra raden.|
+| top | int | Representerar kryssrutans vertikala förskjutning från dess översta rad, i pixelenhet.|
+| upper_left_column | int | Index i övre vänstra kolumnen.|
 | left | int | Representerar den horisontella förskjutningen av textrutan från dess vänstra kolumn, i pixelenhet.|
 | height | int | Textrutans höjd, i pixelenhet.|
-| width | int | Textrutans bredd, i pixelenhet.|
+| width | int | Bredd på textruta, i pixlar.|
 
 ###  Exempel
 
@@ -43,5 +44,5 @@ checkBox = shapes.add_check_box(1, 0, 1, 0, 100, 50)
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShapeCollection](/cells/python-net/sv/aspose.cells.drawing/shapecollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShapeCollection`](/cells/python-net/sv/aspose.cells.drawing/shapecollection)

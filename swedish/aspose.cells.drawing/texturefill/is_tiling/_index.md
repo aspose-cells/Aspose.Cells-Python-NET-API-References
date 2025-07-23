@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_tiling fastighet
 
-Indikerar om kakelbild som struktur.
+Anger om kakelbilden har textur.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_tiling(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [TextureFill](/cells/python-net/sv/aspose.cells.drawing/texturefill)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`TextureFill`](/cells/python-net/sv/aspose.cells.drawing/texturefill)

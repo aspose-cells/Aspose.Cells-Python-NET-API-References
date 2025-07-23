@@ -21,5 +21,5 @@ def deleted(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.markup](../../)
-* clase [SmartTag](/cells/python-net/es/aspose.cells.markup/smarttag)
+* módulo [`aspose.cells.markup`](../../)
+* clase [`SmartTag`](/cells/python-net/es/aspose.cells.markup/smarttag)

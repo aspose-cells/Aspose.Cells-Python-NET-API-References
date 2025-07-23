@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_text_qualifier propiedad
 
-Si hay un calificador de texto para el valor de la celda. El valor predeterminado es verdadero.
+Si existe un calificador de texto para el valor de la celda. El valor predeterminado es verdadero.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def has_text_qualifier(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [TxtLoadOptions](/cells/python-net/es/aspose.cells/txtloadoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`TxtLoadOptions`](/cells/python-net/es/aspose.cells/txtloadoptions)

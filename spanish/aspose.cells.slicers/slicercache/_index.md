@@ -8,7 +8,7 @@ url: /es/aspose.cells.slicers/slicercache/
 is_root: false
 ---
 ##  SlicerCache clase
-descripción resumida de la caché de la segmentación
+Representa una descripción resumida de la caché de segmentación
 
 
 
@@ -17,11 +17,11 @@ El tipo SlicerCache expone los siguientes miembros:
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [cross_filter_type](/cells/python-net/es/aspose.cells.slicers/slicercache/cross_filter_type) | Devuelve o establece si una segmentación participa en el filtrado cruzado con otras segmentaciones<br/> que comparten la misma caché de segmentación y cómo se muestra el filtrado cruzado. Leer escribir|
-| [list](/cells/python-net/es/aspose.cells.slicers/slicercache/list) | Devuelve si la segmentación asociada con la caché de segmentación especificada se basa en un origen de datos no OLAP. Solo lectura|
-| [slicer_cache_items](/cells/python-net/es/aspose.cells.slicers/slicercache/slicer_cache_items) | Devuelve una colección SlicerCacheItem que contiene la colección de todos los elementos en la memoria caché de la segmentación. Solo lectura|
-| [name](/cells/python-net/es/aspose.cells.slicers/slicercache/name) | Devuelve el nombre de la caché de segmentación.|
-| [source_name](/cells/python-net/es/aspose.cells.slicers/slicercache/source_name) | Devuelve el nombre del campo de caché|
+| [cross_filter_type](/cells/python-net/es/aspose.cells.slicers/slicercache/cross_filter_type) | Devuelve o establece si una segmentación de datos participa en el filtrado cruzado con otras segmentaciones de datos.<br/> que comparten la misma caché de segmentación y cómo se muestra el filtrado cruzado. Lectura/escritura|
+| [list](/cells/python-net/es/aspose.cells.slicers/slicercache/list) | Devuelve si la segmentación de datos asociada a la caché de segmentación de datos especificada se basa en una fuente de datos no OLAP. Solo lectura.|
+| [slicer_cache_items](/cells/python-net/es/aspose.cells.slicers/slicercache/slicer_cache_items) | Devuelve una colección SlicerCacheItem que contiene todos los elementos de la caché de segmentación. Solo lectura.|
+| [name](/cells/python-net/es/aspose.cells.slicers/slicercache/name) | Devuelve el nombre de la caché de segmentación de datos.|
+| [source_name](/cells/python-net/es/aspose.cells.slicers/slicercache/source_name) | Devuelve el nombre de esta caché de segmentación.|
 
 
 
@@ -83,4 +83,4 @@ book.save("out.xlsx")
 ```
 
 ###  Ver también
-* módulo [aspose.cells.slicers](..)
+* módulo [`aspose.cells.slicers`](..)

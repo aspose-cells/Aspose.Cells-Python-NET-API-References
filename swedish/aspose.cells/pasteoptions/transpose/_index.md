@@ -3,13 +3,13 @@ title: transpose fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 70
+weight: 80
 url: /sv/aspose.cells/pasteoptions/transpose/
 is_root: false
 ---
 ##  transpose fastighet
 
-Sant till transpose rader och kolumner när intervallet klistras in. Standardvärdet är False.
+Sant för transpose rader och kolumner när intervallet klistras in. Standardvärdet är Falskt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def transpose(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PasteOptions](/cells/python-net/sv/aspose.cells/pasteoptions)
+* modul [`aspose.cells`](../../)
+* klass [`PasteOptions`](/cells/python-net/sv/aspose.cells/pasteoptions)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value propiedad
 
-Devuelve el texto de la etiqueta del elemento de segmentación. Solo lectura.
+Devuelve el texto de la etiqueta del elemento de segmentación de datos. Solo lectura.
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def value(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.slicers](../../)
-* clase [SlicerCacheItem](/cells/python-net/es/aspose.cells.slicers/slicercacheitem)
+* módulo [`aspose.cells.slicers`](../../)
+* clase [`SlicerCacheItem`](/cells/python-net/es/aspose.cells.slicers/slicercacheitem)

@@ -7,7 +7,7 @@ weight: 160
 url: /es/aspose.cells/globalizationsettings/get_pivot_total_name/
 is_root: false
 ---
-##  get_pivot_total_name {#}
+##  get_pivot_total_name(self) {#}
 Obtiene el nombre de la etiqueta "Total" en la tabla dinámica.
 Debe anular este método cuando la tabla dinámica contiene dos o más campos dinámicos en el área de datos.
 
@@ -18,6 +18,7 @@ El nombre de la etiqueta "Total"
 
 
 ```python
+
 def get_pivot_total_name(self):
     ...
 ```
@@ -25,10 +26,10 @@ def get_pivot_total_name(self):
 
 ###  Observaciones
 
-NOTA: Este miembro ahora está obsoleto. En cambio,
-utilice el método PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
+NOTA: Este miembro ya no está disponible. En su lugar,
+Utilice el método PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
  Esta propiedad será eliminada 12 meses después desde diciembre de 2022.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 
 
 ###  Ver también

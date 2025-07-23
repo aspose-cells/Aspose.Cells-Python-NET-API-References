@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  paths propiedad
 
-Obtiene información de recopilación de ruta cuando la forma es una forma automática NotPrimitive
+Obtiene información de recopilación de rutas cuando la forma es una autoforma NotPrimitive
 ###  Definición:
 ```python
 @property
@@ -18,6 +18,6 @@ def paths(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [CustomGeometry](/cells/python-net/es/aspose.cells.drawing/customgeometry)
-* clase [ShapePathCollection](/cells/python-net/es/aspose.cells.drawing/shapepathcollection)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`CustomGeometry`](/cells/python-net/es/aspose.cells.drawing/customgeometry)
+* clase [`ShapePathCollection`](/cells/python-net/es/aspose.cells.drawing/shapepathcollection)

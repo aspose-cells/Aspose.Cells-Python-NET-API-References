@@ -22,9 +22,9 @@ El tipo WebExtension expone los siguientes miembros:
 | [reference](/cells/python-net/es/aspose.cells.webextensions/webextension/reference) | Obtenga la referencia principal a un complemento de Office.|
 | [alter_references](/cells/python-net/es/aspose.cells.webextensions/webextension/alter_references) | Obtiene una lista de referencias alteradas.|
 | [properties](/cells/python-net/es/aspose.cells.webextensions/webextension/properties) | Obtiene todas las propiedades de la extensión web.|
-| [bindings](/cells/python-net/es/aspose.cells.webextensions/webextension/bindings) |Obtiene todas las relaciones de enlace entre un complemento de Office y los datos del documento.|
+| [bindings](/cells/python-net/es/aspose.cells.webextensions/webextension/bindings) | Obtiene todas las relaciones de enlaces entre un complemento de Office y los datos del documento.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.webextensions](..)
+* módulo [`aspose.cells.webextensions`](..)

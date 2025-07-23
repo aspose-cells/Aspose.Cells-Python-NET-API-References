@@ -3,17 +3,17 @@ title: is_font_substitution_char_granularity fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 170
+weight: 180
 url: /sv/aspose.cells.rendering/imageorprintoptions/is_font_substitution_char_granularity/
 is_root: false
 ---
 ##  is_font_substitution_char_granularity fastighet
 
-Indikerar om teckensnittet endast ska bytas ut när cellteckensnittet inte är kompatibelt med det.
+Anger om tecknets teckensnitt endast ska ersättas när cellteckensnittet inte är kompatibelt med det.
 
 ###  Anmärkningar
 
-Standard är falskt. Vi kommer att prova standardteckensnittet för Workbook och PdfSaveOption/system för cellteckensnitt först.
+Standardvärdet är falskt. Vi kommer att prova standardteckensnittet för arbetsboken och PdfSaveOption/system för cellteckensnitt först.
 ###  Definition:
 ```python
 @property

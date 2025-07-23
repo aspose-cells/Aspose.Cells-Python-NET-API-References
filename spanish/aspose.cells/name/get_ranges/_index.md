@@ -1,5 +1,5 @@
 ---
-title: get_ranges método
+title: método get_ranges
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 30
 url: /es/aspose.cells/name/get_ranges/
 is_root: false
 ---
-##  get_ranges() {#}
-Obtiene todos los intervalos a los que hace referencia este nombre.
+##  get_ranges(self) {#}
+Obtiene todos los rangos a los que hace referencia este nombre.
 
 
 ###  Devoluciones
 
-Todos los rangos.
+Todas las gamas.
 
 
 ```python
+
 def get_ranges(self):
     ...
 ```
@@ -24,16 +25,17 @@ def get_ranges(self):
 
 
 
-##  get_ranges(recalculate) {#bool}
-Obtiene todos los intervalos a los que hace referencia este nombre.
+##  get_ranges(self, recalculate) {#bool}
+Obtiene todos los rangos a los que hace referencia este nombre.
 
 
 ###  Devoluciones
 
-Todos los rangos.
+Todas las gamas.
 
 
 ```python
+
 def get_ranges(self, recalculate):
     ...
 ```
@@ -46,5 +48,5 @@ def get_ranges(self, recalculate):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Name](/cells/python-net/es/aspose.cells/name)
+* módulo [`aspose.cells`](../../)
+* clase [`Name`](/cells/python-net/es/aspose.cells/name)

@@ -3,7 +3,7 @@ title: company propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 140
+weight: 150
 url: /es/aspose.cells.properties/builtindocumentpropertycollection/company/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def company(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.properties](../../)
-* clase [BuiltInDocumentPropertyCollection](/cells/python-net/es/aspose.cells.properties/builtindocumentpropertycollection)
+* módulo [`aspose.cells.properties`](../../)
+* clase [`BuiltInDocumentPropertyCollection`](/cells/python-net/es/aspose.cells.properties/builtindocumentpropertycollection)

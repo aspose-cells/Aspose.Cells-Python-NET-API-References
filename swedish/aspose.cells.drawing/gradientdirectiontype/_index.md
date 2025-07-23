@@ -3,12 +3,12 @@ title: GradientDirectionType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 860
+weight: 850
 url: /sv/aspose.cells.drawing/gradientdirectiontype/
 is_root: false
 ---
 ##  GradientDirectionType uppräkning
-Representerar gradient i alla riktningar.
+Representerar alla riktningstyper av gradienter.
 
 
 
@@ -18,13 +18,13 @@ Typen GradientDirectionType avslöjar följande medlemmar:
 | Fält| Beskrivning|
 | :- | :- |
 | FROM_UPPER_LEFT_CORNER | Från övre vänstra hörnet|
-| FROM_UPPER_RIGHT_CORNER | Från Upper Right Corner|
-| FROM_LOWER_LEFT_CORNER | Från Nedre vänstra hörnet|
-| FROM_LOWER_RIGHT_CORNER | Från Nedre HögerHörn|
-| FROM_CENTER | Från Center|
+| FROM_UPPER_RIGHT_CORNER | FrånÖvreHögraHörnet|
+| FROM_LOWER_LEFT_CORNER | FrånNedreVänstraHörnet|
+| FROM_LOWER_RIGHT_CORNER | FrånNedreHögraHörnet|
+| FROM_CENTER | FrånCentrum|
 | UNKNOWN | Okänd|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

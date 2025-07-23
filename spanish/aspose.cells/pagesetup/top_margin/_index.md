@@ -21,5 +21,5 @@ def top_margin(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PageSetup](/cells/python-net/es/aspose.cells/pagesetup)
+* módulo [`aspose.cells`](../../)
+* clase [`PageSetup`](/cells/python-net/es/aspose.cells/pagesetup)

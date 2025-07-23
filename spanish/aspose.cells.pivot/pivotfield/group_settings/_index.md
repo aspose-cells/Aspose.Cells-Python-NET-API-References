@@ -3,13 +3,13 @@ title: group_settings propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 340
+weight: 420
 url: /es/aspose.cells.pivot/pivotfield/group_settings/
 is_root: false
 ---
 ##  group_settings propiedad
 
-Obtiene la configuración de grupo del campo dinámico.
+Obtiene la configuración del grupo del campo pivote.
 
 ###  Observaciones
 

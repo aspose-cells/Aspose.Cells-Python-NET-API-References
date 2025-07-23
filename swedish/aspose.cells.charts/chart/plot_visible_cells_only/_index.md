@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_visible_cells_only fastighet
 
-Anger om endast synliga celler plottas.
+Anger om endast synliga celler ska ritas.
 ###  Definition:
 ```python
 @property

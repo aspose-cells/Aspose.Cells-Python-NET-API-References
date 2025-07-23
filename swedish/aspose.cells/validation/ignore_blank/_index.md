@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  ignore_blank fastighet
 
-Indikerar om tomma värden är tillåtna av intervalldatavalideringen.
+Anger om tomma värden är tillåtna enligt valideringen av intervalldata.
 ###  Definition:
 ```python
 @property

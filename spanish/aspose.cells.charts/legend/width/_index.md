@@ -3,7 +3,7 @@ title: width propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 410
+weight: 470
 url: /es/aspose.cells.charts/legend/width/
 is_root: false
 ---
@@ -14,7 +14,7 @@ Obtiene o establece el width del marco en unidades de 1/4000 del área del gráf
 ###  Observaciones
 
  ¿Cómo convertir unidades de 1/4000 a píxeles?
-Ancho en píxeles = Ancho * Chart.ChartObject.Height / 4000;
+Ancho en píxeles = Ancho * Chart.ChartObject.Height / 4000d;
 ###  Definición:
 ```python
 @property

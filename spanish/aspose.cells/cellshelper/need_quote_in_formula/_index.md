@@ -3,11 +3,11 @@ title: método need_quote_in_formula
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 170
+weight: 180
 url: /es/aspose.cells/cellshelper/need_quote_in_formula/
 is_root: false
 ---
-##  need_quote_in_formula {#str}
+##  need_quote_in_formula(, nombre_de_hoja){#str}
 Indica si el nombre de la hoja debe estar entre comillas simples.
 
 
@@ -17,14 +17,16 @@ Indica si el nombre de la hoja debe estar entre comillas simples.
 
 
 ```python
-def need_quote_in_formula(self, sheet_name):
+
+@staticmethod
+def need_quote_in_formula(sheet_name):
     ...
 ```
 
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| sheet_name | str | El nombre de la hoja.|
+| sheet_name | str | El nombre de la hoja|
 
 
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  markers_color fastighet
 
-Hämtar och ställer in färgen på punkterna i varje linje sparkline i sparklinegruppen.
+Hämtar och anger färgen på punkterna i varje linje-sparkline i sparkline-gruppen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def markers_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [CellsColor](/cells/python-net/sv/aspose.cells/cellscolor)
-* klass [SparklineGroup](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)
+* modul [`aspose.cells.charts`](../../)
+* klass [`CellsColor`](/cells/python-net/sv/aspose.cells/cellscolor)
+* klass [`SparklineGroup`](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)

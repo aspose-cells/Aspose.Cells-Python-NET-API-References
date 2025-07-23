@@ -3,13 +3,13 @@ title: is_plot_order_reversed fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 250
+weight: 260
 url: /sv/aspose.cells.charts/axis/is_plot_order_reversed/
 is_root: false
 ---
 ##  is_plot_order_reversed fastighet
 
-Representerar om Microsoft Excel plottar datapunkter från sist till första.
+Representerar om Microsoft Excel plottar datapunkter från sista till första.
 ###  Definition:
 ```python
 @property

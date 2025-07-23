@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  last_selected propiedad
 
-Indica qué escenario fue seleccionado por última vez por el usuario para ejecutar/mostrar.
+Indica qué escenario fue seleccionado por última vez por el usuario para ejecutarse/mostrarse.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def last_selected(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ScenarioCollection](/cells/python-net/es/aspose.cells/scenariocollection)
+* módulo [`aspose.cells`](../../)
+* clase [`ScenarioCollection`](/cells/python-net/es/aspose.cells/scenariocollection)

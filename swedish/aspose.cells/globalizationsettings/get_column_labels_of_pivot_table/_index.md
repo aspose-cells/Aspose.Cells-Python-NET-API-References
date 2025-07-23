@@ -7,16 +7,17 @@ weight: 50
 url: /sv/aspose.cells/globalizationsettings/get_column_labels_of_pivot_table/
 is_root: false
 ---
-##  get_column_labels_of_pivot_table() {#}
+##  get_column_labels_of_pivot_table(self) {#}
 Hämtar namnet på etiketten "Kolumnetiketter" i pivottabellen.
 
 
 ###  Returnerar
 
-Namnet på kolumnetiketter
+Namnen på kolumnetiketter
 
 
 ```python
+
 def get_column_labels_of_pivot_table(self):
     ...
 ```
@@ -24,12 +25,12 @@ def get_column_labels_of_pivot_table(self):
 
 ###  Anmärkningar
 
-OBS: Denna medlem är nu föråldrad. Istället,
-använd metoden GlobalizationSettings.GetColumnLabelsOfPivotTable().
- Den här egenskapen kommer att tas bort 12 månader senare sedan december 2022.
+OBS! Denna medlem är nu föråldrad. Istället,
+Använd metoden PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
+ Den här egenskapen kommer att tas bort 12 månader senare från och med december 2022.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [GlobalizationSettings](/cells/python-net/sv/aspose.cells/globalizationsettings)
+* modul [`aspose.cells`](../../)
+* klass [`GlobalizationSettings`](/cells/python-net/sv/aspose.cells/globalizationsettings)

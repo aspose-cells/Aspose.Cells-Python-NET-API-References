@@ -18,6 +18,6 @@ def font(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [Font](/cells/python-net/sv/aspose.cells/font)
-* klass [TextParagraph](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`Font`](/cells/python-net/sv/aspose.cells/font)
+* klass [`TextParagraph`](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)

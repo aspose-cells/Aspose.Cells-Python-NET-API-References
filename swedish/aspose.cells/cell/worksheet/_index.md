@@ -3,13 +3,13 @@ title: worksheet fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 750
+weight: 780
 url: /sv/aspose.cells/cell/worksheet/
 is_root: false
 ---
 ##  worksheet fastighet
 
-Får föräldern worksheet.
+Hämtar föräldern worksheet.
 ###  Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: max_data_column fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1090
+weight: 1120
 url: /sv/aspose.cells/cells/max_data_column/
 is_root: false
 ---
@@ -13,9 +13,10 @@ Maximalt kolumnindex för cell som innehåller data.
 
 ###  Anmärkningar
 
--1 kommer att returneras om det inte finns någon cell som innehåller data.
-Den här egenskapen måste iterera och kontrollera alla celler i ett kalkylblad,
-så det är ett tidskrävande framsteg och bör inte anropas upprepade gånger.
+-1 returneras om det inte finns någon cell som innehåller data.
+Den här egenskapen behöver iterera och kontrollera alla celler i ett kalkylblad dynamiskt,
+så det är ett tidskrävande steg och bör inte åberopas upprepade gånger,
+som att använda det direkt som ett villkor i en loop.
 ###  Definition:
 ```python
 @property

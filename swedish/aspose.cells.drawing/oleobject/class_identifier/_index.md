@@ -3,13 +3,13 @@ title: class_identifier fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 360
+weight: 370
 url: /sv/aspose.cells.drawing/oleobject/class_identifier/
 is_root: false
 ---
 ##  class_identifier fastighet
 
- Hämtar och ställer in klassidentifieraren för det inbäddade objektet.
+ Hämtar och anger klassidentifieraren för det inbäddade objektet.
 Det betyder vilket program som öppnar den inbäddade filen.
 ###  Definition:
 ```python

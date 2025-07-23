@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color1 propiedad
 
-Obtiene y establece el primer color de degradado.
+Obtiene y establece el primer color degradado.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def color1(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [TwoColorGradient](/cells/python-net/es/aspose.cells/twocolorgradient)
+* módulo [`aspose.cells`](../../)
+* clase [`TwoColorGradient`](/cells/python-net/es/aspose.cells/twocolorgradient)

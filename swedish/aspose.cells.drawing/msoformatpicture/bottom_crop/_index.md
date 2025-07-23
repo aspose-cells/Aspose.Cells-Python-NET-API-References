@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom_crop fastighet
 
-Representerar platsen för botten av beskärningsrektangeln uttryckt, uttryckt som förhållandet mellan bildens höjd.
+Representerar platsen för den nedre delen av beskärningsrektangeln uttryckt som ett förhållande till bildens höjd.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def bottom_crop(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [MsoFormatPicture](/cells/python-net/sv/aspose.cells.drawing/msoformatpicture)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`MsoFormatPicture`](/cells/python-net/sv/aspose.cells.drawing/msoformatpicture)

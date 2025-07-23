@@ -3,19 +3,19 @@ title: text_direction fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 460
+weight: 530
 url: /sv/aspose.cells.charts/datalabels/text_direction/
 is_root: false
 ---
 ##  text_direction fastighet
 
-Representerar textläsordning.
+Representerar textens läsordning.
 
 ###  Anmärkningar
 
- OBS: Denna medlem är nu föråldrad. Istället,
- använd egenskapen ChartTextFrame.ReadingOrder.
- Den här egenskapen kommer att tas bort 12 månader senare sedan mars 2020.
+ OBS! Denna medlem är nu föråldrad. Istället,
+ Använd egenskapen ChartTextFrame.ReadingOrder.
+Den här egenskapen kommer att tas bort 12 månader senare från och med mars 2020.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 ###  Definition:
 ```python

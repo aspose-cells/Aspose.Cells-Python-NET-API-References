@@ -7,12 +7,13 @@ weight: 60
 url: /sv/aspose.cells/individualfontconfigs/set_font_sources/
 is_root: false
 ---
-##  set_font_sources(sources) {#list}
-Ställer in teckensnittskällorna.
+##  set_font_sources(self, sources) {#list}
+
 
 
 
 ```python
+
 def set_font_sources(self, sources):
     ...
 ```
@@ -20,10 +21,10 @@ def set_font_sources(self, sources):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| sources | list | En mängd källor som innehåller TrueType-teckensnitt.|
+| sources | list |  |
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [IndividualFontConfigs](/cells/python-net/sv/aspose.cells/individualfontconfigs)
+* modul [`aspose.cells`](../../)
+* klass [`IndividualFontConfigs`](/cells/python-net/sv/aspose.cells/individualfontconfigs)

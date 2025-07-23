@@ -8,8 +8,6 @@ url: /es/aspose.cells.drawing/customgeometry/shape_adjust_values/
 is_root: false
 ---
 ##  shape_adjust_values propiedad
-
-Obtiene una colección de valor de ajuste de forma
 ###  Definición:
 ```python
 @property
@@ -18,6 +16,6 @@ def shape_adjust_values(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [CustomGeometry](/cells/python-net/es/aspose.cells.drawing/customgeometry)
-* clase [ShapeGuideCollection](/cells/python-net/es/aspose.cells.drawing/shapeguidecollection)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`CustomGeometry`](/cells/python-net/es/aspose.cells.drawing/customgeometry)
+* clase [`ShapeGuideCollection`](/cells/python-net/es/aspose.cells.drawing/shapeguidecollection)

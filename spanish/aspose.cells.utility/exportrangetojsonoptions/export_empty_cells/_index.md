@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  export_empty_cells propiedad
 
-Indica si exportar celdas vacías como nulas.
+Indica si se exportan celdas vacías como nulas.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def export_empty_cells(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.utility](../../)
-* clase [ExportRangeToJsonOptions](/cells/python-net/es/aspose.cells.utility/exportrangetojsonoptions)
+* módulo [`aspose.cells.utility`](../../)
+* clase [`ExportRangeToJsonOptions`](/cells/python-net/es/aspose.cells.utility/exportrangetojsonoptions)

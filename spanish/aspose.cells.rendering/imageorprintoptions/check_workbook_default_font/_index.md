@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  check_workbook_default_font propiedad
 
-Cuando los caracteres en Excel son Unicode y no se configuran con la fuente correcta en el estilo de celda,
-Pueden aparecer como bloque en pdf, imagen.
-Establezca esto en verdadero para intentar usar la fuente predeterminada del libro de trabajo para mostrar estos caracteres primero.
+Cuando los caracteres en Excel son Unicode y no están configurados con la fuente correcta en el estilo de celda,
+Pueden aparecer como bloques en formato PDF o imagen.
+Establezca esto como verdadero para intentar usar la fuente predeterminada del libro de trabajo para mostrar estos caracteres primero.
 
 ###  Observaciones
 
@@ -27,5 +27,5 @@ def check_workbook_default_font(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.rendering](../../)
-* clase [ImageOrPrintOptions](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions)
+* módulo [`aspose.cells.rendering`](../../)
+* clase [`ImageOrPrintOptions`](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions)

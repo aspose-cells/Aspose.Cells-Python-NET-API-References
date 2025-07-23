@@ -3,15 +3,15 @@ title: export_area fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 170
+weight: 240
 url: /sv/aspose.cells.saving/ebooksaveoptions/export_area/
 is_root: false
 ---
 ##  export_area fastighet
 
-Hämtar eller ställer in den exporterande CellArea för det aktuella aktiva arbetsbladet.
-Om du ställer in det här attributet kommer utskriftsområdet för det aktuella aktiva arbetsbladet att utelämnas.
-Endast det angivna området kommer att exporteras när filen sparas till html.
+Hämtar eller anger det exporterande cellområdet för det aktuella aktiva kalkylbladet.
+Om du anger det här attributet kommer utskriftsområdet för det aktuella aktiva arbetsbladet att utelämnas.
+Endast det angivna området exporteras när filen sparas till html.
 ###  Definition:
 ```python
 @property

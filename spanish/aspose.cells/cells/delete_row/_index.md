@@ -7,12 +7,13 @@ weight: 250
 url: /es/aspose.cells/cells/delete_row/
 is_root: false
 ---
-##  delete_row {#int}
+##  delete_row(self, row_index) {#int}
 Elimina una fila.
 
 
 
 ```python
+
 def delete_row(self, row_index):
     ...
 ```
@@ -20,15 +21,16 @@ def delete_row(self, row_index):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| row_index | int | Índice de la fila que se va a eliminar.|
+| row_index | int | Índice de la fila a eliminar.|
 
 
-##  delete_row {#int-bool}
+##  delete_row(self, row_index, update_reference) {#int-bool}
 Elimina una fila.
 
 
 
 ```python
+
 def delete_row(self, row_index, update_reference):
     ...
 ```
@@ -36,8 +38,8 @@ def delete_row(self, row_index, update_reference):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| row_index | int | Índice de la fila que se va a eliminar.|
-| update_reference | bool | Indica si se actualizan las referencias en otras hojas de trabajo.|
+| row_index | int | Índice de la fila a eliminar.|
+| update_reference | bool | Indica si se deben actualizar referencias en otras hojas de trabajo.|
 
 
 

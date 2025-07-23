@@ -8,7 +8,7 @@ url: /es/aspose.cells.charts/quartilecalculationtype/
 is_root: false
 ---
 ##  QuartileCalculationType enumeración
-Representa los métodos de cálculo del cuartil.
+Representa métodos de cálculo de cuartiles.
 
 
 
@@ -23,4 +23,4 @@ El tipo QuartileCalculationType expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](..)
+* módulo [`aspose.cells.charts`](..)

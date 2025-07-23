@@ -12,8 +12,7 @@ Representerar en revisionspost med information om en formateringsändring.
 
 
 
-**Arv:** [RevisionFormat](/cells/python-net/aspose.cells.revisions/revisionformat) → 
-[Revision](/cells/python-net/sv/aspose.cells.revisions/revision)
+**Arv:** [`RevisionFormat`](/cells/python-net/sv/aspose.cells.revisions/revisionformat)
 
 
 
@@ -22,15 +21,14 @@ Typen RevisionFormat avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [type](/cells/python-net/sv/aspose.cells.revisions/revisionformat/type) | Får typ av revision.|
-| [worksheet](/cells/python-net/sv/aspose.cells.revisions/revisionformat/worksheet) | Får arbetsbladet.|
-| [id](/cells/python-net/sv/aspose.cells.revisions/revisionformat/id) | Får numret på denna revision.|
-| [areas](/cells/python-net/sv/aspose.cells.revisions/revisionformat/areas) | Det intervall som denna formatering tillämpades på.|
-| [style](/cells/python-net/sv/aspose.cells.revisions/revisionformat/style) | Får den tillämpade stilen.|
+| [type](/cells/python-net/sv/aspose.cells.revisions/revisionformat/type) | Hämtar typen av revision.|
+| [worksheet](/cells/python-net/sv/aspose.cells.revisions/revisionformat/worksheet) |  |
+| [id](/cells/python-net/sv/aspose.cells.revisions/revisionformat/id) |  |
+| [areas](/cells/python-net/sv/aspose.cells.revisions/revisionformat/areas) | Det område som denna formatering tillämpades på.|
+| [style](/cells/python-net/sv/aspose.cells.revisions/revisionformat/style) | Hämtar den tillämpade stilen.|
 
 
 
 ###  Se även
-* modul [aspose.cells.revisions](..)
-* klass [Revision](/cells/python-net/sv/aspose.cells.revisions/revision)
-* klass [RevisionFormat](/cells/python-net/sv/aspose.cells.revisions/revisionformat)
+* modul [`aspose.cells.revisions`](..)
+* klass [`RevisionFormat`](/cells/python-net/sv/aspose.cells.revisions/revisionformat)

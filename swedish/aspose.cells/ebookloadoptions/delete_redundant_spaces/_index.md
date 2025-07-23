@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  delete_redundant_spaces fastighet
 
-Anger om redundanta blanksteg ska raderas när texten radbryts med `<br>`-taggen.
+Anger om redundanta mellanslag ska tas bort när texten radbryts med taggen `<br>`.
 Standardvärdet är falskt.
 ###  Definition:
 ```python

@@ -8,8 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_auto
 is_root: false
 ---
 ##  is_auto_size fastighet
-
-Indikerar om kontrollen automatiskt kommer att ändra storlek för att visa hela innehållet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_auto_size(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ToggleButtonActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ToggleButtonActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

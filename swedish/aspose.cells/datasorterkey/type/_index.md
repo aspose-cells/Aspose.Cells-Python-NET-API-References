@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type fastighet
 
-Representerar type för sortering.
+Representerar sorteringens type.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DataSorterKey](/cells/python-net/sv/aspose.cells/datasorterkey)
-* klass [SortOnType](/cells/python-net/sv/aspose.cells/sortontype)
+* modul [`aspose.cells`](../../)
+* klass [`DataSorterKey`](/cells/python-net/sv/aspose.cells/datasorterkey)
+* klass [`SortOnType`](/cells/python-net/sv/aspose.cells/sortontype)

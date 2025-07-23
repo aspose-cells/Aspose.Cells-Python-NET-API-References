@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_latin_line_break fastighet
 
-Anger om ett latinskt ord kan delas på mitten och slås in på nästa rad utan att ett bindestreck läggs till.
+Anger om ett latinskt ord kan delas på mitten och radbrytas till nästa rad utan att ett bindestreck läggs till.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_latin_line_break(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [TextParagraph](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`TextParagraph`](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)

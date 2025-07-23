@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells/pasteoptions/__init__/
 is_root: false
 ---
-##  PasteOptions() {#}
+##  \_\_init\_\_(själv){#}
 Konstruerar en ny instans av PasteOptions
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PasteOptions](/cells/python-net/sv/aspose.cells/pasteoptions)
+* modul [`aspose.cells`](../../)
+* klass [`PasteOptions`](/cells/python-net/sv/aspose.cells/pasteoptions)

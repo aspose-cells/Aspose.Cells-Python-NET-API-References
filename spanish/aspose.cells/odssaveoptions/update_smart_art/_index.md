@@ -3,7 +3,7 @@ title: update_smart_art propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 140
+weight: 170
 url: /es/aspose.cells/odssaveoptions/update_smart_art/
 is_root: false
 ---
@@ -14,7 +14,7 @@ El valor predeterminado es falso.
 
 ###  Observaciones
 
-Solo los efectos después de llamar al método Shape.GetResultOfSmartArt() y las formas almacenadas en caché existen en el archivo de plantilla.
+Solo los efectos ocurren después de llamar al método Shape.GetResultOfSmartArt() y las formas almacenadas en caché existen en el archivo de plantilla.
 ###  Definición:
 ```python
 @property

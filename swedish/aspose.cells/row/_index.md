@@ -3,7 +3,7 @@ title: Row klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1340
+weight: 1230
 url: /sv/aspose.cells/row/
 is_root: false
 ---
@@ -18,38 +18,38 @@ Typen Row avslöjar följande medlemmar:
 | Fast egendom| Beskrivning|
 | :- | :- |
 | [is_blank](/cells/python-net/sv/aspose.cells/row/is_blank) | Anger om raden innehåller data|
-| [is_collapsed](/cells/python-net/sv/aspose.cells/row/is_collapsed) | om raden är kollapsad|
-| [height](/cells/python-net/sv/aspose.cells/row/height) | Hämtar och ställer in radhöjden i poängenhet.|
-| [is_hidden](/cells/python-net/sv/aspose.cells/row/is_hidden) | Indikerar om raden är dold.|
+| [is_collapsed](/cells/python-net/sv/aspose.cells/row/is_collapsed) | om raden är hopfälld|
+| [height](/cells/python-net/sv/aspose.cells/row/height) | Hämtar och ställer in radhöjden i enheten punkter.|
+| [is_hidden](/cells/python-net/sv/aspose.cells/row/is_hidden) | Anger om raden är dold.|
 | [index](/cells/python-net/sv/aspose.cells/row/index) | Hämtar indexet för den här raden.|
-| [group_level](/cells/python-net/sv/aspose.cells/row/group_level) | Hämtar radens gruppnivå.|
-| [is_height_matched](/cells/python-net/sv/aspose.cells/row/is_height_matched) | Indikerar om radhöjden matchar nuvarande standardteckensnittsinställning för arbetsboken.<br/>Sant för denna egenskap anger också att radhöjden är "automatisk" utan anpassat höjdvärde som ställts in av användaren.|
-| [has_custom_style](/cells/python-net/sv/aspose.cells/row/has_custom_style) | Indikerar om den här raden har anpassade stilinställningar (som skiljer sig från standarden som ärvts från arbetsboken).|
+| [group_level](/cells/python-net/sv/aspose.cells/row/group_level) | Hämtar gruppnivån för raden.|
+| [is_height_matched](/cells/python-net/sv/aspose.cells/row/is_height_matched) | Anger om radhöjden matchar arbetsbokens aktuella standardteckensnittsinställning.<br/> Sant för den här egenskapen anger också att radhöjden är "automatisk" utan ett anpassat höjdvärde som anges av användaren.|
+| [has_custom_style](/cells/python-net/sv/aspose.cells/row/has_custom_style) | Anger om den här raden har anpassade formatinställningar (som skiljer sig från standardinställningen som ärvs från arbetsboken).|
 | [first_cell](/cells/python-net/sv/aspose.cells/row/first_cell) | Hämtar det första cellobjektet i raden.|
-| [first_data_cell](/cells/python-net/sv/aspose.cells/row/first_data_cell) | Får den första icke-tomma cellen i raden.|
+| [first_data_cell](/cells/python-net/sv/aspose.cells/row/first_data_cell) |Hämtar den första cellen i raden som inte är tom.|
 | [last_cell](/cells/python-net/sv/aspose.cells/row/last_cell) | Hämtar det sista cellobjektet i raden.|
 | [last_data_cell](/cells/python-net/sv/aspose.cells/row/last_data_cell) | Hämtar den sista icke-tomma cellen i raden.|
 
 
 
-Får cellen.
+Hämtar cellen.
 ###  Indexerare
-| namn| Beskrivning|
+| Namn| Beskrivning|
 | :- | :- |
-| [index] | Kolumnindex|
+| [index] | Kolumnindexet|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [get_cell_by_index](/cells/python-net/sv/aspose.cells/row/get_cell_by_index/#int) | Hämta cellen efter specifikt index i cellsamlingen på den här raden.|
-| [get_enumerator](/cells/python-net/sv/aspose.cells/row/get_enumerator/#bool-bool) | Får en uppräkning som itererar celler genom denna rad.|
-| [get_cell_or_null](/cells/python-net/sv/aspose.cells/row/get_cell_or_null/#int) | Hämtar cellen eller null i det specifika indexet.|
-| [get_style](/cells/python-net/sv/aspose.cells/row/get_style/#) | Får stilen på den här raden.|
-| [set_style](/cells/python-net/sv/aspose.cells/row/set_style/#aspose.cells.Style) | Ställer in stilen för den här raden.|
-| [copy_settings](/cells/python-net/sv/aspose.cells/row/copy_settings/#aspose.cells.Row-bool) | Kopiera inställningar för rad, som stil, höjd, synlighet, ... etc.|
-| [apply_style](/cells/python-net/sv/aspose.cells/row/apply_style/#aspose.cells.Style-aspose.cells.StyleFlag) | Använder format för en hel rad.|
-| [equals](/cells/python-net/sv/aspose.cells/row/equals/#aspose.cells.Row) | Kontrollerar om detta objekt refererar till samma rad med ett annat radobjekt.|
+| [`get_cell_by_index(self, index)`](/cells/python-net/sv/aspose.cells/row/get_cell_by_index/#int) | Hämta cellen efter specifikt index i cellsamlingen för den här raden.|
+| [`get_enumerator(self, reversed, sync)`](/cells/python-net/sv/aspose.cells/row/get_enumerator/#bool-bool) | Hämtar en uppräknare som itererar celler genom den här raden.|
+| [`get_cell_or_null(self, column)`](/cells/python-net/sv/aspose.cells/row/get_cell_or_null/#int) | Hämtar cellen eller nullvärdet i det specifika indexet.|
+| [`get_style(self)`](/cells/python-net/sv/aspose.cells/row/get_style/#) | Hämtar stilen för den här raden.|
+| [`set_style(self, style)`](/cells/python-net/sv/aspose.cells/row/set_style/#aspose.cells.style) | Anger stilen för den här raden.|
+| [`copy_settings(self, source, check_style)`](/cells/python-net/sv/aspose.cells/row/copy_settings/#aspose.cells.row-bool) | Kopiera inställningar för raden, såsom stil, höjd, synlighet, ...etc.|
+| [`apply_style(self, style, flag)`](/cells/python-net/sv/aspose.cells/row/apply_style/#aspose.cells.style-aspose.cells.styleflag) | Tillämpar format för en hel rad.|
+| [`equals(self, row)`](/cells/python-net/sv/aspose.cells/row/equals/#aspose.cells.row) | Kontrollerar om det här objektet refererar till samma rad som ett annat radobjekt.|
 
 
 

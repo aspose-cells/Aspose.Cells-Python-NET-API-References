@@ -18,5 +18,5 @@ def font_data(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [MemoryFontSource](/cells/python-net/sv/aspose.cells/memoryfontsource)
+* modul [`aspose.cells`](../../)
+* klass [`MemoryFontSource`](/cells/python-net/sv/aspose.cells/memoryfontsource)

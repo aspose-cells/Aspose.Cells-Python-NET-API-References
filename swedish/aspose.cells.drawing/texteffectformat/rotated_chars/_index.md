@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rotated_chars fastighet
 
-Om det är sant, roteras tecken i den angivna WordArt 90 grader i förhållande till WordArts avgränsande form.
+Om värdet är sant roteras tecken i det angivna WordArt-objektet 90 grader i förhållande till WordArt-objektets avgränsande form.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def rotated_chars(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [TextEffectFormat](/cells/python-net/sv/aspose.cells.drawing/texteffectformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`TextEffectFormat`](/cells/python-net/sv/aspose.cells.drawing/texteffectformat)

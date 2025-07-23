@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  perspective fastighet
 
-Hämtar och ställer in vinkeln vid vilken ett ThreeDFormat-objekt kan ses.
+Hämtar och anger vinkeln i vilken ett ThreeDFormat-objekt kan ses.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def perspective(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ThreeDFormat](/cells/python-net/sv/aspose.cells.drawing/threedformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ThreeDFormat`](/cells/python-net/sv/aspose.cells.drawing/threedformat)

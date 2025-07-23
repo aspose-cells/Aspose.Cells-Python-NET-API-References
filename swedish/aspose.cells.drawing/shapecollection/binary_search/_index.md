@@ -3,20 +3,21 @@ title: binary_search metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 360
+weight: 390
 url: /sv/aspose.cells.drawing/shapecollection/binary_search/
 is_root: false
 ---
-##  binary_search(item) {#Shape}
-Söker i hela den sorterade arraylistan efter ett element med hjälp av standardjämföraren och returnerar elementets nollbaserade index.
+##  binary_search(self, item) {#aspose.cells.drawing.Shape}
+Söker igenom hela den sorterade arraylistan efter ett element med hjälp av standardjämföraren och returnerar elementets nollbaserade index.
 
 
 ###  Returnerar
 
-Det nollbaserade värdeindexet i den sorterade arraylistan, om objektet hittas; i annat fall ett negativt tal, som är det bitvisa komplementet av indexet för nästa element som är större än värdet eller, om det inte finns något större element, det bitvisa komplementet av arraylist Count.
+Det nollbaserade indexet för värde i den sorterade arraylistan, om objektet hittas; annars ett negativt tal, vilket är det bitvisa komplementet till indexet för nästa element som är större än värde eller, om det inte finns något större element, det bitvisa komplementet till arraylistan Antal.
 
 
 ```python
+
 def binary_search(self, item):
     ...
 ```
@@ -24,10 +25,10 @@ def binary_search(self, item):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| item | [Shape](/cells/python-net/sv/aspose.cells.drawing/shape) | System.Object att lokalisera. Värdet kan vara null.|
+| item | [`Shape`](/cells/python-net/sv/aspose.cells.drawing/shape) | System.Object som ska lokaliseras. Värdet kan vara null.|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShapeCollection](/cells/python-net/sv/aspose.cells.drawing/shapecollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShapeCollection`](/cells/python-net/sv/aspose.cells.drawing/shapecollection)

@@ -7,12 +7,13 @@ weight: 40
 url: /sv/aspose.cells/pagesetup/custom_paper_size/
 is_root: false
 ---
-##  custom_paper_size(width, height) {#float-float}
-Ställer in den anpassade pappersstorleken, i enhet tum.
+##  custom_paper_size(self, width, height) {#float-float}
+Ställer in den anpassade pappersstorleken i tum.
 
 
 
 ```python
+
 def custom_paper_size(self, width, height):
     ...
 ```
@@ -20,11 +21,11 @@ def custom_paper_size(self, width, height):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| width | float | Papperets bredd.|
-| height | float | Höjden på papperet.|
+| width | float | Papprets bredd.|
+| height | float | Papprets höjd.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

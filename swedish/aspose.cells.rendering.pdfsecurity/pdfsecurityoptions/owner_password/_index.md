@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  owner_password fastighet
 
-Hämtar eller ställer in ägarlösenordet för det krypterade PDF-dokumentet.
+Hämtar eller ställer in ägarlösenordet för det krypterade dokumentet PDF.
 
 ###  Anmärkningar
 

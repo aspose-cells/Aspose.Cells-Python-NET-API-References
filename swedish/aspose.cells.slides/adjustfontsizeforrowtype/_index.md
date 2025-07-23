@@ -18,7 +18,7 @@ Typen AdjustFontSizeForRowType avslöjar följande medlemmar:
 | Fält| Beskrivning|
 | :- | :- |
 | NONE | Ingen justering.|
-| EMPTY_ROWS | Om raden är tom ändrar du teckenstorleken så att den passar radens höjd.|
+| EMPTY_ROWS | Om raden är tom, ändra teckenstorleken så att den passar radhöjden.|
 
 
 

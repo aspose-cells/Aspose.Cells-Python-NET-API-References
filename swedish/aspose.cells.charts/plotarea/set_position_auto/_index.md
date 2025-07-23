@@ -7,12 +7,13 @@ weight: 20
 url: /sv/aspose.cells.charts/plotarea/set_position_auto/
 is_root: false
 ---
-##  set_position_auto() {#}
-Ställ in positionen för tomtområdet till automatisk
+##  set_position_auto(self) {#}
+Ställ in plottområdets position till automatisk
 
 
 
 ```python
+
 def set_position_auto(self):
     ...
 ```
@@ -22,5 +23,5 @@ def set_position_auto(self):
 
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [PlotArea](/cells/python-net/sv/aspose.cells.charts/plotarea)
+* modul [`aspose.cells.charts`](../../)
+* klass [`PlotArea`](/cells/python-net/sv/aspose.cells.charts/plotarea)

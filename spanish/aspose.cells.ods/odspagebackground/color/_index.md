@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color propiedad
 
-Obtiene y establece el color de fondo.
+Obtiene y establece el color del fondo.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.ods](../../)
-* clase [OdsPageBackground](/cells/python-net/es/aspose.cells.ods/odspagebackground)
+* módulo [`aspose.cells.ods`](../../)
+* clase [`OdsPageBackground`](/cells/python-net/es/aspose.cells.ods/odspagebackground)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bar_fill_type fastighet
 
-Hämtar eller ställer in hur ett datafält fylls med färg.
+Hämtar eller anger hur en datastapel fylls med färg.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def bar_fill_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DataBar](/cells/python-net/sv/aspose.cells/databar)
-* klass [DataBarFillType](/cells/python-net/sv/aspose.cells/databarfilltype)
+* modul [`aspose.cells`](../../)
+* klass [`DataBar`](/cells/python-net/sv/aspose.cells/databar)
+* klass [`DataBarFillType`](/cells/python-net/sv/aspose.cells/databarfilltype)

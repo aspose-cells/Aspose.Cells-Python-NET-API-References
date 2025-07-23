@@ -20,7 +20,7 @@ El tipo CrossType expone los siguientes miembros:
 | AUTOMATIC | Microsoft Excel establece el punto de cruce del eje.|
 | MAXIMUM | El eje se cruza en el valor máximo.|
 | MINIMUM | El eje se cruza en el valor mínimo.|
-| CUSTOM | El eje se cruza en el valor personalizado.|
+| CUSTOM |El eje se cruza en el valor personalizado.|
 
 
 

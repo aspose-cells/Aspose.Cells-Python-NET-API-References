@@ -3,13 +3,13 @@ title: original_width_cm fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 970
+weight: 990
 url: /sv/aspose.cells.drawing/picture/original_width_cm/
 is_root: false
 ---
 ##  original_width_cm fastighet
 
-Får bildens ursprungliga bredd, i centimeterenhet.
+Hämtar bildens ursprungliga bredd, i centimeter.
 
 ###  Exempel
 

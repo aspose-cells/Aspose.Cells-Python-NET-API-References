@@ -3,7 +3,7 @@ title: x propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1250
+weight: 1260
 url: /es/aspose.cells.drawing/groupshape/x/
 is_root: false
 ---

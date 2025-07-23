@@ -3,7 +3,7 @@ title: ExternalLink klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 590
+weight: 570
 url: /sv/aspose.cells/externallink/
 is_root: false
 ---
@@ -17,17 +17,18 @@ Typen ExternalLink avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [type](/cells/python-net/sv/aspose.cells/externallink/type) | Får typen av extern länk.|
-| [original_data_source](/cells/python-net/sv/aspose.cells/externallink/original_data_source) | Representerar lagrad datakälla för den externa länken.|
+| [type](/cells/python-net/sv/aspose.cells/externallink/type) | Hämtar typen av extern länk.|
+| [path_type](/cells/python-net/sv/aspose.cells/externallink/path_type) | Hämta sökvägstypen för den här externa länken|
+| [original_data_source](/cells/python-net/sv/aspose.cells/externallink/original_data_source) | Representerar den lagrada datakällan för den externa länken.|
 | [data_source](/cells/python-net/sv/aspose.cells/externallink/data_source) | Representerar datakällan för den externa länken.|
-| [is_referred](/cells/python-net/sv/aspose.cells/externallink/is_referred) | Anger om denna externa länk refereras av andra.|
+| [is_referred](/cells/python-net/sv/aspose.cells/externallink/is_referred) | Anger om denna externa länk refereras till av andra.|
 | [is_visible](/cells/python-net/sv/aspose.cells/externallink/is_visible) | Anger om denna externa länk är synlig i MS Excel.|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [add_external_name](/cells/python-net/sv/aspose.cells/externallink/add_external_name/#str-str) | Lägger till ett externt namn.|
+| [`add_external_name(self, text, refer_to)`](/cells/python-net/sv/aspose.cells/externallink/add_external_name/#str-str) | Lägger till ett externt namn.|
 
 
 

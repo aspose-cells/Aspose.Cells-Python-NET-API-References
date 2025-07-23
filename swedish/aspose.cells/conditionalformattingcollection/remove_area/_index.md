@@ -7,12 +7,13 @@ weight: 70
 url: /sv/aspose.cells/conditionalformattingcollection/remove_area/
 is_root: false
 ---
-##  remove_area(start_row, start_column, total_rows, total_columns) {#int-int-int-int}
-Ta bort all villkorlig formatering i intervallet.
+##  remove_area(self, start_row, start_column, total_rows, total_columns) {#int-int-int-int}
+Ta bort all villkorsstyrd formatering i området.
 
 
 
 ```python
+
 def remove_area(self, start_row, start_column, total_rows, total_columns):
     ...
 ```
@@ -28,5 +29,5 @@ def remove_area(self, start_row, start_column, total_rows, total_columns):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ConditionalFormattingCollection](/cells/python-net/sv/aspose.cells/conditionalformattingcollection)
+* modul [`aspose.cells`](../../)
+* klass [`ConditionalFormattingCollection`](/cells/python-net/sv/aspose.cells/conditionalformattingcollection)

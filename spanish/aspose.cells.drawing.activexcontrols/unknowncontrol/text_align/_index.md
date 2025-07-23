@@ -3,13 +3,11 @@ title: text_align propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 210
+weight: 200
 url: /es/aspose.cells.drawing.activexcontrols/unknowncontrol/text_align/
 is_root: false
 ---
 ##  text_align propiedad
-
-Representa cómo alinear el texto utilizado por el control.
 ###  Definición:
 ```python
 @property
@@ -21,6 +19,6 @@ def text_align(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [TextAlignmentType](/cells/python-net/es/aspose.cells/textalignmenttype)
-* clase [UnknownControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`TextAlignmentType`](/cells/python-net/es/aspose.cells/textalignmenttype)
+* clase [`UnknownControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/unknowncontrol)

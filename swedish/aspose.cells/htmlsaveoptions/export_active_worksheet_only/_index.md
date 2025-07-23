@@ -3,15 +3,15 @@ title: export_active_worksheet_only fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 160
+weight: 230
 url: /sv/aspose.cells/htmlsaveoptions/export_active_worksheet_only/
 is_root: false
 ---
 ##  export_active_worksheet_only fastighet
 
-Indikerar om endast det aktiva kalkylbladet exporteras till html-fil.
-Om sant kommer endast det aktiva kalkylbladet att exporteras till html-filen;
-Om falskt kommer hela arbetsboken att exporteras till html-fil.
+Anger om endast det aktiva kalkylbladet exporteras till en html-fil.
+Om värdet är sant exporteras endast det aktiva kalkylbladet till en html-fil.
+Om värdet är falskt exporteras hela arbetsboken till en html-fil.
 Standardvärdet är falskt.
 ###  Definition:
 ```python

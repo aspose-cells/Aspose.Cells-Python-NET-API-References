@@ -7,13 +7,14 @@ weight: 160
 url: /sv/aspose.cells/pagesetup/set_first_page_header/
 is_root: false
 ---
-##  set_first_page_header(section, header_script) {#int-str}
-Ställer in ett skript som formaterar första sidhuvudet i en Excel-fil.
-Endast effekt i Excel 2007 när IsHFDiffFirst är sant.
+##  set_first_page_header(self, section, header_script) {#int-str}
+Ställer in ett skript som formaterar den första sidhuvudet i en Excel-fil.
+Gäller endast i Excel 2007 när IsHFDiffFirst är sant.
 
 
 
 ```python
+
 def set_first_page_header(self, section, header_script):
     ...
 ```
@@ -21,11 +22,11 @@ def set_first_page_header(self, section, header_script):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| section | int | 0: Vänster sektion, 1: Mittsektion, 2: Höger sektion.|
-| header_script | str | Skript i rubrikformat.|
+| section | int |0: Vänster sektion, 1: Mittsektion, 2: Höger sektion.|
+| header_script | str | Skript för rubrikformat.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

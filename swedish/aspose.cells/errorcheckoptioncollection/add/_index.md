@@ -7,8 +7,8 @@ weight: 20
 url: /sv/aspose.cells/errorcheckoptioncollection/add/
 is_root: false
 ---
-##  add() {#}
-Lägg till ett felkontrollalternativ.
+##  add(self) {#}
+Lägg till ett alternativ för felkontroll.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Lägg till ett felkontrollalternativ.
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ErrorCheckOptionCollection](/cells/python-net/sv/aspose.cells/errorcheckoptioncollection)
+* modul [`aspose.cells`](../../)
+* klass [`ErrorCheckOptionCollection`](/cells/python-net/sv/aspose.cells/errorcheckoptioncollection)

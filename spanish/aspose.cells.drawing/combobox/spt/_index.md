@@ -3,7 +3,7 @@ title: spt propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 960
+weight: 970
 url: /es/aspose.cells.drawing/combobox/spt/
 is_root: false
 ---

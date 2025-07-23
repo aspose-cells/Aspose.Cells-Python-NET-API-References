@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row_separator_of_formula_array fastighet
 
-Hämtar avgränsaren för rader i matrisdata i formel.
+Hämtar avgränsaren för rader i arraydata i formeln.
 ###  Definition:
 ```python
 @property

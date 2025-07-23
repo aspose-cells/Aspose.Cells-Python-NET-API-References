@@ -8,8 +8,6 @@ url: /es/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol/shadow
 is_root: false
 ---
 ##  shadow propiedad
-
-Indica si mostrar un shadow.
 ###  Definición:
 ```python
 @property
@@ -21,5 +19,5 @@ def shadow(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [CommandButtonActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`CommandButtonActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)

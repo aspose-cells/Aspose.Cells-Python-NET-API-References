@@ -3,13 +3,13 @@ title: prog_id fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1000
+weight: 1010
 url: /sv/aspose.cells.drawing/oleobject/prog_id/
 is_root: false
 ---
 ##  prog_id fastighet
 
-Hämtar eller ställer in ProgID för OLE-objektet.
+Hämtar eller anger ProgID för OLE-objektet.
 ###  Definition:
 ```python
 @property

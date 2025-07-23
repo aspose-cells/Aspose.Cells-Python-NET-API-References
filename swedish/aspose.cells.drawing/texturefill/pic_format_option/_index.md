@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  pic_format_option fastighet
 
-Hämtar eller ställer in bildformatsalternativ.
+Hämtar eller ställer in bildformatalternativ.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def pic_format_option(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [PicFormatOption](/cells/python-net/sv/aspose.cells.drawing/picformatoption)
-* klass [TextureFill](/cells/python-net/sv/aspose.cells.drawing/texturefill)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`PicFormatOption`](/cells/python-net/sv/aspose.cells.drawing/picformatoption)
+* klass [`TextureFill`](/cells/python-net/sv/aspose.cells.drawing/texturefill)

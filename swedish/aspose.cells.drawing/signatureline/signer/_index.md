@@ -3,13 +3,13 @@ title: signer fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 100
+weight: 110
 url: /sv/aspose.cells.drawing/signatureline/signer/
 is_root: false
 ---
 ##  signer fastighet
 
-Hämtar och ställer in signer.
+Hämtar eller ställer in signer.
 
 ###  Exempel
 
@@ -32,5 +32,5 @@ def signer(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [SignatureLine](/cells/python-net/sv/aspose.cells.drawing/signatureline)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`SignatureLine`](/cells/python-net/sv/aspose.cells.drawing/signatureline)

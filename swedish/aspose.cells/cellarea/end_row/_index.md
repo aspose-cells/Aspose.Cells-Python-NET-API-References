@@ -9,8 +9,12 @@ is_root: false
 ---
 ##  end_row fastighet
 
-Hämtar eller ställer in den sista raden för detta område.
+Hämtar eller anger den sista raden för detta område.
+###  Definition:
+```python
+f end_row 
+```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellArea](/cells/python-net/sv/aspose.cells/cellarea)
+* modul [`aspose.cells`](../../)
+* klass [`CellArea`](/cells/python-net/sv/aspose.cells/cellarea)

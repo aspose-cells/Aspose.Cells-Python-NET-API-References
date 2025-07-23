@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  url fastighet
 
-Hämtar källa url till denna databindning.
+Hämtar källa url för denna databindning.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def url(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [XmlDataBinding](/cells/python-net/sv/aspose.cells/xmldatabinding)
+* modul [`aspose.cells`](../../)
+* klass [`XmlDataBinding`](/cells/python-net/sv/aspose.cells/xmldatabinding)

@@ -3,13 +3,13 @@ title: update_zoom fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 170
+weight: 180
 url: /sv/aspose.cells/ooxmlsaveoptions/update_zoom/
 is_root: false
 ---
 ##  update_zoom fastighet
 
- Anger om skalningsfaktorn uppdateras innan filen sparas
+ Anger om skalningsfaktorn ska uppdateras innan filen sparas
 om egenskaperna PageSetup.FitToPagesWide och PageSetup.FitToPagesTall styr hur kalkylbladet skalas.
 
 ###  Anmärkningar
@@ -26,5 +26,5 @@ def update_zoom(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [OoxmlSaveOptions](/cells/python-net/sv/aspose.cells/ooxmlsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`OoxmlSaveOptions`](/cells/python-net/sv/aspose.cells/ooxmlsaveoptions)

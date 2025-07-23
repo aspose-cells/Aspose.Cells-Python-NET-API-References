@@ -3,13 +3,13 @@ title: manual_update fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 640
+weight: 740
 url: /sv/aspose.cells.pivot/pivottable/manual_update/
 is_root: false
 ---
 ##  manual_update fastighet
 
-Anger om pivottabellsrapporten endast beräknas om på användarens begäran.
+Anger om pivottabellrapporten endast beräknas om på användarens begäran.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def manual_update(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotTable](/cells/python-net/sv/aspose.cells.pivot/pivottable)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotTable`](/cells/python-net/sv/aspose.cells.pivot/pivottable)

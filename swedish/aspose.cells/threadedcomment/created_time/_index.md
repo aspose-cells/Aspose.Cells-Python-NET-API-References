@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  created_time fastighet
 
-Hämtar och ställer in skapad tid för denna trådade kommentar.
+Hämtar och ställer in skapningstiden för den här trådade kommentaren.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def created_time(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ThreadedComment](/cells/python-net/sv/aspose.cells/threadedcomment)
+* modul [`aspose.cells`](../../)
+* klass [`ThreadedComment`](/cells/python-net/sv/aspose.cells/threadedcomment)

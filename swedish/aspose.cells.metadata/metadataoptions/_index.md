@@ -17,17 +17,17 @@ Typen MetadataOptions avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [MetadataOptions(metadata_type)](/cells/python-net/sv/aspose.cells.metadata/metadataoptions/__init__/#MetadataType) | Skapar alternativ för att ladda metadata.|
+| [`__init__(self, metadata_type)`](/cells/python-net/sv/aspose.cells.metadata/metadataoptions/__init__/#aspose.cells.metadata.metadatatype) | Skapar alternativ för att ladda metadata.|
 
 
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [metadata_type](/cells/python-net/sv/aspose.cells.metadata/metadataoptions/metadata_type) | Hämtar och ställer in typen av metadata som laddas.|
-| [password](/cells/python-net/sv/aspose.cells.metadata/metadataoptions/password) | Representerar arbetsboksfilkrypteringslösenord.|
+| [metadata_type](/cells/python-net/sv/aspose.cells.metadata/metadataoptions/metadata_type) | Hämtar och anger typen av metadata som laddas.|
+| [password](/cells/python-net/sv/aspose.cells.metadata/metadataoptions/password) | Representerar lösenordet för kryptering av arbetsboksfiler.|
 | [key_length](/cells/python-net/sv/aspose.cells.metadata/metadataoptions/key_length) | Nyckellängden.|
 
 
 
 ###  Se även
-* modul [aspose.cells.metadata](..)
+* modul [`aspose.cells.metadata`](..)

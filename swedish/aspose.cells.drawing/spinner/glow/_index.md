@@ -3,13 +3,13 @@ title: glow fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 410
+weight: 400
 url: /sv/aspose.cells.drawing/spinner/glow/
 is_root: false
 ---
 ##  glow fastighet
 
-Representerar ett [`GlowEffect`](/cells/python-net/sv/aspose.cells.drawing/gloweffect)-objekt som anger glow-effekt för diagramelementet eller formen.
+Representerar ett [`GlowEffect`](/cells/python-net/sv/aspose.cells.drawing/gloweffect)-objekt som anger glow-effekten för diagramelementet eller formen.
 
 ###  Exempel
 

@@ -8,8 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/text_al
 is_root: false
 ---
 ##  text_align fastighet
-
-Representerar hur man justerar texten som används av kontrollen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +19,6 @@ def text_align(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [TextAlignmentType](/cells/python-net/sv/aspose.cells/textalignmenttype)
-* klass [ToggleButtonActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`TextAlignmentType`](/cells/python-net/sv/aspose.cells/textalignmenttype)
+* klass [`ToggleButtonActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

@@ -8,8 +8,6 @@ url: /es/aspose.cells.drawing.activexcontrols/unknowncontrol/mouse_icon/
 is_root: false
 ---
 ##  mouse_icon propiedad
-
-Obtiene y establece un icono personalizado para mostrar como el puntero del mouse para el control.
 ###  Definición:
 ```python
 @property
@@ -21,5 +19,5 @@ def mouse_icon(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [UnknownControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`UnknownControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/unknowncontrol)

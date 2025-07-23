@@ -3,13 +3,13 @@ title: language_code fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 240
+weight: 230
 url: /sv/aspose.cells/txtloadoptions/language_code/
 is_root: false
 ---
 ##  language_code fastighet
 
-Hämtar eller ställer in användargränssnittsspråket för Workbook-versionen baserat på CountryCode som har sparat filen.
+Hämtar eller ställer in användargränssnittsspråket för arbetsboksversionen baserat på landskoden som har sparat filen.
 ###  Definition:
 ```python
 @property

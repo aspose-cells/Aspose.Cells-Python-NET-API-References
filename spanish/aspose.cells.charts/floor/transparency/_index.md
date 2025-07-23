@@ -21,5 +21,5 @@ def transparency(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Floor](/cells/python-net/es/aspose.cells.charts/floor)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Floor`](/cells/python-net/es/aspose.cells.charts/floor)

@@ -1,5 +1,5 @@
 ---
-title: compare_to método
+title: método compare_to
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 20
 url: /es/aspose.cells/cellarea/compare_to/
 is_root: false
 ---
-##  compare_to(obj) {#any}
+##  compare_to(self, obj) {#any}
 Compare dos objetos CellArea según su esquina superior izquierda.
 
 
@@ -18,6 +18,7 @@ Si dos esquinas son iguales, se devolverá 0.
 
 
 ```python
+
 def compare_to(self, obj):
     ...
 ```
@@ -30,5 +31,5 @@ def compare_to(self, obj):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CellArea](/cells/python-net/es/aspose.cells/cellarea)
+* módulo [`aspose.cells`](../../)
+* clase [`CellArea`](/cells/python-net/es/aspose.cells/cellarea)

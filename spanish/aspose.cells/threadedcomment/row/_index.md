@@ -18,5 +18,5 @@ def row(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ThreadedComment](/cells/python-net/es/aspose.cells/threadedcomment)
+* módulo [`aspose.cells`](../../)
+* clase [`ThreadedComment`](/cells/python-net/es/aspose.cells/threadedcomment)

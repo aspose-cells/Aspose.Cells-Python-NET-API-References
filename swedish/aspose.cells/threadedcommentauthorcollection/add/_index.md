@@ -7,8 +7,8 @@ weight: 20
 url: /sv/aspose.cells/threadedcommentauthorcollection/add/
 is_root: false
 ---
-##  add(name, user_id, provider_id) {#str-str-str}
-Lägger till en trådkommentarperson.
+##  add(self, name, user_id, provider_id) {#str-str-str}
+Lägger till en person som kommenterar i tråden.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Lägger till en trådkommentarperson.
 
 
 ```python
+
 def add(self, name, user_id, provider_id):
     ...
 ```
@@ -24,12 +25,12 @@ def add(self, name, user_id, provider_id):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| name | str | Namnet på personen.|
+| name | str | Personens namn.|
 | user_id | str |  |
 | provider_id | str | Leverantörens ID|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ThreadedCommentAuthorCollection](/cells/python-net/sv/aspose.cells/threadedcommentauthorcollection)
+* modul [`aspose.cells`](../../)
+* klass [`ThreadedCommentAuthorCollection`](/cells/python-net/sv/aspose.cells/threadedcommentauthorcollection)

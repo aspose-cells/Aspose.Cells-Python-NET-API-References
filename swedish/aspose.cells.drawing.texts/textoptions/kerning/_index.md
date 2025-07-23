@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  kerning fastighet
 
-Anger den lägsta teckenstorleken vid vilken tecknet kerning kommer att förekomma för denna textkörning.
+Anger den minsta teckenstorleken vid vilken tecken kerning kommer att förekomma för denna textkörning.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def kerning(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [TextOptions](/cells/python-net/sv/aspose.cells.drawing.texts/textoptions)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`TextOptions`](/cells/python-net/sv/aspose.cells.drawing.texts/textoptions)

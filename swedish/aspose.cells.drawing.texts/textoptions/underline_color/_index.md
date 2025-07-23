@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  underline_color fastighet
 
-Får eller ställer in färgen på understrykning.
+Hämtar eller anger färgen på understrykningen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def underline_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [CellsColor](/cells/python-net/sv/aspose.cells/cellscolor)
-* klass [TextOptions](/cells/python-net/sv/aspose.cells.drawing.texts/textoptions)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`CellsColor`](/cells/python-net/sv/aspose.cells/cellscolor)
+* klass [`TextOptions`](/cells/python-net/sv/aspose.cells.drawing.texts/textoptions)

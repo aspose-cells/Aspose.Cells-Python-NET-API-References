@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  refer_to_destination_sheet fastighet
 
-När du kopierar intervallet i samma fil och diagrammet hänvisar till källarket,
+När man kopierar intervallet i samma fil och diagrammet refererar till källarket,
 Falskt betyder att det kopierade diagrammets datakälla inte kommer att ändras.
 Sant betyder att det kopierade diagrammets datakälla refererar till målarket.
 
@@ -27,5 +27,5 @@ def refer_to_destination_sheet(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CopyOptions](/cells/python-net/sv/aspose.cells/copyoptions)
+* modul [`aspose.cells`](../../)
+* klass [`CopyOptions`](/cells/python-net/sv/aspose.cells/copyoptions)

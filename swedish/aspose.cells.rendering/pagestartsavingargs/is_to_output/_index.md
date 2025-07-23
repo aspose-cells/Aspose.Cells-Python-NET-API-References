@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_to_output fastighet
 
- Hämtar eller ställer in ett värde som anger om sidan ska matas ut.
+ Hämtar eller anger ett värde som anger om sidan ska skrivas ut.
 Standardvärdet är sant.
 ###  Definition:
 ```python
@@ -22,5 +22,5 @@ def is_to_output(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [PageStartSavingArgs](/cells/python-net/sv/aspose.cells.rendering/pagestartsavingargs)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`PageStartSavingArgs`](/cells/python-net/sv/aspose.cells.rendering/pagestartsavingargs)

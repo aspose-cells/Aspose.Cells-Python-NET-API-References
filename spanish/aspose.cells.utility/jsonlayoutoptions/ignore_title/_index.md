@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  ignore_title propiedad
 
-Ingores títulos de atributos
+Ignora los títulos de los atributos
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def ignore_title(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.utility](../../)
-* clase [JsonLayoutOptions](/cells/python-net/es/aspose.cells.utility/jsonlayoutoptions)
+* módulo [`aspose.cells.utility`](../../)
+* clase [`JsonLayoutOptions`](/cells/python-net/es/aspose.cells.utility/jsonlayoutoptions)

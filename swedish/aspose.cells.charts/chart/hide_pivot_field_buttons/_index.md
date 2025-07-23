@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  hide_pivot_field_buttons fastighet
 
-Indikerar om knapparna för pivotdiagramfältet endast döljs när diagrammet är pivotdiagram.
+Anger om knapparna för pivotdiagramsfältet endast ska döljas när diagrammet är ett pivotdiagram.
 ###  Definition:
 ```python
 @property

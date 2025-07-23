@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_selecting_unlocked_cell fastighet
 
-Representerar om användaren får välja olåsta celler på ett skyddat kalkylblad.
+Representerar om användaren har behörighet att markera olåsta celler i ett skyddat kalkylblad.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_selecting_unlocked_cell(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Protection](/cells/python-net/sv/aspose.cells/protection)
+* modul [`aspose.cells`](../../)
+* klass [`Protection`](/cells/python-net/sv/aspose.cells/protection)

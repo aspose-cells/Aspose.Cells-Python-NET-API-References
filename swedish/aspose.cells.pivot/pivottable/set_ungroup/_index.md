@@ -3,16 +3,17 @@ title: set_ungroup metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 220
+weight: 280
 url: /sv/aspose.cells.pivot/pivottable/set_ungroup/
 is_root: false
 ---
-##  set_ungroup {#int}
-Delar upp grupperingen efter pivottabellen
+##  set_ungroup(self, base_field_index) {#int}
+Anger avgruppering efter pivottabell
 
 
 
 ```python
+
 def set_ungroup(self, base_field_index):
     ...
 ```
@@ -20,20 +21,21 @@ def set_ungroup(self, base_field_index):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| base_field_index | int | Rad- eller kolumnfältindex i basfälten|
+| base_field_index | int | Rad- eller kolumnfältindexet i basfälten|
 ###  Anmärkningar
 
-OBS: Denna metod är nu föråldrad. Istället,
-använd metoden PivotField.Ungroup().
- Denna metod kommer att tas bort 12 månader senare sedan oktober 2023.
+OBS! Den här metoden är nu föråldrad. Istället,
+Använd metoden PivotField.Ungroup().
+ Denna metod kommer att tas bort 12 månader senare från och med oktober 2023.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 
-##  set_ungroup {#aspose.cells.pivot.PivotField}
-Delar upp grupperingen efter pivottabellen
+##  set_ungroup(self, pivot_field) {#aspose.cells.pivot.PivotField}
+Anger avgruppering efter pivottabell
 
 
 
 ```python
+
 def set_ungroup(self, pivot_field):
     ...
 ```
@@ -44,9 +46,9 @@ def set_ungroup(self, pivot_field):
 | pivot_field | [`PivotField`](/cells/python-net/sv/aspose.cells.pivot/pivotfield) | Rad- eller kolumnfältet i basfälten|
 ###  Anmärkningar
 
-OBS: Denna metod är nu föråldrad. Istället,
-använd metoden PivotField.Ungroup().
- Denna metod kommer att tas bort 12 månader senare sedan oktober 2023.
+OBS! Den här metoden är nu föråldrad. Istället,
+Använd metoden PivotField.Ungroup().
+ Denna metod kommer att tas bort 12 månader senare från och med oktober 2023.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 
 

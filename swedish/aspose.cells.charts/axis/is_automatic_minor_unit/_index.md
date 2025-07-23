@@ -3,13 +3,13 @@ title: is_automatic_minor_unit fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 220
+weight: 230
 url: /sv/aspose.cells.charts/axis/is_automatic_minor_unit/
 is_root: false
 ---
 ##  is_automatic_minor_unit fastighet
 
-Indikerar om axelns mindre enhet tilldelas automatiskt.
+Anger om axelns bienhet tilldelas automatiskt.
 ###  Definition:
 ```python
 @property

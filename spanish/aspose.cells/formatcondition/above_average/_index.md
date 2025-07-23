@@ -10,9 +10,9 @@ is_root: false
 ##  above_average propiedad
 
 Obtenga la instancia "AboveAverage" del formato condicional.
- La regla de la instancia predeterminada resalta las celdas que son
+ La regla de la instancia predeterminada resalta las celdas que están
 por encima del promedio para todos los valores en el rango.
-Válido solo para tipo = Por encima del promedio.
+Válido sólo para el tipo = AboveAverage.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def above_average(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [AboveAverage](/cells/python-net/es/aspose.cells/aboveaverage)
-* clase [FormatCondition](/cells/python-net/es/aspose.cells/formatcondition)
+* módulo [`aspose.cells`](../../)
+* clase [`AboveAverage`](/cells/python-net/es/aspose.cells/aboveaverage)
+* clase [`FormatCondition`](/cells/python-net/es/aspose.cells/formatcondition)

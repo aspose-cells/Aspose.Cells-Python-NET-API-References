@@ -3,17 +3,18 @@ title: método insert_text
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 260
+weight: 270
 url: /es/aspose.cells/cell/insert_text/
 is_root: false
 ---
-##  insert_text {#int-str}
-Inserta algunos caracteres en la celda.
-Si la celda tiene formato enriquecido, este método podría mantener el formato original.
+##  insert_text(self, index, text) {#int-str}
+Insertar algunos caracteres en la celda.
+Si la celda tiene un formato enriquecido, este método podría mantener el formato original.
 
 
 
 ```python
+
 def insert_text(self, index, text):
     ...
 ```

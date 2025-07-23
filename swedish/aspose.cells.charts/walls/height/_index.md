@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height fastighet
 
-Hämtar height från topp till botten i enheter av 1/4000 av diagrammets height efter anrop av metoden Chart.Calculate().
+Hämtar height från topp till botten i enheter om 1/4000 av diagrammets height efter anrop av metoden Chart.Calculate().
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def height(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Walls](/cells/python-net/sv/aspose.cells.charts/walls)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Walls`](/cells/python-net/sv/aspose.cells.charts/walls)

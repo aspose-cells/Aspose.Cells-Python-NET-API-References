@@ -7,8 +7,8 @@ weight: 70
 url: /sv/aspose.cells/cell/get_characters/
 is_root: false
 ---
-##  get_characters() {#}
- Returnerar alla teckenobjekt
+##  get_characters(self) {#}
+ Returnerar alla Characters-objekt
 som representerar ett teckenintervall i celltexten.
 
 
@@ -18,6 +18,7 @@ Alla karaktärsobjekt
 
 
 ```python
+
 def get_characters(self):
     ...
 ```
@@ -25,8 +26,8 @@ def get_characters(self):
 
 
 
-##  get_characters(flag) {#bool}
- Returnerar alla teckenobjekt
+##  get_characters(self, flag) {#bool}
+ Returnerar alla Characters-objekt
 som representerar ett teckenintervall i celltexten.
 
 
@@ -36,6 +37,7 @@ Alla karaktärsobjekt
 
 
 ```python
+
 def get_characters(self, flag):
     ...
 ```
@@ -43,10 +45,10 @@ def get_characters(self, flag):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| flag | bool | Anger om tabellformat tillämpas på cellen om cellen finns i tabellen.|
+| flag | bool | Anger om tabellformatet ska tillämpas på cellen om cellen finns i tabellen.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
+* modul [`aspose.cells`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)

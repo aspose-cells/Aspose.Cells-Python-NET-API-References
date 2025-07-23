@@ -3,12 +3,12 @@ title: add_free_floating_shape metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 100
+weight: 110
 url: /sv/aspose.cells.drawing/shapecollection/add_free_floating_shape/
 is_root: false
 ---
-##  add_free_floating_shape(type, top, left, height, width, image_data, is_original_size) {#MsoDrawingType-int-int-int-int-bytes-bool}
-Lägger till en fri flytande form till kalkylbladet. Gäller endast linje-/bildform.
+##  add_free_floating_shape(self, type, top, left, height, width, image_data, is_original_size) {#aspose.cells.drawing.MsoDrawingType-int-int-int-int-bytes-bool}
+Lägger till en fritt flytande form i kalkylbladet. Gäller endast för linje-/bildformer.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Lägger till en fri flytande form till kalkylbladet. Gäller endast linje-/bildf
 
 
 ```python
+
 def add_free_floating_shape(self, type, top, left, height, width, image_data, is_original_size):
     ...
 ```
@@ -24,19 +25,21 @@ def add_free_floating_shape(self, type, top, left, height, width, image_data, is
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| type | [MsoDrawingType](/cells/python-net/sv/aspose.cells.drawing/msodrawingtype) | Formtypen.|
-| top | int | Representerar den vertikala förskjutningen av formen från kalkylbladets översta rad, i pixelenhet.|
-| left | int |Representerar den horisontella förskjutningen av formen från kalkylbladets vänstra kolumn, i pixelenhet.|
-| height | int | Representerar höjden på LineShape, i pixelenhet.|
-| width | int | Representerar bredden på LineShape, i pixelenhet.|
-| image_data | bytes | Bilddata gäller endast för bilden.|
-| is_original_size | bool | Om formen använder originalstorlek om formen är bild.|
+| type | [`MsoDrawingType`](/cells/python-net/sv/aspose.cells.drawing/msodrawingtype) | Formtypen.|
+| top | int | Representerar formens vertikala förskjutning från kalkylbladets översta rad, i pixlar.|
+| left | int | Representerar den horisontella förskjutningen av formen från kalkylbladets vänstra kolumn, i pixlar.|
+| height | int | Representerar höjden på linjeformen, i pixelenhet.|
+| width | int |Representerar bredden på linjeformen, i pixelenhet.|
+| image_data | bytes | Bilddatan gäller endast för bilden.|
+| is_original_size | bool | Om formen använder originalstorlek om formen är en bild.|
 
 ###  Exempel
 
 ```python
 from aspose import pycore
 from aspose.cells.drawing import MsoDrawingType
+import bytearray
+import int
 
 # add a line
 floatingShape_Line = shapes.add_free_floating_shape(MsoDrawingType.LINE, 100, 100, 100, 50, None, False)
@@ -53,5 +56,5 @@ floatingShape_Picture = shapes.add_free_floating_shape(MsoDrawingType.PICTURE, 2
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShapeCollection](/cells/python-net/sv/aspose.cells.drawing/shapecollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShapeCollection`](/cells/python-net/sv/aspose.cells.drawing/shapecollection)

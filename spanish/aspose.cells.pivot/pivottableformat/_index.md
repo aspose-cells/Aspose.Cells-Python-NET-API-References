@@ -3,7 +3,7 @@ title: PivotTableFormat clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 200
+weight: 260
 url: /es/aspose.cells.pivot/pivottableformat/
 is_root: false
 ---
@@ -23,8 +23,8 @@ El tipo PivotTableFormat expone los siguientes miembros:
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [get_style](/cells/python-net/es/aspose.cells.pivot/pivottableformat/get_style/#) | Obtiene el estilo formateado.|
-| [set_style](/cells/python-net/es/aspose.cells.pivot/pivottableformat/set_style/#aspose.cells.Style) | Establece el estilo del área de pivote.|
+| [`get_style(self)`](/cells/python-net/es/aspose.cells.pivot/pivottableformat/get_style/#) |Obtiene el estilo formateado.|
+| [`set_style(self, style)`](/cells/python-net/es/aspose.cells.pivot/pivottableformat/set_style/#aspose.cells.style) | Establece el estilo del área de pivote.|
 
 
 

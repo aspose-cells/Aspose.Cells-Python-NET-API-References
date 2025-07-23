@@ -7,12 +7,13 @@ weight: 30
 url: /sv/aspose.cells.charts/displayunitlabel/set_position_auto/
 is_root: false
 ---
-##  set_position_auto() {#}
+##  set_position_auto(self) {#}
 Ställ in ramens position på automatisk
 
 
 
 ```python
+
 def set_position_auto(self):
     ...
 ```
@@ -22,5 +23,5 @@ def set_position_auto(self):
 
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [DisplayUnitLabel](/cells/python-net/sv/aspose.cells.charts/displayunitlabel)
+* modul [`aspose.cells.charts`](../../)
+* klass [`DisplayUnitLabel`](/cells/python-net/sv/aspose.cells.charts/displayunitlabel)

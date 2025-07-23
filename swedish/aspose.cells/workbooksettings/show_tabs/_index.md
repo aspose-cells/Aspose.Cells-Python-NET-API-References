@@ -3,13 +3,13 @@ title: show_tabs fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 460
+weight: 490
 url: /sv/aspose.cells/workbooksettings/show_tabs/
 is_root: false
 ---
 ##  show_tabs fastighet
 
-Hämta eller ställer in ett värde oavsett om flikarna Arbetsbok visas.
+Hämta eller anger ett värde för om arbetsboksflikarna ska visas.
 
 ###  Anmärkningar
 
@@ -17,7 +17,7 @@ Standardvärdet är sant.
 
 ###  Exempel
 
-Följande kod döljer arkflikarna och flikrullningsknapparna för kalkylarket.
+Följande kod döljer arkflikar och flikrullningsknappar för kalkylbladet.
 
 ```python
 

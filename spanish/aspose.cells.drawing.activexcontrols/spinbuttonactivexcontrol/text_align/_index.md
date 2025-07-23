@@ -8,8 +8,6 @@ url: /es/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/text_alig
 is_root: false
 ---
 ##  text_align propiedad
-
-Representa cómo alinear el texto utilizado por el control.
 ###  Definición:
 ```python
 @property
@@ -21,6 +19,6 @@ def text_align(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [SpinButtonActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
-* clase [TextAlignmentType](/cells/python-net/es/aspose.cells/textalignmenttype)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`SpinButtonActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* clase [`TextAlignmentType`](/cells/python-net/es/aspose.cells/textalignmenttype)

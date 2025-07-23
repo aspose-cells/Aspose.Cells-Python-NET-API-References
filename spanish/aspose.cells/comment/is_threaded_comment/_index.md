@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_threaded_comment propiedad
 
-Indica si este comentario es un comentario encadenado.
+Indica si este comentario es un comentario enhebrado.
 
 ###  Ejemplo
 

@@ -3,16 +3,17 @@ title: método unprotect
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 320
+weight: 340
 url: /es/aspose.cells/worksheet/unprotect/
 is_root: false
 ---
-##  unprotect {#}
-Desprotege la hoja de trabajo.
+##  unprotect(self) {#}
+Desprotege la hoja de cálculo.
 
 
 
 ```python
+
 def unprotect(self):
     ...
 ```
@@ -20,15 +21,16 @@ def unprotect(self):
 
 ###  Observaciones
 
-Este método desprotege la hoja de trabajo que está protegida sin contraseña.
+Este método desprotege las hojas de trabajo que están protegidas sin contraseña.
 
-##  unprotect {#str}
+##  unprotect(self, password) {#str}
 
-Desprotege la hoja de trabajo.
+Desprotege la hoja de cálculo.
 
 
 
 ```python
+
 def unprotect(self, password):
     ...
 ```

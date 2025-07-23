@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [DataSorterKeyCollection](/cells/python-net/es/aspose.cells/datasorterkeycollection)
+* módulo [`aspose.cells`](../../)
+* clase [`DataSorterKeyCollection`](/cells/python-net/es/aspose.cells/datasorterkeycollection)

@@ -21,5 +21,5 @@ def scale(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [TextureFill](/cells/python-net/es/aspose.cells.drawing/texturefill)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`TextureFill`](/cells/python-net/es/aspose.cells.drawing/texturefill)

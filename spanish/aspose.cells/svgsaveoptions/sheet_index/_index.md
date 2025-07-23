@@ -3,14 +3,11 @@ title: sheet_index propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 100
+weight: 120
 url: /es/aspose.cells/svgsaveoptions/sheet_index/
 is_root: false
 ---
 ##  sheet_index propiedad
-
-Obtiene y establece qué hoja de cálculo debe exportarse.
-Si el valor es -1, se exportará la hoja de trabajo activa.
 ###  Definición:
 ```python
 @property
@@ -22,5 +19,5 @@ def sheet_index(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [SvgSaveOptions](/cells/python-net/es/aspose.cells/svgsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`SvgSaveOptions`](/cells/python-net/es/aspose.cells/svgsaveoptions)

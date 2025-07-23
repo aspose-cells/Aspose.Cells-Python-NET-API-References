@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells.saving/sqlscriptsaveoptions/__init__/
 is_root: false
 ---
-##  SqlScriptSaveOptions() {#}
+##  \_\_init\_\_(yo mismo){#}
 Crea opciones para guardar el archivo sql.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ver también
-* módulo [aspose.cells.saving](../../)
-* clase [SqlScriptSaveOptions](/cells/python-net/es/aspose.cells.saving/sqlscriptsaveoptions)
+* módulo [`aspose.cells.saving`](../../)
+* clase [`SqlScriptSaveOptions`](/cells/python-net/es/aspose.cells.saving/sqlscriptsaveoptions)

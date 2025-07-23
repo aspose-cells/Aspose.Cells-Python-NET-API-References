@@ -3,16 +3,17 @@ title: ungroup metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 160
+weight: 240
 url: /sv/aspose.cells.pivot/pivotfield/ungroup/
 is_root: false
 ---
-##  ungroup {#}
-Dela upp pivotfältet.
+##  ungroup(self) {#}
+Avgruppera pivotfältet.
 
 
 
 ```python
+
 def ungroup(self):
     ...
 ```

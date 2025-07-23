@@ -3,20 +3,21 @@ title: método get_grouped_column_outline_level
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 380
+weight: 420
 url: /es/aspose.cells/cells/get_grouped_column_outline_level/
 is_root: false
 ---
-##  get_grouped_column_outline_level {#int}
-Obtiene el nivel de esquema (de base cero) de la columna.
+##  get_grouped_column_outline_level(self, column_index) {#int}
+Obtiene el nivel de esquema (basado en cero) de la columna.
 
 
 ###  Devoluciones
 
-El nivel de contorno de la columna.
+El nivel de contorno de la columna
 
 
 ```python
+
 def get_grouped_column_outline_level(self, column_index):
     ...
 ```

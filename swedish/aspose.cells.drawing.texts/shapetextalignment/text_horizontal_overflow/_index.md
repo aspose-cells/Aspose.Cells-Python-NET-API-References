@@ -3,13 +3,13 @@ title: text_horizontal_overflow fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 120
+weight: 130
 url: /sv/aspose.cells.drawing.texts/shapetextalignment/text_horizontal_overflow/
 is_root: false
 ---
 ##  text_horizontal_overflow fastighet
 
-Hämtar och ställer in textrutans horisontella överflödestyp.
+Hämtar och anger textrutans horisontella överflödestyp.
 
 ###  Exempel
 
@@ -30,6 +30,6 @@ def text_horizontal_overflow(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [ShapeTextAlignment](/cells/python-net/sv/aspose.cells.drawing.texts/shapetextalignment)
-* klass [TextOverflowType](/cells/python-net/sv/aspose.cells.drawing/textoverflowtype)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`ShapeTextAlignment`](/cells/python-net/sv/aspose.cells.drawing.texts/shapetextalignment)
+* klass [`TextOverflowType`](/cells/python-net/sv/aspose.cells.drawing/textoverflowtype)

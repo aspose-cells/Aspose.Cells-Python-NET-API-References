@@ -7,8 +7,8 @@ weight: 30
 url: /sv/aspose.cells/settablepivotglobalizationsettings/get_text_of_4_quaters/
 is_root: false
 ---
-##  get_text_of_4_quaters {#}
-Får den lokala texten av 4 Quaters.
+##  get_text_of_4_quaters(self) {#}
+Hämtar den lokala texten för 4 kvater.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Får den lokala texten av 4 Quaters.
 
 
 ```python
+
 def get_text_of_4_quaters(self):
     ...
 ```

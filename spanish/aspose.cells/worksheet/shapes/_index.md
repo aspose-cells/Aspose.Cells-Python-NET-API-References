@@ -3,13 +3,13 @@ title: shapes propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 750
+weight: 780
 url: /es/aspose.cells/worksheet/shapes/
 is_root: false
 ---
 ##  shapes propiedad
 
-Devuelve todo el dibujo shapes en esta hoja de trabajo.
+Devuelve todos los dibujos shapes en esta hoja de trabajo.
 ###  Definición:
 ```python
 @property

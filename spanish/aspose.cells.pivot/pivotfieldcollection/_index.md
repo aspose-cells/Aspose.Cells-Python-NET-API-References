@@ -3,13 +3,13 @@ title: PivotFieldCollection clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 80
+weight: 110
 url: /es/aspose.cells.pivot/pivotfieldcollection/
 is_root: false
 ---
 ##  PivotFieldCollection clase
-Representa una colección de todos los objetos PivotField.
-en el tipo de campos dinámicos específicos de la tabla dinámica.
+Representa una colección de todos los objetos PivotField
+en el tipo de campo dinámico específico de la tabla dinámica.
 
 
 
@@ -24,7 +24,7 @@ El tipo PivotFieldCollection expone los siguientes miembros:
 
 
 Obtiene el objeto PivotField en el índice específico.
-###  indexador
+###  Indexador
 | Nombre| Descripción|
 | :- | :- |
 | [index] |  |
@@ -33,10 +33,11 @@ Obtiene el objeto PivotField en el índice específico.
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [add_by_base_index](/cells/python-net/es/aspose.cells.pivot/pivotfieldcollection/add_by_base_index/#int) | Agrega un objeto PivotField al tipo específico PivotFields.|
-| [add](/cells/python-net/es/aspose.cells.pivot/pivotfieldcollection/add/#aspose.cells.pivot.PivotField) | Agrega un objeto PivotField al tipo específico PivotFields.|
-| [clear](/cells/python-net/es/aspose.cells.pivot/pivotfieldcollection/clear/#) | borrar todos los campos de PivotFieldCollection|
-| [move](/cells/python-net/es/aspose.cells.pivot/pivotfieldcollection/move/#int-int) | Mueve el campo dinámico desde la posición actual a la posición de destino|
+| [`get(self, name)`](/cells/python-net/es/aspose.cells.pivot/pivotfieldcollection/get/#str) |Obtiene el objeto PivotField del nombre específico.|
+| [`add_by_base_index(self, base_field_index)`](/cells/python-net/es/aspose.cells.pivot/pivotfieldcollection/add_by_base_index/#int) | Agrega un objeto PivotField al tipo específico PivotFields.|
+| [`add(self, pivot_field)`](/cells/python-net/es/aspose.cells.pivot/pivotfieldcollection/add/#aspose.cells.pivot.pivotfield) | Agrega un objeto PivotField al tipo específico PivotFields.|
+| [`clear(self)`](/cells/python-net/es/aspose.cells.pivot/pivotfieldcollection/clear/#) | borrar todos los campos de PivotFieldCollection|
+| [`move(self, curr_pos, dest_pos)`](/cells/python-net/es/aspose.cells.pivot/pivotfieldcollection/move/#int-int) | Mueve el campo dinámico desde la posición actual a la posición de destino|
 
 
 

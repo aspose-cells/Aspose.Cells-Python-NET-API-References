@@ -8,8 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/is_lock
 is_root: false
 ---
 ##  is_locked fastighet
-
-Indikerar om data i kontrollen är låst för redigering.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_locked(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ToggleButtonActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ToggleButtonActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

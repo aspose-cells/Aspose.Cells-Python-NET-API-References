@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  summary_below_data fastighet
 
-Anger om du lägger till sammanfattning nedanför data.
+Anger om en sammanfattning ska läggas till under data.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def summary_below_data(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [SubtotalSetting](/cells/python-net/sv/aspose.cells/subtotalsetting)
+* modul [`aspose.cells`](../../)
+* klass [`SubtotalSetting`](/cells/python-net/sv/aspose.cells/subtotalsetting)

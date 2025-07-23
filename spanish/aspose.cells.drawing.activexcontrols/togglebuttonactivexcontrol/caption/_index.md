@@ -21,5 +21,5 @@ def caption(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [ToggleButtonActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`ToggleButtonActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row_height_pixel fastighet
 
-Returnerar eller ställer in höjden, i pixlar, för varje rad i det angivna utsnittet.
+Returnerar eller anger höjden, i pixlar, för varje rad i den angivna utsnittaren.
 
 ###  Exempel
 
@@ -29,5 +29,5 @@ def row_height_pixel(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.slicers](../../)
-* klass [Slicer](/cells/python-net/sv/aspose.cells.slicers/slicer)
+* modul [`aspose.cells.slicers`](../../)
+* klass [`Slicer`](/cells/python-net/sv/aspose.cells.slicers/slicer)

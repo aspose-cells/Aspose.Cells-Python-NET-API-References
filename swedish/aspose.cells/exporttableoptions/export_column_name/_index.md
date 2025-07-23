@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  export_column_name fastighet
 
-Anger om data i den första raden exporteras till datatabellens kolumnnamn.
+Anger om data i den första raden exporteras till kolumnnamnet i datatabellen.
 Standardvärdet är falskt.
 ###  Definition:
 ```python

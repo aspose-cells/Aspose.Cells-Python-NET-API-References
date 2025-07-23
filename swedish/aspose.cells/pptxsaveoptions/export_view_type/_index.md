@@ -3,7 +3,7 @@ title: export_view_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 140
+weight: 170
 url: /sv/aspose.cells/pptxsaveoptions/export_view_type/
 is_root: false
 ---

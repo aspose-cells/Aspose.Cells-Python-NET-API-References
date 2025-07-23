@@ -3,13 +3,13 @@ title: max fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 830
+weight: 840
 url: /sv/aspose.cells.drawing/scrollbar/max/
 is_root: false
 ---
 ##  max fastighet
 
-Hämtar eller ställer in det maximala värdet för en rullningslist eller spinnerområde.
+Hämtar eller ställer in det maximala värdet för en rullningslist eller ett rotationsintervall.
 ###  Definition:
 ```python
 @property

@@ -8,7 +8,7 @@ url: /sv/aspose.cells.charts/mapchartlabellayout/
 is_root: false
 ---
 ##  MapChartLabelLayout uppräkning
-Representerar layouten för kartkartans etiketter.
+Representerar layouten för kartdiagrammets etiketter.
 
 
 
@@ -24,4 +24,4 @@ Typen MapChartLabelLayout avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

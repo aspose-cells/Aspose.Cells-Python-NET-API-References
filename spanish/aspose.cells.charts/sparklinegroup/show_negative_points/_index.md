@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_negative_points propiedad
 
-Indica si resaltar los valores negativos en el grupo de minigráficos con un color o marcador diferente.
+Indica si se deben resaltar los valores negativos en el grupo de minigráficos con un color o marcador diferente.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_negative_points(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [SparklineGroup](/cells/python-net/es/aspose.cells.charts/sparklinegroup)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`SparklineGroup`](/cells/python-net/es/aspose.cells.charts/sparklinegroup)

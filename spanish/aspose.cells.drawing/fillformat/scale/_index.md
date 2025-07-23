@@ -21,5 +21,5 @@ def scale(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [FillFormat](/cells/python-net/es/aspose.cells.drawing/fillformat)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`FillFormat`](/cells/python-net/es/aspose.cells.drawing/fillformat)

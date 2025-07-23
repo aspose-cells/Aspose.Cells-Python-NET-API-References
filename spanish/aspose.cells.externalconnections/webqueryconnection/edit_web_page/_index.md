@@ -3,15 +3,15 @@ title: edit_web_page propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 90
+weight: 140
 url: /es/aspose.cells.externalconnections/webqueryconnection/edit_web_page/
 is_root: false
 ---
 ##  edit_web_page propiedad
 
-La URL de la página web orientada al usuario que muestra los datos de la consulta web. Esta URL se conserva
-en el caso de que sourceData="true" y url hayan sido redirigidos para hacer referencia a un archivo XML.
-Luego, la página orientada al usuario se puede mostrar en la interfaz de usuario y los datos XML se pueden recuperar.
+La URL de la página web visible para el usuario que muestra los datos de la consulta web. Esta URL se conserva.
+en el caso de que sourceData="true" y la URL haya sido redirigida para hacer referencia a un archivo XML.
+Luego, la página que enfrenta el usuario se puede mostrar en la interfaz de usuario y se pueden recuperar los datos XML.
 entre bastidores.
 ###  Definición:
 ```python
@@ -24,5 +24,5 @@ def edit_web_page(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.externalconnections](../../)
-* clase [WebQueryConnection](/cells/python-net/es/aspose.cells.externalconnections/webqueryconnection)
+* módulo [`aspose.cells.externalconnections`](../../)
+* clase [`WebQueryConnection`](/cells/python-net/es/aspose.cells.externalconnections/webqueryconnection)

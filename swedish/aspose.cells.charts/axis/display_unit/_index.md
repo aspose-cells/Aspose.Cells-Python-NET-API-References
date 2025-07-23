@@ -3,13 +3,13 @@ title: display_unit fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 150
+weight: 160
 url: /sv/aspose.cells.charts/axis/display_unit/
 is_root: false
 ---
 ##  display_unit fastighet
 
-Representerar enhetsetiketten för den angivna axeln.
+Representerar enhetsbeteckningen för den angivna axeln.
 ###  Definition:
 ```python
 @property

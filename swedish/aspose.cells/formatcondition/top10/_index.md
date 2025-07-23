@@ -11,8 +11,8 @@ is_root: false
 
 Hämta den villkorliga formateringens "Top10"-instans.
 Standardinstansens regel markerar celler vars
-värden hamnar i topp 10-parentesen.
-Gäller endast för typ är Top10.
+värdena hamnar i topp 10-klassen.
+Gäller endast för typen Top10.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def top10(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormatCondition](/cells/python-net/sv/aspose.cells/formatcondition)
-* klass [Top10](/cells/python-net/sv/aspose.cells/top10)
+* modul [`aspose.cells`](../../)
+* klass [`FormatCondition`](/cells/python-net/sv/aspose.cells/formatcondition)
+* klass [`Top10`](/cells/python-net/sv/aspose.cells/top10)

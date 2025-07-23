@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_settings propiedad
 
-La configuración con formato enriquecido para el texto reemplazado.
+La configuración de formato enriquecido para el texto reemplazado.
 ###  Definición:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_negative_bubbles propiedad
 
-True si se muestran burbujas negativas para el grupo de gráficos. Válido solo para gráficos de burbujas.
+Verdadero si se muestran burbujas negativas para el grupo de gráficos. Válido solo para gráficos de burbujas.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_negative_bubbles(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Series](/cells/python-net/es/aspose.cells.charts/series)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Series`](/cells/python-net/es/aspose.cells.charts/series)

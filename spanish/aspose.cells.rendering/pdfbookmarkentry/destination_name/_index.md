@@ -13,7 +13,7 @@ Obtiene o establece el nombre del destino.
 
 ###  Observaciones
 
-Si se establece el nombre de destino, el destino se definirá como un destino con nombre con este nombre.
+Si se establece un nombre de destino, el destino se definirá como un destino con este nombre.
 ###  Definición:
 ```python
 @property
@@ -25,5 +25,5 @@ def destination_name(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.rendering](../../)
-* clase [PdfBookmarkEntry](/cells/python-net/es/aspose.cells.rendering/pdfbookmarkentry)
+* módulo [`aspose.cells.rendering`](../../)
+* clase [`PdfBookmarkEntry`](/cells/python-net/es/aspose.cells.rendering/pdfbookmarkentry)

@@ -7,12 +7,13 @@ weight: 30
 url: /sv/aspose.cells/range/apply_style/
 is_root: false
 ---
-##  apply_style {#aspose.cells.Style-aspose.cells.StyleFlag}
-Gäller format för en hel rad.
+##  apply_style(self, style, flag) {#aspose.cells.Style-aspose.cells.StyleFlag}
+Tillämpar format för ett helt intervall.
 
 
 
 ```python
+
 def apply_style(self, style, flag):
     ...
 ```
@@ -24,8 +25,8 @@ def apply_style(self, style, flag):
 | flag | [`StyleFlag`](/cells/python-net/sv/aspose.cells/styleflag) | Flaggor som indikerar tillämpade formateringsegenskaper.|
 ###  Anmärkningar
 
-Varje cell i det här intervallet kommer att innehålla ett [`Style`](/cells/python-net/sv/aspose.cells/style)-objekt.
-Detta är alltså en minneskrävande metod. Använd den försiktigt.
+Varje cell i detta intervall kommer att innehålla ett [`Style`](/cells/python-net/sv/aspose.cells/style)-objekt.
+Så detta är en minneskrävande metod. Var vänlig och använd den försiktigt.
 
 
 ###  Se även

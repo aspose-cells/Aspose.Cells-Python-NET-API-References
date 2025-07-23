@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font fastighet
 
-Representerar formens font.
+Representerar formen font.
 
 ###  Exempel
 

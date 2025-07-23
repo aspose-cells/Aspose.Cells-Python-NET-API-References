@@ -3,13 +3,13 @@ title: is_hidden fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 80
+weight: 120
 url: /sv/aspose.cells.pivot/pivotitem/is_hidden/
 is_root: false
 ---
 ##  is_hidden fastighet
 
-Hämtar och ställer in om pivotobjektet är dolt.
+Hämtar och anger om pivotobjektet är dolt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_hidden(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotItem](/cells/python-net/sv/aspose.cells.pivot/pivotitem)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotItem`](/cells/python-net/sv/aspose.cells.pivot/pivotitem)

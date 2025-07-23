@@ -7,12 +7,13 @@ weight: 50
 url: /sv/aspose.cells/worksheet/auto_fit_columns/
 is_root: false
 ---
-##  auto_fit_columns() {#}
-Autopassar alla kolumner i detta kalkylblad.
+##  auto_fit_columns(self) {#}
+Autoanpassar alla kolumner i det här kalkylbladet.
 
 
 
 ```python
+
 def auto_fit_columns(self):
     ...
 ```
@@ -20,12 +21,13 @@ def auto_fit_columns(self):
 
 
 
-##  auto_fit_columns(options) {#AutoFitterOptions}
-Autopassar alla kolumner i detta kalkylblad.
+##  auto_fit_columns(self, options) {#aspose.cells.AutoFitterOptions}
+Autoanpassar alla kolumner i det här kalkylbladet.
 
 
 
 ```python
+
 def auto_fit_columns(self, options):
     ...
 ```
@@ -33,15 +35,16 @@ def auto_fit_columns(self, options):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| options | [AutoFitterOptions](/cells/python-net/sv/aspose.cells/autofitteroptions) | Alternativen för automatisk montering|
+| options | [`AutoFitterOptions`](/cells/python-net/sv/aspose.cells/autofitteroptions) | Alternativen för automatisk anpassning|
 
 
-##  auto_fit_columns(first_column, last_column) {#int-int}
-Autopassar spalternas bredd.
+##  auto_fit_columns(self, first_column, last_column) {#int-int}
+Anpassar kolumnernas bredd automatiskt.
 
 
 
 ```python
+
 def auto_fit_columns(self, first_column, last_column):
     ...
 ```
@@ -49,19 +52,20 @@ def auto_fit_columns(self, first_column, last_column):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| first_column | int | Första kolumnindex.|
-| last_column | int | Sista kolumnindex.|
+| first_column | int | Första kolumnens index.|
+| last_column | int | Index för sista kolumnen.|
 ###  Anmärkningar
 
 AutoFitColumn är en oprecis funktion.
 
-##  auto_fit_columns(first_column, last_column, options) {#int-int-AutoFitterOptions}
+##  auto_fit_columns(self, first_column, last_column, options) {#int-int-aspose.cells.AutoFitterOptions}
 
-Autopassar spalternas bredd.
+Anpassar kolumnernas bredd automatiskt.
 
 
 
 ```python
+
 def auto_fit_columns(self, first_column, last_column, options):
     ...
 ```
@@ -69,20 +73,21 @@ def auto_fit_columns(self, first_column, last_column, options):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| first_column | int | Första kolumnindex.|
-| last_column | int | Sista kolumnindex.|
-| options | [AutoFitterOptions](/cells/python-net/sv/aspose.cells/autofitteroptions) | Alternativen för automatisk montering|
+| first_column | int | Första kolumnens index.|
+| last_column | int | Index för sista kolumnen.|
+| options | [`AutoFitterOptions`](/cells/python-net/sv/aspose.cells/autofitteroptions) | Alternativen för automatisk anpassning|
 ###  Anmärkningar
 
 AutoFitColumn är en oprecis funktion.
 
-##  auto_fit_columns(first_row, first_column, last_row, last_column) {#int-int-int-int}
+##  auto_fit_columns(self, first_row, first_column, last_row, last_column) {#int-int-int-int}
 
-Autopassar spalternas bredd.
+Anpassar kolumnernas bredd automatiskt.
 
 
 
 ```python
+
 def auto_fit_columns(self, first_row, first_column, last_row, last_column):
     ...
 ```
@@ -91,20 +96,21 @@ def auto_fit_columns(self, first_row, first_column, last_row, last_column):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | first_row | int | Första radens index.|
-| first_column | int | Första kolumnindex.|
-| last_row | int | Sista radens index.|
-| last_column | int | Sista kolumnindex.|
+| first_column | int | Första kolumnens index.|
+| last_row | int | Index för sista raden.|
+| last_column | int | Index för sista kolumnen.|
 ###  Anmärkningar
 
 AutoFitColumn är en oprecis funktion.
 
-##  auto_fit_columns(first_row, first_column, last_row, last_column, options) {#int-int-int-int-AutoFitterOptions}
+##  auto_fit_columns(self, first_row, first_column, last_row, last_column, options) {#int-int-int-int-aspose.cells.AutoFitterOptions}
 
-Autopassar spalternas bredd.
+Anpassar kolumnernas bredd automatiskt.
 
 
 
 ```python
+
 def auto_fit_columns(self, first_row, first_column, last_row, last_column, options):
     ...
 ```
@@ -113,10 +119,10 @@ def auto_fit_columns(self, first_row, first_column, last_row, last_column, optio
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | first_row | int | Första radens index.|
-| first_column | int | Första kolumnindex.|
-| last_row | int | Sista radens index.|
-| last_column | int | Sista kolumnindex.|
-| options | [AutoFitterOptions](/cells/python-net/sv/aspose.cells/autofitteroptions) | Alternativen för automatisk montering|
+| first_column | int | Första kolumnens index.|
+| last_row | int | Index för sista raden.|
+| last_column | int | Index för sista kolumnen.|
+| options | [`AutoFitterOptions`](/cells/python-net/sv/aspose.cells/autofitteroptions) | Alternativen för automatisk anpassning|
 ###  Anmärkningar
 
 AutoFitColumn är en oprecis funktion.
@@ -124,5 +130,5 @@ AutoFitColumn är en oprecis funktion.
 
 ###  Se även
 
-* modul [aspose.cells](../../)
-* klass [Worksheet](/cells/python-net/sv/aspose.cells/worksheet)
+* modul [`aspose.cells`](../../)
+* klass [`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet)

@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  min_cfvo fastighet
 
-Hämta eller ställ in denna DataBars minvärdeobjekt.
-Det går inte att ställa in null eller CFValueObject med typen FormatConditionValueType.Max.
+Hämta eller ange detta DataBars minvärdeobjekt.
+Det går inte att ange null eller CFValueObject med typen FormatConditionValueType.Max.
 ###  Definition:
 ```python
 @property
@@ -19,6 +19,6 @@ def min_cfvo(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ConditionalFormattingValue](/cells/python-net/sv/aspose.cells/conditionalformattingvalue)
-* klass [DataBar](/cells/python-net/sv/aspose.cells/databar)
+* modul [`aspose.cells`](../../)
+* klass [`ConditionalFormattingValue`](/cells/python-net/sv/aspose.cells/conditionalformattingvalue)
+* klass [`DataBar`](/cells/python-net/sv/aspose.cells/databar)

@@ -3,7 +3,7 @@ title: html_text fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 490
+weight: 480
 url: /sv/aspose.cells.drawing/cellsdrawing/html_text/
 is_root: false
 ---

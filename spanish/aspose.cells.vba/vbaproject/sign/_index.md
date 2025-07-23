@@ -1,5 +1,5 @@
 ---
-title: sign método
+title: método sign
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 40
 url: /es/aspose.cells.vba/vbaproject/sign/
 is_root: false
 ---
-##  sign(digital_signature) {#aspose.cells.digitalsignatures.DigitalSignature}
-Firme este proyecto de VBA con una firma digital
+##  sign(self, digital_signature) {#aspose.cells.digitalsignatures.DigitalSignature}
+Firme este proyecto VBA con una firma digital
 
 
 
 ```python
+
 def sign(self, digital_signature):
     ...
 ```
@@ -25,5 +26,5 @@ def sign(self, digital_signature):
 
 
 ###  Ver también
-* módulo [aspose.cells.vba](../../)
-* clase [VbaProject](/cells/python-net/es/aspose.cells.vba/vbaproject)
+* módulo [`aspose.cells.vba`](../../)
+* clase [`VbaProject`](/cells/python-net/es/aspose.cells.vba/vbaproject)

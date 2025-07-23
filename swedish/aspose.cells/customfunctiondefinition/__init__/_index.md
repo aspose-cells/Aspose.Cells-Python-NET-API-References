@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells/customfunctiondefinition/__init__/
 is_root: false
 ---
-##  __i det__ {#}
+##  \_\_init\_\_(själv){#}
 Konstruerar en ny instans av CustomFunctionDefinition
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

@@ -3,13 +3,13 @@ title: is_repeat_item_labels propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 450
+weight: 530
 url: /es/aspose.cells.pivot/pivotfield/is_repeat_item_labels/
 is_root: false
 ---
 ##  is_repeat_item_labels propiedad
 
-indica si el campo puede repetir etiquetas de elementos
+Indica si se repiten etiquetas del campo en la región.
 El valor predeterminado es falso.
 ###  Definición:
 ```python

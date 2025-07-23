@@ -19,9 +19,9 @@ Typen ChartMarkerType avslöjar följande medlemmar:
 | :- | :- |
 | AUTOMATIC | Automatiska markörer.|
 | CIRCLE | Cirkulära markörer.|
-| DASH | Långa stångmarkörer|
+| DASH | Långa streckmarkörer|
 | DIAMOND | Diamantformade markörer.|
-| DOT | Korta streckmarkörer.|
+| DOT | Korta stapelmarkörer.|
 | NONE | Inga markörer.|
 | SQUARE_PLUS | Fyrkantiga markörer med ett plustecken.|
 | SQUARE | Fyrkantiga markörer.|

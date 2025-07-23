@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column fastighet
 
-Hämta och ställer in column index för cellen.
+Hämta och anger column-indexet för cellen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def column(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.ods](../../)
-* klass [OdsCellField](/cells/python-net/sv/aspose.cells.ods/odscellfield)
+* modul [`aspose.cells.ods`](../../)
+* klass [`OdsCellField`](/cells/python-net/sv/aspose.cells.ods/odscellfield)

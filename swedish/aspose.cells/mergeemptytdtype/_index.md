@@ -3,7 +3,7 @@ title: MergeEmptyTdType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2330
+weight: 2290
 url: /sv/aspose.cells/mergeemptytdtype/
 is_root: false
 ---
@@ -18,8 +18,8 @@ Typen MergeEmptyTdType avslöjar följande medlemmar:
 | Fält| Beskrivning|
 | :- | :- |
 | DEFAULT | Visa som MS Excel.|
-| NONE | Tomma TD-element kommer inte att slås samman vid export av fil till html.<br/> Detta kommer att generera en betydligt större html-fil.|
-| MERGE_FORCELY | Sammanfogar tomt TD-element tvång vid export av fil till html.<br/>Storleken på html-filen kommer att minskas avsevärt efter att värdet ställts in på sant.<br/> Om du vill importera html-filen till Excel eller exportera perfekta rutnätslinjer när du sparar filen till html,<br/> behåll standardvärdet.|
+| NONE | Tomma TD-element kommer inte att slås samman när filen exporteras till html.<br/> Detta kommer att generera en betydligt större html-fil.|
+| MERGE_FORCELY | Sammanfogar tomma TD-element med tvång vid export av fil till html.<br/>Storleken på html-filen kommer att minskas avsevärt efter att värdet ställts in på true.<br/> Om du vill importera HTML-filen till Excel eller exportera perfekta rutnät när du sparar filen till HTML,<br/> vänligen behåll standardvärdet.|
 
 
 

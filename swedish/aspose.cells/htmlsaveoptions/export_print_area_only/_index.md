@@ -3,13 +3,13 @@ title: export_print_area_only fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 330
+weight: 390
 url: /sv/aspose.cells/htmlsaveoptions/export_print_area_only/
 is_root: false
 ---
 ##  export_print_area_only fastighet
 
-Anger om utskriftsområdet endast exporteras till html-fil. Standardvärdet är falskt.
+Anger om endast utskriftsområdet exporteras till en html-fil. Standardvärdet är falskt.
 ###  Definition:
 ```python
 @property

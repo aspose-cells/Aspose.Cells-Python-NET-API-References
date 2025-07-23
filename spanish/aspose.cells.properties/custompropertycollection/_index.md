@@ -8,7 +8,7 @@ url: /es/aspose.cells.properties/custompropertycollection/
 is_root: false
 ---
 ##  CustomPropertyCollection clase
-Una colección de [CustomProperty](/cells/python-net/es/aspose.cells.properties/customproperty) objetos que representan información adicional.
+Una colección de [`CustomProperty`](/cells/python-net/es/aspose.cells.properties/customproperty) objetos que representan información adicional.
 
 
 
@@ -23,18 +23,19 @@ El tipo CustomPropertyCollection expone los siguientes miembros:
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [copy_to(array)](/cells/python-net/es/aspose.cells.properties/custompropertycollection/copy_to/#list) | Copia toda la lista de matrices en una lista de matrices unidimensional compatible, comenzando por el principio de la lista de matrices de destino.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/es/aspose.cells.properties/custompropertycollection/copy_to/#int-list-int-int) |Copia un rango de elementos de la lista de arreglos a una lista de arreglos unidimensional compatible, comenzando en el índice especificado de la lista de arreglos de destino.|
-| [index_of(item, index)](/cells/python-net/es/aspose.cells.properties/custompropertycollection/index_of/#CustomProperty-int) | Busca el objeto especificado y devuelve el índice basado en cero de la primera aparición dentro del rango de elementos en la lista de arreglos que se extiende desde el índice especificado hasta el último elemento.|
-| [index_of(item, index, count)](/cells/python-net/es/aspose.cells.properties/custompropertycollection/index_of/#CustomProperty-int-int) | Busca el objeto especificado y devuelve el índice basado en cero de la primera aparición dentro del rango de elementos en la lista de matriz que comienza en el índice especificado y contiene el número especificado de elementos.|
-| [last_index_of(item)](/cells/python-net/es/aspose.cells.properties/custompropertycollection/last_index_of/#CustomProperty) | Busca el objeto especificado y devuelve el índice de base cero de la última aparición en toda la lista de matrices.|
-| [last_index_of(item, index)](/cells/python-net/es/aspose.cells.properties/custompropertycollection/last_index_of/#CustomProperty-int) | Busca el objeto especificado y devuelve el índice basado en cero de la última aparición dentro del rango de elementos en la lista de arreglos que se extiende desde el primer elemento hasta el índice especificado.|
-| [last_index_of(item, index, count)](/cells/python-net/es/aspose.cells.properties/custompropertycollection/last_index_of/#CustomProperty-int-int) |Busca el objeto especificado y devuelve el índice basado en cero de la última aparición dentro del rango de elementos en la lista de matriz que contiene el número especificado de elementos y termina en el índice especificado.|
-| [add(name, value)](/cells/python-net/es/aspose.cells.properties/custompropertycollection/add/#str-str) | Agrega información de propiedad personalizada.|
-| [binary_search(item)](/cells/python-net/es/aspose.cells.properties/custompropertycollection/binary_search/#CustomProperty) | Busca un elemento en toda la lista de matrices ordenadas mediante el comparador predeterminado y devuelve el índice de base cero del elemento.|
+| [`copy_to(self, array)`](/cells/python-net/es/aspose.cells.properties/custompropertycollection/copy_to/#list) |Copia la lista de matrices completa a una lista de matrices unidimensional compatible, comenzando por el principio de la lista de matrices de destino.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/es/aspose.cells.properties/custompropertycollection/copy_to/#int-list-int-int) | Copia un rango de elementos de la lista de matrices a una lista de matrices unidimensionales compatible, comenzando en el índice especificado de la lista de matrices de destino.|
+| [`index_of(self, item, index)`](/cells/python-net/es/aspose.cells.properties/custompropertycollection/index_of/#aspose.cells.properties.customproperty-int) | Busca el objeto especificado y devuelve el índice basado en cero de la primera ocurrencia dentro del rango de elementos en la lista de la matriz que se extiende desde el índice especificado hasta el último elemento.|
+| [`index_of(self, item, index, count)`](/cells/python-net/es/aspose.cells.properties/custompropertycollection/index_of/#aspose.cells.properties.customproperty-int-int) | Busca el objeto especificado y devuelve el índice basado en cero de la primera ocurrencia dentro del rango de elementos en la lista de matriz que comienza en el índice especificado y contiene la cantidad especificada de elementos.|
+| [`last_index_of(self, item)`](/cells/python-net/es/aspose.cells.properties/custompropertycollection/last_index_of/#aspose.cells.properties.customproperty) | Busca el objeto especificado y devuelve el índice basado en cero de la última aparición dentro de toda la lista de la matriz.|
+| [`last_index_of(self, item, index)`](/cells/python-net/es/aspose.cells.properties/custompropertycollection/last_index_of/#aspose.cells.properties.customproperty-int) |Busca el objeto especificado y devuelve el índice basado en cero de la última ocurrencia dentro del rango de elementos en la lista de matriz que se extiende desde el primer elemento hasta el índice especificado.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/es/aspose.cells.properties/custompropertycollection/last_index_of/#aspose.cells.properties.customproperty-int-int) | Busca el objeto especificado y devuelve el índice basado en cero de la última ocurrencia dentro del rango de elementos en la lista de matriz que contiene la cantidad especificada de elementos y termina en el índice especificado.|
+| [`add(self, name, value)`](/cells/python-net/es/aspose.cells.properties/custompropertycollection/add/#str-str) | Agrega información de propiedad personalizada.|
+| [`get(self, name)`](/cells/python-net/es/aspose.cells.properties/custompropertycollection/get/#str) | Obtiene la propiedad personalizada por el nombre de la propiedad.|
+| [`binary_search(self, item)`](/cells/python-net/es/aspose.cells.properties/custompropertycollection/binary_search/#aspose.cells.properties.customproperty) | Busca en toda la lista de la matriz ordenada un elemento utilizando el comparador predeterminado y devuelve el índice basado en cero del elemento.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.properties](..)
-* clase [CustomProperty](/cells/python-net/es/aspose.cells.properties/customproperty)
+* módulo [`aspose.cells.properties`](..)
+* clase [`CustomProperty`](/cells/python-net/es/aspose.cells.properties/customproperty)

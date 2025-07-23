@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_inserting_hyperlink fastighet
 
-Representerar om infogning av hyperlänkar är tillåten på ett skyddat kalkylblad
+Representerar om infogning av hyperlänkar är tillåten i ett skyddat kalkylblad
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_inserting_hyperlink(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Protection](/cells/python-net/sv/aspose.cells/protection)
+* modul [`aspose.cells`](../../)
+* klass [`Protection`](/cells/python-net/sv/aspose.cells/protection)

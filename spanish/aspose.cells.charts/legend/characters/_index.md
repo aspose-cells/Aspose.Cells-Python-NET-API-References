@@ -1,5 +1,5 @@
 ---
-title: characters método
+title: método characters
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 20
 url: /es/aspose.cells.charts/legend/characters/
 is_root: false
 ---
-##  characters(start_index, length) {#int-int}
-Devuelve un objeto Characters que representa un rango de characters dentro del texto.
+##  characters(self, start_index, length) {#int-int}
+Devuelve un objeto Caracteres que representa un rango de characters dentro del texto.
 
 
 ###  Devoluciones
 
-Objeto de los personajes.
+Objeto de personajes.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -30,5 +31,5 @@ def characters(self, start_index, length):
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Legend](/cells/python-net/es/aspose.cells.charts/legend)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Legend`](/cells/python-net/es/aspose.cells.charts/legend)

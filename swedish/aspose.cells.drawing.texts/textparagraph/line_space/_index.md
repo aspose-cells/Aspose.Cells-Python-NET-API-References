@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  line_space fastighet
 
-Hämtar och ställer in mängden vertikalt vitt utrymme som kommer att användas inom ett stycke.
+Hämtar och anger mängden vertikalt vitt utrymme som ska användas i ett stycke.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def line_space(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [TextParagraph](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`TextParagraph`](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)

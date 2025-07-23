@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom_margin fastighet
 
-Representerar storleken på bottenmarginalen, i centimeterenhet.
+Representerar storleken på den nedre marginalen, i centimeter.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def bottom_margin(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

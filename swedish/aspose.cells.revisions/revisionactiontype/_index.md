@@ -18,13 +18,13 @@ Typen RevisionActionType avslöjar följande medlemmar:
 | Fält| Beskrivning|
 | :- | :- |
 | ADD | Lägg till revision.|
-| DELETE | Ta bort revision.|
-| DELETE_COLUMN | Kolumn radera revision.|
-| DELETE_ROW | Rad radera revision.|
-| INSERT_COLUMN | Kolumn infoga revision.|
-| INSERT_ROW | Revision av radinfogning.|
+| DELETE | Ta bort revisionen.|
+| DELETE_COLUMN | Revision av borttagning av kolumn.|
+| DELETE_ROW | Revision av radborttagning.|
+| INSERT_COLUMN | Revision av kolumninlägg.|
+| INSERT_ROW | Revision av radinsättning.|
 
 
 
 ###  Se även
-* modul [aspose.cells.revisions](..)
+* modul [`aspose.cells.revisions`](..)

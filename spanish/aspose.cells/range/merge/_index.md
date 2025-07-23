@@ -3,16 +3,17 @@ title: método merge
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 150
+weight: 200
 url: /es/aspose.cells/range/merge/
 is_root: false
 ---
-##  merge {#}
-Combina una variedad de celdas en una sola celda.
+##  merge(self) {#}
+Combina un rango de celdas en una sola celda.
 
 
 
 ```python
+
 def merge(self):
     ...
 ```

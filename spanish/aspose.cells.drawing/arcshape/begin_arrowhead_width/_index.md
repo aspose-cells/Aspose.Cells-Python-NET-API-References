@@ -3,7 +3,7 @@ title: begin_arrowhead_width propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 330
+weight: 340
 url: /es/aspose.cells.drawing/arcshape/begin_arrowhead_width/
 is_root: false
 ---
@@ -13,10 +13,10 @@ Obtiene y establece el ancho de la punta de flecha inicial de la línea.
 
 ###  Observaciones
 
- NOTA: Este miembro ahora está obsoleto. En cambio,
- utilice la propiedad Shape.Line.BeginArrowheadWidth.
+ NOTA: Este miembro ya no está disponible. En su lugar,
+ Utilice la propiedad Shape.Line.BeginArrowheadWidth.
  Esta propiedad será eliminada 12 meses después desde agosto de 2016.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 ###  Definición:
 ```python
 @property

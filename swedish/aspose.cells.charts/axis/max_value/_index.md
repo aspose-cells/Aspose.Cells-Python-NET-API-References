@@ -3,7 +3,7 @@ title: max_value fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 320
+weight: 330
 url: /sv/aspose.cells.charts/axis/max_value/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Representerar det maximala värdet på värdeaxeln.
 
 ###  Anmärkningar
 
-Endast typen maxValue kan vara dubbel eller DateTime
+Endast maxValue-typen kan vara double eller DateTime
 ###  Definition:
 ```python
 @property

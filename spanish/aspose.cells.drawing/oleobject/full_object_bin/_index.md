@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  full_object_bin propiedad
 
-Obtiene los datos binarios del objeto OLE incrustados completos en el archivo de plantilla.
+Obtiene todos los datos binarios del objeto ole incrustado en el archivo de plantilla.
 ###  Definición:
 ```python
 @property

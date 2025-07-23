@@ -3,13 +3,13 @@ title: names fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 320
+weight: 340
 url: /sv/aspose.cells/worksheetcollection/names/
 is_root: false
 ---
 ##  names fastighet
 
-Hämtar samlingen av alla namnobjekt i kalkylarket.
+Hämtar samlingen av alla Name-objekt i kalkylbladet.
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  look_in_type fastighet
 
-Titta i typ.
+Titta med typsnitt.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def look_in_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FindOptions](/cells/python-net/sv/aspose.cells/findoptions)
-* klass [LookInType](/cells/python-net/sv/aspose.cells/lookintype)
+* modul [`aspose.cells`](../../)
+* klass [`FindOptions`](/cells/python-net/sv/aspose.cells/findoptions)
+* klass [`LookInType`](/cells/python-net/sv/aspose.cells/lookintype)

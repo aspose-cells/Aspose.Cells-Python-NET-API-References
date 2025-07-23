@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  tile_pic_option fastighet
 
-Får eller ställer in alternativ för kakelbild.
+Hämtar eller ställer in alternativet för kakelbild.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def tile_pic_option(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [TextureFill](/cells/python-net/sv/aspose.cells.drawing/texturefill)
-* klass [TilePicOption](/cells/python-net/sv/aspose.cells.drawing/tilepicoption)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`TextureFill`](/cells/python-net/sv/aspose.cells.drawing/texturefill)
+* klass [`TilePicOption`](/cells/python-net/sv/aspose.cells.drawing/tilepicoption)

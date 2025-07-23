@@ -7,16 +7,17 @@ weight: 20
 url: /sv/aspose.cells.drawing/shapesegmentpathcollection/add/
 is_root: false
 ---
-##  add(type) {#ShapePathType}
-Lägg till en segmentsökväg i skapande sökväg.
+##  add(self, type) {#aspose.cells.drawing.ShapePathType}
+Lägg till en segmentsökväg i skapandesökvägen.
 
 
 ###  Returnerar
 
-Returnerar positionen för [ShapeSegmentPath](/cells/python-net/sv/aspose.cells.drawing/shapesegmentpath) objekt i listan.
+Returnerar positionen för objektet [`ShapeSegmentPath`](/cells/python-net/sv/aspose.cells.drawing/shapesegmentpath) i listan.
 
 
 ```python
+
 def add(self, type):
     ...
 ```
@@ -24,11 +25,11 @@ def add(self, type):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| type | [ShapePathType](/cells/python-net/sv/aspose.cells.drawing/shapepathtype) | Typ av väg.|
+| type | [`ShapePathType`](/cells/python-net/sv/aspose.cells.drawing/shapepathtype) | Sökvägstypen.|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShapeSegmentPath](/cells/python-net/sv/aspose.cells.drawing/shapesegmentpath)
-* klass [ShapeSegmentPathCollection](/cells/python-net/sv/aspose.cells.drawing/shapesegmentpathcollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShapeSegmentPath`](/cells/python-net/sv/aspose.cells.drawing/shapesegmentpath)
+* klass [`ShapeSegmentPathCollection`](/cells/python-net/sv/aspose.cells.drawing/shapesegmentpathcollection)

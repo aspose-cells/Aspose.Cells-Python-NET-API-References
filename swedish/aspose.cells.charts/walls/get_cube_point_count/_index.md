@@ -7,12 +7,13 @@ weight: 20
 url: /sv/aspose.cells.charts/walls/get_cube_point_count/
 is_root: false
 ---
-##  get_cube_point_count() {#}
-Får antalet kubpoäng efter anrop av metoden Chart.Calculate().
+##  get_cube_point_count(self) {#}
+Hämtar antalet kubpunkter efter anrop av metoden Chart.Calculate().
 
 
 
 ```python
+
 def get_cube_point_count(self):
     ...
 ```
@@ -22,5 +23,5 @@ def get_cube_point_count(self):
 
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Walls](/cells/python-net/sv/aspose.cells.charts/walls)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Walls`](/cells/python-net/sv/aspose.cells.charts/walls)

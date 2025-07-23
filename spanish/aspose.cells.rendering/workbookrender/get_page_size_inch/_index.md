@@ -7,16 +7,17 @@ weight: 40
 url: /es/aspose.cells.rendering/workbookrender/get_page_size_inch/
 is_root: false
 ---
-##  get_page_size_inch {#int}
+##  get_page_size_inch(self, page_index) {#int}
 Obtenga el tamaño de página en pulgadas de la imagen de salida.
 
 
 ###  Devoluciones
 
-Tamaño de página de la imagen, [0] para ancho y [1] para alto
+Tamaño de página de la imagen, [0] para el ancho y [1] para la altura
 
 
 ```python
+
 def get_page_size_inch(self, page_index):
     ...
 ```
@@ -24,7 +25,7 @@ def get_page_size_inch(self, page_index):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| page_index | int |El índice de la página se basa en cero.|
+| page_index | int | El índice de la página se basa en cero.|
 
 
 

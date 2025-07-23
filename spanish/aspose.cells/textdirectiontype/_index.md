@@ -3,12 +3,12 @@ title: TextDirectionType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2640
+weight: 2610
 url: /es/aspose.cells/textdirectiontype/
 is_root: false
 ---
 ##  TextDirectionType enumeración
-Representa la dirección del flujo de texto de este párrafo.
+Representa la dirección del flujo de texto para este párrafo.
 
 
 

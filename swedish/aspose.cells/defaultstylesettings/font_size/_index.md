@@ -3,13 +3,13 @@ title: font_size fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 40
+weight: 50
 url: /sv/aspose.cells/defaultstylesettings/font_size/
 is_root: false
 ---
 ##  font_size fastighet
 
-Hämtar/ställer in standard standard teckenstorlek för arbetsboken.
+Hämtar/ställer in standardteckenstorleken för arbetsboken.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_size(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DefaultStyleSettings](/cells/python-net/sv/aspose.cells/defaultstylesettings)
+* modul [`aspose.cells`](../../)
+* klass [`DefaultStyleSettings`](/cells/python-net/sv/aspose.cells/defaultstylesettings)

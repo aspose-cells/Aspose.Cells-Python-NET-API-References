@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  cross_at propiedad
 
-Representa el punto en el eje de valores donde lo cruza el eje de categorías.
+Representa el punto en el eje de valores donde el eje de categorías lo cruza.
 
 ###  Observaciones
 
-El número debe ser un número entero cuando se aplica al eje de categorías.
+El número debe ser un entero cuando se aplica al eje de categorías.
 Y el valor debe estar entre 1 y 31999.
 ###  Definición:
 ```python

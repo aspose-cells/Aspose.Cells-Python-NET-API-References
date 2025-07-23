@@ -3,13 +3,13 @@ title: items fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 470
+weight: 560
 url: /sv/aspose.cells.pivot/pivotfield/items/
 is_root: false
 ---
 ##  items fastighet
 
-Få all bas items;
+Hämta alla etiketter för pivot items i det här fältet.
 ###  Definition:
 ```python
 @property

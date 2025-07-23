@@ -9,8 +9,12 @@ is_root: false
 ---
 ##  start_row fastighet
 
-Hämtar eller ställer in startraden för detta område.
+Hämtar eller anger startraden för detta område.
+###  Definition:
+```python
+f start_row 
+```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellArea](/cells/python-net/sv/aspose.cells/cellarea)
+* modul [`aspose.cells`](../../)
+* klass [`CellArea`](/cells/python-net/sv/aspose.cells/cellarea)

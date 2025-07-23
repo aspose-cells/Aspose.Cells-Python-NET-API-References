@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cfvos propiedad
 
-Obtenga la instancia de CFValueObjects.
+Obtenga la instancia CFValueObjects.
 ###  Definición:
 ```python
 @property
@@ -18,6 +18,6 @@ def cfvos(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ConditionalFormattingValueCollection](/cells/python-net/es/aspose.cells/conditionalformattingvaluecollection)
-* clase [IconSet](/cells/python-net/es/aspose.cells/iconset)
+* módulo [`aspose.cells`](../../)
+* clase [`ConditionalFormattingValueCollection`](/cells/python-net/es/aspose.cells/conditionalformattingvaluecollection)
+* clase [`IconSet`](/cells/python-net/es/aspose.cells/iconset)

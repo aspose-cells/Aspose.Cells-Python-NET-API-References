@@ -7,17 +7,18 @@ weight: 230
 url: /es/aspose.cells/globalizationsettings/get_table_row_type_of_all/
 is_root: false
 ---
-##  get_table_row_type_of_all {#}
-Obtiene el nombre del tipo de filas de la tabla que consta de todas las filas de la tabla a la que se hace referencia.
-El valor predeterminado es "Todos", por lo que en la fórmula "#Todos" representa todas las filas de la tabla a la que se hace referencia.
+##  get_table_row_type_of_all(self) {#}
+Obtiene el nombre del tipo de filas de la tabla que consta de todas las filas de la tabla referenciada.
+El valor predeterminado es "Todos", por lo que en la fórmula "#Todos" representa todas las filas de la tabla referenciada.
 
 
 ###  Devoluciones
 
-el nombre del tipo de las filas de la tabla
+el nombre del tipo de filas de la tabla
 
 
 ```python
+
 def get_table_row_type_of_all(self):
     ...
 ```

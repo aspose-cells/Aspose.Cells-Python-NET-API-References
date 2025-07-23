@@ -3,13 +3,13 @@ title: minor_tick_mark propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 350
+weight: 360
 url: /es/aspose.cells.charts/axis/minor_tick_mark/
 is_root: false
 ---
 ##  minor_tick_mark propiedad
 
-Representa el tipo de marca menor para el eje especificado.
+Representa el tipo de marca de graduación menor para el eje especificado.
 ###  Definición:
 ```python
 @property

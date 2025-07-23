@@ -3,14 +3,14 @@ title: auto_sort_field fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 200
+weight: 280
 url: /sv/aspose.cells.pivot/pivotfield/auto_sort_field/
 is_root: false
 ---
 ##  auto_sort_field fastighet
 
- Representerar automatiskt sorteringsfältindex.
--1 betyder själva PivotField, andra betyder positionen för datafälten.
+ Representerar indexet för det fält som är automatiskt sorterat.
+-1 betyder själva pivotfältet, andra betyder datafältens position.
 ###  Definition:
 ```python
 @property

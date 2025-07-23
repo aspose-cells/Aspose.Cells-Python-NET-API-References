@@ -3,13 +3,13 @@ title: is_minimized propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 260
+weight: 290
 url: /es/aspose.cells/workbooksettings/is_minimized/
 is_root: false
 ---
 ##  is_minimized propiedad
 
-Representa si la hoja de cálculo generada se abrirá Minimizada.
+Representa si la hoja de cálculo generada se abrirá minimizada.
 ###  Definición:
 ```python
 @property

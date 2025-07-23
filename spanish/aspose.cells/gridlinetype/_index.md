@@ -3,7 +3,7 @@ title: GridlineType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2190
+weight: 2130
 url: /es/aspose.cells/gridlinetype/
 is_root: false
 ---
@@ -17,7 +17,7 @@ El tipo GridlineType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| DOTTED | Representa la línea de puntos.|
+| DOTTED | Representa línea de puntos.|
 | HAIR | Representa la línea del cabello.|
 
 

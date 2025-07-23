@@ -3,13 +3,13 @@ title: is_protected fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 270
+weight: 300
 url: /sv/aspose.cells/workbooksettings/is_protected/
 is_root: false
 ---
 ##  is_protected fastighet
 
-Får ett värde som indikerar om strukturen eller fönstret i arbetsboken är skyddad.
+Hämtar ett värde som anger om arbetsbokens struktur eller fönster är skyddat.
 ###  Definition:
 ```python
 @property

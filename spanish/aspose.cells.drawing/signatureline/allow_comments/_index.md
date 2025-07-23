@@ -30,5 +30,5 @@ def allow_comments(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [SignatureLine](/cells/python-net/es/aspose.cells.drawing/signatureline)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`SignatureLine`](/cells/python-net/es/aspose.cells.drawing/signatureline)

@@ -7,14 +7,15 @@ weight: 20
 url: /sv/aspose.cells/pdfsaveoptions/set_image_resample/
 is_root: false
 ---
-##  set_image_resample(desired_ppi, jpeg_quality) {#int-int}
- Ställer in önskad PPI (pixlar per tum) för omsamplingsbilder och jpeg-kvalitet.
+##  set_image_resample(self, desired_ppi, jpeg_quality) {#int-int}
+ Ställer in önskad PPI (pixlar per tum) för omsamplade bilder och jpeg-kvalitet.
  Alla bilder kommer att konverteras till JPEG med den angivna kvalitetsinställningen,
-och bilder som är större än den angivna PPI (pixlar per tum) omsamplas.
+och bilder som är större än den angivna PPI (pixlar per tum) kommer att omsamplas.
 
 
 
 ```python
+
 def set_image_resample(self, desired_ppi, jpeg_quality):
     ...
 ```
@@ -27,7 +28,7 @@ def set_image_resample(self, desired_ppi, jpeg_quality):
 
 ###  Exempel
 
-Följande kod anger önskad PPI som 96 och jpeg-kvalitet som 80 för bilder i utdata-pdf.
+Följande kod ställer in önskad PPI till 96 och jpeg-kvalitet till 80 för bilder i utdata-pdf:en.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook
@@ -44,5 +45,5 @@ wb.save("output.pdf", pdfSaveOptions)
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PdfSaveOptions](/cells/python-net/sv/aspose.cells/pdfsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`PdfSaveOptions`](/cells/python-net/sv/aspose.cells/pdfsaveoptions)

@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells.querytables/powerqueryformulaparametercollection/__init__/
 is_root: false
 ---
-##  PowerQueryFormulaParameterCollection() {#}
+##  \_\_init\_\_(själv){#}
 Konstruerar en ny instans av PowerQueryFormulaParameterCollection
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells.querytables](../../)
-* klass [PowerQueryFormulaParameterCollection](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaparametercollection)
+* modul [`aspose.cells.querytables`](../../)
+* klass [`PowerQueryFormulaParameterCollection`](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaparametercollection)

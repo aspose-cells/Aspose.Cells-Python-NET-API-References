@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_number_format_applied fastighet
 
-Ange om sifferformateringen ska tillämpas.
+Ange om nummerformateringen ska tillämpas.
 
 ###  Anmärkningar
 

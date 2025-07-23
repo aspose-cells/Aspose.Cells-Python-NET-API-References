@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column_separator_of_formula_array fastighet
 
-Hämtar avgränsaren för objekten i arrayens raddata i formel.
+Hämtar avgränsaren för objekten i arrayens raddata i formeln.
 ###  Definition:
 ```python
 @property

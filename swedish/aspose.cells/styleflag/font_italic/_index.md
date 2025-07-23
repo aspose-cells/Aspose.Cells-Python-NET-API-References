@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_italic fastighet
 
-Teckensnittskursiv inställning kommer att tillämpas.
+Inställningen för kursiv teckensnitt kommer att tillämpas.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_italic(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [StyleFlag](/cells/python-net/sv/aspose.cells/styleflag)
+* modul [`aspose.cells`](../../)
+* klass [`StyleFlag`](/cells/python-net/sv/aspose.cells/styleflag)

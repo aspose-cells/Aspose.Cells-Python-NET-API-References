@@ -3,13 +3,13 @@ title: window_width_inch fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 630
+weight: 640
 url: /sv/aspose.cells/workbooksettings/window_width_inch/
 is_root: false
 ---
 ##  window_width_inch fastighet
 
-Fönstrets bredd, i enhet av tum.
+Fönstrets bredd, i tum.
 ###  Definition:
 ```python
 @property

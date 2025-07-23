@@ -3,7 +3,7 @@ title: load_format fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 270
+weight: 250
 url: /sv/aspose.cells/txtloadoptions/load_format/
 is_root: false
 ---

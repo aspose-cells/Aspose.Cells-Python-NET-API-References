@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  original_data_source fastighet
 
-Representerar lagrad datakälla för den externa länken.
+Representerar den lagrada datakällan för den externa länken.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def original_data_source(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ExternalLink](/cells/python-net/sv/aspose.cells/externallink)
+* modul [`aspose.cells`](../../)
+* klass [`ExternalLink`](/cells/python-net/sv/aspose.cells/externallink)

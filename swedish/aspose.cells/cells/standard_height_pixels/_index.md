@@ -3,13 +3,13 @@ title: standard_height_pixels fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1260
+weight: 1290
 url: /sv/aspose.cells/cells/standard_height_pixels/
 is_root: false
 ---
 ##  standard_height_pixels fastighet
 
-Hämtar eller ställer in standardradhöjden i detta kalkylblad, i pixelenhet.
+Hämtar eller anger standardradhöjden i detta kalkylblad, i pixlar.
 ###  Definition:
 ```python
 @property

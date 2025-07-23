@@ -7,8 +7,8 @@ weight: 20
 url: /es/aspose.cells.settings/pivotglobalizationsettings/get_short_text_of_12_months/
 is_root: false
 ---
-##  get_short_text_of_12_months {#}
-Obtiene toda la cadena con formato corto de 12 meses.
+##  get_short_text_of_12_months(self) {#}
+Obtiene todas las cadenas con formato corto de 12 meses.
 
 
 ###  Devoluciones
@@ -17,6 +17,7 @@ Obtiene toda la cadena con formato corto de 12 meses.
 
 
 ```python
+
 def get_short_text_of_12_months(self):
     ...
 ```

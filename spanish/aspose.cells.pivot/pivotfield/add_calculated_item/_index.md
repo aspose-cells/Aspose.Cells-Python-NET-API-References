@@ -1,5 +1,5 @@
 ---
-title: add_calculated_item método
+title: método add_calculated_item
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 20
 url: /es/aspose.cells.pivot/pivotfield/add_calculated_item/
 is_root: false
 ---
-##  add_calculated_item(name, formula) {#str-str}
-Agregue un elemento calculado al campo dinámico.
+##  add_calculated_item(self, name, formula) {#str-str}
+Agregue un elemento de fórmula calculado al campo pivote.
 
 
 
 ```python
+
 def add_calculated_item(self, name, formula):
     ...
 ```
@@ -21,13 +22,13 @@ def add_calculated_item(self, name, formula):
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
 | name | str | El nombre del artículo.|
-| formula | str | La fórmula del artículo.|
+| formula | str | La fórmula del elemento pivote.|
 ###  Observaciones
 
-Solo admite agregar elementos calculados al campo Fila/Columna.
+Solo admite agregar un elemento calculado al campo Fila/Columna.
 
 
 ###  Ver también
 
-* módulo [aspose.cells.pivot](../../)
-* clase [PivotField](/cells/python-net/es/aspose.cells.pivot/pivotfield)
+* módulo [`aspose.cells.pivot`](../../)
+* clase [`PivotField`](/cells/python-net/es/aspose.cells.pivot/pivotfield)

@@ -8,7 +8,7 @@ url: /sv/aspose.cells.tables/tablestyle/
 is_root: false
 ---
 ##  TableStyle klass
-Representerar bordsstilen.
+Representerar tabellstilen.
 
 
 
@@ -17,8 +17,8 @@ Typen TableStyle avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [name](/cells/python-net/sv/aspose.cells.tables/tablestyle/name) | Får namnet på tabellstilen.|
-| [table_style_elements](/cells/python-net/sv/aspose.cells.tables/tablestyle/table_style_elements) | Får alla element i bordsstilen.|
+| [name](/cells/python-net/sv/aspose.cells.tables/tablestyle/name) | Hämtar namnet på tabellstilen.|
+| [table_style_elements](/cells/python-net/sv/aspose.cells.tables/tablestyle/table_style_elements) | Hämtar alla element i tabellformatet.|
 
 
 
@@ -65,4 +65,4 @@ workbook.save(r"Book1.xlsx")
 ```
 
 ###  Se även
-* modul [aspose.cells.tables](..)
+* modul [`aspose.cells.tables`](..)

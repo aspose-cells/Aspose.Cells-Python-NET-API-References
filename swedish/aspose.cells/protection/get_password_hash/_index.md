@@ -7,12 +7,13 @@ weight: 30
 url: /sv/aspose.cells/protection/get_password_hash/
 is_root: false
 ---
-##  get_password_hash() {#}
-Hämtar hash för nuvarande lösenord.
+##  get_password_hash(self) {#}
+Hämtar hashen för det aktuella lösenordet.
 
 
 
 ```python
+
 def get_password_hash(self):
     ...
 ```
@@ -22,5 +23,5 @@ def get_password_hash(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Protection](/cells/python-net/sv/aspose.cells/protection)
+* modul [`aspose.cells`](../../)
+* klass [`Protection`](/cells/python-net/sv/aspose.cells/protection)

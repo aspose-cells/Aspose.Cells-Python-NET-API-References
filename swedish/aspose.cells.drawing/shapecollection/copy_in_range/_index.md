@@ -3,16 +3,17 @@ title: copy_in_range metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 380
+weight: 410
 url: /sv/aspose.cells.drawing/shapecollection/copy_in_range/
 is_root: false
 ---
-##  copy_in_range(source_shapes, ca, dest_row, dest_column, is_contained) {#ShapeCollection-CellArea-int-int-bool}
-Kopiera former i intervallet till destinationsintervallet.
+##  copy_in_range(self, source_shapes, ca, dest_row, dest_column, is_contained) {#aspose.cells.drawing.ShapeCollection-aspose.cells.CellArea-int-int-bool}
+Kopiera former i området till målområdet.
 
 
 
 ```python
+
 def copy_in_range(self, source_shapes, ca, dest_row, dest_column, is_contained):
     ...
 ```
@@ -20,11 +21,11 @@ def copy_in_range(self, source_shapes, ca, dest_row, dest_column, is_contained):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| source_shapes | [ShapeCollection](/cells/python-net/sv/aspose.cells.drawing/shapecollection) | Källformer.|
-| ca | [CellArea](/cells/python-net/sv/aspose.cells/cellarea) | Källomfånget.|
-| dest_row | int | Dest radindex för målintervallet.|
-| dest_column | int | Målkolumnen i målintervallet.|
-| is_contained | bool | Om endast de former som finns i intervallet kopieras.<br/> Om sant, kopierar endast formerna i intervallet.<br/> Annars fungerar det som MS Office.|
+| source_shapes | [`ShapeCollection`](/cells/python-net/sv/aspose.cells.drawing/shapecollection) | Källformer.|
+| ca | [`CellArea`](/cells/python-net/sv/aspose.cells/cellarea) | Källintervallet.|
+| dest_row | int | Dest-radindexet för dest-intervallet.|
+| dest_column | int | Dest-kolumnen i dest-intervallet.|
+| is_contained | bool | Om endast de former som finns i intervallet ska kopieras.<br/> Om sant kopieras endast formerna inom intervallet.<br/> Annars fungerar det som MS Office.|
 
 ###  Exempel
 
@@ -46,5 +47,5 @@ shapes.copy_in_range(shapes, area2, 12, 1, False)
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShapeCollection](/cells/python-net/sv/aspose.cells.drawing/shapecollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShapeCollection`](/cells/python-net/sv/aspose.cells.drawing/shapecollection)

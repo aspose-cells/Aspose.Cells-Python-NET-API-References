@@ -21,6 +21,6 @@ def tile_pic_option(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [TextureFill](/cells/python-net/es/aspose.cells.drawing/texturefill)
-* clase [TilePicOption](/cells/python-net/es/aspose.cells.drawing/tilepicoption)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`TextureFill`](/cells/python-net/es/aspose.cells.drawing/texturefill)
+* clase [`TilePicOption`](/cells/python-net/es/aspose.cells.drawing/tilepicoption)

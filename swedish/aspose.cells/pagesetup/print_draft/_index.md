@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_draft fastighet
 
-Anger om arket kommer att skrivas ut utan grafik.
+Representerar om arket kommer att skrivas ut utan grafik.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def print_draft(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

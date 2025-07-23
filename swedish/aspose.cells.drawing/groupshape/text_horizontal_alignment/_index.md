@@ -3,13 +3,13 @@ title: text_horizontal_alignment fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 990
+weight: 1000
 url: /sv/aspose.cells.drawing/groupshape/text_horizontal_alignment/
 is_root: false
 ---
 ##  text_horizontal_alignment fastighet
 
-Hämtar och ställer in textens horisontella anpassningstyp för formen.
+Hämtar och anger textens horisontella justeringstyp för formen.
 
 ###  Exempel
 

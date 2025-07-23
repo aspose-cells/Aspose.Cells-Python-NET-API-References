@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  year fastighet
 
-Hämtar och ställer in year för den grupperade datumtiden.
+Hämtar och ställer in year för det grupperade datumet och tiden.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def year(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DateTimeGroupItem](/cells/python-net/sv/aspose.cells/datetimegroupitem)
+* modul [`aspose.cells`](../../)
+* klass [`DateTimeGroupItem`](/cells/python-net/sv/aspose.cells/datetimegroupitem)

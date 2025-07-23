@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  orientation fastighet
 
-Representerar sidtryck orientation.
+Representerar sidutskrift orientation.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def orientation(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageOrientationType](/cells/python-net/sv/aspose.cells/pageorientationtype)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageOrientationType`](/cells/python-net/sv/aspose.cells/pageorientationtype)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

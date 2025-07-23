@@ -3,13 +3,13 @@ title: is_outline_shown fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 570
+weight: 600
 url: /sv/aspose.cells/worksheet/is_outline_shown/
 is_root: false
 ---
 ##  is_outline_shown fastighet
 
-Indikerar om kontur ska visas.
+Anger om konturen ska visas.
 ###  Definition:
 ```python
 @property

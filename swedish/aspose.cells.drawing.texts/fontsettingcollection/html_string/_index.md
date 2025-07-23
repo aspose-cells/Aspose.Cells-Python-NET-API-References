@@ -21,5 +21,5 @@ def html_string(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [FontSettingCollection](/cells/python-net/sv/aspose.cells.drawing.texts/fontsettingcollection)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`FontSettingCollection`](/cells/python-net/sv/aspose.cells.drawing.texts/fontsettingcollection)

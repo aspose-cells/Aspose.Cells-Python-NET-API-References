@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  size propiedad
 
-Obtiene y establece el radio del resplandor, en unidades de puntos.
+Obtiene y establece el radio del brillo, en unidades de puntos.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def size(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [GlowEffect](/cells/python-net/es/aspose.cells.drawing/gloweffect)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`GlowEffect`](/cells/python-net/es/aspose.cells.drawing/gloweffect)

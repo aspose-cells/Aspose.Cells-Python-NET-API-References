@@ -3,13 +3,13 @@ title: is_outline_shown propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 570
+weight: 600
 url: /es/aspose.cells/worksheet/is_outline_shown/
 is_root: false
 ---
 ##  is_outline_shown propiedad
 
-Indica si se debe mostrar el esquema.
+Indica si se debe mostrar el contorno.
 ###  Definición:
 ```python
 @property

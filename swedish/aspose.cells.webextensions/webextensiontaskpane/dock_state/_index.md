@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  dock_state fastighet
 
-Hämtar och ställer in den senast dockade platsen för detta aktivitetsfönsterobjekt.
+Hämtar och anger den senast dockade platsen för det här aktivitetsfönsterobjektet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def dock_state(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.webextensions](../../)
-* klass [WebExtensionTaskPane](/cells/python-net/sv/aspose.cells.webextensions/webextensiontaskpane)
+* modul [`aspose.cells.webextensions`](../../)
+* klass [`WebExtensionTaskPane`](/cells/python-net/sv/aspose.cells.webextensions/webextensiontaskpane)

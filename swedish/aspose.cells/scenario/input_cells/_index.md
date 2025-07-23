@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  input_cells fastighet
 
-Hämtar scenariots indataceller.
+Hämtar indatacellerna för scenariot.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def input_cells(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Scenario](/cells/python-net/sv/aspose.cells/scenario)
-* klass [ScenarioInputCellCollection](/cells/python-net/sv/aspose.cells/scenarioinputcellcollection)
+* modul [`aspose.cells`](../../)
+* klass [`Scenario`](/cells/python-net/sv/aspose.cells/scenario)
+* klass [`ScenarioInputCellCollection`](/cells/python-net/sv/aspose.cells/scenarioinputcellcollection)

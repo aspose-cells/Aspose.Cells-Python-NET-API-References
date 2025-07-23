@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  mirror_type fastighet
 
-Får eller ställer in spegeltyp för plattsättning.
+Hämtar eller ställer in spegeltypen för kakelsättning.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def mirror_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [MirrorType](/cells/python-net/sv/aspose.cells.drawing/mirrortype)
-* klass [TilePicOption](/cells/python-net/sv/aspose.cells.drawing/tilepicoption)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`MirrorType`](/cells/python-net/sv/aspose.cells.drawing/mirrortype)
+* klass [`TilePicOption`](/cells/python-net/sv/aspose.cells.drawing/tilepicoption)

@@ -3,12 +3,12 @@ title: DateTimeGroupingType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2010
+weight: 1920
 url: /sv/aspose.cells/datetimegroupingtype/
 is_root: false
 ---
 ##  DateTimeGroupingType uppräkning
-Anger hur man grupperar dateTime-värden.
+Anger hur dateTime-värden ska grupperas.
 
 
 
@@ -17,11 +17,11 @@ Typen DateTimeGroupingType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| DAY | Gruppera efter dag.|
-| HOUR | Gruppera efter timme.|
-| MINUTE | Gruppera för minut.|
+| DAY | Gruppera per dag.|
+| HOUR | Gruppera per timme.|
+| MINUTE | Gruppera efter minut.|
 | MONTH | Gruppera efter månad.|
-| SECOND | Gruppera efter andra.|
+| SECOND | Gruppera efter sekund.|
 | YEAR | Grupp efter år.|
 
 

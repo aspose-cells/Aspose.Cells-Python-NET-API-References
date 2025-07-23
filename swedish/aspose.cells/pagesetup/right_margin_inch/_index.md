@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  right_margin_inch fastighet
 
-Representerar storleken på den högra marginalen, i enhet av tum.
+Representerar storleken på den högra marginalen, i tum.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def right_margin_inch(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

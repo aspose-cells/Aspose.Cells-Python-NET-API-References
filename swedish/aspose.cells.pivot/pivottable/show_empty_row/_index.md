@@ -3,13 +3,13 @@ title: show_empty_row fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 910
+weight: 1040
 url: /sv/aspose.cells.pivot/pivottable/show_empty_row/
 is_root: false
 ---
 ##  show_empty_row fastighet
 
-Anger ett booleskt värde som anger om tomma rader ska inkluderas i tabellen.
+Anger om tomma rader ska inkluderas i tabellen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_empty_row(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotTable](/cells/python-net/sv/aspose.cells.pivot/pivottable)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotTable`](/cells/python-net/sv/aspose.cells.pivot/pivottable)

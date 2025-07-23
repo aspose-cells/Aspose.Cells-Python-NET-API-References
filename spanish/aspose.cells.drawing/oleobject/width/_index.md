@@ -3,13 +3,13 @@ title: width propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1340
+weight: 1350
 url: /es/aspose.cells.drawing/oleobject/width/
 is_root: false
 ---
 ##  width propiedad
 
-Representa el width de forma, en unidades de píxeles.
+Representa el width de forma, en unidad de píxeles.
 
 ###  Ejemplo
 

@@ -21,6 +21,6 @@ def join_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Line](/cells/python-net/es/aspose.cells.drawing/line)
-* clase [LineJoinType](/cells/python-net/es/aspose.cells.drawing/linejointype)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Line`](/cells/python-net/es/aspose.cells.drawing/line)
+* clase [`LineJoinType`](/cells/python-net/es/aspose.cells.drawing/linejointype)

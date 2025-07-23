@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  revisions fastighet
 
-Hämtar alla revisions i denna logg.
+Hämtar alla revisions i den här loggen.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def revisions(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionCollection](/cells/python-net/sv/aspose.cells.revisions/revisioncollection)
-* klass [RevisionLog](/cells/python-net/sv/aspose.cells.revisions/revisionlog)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionCollection`](/cells/python-net/sv/aspose.cells.revisions/revisioncollection)
+* klass [`RevisionLog`](/cells/python-net/sv/aspose.cells.revisions/revisionlog)

@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  brightness fastighet
 
-Representerar brightness-ändringen för bilden i procentenhet.
+Representerar modifieringen brightness för bilden i procentenhet.
 
 ###  Anmärkningar
 
-Det är mellan -100% och 100%. Det fungerar på samma sätt som Excel 2007 eller senare version.
+Det ligger mellan -100 % och 100 %. Det fungerar på samma sätt som Excel 2007 eller senare versioner.
 ###  Definition:
 ```python
 @property

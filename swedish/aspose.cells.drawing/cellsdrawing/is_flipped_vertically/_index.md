@@ -3,13 +3,13 @@ title: is_flipped_vertically fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 560
+weight: 570
 url: /sv/aspose.cells.drawing/cellsdrawing/is_flipped_vertically/
 is_root: false
 ---
 ##  is_flipped_vertically fastighet
 
-Hämtar och ställer in om formen vänds vertikalt.
+Hämtar och anger om formen är vertikalt vänd.
 
 ###  Exempel
 

@@ -8,7 +8,7 @@ url: /es/aspose.cells.charts/chartdatatable/
 is_root: false
 ---
 ##  ChartDataTable clase
-Representa una tabla de datos de gráfico.
+Representa una tabla de datos de un gráfico.
 
 
 
@@ -17,13 +17,15 @@ El tipo ChartDataTable expone los siguientes miembros:
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [font](/cells/python-net/es/aspose.cells.charts/chartdatatable/font) | Obtiene un objeto [`ChartDataTable.font`](/cells/python-net/es/aspose.cells.charts/chartdatatable#font) que representa la configuración de fuente de la tabla de datos del gráfico especificada.|
-| [auto_scale_font](/cells/python-net/es/aspose.cells.charts/chartdatatable/auto_scale_font) | Verdadero si el texto del objeto cambia el tamaño de fuente cuando cambia el tamaño del objeto.<br/>El valor por defecto es verdadero.|
+| [font](/cells/python-net/es/aspose.cells.charts/chartdatatable/font) | Obtiene un objeto [`ChartDataTable.font`](/cells/python-net/es/aspose.cells.charts/chartdatatable#font) que representa la configuración de fuente de la tabla de datos del gráfico especificado.|
+| [auto_scale_font](/cells/python-net/es/aspose.cells.charts/chartdatatable/auto_scale_font) | Verdadero si el texto en el objeto cambia el tamaño de fuente cuando cambia el tamaño del objeto.<br/> El valor predeterminado es Verdadero.|
 | [background_mode](/cells/python-net/es/aspose.cells.charts/chartdatatable/background_mode) | Obtiene y establece el modo de visualización del fondo.|
-| [background](/cells/python-net/es/aspose.cells.charts/chartdatatable/background) | Obtiene y establece el modo de visualización del fondo.|
 | [has_border_horizontal](/cells/python-net/es/aspose.cells.charts/chartdatatable/has_border_horizontal) | Verdadero si la tabla de datos del gráfico tiene bordes de celda horizontales|
-| [has_border_vertical](/cells/python-net/es/aspose.cells.charts/chartdatatable/has_border_vertical) | Verdadero si la tabla de datos del gráfico tiene bordes de celda verticales|
+| [has_horizontal_border](/cells/python-net/es/aspose.cells.charts/chartdatatable/has_horizontal_border) | Verdadero si la tabla de datos del gráfico tiene bordes de celda horizontales|
+| [has_border_vertical](/cells/python-net/es/aspose.cells.charts/chartdatatable/has_border_vertical) |Verdadero si la tabla de datos del gráfico tiene bordes de celda verticales|
+| [has_vertical_border](/cells/python-net/es/aspose.cells.charts/chartdatatable/has_vertical_border) |Verdadero si la tabla de datos del gráfico tiene bordes de celda verticales|
 | [has_border_outline](/cells/python-net/es/aspose.cells.charts/chartdatatable/has_border_outline) | Verdadero si la tabla de datos del gráfico tiene bordes de contorno|
+| [has_outline_border](/cells/python-net/es/aspose.cells.charts/chartdatatable/has_outline_border) | Verdadero si la tabla de datos del gráfico tiene bordes de contorno|
 | [show_legend_key](/cells/python-net/es/aspose.cells.charts/chartdatatable/show_legend_key) | Verdadero si la clave de leyenda de la etiqueta de datos está visible.|
 | [border](/cells/python-net/es/aspose.cells.charts/chartdatatable/border) | Devuelve un objeto Border que representa el borde del objeto.|
 

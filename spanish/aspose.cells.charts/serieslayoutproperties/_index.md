@@ -8,7 +8,7 @@ url: /es/aspose.cells.charts/serieslayoutproperties/
 is_root: false
 ---
 ##  SeriesLayoutProperties clase
-Representa las propiedades del diseño de series.
+Representa las propiedades del diseño de la serie.
 
 
 
@@ -17,17 +17,17 @@ El tipo SeriesLayoutProperties expone los siguientes miembros:
 ###  Constructores
 | Constructor| Descripción|
 | :- | :- |
-| [__init__](/cells/python-net/es/aspose.cells.charts/serieslayoutproperties/__init__/#) | Construye una nueva instancia de SeriesLayoutProperties|
+| [`__init__(self)`](/cells/python-net/es/aspose.cells.charts/serieslayoutproperties/__init__/#) | Construye una nueva instancia de SeriesLayoutProperties|
 
 
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [show_connector_lines](/cells/python-net/es/aspose.cells.charts/serieslayoutproperties/show_connector_lines) | Indica si se muestran líneas conectoras entre puntos de datos.|
+| [show_connector_lines](/cells/python-net/es/aspose.cells.charts/serieslayoutproperties/show_connector_lines) | Indica si se muestran líneas de conexión entre puntos de datos.|
 | [show_mean_line](/cells/python-net/es/aspose.cells.charts/serieslayoutproperties/show_mean_line) | Indica si se muestra la línea que conecta todos los puntos medios.|
 | [show_outlier_points](/cells/python-net/es/aspose.cells.charts/serieslayoutproperties/show_outlier_points) | Indica si se muestran puntos de datos atípicos.|
-| [show_mean_marker](/cells/python-net/es/aspose.cells.charts/serieslayoutproperties/show_mean_marker) |Indica si se muestran marcadores que denotan la media.|
-| [show_inner_points](/cells/python-net/es/aspose.cells.charts/serieslayoutproperties/show_inner_points) | Indica si se muestran puntos de datos no atípicos.|
+| [show_mean_marker](/cells/python-net/es/aspose.cells.charts/serieslayoutproperties/show_mean_marker) | Indica si se muestran marcadores que denotan la media.|
+| [show_inner_points](/cells/python-net/es/aspose.cells.charts/serieslayoutproperties/show_inner_points) |Indica si se muestran puntos de datos no atípicos.|
 | [subtotals](/cells/python-net/es/aspose.cells.charts/serieslayoutproperties/subtotals) | Representa el índice de un punto de datos subtotal.|
 | [quartile_calculation](/cells/python-net/es/aspose.cells.charts/serieslayoutproperties/quartile_calculation) | Representa las propiedades estadísticas de la serie.|
 | [map_label_layout](/cells/python-net/es/aspose.cells.charts/serieslayoutproperties/map_label_layout) | Obtiene y establece el diseño de las etiquetas del mapa.|

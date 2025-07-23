@@ -17,11 +17,11 @@ Typen Bevel avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [width](/cells/python-net/sv/aspose.cells.drawing/bevel/width) | Får och ställer in avfasningens bredd, eller hur långt in i formen den appliceras.<br/> I enhet av poäng.|
-| [height](/cells/python-net/sv/aspose.cells.drawing/bevel/height) | Får och ställer in höjden på avfasningen, eller hur långt över formen den appliceras.<br/> I enhet av poäng.|
-| [type](/cells/python-net/sv/aspose.cells.drawing/bevel/type) | Hämtar och ställer in den förinställda avfasningstypen.|
+| [width](/cells/python-net/sv/aspose.cells.drawing/bevel/width) | Hämtar och anger bredden på avfasningen, eller hur långt in i formen den appliceras.<br/> I enheten poäng.|
+| [height](/cells/python-net/sv/aspose.cells.drawing/bevel/height) |Hämtar och anger höjden på avfasningen, eller hur långt över formen den appliceras.<br/> I enheten poäng.|
+| [type](/cells/python-net/sv/aspose.cells.drawing/bevel/type) | Hämtar och anger den förinställda avfasningstypen.|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

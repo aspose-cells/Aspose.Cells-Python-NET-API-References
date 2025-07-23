@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  footer_margin fastighet
 
-Representerar avståndet från botten av sidan till sidfoten, i centimeterenhet.
+Representerar avståndet från sidans nederkant till sidfoten, i centimeter.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def footer_margin(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

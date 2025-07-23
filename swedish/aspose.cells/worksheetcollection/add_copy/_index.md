@@ -7,8 +7,8 @@ weight: 30
 url: /sv/aspose.cells/worksheetcollection/add_copy/
 is_root: false
 ---
-##  add_copy {#str}
-Lägger till ett kalkylblad till samlingen och kopierar data från ett befintligt kalkylblad.
+##  add_copy(self, sheet_name) {#str}
+Lägger till ett kalkylblad i samlingen och kopierar data från ett befintligt kalkylblad.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Lägger till ett kalkylblad till samlingen och kopierar data från ett befintlig
 
 
 ```python
+
 def add_copy(self, sheet_name):
     ...
 ```
@@ -33,8 +34,8 @@ def add_copy(self, sheet_name):
 
 
 
-##  add_copy {#int}
-Lägger till ett kalkylblad till samlingen och kopierar data från ett befintligt kalkylblad.
+##  add_copy(self, sheet_index) {#int}
+Lägger till ett kalkylblad i samlingen och kopierar data från ett befintligt kalkylblad.
 
 
 ###  Returnerar
@@ -43,6 +44,7 @@ Lägger till ett kalkylblad till samlingen och kopierar data från ett befintlig
 
 
 ```python
+
 def add_copy(self, sheet_index):
     ...
 ```
@@ -50,15 +52,16 @@ def add_copy(self, sheet_index):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| sheet_index | int | Index över källarbetsblad.|
+| sheet_index | int | Index för källarbetsblad.|
 
 
-##  add_copy {#list-list}
-Kopiera en grupp arbetsblad.
+##  add_copy(self, source, dest_sheet_names) {#list-list}
+Kopiera en grupp med arbetsblad.
 
 
 
 ```python
+
 def add_copy(self, source, dest_sheet_names):
     ...
 ```

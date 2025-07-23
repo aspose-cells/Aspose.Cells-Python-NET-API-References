@@ -7,12 +7,13 @@ weight: 60
 url: /sv/aspose.cells/formatconditioncollection/remove_area/
 is_root: false
 ---
-##  remove_area(index) {#int}
-Tar bort villkorligt formaterat cellintervall efter index.
+##  remove_area(self, index) {#int}
+Tar bort villkorsstyrt formaterat cellområde efter index.
 
 
 
 ```python
+
 def remove_area(self, index):
     ...
 ```
@@ -20,19 +21,20 @@ def remove_area(self, index):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| index | int | Indexet för det villkorligt formaterade cellintervallet som ska tas bort.|
+| index | int | Indexet för det villkorsstyrda formaterade cellområdet som ska tas bort.|
 
 
-##  remove_area(start_row, start_column, total_rows, total_columns) {#int-int-int-int}
-Ta bort villkorlig formatering i intervallet.
+##  remove_area(self, start_row, start_column, total_rows, total_columns) {#int-int-int-int}
+Ta bort villkorsstyrd formatering i området.
 
 
 ###  Returnerar
 
-Returnerar TRUE, denna FormatCondtionCollection bör tas bort.
+Returnerar TRUE, denna FormatConditionCollection bör tas bort.
 
 
 ```python
+
 def remove_area(self, start_row, start_column, total_rows, total_columns):
     ...
 ```
@@ -48,5 +50,5 @@ def remove_area(self, start_row, start_column, total_rows, total_columns):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormatConditionCollection](/cells/python-net/sv/aspose.cells/formatconditioncollection)
+* modul [`aspose.cells`](../../)
+* klass [`FormatConditionCollection`](/cells/python-net/sv/aspose.cells/formatconditioncollection)

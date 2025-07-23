@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text_vertical_alignment fastighet
 
-Hämtar och ställer in den vertikala textjusteringstypen för kommentaren.
+Hämtar och anger textens vertikala justeringstyp för kommentaren.
 
 ###  Exempel
 

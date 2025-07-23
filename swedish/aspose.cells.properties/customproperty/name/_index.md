@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name fastighet
 
-Returnerar eller ställer in name för objektet.
+Returnerar eller anger name för objektet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.properties](../../)
-* klass [CustomProperty](/cells/python-net/sv/aspose.cells.properties/customproperty)
+* modul [`aspose.cells.properties`](../../)
+* klass [`CustomProperty`](/cells/python-net/sv/aspose.cells.properties/customproperty)

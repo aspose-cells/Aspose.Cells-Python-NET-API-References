@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  sheet_index fastighet
 
-Indikerar att detta namn tillhör arbetsboken eller arbetsbladet.
-0 = Globalt namn, annars indexera till ark (en-baserat)
+Indikerar att det här namnet tillhör arbetsboken eller arbetsbladet.
+0 = Globalt namn, annars index till ark (en-baserat)
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def sheet_index(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Name](/cells/python-net/sv/aspose.cells/name)
+* modul [`aspose.cells`](../../)
+* klass [`Name`](/cells/python-net/sv/aspose.cells/name)

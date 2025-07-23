@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  in_cell_drop_down fastighet
 
-Anger om datavalidering visar en rullgardinslista som innehåller acceptabla värden.
+Anger om datavalidering visar en rullgardinsmeny som innehåller acceptabla värden.
 ###  Definition:
 ```python
 @property

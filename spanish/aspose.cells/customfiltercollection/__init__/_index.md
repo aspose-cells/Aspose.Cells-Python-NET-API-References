@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells/customfiltercollection/__init__/
 is_root: false
 ---
-##  __en eso__ {#}
+##  \_\_init\_\_(yo mismo){#}
 Construye una nueva instancia.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

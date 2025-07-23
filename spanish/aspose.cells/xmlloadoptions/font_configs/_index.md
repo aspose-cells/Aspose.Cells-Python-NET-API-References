@@ -3,14 +3,14 @@ title: font_configs propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 100
+weight: 120
 url: /es/aspose.cells/xmlloadoptions/font_configs/
 is_root: false
 ---
 ##  font_configs propiedad
 
  Obtiene y establece configuraciones de fuentes individuales.
-Solo funciona para el [Workbook](/cells/python-net/es/aspose.cells/workbook) que usa este [LoadOptions](/cells/python-net/es/aspose.cells/loadoptions) para cargar.
+Solo funciona para el [`Workbook`](/cells/python-net/es/aspose.cells/workbook) que usa este [`LoadOptions`](/cells/python-net/es/aspose.cells/loadoptions) para cargar.
 ###  Definición:
 ```python
 @property
@@ -22,8 +22,8 @@ def font_configs(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [IndividualFontConfigs](/cells/python-net/es/aspose.cells/individualfontconfigs)
-* clase [LoadOptions](/cells/python-net/es/aspose.cells/loadoptions)
-* clase [Workbook](/cells/python-net/es/aspose.cells/workbook)
-* clase [XmlLoadOptions](/cells/python-net/es/aspose.cells/xmlloadoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`IndividualFontConfigs`](/cells/python-net/es/aspose.cells/individualfontconfigs)
+* clase [`LoadOptions`](/cells/python-net/es/aspose.cells/loadoptions)
+* clase [`Workbook`](/cells/python-net/es/aspose.cells/workbook)
+* clase [`XmlLoadOptions`](/cells/python-net/es/aspose.cells/xmlloadoptions)

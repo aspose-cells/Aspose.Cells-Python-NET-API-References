@@ -3,13 +3,13 @@ title: y fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1300
+weight: 1310
 url: /sv/aspose.cells.drawing/arcshape/y/
 is_root: false
 ---
 ##  y fastighet
 
-Hämtar och ställer in den vertikala förskjutningen av formen från kalkylbladets övre kant, i pixelenhet.
+Hämtar och ställer in den vertikala förskjutningen av formen från kalkylbladets övre kant, i pixlar.
 
 ###  Exempel
 

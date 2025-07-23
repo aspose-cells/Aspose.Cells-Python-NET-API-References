@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_arrowhead_length fastighet
 
-Hämtar och ställer in slutpilens längdtyp för linjen.
+Hämtar och anger längdtypen för linjens slutpil.
 
 ###  Exempel
 
@@ -30,6 +30,6 @@ def end_arrowhead_length(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [LineFormat](/cells/python-net/sv/aspose.cells.drawing/lineformat)
-* klass [MsoArrowheadLength](/cells/python-net/sv/aspose.cells.drawing/msoarrowheadlength)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`LineFormat`](/cells/python-net/sv/aspose.cells.drawing/lineformat)
+* klass [`MsoArrowheadLength`](/cells/python-net/sv/aspose.cells.drawing/msoarrowheadlength)

@@ -3,23 +3,23 @@ title: GroupShape indexerare
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 270
+weight: 280
 url: /sv/aspose.cells.drawing/groupshape/__getitem__/
 is_root: false
 ---
 ##  GroupShape indexerare
 
-Får barnets form efter index.
+Hämtar barnformen efter index.
 ###  Indexerare
-| namn| Beskrivning|
+| Namn| Beskrivning|
 | :- | :- |
-| index | barnformindexet.|
+| index | indexet för barnform.|
 
 
 
 ###  Returnerar
 
-returnera barnets form.
+returnera barnformen.
 
 ###  Se även
 * modul [`aspose.cells.drawing`](../../)

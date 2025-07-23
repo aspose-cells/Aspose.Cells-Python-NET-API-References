@@ -3,7 +3,7 @@ title: table_name propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 250
+weight: 270
 url: /es/aspose.cells.saving/sqlscriptsaveoptions/table_name/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def table_name(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.saving](../../)
-* clase [SqlScriptSaveOptions](/cells/python-net/es/aspose.cells.saving/sqlscriptsaveoptions)
+* módulo [`aspose.cells.saving`](../../)
+* clase [`SqlScriptSaveOptions`](/cells/python-net/es/aspose.cells.saving/sqlscriptsaveoptions)

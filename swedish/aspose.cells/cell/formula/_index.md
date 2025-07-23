@@ -3,18 +3,18 @@ title: formula fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 490
+weight: 500
 url: /sv/aspose.cells/cell/formula/
 is_root: false
 ---
 ##  formula fastighet
 
-Hämtar eller ställer in ett formula av [`Cell`](/cells/python-net/sv/aspose.cells/cell).
+Hämtar eller ställer in en formula av [`Cell`](/cells/python-net/sv/aspose.cells/cell).
 
 ###  Anmärkningar
 
  En formula-sträng börjar alltid med ett likhetstecken (=).
-Och använd alltid kommatecken(,) som parametrar avgränsare, till exempel "=SUM(A1, E1, H2)".
+Och använd alltid komma(,) som parameteravgränsare, till exempel "=SUM(A1; E1; H2)".
 
 ###  Exempel
 

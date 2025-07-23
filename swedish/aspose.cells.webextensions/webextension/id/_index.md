@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  id fastighet
 
-Hämtar och ställer in den unikt identifierar Office-tilläggsinstansen i det aktuella dokumentet.
+Hämtar och anger unika identifikationsvärden för Office-tilläggsinstansen i det aktuella dokumentet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def id(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.webextensions](../../)
-* klass [WebExtension](/cells/python-net/sv/aspose.cells.webextensions/webextension)
+* modul [`aspose.cells.webextensions`](../../)
+* klass [`WebExtension`](/cells/python-net/sv/aspose.cells.webextensions/webextension)

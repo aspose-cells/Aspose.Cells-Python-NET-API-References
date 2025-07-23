@@ -7,12 +7,13 @@ weight: 20
 url: /sv/aspose.cells/odsloadoptions/set_paper_size/
 is_root: false
 ---
-##  set_paper_size(type) {#PaperSizeType}
-Ställer in standardstorleken för utskriftspapper från standardskrivarens inställning.
+##  set_paper_size(self, type) {#aspose.cells.PaperSizeType}
+Ställer in standardpappersstorleken för utskrift från skrivarens standardinställning.
 
 
 
 ```python
+
 def set_paper_size(self, type):
     ...
 ```
@@ -20,13 +21,13 @@ def set_paper_size(self, type):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| type | [PaperSizeType](/cells/python-net/sv/aspose.cells/papersizetype) | Standardpappersstorlek.|
+| type | [`PaperSizeType`](/cells/python-net/sv/aspose.cells/papersizetype) | Standardpappersstorleken.|
 ###  Anmärkningar
 
-Om det inte finns någon inställning för pappersstorlek kommer MS Excel att använda standardskrivarens inställning.
+Om det inte finns någon inställning för pappersstorlek använder MS Excel standardskrivarens inställningar.
 
 
 ###  Se även
 
-* modul [aspose.cells](../../)
-* klass [OdsLoadOptions](/cells/python-net/sv/aspose.cells/odsloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`OdsLoadOptions`](/cells/python-net/sv/aspose.cells/odsloadoptions)

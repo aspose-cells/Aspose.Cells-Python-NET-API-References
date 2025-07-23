@@ -18,5 +18,5 @@ def is_range_set(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FindOptions](/cells/python-net/es/aspose.cells/findoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`FindOptions`](/cells/python-net/es/aspose.cells/findoptions)

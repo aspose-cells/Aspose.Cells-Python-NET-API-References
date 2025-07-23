@@ -17,33 +17,33 @@ Typen TextureType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| BLUE_TISSUE_PAPER | Representerar texturtyp för blått silkespapper.|
-| BOUQUET | Representerar bukettstruktur.|
-| BROWN_MARBLE | Representerar texturtyp av brun marmor.|
-| CANVAS | Representerar Canvas texturtyp.|
-| CORK | Representerar korktexturtyp.|
-| DENIM |Representerar denim textur typ.|
-| FISH_FOSSIL | Representerar Fish Fossil texturtyp.|
-| GRANITE | Representerar granitstruktur.|
-| GREEN_MARBLE | Representerar grön marmor texturtyp.|
-| MEDIUM_WOOD | Representerar medium trästruktur.|
-| NEWSPRINT | Representerar texturtyp för tidningspapper.|
-| OAK | Representerar ektexturtyp.|
-| PAPER_BAG | Representerar texturtyp för papperspåse.|
-| PAPYRUS | Representerar texturtyp av papyrus.|
-| PARCHMENT | Representerar typ av pergamentstruktur.|
-| PINK_TISSUE_PAPER | Representerar texturtyp för rosa mjukpapper.|
-| PURPLE_MESH | Representerar Purple Mesh texturtyp.|
-| RECYCLED_PAPER | Representerar texturtyp för återvunnet papper.|
-| SAND | Representerar Sand textur typ.|
-| STATIONERY | Representerar texturtyp för brevpapper.|
-| WALNUT | Representerar texturtyp av valnötsdroppar.|
-| WATER_DROPLETS | Representerar texturtyp för vattendroppar.|
-| WHITE_MARBLE | Representerar texturtyp av vit marmor.|
-| WOVEN_MAT | Representerar texturtyp av vävd matta.|
+| BLUE_TISSUE_PAPER | Representerar texturtypen blått silkespapper.|
+| BOUQUET | Representerar texturtypen Bukett.|
+| BROWN_MARBLE | Representerar texturtypen brun marmor.|
+| CANVAS | Representerar Canvas-texturtypen.|
+| CORK | Representerar korkstrukturtypen.|
+| DENIM | Representerar denimtexturtyp.|
+| FISH_FOSSIL | Representerar texturtypen fiskfossil.|
+| GRANITE | Representerar granittexturtypen.|
+| GREEN_MARBLE | Representerar texturtypen grön marmor.|
+| MEDIUM_WOOD | Representerar trästruktur av medelstorlek.|
+| NEWSPRINT | Representerar texturtypen för tidningspapper.|
+| OAK | Representerar ekstrukturtypen.|
+| PAPER_BAG | Representerar texturtypen papperspåse.|
+| PAPYRUS | Representerar papyrustexturtyp.|
+| PARCHMENT |Representerar pergamentstrukturtypen.|
+| PINK_TISSUE_PAPER | Representerar texturtypen rosa silkespapper.|
+| PURPLE_MESH | Representerar texturtypen Purple Mesh.|
+| RECYCLED_PAPER | Representerar texturtypen återvunnet papper.|
+| SAND | Representerar sandtexturtypen.|
+| STATIONERY | Representerar texturtypen för brevpapper.|
+| WALNUT | Representerar texturtypen valnötsdroppar.|
+| WATER_DROPLETS | Representerar texturtypen vattendroppar.|
+| WHITE_MARBLE | Representerar texturtypen vit marmor.|
+| WOVEN_MAT | Representerar texturtypen vävd matta.|
 | UNKNOWN | Representerar okänd texturtyp.|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

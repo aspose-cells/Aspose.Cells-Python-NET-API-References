@@ -3,7 +3,7 @@ title: text_direction propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1000
+weight: 1020
 url: /es/aspose.cells.drawing/spinner/text_direction/
 is_root: false
 ---

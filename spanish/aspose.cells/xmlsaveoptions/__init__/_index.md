@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells/xmlsaveoptions/__init__/
 is_root: false
 ---
-##  XmlSaveOptions() {#}
+##  \_\_init\_\_(yo mismo){#}
 Crea opciones para guardar el archivo xml.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [XmlSaveOptions](/cells/python-net/es/aspose.cells/xmlsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`XmlSaveOptions`](/cells/python-net/es/aspose.cells/xmlsaveoptions)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  password fastighet
 
-Representerar password för att skydda räckvidden.
+Representerar password för att skydda intervallet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def password(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ProtectedRange](/cells/python-net/sv/aspose.cells/protectedrange)
+* modul [`aspose.cells`](../../)
+* klass [`ProtectedRange`](/cells/python-net/sv/aspose.cells/protectedrange)

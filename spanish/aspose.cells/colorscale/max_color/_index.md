@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  max_color propiedad
 
-Obtenga o establezca el color del degradado para el valor máximo en el rango.
+Obtenga o establezca el color del degradado para el valor máximo del rango.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def max_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ColorScale](/cells/python-net/es/aspose.cells/colorscale)
+* módulo [`aspose.cells`](../../)
+* clase [`ColorScale`](/cells/python-net/es/aspose.cells/colorscale)

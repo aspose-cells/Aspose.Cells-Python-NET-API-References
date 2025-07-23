@@ -3,7 +3,7 @@ title: is_display_unit_label_shown propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 230
+weight: 240
 url: /es/aspose.cells.charts/axis/is_display_unit_label_shown/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Representa si la etiqueta de la unidad de visualización se muestra en el eje es
 
 ###  Observaciones
 
-El valor por defecto es verdadero.
+El valor predeterminado es Verdadero.
 ###  Definición:
 ```python
 @property

@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  check_add_in fastighet
 
-Om du kontrollerar tillägg i befintliga externa länkar i aktuell arbetsbok för användardefinierad funktion utan extern länk.
-Standard är sant (om användardefinierad funktion matchar ett tillägg i befintliga externa länkar, ta det som tillägg).
+Om tillägg i befintliga externa länkar i den aktuella arbetsboken ska kontrolleras för användardefinierade funktioner utan extern länk.
+Standardvärdet är sant (om den användardefinierade funktionen matchar ett tillägg i befintliga externa länkar, använd det då som tillägg).
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def check_add_in(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormulaParseOptions](/cells/python-net/sv/aspose.cells/formulaparseoptions)
+* modul [`aspose.cells`](../../)
+* klass [`FormulaParseOptions`](/cells/python-net/sv/aspose.cells/formulaparseoptions)

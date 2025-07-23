@@ -3,7 +3,7 @@ title: upper_delta_y fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1320
+weight: 1340
 url: /sv/aspose.cells.drawing/picture/upper_delta_y/
 is_root: false
 ---

@@ -3,16 +3,17 @@ title: un_freeze_panes metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 310
+weight: 330
 url: /sv/aspose.cells/worksheet/un_freeze_panes/
 is_root: false
 ---
-##  un_freeze_panes {#}
-Frigör rutor i kalkylbladet.
+##  un_freeze_panes(self) {#}
+Återställer frysningar av rutor i kalkylbladet.
 
 
 
 ```python
+
 def un_freeze_panes(self):
     ...
 ```

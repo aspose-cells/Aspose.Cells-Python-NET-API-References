@@ -3,14 +3,14 @@ title: placement propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 890
+weight: 900
 url: /es/aspose.cells.drawing/lineshape/placement/
 is_root: false
 ---
 ##  placement propiedad
 
 Representa la forma en que el objeto de dibujo se adjunta a las celdas debajo de él.
-La propiedad controla el placement de un objeto en una hoja de trabajo.
+La propiedad controla el placement de un objeto en una hoja de cálculo.
 
 ###  Ejemplo
 

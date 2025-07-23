@@ -3,13 +3,13 @@ title: is_automatic_size fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 200
+weight: 260
 url: /sv/aspose.cells.charts/legend/is_automatic_size/
 is_root: false
 ---
 ##  is_automatic_size fastighet
 
-Indikerar om kartramen har automatisk storlek.
+Anger om diagramramen har automatisk storlek.
 ###  Definition:
 ```python
 @property

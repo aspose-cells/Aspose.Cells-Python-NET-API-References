@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height propiedad
 
-Obtiene el height de arriba a abajo en unidades de 1/4000 del gráfico height después de llamar al método Chart.Calculate().
+Obtiene el height de arriba a abajo en unidades de 1/4000 del height del gráfico después de llamar al método Chart.Calculate().
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def height(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Walls](/cells/python-net/es/aspose.cells.charts/walls)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Walls`](/cells/python-net/es/aspose.cells.charts/walls)

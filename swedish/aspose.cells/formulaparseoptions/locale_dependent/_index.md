@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  locale_dependent fastighet
 
-Om formeln är språkformaterad. Standard är falskt.
+Om formeln är språkformaterad. Standardvärdet är falskt.
 ###  Definition:
 ```python
 @property

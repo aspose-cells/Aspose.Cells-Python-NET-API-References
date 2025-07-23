@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  extend_to_next_sheet fastighet
 
-Om data utökas till nästa ark när raderna eller kolumnerna med data överskrider gränsen.
-Standard är falskt.
+Om data utökas till nästa ark när antalet rader eller kolumner överskrider gränsen.
+Standardvärdet är falskt.
 
 ###  Anmärkningar
 
-Om den här egenskapen är sann kommer extra data att läggas in i nästa ark bakom det aktuella
-(om aktuellt ark är det sista, kommer ett nytt ark att läggas till aktuell arbetsbok).
+Om den här egenskapen är sann kommer extra data att läggas in i nästa ark efter det aktuella.
+(om det aktuella arket är det sista, kommer det nya arket att läggas till i den aktuella arbetsboken).
 Om den här egenskapen är falsk kommer data som överskrider gränsen att ignoreras.
 ###  Definition:
 ```python

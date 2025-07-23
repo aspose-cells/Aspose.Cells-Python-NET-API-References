@@ -3,20 +3,21 @@ title: is_blank_column metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 730
+weight: 750
 url: /sv/aspose.cells/cells/is_blank_column/
 is_root: false
 ---
-##  is_blank_column {#int}
-Kontrollerar om given kolumn är tom (innehåller inga data).
+##  is_blank_column(self, column_index) {#int}
+Kontrollerar om den givna kolumnen är tom (innehåller inga data).
 
 
 ###  Returnerar
 
-sant om en given kolumn inte innehåller några data
+sant om den givna kolumnen inte innehåller några data
 
 
 ```python
+
 def is_blank_column(self, column_index):
     ...
 ```
@@ -24,7 +25,7 @@ def is_blank_column(self, column_index):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| column_index | int | kolumnindex|
+| column_index | int | kolumnindexet|
 
 
 

@@ -3,13 +3,11 @@ title: name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 150
+weight: 180
 url: /sv/aspose.cells.externalconnections/dbconnection/name/
 is_root: false
 ---
 ##  name fastighet
-
-Anger name för anslutningen. Varje anslutning måste ha ett unikt name.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.externalconnections](../../)
-* klass [DBConnection](/cells/python-net/sv/aspose.cells.externalconnections/dbconnection)
+* modul [`aspose.cells.externalconnections`](../../)
+* klass [`DBConnection`](/cells/python-net/sv/aspose.cells.externalconnections/dbconnection)

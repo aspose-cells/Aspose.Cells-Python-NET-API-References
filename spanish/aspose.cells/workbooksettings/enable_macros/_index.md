@@ -3,7 +3,7 @@ title: enable_macros propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 170
+weight: 200
 url: /es/aspose.cells/workbooksettings/enable_macros/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Habilitar macros;
 
 ###  Observaciones
 
-Ahora solo funciona al copiar una hoja de trabajo a otra hoja de trabajo en un libro.
+Ahora solo funciona al copiar una hoja de cálculo a otra hoja de cálculo en un libro.
 ###  Definición:
 ```python
 @property

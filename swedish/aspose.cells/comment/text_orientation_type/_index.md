@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text_orientation_type fastighet
 
-Hämtar och ställer in textorienteringstypen för kommentaren.
+Hämtar och anger textorienteringstypen för kommentaren.
 
 ###  Exempel
 

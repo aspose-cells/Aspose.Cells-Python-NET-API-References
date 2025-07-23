@@ -8,8 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/imageactivexcontrol/shadow/
 is_root: false
 ---
 ##  shadow fastighet
-
-Indikerar om ett shadow ska visas.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def shadow(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ImageActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ImageActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

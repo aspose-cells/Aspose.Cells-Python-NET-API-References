@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  sql_type fastighet
 
-SQL-datatyp för parametern. Endast giltigt för ODBC-källor.
+Parameterns SQL-datatyp. Gäller endast för ODBC-källor.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def sql_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.externalconnections](../../)
-* klass [ConnectionParameter](/cells/python-net/sv/aspose.cells.externalconnections/connectionparameter)
-* klass [SqlDataType](/cells/python-net/sv/aspose.cells.externalconnections/sqldatatype)
+* modul [`aspose.cells.externalconnections`](../../)
+* klass [`ConnectionParameter`](/cells/python-net/sv/aspose.cells.externalconnections/connectionparameter)
+* klass [`SqlDataType`](/cells/python-net/sv/aspose.cells.externalconnections/sqldatatype)

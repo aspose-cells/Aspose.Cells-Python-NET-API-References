@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  character fastighet
 
-Får och ställer character av kulan.
+Hämtar och sätter character för kulan.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def character(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [CharacterBulletValue](/cells/python-net/sv/aspose.cells.drawing.texts/characterbulletvalue)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`CharacterBulletValue`](/cells/python-net/sv/aspose.cells.drawing.texts/characterbulletvalue)

@@ -19,5 +19,5 @@ def is_custom(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [IconSet](/cells/python-net/es/aspose.cells/iconset)
+* módulo [`aspose.cells`](../../)
+* clase [`IconSet`](/cells/python-net/es/aspose.cells/iconset)

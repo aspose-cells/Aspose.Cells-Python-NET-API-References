@@ -11,7 +11,7 @@ is_root: false
 
 Obtenga la instancia "DataBar" del formato condicional.
 El color de la instancia predeterminada es azul.
-Válido solo para el tipo es DataBar.
+Válido sólo para el tipo DataBar.
 ###  Definición:
 ```python
 @property
@@ -20,6 +20,6 @@ def data_bar(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [DataBar](/cells/python-net/es/aspose.cells/databar)
-* clase [FormatCondition](/cells/python-net/es/aspose.cells/formatcondition)
+* módulo [`aspose.cells`](../../)
+* clase [`DataBar`](/cells/python-net/es/aspose.cells/databar)
+* clase [`FormatCondition`](/cells/python-net/es/aspose.cells/formatcondition)

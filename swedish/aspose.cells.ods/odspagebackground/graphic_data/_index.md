@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  graphic_data fastighet
 
-Hämtar och ställer in grafiska data.
+Hämtar och ställer in grafikdata.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def graphic_data(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.ods](../../)
-* klass [OdsPageBackground](/cells/python-net/sv/aspose.cells.ods/odspagebackground)
+* modul [`aspose.cells.ods`](../../)
+* klass [`OdsPageBackground`](/cells/python-net/sv/aspose.cells.ods/odspagebackground)

@@ -1,13 +1,13 @@
 ---
-title: get_style método
+title: método get_style
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 210
+weight: 220
 url: /es/aspose.cells/cell/get_style/
 is_root: false
 ---
-##  get_style() {#}
+##  get_style(self) {#}
 Obtiene el estilo de celda.
 
 
@@ -17,6 +17,7 @@ Objeto de estilo.
 
 
 ```python
+
 def get_style(self):
     ...
 ```
@@ -24,10 +25,10 @@ def get_style(self):
 
 ###  Observaciones
 
-Para cambiar el estilo de la celda, llame al método Cell.SetStyle() después de cambiar el estilo.
+Para cambiar el estilo de la celda, llame al método Cell.SetStyle() después de modificar el objeto de estilo devuelto.
+Este método es el mismo que [`Cell.get_style`](/cells/python-net/es/aspose.cells/cell/get_style) con valor verdadero para el parámetro.
 
-##  get_style(check_borders) {#bool}
-
+##  get_style(self, check_borders) {#bool}
 Si checkBorders es verdadero, verifica si los bordes de otras celdas afectarán el estilo de esta celda.
 
 
@@ -37,6 +38,7 @@ Objeto de estilo.
 
 
 ```python
+
 def get_style(self, check_borders):
     ...
 ```
@@ -44,7 +46,7 @@ def get_style(self, check_borders):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| check_borders | bool | Comprobar los bordes de otras celdas|
+| check_borders | bool | Comprueba los bordes de otras celdas|
 ###  Observaciones
 
 
@@ -52,5 +54,5 @@ def get_style(self, check_borders):
 
 ###  Ver también
 
-* módulo [aspose.cells](../../)
-* clase [Cell](/cells/python-net/es/aspose.cells/cell)
+* módulo [`aspose.cells`](../../)
+* clase [`Cell`](/cells/python-net/es/aspose.cells/cell)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  threaded_comments fastighet
 
-Hämtar listan med trådade kommentarer;
+Hämtar listan över trådade kommentarer;
 
 ###  Exempel
 

@@ -7,7 +7,7 @@ weight: 20
 url: /es/aspose.cells/range/add_hyperlink/
 is_root: false
 ---
-##  add_hyperlink {#str-str-str}
+##  add_hyperlink(self, address, text_to_display, screen_tip) {#str-str-str}
 Agrega un hipervínculo a una celda específica o a un rango de celdas.
 
 
@@ -17,6 +17,7 @@ Agrega un hipervínculo a una celda específica o a un rango de celdas.
 
 
 ```python
+
 def add_hyperlink(self, address, text_to_display, screen_tip):
     ...
 ```

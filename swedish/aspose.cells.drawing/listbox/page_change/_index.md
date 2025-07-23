@@ -3,14 +3,14 @@ title: page_change fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 850
+weight: 860
 url: /sv/aspose.cells.drawing/listbox/page_change/
 is_root: false
 ---
 ##  page_change fastighet
 
  Anger hur mycket kontrollens värde ändras
-när användaren klickar på rullningslistens sida upp eller sida ner region.
+när användaren klickar på rullningslistens Page Up- eller Page Down-område.
 ###  Definition:
 ```python
 @property

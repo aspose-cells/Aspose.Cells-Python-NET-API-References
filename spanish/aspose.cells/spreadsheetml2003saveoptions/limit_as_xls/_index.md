@@ -3,13 +3,13 @@ title: limit_as_xls propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 80
+weight: 100
 url: /es/aspose.cells/spreadsheetml2003saveoptions/limit_as_xls/
 is_root: false
 ---
 ##  limit_as_xls propiedad
 
-Límite como xls, el índice de fila máximo es 65535 y el índice de columna máximo es 255.
+Limitar como xls, el índice de fila máximo es 65535 y el índice de columna máximo es 255.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def limit_as_xls(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [SpreadsheetML2003SaveOptions](/cells/python-net/es/aspose.cells/spreadsheetml2003saveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`SpreadsheetML2003SaveOptions`](/cells/python-net/es/aspose.cells/spreadsheetml2003saveoptions)

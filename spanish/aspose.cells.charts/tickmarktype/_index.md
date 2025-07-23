@@ -8,7 +8,7 @@ url: /es/aspose.cells.charts/tickmarktype/
 is_root: false
 ---
 ##  TickMarkType enumeración
-Representa el tipo de marca de verificación para el eje especificado.
+Representa el tipo de marca de graduación para el eje especificado.
 
 
 
@@ -20,7 +20,7 @@ El tipo TickMarkType expone los siguientes miembros:
 | CROSS | El tipo de marca de verificación es Cruz.|
 | INSIDE | El tipo de marca de verificación es Interior.|
 | NONE | El tipo de marca de verificación es Ninguno.|
-| OUTSIDE | El tipo de marca de verificación es exterior|
+| OUTSIDE | El tipo de marca de verificación es Exterior|
 
 
 

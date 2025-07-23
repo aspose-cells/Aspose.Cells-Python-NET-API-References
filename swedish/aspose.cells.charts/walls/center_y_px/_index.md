@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  center_y_px fastighet
 
-Hämtar y-koordinaten för det nedre vänstra hörnet av väggens centrum i enheter av pixlar efter anrop av metoden Chart.Calculate().
+Hämtar y-koordinaten för det nedre vänstra hörnet av väggens mittpunkt i pixlar efter anrop av metoden Chart.Calculate().
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def center_y_px(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Walls](/cells/python-net/sv/aspose.cells.charts/walls)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Walls`](/cells/python-net/sv/aspose.cells.charts/walls)

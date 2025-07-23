@@ -3,20 +3,22 @@ title: rotation_angle fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 930
+weight: 940
 url: /sv/aspose.cells.drawing/scrollbar/rotation_angle/
 is_root: false
 ---
 ##  rotation_angle fastighet
 
-Får och ställer in formens rotation.
+Hämtar och ställer in rotationen av formen.
 
 ###  Exempel
 
 ```python
 
-if shape.rotation_angle == 45:
-    shape.rotation_angle = 60.0
+# Gets rotation angle of the shape.
+angle = shape.rotation_angle
+# Gets rotation angle of the shape.
+shape.rotation_angle = 60.0
 
 ```
 ###  Definition:

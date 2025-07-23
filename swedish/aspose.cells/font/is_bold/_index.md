@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_bold fastighet
 
-Hämtar eller ställer in ett värde som anger om teckensnittet är fetstilt.
+Hämtar eller anger ett värde som anger om teckensnittet är fetstilt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_bold(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Font](/cells/python-net/sv/aspose.cells/font)
+* modul [`aspose.cells`](../../)
+* klass [`Font`](/cells/python-net/sv/aspose.cells/font)

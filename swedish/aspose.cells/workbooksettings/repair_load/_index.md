@@ -3,7 +3,7 @@ title: repair_load fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 420
+weight: 460
 url: /sv/aspose.cells/workbooksettings/repair_load/
 is_root: false
 ---

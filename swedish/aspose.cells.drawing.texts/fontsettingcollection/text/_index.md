@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text fastighet
 
-Hämtar och ställer in formens text.
+Hämtar och anger text för formen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [FontSettingCollection](/cells/python-net/sv/aspose.cells.drawing.texts/fontsettingcollection)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`FontSettingCollection`](/cells/python-net/sv/aspose.cells.drawing.texts/fontsettingcollection)

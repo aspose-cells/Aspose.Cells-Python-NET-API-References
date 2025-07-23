@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_value propiedad
 
-Obtenga o establezca la bandera que indica si mostrar los valores de las celdas en las que se aplica este conjunto de iconos.
+Obtenga o establezca la bandera que indica si se deben mostrar los valores de las celdas en las que se aplica este conjunto de iconos.
 El valor predeterminado es verdadero.
 ###  Definición:
 ```python
@@ -22,5 +22,5 @@ def show_value(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [IconSet](/cells/python-net/es/aspose.cells/iconset)
+* módulo [`aspose.cells`](../../)
+* clase [`IconSet`](/cells/python-net/es/aspose.cells/iconset)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row propiedad
 
-Obtiene el row de las etiquetas inteligentes de celda.
+Obtiene el row de las etiquetas inteligentes de la celda.
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def row(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.markup](../../)
-* clase [SmartTagCollection](/cells/python-net/es/aspose.cells.markup/smarttagcollection)
+* módulo [`aspose.cells.markup`](../../)
+* clase [`SmartTagCollection`](/cells/python-net/es/aspose.cells.markup/smarttagcollection)

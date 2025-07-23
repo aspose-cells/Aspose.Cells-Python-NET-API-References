@@ -1,5 +1,5 @@
 ---
-title: remove_pivot_connection método
+title: método remove_pivot_connection
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 40
 url: /es/aspose.cells.slicers/slicer/remove_pivot_connection/
 is_root: false
 ---
-##  remove_pivot_connection(pivot) {#aspose.cells.pivot.PivotTable}
-Elimina la conexión de tabla dinámica.
+##  remove_pivot_connection(self, pivot) {#aspose.cells.pivot.PivotTable}
+Elimina la conexión de la tabla dinámica.
 
 
 
 ```python
+
 def remove_pivot_connection(self, pivot):
     ...
 ```
@@ -33,5 +34,5 @@ slicer.remove_pivot_connection(pivot)
 
 
 ###  Ver también
-* módulo [aspose.cells.slicers](../../)
-* clase [Slicer](/cells/python-net/es/aspose.cells.slicers/slicer)
+* módulo [`aspose.cells.slicers`](../../)
+* clase [`Slicer`](/cells/python-net/es/aspose.cells.slicers/slicer)

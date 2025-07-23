@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  explosion fastighet
 
-Avståndet för en öppen pajskiva från mitten av cirkeldiagrammet uttrycks i procent av pajdiametern.
+Avståndet mellan ett öppet cirkelsegment och mitten av cirkeldiagrammet uttrycks som en procentandel av cirkeldiametern.
 ###  Definition:
 ```python
 @property

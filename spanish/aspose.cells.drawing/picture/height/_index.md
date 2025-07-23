@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height propiedad
 
-Representa el height de forma, en unidades de píxel.
+Representa el height de forma, en unidad de píxel.
 
 ###  Ejemplo
 

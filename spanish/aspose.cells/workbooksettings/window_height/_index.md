@@ -3,13 +3,13 @@ title: window_height propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 520
+weight: 530
 url: /es/aspose.cells/workbooksettings/window_height/
 is_root: false
 ---
 ##  window_height propiedad
 
-La altura de la ventana, en unidad de punto.
+La altura de la ventana, en unidad de puntos.
 ###  Definición:
 ```python
 @property

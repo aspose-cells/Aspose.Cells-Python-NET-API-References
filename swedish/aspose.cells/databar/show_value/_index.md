@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_value fastighet
 
-Hämta eller ställ in flaggan som indikerar om värdena för cellerna som denna datafält används på ska visas.
+Hämta eller ställ in flaggan som anger om värdena för de celler där den här datafältet tillämpas ska visas.
 Standardvärdet är sant.
 ###  Definition:
 ```python
@@ -22,5 +22,5 @@ def show_value(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DataBar](/cells/python-net/sv/aspose.cells/databar)
+* modul [`aspose.cells`](../../)
+* klass [`DataBar`](/cells/python-net/sv/aspose.cells/databar)

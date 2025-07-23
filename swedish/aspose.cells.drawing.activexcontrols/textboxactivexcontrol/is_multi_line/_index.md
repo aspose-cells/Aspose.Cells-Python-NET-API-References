@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_multi_line fastighet
 
-Indikerar om kontrollen kan visa mer än en textrad.
+Anger om kontrollen kan visa mer än en textrad.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_multi_line(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [TextBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`TextBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

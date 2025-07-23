@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  far_east_name fastighet
 
-Hämtar och ställer in FarEast-namnet.
+Hämtar och anger namnet för Fjärran Östern.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def far_east_name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [TextOptions](/cells/python-net/sv/aspose.cells.drawing.texts/textoptions)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`TextOptions`](/cells/python-net/sv/aspose.cells.drawing.texts/textoptions)

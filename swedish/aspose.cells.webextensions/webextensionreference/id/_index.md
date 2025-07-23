@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  id fastighet
 
-Hämtar och ställer in identifieraren som är kopplad till Office-tillägget inom en katalogleverantör.
+Hämtar och anger identifieraren som är associerad med Office-tillägget i en katalogleverantör.
 Identifieraren MÅSTE vara unik inom en katalogleverantör.
 ###  Definition:
 ```python
@@ -22,5 +22,5 @@ def id(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.webextensions](../../)
-* klass [WebExtensionReference](/cells/python-net/sv/aspose.cells.webextensions/webextensionreference)
+* modul [`aspose.cells.webextensions`](../../)
+* klass [`WebExtensionReference`](/cells/python-net/sv/aspose.cells.webextensions/webextensionreference)

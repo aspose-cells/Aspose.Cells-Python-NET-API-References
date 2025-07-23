@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  trend_lines fastighet
 
-Returnerar ett objekt som representerar en samling av alla trendlinjer för serien.
+Returnerar alla trendlinjer i denna serie.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def trend_lines(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Series](/cells/python-net/sv/aspose.cells.charts/series)
-* klass [TrendlineCollection](/cells/python-net/sv/aspose.cells.charts/trendlinecollection)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Series`](/cells/python-net/sv/aspose.cells.charts/series)
+* klass [`TrendlineCollection`](/cells/python-net/sv/aspose.cells.charts/trendlinecollection)

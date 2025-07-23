@@ -1,5 +1,5 @@
 ---
-title: add método
+title: método add
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 20
 url: /es/aspose.cells.webextensions/webextensionpropertycollection/add/
 is_root: false
 ---
-##  add(name, value) {#str-str}
+##  add(self, name, value) {#str-str}
 Agrega propiedad de extensión web.
 
 
 ###  Devoluciones
 
-El índice de propiedad añadida.
+El índice de propiedad agregada.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -30,5 +31,5 @@ def add(self, name, value):
 
 
 ###  Ver también
-* módulo [aspose.cells.webextensions](../../)
-* clase [WebExtensionPropertyCollection](/cells/python-net/es/aspose.cells.webextensions/webextensionpropertycollection)
+* módulo [`aspose.cells.webextensions`](../../)
+* clase [`WebExtensionPropertyCollection`](/cells/python-net/es/aspose.cells.webextensions/webextensionpropertycollection)

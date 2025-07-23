@@ -8,8 +8,6 @@ url: /es/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/back_ole_
 is_root: false
 ---
 ##  back_ole_color propiedad
-
-Obtiene y establece el color antiguo del fondo.
 ###  Definición:
 ```python
 @property
@@ -21,5 +19,5 @@ def back_ole_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [SpinButtonActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`SpinButtonActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

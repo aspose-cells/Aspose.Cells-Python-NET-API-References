@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  update_reference fastighet
 
-Indikerar om uppdateringsreferenser i andra kalkylblad.
+Anger om uppdateringsreferenser i andra kalkylblad.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def update_reference(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DeleteOptions](/cells/python-net/sv/aspose.cells/deleteoptions)
+* modul [`aspose.cells`](../../)
+* klass [`DeleteOptions`](/cells/python-net/sv/aspose.cells/deleteoptions)

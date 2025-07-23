@@ -8,7 +8,7 @@ url: /sv/aspose.cells.charts/errorbardisplaytype/
 is_root: false
 ---
 ##  ErrorBarDisplayType uppräkning
-Representerar visningstyp för felfält.
+Representerar visningstypen för felstapeln.
 
 
 
@@ -25,4 +25,4 @@ Typen ErrorBarDisplayType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

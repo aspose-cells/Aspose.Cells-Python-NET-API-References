@@ -3,7 +3,7 @@ title: value propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 740
+weight: 770
 url: /es/aspose.cells/cell/value/
 is_root: false
 ---
@@ -18,7 +18,7 @@ Tipo posible:
 nulo,
 
 
-booleano,
+Booleano,
 
 
 Fecha y hora,

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  total_columns fastighet
 
-Hämtar eller ställer in totalt kolumnantal för import från datakällan. -1 betyder alla rader av given datakälla.
+Hämtar eller ställer in det totala antalet kolumner som ska importeras från datakällan. -1 betyder alla rader i den givna datakällan.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def total_columns(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ImportTableOptions](/cells/python-net/sv/aspose.cells/importtableoptions)
+* modul [`aspose.cells`](../../)
+* klass [`ImportTableOptions`](/cells/python-net/sv/aspose.cells/importtableoptions)

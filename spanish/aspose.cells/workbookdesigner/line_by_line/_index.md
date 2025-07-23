@@ -13,8 +13,8 @@ Indica si se procesa el marcador inteligente línea por línea.
 
 ###  Observaciones
 
-El valor por defecto es verdadero.
-Si es falso, el archivo de plantilla debe contener un rango denominado "_CellsSmartMarkers".
+El valor predeterminado es verdadero.
+Si es Falso, el archivo de plantilla debe contener un rango llamado "_CellsSmartMarkers".
 ###  Definición:
 ```python
 @property

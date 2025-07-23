@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  twiddledlibid propiedad
 
-Obtiene y establece la Libid alterada de la referencia.
+Obtiene y establece el Libid modificado de la referencia.
 
 ###  Observaciones
 
-Solo para referencia de control.
+Sólo para referencia de control.
 ###  Definición:
 ```python
 @property
@@ -25,5 +25,5 @@ def twiddledlibid(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.vba](../../)
-* clase [VbaProjectReference](/cells/python-net/es/aspose.cells.vba/vbaprojectreference)
+* módulo [`aspose.cells.vba`](../../)
+* clase [`VbaProjectReference`](/cells/python-net/es/aspose.cells.vba/vbaprojectreference)

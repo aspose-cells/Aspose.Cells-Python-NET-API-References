@@ -21,6 +21,6 @@ def picture_format_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [FillPictureType](/cells/python-net/es/aspose.cells.drawing/fillpicturetype)
-* clase [TextureFill](/cells/python-net/es/aspose.cells.drawing/texturefill)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`FillPictureType`](/cells/python-net/es/aspose.cells.drawing/fillpicturetype)
+* clase [`TextureFill`](/cells/python-net/es/aspose.cells.drawing/texturefill)

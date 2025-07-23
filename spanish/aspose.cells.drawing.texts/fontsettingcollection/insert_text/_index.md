@@ -1,5 +1,5 @@
 ---
-title: insert_text método
+title: método insert_text
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 90
 url: /es/aspose.cells.drawing.texts/fontsettingcollection/insert_text/
 is_root: false
 ---
-##  insert_text(index, text) {#int-str}
+##  insert_text(self, index, text) {#int-str}
 Insertar índice en la posición.
 
 
 
 ```python
+
 def insert_text(self, index, text):
     ...
 ```
@@ -26,5 +27,5 @@ def insert_text(self, index, text):
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](../../)
-* clase [FontSettingCollection](/cells/python-net/es/aspose.cells.drawing.texts/fontsettingcollection)
+* módulo [`aspose.cells.drawing.texts`](../../)
+* clase [`FontSettingCollection`](/cells/python-net/es/aspose.cells.drawing.texts/fontsettingcollection)

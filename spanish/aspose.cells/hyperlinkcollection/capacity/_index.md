@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [HyperlinkCollection](/cells/python-net/es/aspose.cells/hyperlinkcollection)
+* módulo [`aspose.cells`](../../)
+* clase [`HyperlinkCollection`](/cells/python-net/es/aspose.cells/hyperlinkcollection)

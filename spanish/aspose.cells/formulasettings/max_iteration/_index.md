@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  max_iteration propiedad
 
-El máximo de iteraciones para resolver una referencia circular.
+Las iteraciones máximas para resolver una referencia circular.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def max_iteration(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FormulaSettings](/cells/python-net/es/aspose.cells/formulasettings)
+* módulo [`aspose.cells`](../../)
+* clase [`FormulaSettings`](/cells/python-net/es/aspose.cells/formulasettings)

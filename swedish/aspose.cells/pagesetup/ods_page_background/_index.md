@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  ods_page_background fastighet
 
-Får bakgrunden till ODS.
+Hämtar bakgrunden för ODS.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def ods_page_background(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [OdsPageBackground](/cells/python-net/sv/aspose.cells.ods/odspagebackground)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`OdsPageBackground`](/cells/python-net/sv/aspose.cells.ods/odspagebackground)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

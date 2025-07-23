@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  dash_style fastighet
 
-Hämtar eller ställer in bindestreckstilen för den angivna raden.
+Hämtar eller ställer in streckstilen för den angivna linjen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def dash_style(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [MsoLineDashStyle](/cells/python-net/sv/aspose.cells.drawing/msolinedashstyle)
-* klass [MsoLineFormat](/cells/python-net/sv/aspose.cells.drawing/msolineformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`MsoLineDashStyle`](/cells/python-net/sv/aspose.cells.drawing/msolinedashstyle)
+* klass [`MsoLineFormat`](/cells/python-net/sv/aspose.cells.drawing/msolineformat)

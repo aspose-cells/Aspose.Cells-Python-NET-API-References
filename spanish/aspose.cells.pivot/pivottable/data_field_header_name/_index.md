@@ -3,7 +3,7 @@ title: data_field_header_name propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 410
+weight: 510
 url: /es/aspose.cells.pivot/pivottable/data_field_header_name/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def data_field_header_name(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.pivot](../../)
-* clase [PivotTable](/cells/python-net/es/aspose.cells.pivot/pivottable)
+* módulo [`aspose.cells.pivot`](../../)
+* clase [`PivotTable`](/cells/python-net/es/aspose.cells.pivot/pivottable)

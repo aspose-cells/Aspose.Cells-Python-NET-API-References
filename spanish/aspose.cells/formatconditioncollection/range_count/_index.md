@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  range_count propiedad
 
-Obtiene el recuento de rangos con formato condicional.
+Obtiene el recuento de rangos formateados condicionalmente.
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def range_count(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FormatConditionCollection](/cells/python-net/es/aspose.cells/formatconditioncollection)
+* módulo [`aspose.cells`](../../)
+* clase [`FormatConditionCollection`](/cells/python-net/es/aspose.cells/formatconditioncollection)

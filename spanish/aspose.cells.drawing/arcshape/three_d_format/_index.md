@@ -3,7 +3,7 @@ title: three_d_format propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1100
+weight: 1110
 url: /es/aspose.cells.drawing/arcshape/three_d_format/
 is_root: false
 ---

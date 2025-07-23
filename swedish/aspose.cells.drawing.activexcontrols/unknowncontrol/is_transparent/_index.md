@@ -8,8 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/unknowncontrol/is_transparent/
 is_root: false
 ---
 ##  is_transparent fastighet
-
-Indikerar om kontrollen är transparent.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_transparent(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [UnknownControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`UnknownControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/unknowncontrol)

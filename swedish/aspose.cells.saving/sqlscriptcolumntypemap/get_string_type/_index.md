@@ -7,8 +7,8 @@ weight: 30
 url: /sv/aspose.cells.saving/sqlscriptcolumntypemap/get_string_type/
 is_root: false
 ---
-##  get_string_type() {#}
-Hämtar strängtyp i databasen.
+##  get_string_type(self) {#}
+Hämtar strängtypen i databasen.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Hämtar strängtyp i databasen.
 
 
 ```python
+
 def get_string_type(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_string_type(self):
 
 
 ###  Se även
-* modul [aspose.cells.saving](../../)
-* klass [SqlScriptColumnTypeMap](/cells/python-net/sv/aspose.cells.saving/sqlscriptcolumntypemap)
+* modul [`aspose.cells.saving`](../../)
+* klass [`SqlScriptColumnTypeMap`](/cells/python-net/sv/aspose.cells.saving/sqlscriptcolumntypemap)

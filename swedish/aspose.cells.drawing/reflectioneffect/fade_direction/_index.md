@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fade_direction fastighet
 
-Får och ställer in riktningen för att kompensera reflektionen.
+Hämtar och anger riktningen för att kompensera för reflektionen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def fade_direction(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ReflectionEffect](/cells/python-net/sv/aspose.cells.drawing/reflectioneffect)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ReflectionEffect`](/cells/python-net/sv/aspose.cells.drawing/reflectioneffect)

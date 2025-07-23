@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells.drawing.texts/nonebulletvalue/__init__/
 is_root: false
 ---
-##  NoneBulletValue() {#}
+##  \_\_init\_\_(själv){#}
 Konstruerar en ny instans av NoneBulletValue
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [NoneBulletValue](/cells/python-net/sv/aspose.cells.drawing.texts/nonebulletvalue)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`NoneBulletValue`](/cells/python-net/sv/aspose.cells.drawing.texts/nonebulletvalue)

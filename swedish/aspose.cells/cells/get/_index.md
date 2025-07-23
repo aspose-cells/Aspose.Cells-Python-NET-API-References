@@ -7,16 +7,17 @@ weight: 300
 url: /sv/aspose.cells/cells/get/
 is_root: false
 ---
-##  get {#str}
-Lägg till API for Python Via .Net.eftersom denna [sträng cellnamn] inte stöds
+##  get(self, cell_name) {#str}
+Lägg till API for Python Via .Net. eftersom detta [sträng cellnamn] inte stöds.
 
 
 ###  Returnerar
 
-Ett [`Cell`](/cells/python-net/sv/aspose.cells/cell) objekt
+Ett [`Cell`](/cells/python-net/sv/aspose.cells/cell)-objekt
 
 
 ```python
+
 def get(self, cell_name):
     ...
 ```
@@ -27,8 +28,8 @@ def get(self, cell_name):
 | cell_name | str | Cell namn, inklusive dess kolumnbokstav och radnummer, till exempel A5.|
 
 
-##  get {#int-int}
-Lägg till API for Python Via .Net.eftersom denna [int rad, int kolumn] inte stöds
+##  get(self, row, column) {#int-int}
+Lägg till API for Python Via .Net. eftersom detta [int rad, int kolumn] inte stöds.
 
 
 ###  Returnerar
@@ -37,6 +38,7 @@ Objektet [`Cell`](/cells/python-net/sv/aspose.cells/cell).
 
 
 ```python
+
 def get(self, row, column):
     ...
 ```

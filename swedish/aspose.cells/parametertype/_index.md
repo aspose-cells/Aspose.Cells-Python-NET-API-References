@@ -3,12 +3,12 @@ title: ParameterType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2430
+weight: 2400
 url: /sv/aspose.cells/parametertype/
 is_root: false
 ---
 ##  ParameterType uppräkning
-Representerar alla parametrars typ eller returvärdestyp av funktion.
+Representerar alla parametrars typ eller funktionstyp för returvärde.
 
 
 

@@ -3,7 +3,7 @@ title: pivot_tables fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 710
+weight: 740
 url: /sv/aspose.cells/worksheet/pivot_tables/
 is_root: false
 ---

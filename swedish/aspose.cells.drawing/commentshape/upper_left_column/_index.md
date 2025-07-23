@@ -3,13 +3,13 @@ title: upper_left_column fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1150
+weight: 1160
 url: /sv/aspose.cells.drawing/commentshape/upper_left_column/
 is_root: false
 ---
 ##  upper_left_column fastighet
 
-Representerar kolumnindex i det övre vänstra hörnet.
+Representerar kolumnindex i övre vänstra hörnet.
 
 ###  Exempel
 

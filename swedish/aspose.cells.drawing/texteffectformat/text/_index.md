@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text fastighet
 
-text i WordArt.
+text i WordArt-filen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [TextEffectFormat](/cells/python-net/sv/aspose.cells.drawing/texteffectformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`TextEffectFormat`](/cells/python-net/sv/aspose.cells.drawing/texteffectformat)

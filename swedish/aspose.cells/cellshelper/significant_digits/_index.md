@@ -3,13 +3,13 @@ title: significant_digits fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 260
+weight: 280
 url: /sv/aspose.cells/cellshelper/significant_digits/
 is_root: false
 ---
 ##  significant_digits fastighet
 
-Hämtar och ställer in antalet signifikanta siffror.
+Hämtar och anger antalet signifikanta siffror.
 Standardvärdet är 17.
 
 ###  Anmärkningar
@@ -20,8 +20,8 @@ Kan bara vara 15 eller 17 nu.
 @property
 def significant_digits(self):
     ...
-@significant_digits.setter
-def significant_digits(self, value):
+@staticmethod
+def set_significant_digits(value):
     ...
 ```
 

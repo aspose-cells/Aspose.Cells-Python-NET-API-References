@@ -3,7 +3,7 @@ title: Line clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 290
+weight: 270
 url: /es/aspose.cells.drawing/line/
 is_root: false
 ---
@@ -21,18 +21,18 @@ El tipo Line expone los siguientes miembros:
 | [dash_type](/cells/python-net/es/aspose.cells.drawing/line/dash_type) | Especifica el tipo de línea discontinua|
 | [cap_type](/cells/python-net/es/aspose.cells.drawing/line/cap_type) | Especifica las mayúsculas finales.|
 | [join_type](/cells/python-net/es/aspose.cells.drawing/line/join_type) | Especifica las tapas de unión.|
-| [begin_type](/cells/python-net/es/aspose.cells.drawing/line/begin_type) |Especifica una punta de flecha para el comienzo de una línea.|
+| [begin_type](/cells/python-net/es/aspose.cells.drawing/line/begin_type) | Especifica una punta de flecha para el comienzo de una línea.|
 | [end_type](/cells/python-net/es/aspose.cells.drawing/line/end_type) | Especifica una punta de flecha para el final de una línea.|
 | [begin_arrow_length](/cells/python-net/es/aspose.cells.drawing/line/begin_arrow_length) | Especifica la longitud de la punta de flecha para el comienzo de una línea.|
 | [end_arrow_length](/cells/python-net/es/aspose.cells.drawing/line/end_arrow_length) | Especifica la longitud de la punta de flecha para el final de una línea.|
 | [begin_arrow_width](/cells/python-net/es/aspose.cells.drawing/line/begin_arrow_width) | Especifica el ancho de la punta de flecha para el comienzo de una línea.|
 | [end_arrow_width](/cells/python-net/es/aspose.cells.drawing/line/end_arrow_width) | Especifica el ancho de la punta de flecha para el final de una línea.|
 | [theme_color](/cells/python-net/es/aspose.cells.drawing/line/theme_color) | Obtiene y establece el color del tema.|
-| [color](/cells/python-net/es/aspose.cells.drawing/line/color) | Representa el Color de la línea.|
+| [color](/cells/python-net/es/aspose.cells.drawing/line/color) | Representa el color de la linea.|
 | [transparency](/cells/python-net/es/aspose.cells.drawing/line/transparency) | Devuelve o establece el grado de transparencia de la línea como un valor de 0,0 (opaco) a 1,0 (transparente).|
 | [style](/cells/python-net/es/aspose.cells.drawing/line/style) | Representa el estilo de la línea.|
-| [weight](/cells/python-net/es/aspose.cells.drawing/line/weight) | Obtiene o establece el [WeightType](/cells/python-net/es/aspose.cells.drawing/weighttype) de la línea.|
-| [weight_pt](/cells/python-net/es/aspose.cells.drawing/line/weight_pt) | Obtiene o establece el grosor de la línea en unidades de puntos.|
+| [weight](/cells/python-net/es/aspose.cells.drawing/line/weight) | Obtiene o establece el [`WeightType`](/cells/python-net/es/aspose.cells.drawing/weighttype) de la línea.|
+| [weight_pt](/cells/python-net/es/aspose.cells.drawing/line/weight_pt) |Obtiene o establece el peso de la línea en unidades de puntos.|
 | [weight_px](/cells/python-net/es/aspose.cells.drawing/line/weight_px) | Obtiene o establece el peso de la línea en unidades de píxeles.|
 | [formatting_type](/cells/python-net/es/aspose.cells.drawing/line/formatting_type) | Obtiene o establece el tipo de formato.|
 | [is_automatic_color](/cells/python-net/es/aspose.cells.drawing/line/is_automatic_color) | Indica si el color de la línea se asigna automáticamente.|
@@ -62,6 +62,10 @@ cells.get(2, 1).put_value(20000)
 cells.get(3, 1).put_value(30000)
 chartIndex = sheet.charts.add(ChartType.LINE, 9, 9, 21, 15)
 chart = sheet.charts[chartIndex]
+# Add series
+chart.n_series.add("A2:B4", True)
+# Set category data
+chart.n_series.category_data = "=Sheet1!$A$2:$A$4"
 # Applying a dotted line style on the lines of an NSeries
 chart.n_series[0].border.style = LineType.DOT
 chart.n_series[0].border.color = Color.red
@@ -73,5 +77,5 @@ chart.n_series[0].border.weight = WeightType.MEDIUM_LINE
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](..)
-* clase [WeightType](/cells/python-net/es/aspose.cells.drawing/weighttype)
+* módulo [`aspose.cells.drawing`](..)
+* clase [`WeightType`](/cells/python-net/es/aspose.cells.drawing/weighttype)

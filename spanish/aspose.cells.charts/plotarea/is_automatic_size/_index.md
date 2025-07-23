@@ -3,13 +3,13 @@ title: is_automatic_size propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 190
+weight: 290
 url: /es/aspose.cells.charts/plotarea/is_automatic_size/
 is_root: false
 ---
 ##  is_automatic_size propiedad
 
-Indica si el tamaño del área de trazado es automático.
+Indica si el área de trazado tiene un tamaño automático.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_automatic_size(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [PlotArea](/cells/python-net/es/aspose.cells.charts/plotarea)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`PlotArea`](/cells/python-net/es/aspose.cells.charts/plotarea)

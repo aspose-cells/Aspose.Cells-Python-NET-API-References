@@ -18,5 +18,5 @@ def start_index(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FontSetting](/cells/python-net/es/aspose.cells/fontsetting)
+* módulo [`aspose.cells`](../../)
+* clase [`FontSetting`](/cells/python-net/es/aspose.cells/fontsetting)

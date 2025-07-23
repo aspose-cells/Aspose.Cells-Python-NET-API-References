@@ -3,7 +3,7 @@ title: MultipleFilterCollection klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1100
+weight: 990
 url: /sv/aspose.cells/multiplefiltercollection/
 is_root: false
 ---
@@ -17,19 +17,19 @@ Typen MultipleFilterCollection avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [__init__](/cells/python-net/sv/aspose.cells/multiplefiltercollection/__init__/#) | Konstruerar en ny instans.|
+| [`__init__(self)`](/cells/python-net/sv/aspose.cells/multiplefiltercollection/__init__/#) |Konstruerar en ny instans.|
 
 
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [match_blank](/cells/python-net/sv/aspose.cells/multiplefiltercollection/match_blank) |Indikerar om det ska filtreras efter blankt.|
+| [match_blank](/cells/python-net/sv/aspose.cells/multiplefiltercollection/match_blank) | Anger om filtrering ska ske efter tomrum.|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [add](/cells/python-net/sv/aspose.cells/multiplefiltercollection/add/#str) | Lägger till strängfilter.|
+| [`add(self, filter)`](/cells/python-net/sv/aspose.cells/multiplefiltercollection/add/#str) | Lägger till strängfilter.|
 
 
 

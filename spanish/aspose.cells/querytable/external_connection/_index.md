@@ -18,6 +18,5 @@ def external_connection(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ExternalConnection](/cells/python-net/es/aspose.cells.externalconnections/externalconnection)
-* clase [QueryTable](/cells/python-net/es/aspose.cells/querytable)
+* módulo [`aspose.cells`](../../)
+* clase [`QueryTable`](/cells/python-net/es/aspose.cells/querytable)

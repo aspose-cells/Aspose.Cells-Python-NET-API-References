@@ -3,13 +3,13 @@ title: active_sheet_name propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 250
+weight: 270
 url: /es/aspose.cells/worksheetcollection/active_sheet_name/
 is_root: false
 ---
 ##  active_sheet_name propiedad
 
-Representa el nombre de la hoja de cálculo activa cuando se abre la hoja de cálculo.
+Representa el nombre de la hoja de trabajo activa cuando se abre la hoja de cálculo.
 ###  Definición:
 ```python
 @property

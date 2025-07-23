@@ -21,6 +21,6 @@ def preset_camera_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [PresetCameraType](/cells/python-net/sv/aspose.cells.drawing/presetcameratype)
-* klass [ThreeDFormat](/cells/python-net/sv/aspose.cells.drawing/threedformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`PresetCameraType`](/cells/python-net/sv/aspose.cells.drawing/presetcameratype)
+* klass [`ThreeDFormat`](/cells/python-net/sv/aspose.cells.drawing/threedformat)

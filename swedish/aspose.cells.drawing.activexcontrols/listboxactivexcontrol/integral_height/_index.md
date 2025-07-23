@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  integral_height fastighet
 
-Indikerar om kontrollen endast kommer att visa hela textrader utan att visa några partiella rader.
+Anger om kontrollen bara ska visa hela textrader utan att visa några ofullständiga rader.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def integral_height(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ListBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ListBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

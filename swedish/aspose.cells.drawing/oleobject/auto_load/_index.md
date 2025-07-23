@@ -3,13 +3,13 @@ title: auto_load fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 320
+weight: 330
 url: /sv/aspose.cells.drawing/oleobject/auto_load/
 is_root: false
 ---
 ##  auto_load fastighet
 
-Anger om värdapplikationen för det inbäddade objektet ska anropas för att laddas
+Anger om värdapplikationen för det inbäddade objektet ska anropas för att ladda
 objektdata automatiskt när den överordnade arbetsboken öppnas.
 ###  Definition:
 ```python

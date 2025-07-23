@@ -3,7 +3,7 @@ title: display_doc_title propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 170
+weight: 190
 url: /es/aspose.cells/pdfsaveoptions/display_doc_title/
 is_root: false
 ---
@@ -26,5 +26,5 @@ def display_doc_title(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PdfSaveOptions](/cells/python-net/es/aspose.cells/pdfsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`PdfSaveOptions`](/cells/python-net/es/aspose.cells/pdfsaveoptions)

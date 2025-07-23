@@ -3,7 +3,7 @@ title: gridline_type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 130
+weight: 140
 url: /es/aspose.cells.rendering/imageorprintoptions/gridline_type/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Obtiene o establece el tipo de línea de cuadrícula.
 
 ###  Observaciones
 
-El valor predeterminado es el tipo punteado.
+El tipo predeterminado es punteado.
 ###  Definición:
 ```python
 @property

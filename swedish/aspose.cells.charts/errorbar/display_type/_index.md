@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_type fastighet
 
-Representerar visningstyp för felfält.
+Representerar visningstypen för felstapeln.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def display_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ErrorBar](/cells/python-net/sv/aspose.cells.charts/errorbar)
-* klass [ErrorBarDisplayType](/cells/python-net/sv/aspose.cells.charts/errorbardisplaytype)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ErrorBar`](/cells/python-net/sv/aspose.cells.charts/errorbar)
+* klass [`ErrorBarDisplayType`](/cells/python-net/sv/aspose.cells.charts/errorbardisplaytype)

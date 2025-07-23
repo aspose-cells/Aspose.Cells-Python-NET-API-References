@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cross_type fastighet
 
-Representerar [`Axis.cross_type`](/cells/python-net/sv/aspose.cells.charts/axis#cross_type) på den angivna axeln där den andra axeln korsar.
+Representerar [`Axis.cross_type`](/cells/python-net/sv/aspose.cells.charts/axis#cross_type) på den angivna axeln där den andra axeln korsar den.
 ###  Definition:
 ```python
 @property

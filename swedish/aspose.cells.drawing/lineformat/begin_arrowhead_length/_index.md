@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  begin_arrowhead_length fastighet
 
-Hämtar och ställer in startpilens längdtyp för linjen.
+Hämtar och anger linjens startlängd för pilen.
 
 ###  Exempel
 
@@ -30,6 +30,6 @@ def begin_arrowhead_length(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [LineFormat](/cells/python-net/sv/aspose.cells.drawing/lineformat)
-* klass [MsoArrowheadLength](/cells/python-net/sv/aspose.cells.drawing/msoarrowheadlength)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`LineFormat`](/cells/python-net/sv/aspose.cells.drawing/lineformat)
+* klass [`MsoArrowheadLength`](/cells/python-net/sv/aspose.cells.drawing/msoarrowheadlength)

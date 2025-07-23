@@ -3,13 +3,13 @@ title: data_mashup propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 530
+weight: 550
 url: /es/aspose.cells/workbook/data_mashup/
 is_root: false
 ---
 ##  data_mashup propiedad
 
-Obtiene datos de combinación.
+Obtiene datos combinados.
 ###  Definición:
 ```python
 @property

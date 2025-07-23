@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_db_null fastighet
 
-Detta värde indikerar om DBNulls är tillåtna i den här tabellen.
+Det här värdet anger om DBNulls är tillåtna i den här tabellen.
 ###  Definition:
 ```python
 @property

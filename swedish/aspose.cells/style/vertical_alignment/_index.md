@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  vertical_alignment fastighet
 
-Hämtar eller ställer in den vertikala anpassningstypen för texten i en cell.
+Hämtar eller anger den vertikala justeringstypen för texten i en cell.
 ###  Definition:
 ```python
 @property

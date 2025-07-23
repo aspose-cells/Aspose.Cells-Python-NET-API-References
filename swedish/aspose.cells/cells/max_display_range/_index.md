@@ -3,17 +3,17 @@ title: max_display_range fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1110
+weight: 1140
 url: /sv/aspose.cells/cells/max_display_range/
 is_root: false
 ---
 ##  max_display_range fastighet
 
-Får det maximala intervallet som inkluderar data, sammanslagna celler och former.
+Hämtar det maximala intervallet som inkluderar data, sammanfogade celler och former.
 
 ###  Anmärkningar
 
-Reutrns null om kalkylbladet är tomt sedan Aspose.Cells 21.5.2.
+Reutrns är null om kalkylbladet är tomt sedan Aspose.Cells 21.5.2.
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  weight propiedad
 
-Obtiene o establece el weight de la línea en unidades de puntos.
+Obtiene o establece el weight de la línea en unidad de puntos.
 
 ###  Ejemplo
 
@@ -29,5 +29,5 @@ def weight(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [LineFormat](/cells/python-net/es/aspose.cells.drawing/lineformat)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`LineFormat`](/cells/python-net/es/aspose.cells.drawing/lineformat)

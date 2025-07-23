@@ -3,14 +3,14 @@ title: x_ad_es_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 100
+weight: 110
 url: /sv/aspose.cells.digitalsignatures/digitalsignature/x_ad_es_type/
 is_root: false
 ---
 ##  x_ad_es_type fastighet
 
-XAdES typ.
-Standardvärdet är None (XAdES är avstängt).
+XAdES-typ.
+Standardvärdet är Ingen (XAdES är avstängt).
 ###  Definition:
 ```python
 @property
@@ -22,6 +22,6 @@ def x_ad_es_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.digitalsignatures](../../)
-* klass [DigitalSignature](/cells/python-net/sv/aspose.cells.digitalsignatures/digitalsignature)
-* klass [XAdESType](/cells/python-net/sv/aspose.cells.digitalsignatures/xadestype)
+* modul [`aspose.cells.digitalsignatures`](../../)
+* klass [`DigitalSignature`](/cells/python-net/sv/aspose.cells.digitalsignatures/digitalsignature)
+* klass [`XAdESType`](/cells/python-net/sv/aspose.cells.digitalsignatures/xadestype)

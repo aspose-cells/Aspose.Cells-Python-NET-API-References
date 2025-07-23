@@ -3,7 +3,7 @@ title: HeaderFooterCommandType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2200
+weight: 2140
 url: /sv/aspose.cells/headerfootercommandtype/
 is_root: false
 ---
@@ -18,11 +18,11 @@ Typen HeaderFooterCommandType avslöjar följande medlemmar:
 | Fält| Beskrivning|
 | :- | :- |
 | TEXT | Texten.|
-| CURRENT_PAGE | Aktuellt sidnummer|
-| PAGECOUNT | Sidonummer|
-| CURRENT_DATE | Dagens datum|
+| CURRENT_PAGE | Nuvarande sidnummer|
+| PAGECOUNT | Sidantal|
+| CURRENT_DATE | Aktuellt datum|
 | CURRENT_TIME | Aktuell tid|
-| SHEET_NAME | Bladets namn|
+| SHEET_NAME | Arknamn|
 | FILE_NAME | Filnamn utan sökväg|
 | FILE_PATH | Filsökväg utan filnamn|
 | PICTURE | Bild|

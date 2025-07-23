@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.tables](../../)
-* klass [TableStyleElementCollection](/cells/python-net/sv/aspose.cells.tables/tablestyleelementcollection)
+* modul [`aspose.cells.tables`](../../)
+* klass [`TableStyleElementCollection`](/cells/python-net/sv/aspose.cells.tables/tablestyleelementcollection)

@@ -8,7 +8,7 @@ url: /es/aspose.cells.charts/mapchartregiontype/
 is_root: false
 ---
 ##  MapChartRegionType enumeración
-Representa el tipo de región del gráfico de mapa.
+Representa el tipo de región del gráfico del mapa.
 
 
 
@@ -18,11 +18,11 @@ El tipo MapChartRegionType expone los siguientes miembros:
 | Campo| Descripción|
 | :- | :- |
 | AUTOMATIC | Automático|
-| DATA_ONLY | Solo Datos.|
+| DATA_ONLY | Sólo datos.|
 | COUNTRY_REGION_LIST | Lista de regiones de países.|
 | WORLD | Mundo.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](..)
+* módulo [`aspose.cells.charts`](..)

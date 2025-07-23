@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  top_crop fastighet
 
-Representerar platsen för toppen av beskärningsrektangeln uttryckt, uttryckt som förhållandet mellan bildens höjd.
+Representerar platsen för den övre delen av beskärningsrektangeln uttryckt som ett förhållande till bildens höjd.
 ###  Definition:
 ```python
 @property

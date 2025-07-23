@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  mid_color fastighet
 
-Hämta eller ställ in gradientfärgen för mittvärdet i intervallet.
+Hämta eller ange gradientfärgen för det mellersta värdet i intervallet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def mid_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ColorScale](/cells/python-net/sv/aspose.cells/colorscale)
+* modul [`aspose.cells`](../../)
+* klass [`ColorScale`](/cells/python-net/sv/aspose.cells/colorscale)

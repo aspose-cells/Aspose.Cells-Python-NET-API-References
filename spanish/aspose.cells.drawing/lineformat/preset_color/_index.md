@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  preset_color propiedad
 
-Devuelve el color predeterminado de degradado para el relleno especificado.
+Devuelve el color preestablecido de degradado para el relleno especificado.
 ###  Definición:
 ```python
 @property
@@ -18,6 +18,6 @@ def preset_color(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [GradientPresetType](/cells/python-net/es/aspose.cells.drawing/gradientpresettype)
-* clase [LineFormat](/cells/python-net/es/aspose.cells.drawing/lineformat)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`GradientPresetType`](/cells/python-net/es/aspose.cells.drawing/gradientpresettype)
+* clase [`LineFormat`](/cells/python-net/es/aspose.cells.drawing/lineformat)

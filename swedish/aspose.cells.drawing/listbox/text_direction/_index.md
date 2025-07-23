@@ -3,13 +3,13 @@ title: text_direction fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1020
+weight: 1040
 url: /sv/aspose.cells.drawing/listbox/text_direction/
 is_root: false
 ---
 ##  text_direction fastighet
 
-Hämtar/ställer in textflödets riktning för detta objekt.
+Hämtar/ställer in riktningen på textflödet för detta objekt.
 
 ###  Exempel
 

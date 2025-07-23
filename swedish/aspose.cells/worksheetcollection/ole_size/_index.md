@@ -3,17 +3,17 @@ title: ole_size fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 330
+weight: 350
 url: /sv/aspose.cells/worksheetcollection/ole_size/
 is_root: false
 ---
 ##  ole_size fastighet
 
-Hämtar och ställer in den visade storleken när arbetsboksfilen används som ett Ole-objekt.
+Hämtar och anger visad storlek när en arbetsboksfil används som ett Ole-objekt.
 
 ###  Anmärkningar
 
-Null betyder ingen olestorleksinställning.
+Null betyder ingen inställning för olstorlek.
 ###  Definition:
 ```python
 @property

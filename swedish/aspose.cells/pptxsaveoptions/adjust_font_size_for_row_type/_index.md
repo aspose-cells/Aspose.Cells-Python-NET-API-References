@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  adjust_font_size_for_row_type fastighet
 
-Representerar vilken typ av linje som behöver justeras storleken på teckensnittet om höjden på raden är liten.
+Representerar vilken typ av rad som behöver justeras i teckenstorlek om radhöjden är liten.
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  double_size fastighet
 
-Hämtar och ställer in den dubbla storleken på teckensnittet.
+Hämtar och ställer in teckensnittets dubbla storlek.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def double_size(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Font](/cells/python-net/sv/aspose.cells/font)
+* modul [`aspose.cells`](../../)
+* klass [`Font`](/cells/python-net/sv/aspose.cells/font)

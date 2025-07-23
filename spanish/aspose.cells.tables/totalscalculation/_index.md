@@ -17,18 +17,18 @@ El tipo TotalsCalculation expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| SUM | Representa el cálculo de la suma total.|
+| SUM | Representa el cálculo de sumas totales.|
 | COUNT | Representa el cálculo de totales de conteo.|
-| AVERAGE |Representa el cálculo de los totales promedio.|
+| AVERAGE | Representa el cálculo de totales promedio.|
 | MAX | Representa el cálculo de totales máximos.|
 | MIN | Representa el cálculo de totales mínimos.|
-| VAR | Representa el cálculo de los totales Var.|
+| VAR | Representa el cálculo de totales de Var.|
 | COUNT_NUMS | Representa el cálculo de totales de Count Nums.|
-| STD_DEV | Representa el cálculo de los totales de StdDev.|
-| NONE | Representa ningún cálculo de totales.|
+| STD_DEV | Representa el cálculo de totales de StdDev.|
+| NONE | Representa que no hay cálculo de totales.|
 | CUSTOM | Representa un cálculo personalizado.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.tables](..)
+* módulo [`aspose.cells.tables`](..)

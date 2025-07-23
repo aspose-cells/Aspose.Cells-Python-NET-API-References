@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  type fastighet
 
-Hämta eller ställ in type för detta villkorliga formateringsvärdeobjekt.
+Hämta eller ange type för detta villkorsstyrda formateringsvärdeobjekt.
  Ställa in type till FormatConditionValueType.Min eller FormatConditionValueType.Max
-kommer automatiskt att ställa in "Värde" till noll.
+kommer automatiskt att sätta "Värde" till null.
 ###  Definition:
 ```python
 @property
@@ -23,6 +23,6 @@ def type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ConditionalFormattingValue](/cells/python-net/sv/aspose.cells/conditionalformattingvalue)
-* klass [FormatConditionValueType](/cells/python-net/sv/aspose.cells/formatconditionvaluetype)
+* modul [`aspose.cells`](../../)
+* klass [`ConditionalFormattingValue`](/cells/python-net/sv/aspose.cells/conditionalformattingvalue)
+* klass [`FormatConditionValueType`](/cells/python-net/sv/aspose.cells/formatconditionvaluetype)

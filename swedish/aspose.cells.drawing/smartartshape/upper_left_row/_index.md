@@ -3,17 +3,17 @@ title: upper_left_row fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1150
+weight: 1160
 url: /sv/aspose.cells.drawing/smartartshape/upper_left_row/
 is_root: false
 ---
 ##  upper_left_row fastighet
 
-Representerar radindex i övre vänstra hörnet.
+Representerar det översta radindexet.
 
 ###  Anmärkningar
 
-Om formen är i formen eller i gruppen kommer UpperLeftRow att ignoreras.
+Om formen finns i formen eller i gruppen kommer UpperLeftRow att ignoreras.
 
 ###  Exempel
 

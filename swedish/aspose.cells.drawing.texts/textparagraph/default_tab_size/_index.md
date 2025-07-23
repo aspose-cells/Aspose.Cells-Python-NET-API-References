@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  default_tab_size fastighet
 
-Hämtar och ställer in standardstorleken för ett tabbtecken i detta stycke.
+Hämtar och anger standardstorleken för ett tabbtecken i detta stycke.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def default_tab_size(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [TextParagraph](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`TextParagraph`](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)

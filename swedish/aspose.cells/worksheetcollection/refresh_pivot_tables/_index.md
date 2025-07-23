@@ -7,17 +7,35 @@ weight: 170
 url: /sv/aspose.cells/worksheetcollection/refresh_pivot_tables/
 is_root: false
 ---
-##  refresh_pivot_tables {#}
-Uppdaterar alla pivottabeller i WorksheetCollection.
+##  refresh_pivot_tables(self) {#}
+Uppdaterar alla pivottabeller i Excel-filen.
 
 
 
 ```python
+
 def refresh_pivot_tables(self):
     ...
 ```
 
 
+
+
+##  refresh_pivot_tables(self, option) {#aspose.cells.pivot.PivotTableRefreshOption}
+Uppdaterar alla pivottabeller i Excel-filen.
+
+
+
+```python
+
+def refresh_pivot_tables(self, option):
+    ...
+```
+
+
+| Parameter| Typ| Beskrivning|
+| :- | :- | :- |
+| option | aspose.cells.pivot.PivotTableRefreshOption | Alternativet för att uppdatera datakällan för pivottabellerna.|
 
 
 

@@ -3,13 +3,13 @@ title: window_top_cm fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 590
+weight: 600
 url: /sv/aspose.cells/workbooksettings/window_top_cm/
 is_root: false
 ---
 ##  window_top_cm fastighet
 
-Avståndet från klientområdets övre kant till fönstrets övre kant, i centimeterenhet.
+Avståndet från klientområdets överkant till fönstrets överkant, i centimeter.
 ###  Definition:
 ```python
 @property

@@ -8,8 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol/is_locked/
 is_root: false
 ---
 ##  is_locked fastighet
-
-Indikerar om data i kontrollen är låst för redigering.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_locked(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [CheckBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`CheckBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

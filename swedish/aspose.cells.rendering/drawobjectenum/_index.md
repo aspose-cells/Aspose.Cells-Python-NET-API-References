@@ -3,7 +3,7 @@ title: DrawObjectEnum uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 160
+weight: 180
 url: /sv/aspose.cells.rendering/drawobjectenum/
 is_root: false
 ---
@@ -18,9 +18,9 @@ Typen DrawObjectEnum avslöjar följande medlemmar:
 | Fält| Beskrivning|
 | :- | :- |
 | IMAGE | Ange att DrawObject är en bild|
-| CELL | ange att DrawObject är ett Cell|
+| CELL |ange att DrawObject är en Cell|
 
 
 
 ###  Se även
-* modul [aspose.cells.rendering](..)
+* modul [`aspose.cells.rendering`](..)

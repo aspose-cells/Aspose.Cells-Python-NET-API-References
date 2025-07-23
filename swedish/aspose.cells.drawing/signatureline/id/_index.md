@@ -33,5 +33,5 @@ def id(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [SignatureLine](/cells/python-net/sv/aspose.cells.drawing/signatureline)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`SignatureLine`](/cells/python-net/sv/aspose.cells.drawing/signatureline)

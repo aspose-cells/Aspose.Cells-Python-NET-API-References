@@ -3,7 +3,7 @@ title: FormatSetType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 840
+weight: 830
 url: /es/aspose.cells.drawing/formatsettype/
 is_root: false
 ---
@@ -25,4 +25,4 @@ El tipo FormatSetType expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](..)
+* módulo [`aspose.cells.drawing`](..)

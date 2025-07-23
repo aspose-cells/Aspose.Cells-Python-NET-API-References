@@ -21,5 +21,5 @@ def variant(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [TwoColorGradient](/cells/python-net/es/aspose.cells/twocolorgradient)
+* módulo [`aspose.cells`](../../)
+* clase [`TwoColorGradient`](/cells/python-net/es/aspose.cells/twocolorgradient)

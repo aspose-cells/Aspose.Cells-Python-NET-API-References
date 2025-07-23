@@ -3,7 +3,7 @@ title: glow propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 410
+weight: 400
 url: /es/aspose.cells.drawing/radiobutton/glow/
 is_root: false
 ---

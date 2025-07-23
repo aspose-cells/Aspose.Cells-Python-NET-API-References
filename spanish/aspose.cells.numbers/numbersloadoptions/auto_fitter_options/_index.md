@@ -13,7 +13,7 @@ Obtiene y establece las opciones de ajuste automático
 
 ###  Observaciones
 
-Solo para xlsx, archivo de hoja de cálculo ML ahora.
+Ahora sólo para archivos xlsx y spreadsheetML.
 ###  Definición:
 ```python
 @property
@@ -25,6 +25,6 @@ def auto_fitter_options(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.numbers](../../)
-* clase [AutoFitterOptions](/cells/python-net/es/aspose.cells/autofitteroptions)
-* clase [NumbersLoadOptions](/cells/python-net/es/aspose.cells.numbers/numbersloadoptions)
+* módulo [`aspose.cells.numbers`](../../)
+* clase [`AutoFitterOptions`](/cells/python-net/es/aspose.cells/autofitteroptions)
+* clase [`NumbersLoadOptions`](/cells/python-net/es/aspose.cells.numbers/numbersloadoptions)

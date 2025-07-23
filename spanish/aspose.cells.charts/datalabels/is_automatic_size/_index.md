@@ -3,7 +3,7 @@ title: is_automatic_size propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 190
+weight: 260
 url: /es/aspose.cells.charts/datalabels/is_automatic_size/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_automatic_size(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [DataLabels](/cells/python-net/es/aspose.cells.charts/datalabels)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`DataLabels`](/cells/python-net/es/aspose.cells.charts/datalabels)

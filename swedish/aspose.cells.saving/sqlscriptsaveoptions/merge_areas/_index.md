@@ -3,13 +3,13 @@ title: merge_areas fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 150
+weight: 170
 url: /sv/aspose.cells.saving/sqlscriptsaveoptions/merge_areas/
 is_root: false
 ---
 ##  merge_areas fastighet
 
-Anger om områdena för villkorlig formatering och validering ska slås samman innan filen sparas.
+Anger om områdena för villkorlig formatering och validering ska sammanfogas innan filen sparas.
 
 ###  Anmärkningar
 
@@ -25,5 +25,5 @@ def merge_areas(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.saving](../../)
-* klass [SqlScriptSaveOptions](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions)
+* modul [`aspose.cells.saving`](../../)
+* klass [`SqlScriptSaveOptions`](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions)

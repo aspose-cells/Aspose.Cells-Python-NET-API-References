@@ -3,13 +3,13 @@ title: conditional_formattings fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 450
+weight: 470
 url: /sv/aspose.cells/worksheet/conditional_formattings/
 is_root: false
 ---
 ##  conditional_formattings fastighet
 
-Hämtar Conditional Formattings i kalkylbladet.
+Hämtar villkorsstyrd formatering i kalkylbladet.
 ###  Definition:
 ```python
 @property

@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells/xpssaveoptions/__init__/
 is_root: false
 ---
-##  XpsSaveOptions() {#}
-Skapar alternativ för att spara xps-fil.
+##  \_\_init\_\_(själv){#}
+Skapar alternativ för att spara XPS-filer.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  XpsSaveOptions(save_format) {#SaveFormat}
-Skapar alternativ för att spara xps-fil.
+##  \_\_init\_\_(self, spara_format){#aspose.cells.SaveFormat}
+Skapar alternativ för att spara XPS-filer.
 
 
 
 ```python
+
 def __init__(self, save_format):
     ...
 ```
@@ -33,15 +35,15 @@ def __init__(self, save_format):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| save_format | [SaveFormat](/cells/python-net/sv/aspose.cells/saveformat) | Spara formatet, det måste vara xps format.|
+| save_format | [`SaveFormat`](/cells/python-net/sv/aspose.cells/saveformat) | Sparformatet måste vara XPS-format.|
 ###  Anmärkningar
 
 OBS: Denna konstruktor är nu föråldrad.
-Använd istället XpsSaveOptions() konstruktorn.
- Den här egenskapen kommer att tas bort 12 månader senare sedan augusti 2022.
+Använd istället konstruktorn XpsSaveOptions() .
+ Den här egenskapen kommer att tas bort 12 månader senare från och med augusti 2022.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [XpsSaveOptions](/cells/python-net/sv/aspose.cells/xpssaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`XpsSaveOptions`](/cells/python-net/sv/aspose.cells/xpssaveoptions)

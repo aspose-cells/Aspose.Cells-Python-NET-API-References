@@ -7,12 +7,13 @@ weight: 300
 url: /sv/aspose.cells/settableglobalizationsettings/set_column_separator_of_formula_array/
 is_root: false
 ---
-##  set_column_separator_of_formula_array {#char}
-Ställer in avgränsaren för objekten i arrayens raddata i formel.
+##  set_column_separator_of_formula_array(self, c) {#char}
+Ställer in avgränsaren för objekten i arrayens raddata i formeln.
 
 
 
 ```python
+
 def set_column_separator_of_formula_array(self, c):
     ...
 ```
@@ -20,7 +21,7 @@ def set_column_separator_of_formula_array(self, c):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| c | char | den angivna avskiljaren|
+| c | char | den angivna separatorn|
 
 
 

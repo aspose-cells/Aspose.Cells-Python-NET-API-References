@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type fastighet
 
-Representerar type för revision.
+Representerar revisionsnummer type.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionCellChange](/cells/python-net/sv/aspose.cells.revisions/revisioncellchange)
-* klass [RevisionType](/cells/python-net/sv/aspose.cells.revisions/revisiontype)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionCellChange`](/cells/python-net/sv/aspose.cells.revisions/revisioncellchange)
+* klass [`RevisionType`](/cells/python-net/sv/aspose.cells.revisions/revisiontype)

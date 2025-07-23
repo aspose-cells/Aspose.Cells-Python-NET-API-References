@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells/txtsaveoptions/__init__/
 is_root: false
 ---
-##  TxtSaveOptions() {#}
+##  \_\_init\_\_(yo mismo){#}
 Crea opciones para guardar archivos de texto.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,23 +21,24 @@ def __init__(self):
 
 
 
-##  TxtSaveOptions(format) {#SaveFormat}
+##  \_\_init\_\_(self, formato_guardado){#aspose.cells.SaveFormat}
 Crea opciones para guardar archivos de texto.
 
 
 
 ```python
-def __init__(self, format):
+
+def __init__(self, save_format):
     ...
 ```
 
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| format | [SaveFormat](/cells/python-net/es/aspose.cells/saveformat) | El formato de guardado del archivo de texto.|
+| save_format | [`SaveFormat`](/cells/python-net/es/aspose.cells/saveformat) | El formato del archivo.<br/>Debería ser [`SaveFormat.CSV`](/cells/python-net/es/aspose.cells/saveformat#CSV) o [`SaveFormat.TSV`](/cells/python-net/es/aspose.cells/saveformat#TSV),<br/> De lo contrario, el formato guardado se establecerá automáticamente como [`SaveFormat.CSV`](/cells/python-net/es/aspose.cells/saveformat#CSV).|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [TxtSaveOptions](/cells/python-net/es/aspose.cells/txtsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`TxtSaveOptions`](/cells/python-net/es/aspose.cells/txtsaveoptions)

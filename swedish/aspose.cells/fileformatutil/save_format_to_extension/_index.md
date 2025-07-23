@@ -7,27 +7,29 @@ weight: 80
 url: /sv/aspose.cells/fileformatutil/save_format_to_extension/
 is_root: false
 ---
-##  save_format_to_extension(format) {#SaveFormat}
-Konverterar ett uppräknat värde i sparat format till ett filtillägg.
+##  save_format_to_extension(, format){#aspose.cells.SaveFormat}
+Konverterar ett uppräknat värde i sparformat till en filändelse.
 
 
 ###  Returnerar
 
-Den returnerade förlängningen är en sträng med små bokstäver med en inledande prick.
+Det returnerade tillägget är en sträng med gemener och en inledande punkt.
 
 
 ```python
-def save_format_to_extension(self, format):
+
+@staticmethod
+def save_format_to_extension(format):
     ...
 ```
 
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| format | [SaveFormat](/cells/python-net/sv/aspose.cells/saveformat) | Spara formatet.|
+| format | [`SaveFormat`](/cells/python-net/sv/aspose.cells/saveformat) | Sparformatet.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FileFormatUtil](/cells/python-net/sv/aspose.cells/fileformatutil)
+* modul [`aspose.cells`](../../)
+* klass [`FileFormatUtil`](/cells/python-net/sv/aspose.cells/fileformatutil)

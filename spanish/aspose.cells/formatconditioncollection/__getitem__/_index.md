@@ -10,7 +10,7 @@ is_root: false
 ##  FormatConditionCollection indexador
 
 Obtiene la condición de formato por índice.
-###  indexador
+###  Indexador
 | Nombre| Descripción|
 | :- | :- |
 | index | el índice de la condición de formato a devolver.|
@@ -19,8 +19,8 @@ Obtiene la condición de formato por índice.
 
 ###  Devoluciones
 
-la condición de formateo
+la condición de formato
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FormatConditionCollection](/cells/python-net/es/aspose.cells/formatconditioncollection)
+* módulo [`aspose.cells`](../../)
+* clase [`FormatConditionCollection`](/cells/python-net/es/aspose.cells/formatconditioncollection)

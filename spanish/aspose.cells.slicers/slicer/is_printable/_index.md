@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_printable propiedad
 
-Indica si el objeto de segmentación es imprimible.
+Indica si el objeto segmentador es imprimible.
 
 ###  Ejemplo
 
@@ -29,5 +29,5 @@ def is_printable(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.slicers](../../)
-* clase [Slicer](/cells/python-net/es/aspose.cells.slicers/slicer)
+* módulo [`aspose.cells.slicers`](../../)
+* clase [`Slicer`](/cells/python-net/es/aspose.cells.slicers/slicer)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_locked fastighet
 
-Indikerar om skärformen är låst.
+Anger om utsnittsformen är låst.
 
 ###  Exempel
 
@@ -29,5 +29,5 @@ def is_locked(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.slicers](../../)
-* klass [Slicer](/cells/python-net/sv/aspose.cells.slicers/slicer)
+* modul [`aspose.cells.slicers`](../../)
+* klass [`Slicer`](/cells/python-net/sv/aspose.cells.slicers/slicer)

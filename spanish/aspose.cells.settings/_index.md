@@ -12,6 +12,6 @@ is_root: false
 ###  Clases
 | Clase| Descripción|
 | :- | :- |
-| [PivotGlobalizationSettings](/cells/python-net/es/aspose.cells.settings/pivotglobalizationsettings) | Representa la configuración de globalización para las tablas dinámicas.|
+| [`PivotGlobalizationSettings`](/cells/python-net/es/aspose.cells.settings/pivotglobalizationsettings) | Representa la configuración de globalización para tablas dinámicas.|
 
 

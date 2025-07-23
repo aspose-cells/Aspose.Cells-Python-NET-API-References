@@ -3,13 +3,13 @@ title: is_deleted propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 220
+weight: 280
 url: /es/aspose.cells.charts/legend/is_deleted/
 is_root: false
 ---
 ##  is_deleted propiedad
 
-Indica si estas etiquetas de datos se eliminan.
+Indica si se eliminarán estas etiquetas de datos.
 ###  Definición:
 ```python
 @property

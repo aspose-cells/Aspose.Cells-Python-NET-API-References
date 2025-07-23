@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  worksheet fastighet
 
-Får worksheet som innehåller detta diagram.
+Hämtar worksheet som innehåller detta diagram.
 ###  Definition:
 ```python
 @property

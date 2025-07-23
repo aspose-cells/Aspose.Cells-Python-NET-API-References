@@ -3,7 +3,7 @@ title: PaneStateType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2410
+weight: 2380
 url: /es/aspose.cells/panestatetype/
 is_root: false
 ---
@@ -19,8 +19,8 @@ El tipo PaneStateType expone los siguientes miembros:
 | :- | :- |
 | FROZEN | Los paneles están congelados, pero no lo estaban antes de congelarse.|
 | FROZEN_SPLIT | Los paneles están congelados y se partieron antes de congelarlos.|
-| SPLIT |Los paneles están divididos, pero no congelados.|
-| NORMAL | Los paneles no están congelados ni divididos.|
+| SPLIT | Los paneles están divididos, pero no congelados.|
+| NORMAL | Los cristales no se congelan ni se parten.|
 
 
 

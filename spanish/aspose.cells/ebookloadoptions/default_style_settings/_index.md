@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  default_style_settings propiedad
 
-Obtiene la configuración de estilo predeterminada para inicializar estilos del libro.
+Obtiene la configuración de estilo predeterminada para inicializar los estilos del libro de trabajo.
 ###  Definición:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  size fastighet
 
-Hämtar och ställer in slutpositionen (längs alfagradientrampen) för slutalfavärdet, i procentenhet
+Hämtar och ställer in slutpositionen (längs alfagradientrampen) för det slutliga alfavärdet, i procentenhet
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def size(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ReflectionEffect](/cells/python-net/sv/aspose.cells.drawing/reflectioneffect)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ReflectionEffect`](/cells/python-net/sv/aspose.cells.drawing/reflectioneffect)

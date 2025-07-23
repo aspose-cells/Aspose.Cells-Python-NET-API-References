@@ -3,12 +3,12 @@ title: ConnectionDataSourceType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 80
+weight: 70
 url: /sv/aspose.cells.externalconnections/connectiondatasourcetype/
 is_root: false
 ---
 ##  ConnectionDataSourceType uppräkning
-Anger extern databas källtyp
+Anger extern databaskälla
 
 
 
@@ -23,16 +23,16 @@ Typen ConnectionDataSourceType avslöjar följande medlemmar:
 | WEB_QUERY | Webbfråga|
 | OLEDB_BASED_SOURCE | OLE DB-baserad källa|
 | TEXT_BASED_SOURCE | Textbaserad källa|
-| ADO_RECORD_SET | ADO rekord satt|
+| ADO_RECORD_SET | ADO-postuppsättning|
 | DSP | DSP |
 | OLEDB_DATA_MODEL | OLE DB-datakälla skapad av kalkylbladsdatamodellen.|
-| DATA_FEED_DATA_MODEL |Dataflödesdatakälla skapad av kalkylbladsdatamodellen.|
-| WORKSHEET_DATA_MODEL | Kalkylbladsdatakälla skapad av kalkylbladsdatamodellen.|
-| TABLE | Kalkylbladsdatakälla skapad av kalkylbladsdatamodellen.|
+| DATA_FEED_DATA_MODEL |Dataflödeskälla skapad av kalkylbladsdatamodellen.|
+| WORKSHEET_DATA_MODEL | Arbetsbladsdatakälla skapad av kalkylbladsdatamodellen.|
+| TABLE | Arbetsbladsdatakälla skapad av kalkylbladsdatamodellen.|
 | TEXT_DATA_MODEL | Textdatakälla skapad av kalkylbladsdatamodellen.|
 | UNKNOWN | Textdatakälla skapad av kalkylbladsdatamodellen.|
 
 
 
 ###  Se även
-* modul [aspose.cells.externalconnections](..)
+* modul [`aspose.cells.externalconnections`](..)

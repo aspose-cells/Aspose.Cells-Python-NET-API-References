@@ -3,13 +3,13 @@ title: export_row_column_headings fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 340
+weight: 400
 url: /sv/aspose.cells/htmlsaveoptions/export_row_column_headings/
 is_root: false
 ---
 ##  export_row_column_headings fastighet
 
-Anger om arkets rad- och kolumnrubriker exporteras när du sparar till HTML-filer.
+Anger om arkets rad- och kolumnrubriker exporteras när det sparas till HTML-filer.
 
 ###  Anmärkningar
 

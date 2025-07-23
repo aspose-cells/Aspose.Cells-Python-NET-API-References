@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells/insertoptions/__init__/
 is_root: false
 ---
-##  InsertOptions() {#}
+##  \_\_init\_\_(själv){#}
 Konstruerar en ny instans av InsertOptions
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [InsertOptions](/cells/python-net/sv/aspose.cells/insertoptions)
+* modul [`aspose.cells`](../../)
+* klass [`InsertOptions`](/cells/python-net/sv/aspose.cells/insertoptions)

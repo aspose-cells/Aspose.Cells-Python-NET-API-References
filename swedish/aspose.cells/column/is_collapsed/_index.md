@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_collapsed fastighet
 
-om kolumnen är kollapsad
+om kolumnen är hopfälld
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_collapsed(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Column](/cells/python-net/sv/aspose.cells/column)
+* modul [`aspose.cells`](../../)
+* klass [`Column`](/cells/python-net/sv/aspose.cells/column)

@@ -3,7 +3,7 @@ title: lower_delta_x fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 750
+weight: 760
 url: /sv/aspose.cells.drawing/webextensionshape/lower_delta_x/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Hämtar eller ställer in formens horisontella förskjutning från dess nedre h�
 
 ###  Anmärkningar
 
-Värdeintervallet är 0 till 1024.
+Värdeintervallet är från 0 till 1024.
 
 ###  Exempel
 

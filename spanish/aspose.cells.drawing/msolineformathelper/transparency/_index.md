@@ -21,5 +21,5 @@ def transparency(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [MsoLineFormatHelper](/cells/python-net/es/aspose.cells.drawing/msolineformathelper)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`MsoLineFormatHelper`](/cells/python-net/es/aspose.cells.drawing/msolineformathelper)

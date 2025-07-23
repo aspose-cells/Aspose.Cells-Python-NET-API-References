@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  preset_type fastighet
 
-Hämtar och ställer in den förinställda skuggtypen för skuggan.
+Hämtar och anger skuggans förinställda skuggtyp.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def preset_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [PresetShadowType](/cells/python-net/sv/aspose.cells.drawing/presetshadowtype)
-* klass [ShadowEffect](/cells/python-net/sv/aspose.cells.drawing/shadoweffect)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`PresetShadowType`](/cells/python-net/sv/aspose.cells.drawing/presetshadowtype)
+* klass [`ShadowEffect`](/cells/python-net/sv/aspose.cells.drawing/shadoweffect)

@@ -3,7 +3,7 @@ title: data_sorter fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 540
+weight: 570
 url: /sv/aspose.cells/workbook/data_sorter/
 is_root: false
 ---

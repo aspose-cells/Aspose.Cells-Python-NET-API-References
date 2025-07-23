@@ -3,12 +3,12 @@ title: SqlScriptOperatorType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 40
+weight: 50
 url: /sv/aspose.cells.saving/sqlscriptoperatortype/
 is_root: false
 ---
 ##  SqlScriptOperatorType uppräkning
-Representerar typen av driftdata.
+Representerar typen av driftsdata.
 
 
 
@@ -19,7 +19,7 @@ Typen SqlScriptOperatorType avslöjar följande medlemmar:
 | :- | :- |
 | INSERT | Infoga data.|
 | UPDATE | Uppdatera data.|
-| DELETE | Ta bort data.|
+| DELETE | Radera data.|
 
 
 

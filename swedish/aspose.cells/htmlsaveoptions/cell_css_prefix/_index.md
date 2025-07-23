@@ -3,13 +3,13 @@ title: cell_css_prefix fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 80
+weight: 90
 url: /sv/aspose.cells/htmlsaveoptions/cell_css_prefix/
 is_root: false
 ---
 ##  cell_css_prefix fastighet
 
-Hämtar och ställer in prefixet för css-namnet, standardvärdet är "".
+Hämtar och ställer in prefixet för CSS-namnet, standardvärdet är "".
 ###  Definition:
 ```python
 @property

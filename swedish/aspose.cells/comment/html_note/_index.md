@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  html_note fastighet
 
-Hämtar och ställer in html-strängen som innehåller data och vissa format i denna kommentar.
+Hämtar och anger html-strängen som innehåller data och vissa format i den här kommentaren.
 
 ###  Anmärkningar
 
-Om detta är en trådad kommentar kunde anteckningen inte ändras, annars kunde MS Excel inte behandla den som en trådad kommentar.
+Om detta är en trådad kommentar kan anteckningen inte ändras, annars kan inte MS Excel behandla den som en trådad kommentar.
 
 ###  Exempel
 

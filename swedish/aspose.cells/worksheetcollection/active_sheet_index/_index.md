@@ -3,17 +3,17 @@ title: active_sheet_index fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 240
+weight: 260
 url: /sv/aspose.cells/worksheetcollection/active_sheet_index/
 is_root: false
 ---
 ##  active_sheet_index fastighet
 
-Representerar indexet för aktivt kalkylblad när kalkylarket öppnas.
+Representerar indexet för det aktiva kalkylbladet när kalkylbladet öppnas.
 
 ###  Anmärkningar
 
-Bladindex är nollbaserat.
+Arkindexet är nollbaserat.
 ###  Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: capacity propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 80
+weight: 90
 url: /es/aspose.cells.timelines/timelinecollection/capacity/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.timelines](../../)
-* clase [TimelineCollection](/cells/python-net/es/aspose.cells.timelines/timelinecollection)
+* módulo [`aspose.cells.timelines`](../../)
+* clase [`TimelineCollection`](/cells/python-net/es/aspose.cells.timelines/timelinecollection)

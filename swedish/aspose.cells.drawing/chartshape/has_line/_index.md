@@ -3,13 +3,13 @@ title: has_line fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 430
+weight: 420
 url: /sv/aspose.cells.drawing/chartshape/has_line/
 is_root: false
 ---
 ##  has_line fastighet
 
-Hämtar och ställer in linjekanten för formen är synlig.
+Hämtar och ställer in att linjekanten för formen är synlig.
 
 ###  Exempel
 

@@ -1,5 +1,5 @@
 ---
-title: calculate_text_size método
+title: método calculate_text_size
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 40
 url: /es/aspose.cells.drawing/shape/calculate_text_size/
 is_root: false
 ---
-##  calculate_text_size() {#}
+##  calculate_text_size(self) {#}
 Recalcular el área de texto
 
 
@@ -17,6 +17,7 @@ Tamaño del texto en una matriz (ancho y alto).
 
 
 ```python
+
 def calculate_text_size(self):
     ...
 ```
@@ -35,5 +36,5 @@ size = shape.calculate_text_size()
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Shape](/cells/python-net/es/aspose.cells.drawing/shape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Shape`](/cells/python-net/es/aspose.cells.drawing/shape)

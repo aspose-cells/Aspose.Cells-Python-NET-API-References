@@ -3,16 +3,17 @@ title: método set_text_of_total
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 320
+weight: 330
 url: /es/aspose.cells/settablepivotglobalizationsettings/set_text_of_total/
 is_root: false
 ---
-##  set_text_of_total {#str}
+##  set_text_of_total(self, text) {#str}
 Establece el texto de la etiqueta "Total" en la tabla dinámica.
 
 
 
 ```python
+
 def set_text_of_total(self, text):
     ...
 ```

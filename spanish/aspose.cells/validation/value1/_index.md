@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value1 propiedad
 
-Representa el primer valor asociado con la validación de datos.
+Representa el primer valor asociado a la validación de datos.
 ###  Definición:
 ```python
 @property

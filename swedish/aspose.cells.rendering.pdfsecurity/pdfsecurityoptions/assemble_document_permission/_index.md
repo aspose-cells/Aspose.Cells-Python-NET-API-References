@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  assemble_document_permission fastighet
 
- Indikerar om dokumentet ska tillåtas att sätta ihop (infoga, rotera eller ta bort sidor och skapa bokmärken eller miniatyrbilder),
+ Anger om dokumentet får sättas samman (infoga, rotera eller ta bort sidor och skapa bokmärken eller miniatyrbilder).
 även om [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) är klart.
 ###  Definition:
 ```python

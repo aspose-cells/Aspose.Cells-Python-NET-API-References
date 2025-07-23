@@ -3,13 +3,13 @@ title: is_flipped_horizontally propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 570
+weight: 580
 url: /es/aspose.cells.drawing/listbox/is_flipped_horizontally/
 is_root: false
 ---
 ##  is_flipped_horizontally propiedad
 
-Obtiene y establece si la forma se invierte horizontalmente.
+Obtiene y establece si la forma está invertida horizontalmente.
 
 ###  Ejemplo
 

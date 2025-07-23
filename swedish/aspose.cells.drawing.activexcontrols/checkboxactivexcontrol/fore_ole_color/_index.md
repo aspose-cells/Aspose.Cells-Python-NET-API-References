@@ -8,12 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol/fore_ole_co
 is_root: false
 ---
 ##  fore_ole_color fastighet
-
-Får och ställer in olefärgen på förgrunden.
-
-###  Anmärkningar
-
-Gäller inte bildkontroll.
 ###  Definition:
 ```python
 @property
@@ -25,5 +19,5 @@ def fore_ole_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [CheckBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`CheckBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

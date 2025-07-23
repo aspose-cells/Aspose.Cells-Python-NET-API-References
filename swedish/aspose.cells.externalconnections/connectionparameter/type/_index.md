@@ -10,9 +10,9 @@ is_root: false
 ##  type fastighet
 
 Typ av parameter som används.
- Om parameterType=värde, då värdet från boolean, double, integer,
- eller sträng kommer att användas. I detta fall förväntas endast en av
-{boolean, double, integer, or string} kommer att anges.
+ Om parameterType=value, då värdet från booleskt, dubbelt, heltal,
+ eller sträng kommer att användas. I det här fallet förväntas det att endast en av
+{boolean, double, integer eller sträng} kommer att anges.
 ###  Definition:
 ```python
 @property
@@ -24,6 +24,6 @@ def type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.externalconnections](../../)
-* klass [ConnectionParameter](/cells/python-net/sv/aspose.cells.externalconnections/connectionparameter)
-* klass [ConnectionParameterType](/cells/python-net/sv/aspose.cells.externalconnections/connectionparametertype)
+* modul [`aspose.cells.externalconnections`](../../)
+* klass [`ConnectionParameter`](/cells/python-net/sv/aspose.cells.externalconnections/connectionparameter)
+* klass [`ConnectionParameterType`](/cells/python-net/sv/aspose.cells.externalconnections/connectionparametertype)

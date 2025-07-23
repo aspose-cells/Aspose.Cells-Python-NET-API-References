@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ReferredAreaCollection](/cells/python-net/es/aspose.cells/referredareacollection)
+* módulo [`aspose.cells`](../../)
+* clase [`ReferredAreaCollection`](/cells/python-net/es/aspose.cells/referredareacollection)

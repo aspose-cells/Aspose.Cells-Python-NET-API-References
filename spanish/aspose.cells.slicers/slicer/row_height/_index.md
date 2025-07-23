@@ -15,7 +15,7 @@ Devuelve o establece la altura, en puntos, de cada fila en la segmentación de d
 
 ```python
 
-slicer.row_height = 20
+slicer.row_height = 20.0
 
 ```
 ###  Definición:
@@ -29,5 +29,5 @@ def row_height(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.slicers](../../)
-* clase [Slicer](/cells/python-net/es/aspose.cells.slicers/slicer)
+* módulo [`aspose.cells.slicers`](../../)
+* clase [`Slicer`](/cells/python-net/es/aspose.cells.slicers/slicer)

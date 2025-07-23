@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_date_time fastighet
 
-Anger om sifferformatet är ett datumformat.
+Anger om talformatet är ett datumformat.
 ###  Definition:
 ```python
 @property

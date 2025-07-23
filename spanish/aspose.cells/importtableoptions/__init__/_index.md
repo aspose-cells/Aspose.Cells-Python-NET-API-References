@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells/importtableoptions/__init__/
 is_root: false
 ---
-##  ImportTableOptions() {#}
+##  \_\_init\_\_(yo mismo){#}
 Crea las opciones de importación predeterminadas.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ImportTableOptions](/cells/python-net/es/aspose.cells/importtableoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`ImportTableOptions`](/cells/python-net/es/aspose.cells/importtableoptions)

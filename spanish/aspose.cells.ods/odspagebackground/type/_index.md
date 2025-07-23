@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type propiedad
 
-Obtiene y establece el fondo de página type.
+Obtiene y establece el fondo de la página type.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.ods](../../)
-* clase [OdsPageBackground](/cells/python-net/es/aspose.cells.ods/odspagebackground)
-* clase [OdsPageBackgroundType](/cells/python-net/es/aspose.cells.ods/odspagebackgroundtype)
+* módulo [`aspose.cells.ods`](../../)
+* clase [`OdsPageBackground`](/cells/python-net/es/aspose.cells.ods/odspagebackground)
+* clase [`OdsPageBackgroundType`](/cells/python-net/es/aspose.cells.ods/odspagebackgroundtype)

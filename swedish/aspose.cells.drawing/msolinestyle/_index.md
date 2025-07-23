@@ -3,12 +3,12 @@ title: MsoLineStyle uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1020
+weight: 1010
 url: /sv/aspose.cells.drawing/msolinestyle/
 is_root: false
 ---
 ##  MsoLineStyle uppräkning
-Representerar stil för att rita linjer.
+Representerar stilen att rita linjer.
 
 
 
@@ -17,13 +17,13 @@ Typen MsoLineStyle avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| SINGLE | Enstaka rad (av bredd lineWidth)|
-| THICK_BETWEEN_THIN | Tre streck, tunna, tjocka, tunna|
-| THIN_THICK |Dubbla linjer, en tunn, en tjock|
+| SINGLE | Enkel rad (med bredd lineWidth)|
+| THICK_BETWEEN_THIN | Tre linjer, tunna, tjocka, tunna|
+| THIN_THICK | Dubbla linjer, en tunn, en tjock|
 | THICK_THIN | Dubbla linjer, en tjock, en tunn|
-| THIN_THIN | Dubbla linjer med lika bredd|
+| THIN_THIN | Dubbla linjer med samma bredd|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

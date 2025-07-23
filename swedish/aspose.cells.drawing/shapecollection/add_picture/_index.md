@@ -3,20 +3,21 @@ title: add_picture metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 210
+weight: 230
 url: /sv/aspose.cells.drawing/shapecollection/add_picture/
 is_root: false
 ---
-##  add_picture(upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream) {#int-int-int-int-io.RawIOBase}
+##  add_picture(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream) {#int-int-int-int-io.RawIOBase}
 Lägger till en bild i samlingen.
 
 
 ###  Returnerar
 
-[Picture](/cells/python-net/sv/aspose.cells.drawing/picture) Bildobjekt.
+[`Picture`](/cells/python-net/sv/aspose.cells.drawing/picture) Bildobjekt.
 
 
 ```python
+
 def add_picture(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream):
     ...
 ```
@@ -24,10 +25,10 @@ def add_picture(self, upper_left_row, upper_left_column, lower_right_row, lower_
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| upper_left_row | int | Övre vänstra radens index.|
-| upper_left_column | int | Övre vänstra kolumnindex.|
-| lower_right_row | int | Nedre högra radindex|
-| lower_right_column | int | Nedre högra kolumnindex|
+| upper_left_row | int | Index för övre vänstra raden.|
+| upper_left_column | int | Index i övre vänstra kolumnen.|
+| lower_right_row | int | Index nedre högra raden|
+| lower_right_column | int | Index i nedre högra kolumnen|
 | stream | io.RawIOBase | Strömobjekt som innehåller bilddata.|
 
 ###  Exempel
@@ -41,16 +42,17 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-##  add_picture(upper_left_row, upper_left_column, stream, width_scale, height_scale) {#int-int-io.RawIOBase-int-int}
+##  add_picture(self, upper_left_row, upper_left_column, stream, width_scale, height_scale) {#int-int-io.RawIOBase-int-int}
 Lägger till en bild i samlingen.
 
 
 ###  Returnerar
 
-[Picture](/cells/python-net/sv/aspose.cells.drawing/picture) Bildobjekt.
+[`Picture`](/cells/python-net/sv/aspose.cells.drawing/picture) Bildobjekt.
 
 
 ```python
+
 def add_picture(self, upper_left_row, upper_left_column, stream, width_scale, height_scale):
     ...
 ```
@@ -58,10 +60,10 @@ def add_picture(self, upper_left_row, upper_left_column, stream, width_scale, he
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| upper_left_row | int | Övre vänstra radens index.|
-| upper_left_column | int | Övre vänstra kolumnindex.|
+| upper_left_row | int | Index för övre vänstra raden.|
+| upper_left_column | int | Index i övre vänstra kolumnen.|
 | stream | io.RawIOBase | Strömobjekt som innehåller bilddata.|
-| width_scale | int | Skala på bildens bredd, en procentandel.|
+| width_scale | int | Skala för bildbredd, en procentandel.|
 | height_scale | int | Skala för bildhöjd, en procentandel.|
 
 ###  Exempel
@@ -77,6 +79,6 @@ with open("image.jpg", "rb") as fs:
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Picture](/cells/python-net/sv/aspose.cells.drawing/picture)
-* klass [ShapeCollection](/cells/python-net/sv/aspose.cells.drawing/shapecollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Picture`](/cells/python-net/sv/aspose.cells.drawing/picture)
+* klass [`ShapeCollection`](/cells/python-net/sv/aspose.cells.drawing/shapecollection)

@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells/cellwatchcollection/__init__/
 is_root: false
 ---
-##  CellWatchCollection() {#}
+##  \_\_init\_\_(själv){#}
 Konstruerar en ny instans av CellWatchCollection
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellWatchCollection](/cells/python-net/sv/aspose.cells/cellwatchcollection)
+* modul [`aspose.cells`](../../)
+* klass [`CellWatchCollection`](/cells/python-net/sv/aspose.cells/cellwatchcollection)

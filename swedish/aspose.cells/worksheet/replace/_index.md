@@ -3,16 +3,17 @@ title: replace metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 250
+weight: 280
 url: /sv/aspose.cells/worksheet/replace/
 is_root: false
 ---
-##  replace {#str-str}
-Ersätter alla cellers text med en ny sträng.
+##  replace(self, old_string, new_string) {#str-str}
+Ersätter all celltext med en ny sträng.
 
 
 
 ```python
+
 def replace(self, old_string, new_string):
     ...
 ```

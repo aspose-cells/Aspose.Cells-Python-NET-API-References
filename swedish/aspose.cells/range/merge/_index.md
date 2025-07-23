@@ -3,16 +3,17 @@ title: merge metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 150
+weight: 200
 url: /sv/aspose.cells/range/merge/
 is_root: false
 ---
-##  merge {#}
-Kombinerar ett intervall av celler till en enda cell.
+##  merge(self) {#}
+Kombinerar ett cellområde till en enda cell.
 
 
 
 ```python
+
 def merge(self):
     ...
 ```

@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells/styleflag/__init__/
 is_root: false
 ---
-##  StyleFlag() {#}
+##  \_\_init\_\_(själv){#}
 Konstruerar ett objekt med alla flaggor som falska.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [StyleFlag](/cells/python-net/sv/aspose.cells/styleflag)
+* modul [`aspose.cells`](../../)
+* klass [`StyleFlag`](/cells/python-net/sv/aspose.cells/styleflag)

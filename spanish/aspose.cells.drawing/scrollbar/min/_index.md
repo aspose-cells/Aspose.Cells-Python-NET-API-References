@@ -3,13 +3,13 @@ title: min propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 840
+weight: 850
 url: /es/aspose.cells.drawing/scrollbar/min/
 is_root: false
 ---
 ##  min propiedad
 
-Obtiene o establece el valor mínimo de una barra de desplazamiento o un rango giratorio.
+Obtiene o establece el valor mínimo de una barra de desplazamiento o del rango de un control giratorio.
 ###  Definición:
 ```python
 @property

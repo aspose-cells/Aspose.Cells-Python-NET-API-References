@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  pivot_options fastighet
 
-Anger pivotkontrollerna som visas i diagrammet
+Anger de pivotkontroller som visas i diagrammet
 ###  Definition:
 ```python
 @property

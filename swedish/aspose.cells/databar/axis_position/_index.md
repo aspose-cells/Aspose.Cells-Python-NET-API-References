@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  axis_position fastighet
 
-Hämtar eller ställer in positionen för axeln för datastaplarna som anges av en villkorlig formateringsregel.
+Hämtar eller anger positionen för axeln i datastapeln som anges av en villkorsstyrd formateringsregel.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def axis_position(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DataBar](/cells/python-net/sv/aspose.cells/databar)
-* klass [DataBarAxisPosition](/cells/python-net/sv/aspose.cells/databaraxisposition)
+* modul [`aspose.cells`](../../)
+* klass [`DataBar`](/cells/python-net/sv/aspose.cells/databar)
+* klass [`DataBarAxisPosition`](/cells/python-net/sv/aspose.cells/databaraxisposition)

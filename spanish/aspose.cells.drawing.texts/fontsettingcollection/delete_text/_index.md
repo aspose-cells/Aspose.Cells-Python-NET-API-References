@@ -1,5 +1,5 @@
 ---
-title: delete_text método
+title: método delete_text
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 50
 url: /es/aspose.cells.drawing.texts/fontsettingcollection/delete_text/
 is_root: false
 ---
-##  delete_text(index, count) {#int-int}
+##  delete_text(self, index, count) {#int-int}
 Eliminar algunos caracteres.
 
 
 
 ```python
+
 def delete_text(self, index, count):
     ...
 ```
@@ -26,5 +27,5 @@ def delete_text(self, index, count):
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](../../)
-* clase [FontSettingCollection](/cells/python-net/es/aspose.cells.drawing.texts/fontsettingcollection)
+* módulo [`aspose.cells.drawing.texts`](../../)
+* clase [`FontSettingCollection`](/cells/python-net/es/aspose.cells.drawing.texts/fontsettingcollection)

@@ -3,12 +3,12 @@ title: Range klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1290
+weight: 1180
 url: /sv/aspose.cells/range/
 is_root: false
 ---
 ##  Range klass
-Kapslar in objektet som representerar ett cellintervall i ett kalkylblad.
+Inkapslar objektet som representerar ett cellområde i ett kalkylblad.
 
 
 
@@ -17,71 +17,81 @@ Typen Range avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [current_region](/cells/python-net/sv/aspose.cells/range/current_region) |Returnerar ett Range-objekt som representerar den aktuella regionen.<br/> Den aktuella regionen är ett intervall som begränsas av valfri kombination av tomma rader och tomma kolumner.|
-| [hyperlinks](/cells/python-net/sv/aspose.cells/range/hyperlinks) | Får alla hyperlänkar i intervallet.|
+| [current_region](/cells/python-net/sv/aspose.cells/range/current_region) | Returnerar ett Range-objekt som representerar den aktuella regionen.<br/> Den aktuella regionen är ett område som begränsas av en valfri kombination av tomma rader och tomma kolumner.|
+| [hyperlinks](/cells/python-net/sv/aspose.cells/range/hyperlinks) | Hämtar alla hyperlänkar inom intervallet.|
 | [row_count](/cells/python-net/sv/aspose.cells/range/row_count) | Hämtar antalet rader i intervallet.|
 | [column_count](/cells/python-net/sv/aspose.cells/range/column_count) | Hämtar antalet kolumner i intervallet.|
-| [name](/cells/python-net/sv/aspose.cells/range/name) | Hämtar eller ställer in namnet på intervallet.|
-| [refers_to](/cells/python-net/sv/aspose.cells/range/refers_to) | Får sortimentets hänvisar till.|
-| [address](/cells/python-net/sv/aspose.cells/range/address) | Får adress till intervallet.|
-| [left](/cells/python-net/sv/aspose.cells/range/left) | Hämtar avståndet, i poäng, från den vänstra kanten av kolumn A till den vänstra kanten av intervallet.|
-| [top](/cells/python-net/sv/aspose.cells/range/top) | Hämtar avståndet, i poäng, från den övre kanten av rad 1 till den övre kanten av intervallet.|
+| [name](/cells/python-net/sv/aspose.cells/range/name) | Hämtar eller anger namnet på intervallet.|
+| [refers_to](/cells/python-net/sv/aspose.cells/range/refers_to) | Hämtar intervallet som refererar till.|
+| [address](/cells/python-net/sv/aspose.cells/range/address) | Hämtar adressen för intervallet.|
+| [left](/cells/python-net/sv/aspose.cells/range/left) | Hämtar avståndet, i punkter, från den vänstra kanten av kolumn A till den vänstra kanten av intervallet.|
+| [top](/cells/python-net/sv/aspose.cells/range/top) | Hämtar avståndet, i punkter, från den övre kanten av rad 1 till den övre kanten av intervallet.|
 | [width](/cells/python-net/sv/aspose.cells/range/width) | Hämtar bredden på ett intervall i punkter.|
 | [height](/cells/python-net/sv/aspose.cells/range/height) | Hämtar bredden på ett intervall i punkter.|
 | [first_row](/cells/python-net/sv/aspose.cells/range/first_row) | Hämtar indexet för den första raden i intervallet.|
 | [first_column](/cells/python-net/sv/aspose.cells/range/first_column) | Hämtar indexet för den första kolumnen i intervallet.|
-| [value](/cells/python-net/sv/aspose.cells/range/value) | Hämtar och ställer in värdet på intervallet.|
-| [column_width](/cells/python-net/sv/aspose.cells/range/column_width) | Ställer in eller hämtar kolumnbredden för detta intervall|
-| [row_height](/cells/python-net/sv/aspose.cells/range/row_height) | Ställer in eller hämtar höjden på rader i detta intervall|
-| [entire_column](/cells/python-net/sv/aspose.cells/range/entire_column) | Hämtar ett Range-objekt som representerar hela kolumnen (eller kolumnerna) som innehåller det angivna intervallet.|
-| [entire_row](/cells/python-net/sv/aspose.cells/range/entire_row) |Hämtar ett Range-objekt som representerar hela raden (eller raderna) som innehåller det angivna intervallet.|
-| [worksheet](/cells/python-net/sv/aspose.cells/range/worksheet) | Hämtar [`Range.worksheet`](/cells/python-net/sv/aspose.cells/range#worksheet)objektet som innehåller detta intervall.|
+| [value](/cells/python-net/sv/aspose.cells/range/value) | Hämtar och ställer in värdet för intervallet.|
+| [column_width](/cells/python-net/sv/aspose.cells/range/column_width) | Anger eller hämtar kolumnbredden för detta område|
+| [row_height](/cells/python-net/sv/aspose.cells/range/row_height) | Anger eller hämtar höjden på raderna i detta intervall|
+| [entire_column](/cells/python-net/sv/aspose.cells/range/entire_column) |Hämtar ett Range-objekt som representerar hela kolumnen (eller kolumnerna) som innehåller det angivna området.|
+| [entire_row](/cells/python-net/sv/aspose.cells/range/entire_row) | Hämtar ett Range-objekt som representerar hela raden (eller raderna) som innehåller det angivna området.|
+| [worksheet](/cells/python-net/sv/aspose.cells/range/worksheet) | Hämtar [`Range.worksheet`](/cells/python-net/sv/aspose.cells/range#worksheet)-objektet som innehåller detta intervall.|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [auto_fill](/cells/python-net/sv/aspose.cells/range/auto_fill/#aspose.cells.Range) | Fyller automatiskt målområdet.|
-| [auto_fill](/cells/python-net/sv/aspose.cells/range/auto_fill/#aspose.cells.Range-aspose.cells.AutoFillType) | Fyller automatiskt målområdet.|
-| [set_style](/cells/python-net/sv/aspose.cells/range/set_style/#aspose.cells.Style-bool) | Använd cellformatet.|
-| [set_style](/cells/python-net/sv/aspose.cells/range/set_style/#aspose.cells.Style) | Ställer in stilen för intervallet.|
-| [set_outline_borders](/cells/python-net/sv/aspose.cells/range/set_outline_borders/#aspose.cells.CellBorderType-aspose.cells.CellsColor) | Ställer in konturkanterna runt ett cellintervall med samma kantstil och färg.|
-| [set_outline_borders](/cells/python-net/sv/aspose.cells/range/set_outline_borders/#aspose.cells.CellBorderType-aspose.pydrawing.Color) | Ställer in konturkanterna runt ett cellintervall med samma kantstil och färg.|
-| [set_outline_borders](/cells/python-net/sv/aspose.cells/range/set_outline_borders/#list-aspose.pydrawing.Color[]) | Anger linjekanter runt ett cellintervall.|
-| [set_outline_border](/cells/python-net/sv/aspose.cells/range/set_outline_border/#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.cells.CellsColor) | Anger konturkant runt ett cellintervall.|
-| [set_outline_border](/cells/python-net/sv/aspose.cells/range/set_outline_border/#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.pydrawing.Color) | Anger konturkant runt ett cellintervall.|
-| [copy](/cells/python-net/sv/aspose.cells/range/copy/#aspose.cells.Range-aspose.cells.PasteOptions) | Kopiera intervallet med specialalternativ för klistra in.|
-| [copy](/cells/python-net/sv/aspose.cells/range/copy/#aspose.cells.Range) | Kopierar data (inklusive formler), formatering, rita objekt etc. från ett källområde.|
-| [add_hyperlink](/cells/python-net/sv/aspose.cells/range/add_hyperlink/#str-str-str) | Lägger till en hyperlänk till en angiven cell eller ett cellintervall.|
-| [get_enumerator](/cells/python-net/sv/aspose.cells/range/get_enumerator/#) | Hämtar enumeratorn för celler i detta intervall.|
-| [is_intersect](/cells/python-net/sv/aspose.cells/range/is_intersect/#aspose.cells.Range) | Indikerar om räckvidden är skärande.|
-| [intersect](/cells/python-net/sv/aspose.cells/range/intersect/#aspose.cells.Range) | Returnerar ett [`Range`](/cells/python-net/sv/aspose.cells/range)-objekt som representerar den rektangulära skärningspunkten mellan två intervall.|
-| [union_rang](/cells/python-net/sv/aspose.cells/range/union_rang/#aspose.cells.Range) | Returnerar unionsresultatet för två intervall.|
-| [union](/cells/python-net/sv/aspose.cells/range/union/#aspose.cells.Range) | Returnerar föreningen av två intervall.|
-| [is_blank](/cells/python-net/sv/aspose.cells/range/is_blank/#) | Anger om intervallet innehåller värden.|
-| [merge](/cells/python-net/sv/aspose.cells/range/merge/#) | Kombinerar ett intervall av celler till en enda cell.|
-| [un_merge](/cells/python-net/sv/aspose.cells/range/un_merge/#) |Ta bort sammanslagna celler i detta intervall.|
-| [put_value](/cells/python-net/sv/aspose.cells/range/put_value/#str-bool-bool) | Lägger ett värde i intervallet, om så är lämpligt kommer värdet att konverteras till annan datatyp och cellens talformat återställs.|
-| [apply_style](/cells/python-net/sv/aspose.cells/range/apply_style/#aspose.cells.Style-aspose.cells.StyleFlag) | Gäller format för en hel rad.|
-| [set_inside_borders](/cells/python-net/sv/aspose.cells/range/set_inside_borders/#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.cells.CellsColor) | Ställ in gränserna för intervallet.|
-| [move_to](/cells/python-net/sv/aspose.cells/range/move_to/#int-int) | Flytta det aktuella intervallet till destinationsintervallet.|
-| [copy_data](/cells/python-net/sv/aspose.cells/range/copy_data/#aspose.cells.Range) | Kopierar celldata (inklusive formler) från ett källintervall.|
-| [copy_value](/cells/python-net/sv/aspose.cells/range/copy_value/#aspose.cells.Range) | Kopierar cellvärde från ett källintervall.|
-| [copy_style](/cells/python-net/sv/aspose.cells/range/copy_style/#aspose.cells.Range) | Kopierar stilinställningar från ett källområde.|
-| [get_cell_or_null](/cells/python-net/sv/aspose.cells/range/get_cell_or_null/#int-int) | Hämtar [`Cell`](/cells/python-net/sv/aspose.cells/cell) objekt eller null i detta intervall.|
-| [get_offset](/cells/python-net/sv/aspose.cells/range/get_offset/#int-int) | Får [`Range`](/cells/python-net/sv/aspose.cells/range) räckvidd med offset.|
+| [`auto_fill(self, target)`](/cells/python-net/sv/aspose.cells/range/auto_fill/#aspose.cells.range) | Fyll automatiskt målintervallet.|
+| [`auto_fill(self, target, auto_fill_type)`](/cells/python-net/sv/aspose.cells/range/auto_fill/#aspose.cells.range-aspose.cells.autofilltype) | Fyll automatiskt målintervallet.|
+| [`set_style(self, style, explicit_flag)`](/cells/python-net/sv/aspose.cells/range/set_style/#aspose.cells.style-bool) | Tillämpa cellstilen.|
+| [`set_style(self, style)`](/cells/python-net/sv/aspose.cells/range/set_style/#aspose.cells.style) | Anger stilen för intervallet.|
+| [`set_outline_borders(self, border_style, border_color)`](/cells/python-net/sv/aspose.cells/range/set_outline_borders/#aspose.cells.cellbordertype-aspose.cells.cellscolor) | Ställer in konturkanterna runt ett cellområde med samma kantstil och färg.|
+| [`set_outline_borders(self, border_style, border_color)`](/cells/python-net/sv/aspose.cells/range/set_outline_borders/#aspose.cells.cellbordertype-aspose.pydrawing.color) | Ställer in konturkanterna runt ett cellområde med samma kantstil och färg.|
+| [`set_outline_borders(self, border_styles, border_colors)`](/cells/python-net/sv/aspose.cells/range/set_outline_borders/#list-aspose.pydrawing.color[]) | Anger linjekanter runt ett cellområde.|
+| [`set_outline_border(self, border_edge, border_style, border_color)`](/cells/python-net/sv/aspose.cells/range/set_outline_border/#aspose.cells.bordertype-aspose.cells.cellbordertype-aspose.cells.cellscolor) | Anger en kantlinje runt ett cellområde.|
+| [`set_outline_border(self, border_edge, border_style, border_color)`](/cells/python-net/sv/aspose.cells/range/set_outline_border/#aspose.cells.bordertype-aspose.cells.cellbordertype-aspose.pydrawing.color) | Anger en kantlinje runt ett cellområde.|
+| [`copy(self, range, options)`](/cells/python-net/sv/aspose.cells/range/copy/#aspose.cells.range-aspose.cells.pasteoptions) | Kopiera intervallet med specialinställningar för klistra in.|
+| [`copy(self, range)`](/cells/python-net/sv/aspose.cells/range/copy/#aspose.cells.range) | Kopierar data (inklusive formler), formatering, ritobjekt etc. från ett källområde.|
+| [`add_hyperlink(self, address, text_to_display, screen_tip)`](/cells/python-net/sv/aspose.cells/range/add_hyperlink/#str-str-str) | Lägger till en hyperlänk till en angiven cell eller ett cellområde.|
+| [`is_intersect(self, range)`](/cells/python-net/sv/aspose.cells/range/is_intersect/#aspose.cells.range) | Anger om intervallet är ett skärningspunkt.|
+| [`intersect(self, range)`](/cells/python-net/sv/aspose.cells/range/intersect/#aspose.cells.range) | Returnerar ett [`Range`](/cells/python-net/sv/aspose.cells/range)-objekt som representerar den rektangulära skärningspunkten mellan två områden.|
+| [`union_rang(self, range)`](/cells/python-net/sv/aspose.cells/range/union_rang/#aspose.cells.range) | Returnerar unionsresultatet av två områden.|
+| [`union_ranges(self, ranges)`](/cells/python-net/sv/aspose.cells/range/union_ranges/#list) | Returnerar unionsresultatet av två områden.|
+| [`union(self, range)`](/cells/python-net/sv/aspose.cells/range/union/#aspose.cells.range) | Returnerar unionen av två områden.|
+| [`is_blank(self)`](/cells/python-net/sv/aspose.cells/range/is_blank/#) | Anger om intervallet innehåller värden.|
+| [`merge(self)`](/cells/python-net/sv/aspose.cells/range/merge/#) |Kombinerar ett cellområde till en enda cell.|
+| [`un_merge(self)`](/cells/python-net/sv/aspose.cells/range/un_merge/#) | Avlägsnar sammanslagna celler i detta område.|
+| [`put_value(self, string_value, is_converted, set_style)`](/cells/python-net/sv/aspose.cells/range/put_value/#str-bool-bool) | Lägger in ett värde i intervallet. Om lämpligt konverteras värdet till en annan datatyp och cellens talformat återställs.|
+| [`apply_style(self, style, flag)`](/cells/python-net/sv/aspose.cells/range/apply_style/#aspose.cells.style-aspose.cells.styleflag) | Tillämpar format för ett helt intervall.|
+| [`set_inside_borders(self, border_edge, line_style, border_color)`](/cells/python-net/sv/aspose.cells/range/set_inside_borders/#aspose.cells.bordertype-aspose.cells.cellbordertype-aspose.cells.cellscolor) | Ställ in innanför intervallets gränser.|
+| [`move_to(self, dest_row, dest_column)`](/cells/python-net/sv/aspose.cells/range/move_to/#int-int) | Flytta det aktuella området till målområdet.|
+| [`copy_data(self, range)`](/cells/python-net/sv/aspose.cells/range/copy_data/#aspose.cells.range) | Kopierar celldata (inklusive formler) från ett källområde.|
+| [`copy_value(self, range)`](/cells/python-net/sv/aspose.cells/range/copy_value/#aspose.cells.range) | Kopierar cellvärde från ett källområde.|
+| [`copy_style(self, range)`](/cells/python-net/sv/aspose.cells/range/copy_style/#aspose.cells.range) | Kopierar stilinställningar från ett källintervall.|
+| [`transpose(self)`](/cells/python-net/sv/aspose.cells/range/transpose/#) | Transponera (rotera) data från rader till kolumner eller vice versa.|
+| [`get(self, row_offset, column_offset)`](/cells/python-net/sv/aspose.cells/range/get/#int-int) | Lägg till API for Python Via .Net. eftersom detta[int, int] inte stöds.|
+| [`get_cell_or_null(self, row_offset, column_offset)`](/cells/python-net/sv/aspose.cells/range/get_cell_or_null/#int-int) | Hämtar [`Cell`](/cells/python-net/sv/aspose.cells/cell)-objektet eller null i detta intervall.|
+| [`get_offset(self, row_offset, column_offset)`](/cells/python-net/sv/aspose.cells/range/get_offset/#int-int) | Hämtar intervallet [`Range`](/cells/python-net/sv/aspose.cells/range) via offset.|
+| [`to_image(self, options)`](/cells/python-net/sv/aspose.cells/range/to_image/#aspose.cells.rendering.imageorprintoptions) | Konverterar intervallet till bild.|
+| [`to_json(self, options)`](/cells/python-net/sv/aspose.cells/range/to_json/#aspose.cells.jsonsaveoptions) | Konvertera intervallet till värdet JSON.|
+| [`to_html(self, save_options)`](/cells/python-net/sv/aspose.cells/range/to_html/#aspose.cells.htmlsaveoptions) | Konvertera intervallet till html.|
+| [`clear(self)`](/cells/python-net/sv/aspose.cells/range/clear/#) | Rensar detta intervall.|
+| [`clear_contents(self)`](/cells/python-net/sv/aspose.cells/range/clear_contents/#) | Rensar innehållet i detta intervall.|
+| [`clear_formats(self)`](/cells/python-net/sv/aspose.cells/range/clear_formats/#) | Rensar formaten för detta intervall.|
+| [`clear_comments(self)`](/cells/python-net/sv/aspose.cells/range/clear_comments/#) | Rensar kommentarerna för det här intervallet.|
+| [`clear_hyperlinks(self, clear_format)`](/cells/python-net/sv/aspose.cells/range/clear_hyperlinks/#bool) | Tar bara bort hyperlänkar.|
 
 
 
 ###  Anmärkningar
 
-Klassen Range betecknar en region av Excel-kalkylblad.
-Med detta kan du formatera och ställa in värdet på intervallet.
-Och du kan helt enkelt kopiera sortimentet av Excel också.
+Klassen Range betecknar ett område i ett Excel-kalkylblad.
+Med detta kan du formatera och ange värde för intervallet.
+Och du kan helt enkelt kopiera ett Excel-område också.
 
 ###  Exempel
 
-Följande exempel visar hur man skapar ett intervall och ställer in värdet för intervallet för Excel.
+Följande exempel visar hur man skapar ett område och anger ett värde för området i Excel.
 
 ```python
 from aspose.cells import Workbook

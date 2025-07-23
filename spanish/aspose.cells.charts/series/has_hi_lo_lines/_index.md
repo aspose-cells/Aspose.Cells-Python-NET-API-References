@@ -10,7 +10,7 @@ is_root: false
 ##  has_hi_lo_lines propiedad
 
  Verdadero si el gráfico de líneas tiene líneas altas y bajas.
-Se aplica solo a gráficos de líneas.
+Se aplica sólo a gráficos de líneas.
 ###  Definición:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  author fastighet
 
-Får kommentarens author.
+Hämtar author från kommentaren.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def author(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ThreadedComment](/cells/python-net/sv/aspose.cells/threadedcomment)
-* klass [ThreadedCommentAuthor](/cells/python-net/sv/aspose.cells/threadedcommentauthor)
+* modul [`aspose.cells`](../../)
+* klass [`ThreadedComment`](/cells/python-net/sv/aspose.cells/threadedcomment)
+* klass [`ThreadedCommentAuthor`](/cells/python-net/sv/aspose.cells/threadedcommentauthor)

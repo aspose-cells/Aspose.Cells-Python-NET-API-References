@@ -1,18 +1,19 @@
 ---
-title: set_color método
+title: método set_color
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 20
+weight: 30
 url: /es/aspose.cells/bordercollection/set_color/
 is_root: false
 ---
-##  set_color(color) {#aspose.pydrawing.Color}
-Establece el Color de todos los bordes de la colección.
+##  set_color(self, color) {#aspose.pydrawing.Color}
+Establece el color de todos los bordes de la colección.
 
 
 
 ```python
+
 def set_color(self, color):
     ...
 ```
@@ -25,5 +26,5 @@ def set_color(self, color):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [BorderCollection](/cells/python-net/es/aspose.cells/bordercollection)
+* módulo [`aspose.cells`](../../)
+* clase [`BorderCollection`](/cells/python-net/es/aspose.cells/bordercollection)

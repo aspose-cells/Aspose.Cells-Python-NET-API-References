@@ -7,12 +7,13 @@ weight: 20
 url: /sv/aspose.cells/license/set_license/
 is_root: false
 ---
-##  set_license(license_name) {#str}
+##  set_license(self, license_name) {#str}
 Licensierar komponenten.
 
 
 
 ```python
+
 def set_license(self, license_name):
     ...
 ```
@@ -26,37 +27,37 @@ def set_license(self, license_name):
 Försöker hitta licensen på följande platser:
 
 
-1. Explicit väg.
+1. Explicit sökväg.
 
 
 2. Mappen som innehåller komponentsammansättningen Aspose.
 
 
-3. Mappen som innehåller klientens anropssammansättning.
+3. Mappen som innehåller klientens anropande sammansättning.
 
 
-4. Mappen som innehåller posten (start) assembly.
+4. Mappen som innehåller postens (startup) sammansättning.
 
 
-5. En inbäddad resurs i klientens anropssammansättning.
+5. En inbäddad resurs i klientens anropande sammansättning.
 
 
-**Notera:** På .NET Compact Framework försöker du hitta licensen endast på dessa platser:
+**Notera:**Försöker bara hitta licensen på dessa platser i .NET Compact Framework:
 
 
-1. Explicit väg.
+1. Explicit sökväg.
 
 
-2. En inbäddad resurs i klientens anropssammansättning.
+2. En inbäddad resurs i klientens anropande sammansättning.
 ###  Exempel
 
 
-I det här exemplet kommer ett försök att göras att hitta en licensfil med namnet MyLicense.lic
+I det här exemplet kommer ett försök att hitta en licensfil med namnet MyLicense.lic att göras.
  i mappen som innehåller
 
 
-komponenten, i mappen som innehåller den anropande församlingen,
-i mappen för postförsamlingen och sedan i de inbäddade resurserna för den anropande församlingen.
+komponenten, i mappen som innehåller den anropande assemblyn,
+i mappen för postsammansättningen och sedan i de inbäddade resurserna i den anropande sammansättningen.
 
 ```python
 from aspose.cells import License
@@ -65,16 +66,17 @@ license = License()
 license.set_license("MyLicense.lic")
 
 ```
-Kan vara ett fullständigt eller kort filnamn eller namn på en inbäddad resurs.
+Kan vara ett fullständigt eller kort filnamn eller namnet på en inbäddad resurs.
 Använd en tom sträng för att växla till utvärderingsläge.
 
 
-##  set_license(stream) {#io.RawIOBase}
+##  set_license(self, stream) {#io.RawIOBase}
 Licensierar komponenten.
 
 
 
 ```python
+
 def set_license(self, stream):
     ...
 ```
@@ -82,7 +84,7 @@ def set_license(self, stream):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| stream | io.RawIOBase | En stream som innehåller licensen.|
+| stream | io.RawIOBase |En stream som innehåller licensen.|
 ###  Anmärkningar
 
 Använd den här metoden för att ladda en licens från en stream.
@@ -100,5 +102,5 @@ license.set_license(myStream)
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [License](/cells/python-net/sv/aspose.cells/license)
+* modul [`aspose.cells`](../../)
+* klass [`License`](/cells/python-net/sv/aspose.cells/license)

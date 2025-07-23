@@ -3,7 +3,7 @@ title: GradientStop klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 230
+weight: 210
 url: /sv/aspose.cells.drawing/gradientstop/
 is_root: false
 ---
@@ -17,11 +17,11 @@ Typen GradientStop avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [position](/cells/python-net/sv/aspose.cells.drawing/gradientstop/position) | Stoppets läge.|
-| [cells_color](/cells/python-net/sv/aspose.cells.drawing/gradientstop/cells_color) | Får färgen på detta gradientstopp.|
-| [transparency](/cells/python-net/sv/aspose.cells.drawing/gradientstop/transparency) | Returnerar eller ställer in graden av transparens för området som ett värde från 0,0 (opak) till 1,0 (ren).|
+| [position](/cells/python-net/sv/aspose.cells.drawing/gradientstop/position) | Stoppets position.|
+| [cells_color](/cells/python-net/sv/aspose.cells.drawing/gradientstop/cells_color) | Hämtar färgen på detta gradientstopp.|
+| [transparency](/cells/python-net/sv/aspose.cells.drawing/gradientstop/transparency) |Returnerar eller anger områdets genomskinlighetsgrad som ett värde från 0,0 (ogenomskinlig) till 1,0 (klar).|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

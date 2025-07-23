@@ -16,4 +16,4 @@ Typen BaseShapeGuide avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

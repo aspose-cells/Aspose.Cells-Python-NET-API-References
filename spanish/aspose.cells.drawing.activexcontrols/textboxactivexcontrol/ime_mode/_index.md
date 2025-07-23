@@ -8,8 +8,6 @@ url: /es/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/ime_mode/
 is_root: false
 ---
 ##  ime_mode propiedad
-
-Obtiene y establece el modo de tiempo de ejecución predeterminado del Editor de métodos de entrada para el control cuando recibe el foco.
 ###  Definición:
 ```python
 @property
@@ -21,6 +19,6 @@ def ime_mode(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [InputMethodEditorMode](/cells/python-net/es/aspose.cells.drawing.activexcontrols/inputmethodeditormode)
-* clase [TextBoxActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`InputMethodEditorMode`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/inputmethodeditormode)
+* clase [`TextBoxActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

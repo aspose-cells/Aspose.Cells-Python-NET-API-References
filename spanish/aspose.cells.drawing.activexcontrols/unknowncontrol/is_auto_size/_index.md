@@ -8,8 +8,6 @@ url: /es/aspose.cells.drawing.activexcontrols/unknowncontrol/is_auto_size/
 is_root: false
 ---
 ##  is_auto_size propiedad
-
-Indica si el control cambiará de tamaño automáticamente para mostrar todo su contenido.
 ###  Definición:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_auto_size(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [UnknownControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`UnknownControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/unknowncontrol)

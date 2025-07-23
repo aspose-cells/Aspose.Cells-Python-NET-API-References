@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [FillPictureType](/cells/python-net/sv/aspose.cells.drawing/fillpicturetype)
-* klass [PicFormatOption](/cells/python-net/sv/aspose.cells.drawing/picformatoption)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`FillPictureType`](/cells/python-net/sv/aspose.cells.drawing/fillpicturetype)
+* klass [`PicFormatOption`](/cells/python-net/sv/aspose.cells.drawing/picformatoption)

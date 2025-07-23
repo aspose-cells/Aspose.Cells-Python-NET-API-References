@@ -3,13 +3,13 @@ title: height_cm fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 450
+weight: 440
 url: /sv/aspose.cells.drawing/combobox/height_cm/
 is_root: false
 ---
 ##  height_cm fastighet
 
-Representerar höjden på formen, i centimeterenhet.
+Representerar formens höjd, i centimeter.
 
 ###  Exempel
 

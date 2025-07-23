@@ -17,10 +17,11 @@ Typen SlicerCacheItemSortType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
+| NATURAL | Ursprunglig dataordning.|
 | ASCENDING | Stigande sorteringstyp|
-| DESCENDING | Fallande sorteringstyp|
+| DESCENDING |Fallande sorteringstyp|
 
 
 
 ###  Se även
-* modul [aspose.cells.slicers](..)
+* modul [`aspose.cells.slicers`](..)

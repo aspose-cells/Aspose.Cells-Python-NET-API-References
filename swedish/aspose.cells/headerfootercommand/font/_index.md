@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  font fastighet
 
-Hämtar font för kommandots värde.
+Hämtar font av kommandots värde.
 
 ###  Anmärkningar
 
-Värdelöst för HeaderFooterCommandType.Picture.
+Användbar för HeaderFooterCommandType.Picture.
 ###  Definition:
 ```python
 @property
@@ -22,6 +22,6 @@ def font(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Font](/cells/python-net/sv/aspose.cells/font)
-* klass [HeaderFooterCommand](/cells/python-net/sv/aspose.cells/headerfootercommand)
+* modul [`aspose.cells`](../../)
+* klass [`Font`](/cells/python-net/sv/aspose.cells/font)
+* klass [`HeaderFooterCommand`](/cells/python-net/sv/aspose.cells/headerfootercommand)

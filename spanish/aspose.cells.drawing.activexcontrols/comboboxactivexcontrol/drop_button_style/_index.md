@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  drop_button_style propiedad
 
-Especifica el símbolo que se muestra en el botón desplegable
+Especifica el símbolo que se muestra en el botón de soltar
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def drop_button_style(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [ComboBoxActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
-* clase [DropButtonStyle](/cells/python-net/es/aspose.cells.drawing.activexcontrols/dropbuttonstyle)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`ComboBoxActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* clase [`DropButtonStyle`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/dropbuttonstyle)

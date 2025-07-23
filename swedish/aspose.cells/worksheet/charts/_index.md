@@ -3,13 +3,13 @@ title: charts fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 410
+weight: 430
 url: /sv/aspose.cells/worksheet/charts/
 is_root: false
 ---
 ##  charts fastighet
 
-Får en [`Chart`](/cells/python-net/sv/aspose.cells.charts/chart) samling
+Får en [`Chart`](/cells/python-net/sv/aspose.cells.charts/chart)-kollektion
 ###  Definition:
 ```python
 @property

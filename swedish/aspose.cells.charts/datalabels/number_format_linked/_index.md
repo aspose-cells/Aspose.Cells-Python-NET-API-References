@@ -3,13 +3,13 @@ title: number_format_linked fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 290
+weight: 360
 url: /sv/aspose.cells.charts/datalabels/number_format_linked/
 is_root: false
 ---
 ##  number_format_linked fastighet
 
- Sant om talformatet är kopplat till cellerna
+ Sant om talformatet är länkat till cellerna
 (så att talformatet ändras i etiketterna när det ändras i cellerna).
 ###  Definition:
 ```python
@@ -22,5 +22,5 @@ def number_format_linked(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [DataLabels](/cells/python-net/sv/aspose.cells.charts/datalabels)
+* modul [`aspose.cells.charts`](../../)
+* klass [`DataLabels`](/cells/python-net/sv/aspose.cells.charts/datalabels)

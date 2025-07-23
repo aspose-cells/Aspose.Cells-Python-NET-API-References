@@ -17,23 +17,22 @@ El tipo ChartPointCollection expone los siguientes miembros:
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [count](/cells/python-net/es/aspose.cells.charts/chartpointcollection/count) | Obtiene el recuento del punto del gráfico.|
+| [count](/cells/python-net/es/aspose.cells.charts/chartpointcollection/count) | Obtiene el recuento de puntos del gráfico.|
 
 
 
-Obtiene el elemento [`ChartPoint`](/cells/python-net/es/aspose.cells.charts/chartpoint) en el índice especificado de la serie.
-###  indexador
+Obtiene el elemento [`ChartPoint`](/cells/python-net/es/aspose.cells.charts/chartpoint) en el índice especificado en la serie.
+###  Indexador
 | Nombre| Descripción|
 | :- | :- |
-| [index] | El índice del punto del gráfico de la serie.|
+| [index] | El índice del punto del gráfico en la serie.|
 
 
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [get_enumerator](/cells/python-net/es/aspose.cells.charts/chartpointcollection/get_enumerator/#) | Devuelve un enumerador para todo el [`ChartPointCollection`](/cells/python-net/es/aspose.cells.charts/chartpointcollection).|
-| [clear](/cells/python-net/es/aspose.cells.charts/chartpointcollection/clear/#) | Elimine todos los ajustes de los puntos del gráfico.|
-| [remove_at](/cells/python-net/es/aspose.cells.charts/chartpointcollection/remove_at/#int) | Elimina punto en el índice de la serie.|
+| [`clear(self)`](/cells/python-net/es/aspose.cells.charts/chartpointcollection/clear/#) | Eliminar todas las configuraciones de los puntos del gráfico.|
+| [`remove_at(self, index)`](/cells/python-net/es/aspose.cells.charts/chartpointcollection/remove_at/#int) | Elimina el punto en el índice de la serie.|
 
 
 
@@ -84,4 +83,3 @@ workbook.save("book1.xls")
 ###  Ver también
 * módulo [`aspose.cells.charts`](..)
 * clase [`ChartPoint`](/cells/python-net/es/aspose.cells.charts/chartpoint)
-* clase [`ChartPointCollection`](/cells/python-net/es/aspose.cells.charts/chartpointcollection)

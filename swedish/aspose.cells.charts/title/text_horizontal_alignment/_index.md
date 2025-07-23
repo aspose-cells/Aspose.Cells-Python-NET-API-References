@@ -3,7 +3,7 @@ title: text_horizontal_alignment fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 350
+weight: 410
 url: /sv/aspose.cells.charts/title/text_horizontal_alignment/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def text_horizontal_alignment(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [TextAlignmentType](/cells/python-net/sv/aspose.cells/textalignmenttype)
-* klass [Title](/cells/python-net/sv/aspose.cells.charts/title)
+* modul [`aspose.cells.charts`](../../)
+* klass [`TextAlignmentType`](/cells/python-net/sv/aspose.cells/textalignmenttype)
+* klass [`Title`](/cells/python-net/sv/aspose.cells.charts/title)

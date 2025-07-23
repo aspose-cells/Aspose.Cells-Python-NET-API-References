@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells.drawing.texts/autonumberedbulletvalue/__init__/
 is_root: false
 ---
-##  AutoNumberedBulletValue() {#}
+##  \_\_init\_\_(själv){#}
 Konstruerar en ny instans av AutoNumberedBulletValue
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [AutoNumberedBulletValue](/cells/python-net/sv/aspose.cells.drawing.texts/autonumberedbulletvalue)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`AutoNumberedBulletValue`](/cells/python-net/sv/aspose.cells.drawing.texts/autonumberedbulletvalue)

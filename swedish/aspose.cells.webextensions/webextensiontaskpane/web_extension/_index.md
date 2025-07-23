@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  web_extension fastighet
 
-Hämtar och ställer in webbtilläggsdelen som är kopplad till aktivitetspanelsinstansen
+Hämtar och ställer in webbtilläggsdelen som är associerad med aktivitetsfönsterinstansen
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def web_extension(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.webextensions](../../)
-* klass [WebExtension](/cells/python-net/sv/aspose.cells.webextensions/webextension)
-* klass [WebExtensionTaskPane](/cells/python-net/sv/aspose.cells.webextensions/webextensiontaskpane)
+* modul [`aspose.cells.webextensions`](../../)
+* klass [`WebExtension`](/cells/python-net/sv/aspose.cells.webextensions/webextension)
+* klass [`WebExtensionTaskPane`](/cells/python-net/sv/aspose.cells.webextensions/webextensiontaskpane)

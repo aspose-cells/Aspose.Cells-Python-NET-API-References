@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  precision_as_displayed propiedad
 
-Si la precisión del resultado calculado se establece tal como se muestra al calcular fórmulas
+Si se debe configurar la precisión de los resultados calculados tal como se muestran al calcular fórmulas
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def precision_as_displayed(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FormulaSettings](/cells/python-net/es/aspose.cells/formulasettings)
+* módulo [`aspose.cells`](../../)
+* clase [`FormulaSettings`](/cells/python-net/es/aspose.cells/formulasettings)

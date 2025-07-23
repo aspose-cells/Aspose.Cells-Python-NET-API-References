@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  old_name propiedad
 
-Obtiene el nombre antiguo de la hoja de cálculo.
+Obtiene el nombre antiguo de la hoja de trabajo.
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def old_name(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.revisions](../../)
-* clase [RevisionRenameSheet](/cells/python-net/es/aspose.cells.revisions/revisionrenamesheet)
+* módulo [`aspose.cells.revisions`](../../)
+* clase [`RevisionRenameSheet`](/cells/python-net/es/aspose.cells.revisions/revisionrenamesheet)

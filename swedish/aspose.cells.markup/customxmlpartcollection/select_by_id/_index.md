@@ -7,8 +7,8 @@ weight: 70
 url: /sv/aspose.cells.markup/customxmlpartcollection/select_by_id/
 is_root: false
 ---
-##  select_by_id(id) {#str}
-Får en vara efter id.
+##  select_by_id(self, id) {#str}
+Hämtar ett objekt via id.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Får en vara efter id.
 
 
 ```python
+
 def select_by_id(self, id):
     ...
 ```
@@ -29,5 +30,5 @@ def select_by_id(self, id):
 
 
 ###  Se även
-* modul [aspose.cells.markup](../../)
-* klass [CustomXmlPartCollection](/cells/python-net/sv/aspose.cells.markup/customxmlpartcollection)
+* modul [`aspose.cells.markup`](../../)
+* klass [`CustomXmlPartCollection`](/cells/python-net/sv/aspose.cells.markup/customxmlpartcollection)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  id fastighet
 
-Hämtar identifieraren för denna form.
+Hämtar identifieraren för den här formen.
 
 ###  Exempel
 

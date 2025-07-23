@@ -7,7 +7,7 @@ weight: 80
 url: /es/aspose.cells/validation/get_value/
 is_root: false
 ---
-##  get_value {#int-int-bool}
+##  get_value(self, row, column, is_value1) {#int-int-bool}
 Obtenga el valor de validación en la celda específica.
 
 
@@ -17,6 +17,7 @@ Obtenga el valor de validación en la celda específica.
 
 
 ```python
+
 def get_value(self, row, column, is_value1):
     ...
 ```
@@ -26,7 +27,7 @@ def get_value(self, row, column, is_value1):
 | :- | :- | :- |
 | row | int | El índice de fila.|
 | column | int | El índice de la columna.|
-| is_value1 | bool |Indica si se obtiene el primer valor.|
+| is_value1 | bool | Indica si se obtiene el primer valor.|
 
 
 

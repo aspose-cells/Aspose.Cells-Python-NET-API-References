@@ -3,7 +3,7 @@ title: number_format fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 510
+weight: 600
 url: /sv/aspose.cells.pivot/pivotfield/number_format/
 is_root: false
 ---

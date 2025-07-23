@@ -14,7 +14,7 @@ Obtiene o establece el color de fondo de un estilo.
 ###  Observaciones
 
  Si desea establecer el color de una celda, utilice la propiedad Style.ForegroundColor.
-Solo si el patrón de estilo de celda es distinto de ninguno o sólido, esta propiedad tendrá efecto.
+Esta propiedad solo tendrá efecto si el patrón de estilo de celda es distinto de ninguno o sólido.
 ###  Definición:
 ```python
 @property
@@ -26,5 +26,5 @@ def background_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Style](/cells/python-net/es/aspose.cells/style)
+* módulo [`aspose.cells`](../../)
+* clase [`Style`](/cells/python-net/es/aspose.cells/style)

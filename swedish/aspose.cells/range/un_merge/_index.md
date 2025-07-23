@@ -3,16 +3,17 @@ title: un_merge metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 220
+weight: 310
 url: /sv/aspose.cells/range/un_merge/
 is_root: false
 ---
-##  un_merge {#}
-Ta bort sammanslagna celler i detta intervall.
+##  un_merge(self) {#}
+Avlägsnar sammanslagna celler i detta område.
 
 
 
 ```python
+
 def un_merge(self):
     ...
 ```

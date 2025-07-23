@@ -3,13 +3,13 @@ title: position fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 300
+weight: 360
 url: /sv/aspose.cells.charts/legend/position/
 is_root: false
 ---
 ##  position fastighet
 
-Hämtar eller ställer in legenden position typ.
+Hämtar eller ställer in förklaringen av typen position.
 
 ###  Anmärkningar
 

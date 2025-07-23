@@ -7,16 +7,17 @@ weight: 40
 url: /sv/aspose.cells/settablepivotglobalizationsettings/get_text_of_all/
 is_root: false
 ---
-##  get_text_of_all {#}
-Hämtar texten för "(Alla)"-etiketten i pivottabellen.
+##  get_text_of_all(self) {#}
+Hämtar texten för etiketten "(Alla)" i pivottabellen.
 
 
 ###  Returnerar
 
-Texten till etiketten "(Alla)".
+Texten på etiketten "(Alla)"
 
 
 ```python
+
 def get_text_of_all(self):
     ...
 ```

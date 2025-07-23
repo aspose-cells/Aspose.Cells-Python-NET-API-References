@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  export_as_html_string fastighet
 
-Exporterar html-strängvärdet för cellerna till datatabellen.
+Exporterar cellernas HTML-strängvärde till datatabellen.
 ###  Definition:
 ```python
 @property

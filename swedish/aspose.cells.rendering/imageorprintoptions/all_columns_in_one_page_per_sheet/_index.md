@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  all_columns_in_one_page_per_sheet fastighet
 
- Om AllColumnsInOnePagePerSheet är sant , kommer allt kolumninnehåll i ett ark att matas ut till endast en sida i resultat.
+ Om AllColumnsInOnePagePerSheet är sant kommer allt kolumninnehåll i ett ark att matas ut till endast en sida i resultatet.
  Bredden på pappersstorleken för sidinställningarna kommer att vara ogiltig, och de andra inställningarna för sidinställningarna
 kommer fortfarande att träda i kraft.
 ###  Definition:
@@ -23,5 +23,5 @@ def all_columns_in_one_page_per_sheet(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [ImageOrPrintOptions](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`ImageOrPrintOptions`](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions)

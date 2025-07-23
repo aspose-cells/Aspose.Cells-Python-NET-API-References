@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  style fastighet
 
-Representerar linjens style.
+Representerar style för linjen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def style(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [LineType](/cells/python-net/sv/aspose.cells.drawing/linetype)
-* klass [Trendline](/cells/python-net/sv/aspose.cells.charts/trendline)
+* modul [`aspose.cells.charts`](../../)
+* klass [`LineType`](/cells/python-net/sv/aspose.cells.drawing/linetype)
+* klass [`Trendline`](/cells/python-net/sv/aspose.cells.charts/trendline)

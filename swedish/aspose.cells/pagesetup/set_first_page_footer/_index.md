@@ -7,12 +7,13 @@ weight: 150
 url: /sv/aspose.cells/pagesetup/set_first_page_footer/
 is_root: false
 ---
-##  set_first_page_footer(section, footer_script) {#int-str}
+##  set_first_page_footer(self, section, footer_script) {#int-str}
 Ställer in ett skript som formaterar den första sidfoten i en Excel-fil.
 
 
 
 ```python
+
 def set_first_page_footer(self, section, footer_script):
     ...
 ```
@@ -20,11 +21,11 @@ def set_first_page_footer(self, section, footer_script):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| section | int | 0: Vänster sektion, 1: Mittsektion, 2: Höger sektion.|
-| footer_script | str | Skript i sidfotsformat.|
+| section | int |0: Vänster sektion, 1: Mittsektion, 2: Höger sektion.|
+| footer_script | str | Skript för sidfotsformat.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

@@ -9,15 +9,15 @@ is_root: false
 ---
 ##  save_format propiedad
 
-Obtiene o establece el tipo de formato del archivo de salida.
-Soporte tiff/XPS
+Obtiene o establece el tipo de formato del archivo de salida
+Soporte Tiff/XPS
 
 ###  Observaciones
 
- NOTA: Este miembro ahora está obsoleto. En cambio,
-Para Tiff/Svg, utilice [`ImageOrPrintOptions.image_type`](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions#image_type); Para Xps, utilice [`Workbook.save`](/cells/python-net/es/aspose.cells/workbook/save) con [`XpsSaveOptions`](/cells/python-net/es/aspose.cells/xpssaveoptions).
+ NOTA: Este miembro ya no está disponible. En su lugar,
+Para Tiff/Svg, utilice [`ImageOrPrintOptions.image_type`](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions#image_type); para Xps, utilice [`Workbook.save`](/cells/python-net/es/aspose.cells/workbook/save) con [`XpsSaveOptions`](/cells/python-net/es/aspose.cells/xpssaveoptions).
  Esta propiedad será eliminada 12 meses después desde agosto de 2022.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 ###  Definición:
 ```python
 @property

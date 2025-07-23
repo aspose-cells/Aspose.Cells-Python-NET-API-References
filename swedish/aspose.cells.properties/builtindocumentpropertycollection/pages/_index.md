@@ -3,7 +3,7 @@ title: pages fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 320
+weight: 330
 url: /sv/aspose.cells.properties/builtindocumentpropertycollection/pages/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def pages(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.properties](../../)
-* klass [BuiltInDocumentPropertyCollection](/cells/python-net/sv/aspose.cells.properties/builtindocumentpropertycollection)
+* modul [`aspose.cells.properties`](../../)
+* klass [`BuiltInDocumentPropertyCollection`](/cells/python-net/sv/aspose.cells.properties/builtindocumentpropertycollection)

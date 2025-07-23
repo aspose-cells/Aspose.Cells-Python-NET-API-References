@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  orientation fastighet
 
-Hämtar och ställer in om SpinButton eller ScrollBar är orienterad vertikalt eller horisontellt.
+Hämtar och anger om SpinButton eller ScrollBar är orienterade vertikalt eller horisontellt.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def orientation(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ControlScrollOrientation](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/controlscrollorientation)
-* klass [ScrollBarActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ControlScrollOrientation`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/controlscrollorientation)
+* klass [`ScrollBarActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

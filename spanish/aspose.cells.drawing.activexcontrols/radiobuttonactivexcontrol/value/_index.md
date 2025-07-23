@@ -21,6 +21,6 @@ def value(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [CheckValueType](/cells/python-net/es/aspose.cells.drawing/checkvaluetype)
-* clase [RadioButtonActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`CheckValueType`](/cells/python-net/es/aspose.cells.drawing/checkvaluetype)
+* clase [`RadioButtonActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

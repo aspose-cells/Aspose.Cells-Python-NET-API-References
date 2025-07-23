@@ -3,7 +3,7 @@ title: page_index fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 230
+weight: 240
 url: /sv/aspose.cells.rendering/imageorprintoptions/page_index/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Hämtar eller ställer in det 0-baserade indexet för den första sidan som ska 
 
 ###  Anmärkningar
 
-Standard är 0.
+Standardvärdet är 0.
 ###  Definition:
 ```python
 @property

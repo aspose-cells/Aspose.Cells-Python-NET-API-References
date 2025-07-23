@@ -7,17 +7,18 @@ weight: 250
 url: /sv/aspose.cells/settableglobalizationsettings/get_table_row_type_of_data/
 is_root: false
 ---
-##  get_table_row_type_of_data {#}
-Hämtar typnamnet på tabellrader som består av dataregionen i den refererade tabellen.
-Standard är "Data", så i formeln representerar "#Data" dataområdet i tabellen.
+##  get_table_row_type_of_data(self) {#}
+Hämtar typnamnet för tabellrader som består av dataregionen i den refererade tabellen.
+Standardvärdet är "Data", så i formeln representerar "#Data" tabellens dataområde.
 
 
 ###  Returnerar
 
-typnamnet på tabellrader
+typnamnet för tabellrader
 
 
 ```python
+
 def get_table_row_type_of_data(self):
     ...
 ```

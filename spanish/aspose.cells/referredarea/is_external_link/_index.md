@@ -3,7 +3,7 @@ title: is_external_link propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 90
+weight: 110
 url: /es/aspose.cells/referredarea/is_external_link/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_external_link(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ReferredArea](/cells/python-net/es/aspose.cells/referredarea)
+* módulo [`aspose.cells`](../../)
+* clase [`ReferredArea`](/cells/python-net/es/aspose.cells/referredarea)

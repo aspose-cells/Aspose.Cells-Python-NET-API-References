@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  has_drop_lines propiedad
 
-Verdadero si el gráfico tiene líneas desplegables.
-Se aplica solo a gráficos de líneas o de áreas.
+Verdadero si el gráfico tiene líneas de caída.
+Se aplica únicamente a gráficos de líneas o de áreas.
 ###  Definición:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  comment_shape propiedad
 
-Obtiene un objeto Shape que representa la forma adjunta al comentario especificado.
+Obtenga un objeto Shape que represente la forma adjunta al comentario especificado.
 
 ###  Ejemplo
 

@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells/markdownsaveoptions/__init__/
 is_root: false
 ---
-##  MarkdownSaveOptions() {#}
-Crea opciones para guardar el documento de descuento
+##  \_\_init\_\_(yo mismo){#}
+Crea opciones para guardar documentos Markdown
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [MarkdownSaveOptions](/cells/python-net/es/aspose.cells/markdownsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`MarkdownSaveOptions`](/cells/python-net/es/aspose.cells/markdownsaveoptions)

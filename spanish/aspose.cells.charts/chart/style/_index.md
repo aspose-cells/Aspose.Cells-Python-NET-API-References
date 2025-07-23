@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  style propiedad
 
-Obtiene y establece el style integrado.
+Obtiene y establece el valor incorporado style.
 
 ###  Observaciones
 
-Debería estar entre 1 y 48.
+Debe estar entre 1 y 48.
 Devuelve -1 si no está configurado.
 ###  Definición:
 ```python

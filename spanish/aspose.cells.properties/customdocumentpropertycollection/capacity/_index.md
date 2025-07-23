@@ -3,7 +3,7 @@ title: capacity propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 110
+weight: 120
 url: /es/aspose.cells.properties/customdocumentpropertycollection/capacity/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.properties](../../)
-* clase [CustomDocumentPropertyCollection](/cells/python-net/es/aspose.cells.properties/customdocumentpropertycollection)
+* módulo [`aspose.cells.properties`](../../)
+* clase [`CustomDocumentPropertyCollection`](/cells/python-net/es/aspose.cells.properties/customdocumentpropertycollection)

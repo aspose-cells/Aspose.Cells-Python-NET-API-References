@@ -3,14 +3,14 @@ title: error_string fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 520
+weight: 620
 url: /sv/aspose.cells.pivot/pivottable/error_string/
 is_root: false
 ---
 ##  error_string fastighet
 
 Hämtar strängen som visas i celler som innehåller fel
-när egenskapen DisplayErrorString är true. Standardvärdet är en tom sträng.
+när egenskapen DisplayErrorString är sann. Standardvärdet är en tom sträng.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def error_string(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotTable](/cells/python-net/sv/aspose.cells.pivot/pivottable)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotTable`](/cells/python-net/sv/aspose.cells.pivot/pivottable)

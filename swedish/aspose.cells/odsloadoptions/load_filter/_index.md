@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  load_filter fastighet
 
-Filtret för att ange hur man laddar data.
+Filtret som anger hur data ska laddas.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def load_filter(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [LoadFilter](/cells/python-net/sv/aspose.cells/loadfilter)
-* klass [OdsLoadOptions](/cells/python-net/sv/aspose.cells/odsloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`LoadFilter`](/cells/python-net/sv/aspose.cells/loadfilter)
+* klass [`OdsLoadOptions`](/cells/python-net/sv/aspose.cells/odsloadoptions)

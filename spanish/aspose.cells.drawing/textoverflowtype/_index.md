@@ -17,11 +17,11 @@ El tipo TextOverflowType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| CLIP | Preste atención a las barreras superior e inferior.<br/>No proporcione ninguna indicación de que hay texto que no es visible.|
-| ELLIPSIS | Preste atención a las barreras superior e inferior.<br/>Use puntos suspensivos para indicar que hay texto que no es visible.<br/> Sólo para rebosadero vertical.|
-| OVERFLOW | Desborde el texto y no preste atención a las barreras superior e inferior.|
+| CLIP | Preste atención a las barreras superiores e inferiores.<br/> No proporcione ninguna indicación de que hay texto que no es visible.|
+| ELLIPSIS | Preste atención a las barreras superiores e inferiores.<br/>Utilice puntos suspensivos para indicar que hay texto que no es visible.<br/> Sólo para desbordamiento vertical.|
+| OVERFLOW | Desbordar el texto y no prestar atención a las barreras superiores e inferiores.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](..)
+* módulo [`aspose.cells.drawing`](..)

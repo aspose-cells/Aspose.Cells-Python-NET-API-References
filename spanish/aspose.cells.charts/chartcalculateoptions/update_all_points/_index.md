@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  update_all_points propiedad
 
- Si se actualizan todos los puntos de datos al realizar el cálculo del gráfico. Valor predeterminado: Falso.
-Cuando desee obtener específicamente el valor de cada punto de datos del gráfico, configúrelo en verdadero.
-Si este parámetro se establece en Verdadero, se pueden generar nuevos puntos de datos cuando se calcula el gráfico. Esto podría agrandar el archivo de Excel.
+ Si se actualizan todos los puntos de datos al calcular el gráfico. Valor predeterminado: Falso.
+Cuando desee obtener el valor de cada punto de datos en el gráfico específicamente, configúrelo como verdadero.
+Si este parámetro se establece en Verdadero, los nuevos puntos de datos podrían generarse al calcular el gráfico. Esto podría aumentar el tamaño del archivo de Excel.
 ###  Definición:
 ```python
 @property

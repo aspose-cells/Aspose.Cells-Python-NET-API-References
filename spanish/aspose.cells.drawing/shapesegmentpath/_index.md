@@ -3,12 +3,12 @@ title: ShapeSegmentPath clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 620
+weight: 590
 url: /es/aspose.cells.drawing/shapesegmentpath/
 is_root: false
 ---
 ##  ShapeSegmentPath clase
-Representa una ruta de segmento en una ruta de la forma libre.
+Representa una ruta de segmento en una ruta de forma libre.
 
 
 
@@ -23,4 +23,4 @@ El tipo ShapeSegmentPath expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](..)
+* módulo [`aspose.cells.drawing`](..)

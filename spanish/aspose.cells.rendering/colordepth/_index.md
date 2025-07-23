@@ -3,12 +3,12 @@ title: ColorDepth enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 140
+weight: 160
 url: /es/aspose.cells.rendering/colordepth/
 is_root: false
 ---
 ##  ColorDepth enumeración
-Enumera el tipo de profundidad de bits para la imagen TIFF.
+Enumera el tipo de profundidad de bits para la imagen tiff.
 
 
 
@@ -27,4 +27,4 @@ El tipo ColorDepth expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.rendering](..)
+* módulo [`aspose.cells.rendering`](..)

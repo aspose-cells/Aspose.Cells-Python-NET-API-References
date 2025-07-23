@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  background_color fastighet
 
-Hämtar eller ställer in en stils bakgrundsfärg.
+Hämtar eller anger en stils bakgrundsfärg.
 
 ###  Anmärkningar
 
- Om du vill ställa in en cells färg, använd Style.ForegroundColor-egenskapen.
-Endast om cellstilsmönstret är annat än ingen eller solid kommer den här egenskapen att träda i kraft.
+ Om du vill ange en cells färg, använd egenskapen Style.ForegroundColor.
+Endast om cellstilsmönstret är något annat än inget eller heldraget, kommer den här egenskapen att gälla.
 ###  Definition:
 ```python
 @property
@@ -26,5 +26,5 @@ def background_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Style](/cells/python-net/sv/aspose.cells/style)
+* modul [`aspose.cells`](../../)
+* klass [`Style`](/cells/python-net/sv/aspose.cells/style)

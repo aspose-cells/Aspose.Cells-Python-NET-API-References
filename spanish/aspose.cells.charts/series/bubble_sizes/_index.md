@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bubble_sizes propiedad
 
-Obtiene o establece los valores del tamaño de las burbujas de la serie de gráficos.
+Obtiene o establece los valores de tamaño de burbuja de la serie de gráficos.
 ###  Definición:
 ```python
 @property

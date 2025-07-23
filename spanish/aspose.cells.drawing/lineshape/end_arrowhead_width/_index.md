@@ -13,10 +13,10 @@ Obtiene y establece el ancho de la punta de flecha final de la línea.
 
 ###  Observaciones
 
- NOTA: Este miembro ahora está obsoleto. En cambio,
- utilice la propiedad Shape.Line.EndArrowheadWidth.
+ NOTA: Este miembro ya no está disponible. En su lugar,
+ Utilice la propiedad Shape.Line.EndArrowheadWidth.
  Esta propiedad será eliminada 12 meses después desde agosto de 2016.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 ###  Definición:
 ```python
 @property

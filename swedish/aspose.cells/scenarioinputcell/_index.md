@@ -3,12 +3,12 @@ title: ScenarioInputCell klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1390
+weight: 1280
 url: /sv/aspose.cells/scenarioinputcell/
 is_root: false
 ---
 ##  ScenarioInputCell klass
-Representerar indatacell för scenariot.
+Representerar inmatningscellen för scenariot.
 
 
 
@@ -17,11 +17,11 @@ Typen ScenarioInputCell avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [row](/cells/python-net/sv/aspose.cells/scenarioinputcell/row) | Hämtar och ställer in radindex för indatacellen.|
-| [column](/cells/python-net/sv/aspose.cells/scenarioinputcell/column) | Hämtar och ställer in kolumnindex för indatacellen.|
-| [name](/cells/python-net/sv/aspose.cells/scenarioinputcell/name) | Hämtar och ställer in den inmatade celladressen.|
-| [value](/cells/python-net/sv/aspose.cells/scenarioinputcell/value) | Hämtar och ställer in värdet på indatacellen.|
-| [is_deleted](/cells/python-net/sv/aspose.cells/scenarioinputcell/is_deleted) | Indikerar om inmatningscellen är raderad.|
+| [row](/cells/python-net/sv/aspose.cells/scenarioinputcell/row) | Hämtar och ställer in radindexet för inmatningscellen.|
+| [column](/cells/python-net/sv/aspose.cells/scenarioinputcell/column) | Hämtar och anger kolumnindexet för inmatningscellen.|
+| [name](/cells/python-net/sv/aspose.cells/scenarioinputcell/name) | Hämtar och anger inmatningscellens adress.|
+| [value](/cells/python-net/sv/aspose.cells/scenarioinputcell/value) | Hämtar och anger värdet för inmatningscellen.|
+| [is_deleted](/cells/python-net/sv/aspose.cells/scenarioinputcell/is_deleted) | Anger om inmatningscellen har raderats.|
 
 
 

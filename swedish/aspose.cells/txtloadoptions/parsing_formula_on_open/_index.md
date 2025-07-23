@@ -3,17 +3,17 @@ title: parsing_formula_on_open fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 320
+weight: 300
 url: /sv/aspose.cells/txtloadoptions/parsing_formula_on_open/
 is_root: false
 ---
 ##  parsing_formula_on_open fastighet
 
-Anger om formeln analyseras när filen läses.
+Anger om formeln tolkas vid läsning av filen.
 
 ###  Anmärkningar
 
-Gäller endast för Excel Xlsx-, Xltx-, Xltm- och Xlsm-filer
+Gäller endast Excel Xlsx, Xltx, Xltm och Xlsm-filer
 eftersom formlerna i filerna lagras med en strängformel.
 ###  Definition:
 ```python

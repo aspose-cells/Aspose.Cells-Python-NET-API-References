@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [ControlType](/cells/python-net/es/aspose.cells.drawing.activexcontrols/controltype)
-* clase [SpinButtonActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`ControlType`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/controltype)
+* clase [`SpinButtonActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

@@ -3,16 +3,17 @@ title: método set_text_of_all
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 230
+weight: 240
 url: /es/aspose.cells/settablepivotglobalizationsettings/set_text_of_all/
 is_root: false
 ---
-##  set_text_of_all {#str}
+##  set_text_of_all(self, text) {#str}
 Establece el texto de la etiqueta "(Todos)" en la tabla dinámica.
 
 
 
 ```python
+
 def set_text_of_all(self, text):
     ...
 ```

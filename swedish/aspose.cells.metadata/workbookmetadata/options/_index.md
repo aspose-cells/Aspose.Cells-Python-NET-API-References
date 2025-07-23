@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  options fastighet
 
-Hämtar options av metadata.
+Hämtar options för metadata.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def options(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.metadata](../../)
-* klass [MetadataOptions](/cells/python-net/sv/aspose.cells.metadata/metadataoptions)
-* klass [WorkbookMetadata](/cells/python-net/sv/aspose.cells.metadata/workbookmetadata)
+* modul [`aspose.cells.metadata`](../../)
+* klass [`MetadataOptions`](/cells/python-net/sv/aspose.cells.metadata/metadataoptions)
+* klass [`WorkbookMetadata`](/cells/python-net/sv/aspose.cells.metadata/workbookmetadata)

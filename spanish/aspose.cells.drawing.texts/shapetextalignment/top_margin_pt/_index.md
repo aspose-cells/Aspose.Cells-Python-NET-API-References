@@ -3,13 +3,13 @@ title: top_margin_pt propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 160
+weight: 170
 url: /es/aspose.cells.drawing.texts/shapetextalignment/top_margin_pt/
 is_root: false
 ---
 ##  top_margin_pt propiedad
 
-Devuelve el margen superior en unidades de Puntos
+Devuelve el margen superior en unidades de puntos.
 
 ###  Ejemplo
 
@@ -29,5 +29,5 @@ def top_margin_pt(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](../../)
-* clase [ShapeTextAlignment](/cells/python-net/es/aspose.cells.drawing.texts/shapetextalignment)
+* módulo [`aspose.cells.drawing.texts`](../../)
+* clase [`ShapeTextAlignment`](/cells/python-net/es/aspose.cells.drawing.texts/shapetextalignment)

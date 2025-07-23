@@ -3,13 +3,13 @@ title: is_shared_formula fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 630
+weight: 660
 url: /sv/aspose.cells/cell/is_shared_formula/
 is_root: false
 ---
 ##  is_shared_formula fastighet
 
-Anger om cellformeln är en del av delad formel.
+Anger om cellformeln är en del av en delad formel.
 ###  Definition:
 ```python
 @property

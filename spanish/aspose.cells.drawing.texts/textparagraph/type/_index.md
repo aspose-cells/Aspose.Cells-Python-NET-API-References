@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](../../)
-* clase [TextNodeType](/cells/python-net/es/aspose.cells.drawing.texts/textnodetype)
-* clase [TextParagraph](/cells/python-net/es/aspose.cells.drawing.texts/textparagraph)
+* módulo [`aspose.cells.drawing.texts`](../../)
+* clase [`TextNodeType`](/cells/python-net/es/aspose.cells.drawing.texts/textnodetype)
+* clase [`TextParagraph`](/cells/python-net/es/aspose.cells.drawing.texts/textparagraph)

@@ -7,12 +7,13 @@ weight: 20
 url: /sv/aspose.cells/multiplefiltercollection/add/
 is_root: false
 ---
-##  add(filter) {#str}
+##  add(self, filter) {#str}
 Lägger till strängfilter.
 
 
 
 ```python
+
 def add(self, filter):
     ...
 ```
@@ -25,5 +26,5 @@ def add(self, filter):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [MultipleFilterCollection](/cells/python-net/sv/aspose.cells/multiplefiltercollection)
+* modul [`aspose.cells`](../../)
+* klass [`MultipleFilterCollection`](/cells/python-net/sv/aspose.cells/multiplefiltercollection)

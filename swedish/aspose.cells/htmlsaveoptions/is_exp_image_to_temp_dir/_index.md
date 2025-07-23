@@ -3,14 +3,14 @@ title: is_exp_image_to_temp_dir fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 480
+weight: 560
 url: /sv/aspose.cells/htmlsaveoptions/is_exp_image_to_temp_dir/
 is_root: false
 ---
 ##  is_exp_image_to_temp_dir fastighet
 
-Anger om bildfiler exporteras till temporär katalog.
-Endast för att spara till html-ström.
+Anger om bildfiler ska exporteras till en tillfällig katalog.
+Endast för att spara till html-strömmen.
 ###  Definition:
 ```python
 @property

@@ -13,7 +13,7 @@ Obtiene o establece un valor que indica si una celda se puede modificar o no.
 
 ###  Observaciones
 
-Bloquear celdas no tiene ningún efecto a menos que la hoja de trabajo esté protegida.
+Bloquear celdas no tiene efecto a menos que la hoja de cálculo esté protegida.
 ###  Definición:
 ```python
 @property

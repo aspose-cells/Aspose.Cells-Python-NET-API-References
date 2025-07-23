@@ -3,7 +3,7 @@ title: text_horizontal_overflow propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 120
+weight: 130
 url: /es/aspose.cells.drawing.texts/shapetextalignment/text_horizontal_overflow/
 is_root: false
 ---
@@ -30,6 +30,6 @@ def text_horizontal_overflow(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](../../)
-* clase [ShapeTextAlignment](/cells/python-net/es/aspose.cells.drawing.texts/shapetextalignment)
-* clase [TextOverflowType](/cells/python-net/es/aspose.cells.drawing/textoverflowtype)
+* módulo [`aspose.cells.drawing.texts`](../../)
+* clase [`ShapeTextAlignment`](/cells/python-net/es/aspose.cells.drawing.texts/shapetextalignment)
+* clase [`TextOverflowType`](/cells/python-net/es/aspose.cells.drawing/textoverflowtype)

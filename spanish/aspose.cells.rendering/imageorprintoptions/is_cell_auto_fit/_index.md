@@ -3,21 +3,21 @@ title: is_cell_auto_fit propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 160
+weight: 170
 url: /es/aspose.cells.rendering/imageorprintoptions/is_cell_auto_fit/
 is_root: false
 ---
 ##  is_cell_auto_fit propiedad
 
- Indica si el ancho y el alto de las celdas se ajustan automáticamente según el valor de la celda.
+ Indica si el ancho y la altura de las celdas se ajustan automáticamente al valor de la celda.
 El valor predeterminado es falso.
 
 ###  Observaciones
 
- NOTA: Este miembro ahora está obsoleto. En cambio,
-utilice [`Worksheet.auto_fit_columns`](/cells/python-net/es/aspose.cells/worksheet/auto_fit_columns) y [`Worksheet.auto_fit_rows`](/cells/python-net/es/aspose.cells/worksheet/auto_fit_rows).
+ NOTA: Este miembro ya no está disponible. En su lugar,
+Esta propiedad no se utiliza, por favor elimine esta propiedad.
  Esta propiedad será eliminada 12 meses después desde agosto de 2022.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 ###  Definición:
 ```python
 @property

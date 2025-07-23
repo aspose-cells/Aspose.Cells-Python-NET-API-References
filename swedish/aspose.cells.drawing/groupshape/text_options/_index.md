@@ -3,13 +3,13 @@ title: text_options fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1010
+weight: 1020
 url: /sv/aspose.cells.drawing/groupshape/text_options/
 is_root: false
 ---
 ##  text_options fastighet
 
-Representerar formens textalternativ.
+Representerar textalternativen för formen.
 
 ###  Exempel
 

@@ -3,16 +3,17 @@ title: update_selected_value metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 240
+weight: 250
 url: /sv/aspose.cells.drawing/combobox/update_selected_value/
 is_root: false
 ---
-##  update_selected_value {#}
-Uppdatera det valda värdet med värdet för den länkade cellen.
+##  update_selected_value(self) {#}
+Uppdatera det valda värdet med värdet i den länkade cellen.
 
 
 
 ```python
+
 def update_selected_value(self):
     ...
 ```

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_gradient fastighet
 
-Indikerar om cellskuggningen är ett gradientmönster.
+Anger om cellskuggningen är ett gradientmönster.
 ###  Definition:
 ```python
 @property

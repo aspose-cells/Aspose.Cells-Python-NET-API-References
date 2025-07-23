@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  surface_lighting_type fastighet
 
-Får och ställer in belysningstypen som ska appliceras på scenen för formen.
+Hämtar och anger den ljustyp som ska tillämpas på formens scen.
 Standardvärdet är LightRigType.ThreePoint.
 ###  Definition:
 ```python
@@ -22,6 +22,6 @@ def surface_lighting_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Format3D](/cells/python-net/sv/aspose.cells.drawing/format3d)
-* klass [LightRigType](/cells/python-net/sv/aspose.cells.drawing/lightrigtype)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Format3D`](/cells/python-net/sv/aspose.cells.drawing/format3d)
+* klass [`LightRigType`](/cells/python-net/sv/aspose.cells.drawing/lightrigtype)

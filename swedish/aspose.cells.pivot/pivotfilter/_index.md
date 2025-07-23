@@ -3,12 +3,12 @@ title: PivotFilter klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 100
+weight: 140
 url: /sv/aspose.cells.pivot/pivotfilter/
 is_root: false
 ---
 ##  PivotFilter klass
-Representerar en PivotFilter i PivotFilter Samling.
+Representerar en PivotFilter i PivotFilter-samlingen.
 
 
 
@@ -17,15 +17,28 @@ Typen PivotFilter avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
+| [use_whole_day](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/use_whole_day) | Anger om hela dagar används i filtreringskriterierna.|
 | [auto_filter](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/auto_filter) | Hämtar autofiltret för pivotfiltret.|
 | [filter_type](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/filter_type) | Hämtar autofiltertypen för pivotfiltret.|
-| [field_index](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/field_index) | Hämtar fältindexet för pivotfiltret.|
-| [value1](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/value1) | Hämtar strängvärdet1 för etikettens pivotfilter.|
-| [value2](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/value2) |Hämtar strängvärdet2 för etikettens pivotfilter.|
-| [measure_fld_index](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/measure_fld_index) | Hämtar mätfältsindex för pivotfiltret.|
-| [member_property_field_index](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/member_property_field_index) | Hämtar medlemsegenskapsfältindex för pivotfiltret.|
+| [field_index](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/field_index) | Hämtar indexet för källfältet som detta pivotfilter tillämpas på.|
+| [filter_category](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/filter_category) | Hämtar kategorin för detta filter.|
+| [value1](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/value1) | Hämtar strängvärdet 1 för etikettpivotfiltret.|
+| [value2](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/value2) | Hämtar strängvärdet2 för etikettpivotfiltret.|
+| [measure_fld_index](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/measure_fld_index) | Hämtar måttfältsindexet för pivotfiltret.|
+| [value_field_index](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/value_field_index) | Hämtar index för värdefältet i värderegionen.|
+| [measure_cube_field_index](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/measure_cube_field_index) | Anger indexet för måttkubfältet.<br/>Den här egenskapen används endast av filter i OLAP-pivoter och anger vilket mått ett värdefilter ska tillämpas på.|
+| [member_property_field_index](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/member_property_field_index) | Hämtar medlemsegenskapsfältindexet för pivotfiltret.|
 | [name](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/name) | Hämtar namnet på pivotfiltret.|
 | [evaluation_order](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/evaluation_order) | Hämtar utvärderingsordningen för pivotfiltret.|
+
+
+###  Metoder
+| Metod| Beskrivning|
+| :- | :- |
+| [`get_top_10_value(self)`](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/get_top_10_value/#) | Hämtar topp 10-inställningen för filtret.|
+| [`get_labels(self)`](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/get_labels/#) | Hämtar etiketter från textningsfiltret.|
+| [`get_number_values(self)`](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/get_number_values/#) | Hämtar värden från talfiltret.|
+| [`get_date_time_values(self)`](/cells/python-net/sv/aspose.cells.pivot/pivotfilter/get_date_time_values/#) | Hämtar värden från talfiltret.|
 
 
 
@@ -72,10 +85,8 @@ pivot.add_field_to_area(PivotFieldType.ROW, "fruit")
 pivot.add_field_to_area(PivotFieldType.COLUMN, "year")
 pivot.add_field_to_area(PivotFieldType.DATA, "amount")
 pivot.pivot_table_style_type = PivotTableStyleType.PIVOT_TABLE_STYLE_MEDIUM10
-# Add PivotFilter
-index = pivot.pivot_filters.add(0, PivotFilterType.COUNT)
-filter = pivot.pivot_filters[index]
-filter.auto_filter.filter_top10(0, False, False, 2)
+# Add top 10 filter
+pivot.base_fields[0].filter_top10(0, PivotFilterType.COUNT, False, 2)
 pivot.refresh_data()
 pivot.calculate_data()
 # do your business

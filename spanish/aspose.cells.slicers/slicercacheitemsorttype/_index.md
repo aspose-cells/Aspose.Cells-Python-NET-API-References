@@ -17,10 +17,11 @@ El tipo SlicerCacheItemSortType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| ASCENDING | Tipo de clasificación ascendente|
-| DESCENDING | Tipo de clasificación descendente|
+| NATURAL | Orden de datos original.|
+| ASCENDING | Tipo de ordenación ascendente|
+| DESCENDING |Tipo de ordenamiento descendente|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.slicers](..)
+* módulo [`aspose.cells.slicers`](..)

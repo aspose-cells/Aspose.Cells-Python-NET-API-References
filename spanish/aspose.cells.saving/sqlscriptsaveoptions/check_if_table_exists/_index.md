@@ -3,13 +3,13 @@ title: check_if_table_exists propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 60
+weight: 70
 url: /es/aspose.cells.saving/sqlscriptsaveoptions/check_if_table_exists/
 is_root: false
 ---
 ##  check_if_table_exists propiedad
 
-Compruebe si el nombre de la tabla existe antes de crear
+Compruebe si el nombre de la tabla existe antes de crearla
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def check_if_table_exists(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.saving](../../)
-* clase [SqlScriptSaveOptions](/cells/python-net/es/aspose.cells.saving/sqlscriptsaveoptions)
+* módulo [`aspose.cells.saving`](../../)
+* clase [`SqlScriptSaveOptions`](/cells/python-net/es/aspose.cells.saving/sqlscriptsaveoptions)

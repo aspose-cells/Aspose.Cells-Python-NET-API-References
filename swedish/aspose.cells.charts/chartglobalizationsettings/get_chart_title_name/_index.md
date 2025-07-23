@@ -7,8 +7,8 @@ weight: 40
 url: /sv/aspose.cells.charts/chartglobalizationsettings/get_chart_title_name/
 is_root: false
 ---
-##  get_chart_title_name() {#}
-Får namnet på diagramtitel.
+##  get_chart_title_name(self) {#}
+Hämtar namnet på diagramtiteln.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Får namnet på diagramtitel.
 
 
 ```python
+
 def get_chart_title_name(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_chart_title_name(self):
 
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ChartGlobalizationSettings](/cells/python-net/sv/aspose.cells.charts/chartglobalizationsettings)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ChartGlobalizationSettings`](/cells/python-net/sv/aspose.cells.charts/chartglobalizationsettings)

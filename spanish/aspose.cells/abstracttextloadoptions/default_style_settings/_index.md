@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  default_style_settings propiedad
 
-Obtiene la configuración de estilo predeterminada para inicializar estilos del libro de trabajo
+Obtiene la configuración de estilo predeterminada para inicializar los estilos del libro de trabajo.
 ###  Definición:
 ```python
 @property
@@ -18,6 +18,6 @@ def default_style_settings(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [AbstractTextLoadOptions](/cells/python-net/es/aspose.cells/abstracttextloadoptions)
-* clase [DefaultStyleSettings](/cells/python-net/es/aspose.cells/defaultstylesettings)
+* módulo [`aspose.cells`](../../)
+* clase [`AbstractTextLoadOptions`](/cells/python-net/es/aspose.cells/abstracttextloadoptions)
+* clase [`DefaultStyleSettings`](/cells/python-net/es/aspose.cells/defaultstylesettings)

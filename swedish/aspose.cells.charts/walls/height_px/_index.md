@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height_px fastighet
 
-Hämtar höjden från topp till botten i enheter av pixlar efter anrop av metoden Chart.Calculate().
+Hämtar höjden från topp till botten i pixlar efter anrop av metoden Chart.Calculate().
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def height_px(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Walls](/cells/python-net/sv/aspose.cells.charts/walls)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Walls`](/cells/python-net/sv/aspose.cells.charts/walls)

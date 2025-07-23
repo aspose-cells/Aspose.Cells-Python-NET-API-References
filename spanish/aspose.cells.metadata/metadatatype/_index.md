@@ -19,9 +19,9 @@ El tipo MetadataType expone los siguientes miembros:
 | :- | :- |
 | ENCRYPTION | Cifra el archivo.|
 | DECRYPTION | Descifra el archivo.|
-| DOCUMENT_PROPERTIES | Carga las propiedades del archivo.|
+| DOCUMENT_PROPERTIES | Cargar las propiedades del archivo.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.metadata](..)
+* módulo [`aspose.cells.metadata`](..)

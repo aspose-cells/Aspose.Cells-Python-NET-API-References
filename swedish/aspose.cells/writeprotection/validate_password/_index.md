@@ -7,7 +7,7 @@ weight: 20
 url: /sv/aspose.cells/writeprotection/validate_password/
 is_root: false
 ---
-##  validate_password(password) {#str}
+##  validate_password(self, password) {#str}
 Returnerar sant om det angivna lösenordet är detsamma som skrivskyddslösenordet som filen skyddades med.
 
 
@@ -17,6 +17,7 @@ Returnerar sant om det angivna lösenordet är detsamma som skrivskyddslösenord
 
 
 ```python
+
 def validate_password(self, password):
     ...
 ```
@@ -29,5 +30,5 @@ def validate_password(self, password):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WriteProtection](/cells/python-net/sv/aspose.cells/writeprotection)
+* modul [`aspose.cells`](../../)
+* klass [`WriteProtection`](/cells/python-net/sv/aspose.cells/writeprotection)

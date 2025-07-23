@@ -8,7 +8,7 @@ url: /sv/aspose.cells.drawing.texts/linespacesizetype/
 is_root: false
 ---
 ##  LineSpaceSizeType uppräkning
-Representerar enhetstypen för radutrymmesstorlek.
+Representerar enhetstypen för linjeutrymmesstorleken.
 
 
 
@@ -17,10 +17,10 @@ Typen LineSpaceSizeType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| PERCENTAGE | Representerar i enhet av en procentandel av textstorleken.|
-| POINTS | Representerar i poängenhet.|
+| PERCENTAGE | Representerar i procent av textstorleken.|
+| POINTS | Representerar i enheten poäng.|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](..)
+* modul [`aspose.cells.drawing.texts`](..)

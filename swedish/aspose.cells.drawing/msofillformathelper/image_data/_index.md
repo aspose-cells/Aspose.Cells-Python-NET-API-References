@@ -21,5 +21,5 @@ def image_data(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [MsoFillFormatHelper](/cells/python-net/sv/aspose.cells.drawing/msofillformathelper)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`MsoFillFormatHelper`](/cells/python-net/sv/aspose.cells.drawing/msofillformathelper)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  image_bytes fastighet
 
-Indikerar bildbytes av renderat diagram, form vid rendering.
+Indikerar bildbyte för det renderade diagrammet och formen vid rendering.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def image_bytes(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [DrawObject](/cells/python-net/sv/aspose.cells.rendering/drawobject)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`DrawObject`](/cells/python-net/sv/aspose.cells.rendering/drawobject)

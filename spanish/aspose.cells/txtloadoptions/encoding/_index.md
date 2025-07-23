@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  encoding propiedad
 
-Obtiene y establece el valor predeterminado encoding. Solo se aplica al archivo csv.
+Obtiene y establece el valor predeterminado encoding. Solo se aplica a archivos csv.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def encoding(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [TxtLoadOptions](/cells/python-net/es/aspose.cells/txtloadoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`TxtLoadOptions`](/cells/python-net/es/aspose.cells/txtloadoptions)

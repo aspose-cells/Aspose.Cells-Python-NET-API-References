@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  right_angle_axes fastighet
 
-Sant om diagrammets axlar är i rät vinkel. Gäller endast för 3-D-diagram (förutom Column3D och 3-D-cirkeldiagram).
+Sant om diagramaxlarna är i rät vinkel. Gäller endast för 3D-diagram (förutom kolumndiagram och 3D-cirkeldiagram).
 
 ###  Anmärkningar
 
-Om den här egenskapen är True ignoreras egenskapen Perspective.
+Om den här egenskapen är True ignoreras Perspektiv-egenskapen.
 ###  Definition:
 ```python
 @property

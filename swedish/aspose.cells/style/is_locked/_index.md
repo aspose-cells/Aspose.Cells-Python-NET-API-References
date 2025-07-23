@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  is_locked fastighet
 
-Hämtar eller ställer in ett värde som anger om en cell kan ändras eller inte.
+Hämtar eller anger ett värde som anger om en cell kan ändras eller inte.
 
 ###  Anmärkningar
 
-Låsning av celler har ingen effekt om inte kalkylbladet är skyddat.
+Att låsa celler har ingen effekt om inte kalkylbladet är skyddat.
 ###  Definition:
 ```python
 @property

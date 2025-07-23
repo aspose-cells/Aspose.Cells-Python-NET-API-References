@@ -3,7 +3,7 @@ title: name propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 90
+weight: 150
 url: /es/aspose.cells.pivot/pivotfilter/name/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.pivot](../../)
-* clase [PivotFilter](/cells/python-net/es/aspose.cells.pivot/pivotfilter)
+* módulo [`aspose.cells.pivot`](../../)
+* clase [`PivotFilter`](/cells/python-net/es/aspose.cells.pivot/pivotfilter)

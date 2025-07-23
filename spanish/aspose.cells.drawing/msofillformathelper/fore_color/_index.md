@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fore_color propiedad
 
-Obtiene y establece el color de relleno de primer plano.
+Obtiene y establece el color de relleno.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def fore_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [MsoFillFormatHelper](/cells/python-net/es/aspose.cells.drawing/msofillformathelper)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`MsoFillFormatHelper`](/cells/python-net/es/aspose.cells.drawing/msofillformathelper)

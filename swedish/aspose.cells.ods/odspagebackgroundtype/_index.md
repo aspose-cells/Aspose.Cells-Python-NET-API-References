@@ -19,9 +19,9 @@ Typen OdsPageBackgroundType avslöjar följande medlemmar:
 | :- | :- |
 | NONE | Ingen bakgrund.|
 | COLOR | Formaterar bakgrunden med färg.|
-| GRAPHIC | Formaterar bakgrunden med bild.|
+| GRAPHIC | Formaterar bakgrunden med bilden.|
 
 
 
 ###  Se även
-* modul [aspose.cells.ods](..)
+* modul [`aspose.cells.ods`](..)

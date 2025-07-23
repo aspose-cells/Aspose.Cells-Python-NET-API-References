@@ -21,5 +21,5 @@ def security_descriptor(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ProtectedRange](/cells/python-net/es/aspose.cells/protectedrange)
+* módulo [`aspose.cells`](../../)
+* clase [`ProtectedRange`](/cells/python-net/es/aspose.cells/protectedrange)

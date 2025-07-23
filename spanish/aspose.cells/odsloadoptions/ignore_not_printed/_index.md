@@ -13,7 +13,7 @@ Ignore los datos que no se imprimen si imprime directamente el archivo
 
 ###  Observaciones
 
-Solo para archivo xlsx.
+Sólo para archivos xlsx.
 ###  Definición:
 ```python
 @property
@@ -25,5 +25,5 @@ def ignore_not_printed(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [OdsLoadOptions](/cells/python-net/es/aspose.cells/odsloadoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`OdsLoadOptions`](/cells/python-net/es/aspose.cells/odsloadoptions)

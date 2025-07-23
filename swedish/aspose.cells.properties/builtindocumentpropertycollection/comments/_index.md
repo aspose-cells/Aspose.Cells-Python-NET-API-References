@@ -3,7 +3,7 @@ title: comments fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 130
+weight: 140
 url: /sv/aspose.cells.properties/builtindocumentpropertycollection/comments/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def comments(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.properties](../../)
-* klass [BuiltInDocumentPropertyCollection](/cells/python-net/sv/aspose.cells.properties/builtindocumentpropertycollection)
+* modul [`aspose.cells.properties`](../../)
+* klass [`BuiltInDocumentPropertyCollection`](/cells/python-net/sv/aspose.cells.properties/builtindocumentpropertycollection)

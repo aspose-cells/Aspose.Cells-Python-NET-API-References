@@ -3,7 +3,7 @@ title: is_text_wrapped propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 240
+weight: 300
 url: /es/aspose.cells.charts/displayunitlabel/is_text_wrapped/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_text_wrapped(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [DisplayUnitLabel](/cells/python-net/es/aspose.cells.charts/displayunitlabel)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`DisplayUnitLabel`](/cells/python-net/es/aspose.cells.charts/displayunitlabel)

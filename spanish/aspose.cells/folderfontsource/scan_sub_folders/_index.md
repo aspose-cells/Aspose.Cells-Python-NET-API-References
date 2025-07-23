@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  scan_sub_folders propiedad
 
-Determina si escanear o no las subcarpetas.
+Determina si se deben escanear o no las subcarpetas.
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def scan_sub_folders(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FolderFontSource](/cells/python-net/es/aspose.cells/folderfontsource)
+* módulo [`aspose.cells`](../../)
+* clase [`FolderFontSource`](/cells/python-net/es/aspose.cells/folderfontsource)

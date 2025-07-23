@@ -3,12 +3,12 @@ title: ThemeColor clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1500
+weight: 1400
 url: /es/aspose.cells/themecolor/
 is_root: false
 ---
 ##  ThemeColor clase
-Representa un color de tema.
+Representa un color temático.
 
 
 
@@ -17,14 +17,14 @@ El tipo ThemeColor expone los siguientes miembros:
 ###  Constructores
 | Constructor| Descripción|
 | :- | :- |
-| [__init__](/cells/python-net/es/aspose.cells/themecolor/__init__/#aspose.cells.ThemeColorType-float) |  |
+| [`__init__(self, type, tint)`](/cells/python-net/es/aspose.cells/themecolor/__init__/#aspose.cells.themecolortype-float) |  |
 
 
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
 | [color_type](/cells/python-net/es/aspose.cells/themecolor/color_type) | Obtiene y establece el tipo de tema.|
-| [tint](/cells/python-net/es/aspose.cells/themecolor/tint) | Obtiene y establece el valor de tinte.|
+| [tint](/cells/python-net/es/aspose.cells/themecolor/tint) | Obtiene y establece el valor del tinte.|
 
 
 

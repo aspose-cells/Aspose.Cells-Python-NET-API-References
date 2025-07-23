@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_size fastighet
 
-Storleken (i punkter) på teckensnittet som används i WordArt.
+Storleken (i punkter) på teckensnittet som används i WordArt-objektet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_size(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [TextEffectFormat](/cells/python-net/sv/aspose.cells.drawing/texteffectformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`TextEffectFormat`](/cells/python-net/sv/aspose.cells.drawing/texteffectformat)

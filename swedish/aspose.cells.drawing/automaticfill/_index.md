@@ -8,12 +8,11 @@ url: /sv/aspose.cells.drawing/automaticfill/
 is_root: false
 ---
 ##  AutomaticFill klass
-representerar automatisk fyllning.
+representerar automatisk påfyllning.
 
 
 
-**Arv:** [AutomaticFill](/cells/python-net/aspose.cells.drawing/automaticfill) → 
-[Fill](/cells/python-net/sv/aspose.cells.drawing/fill)
+**Arv:** [`AutomaticFill`](/cells/python-net/sv/aspose.cells.drawing/automaticfill)
 
 
 
@@ -21,6 +20,5 @@ Typen AutomaticFill avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
-* klass [AutomaticFill](/cells/python-net/sv/aspose.cells.drawing/automaticfill)
-* klass [Fill](/cells/python-net/sv/aspose.cells.drawing/fill)
+* modul [`aspose.cells.drawing`](..)
+* klass [`AutomaticFill`](/cells/python-net/sv/aspose.cells.drawing/automaticfill)

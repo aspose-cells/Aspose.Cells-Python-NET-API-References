@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  light_angle fastighet
 
-Får och ställer in vinkeln på extruderingsljusen.
+Hämtar och ställer in vinkeln på extruderingsljusen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def light_angle(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ThreeDFormat](/cells/python-net/sv/aspose.cells.drawing/threedformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ThreeDFormat`](/cells/python-net/sv/aspose.cells.drawing/threedformat)

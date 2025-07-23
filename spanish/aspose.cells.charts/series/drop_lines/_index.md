@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  drop_lines propiedad
 
-Devuelve un objeto [`Line`](/cells/python-net/es/aspose.cells.drawing/line) que representa las líneas de colocación de una serie en el gráfico de líneas o de áreas.
-Se aplica solo a gráficos de líneas o de áreas.
+Devuelve un objeto [`Line`](/cells/python-net/es/aspose.cells.drawing/line) que representa las líneas de caída de una serie en el gráfico de líneas o el gráfico de áreas.
+Se aplica únicamente a gráficos de líneas o de áreas.
 ###  Definición:
 ```python
 @property

@@ -21,5 +21,5 @@ def key_length(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.metadata](../../)
-* klass [MetadataOptions](/cells/python-net/sv/aspose.cells.metadata/metadataoptions)
+* modul [`aspose.cells.metadata`](../../)
+* klass [`MetadataOptions`](/cells/python-net/sv/aspose.cells.metadata/metadataoptions)

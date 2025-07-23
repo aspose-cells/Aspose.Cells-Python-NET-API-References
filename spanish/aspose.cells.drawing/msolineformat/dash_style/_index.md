@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  dash_style propiedad
 
-Obtiene o establece el estilo de guión de la línea especificada.
+Obtiene o establece el estilo de guión para la línea especificada.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def dash_style(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [MsoLineDashStyle](/cells/python-net/es/aspose.cells.drawing/msolinedashstyle)
-* clase [MsoLineFormat](/cells/python-net/es/aspose.cells.drawing/msolineformat)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`MsoLineDashStyle`](/cells/python-net/es/aspose.cells.drawing/msolinedashstyle)
+* clase [`MsoLineFormat`](/cells/python-net/es/aspose.cells.drawing/msolineformat)

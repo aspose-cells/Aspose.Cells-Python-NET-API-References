@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text fastighet
 
-Får objektets namn text.
+Hämtar namnet text på objektet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Name](/cells/python-net/sv/aspose.cells/name)
+* modul [`aspose.cells`](../../)
+* klass [`Name`](/cells/python-net/sv/aspose.cells/name)

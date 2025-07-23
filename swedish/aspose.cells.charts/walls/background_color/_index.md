@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  background_color fastighet
 
-Hämtar eller ställer in bakgrundsfärgen för [Area](/cells/python-net/sv/aspose.cells.drawing/area).
+Hämtar eller anger bakgrundsfärgen för [`Area`](/cells/python-net/sv/aspose.cells.drawing/area).
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def background_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Area](/cells/python-net/sv/aspose.cells.drawing/area)
-* klass [Walls](/cells/python-net/sv/aspose.cells.charts/walls)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Area`](/cells/python-net/sv/aspose.cells.drawing/area)
+* klass [`Walls`](/cells/python-net/sv/aspose.cells.charts/walls)

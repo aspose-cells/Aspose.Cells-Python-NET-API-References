@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border fastighet
 
-Representerar border av serieobjekt.
+Representerar border för Series-objektet.
 ###  Definition:
 ```python
 @property

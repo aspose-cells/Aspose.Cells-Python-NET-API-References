@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  scan_sub_folders fastighet
 
-Bestämmer om undermapparna ska skannas eller inte.
+Avgör om undermapparna ska genomsökas eller inte.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def scan_sub_folders(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FolderFontSource](/cells/python-net/sv/aspose.cells/folderfontsource)
+* modul [`aspose.cells`](../../)
+* klass [`FolderFontSource`](/cells/python-net/sv/aspose.cells/folderfontsource)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border_color_type fastighet
 
-Hämtar om samma kantfärg ska användas som positiva datafält.
+Hämtar om samma kantfärg ska användas som positiva datastaplar.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def border_color_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DataBarNegativeColorType](/cells/python-net/sv/aspose.cells/databarnegativecolortype)
-* klass [NegativeBarFormat](/cells/python-net/sv/aspose.cells/negativebarformat)
+* modul [`aspose.cells`](../../)
+* klass [`DataBarNegativeColorType`](/cells/python-net/sv/aspose.cells/databarnegativecolortype)
+* klass [`NegativeBarFormat`](/cells/python-net/sv/aspose.cells/negativebarformat)

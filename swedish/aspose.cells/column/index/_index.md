@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  index fastighet
 
-Hämtar index i denna kolumn.
+Hämtar index för den här kolumnen.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def index(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Column](/cells/python-net/sv/aspose.cells/column)
+* modul [`aspose.cells`](../../)
+* klass [`Column`](/cells/python-net/sv/aspose.cells/column)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  filter_type fastighet
 
-Hämtar och ställer in typen för filtreringsdata.
+Hämtar och anger typen för filtrering av data.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def filter_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FilterColumn](/cells/python-net/sv/aspose.cells/filtercolumn)
-* klass [FilterType](/cells/python-net/sv/aspose.cells/filtertype)
+* modul [`aspose.cells`](../../)
+* klass [`FilterColumn`](/cells/python-net/sv/aspose.cells/filtercolumn)
+* klass [`FilterType`](/cells/python-net/sv/aspose.cells/filtertype)

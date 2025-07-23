@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color fastighet
 
-Får eller ställer in färgen.
+Hämtar eller ställer in färgen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [SolidFill](/cells/python-net/sv/aspose.cells.drawing/solidfill)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`SolidFill`](/cells/python-net/sv/aspose.cells.drawing/solidfill)

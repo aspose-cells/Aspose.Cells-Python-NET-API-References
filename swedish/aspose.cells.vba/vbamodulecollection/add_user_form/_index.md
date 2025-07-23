@@ -7,8 +7,8 @@ weight: 40
 url: /sv/aspose.cells.vba/vbamodulecollection/add_user_form/
 is_root: false
 ---
-##  add_user_form {#str-str-bytes}
-Infoga användarformulär i VBA Project.
+##  add_user_form(self, name, codes, designer_storage) {#str-str-bytes}
+Infoga användarformulär i VBA-projekt.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Infoga användarformulär i VBA Project.
 
 
 ```python
+
 def add_user_form(self, name, codes, designer_storage):
     ...
 ```

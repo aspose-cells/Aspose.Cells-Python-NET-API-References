@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells/datasorterkeycollection/__init__/
 is_root: false
 ---
-##  DataSorterKeyCollection() {#}
+##  \_\_init\_\_(yo mismo){#}
 Construye una nueva instancia de DataSorterKeyCollection
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [DataSorterKeyCollection](/cells/python-net/es/aspose.cells/datasorterkeycollection)
+* módulo [`aspose.cells`](../../)
+* clase [`DataSorterKeyCollection`](/cells/python-net/es/aspose.cells/datasorterkeycollection)

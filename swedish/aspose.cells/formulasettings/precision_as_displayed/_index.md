@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  precision_as_displayed fastighet
 
-Om precisionen för det beräknade resultatet ska ställas in när de visas när formler beräknas
+Huruvida precisionen för det beräknade resultatet ska ställas in så som de visas vid beräkning av formler
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def precision_as_displayed(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormulaSettings](/cells/python-net/sv/aspose.cells/formulasettings)
+* modul [`aspose.cells`](../../)
+* klass [`FormulaSettings`](/cells/python-net/sv/aspose.cells/formulasettings)

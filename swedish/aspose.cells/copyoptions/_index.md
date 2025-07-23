@@ -3,7 +3,7 @@ title: CopyOptions klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 370
+weight: 340
 url: /sv/aspose.cells/copyoptions/
 is_root: false
 ---
@@ -17,19 +17,19 @@ Typen CopyOptions avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [__init__](/cells/python-net/sv/aspose.cells/copyoptions/__init__/#) | CopyOptions-konstruktör.|
+| [`__init__(self)`](/cells/python-net/sv/aspose.cells/copyoptions/__init__/#) | CopyOptions-konstruktorn.|
 
 
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [keep_macros](/cells/python-net/sv/aspose.cells/copyoptions/keep_macros) | Indikerar om makron behålls;|
-| [extend_to_adjacent_range](/cells/python-net/sv/aspose.cells/copyoptions/extend_to_adjacent_range) | Anger om intervallet utökas när intervallet kopieras till intilliggande intervall.|
+| [keep_macros](/cells/python-net/sv/aspose.cells/copyoptions/keep_macros) |Anger om makron ska behållas;|
+| [extend_to_adjacent_range](/cells/python-net/sv/aspose.cells/copyoptions/extend_to_adjacent_range) | Anger om områden ska utökas när området kopieras till ett angränsande område.|
 | [copy_names](/cells/python-net/sv/aspose.cells/copyoptions/copy_names) | Anger om namnen kopieras.|
-| [copy_invalid_formulas_as_values](/cells/python-net/sv/aspose.cells/copyoptions/copy_invalid_formulas_as_values) | Om formeln inte är giltig för måldestinationen, kopiera endast värden.|
+| [copy_invalid_formulas_as_values](/cells/python-net/sv/aspose.cells/copyoptions/copy_invalid_formulas_as_values) | Om formeln inte är giltig för destinationen, kopiera endast värden.|
 | [column_character_width](/cells/python-net/sv/aspose.cells/copyoptions/column_character_width) | Anger om kolumnbredden kopieras i teckenenhet.|
-| [refer_to_sheet_with_same_name](/cells/python-net/sv/aspose.cells/copyoptions/refer_to_sheet_with_same_name) | I ms excel, när du kopierar formler som hänvisar till andra kalkylblad medan du kopierar ett kalkylblad till ett annat,<br/>de kopierade formlerna bör referera till källarbetsboken.<br/>Men i vissa situationer kan användaren behöva de kopierade formlerna hänvisa till kalkylblad med samma namn<br/>samma arbetsbok, till exempel när dessa kalkylblad har kopierats före denna kopieringsoperation,<br/> då bör denna egenskap bevaras som sann.|
-| [refer_to_destination_sheet](/cells/python-net/sv/aspose.cells/copyoptions/refer_to_destination_sheet) | När du kopierar intervallet i samma fil och diagrammet hänvisar till källarket,<br/>Falskt betyder att det kopierade diagrammets datakälla inte kommer att ändras.<br/> Sant betyder att det kopierade diagrammets datakälla refererar till målarket.|
+| [refer_to_sheet_with_same_name](/cells/python-net/sv/aspose.cells/copyoptions/refer_to_sheet_with_same_name) | I MS Excel, när man kopierar formler som refererar till andra kalkylblad samtidigt som man kopierar ett kalkylblad till ett annat,<br/>De kopierade formlerna ska referera till källarbetsboken.<br/>I vissa situationer kan dock användaren behöva att de kopierade formlerna refererar till kalkylblad med samma namn.<br/>i samma arbetsbok, till exempel när dessa arbetsblad har kopierats före denna kopieringsoperation,<br/> då bör denna egenskap behållas som sann.|
+| [refer_to_destination_sheet](/cells/python-net/sv/aspose.cells/copyoptions/refer_to_destination_sheet) | När man kopierar intervallet i samma fil och diagrammet refererar till källarket,<br/>Falskt betyder att det kopierade diagrammets datakälla inte kommer att ändras.<br/> Sant betyder att det kopierade diagrammets datakälla refererar till målarket.|
 
 
 

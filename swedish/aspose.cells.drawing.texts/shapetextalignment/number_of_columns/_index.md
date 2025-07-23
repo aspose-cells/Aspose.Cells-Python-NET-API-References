@@ -3,13 +3,13 @@ title: number_of_columns fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 80
+weight: 90
 url: /sv/aspose.cells.drawing.texts/shapetextalignment/number_of_columns/
 is_root: false
 ---
 ##  number_of_columns fastighet
 
-Hämtar och ställer in antalet kolumner med text i den avgränsande rektangeln.
+Hämtar och anger antalet textkolumner i den avgränsande rektangeln.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def number_of_columns(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [ShapeTextAlignment](/cells/python-net/sv/aspose.cells.drawing.texts/shapetextalignment)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`ShapeTextAlignment`](/cells/python-net/sv/aspose.cells.drawing.texts/shapetextalignment)

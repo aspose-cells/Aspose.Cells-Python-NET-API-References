@@ -1,5 +1,5 @@
 ---
-title: set_font_sources método
+title: método set_font_sources
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 60
 url: /es/aspose.cells/individualfontconfigs/set_font_sources/
 is_root: false
 ---
-##  set_font_sources(sources) {#list}
-Establece las fuentes de las fuentes.
+##  set_font_sources(self, sources) {#list}
+
 
 
 
 ```python
+
 def set_font_sources(self, sources):
     ...
 ```
@@ -20,10 +21,10 @@ def set_font_sources(self, sources):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| sources | list | Una matriz de fuentes que contienen fuentes TrueType.|
+| sources | list |  |
 
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [IndividualFontConfigs](/cells/python-net/es/aspose.cells/individualfontconfigs)
+* módulo [`aspose.cells`](../../)
+* clase [`IndividualFontConfigs`](/cells/python-net/es/aspose.cells/individualfontconfigs)

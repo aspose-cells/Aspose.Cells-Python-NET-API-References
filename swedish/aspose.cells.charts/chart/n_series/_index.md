@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  n_series fastighet
 
-Får en [`SeriesCollection`](/cells/python-net/sv/aspose.cells.charts/seriescollection)-samling som representerar dataserien i diagrammet.
+Hämtar en [`SeriesCollection`](/cells/python-net/sv/aspose.cells.charts/seriescollection)-samling som representerar dataserien i diagrammet.
 ###  Definition:
 ```python
 @property

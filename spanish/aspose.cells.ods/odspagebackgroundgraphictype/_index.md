@@ -17,11 +17,11 @@ El tipo OdsPageBackgroundGraphicType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| POSITION | Establecer la imagen en una posición específica.|
+| POSITION | Establezca la imagen en una posición específica.|
 | AREA | Estirar la imagen.|
-| TILE |Repite y repite la imagen.|
+| TILE | Repite y repite la imagen.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.ods](..)
+* módulo [`aspose.cells.ods`](..)

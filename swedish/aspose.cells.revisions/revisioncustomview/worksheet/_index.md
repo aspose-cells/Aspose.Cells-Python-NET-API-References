@@ -8,8 +8,6 @@ url: /sv/aspose.cells.revisions/revisioncustomview/worksheet/
 is_root: false
 ---
 ##  worksheet fastighet
-
-Får worksheet.
 ###  Definition:
 ```python
 @property
@@ -18,6 +16,6 @@ def worksheet(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionCustomView](/cells/python-net/sv/aspose.cells.revisions/revisioncustomview)
-* klass [Worksheet](/cells/python-net/sv/aspose.cells/worksheet)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionCustomView`](/cells/python-net/sv/aspose.cells.revisions/revisioncustomview)
+* klass [`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet)

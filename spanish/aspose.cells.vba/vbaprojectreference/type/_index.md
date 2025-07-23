@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.vba](../../)
-* clase [VbaProjectReference](/cells/python-net/es/aspose.cells.vba/vbaprojectreference)
-* clase [VbaProjectReferenceType](/cells/python-net/es/aspose.cells.vba/vbaprojectreferencetype)
+* módulo [`aspose.cells.vba`](../../)
+* clase [`VbaProjectReference`](/cells/python-net/es/aspose.cells.vba/vbaprojectreference)
+* clase [`VbaProjectReferenceType`](/cells/python-net/es/aspose.cells.vba/vbaprojectreferencetype)

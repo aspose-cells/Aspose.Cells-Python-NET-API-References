@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type fastighet
 
-Hämtar datatidsgruppen type.
+Hämtar data- och tidsgruppen type.
 ###  Definition:
 ```python
 @property

@@ -3,13 +3,13 @@ title: refresh_chart_cache fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 100
+weight: 130
 url: /sv/aspose.cells/odssaveoptions/refresh_chart_cache/
 is_root: false
 ---
 ##  refresh_chart_cache fastighet
 
-Anger om diagramcachedata uppdateras
+Anger om uppdatering av diagramcachedata ska ske
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  axis_color propiedad
 
-Obtiene el color del eje de las celdas con formato condicional como barras de datos.
+Obtiene el color del eje para las celdas con formato condicional como barras de datos.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def axis_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [DataBar](/cells/python-net/es/aspose.cells/databar)
+* módulo [`aspose.cells`](../../)
+* clase [`DataBar`](/cells/python-net/es/aspose.cells/databar)

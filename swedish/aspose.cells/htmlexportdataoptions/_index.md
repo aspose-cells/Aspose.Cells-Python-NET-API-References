@@ -3,12 +3,12 @@ title: HtmlExportDataOptions uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2220
+weight: 2160
 url: /sv/aspose.cells/htmlexportdataoptions/
 is_root: false
 ---
 ##  HtmlExportDataOptions uppräkning
-Representerar alternativen för att exportera html-data.
+Representerar alternativen för export av HTML-data.
 
 
 
@@ -17,7 +17,7 @@ Typen HtmlExportDataOptions avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| TABLE | Exportera fil till html som endast innehåller tabelldel.|
+| TABLE | Exportera filen till html som bara innehåller tabelldelen.|
 | ALL | Exportera all data till html.|
 
 

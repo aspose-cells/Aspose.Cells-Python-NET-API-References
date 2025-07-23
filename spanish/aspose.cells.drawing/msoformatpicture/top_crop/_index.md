@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  top_crop propiedad
 
-Representa la ubicación de la parte superior del rectángulo de recorte expresada como una proporción de la altura de la imagen.
+Representa la ubicación de la parte superior del rectángulo de recorte expresada como una relación de la altura de la imagen.
 ###  Definición:
 ```python
 @property

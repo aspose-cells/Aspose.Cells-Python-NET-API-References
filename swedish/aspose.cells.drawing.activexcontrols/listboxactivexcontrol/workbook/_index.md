@@ -8,8 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol/workbook/
 is_root: false
 ---
 ##  workbook fastighet
-
-Hämtar objektet [ActiveXControlBase.workbook](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook).
 ###  Definition:
 ```python
 @property
@@ -18,6 +16,6 @@ def workbook(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ListBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
-* klass [Workbook](/cells/python-net/sv/aspose.cells/workbook)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ListBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* klass [`Workbook`](/cells/python-net/sv/aspose.cells/workbook)

@@ -7,8 +7,8 @@ weight: 180
 url: /sv/aspose.cells/worksheetcollection/register_add_in_function/
 is_root: false
 ---
-##  register_add_in_function {#int-str}
-Lägger till tilläggsfunktion i arbetsboken
+##  register_add_in_function(self, id, function_name) {#int-str}
+Lägger till addin-funktionen i arbetsboken
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ URL till tilläggsfilen som innehåller tilläggsfunktioner
 
 
 ```python
+
 def register_add_in_function(self, id, function_name):
     ...
 ```
@@ -24,20 +25,21 @@ def register_add_in_function(self, id, function_name):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| id | int | ID för data som innehåller tilläggsfunktioner,<br/> kan fås av det första samtalet på [`WorksheetCollection.register_add_in_function`](/cells/python-net/sv/aspose.cells/worksheetcollection/register_add_in_function) för samma tilläggsfil.|
-| function_name | str | tilläggsfunktionens namn|
+| id | int |ID för data som innehåller tilläggsfunktioner,<br/> kan erhållas genom det första anropet på [`WorksheetCollection.register_add_in_function`](/cells/python-net/sv/aspose.cells/worksheetcollection/register_add_in_function) för samma tilläggsfil.|
+| function_name | str | namnet på tilläggsfunktionen|
 
 
-##  register_add_in_function {#str-str-bool}
-Lägger till tilläggsfunktion i arbetsboken
+##  register_add_in_function(self, add_in_file, function_name, lib) {#str-str-bool}
+Lägger till addin-funktionen i arbetsboken
 
 
 ###  Returnerar
 
-ID för data som innehåller en given tilläggsfunktion
+ID för data som innehåller den givna tilläggsfunktionen
 
 
 ```python
+
 def register_add_in_function(self, add_in_file, function_name, lib):
     ...
 ```
@@ -46,8 +48,8 @@ def register_add_in_function(self, add_in_file, function_name, lib):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | add_in_file | str | filen innehåller tilläggsfunktionerna|
-| function_name | str | tilläggsfunktionens namn|
-| lib | bool | om den givna tilläggsfilen finns i katalogen eller underkatalogen till Workbook Add-In-biblioteket.<br/>Denna flagga träder i kraft och gör skillnad när given addInFile har en relativ sökväg:<br/> true anger att sökvägen är relativ till tilläggsbiblioteket och false anger att sökvägen är relativ till denna arbetsbok.|
+| function_name | str | namnet på tilläggsfunktionen|
+| lib | bool | om den givna tilläggsfilen finns i katalogen eller underkatalogen till arbetsbokstilläggsbiblioteket.<br/>Denna flagga träder i kraft och gör skillnad när den angivna addInFile har en relativ sökväg:<br/> sant anger att sökvägen är relativ till tilläggsbiblioteket och falskt anger att sökvägen är relativ till den här arbetsboken.|
 
 
 

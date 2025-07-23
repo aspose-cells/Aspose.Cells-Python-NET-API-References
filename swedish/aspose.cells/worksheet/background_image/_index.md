@@ -3,13 +3,13 @@ title: background_image fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 380
+weight: 400
 url: /sv/aspose.cells/worksheet/background_image/
 is_root: false
 ---
 ##  background_image fastighet
 
-Hämtar och ställer in kalkylbladsbakgrundsbild.
+Hämtar och ställer in bakgrundsbild för kalkylblad.
 ###  Definition:
 ```python
 @property

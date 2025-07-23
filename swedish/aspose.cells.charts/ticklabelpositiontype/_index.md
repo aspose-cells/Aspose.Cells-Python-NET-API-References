@@ -8,7 +8,7 @@ url: /sv/aspose.cells.charts/ticklabelpositiontype/
 is_root: false
 ---
 ##  TickLabelPositionType uppräkning
-Representerar positionstypen för bockmarkeringsetiketter på den angivna axeln.
+Representerar positionstypen för skalmärkesetiketter på den angivna axeln.
 
 
 
@@ -19,8 +19,8 @@ Typen TickLabelPositionType avslöjar följande medlemmar:
 | :- | :- |
 | HIGH | Positionstypen är hög.|
 | LOW | Positionstypen är låg.|
-| NEXT_TO_AXIS | Positionstyp är bredvid axel.|
-| NONE | Positionstyp är ingen.|
+| NEXT_TO_AXIS | Positionstypen finns bredvid axeln.|
+| NONE | Positionstypen är ingen.|
 
 
 

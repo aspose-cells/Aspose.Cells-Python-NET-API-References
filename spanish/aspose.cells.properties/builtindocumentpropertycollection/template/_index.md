@@ -3,7 +3,7 @@ title: template propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 370
+weight: 380
 url: /es/aspose.cells.properties/builtindocumentpropertycollection/template/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def template(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.properties](../../)
-* clase [BuiltInDocumentPropertyCollection](/cells/python-net/es/aspose.cells.properties/builtindocumentpropertycollection)
+* módulo [`aspose.cells.properties`](../../)
+* clase [`BuiltInDocumentPropertyCollection`](/cells/python-net/es/aspose.cells.properties/builtindocumentpropertycollection)

@@ -24,4 +24,4 @@ Typen MetadataType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.metadata](..)
+* modul [`aspose.cells.metadata`](..)

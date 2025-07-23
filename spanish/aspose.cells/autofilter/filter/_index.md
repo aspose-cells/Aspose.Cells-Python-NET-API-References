@@ -1,5 +1,5 @@
 ---
-title: filter método
+title: método filter
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 90
 url: /es/aspose.cells/autofilter/filter/
 is_root: false
 ---
-##  filter(field_index, criteria) {#int-str}
+##  filter(self, field_index, criteria) {#int-str}
 Filtra una lista con criterios específicos.
 
 
 
 ```python
+
 def filter(self, field_index, criteria):
     ...
 ```
@@ -29,5 +30,5 @@ Aspose.Cells eliminará todas las demás configuraciones filter en este campo co
 
 ###  Ver también
 
-* módulo [aspose.cells](../../)
-* clase [AutoFilter](/cells/python-net/es/aspose.cells/autofilter)
+* módulo [`aspose.cells`](../../)
+* clase [`AutoFilter`](/cells/python-net/es/aspose.cells/autofilter)

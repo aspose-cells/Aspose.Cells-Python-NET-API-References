@@ -3,20 +3,21 @@ title: get_row metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 440
+weight: 480
 url: /sv/aspose.cells/cells/get_row/
 is_root: false
 ---
-##  get_row {#int}
-Hämtar elementet [`Row`](/cells/python-net/sv/aspose.cells/row) vid angivet cellradsindex.
+##  get_row(self, row) {#int}
+Hämtar elementet [`Row`](/cells/python-net/sv/aspose.cells/row) vid det angivna cellradsindexet.
 
 
 ###  Returnerar
 
-Om radobjektet finns returnera Row-objekt, annars returneras null.
+Om radobjektet existerar returnera radobjektet, annars returnera null.
 
 
 ```python
+
 def get_row(self, row):
     ...
 ```
@@ -27,9 +28,9 @@ def get_row(self, row):
 | row | int | Radindex|
 ###  Anmärkningar
 
-OBS: Denna medlem är nu föråldrad. Istället,
-använd metoden Cells.CheckRow(int row).
- Denna metod kommer att tas bort 12 månader senare sedan februari 2024.
+OBS! Denna medlem är nu föråldrad. Istället,
+Använd metoden Cells.CheckRow(int row).
+ Denna metod kommer att tas bort 12 månader senare från och med februari 2024.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 
 

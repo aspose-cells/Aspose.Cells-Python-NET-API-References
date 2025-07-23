@@ -21,5 +21,5 @@ def weight_px(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Trendline](/cells/python-net/es/aspose.cells.charts/trendline)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Trendline`](/cells/python-net/es/aspose.cells.charts/trendline)

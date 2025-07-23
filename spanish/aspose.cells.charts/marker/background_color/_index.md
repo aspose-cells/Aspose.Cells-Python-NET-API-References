@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  background_color propiedad
 
-Representa el color de fondo del marcador en un gráfico de líneas, de dispersión o de radar.
+Representa el color de fondo del marcador en un gráfico de líneas, un gráfico de dispersión o un gráfico de radar.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def background_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Marker](/cells/python-net/es/aspose.cells.charts/marker)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Marker`](/cells/python-net/es/aspose.cells.charts/marker)

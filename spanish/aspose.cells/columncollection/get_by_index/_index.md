@@ -1,22 +1,23 @@
 ---
-title: get_by_index método
+title: método get_by_index
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 40
+weight: 50
 url: /es/aspose.cells/columncollection/get_by_index/
 is_root: false
 ---
-##  get_by_index(index) {#int}
-Obtiene el objeto de la columna por el índice.
+##  get_by_index(self, index) {#int}
+Obtiene el objeto de columna por el índice.
 
 
 ###  Devoluciones
 
-Devuelve el objeto de la columna.
+Devuelve el objeto de columna.
 
 
 ```python
+
 def get_by_index(self, index):
     ...
 ```
@@ -27,12 +28,12 @@ def get_by_index(self, index):
 | index | int |  |
 ###  Observaciones
 
-NOTA: Este miembro ahora está obsoleto. En cambio,
-utilice el método Columns.GetColumnByIndex().
- Esta propiedad se eliminará 12 meses después desde junio de 2010.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+NOTA: Este miembro ya no está disponible. En su lugar,
+Utilice el método Columns.GetColumnByIndex().
+ Esta propiedad será eliminada 12 meses después desde junio de 2010.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ColumnCollection](/cells/python-net/es/aspose.cells/columncollection)
+* módulo [`aspose.cells`](../../)
+* clase [`ColumnCollection`](/cells/python-net/es/aspose.cells/columncollection)

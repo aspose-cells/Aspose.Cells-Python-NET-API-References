@@ -7,16 +7,17 @@ weight: 30
 url: /sv/aspose.cells/scenarioinputcellcollection/binary_search/
 is_root: false
 ---
-##  binary_search(item) {#ScenarioInputCell}
-Söker i hela den sorterade arraylistan efter ett element med hjälp av standardjämföraren och returnerar elementets nollbaserade index.
+##  binary_search(self, item) {#aspose.cells.ScenarioInputCell}
+Söker igenom hela den sorterade arraylistan efter ett element med hjälp av standardjämföraren och returnerar elementets nollbaserade index.
 
 
 ###  Returnerar
 
-Det nollbaserade värdeindexet i den sorterade arraylistan, om objektet hittas; i annat fall ett negativt tal, som är det bitvisa komplementet av indexet för nästa element som är större än värdet eller, om det inte finns något större element, det bitvisa komplementet av arraylist Count.
+Det nollbaserade indexet för värde i den sorterade arraylistan, om objektet hittas; annars ett negativt tal, vilket är det bitvisa komplementet till indexet för nästa element som är större än värde eller, om det inte finns något större element, det bitvisa komplementet till arraylistan Antal.
 
 
 ```python
+
 def binary_search(self, item):
     ...
 ```
@@ -24,10 +25,10 @@ def binary_search(self, item):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| item | [ScenarioInputCell](/cells/python-net/sv/aspose.cells/scenarioinputcell) | System.Object att lokalisera. Värdet kan vara null.|
+| item | [`ScenarioInputCell`](/cells/python-net/sv/aspose.cells/scenarioinputcell) | System.Object som ska lokaliseras. Värdet kan vara null.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ScenarioInputCellCollection](/cells/python-net/sv/aspose.cells/scenarioinputcellcollection)
+* modul [`aspose.cells`](../../)
+* klass [`ScenarioInputCellCollection`](/cells/python-net/sv/aspose.cells/scenarioinputcellcollection)

@@ -8,7 +8,7 @@ url: /sv/aspose.cells.ods/odsgeneratortype/
 is_root: false
 ---
 ##  OdsGeneratorType uppräkning
-Representerar typen av ODS generator.
+Representerar typen av generator ODS.
 
 
 
@@ -23,4 +23,4 @@ Typen OdsGeneratorType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.ods](..)
+* modul [`aspose.cells.ods`](..)

@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  indent_level fastighet
 
-Representerar indragsnivån för cellen eller området. Kan bara vara ett heltal från 0 till 250.
+Representerar indragsnivån för cellen eller området. Kan endast vara ett heltal mellan 0 och 250.
 
 ###  Anmärkningar
 
-Om text horisontell justering är inställd på ett annat värde än vänster eller höger, kommer indragsnivån att göra det
+Om textens horisontella justeringstyp är inställd på ett annat värde än vänster eller höger, kommer indragsnivån att ändras.
 återställas till noll.
 ###  Definition:
 ```python
@@ -26,5 +26,5 @@ def indent_level(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Style](/cells/python-net/sv/aspose.cells/style)
+* modul [`aspose.cells`](../../)
+* klass [`Style`](/cells/python-net/sv/aspose.cells/style)

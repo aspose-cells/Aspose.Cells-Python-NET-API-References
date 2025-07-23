@@ -3,13 +3,13 @@ title: prog_id fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 340
+weight: 320
 url: /sv/aspose.cells/htmlloadoptions/prog_id/
 is_root: false
 ---
 ##  prog_id fastighet
 
-Hämtar program-id för att skapa filen.
+Hämtar program-ID:t för att skapa filen.
 Endast för MHT-filer.
 ###  Definition:
 ```python

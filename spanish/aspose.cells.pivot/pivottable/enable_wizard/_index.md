@@ -3,7 +3,7 @@ title: enable_wizard propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 510
+weight: 610
 url: /es/aspose.cells.pivot/pivottable/enable_wizard/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def enable_wizard(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.pivot](../../)
-* clase [PivotTable](/cells/python-net/es/aspose.cells.pivot/pivottable)
+* módulo [`aspose.cells.pivot`](../../)
+* clase [`PivotTable`](/cells/python-net/es/aspose.cells.pivot/pivottable)

@@ -3,18 +3,18 @@ title: built_in_document_properties propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 260
+weight: 280
 url: /es/aspose.cells/worksheetcollection/built_in_document_properties/
 is_root: false
 ---
 ##  built_in_document_properties propiedad
 
-Devuelve una colección [`DocumentProperty`](/cells/python-net/es/aspose.cells.properties/documentproperty) que representa todas las propiedades del documento integrado de la hoja de cálculo.
+Devuelve una colección [`DocumentProperty`](/cells/python-net/es/aspose.cells.properties/documentproperty) que representa todas las propiedades de documento integradas de la hoja de cálculo.
 
 ###  Observaciones
 
-No se puede agregar una nueva propiedad a la lista de propiedades del documento integrado. Sólo puede obtener una propiedad incorporada y cambiar su valor.
-La siguiente es la lista de nombres de propiedades integradas:
+No se puede agregar una nueva propiedad a la lista de propiedades integradas del documento. Solo se puede obtener una propiedad integrada y modificar su valor.
+La siguiente es la lista de nombres de propiedades incorporadas:
 
 Título
 
@@ -43,13 +43,13 @@ Número de revisión
 Nombre de la aplicación
 
 
-Última fecha de impresión
+Fecha de última impresión
 
 
 Fecha de creación
 
 
-Hora del último guardado
+Última hora de guardado
 
 
 Tiempo total de edición
@@ -98,6 +98,17 @@ Número de diapositivas ocultas
 
 
 Número de clips multimedia
+
+###  Ejemplo
+
+```python
+from aspose.cells import Workbook
+
+workbook = Workbook()
+doc = workbook.worksheets.built_in_document_properties.get("Author")
+doc.value = "John Smith"
+
+```
 ###  Definición:
 ```python
 @property

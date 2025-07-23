@@ -9,8 +9,12 @@ is_root: false
 ---
 ##  end_column fastighet
 
-Hämtar eller ställer in slutkolumnen för detta område.
+Hämtar eller anger slutkolumnen för detta område.
+###  Definition:
+```python
+f end_column 
+```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellArea](/cells/python-net/sv/aspose.cells/cellarea)
+* modul [`aspose.cells`](../../)
+* klass [`CellArea`](/cells/python-net/sv/aspose.cells/cellarea)

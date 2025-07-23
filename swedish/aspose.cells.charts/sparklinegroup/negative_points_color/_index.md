@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  negative_points_color fastighet
 
-Hämtar och ställer in färgen på de negativa värdena på sparklinegruppen.
+Hämtar och anger färgen på de negativa värdena i miniatyrbildsgruppen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def negative_points_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [CellsColor](/cells/python-net/sv/aspose.cells/cellscolor)
-* klass [SparklineGroup](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)
+* modul [`aspose.cells.charts`](../../)
+* klass [`CellsColor`](/cells/python-net/sv/aspose.cells/cellscolor)
+* klass [`SparklineGroup`](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)

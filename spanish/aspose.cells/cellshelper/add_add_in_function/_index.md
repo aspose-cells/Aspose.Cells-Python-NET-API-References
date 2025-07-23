@@ -1,5 +1,5 @@
 ---
-title: add_add_in_function método
+title: método add_add_in_function
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,13 +7,15 @@ weight: 20
 url: /es/aspose.cells/cellshelper/add_add_in_function/
 is_root: false
 ---
-##  add_add_in_function(function, min_count_of_parameters, max_count_of_parameters, paramers_type, function_value_type) {#str-int-int-list-ParameterType}
-Agregar función de complemento.
+##  add_add_in_function(, función, recuento mínimo de parámetros, recuento máximo de parámetros, tipo de parámetro, tipo de valor de función){#str-int-int-list-aspose.cells.ParameterType}
+Añadir función complementaria.
 
 
 
 ```python
-def add_add_in_function(self, function, min_count_of_parameters, max_count_of_parameters, paramers_type, function_value_type):
+
+@staticmethod
+def add_add_in_function(function, min_count_of_parameters, max_count_of_parameters, paramers_type, function_value_type):
     ...
 ```
 
@@ -23,16 +25,16 @@ def add_add_in_function(self, function, min_count_of_parameters, max_count_of_pa
 | function | str | El nombre de la función.|
 | min_count_of_parameters | int | Número mínimo de parámetros que requiere esta función|
 | max_count_of_parameters | int | Número máximo de parámetros que permite esta función.|
-| paramers_type | list | El tipo de parámetros exceptuados de la función.|
-| function_value_type | [ParameterType](/cells/python-net/es/aspose.cells/parametertype) | El tipo de valor de la función.|
+| paramers_type | list | El tipo de parámetros exceptuados de la función|
+| function_value_type | [`ParameterType`](/cells/python-net/es/aspose.cells/parametertype) | El tipo de valor de la función.|
 ###  Observaciones
 
-NOTA: Este miembro ahora está obsoleto. En cambio,
-utilice los métodos WorksheetCollection.RegisterAddInFunction().
+NOTA: Este miembro ya no está disponible. En su lugar,
+Utilice los métodos WorksheetCollection.RegisterAddInFunction().
  Este método se eliminará 12 meses después desde enero de 2022.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CellsHelper](/cells/python-net/es/aspose.cells/cellshelper)
+* módulo [`aspose.cells`](../../)
+* clase [`CellsHelper`](/cells/python-net/es/aspose.cells/cellshelper)

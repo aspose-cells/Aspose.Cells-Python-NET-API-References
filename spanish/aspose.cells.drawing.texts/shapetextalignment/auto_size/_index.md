@@ -29,5 +29,5 @@ def auto_size(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](../../)
-* clase [ShapeTextAlignment](/cells/python-net/es/aspose.cells.drawing.texts/shapetextalignment)
+* módulo [`aspose.cells.drawing.texts`](../../)
+* clase [`ShapeTextAlignment`](/cells/python-net/es/aspose.cells.drawing.texts/shapetextalignment)

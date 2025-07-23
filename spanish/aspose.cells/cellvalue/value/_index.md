@@ -20,7 +20,7 @@ El value debe ser del tipo correcto de objeto correspondiente al [`CellValue.typ
 | double |
 | Fecha y hora|
 | cadena|
-| booleano|
+| bool|
 | cadena de error como "#VALOR!", "#NOMBRE?", ...|
 ###  Definición:
 ```python

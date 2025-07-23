@@ -3,13 +3,13 @@ title: number_decimal_separator fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 340
+weight: 370
 url: /sv/aspose.cells/workbooksettings/number_decimal_separator/
 is_root: false
 ---
 ##  number_decimal_separator fastighet
 
-Hämtar eller ställer in decimalavgränsaren för formatering/analys av numeriska värden. Standard är decimalavgränsaren för aktuell region.
+Hämtar eller ställer in decimalavgränsaren för formatering/tolkning av numeriska värden. Standard är decimalavgränsaren för aktuell region.
 ###  Definition:
 ```python
 @property

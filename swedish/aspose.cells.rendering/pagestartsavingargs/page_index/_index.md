@@ -18,5 +18,5 @@ def page_index(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [PageStartSavingArgs](/cells/python-net/sv/aspose.cells.rendering/pagestartsavingargs)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`PageStartSavingArgs`](/cells/python-net/sv/aspose.cells.rendering/pagestartsavingargs)

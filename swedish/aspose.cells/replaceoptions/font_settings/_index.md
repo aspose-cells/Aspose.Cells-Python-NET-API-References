@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_settings fastighet
 
-De rika formaterade inställningarna för den ersatta texten.
+De rikt formaterade inställningarna för den ersatta texten.
 ###  Definition:
 ```python
 @property

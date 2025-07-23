@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  appref fastighet
 
-Hämtar och ställer in bindningsnyckeln som används för att mappa bindningsposten i den här listan med bundna data i dokumentet.
+Hämtar och anger bindningsnyckeln som används för att mappa bindningsposten i den här listan med de bundna data i dokumentet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def appref(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.webextensions](../../)
-* klass [WebExtensionBinding](/cells/python-net/sv/aspose.cells.webextensions/webextensionbinding)
+* modul [`aspose.cells.webextensions`](../../)
+* klass [`WebExtensionBinding`](/cells/python-net/sv/aspose.cells.webextensions/webextensionbinding)

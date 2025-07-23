@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_numeric_data propiedad
 
-Obtiene o establece un valor que indica si se está convirtiendo el valor de cadena buscado en datos numéricos.
+Obtiene o establece un valor que indica si se convertirá el valor de la cadena buscada en datos numéricos.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def convert_numeric_data(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FindOptions](/cells/python-net/es/aspose.cells/findoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`FindOptions`](/cells/python-net/es/aspose.cells/findoptions)

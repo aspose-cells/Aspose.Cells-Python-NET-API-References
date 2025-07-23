@@ -3,13 +3,13 @@ title: number_format propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 280
+weight: 350
 url: /es/aspose.cells.charts/datalabels/number_format/
 is_root: false
 ---
 ##  number_format propiedad
 
-Representa la cadena de formato del objeto DataLabels.
+Representa la cadena de formato para el objeto DataLabels.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def number_format(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [DataLabels](/cells/python-net/es/aspose.cells.charts/datalabels)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`DataLabels`](/cells/python-net/es/aspose.cells.charts/datalabels)

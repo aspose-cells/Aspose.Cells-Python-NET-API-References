@@ -3,13 +3,13 @@ title: width_inch propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1240
+weight: 1250
 url: /es/aspose.cells.drawing/combobox/width_inch/
 is_root: false
 ---
 ##  width_inch propiedad
 
-Representa el ancho de la forma, en unidades de pulgada.
+Representa el ancho de la forma, en unidades de pulgadas.
 
 ###  Ejemplo
 

@@ -3,13 +3,13 @@ title: auto_filter fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 370
+weight: 390
 url: /sv/aspose.cells/worksheet/auto_filter/
 is_root: false
 ---
 ##  auto_filter fastighet
 
-Representerar autofilter för det angivna kalkylbladet.
+Representerar automatiskt filter för det angivna kalkylbladet.
 ###  Definition:
 ```python
 @property

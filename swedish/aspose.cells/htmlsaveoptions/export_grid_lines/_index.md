@@ -3,13 +3,13 @@ title: export_grid_lines fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 260
+weight: 330
 url: /sv/aspose.cells/htmlsaveoptions/export_grid_lines/
 is_root: false
 ---
 ##  export_grid_lines fastighet
 
-Anger om rutnätslinjerna exporteras. Standardvärdet är falskt.
+Anger om rutnätet ska exporteras. Standardvärdet är falskt.
 ###  Definition:
 ```python
 @property

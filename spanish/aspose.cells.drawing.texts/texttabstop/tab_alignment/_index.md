@@ -21,6 +21,6 @@ def tab_alignment(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](../../)
-* clase [TextTabAlignmentType](/cells/python-net/es/aspose.cells.drawing.texts/texttabalignmenttype)
-* clase [TextTabStop](/cells/python-net/es/aspose.cells.drawing.texts/texttabstop)
+* módulo [`aspose.cells.drawing.texts`](../../)
+* clase [`TextTabAlignmentType`](/cells/python-net/es/aspose.cells.drawing.texts/texttabalignmenttype)
+* clase [`TextTabStop`](/cells/python-net/es/aspose.cells.drawing.texts/texttabstop)

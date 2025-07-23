@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  diagonal_down_border propiedad
 
-Se aplicará la configuración del borde diagonal hacia abajo.
+Se aplicarán las configuraciones del borde diagonal hacia abajo.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def diagonal_down_border(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [StyleFlag](/cells/python-net/es/aspose.cells/styleflag)
+* módulo [`aspose.cells`](../../)
+* clase [`StyleFlag`](/cells/python-net/es/aspose.cells/styleflag)

@@ -3,12 +3,12 @@ title: RowCollection klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1350
+weight: 1240
 url: /sv/aspose.cells/rowcollection/
 is_root: false
 ---
 ##  RowCollection klass
-Samlar de [`Row`](/cells/python-net/sv/aspose.cells/row)-objekt som representerar de enskilda raderna i ett kalkylblad.
+Samlar in [`Row`](/cells/python-net/sv/aspose.cells/row)-objekten som representerar de enskilda raderna i ett kalkylblad.
 
 
 
@@ -21,9 +21,9 @@ Typen RowCollection avslöjar följande medlemmar:
 
 
 
-Hämtar ett [`Row`](/cells/python-net/sv/aspose.cells/row)-objekt efter givet radindex. Radobjektet för givet radindex kommer att instansieras om det inte finns tidigare.
+Hämtar ett [`Row`](/cells/python-net/sv/aspose.cells/row)-objekt från givet radindex. Radobjektet för givet radindex kommer att instansieras om det inte existerar tidigare.
 ###  Indexerare
-| namn| Beskrivning|
+| Namn| Beskrivning|
 | :- | :- |
 | [index] |  |
 
@@ -31,10 +31,10 @@ Hämtar ett [`Row`](/cells/python-net/sv/aspose.cells/row)-objekt efter givet ra
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [get_enumerator](/cells/python-net/sv/aspose.cells/rowcollection/get_enumerator/#bool-bool) | Får en uppräkning som itererar rader genom denna samling|
-| [get_row_by_index](/cells/python-net/sv/aspose.cells/rowcollection/get_row_by_index/#int) | Hämtar radobjektet efter positionen i listan.|
-| [clear](/cells/python-net/sv/aspose.cells/rowcollection/clear/#) | Rensa alla rader och celler.|
-| [remove_at](/cells/python-net/sv/aspose.cells/rowcollection/remove_at/#int) | Ta bort radobjektet vid angivet index(position) i denna samling.|
+| [`get_enumerator(self, reversed, sync)`](/cells/python-net/sv/aspose.cells/rowcollection/get_enumerator/#bool-bool) | Hämtar en uppräknare som itererar rader genom den här samlingen|
+| [`get_row_by_index(self, index)`](/cells/python-net/sv/aspose.cells/rowcollection/get_row_by_index/#int) | Hämtar radobjektet efter positionen i listan.|
+| [`clear(self)`](/cells/python-net/sv/aspose.cells/rowcollection/clear/#) | Rensa alla rader och celler.|
+| [`remove_at(self, index)`](/cells/python-net/sv/aspose.cells/rowcollection/remove_at/#int) | Ta bort radobjektet vid det angivna indexet (positionen) i den här samlingen.|
 
 
 

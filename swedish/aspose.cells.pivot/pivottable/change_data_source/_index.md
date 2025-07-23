@@ -7,13 +7,13 @@ weight: 60
 url: /sv/aspose.cells.pivot/pivottable/change_data_source/
 is_root: false
 ---
-##  change_data_source(source) {#list}
-Ställ in pivotables källdata.
-Blad1!$A$1:$C$3
+##  change_data_source(self, source) {#list}
+Ange pivottabellens källdata.
 
 
 
 ```python
+
 def change_data_source(self, source):
     ...
 ```
@@ -26,5 +26,5 @@ def change_data_source(self, source):
 
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotTable](/cells/python-net/sv/aspose.cells.pivot/pivottable)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotTable`](/cells/python-net/sv/aspose.cells.pivot/pivottable)

@@ -3,13 +3,13 @@ title: is_gridlines_visible fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 560
+weight: 590
 url: /sv/aspose.cells/worksheet/is_gridlines_visible/
 is_root: false
 ---
 ##  is_gridlines_visible fastighet
 
-Hämtar eller ställer in ett värde som anger om rutnätslinjerna är synliga. Standard är sant.
+Hämtar eller anger ett värde som anger om rutnätet är synligt. Standardvärdet är sant.
 ###  Definition:
 ```python
 @property

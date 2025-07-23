@@ -3,18 +3,18 @@ title: is_inner_mode fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 220
+weight: 280
 url: /sv/aspose.cells.charts/displayunitlabel/is_inner_mode/
 is_root: false
 ---
 ##  is_inner_mode fastighet
 
-Anger om storleken på plottytans storlek inkluderar bockmarkeringarna och axeletiketterna.
-False anger att storleken ska avgöra storleken på tomtområdet, bockarna och axeletiketterna.
+Anger om storleken på plottområdet inkluderar skalmarkeringarna och axeletiketterna.
+Falskt anger att storleken ska bestämma storleken på plottområdet, skalmarkeringarna och axeletiketterna.
 
 ###  Anmärkningar
 
-Endast för Xlsx-fil.
+Endast för Xlsx-filer.
 ###  Definition:
 ```python
 @property
@@ -26,5 +26,5 @@ def is_inner_mode(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [DisplayUnitLabel](/cells/python-net/sv/aspose.cells.charts/displayunitlabel)
+* modul [`aspose.cells.charts`](../../)
+* klass [`DisplayUnitLabel`](/cells/python-net/sv/aspose.cells.charts/displayunitlabel)

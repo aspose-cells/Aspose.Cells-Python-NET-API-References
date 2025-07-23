@@ -18,5 +18,5 @@ def is_protected_by_rms(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FileFormatInfo](/cells/python-net/sv/aspose.cells/fileformatinfo)
+* modul [`aspose.cells`](../../)
+* klass [`FileFormatInfo`](/cells/python-net/sv/aspose.cells/fileformatinfo)

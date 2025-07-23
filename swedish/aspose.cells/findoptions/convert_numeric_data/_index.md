@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_numeric_data fastighet
 
-Hämtar eller ställer in ett värde som anger om det sökta strängvärdet konverteras till numerisk data.
+Hämtar eller anger ett värde som anger om det sökta strängvärdet konverteras till numeriska data.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def convert_numeric_data(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FindOptions](/cells/python-net/sv/aspose.cells/findoptions)
+* modul [`aspose.cells`](../../)
+* klass [`FindOptions`](/cells/python-net/sv/aspose.cells/findoptions)

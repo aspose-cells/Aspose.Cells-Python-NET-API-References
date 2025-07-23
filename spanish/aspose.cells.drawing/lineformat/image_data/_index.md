@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  image_data propiedad
 
-Obtiene y establece los datos de la imagen de la imagen.
+Obtiene y establece los datos de la imagen.
 
 ###  Observaciones
 
@@ -25,5 +25,5 @@ def image_data(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [LineFormat](/cells/python-net/es/aspose.cells.drawing/lineformat)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`LineFormat`](/cells/python-net/es/aspose.cells.drawing/lineformat)

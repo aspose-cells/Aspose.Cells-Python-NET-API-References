@@ -21,6 +21,6 @@ def dash_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [MsoLineDashStyle](/cells/python-net/es/aspose.cells.drawing/msolinedashstyle)
-* clase [Trendline](/cells/python-net/es/aspose.cells.charts/trendline)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`MsoLineDashStyle`](/cells/python-net/es/aspose.cells.drawing/msolinedashstyle)
+* clase [`Trendline`](/cells/python-net/es/aspose.cells.charts/trendline)

@@ -3,7 +3,7 @@ title: CellValue klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 160
+weight: 130
 url: /sv/aspose.cells/cellvalue/
 is_root: false
 ---
@@ -17,13 +17,13 @@ Typen CellValue avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [__init__](/cells/python-net/sv/aspose.cells/cellvalue/__init__/#) | Konstruerar en ny instans av CellValue|
+| [`__init__(self)`](/cells/python-net/sv/aspose.cells/cellvalue/__init__/#) | Konstruerar en ny instans av CellValue|
 
 
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [type](/cells/python-net/sv/aspose.cells/cellvalue/type) | Hämtar/ställer in typen av cellvärde.|
+| [type](/cells/python-net/sv/aspose.cells/cellvalue/type) | Hämtar/ställer in cellvärdestypen.|
 | [value](/cells/python-net/sv/aspose.cells/cellvalue/value) | Hämtar/ställer in cellvärdet.|
 
 

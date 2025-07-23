@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_numeric_data propiedad
 
-Obtiene o establece un valor que indica si el valor de cadena se debe convertir en valor numérico o de fecha.
+Obtiene o establece un valor que indica si el valor de la cadena debe convertirse en un valor numérico o de fecha.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def convert_numeric_data(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ImportTableOptions](/cells/python-net/es/aspose.cells/importtableoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`ImportTableOptions`](/cells/python-net/es/aspose.cells/importtableoptions)

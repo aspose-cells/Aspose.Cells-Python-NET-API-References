@@ -8,10 +8,6 @@ url: /es/aspose.cells.externalconnections/datamodelconnection/background_refresh
 is_root: false
 ---
 ##  background_refresh propiedad
-
- Indica si la conexión se puede actualizar en segundo plano (asincrónicamente).
-true si el uso preferido de la conexión es actualizar de forma asíncrona en segundo plano;
-falso si el uso preferido de la conexión es actualizar sincrónicamente en primer plano.
 ###  Definición:
 ```python
 @property
@@ -23,5 +19,5 @@ def background_refresh(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.externalconnections](../../)
-* clase [DataModelConnection](/cells/python-net/es/aspose.cells.externalconnections/datamodelconnection)
+* módulo [`aspose.cells.externalconnections`](../../)
+* clase [`DataModelConnection`](/cells/python-net/es/aspose.cells.externalconnections/datamodelconnection)

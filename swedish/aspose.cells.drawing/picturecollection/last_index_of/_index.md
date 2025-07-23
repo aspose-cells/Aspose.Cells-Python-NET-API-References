@@ -3,20 +3,21 @@ title: last_index_of metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 60
+weight: 70
 url: /sv/aspose.cells.drawing/picturecollection/last_index_of/
 is_root: false
 ---
-##  last_index_of(item) {#Picture}
+##  last_index_of(self, item) {#aspose.cells.drawing.Picture}
 Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom hela arraylistan.
 
 
 ###  Returnerar
 
-Det nollbaserade indexet för den senaste förekomsten av värde inom hela arraylistan, om den hittas; annars -1.
+Det nollbaserade indexet för den senaste förekomsten av värdet inom hela arraylistan, om det hittas; annars -1.
 
 
 ```python
+
 def last_index_of(self, item):
     ...
 ```
@@ -24,19 +25,20 @@ def last_index_of(self, item):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| item | [Picture](/cells/python-net/sv/aspose.cells.drawing/picture) | Objektet som ska lokaliseras i arraylistan. Värdet kan vara null.|
+| item | [`Picture`](/cells/python-net/sv/aspose.cells.drawing/picture) | Objektet som ska hittas i arraylistan. Värdet kan vara null.|
 
 
-##  last_index_of(item, index) {#Picture-int}
+##  last_index_of(self, item, index) {#aspose.cells.drawing.Picture-int}
 Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom intervallet av element i arraylistan som sträcker sig från det första elementet till det angivna indexet.
 
 
 ###  Returnerar
 
-Det nollbaserade indexet för den senaste förekomsten av värde inom intervallet av element i arraylistan som sträcker sig från det första elementet till startIndex, om det hittas; annars -1.
+Det nollbaserade indexet för den senaste förekomsten av värdet inom intervallet av element i arraylistan som sträcker sig från det första elementet till startIndex, om det hittas; annars -1.
 
 
 ```python
+
 def last_index_of(self, item, index):
     ...
 ```
@@ -44,20 +46,21 @@ def last_index_of(self, item, index):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| item | [Picture](/cells/python-net/sv/aspose.cells.drawing/picture) | Objektet som ska lokaliseras i arraylistan. Värdet kan vara null.|
-| index | int | Det nollbaserade startindexet för bakåtsökningen.|
+| item | [`Picture`](/cells/python-net/sv/aspose.cells.drawing/picture) | Objektet som ska hittas i arraylistan. Värdet kan vara null.|
+| index | int | Det nollbaserade startindexet för den bakåtgående sökningen.|
 
 
-##  last_index_of(item, index, count) {#Picture-int-int}
-Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom intervallet av element i arraylistan som innehåller det angivna antalet element och slutar vid det angivna indexet.
+##  last_index_of(self, item, index, count) {#aspose.cells.drawing.Picture-int-int}
+Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom elementintervallet i arraylistan som innehåller det angivna antalet element och slutar vid det angivna indexet.
 
 
 ###  Returnerar
 
-Det nollbaserade indexet för den senaste förekomsten av värde inom intervallet av element i System.Collections. Arraylista som innehåller antal element och slutar vid startIndex, om den hittas; annars -1.
+Det nollbaserade indexet för den senaste förekomsten av värdet inom elementintervallet i System.Collections. Arraylista som innehåller count-antal element och slutar vid startIndex, om det hittas; annars -1.
 
 
 ```python
+
 def last_index_of(self, item, index, count):
     ...
 ```
@@ -65,12 +68,12 @@ def last_index_of(self, item, index, count):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| item | [Picture](/cells/python-net/sv/aspose.cells.drawing/picture) | Objektet som ska lokaliseras i arraylistan. Värdet kan vara null.|
-| index | int | Det nollbaserade startindexet för bakåtsökningen.|
-| count | int | Antalet element i avsnittet att söka efter.|
+| item | [`Picture`](/cells/python-net/sv/aspose.cells.drawing/picture) | Objektet som ska hittas i arraylistan. Värdet kan vara null.|
+| index | int | Det nollbaserade startindexet för den bakåtgående sökningen.|
+| count | int | Antalet element i avsnittet som ska sökas.|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [PictureCollection](/cells/python-net/sv/aspose.cells.drawing/picturecollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`PictureCollection`](/cells/python-net/sv/aspose.cells.drawing/picturecollection)

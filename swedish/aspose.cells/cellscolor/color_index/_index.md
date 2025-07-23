@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color_index fastighet
 
-Hämtar och ställer in färgindex i färgpaletten. Gäller endast indexerad färg.
+Hämtar och ställer in färgindexet i färgpaletten. Tillämpar endast indexerad färg.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def color_index(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellsColor](/cells/python-net/sv/aspose.cells/cellscolor)
+* modul [`aspose.cells`](../../)
+* klass [`CellsColor`](/cells/python-net/sv/aspose.cells/cellscolor)

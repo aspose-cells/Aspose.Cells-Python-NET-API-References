@@ -3,13 +3,13 @@ title: major_grid_lines propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 280
+weight: 290
 url: /es/aspose.cells.charts/axis/major_grid_lines/
 is_root: false
 ---
 ##  major_grid_lines propiedad
 
-Representa las líneas de cuadrícula principales en el eje de un gráfico.
+Representa las líneas de cuadrícula principales en un eje de gráfico.
 
 ###  Ejemplo
 

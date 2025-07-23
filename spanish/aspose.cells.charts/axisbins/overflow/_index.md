@@ -21,5 +21,5 @@ def overflow(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [AxisBins](/cells/python-net/es/aspose.cells.charts/axisbins)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`AxisBins`](/cells/python-net/es/aspose.cells.charts/axisbins)

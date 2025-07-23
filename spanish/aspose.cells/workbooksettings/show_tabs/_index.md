@@ -3,17 +3,17 @@ title: show_tabs propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 460
+weight: 490
 url: /es/aspose.cells/workbooksettings/show_tabs/
 is_root: false
 ---
 ##  show_tabs propiedad
 
-Obtiene o establece un valor si se muestran las pestañas del Libro de trabajo.
+Obtiene o establece un valor si se muestran las pestañas del libro de trabajo.
 
 ###  Observaciones
 
-El valor por defecto es verdadero.
+El valor predeterminado es verdadero.
 
 ###  Ejemplo
 

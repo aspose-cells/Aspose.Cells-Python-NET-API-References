@@ -21,5 +21,5 @@ def offset_y(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [TilePicOption](/cells/python-net/es/aspose.cells.drawing/tilepicoption)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`TilePicOption`](/cells/python-net/es/aspose.cells.drawing/tilepicoption)

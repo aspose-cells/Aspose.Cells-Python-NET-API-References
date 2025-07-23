@@ -3,13 +3,13 @@ title: refers_to fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 380
+weight: 480
 url: /sv/aspose.cells/range/refers_to/
 is_root: false
 ---
 ##  refers_to fastighet
 
-Får sortimentets hänvisar till.
+Hämtar intervallet som refererar till.
 ###  Definition:
 ```python
 @property

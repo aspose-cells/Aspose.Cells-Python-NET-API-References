@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  list_width fastighet
 
-Hämtar och ställer in bredden i poängenhet.
+Hämtar och ställer in bredden i enhet punkter.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def list_width(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ComboBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ComboBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

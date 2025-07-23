@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  tick_label_items propiedad
 
-Obtiene la información del eje de cada elemento de etiqueta de marca.
+Obtiene las etiquetas de verificación de visualización del eje.
 
 ###  Observaciones
 
-Solo disponible después de llamar al método [`Chart.calculate`](/cells/python-net/es/aspose.cells.charts/chart/calculate).
+Disponible únicamente llamando al método [`Chart.calculate`](/cells/python-net/es/aspose.cells.charts/chart/calculate).
 ###  Definición:
 ```python
 @property

@@ -7,15 +7,16 @@ weight: 60
 url: /es/aspose.cells/metered/set_metered_key/
 is_root: false
 ---
-##  set_metered_key {#str-str}
-Establece claves públicas y privadas medidas.
- Si compra una licencia medida, cuando inicie la solicitud, se debe llamar a este API; normalmente, esto es suficiente.
- Sin embargo, si siempre no se cargan los datos de consumo y excede las 24 horas, la licencia pasará al estado de evaluación.
-Para evitar tal caso, debe verificar periódicamente el estado de la licencia; si es un estado de evaluación, llame nuevamente al API.
+##  set_metered_key(self, public_key, private_key) {#str-str}
+Establece una clave pública y privada medida.
+Si compra una licencia medida, al iniciar la aplicación se debe llamar al API, normalmente esto es suficiente.
+ Sin embargo, si siempre falla la carga de datos de consumo y excede las 24 horas, la licencia pasará al estado de evaluación.
+Para evitar tal caso, debe verificar periódicamente el estado de la licencia, si está en estado de evaluación, llame nuevamente al API.
 
 
 
 ```python
+
 def set_metered_key(self, public_key, private_key):
     ...
 ```
@@ -23,8 +24,8 @@ def set_metered_key(self, public_key, private_key):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| public_key | str | Llave pública|
-| private_key | str | llave privada|
+| public_key | str | clave pública|
+| private_key | str | clave privada|
 
 
 

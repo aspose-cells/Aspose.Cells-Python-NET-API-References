@@ -18,5 +18,5 @@ def paper_width(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PageSetup](/cells/python-net/es/aspose.cells/pagesetup)
+* módulo [`aspose.cells`](../../)
+* clase [`PageSetup`](/cells/python-net/es/aspose.cells/pagesetup)

@@ -3,13 +3,13 @@ title: page_change fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 870
+weight: 880
 url: /sv/aspose.cells.drawing/scrollbar/page_change/
 is_root: false
 ---
 ##  page_change fastighet
 
-Hämtar eller ställer in sidbyte
+Hämtar eller ställer in sidändring
 ###  Definition:
 ```python
 @property

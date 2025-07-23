@@ -3,13 +3,11 @@ title: name propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 150
+weight: 180
 url: /es/aspose.cells.externalconnections/dbconnection/name/
 is_root: false
 ---
 ##  name propiedad
-
-Especifica el name de la conexión. Cada conexión debe tener un name único.
 ###  Definición:
 ```python
 @property
@@ -21,5 +19,5 @@ def name(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.externalconnections](../../)
-* clase [DBConnection](/cells/python-net/es/aspose.cells.externalconnections/dbconnection)
+* módulo [`aspose.cells.externalconnections`](../../)
+* clase [`DBConnection`](/cells/python-net/es/aspose.cells.externalconnections/dbconnection)

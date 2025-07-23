@@ -3,7 +3,7 @@ title: load_format propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 160
+weight: 150
 url: /es/aspose.cells/loadoptions/load_format/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def load_format(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [LoadFormat](/cells/python-net/es/aspose.cells/loadformat)
-* clase [LoadOptions](/cells/python-net/es/aspose.cells/loadoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`LoadFormat`](/cells/python-net/es/aspose.cells/loadformat)
+* clase [`LoadOptions`](/cells/python-net/es/aspose.cells/loadoptions)

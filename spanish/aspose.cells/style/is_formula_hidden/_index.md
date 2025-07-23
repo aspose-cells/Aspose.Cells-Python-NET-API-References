@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_formula_hidden propiedad
 
-Representa si la fórmula estará oculta cuando la hoja de cálculo esté protegida.
+Representa si la fórmula se ocultará cuando la hoja de cálculo esté protegida.
 ###  Definición:
 ```python
 @property

@@ -7,17 +7,19 @@ weight: 20
 url: /sv/aspose.cells/fileformatutil/detect_file_format/
 is_root: false
 ---
-##  detect_file_format(stream) {#io.RawIOBase}
-Upptäcker och returnerar informationen om ett Excel-format som lagras i en ström.
+##  detect_file_format(, ström){#io.RawIOBase}
+Identifierar och returnerar information om formatet för ett Excel-dokument som lagras i en ström.
 
 
 ###  Returnerar
 
-Ett [FileFormatInfo](/cells/python-net/sv/aspose.cells/fileformatinfo)-objekt som innehåller den upptäckta informationen.
+Ett [`FileFormatInfo`](/cells/python-net/sv/aspose.cells/fileformatinfo)-objekt som innehåller den detekterade informationen.
 
 
 ```python
-def detect_file_format(self, stream):
+
+@staticmethod
+def detect_file_format(stream):
     ...
 ```
 
@@ -27,37 +29,41 @@ def detect_file_format(self, stream):
 | stream | io.RawIOBase |  |
 
 
-##  detect_file_format(file_path) {#str}
-Upptäcker och returnerar information om ett Excel-format som lagras i en fil.
+##  detect_file_format(, sökväg till fil){#str}
+Identifierar och returnerar information om formatet för ett Excel-dokument som lagras i en fil.
 
 
 ###  Returnerar
 
-Ett [FileFormatInfo](/cells/python-net/sv/aspose.cells/fileformatinfo)-objekt som innehåller den upptäckta informationen.
+Ett [`FileFormatInfo`](/cells/python-net/sv/aspose.cells/fileformatinfo)-objekt som innehåller den detekterade informationen.
 
 
 ```python
-def detect_file_format(self, file_path):
+
+@staticmethod
+def detect_file_format(file_path):
     ...
 ```
 
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| file_path | str | Filsökvägen.|
+| file_path | str | Filens sökväg.|
 
 
-##  detect_file_format(stream, password) {#io.RawIOBase-str}
-Upptäcker och returnerar informationen om ett Excel-format som lagras i en ström.
+##  detect_file_format(, ström, lösenord){#io.RawIOBase-str}
+Identifierar och returnerar information om formatet för ett Excel-dokument som lagras i en ström.
 
 
 ###  Returnerar
 
-Ett [FileFormatInfo](/cells/python-net/sv/aspose.cells/fileformatinfo)-objekt som innehåller den upptäckta informationen.
+Ett [`FileFormatInfo`](/cells/python-net/sv/aspose.cells/fileformatinfo)-objekt som innehåller den detekterade informationen.
 
 
 ```python
-def detect_file_format(self, stream, password):
+
+@staticmethod
+def detect_file_format(stream, password):
     ...
 ```
 
@@ -68,29 +74,31 @@ def detect_file_format(self, stream, password):
 | password | str | Lösenordet för krypterade ooxml-filer.|
 
 
-##  detect_file_format(file_path, password) {#str-str}
-Upptäcker och returnerar information om ett Excel-format som lagras i en fil.
+##  detect_file_format(, sökväg till fil, lösenord){#str-str}
+Identifierar och returnerar information om formatet för ett Excel-dokument som lagras i en fil.
 
 
 ###  Returnerar
 
-Ett [FileFormatInfo](/cells/python-net/sv/aspose.cells/fileformatinfo)-objekt som innehåller den upptäckta informationen.
+Ett [`FileFormatInfo`](/cells/python-net/sv/aspose.cells/fileformatinfo)-objekt som innehåller den detekterade informationen.
 
 
 ```python
-def detect_file_format(self, file_path, password):
+
+@staticmethod
+def detect_file_format(file_path, password):
     ...
 ```
 
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| file_path | str | Filsökvägen.|
+| file_path | str | Filens sökväg.|
 | password | str | Lösenordet för krypterade ooxml-filer.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FileFormatInfo](/cells/python-net/sv/aspose.cells/fileformatinfo)
-* klass [FileFormatUtil](/cells/python-net/sv/aspose.cells/fileformatutil)
+* modul [`aspose.cells`](../../)
+* klass [`FileFormatInfo`](/cells/python-net/sv/aspose.cells/fileformatinfo)
+* klass [`FileFormatUtil`](/cells/python-net/sv/aspose.cells/fileformatutil)

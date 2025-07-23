@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  second_plot_size fastighet
 
- Returnerar eller ställer in storleken på den sekundära sektionen av antingen ett cirkeldiagram eller ett cirkeldiagram,
-som en procentandel av storleken på den primära pajen.
+ Returnerar eller anger storleken på den sekundära sektionen av antingen ett cirkeldiagram eller ett stapeldiagram.
+som en procentandel av storleken på den primära cirkeln.
 Kan vara ett värde från 5 till 200.
 ###  Definition:
 ```python
@@ -23,5 +23,5 @@ def second_plot_size(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Series](/cells/python-net/sv/aspose.cells.charts/series)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Series`](/cells/python-net/sv/aspose.cells.charts/series)

@@ -3,12 +3,12 @@ title: AutoFitWrappedTextType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1840
+weight: 1740
 url: /sv/aspose.cells/autofitwrappedtexttype/
 is_root: false
 ---
 ##  AutoFitWrappedTextType uppräkning
-Representerar typen av automatisk anpassning av inslagen text.
+Representerar typen av automatiskt anpassad radbruten text.
 
 
 
@@ -18,7 +18,7 @@ Typen AutoFitWrappedTextType avslöjar följande medlemmar:
 | Fält| Beskrivning|
 | :- | :- |
 | DEFAULT | Fungerar som MS Excel.|
-| PARAGRAPH | Automatisk anpassningsbredd med det längsta stycket.|
+| PARAGRAPH | Anpassa bredden automatiskt till det längsta stycket.|
 
 
 

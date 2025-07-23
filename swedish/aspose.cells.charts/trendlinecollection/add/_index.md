@@ -7,16 +7,17 @@ weight: 20
 url: /sv/aspose.cells.charts/trendlinecollection/add/
 is_root: false
 ---
-##  add(type) {#TrendlineType}
-Lägger till ett [Trendline](/cells/python-net/sv/aspose.cells.charts/trendline)-objekt till den här samlingen med angiven typ.
+##  add(self, type) {#aspose.cells.charts.TrendlineType}
+Lägger till ett [`Trendline`](/cells/python-net/sv/aspose.cells.charts/trendline)-objekt i den här samlingen med angiven typ.
 
 
 ###  Returnerar
 
-[Trendline](/cells/python-net/sv/aspose.cells.charts/trendline) objektindex.
+[`Trendline`](/cells/python-net/sv/aspose.cells.charts/trendline) objektindex.
 
 
 ```python
+
 def add(self, type):
     ...
 ```
@@ -24,19 +25,20 @@ def add(self, type):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| type | [TrendlineType](/cells/python-net/sv/aspose.cells.charts/trendlinetype) | Trendlinjetyp.|
+| type | [`TrendlineType`](/cells/python-net/sv/aspose.cells.charts/trendlinetype) | Trendlinjetyp.|
 
 
-##  add(type, name) {#TrendlineType-str}
-Lägger till ett [Trendline](/cells/python-net/sv/aspose.cells.charts/trendline)-objekt till den här samlingen med angiven typ och namn.
+##  add(self, type, name) {#aspose.cells.charts.TrendlineType-str}
+Lägger till ett [`Trendline`](/cells/python-net/sv/aspose.cells.charts/trendline)-objekt i den här samlingen med angiven typ och namn.
 
 
 ###  Returnerar
 
-[Trendline](/cells/python-net/sv/aspose.cells.charts/trendline) objektindex.
+[`Trendline`](/cells/python-net/sv/aspose.cells.charts/trendline) objektindex.
 
 
 ```python
+
 def add(self, type, name):
     ...
 ```
@@ -44,12 +46,12 @@ def add(self, type, name):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| type | [TrendlineType](/cells/python-net/sv/aspose.cells.charts/trendlinetype) | Trendlinjetyp.|
+| type | [`TrendlineType`](/cells/python-net/sv/aspose.cells.charts/trendlinetype) | Trendlinjetyp.|
 | name | str | Trendlinjenamn.|
 
 
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Trendline](/cells/python-net/sv/aspose.cells.charts/trendline)
-* klass [TrendlineCollection](/cells/python-net/sv/aspose.cells.charts/trendlinecollection)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Trendline`](/cells/python-net/sv/aspose.cells.charts/trendline)
+* klass [`TrendlineCollection`](/cells/python-net/sv/aspose.cells.charts/trendlinecollection)

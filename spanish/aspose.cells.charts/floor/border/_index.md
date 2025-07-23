@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border propiedad
 
-Obtiene o establece el border [Line](/cells/python-net/es/aspose.cells.drawing/line).
+Obtiene o establece border [`Line`](/cells/python-net/es/aspose.cells.drawing/line).
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def border(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Floor](/cells/python-net/es/aspose.cells.charts/floor)
-* clase [Line](/cells/python-net/es/aspose.cells.drawing/line)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Floor`](/cells/python-net/es/aspose.cells.charts/floor)
+* clase [`Line`](/cells/python-net/es/aspose.cells.drawing/line)

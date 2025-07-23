@@ -3,17 +3,17 @@ title: upper_delta_x fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1300
+weight: 1310
 url: /sv/aspose.cells.drawing/oleobject/upper_delta_x/
 is_root: false
 ---
 ##  upper_delta_x fastighet
 
-Hämtar eller ställer in formens horisontella förskjutning från dess övre vänstra hörnspalt.
+Hämtar eller ställer in formens horisontella förskjutning från dess övre vänstra hörnkolumn.
 
 ###  Anmärkningar
 
-Värdeintervallet är 0 till 1024.
+Värdeintervallet är från 0 till 1024.
 
 ###  Exempel
 

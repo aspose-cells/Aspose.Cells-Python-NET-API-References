@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_data_table fastighet
 
-Hämtar eller ställer in ett värde som anger om diagrammet visar en datatabell.
+Hämtar eller anger ett värde som anger om diagrammet visar en datatabell.
 ###  Definition:
 ```python
 @property

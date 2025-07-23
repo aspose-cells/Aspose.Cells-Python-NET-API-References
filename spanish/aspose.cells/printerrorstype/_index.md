@@ -3,7 +3,7 @@ title: PrintErrorsType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2470
+weight: 2440
 url: /es/aspose.cells/printerrorstype/
 is_root: false
 ---
@@ -18,9 +18,9 @@ El tipo PrintErrorsType expone los siguientes miembros:
 | Campo| Descripción|
 | :- | :- |
 | PRINT_ERRORS_BLANK | Representa no imprimir errores.|
-| PRINT_ERRORS_DASH | Representa imprimir errores como "--".|
-| PRINT_ERRORS_DISPLAYED | Representa imprimir errores como se muestra.|
-| PRINT_ERRORS_NA | Representa imprimir errores como "#N/A".|
+| PRINT_ERRORS_DASH | Representa los errores de impresión como "--".|
+| PRINT_ERRORS_DISPLAYED | Representa los errores de impresión tal como se muestran.|
+| PRINT_ERRORS_NA | Representa los errores de impresión como "#N/A".|
 
 
 

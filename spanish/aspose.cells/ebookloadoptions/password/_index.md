@@ -3,7 +3,7 @@ title: password propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 320
+weight: 300
 url: /es/aspose.cells/ebookloadoptions/password/
 is_root: false
 ---

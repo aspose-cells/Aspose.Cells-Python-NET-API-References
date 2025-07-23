@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  external_connection fastighet
 
-Får relaterad extern anslutning.
+Hämtar den relaterade externa anslutningen.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,5 @@ def external_connection(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ExternalConnection](/cells/python-net/sv/aspose.cells.externalconnections/externalconnection)
-* klass [QueryTable](/cells/python-net/sv/aspose.cells/querytable)
+* modul [`aspose.cells`](../../)
+* klass [`QueryTable`](/cells/python-net/sv/aspose.cells/querytable)

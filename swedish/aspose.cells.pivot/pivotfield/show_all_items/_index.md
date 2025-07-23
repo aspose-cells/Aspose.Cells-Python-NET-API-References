@@ -3,13 +3,13 @@ title: show_all_items fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 560
+weight: 660
 url: /sv/aspose.cells.pivot/pivotfield/show_all_items/
 is_root: false
 ---
 ##  show_all_items fastighet
 
- Anger om alla objekt visas i pivottabellsrapporten,
+ Anger om alla objekt visas i pivottabellrapporten,
 även om de inte innehåller sammanfattande data.
 visa objekt utan data
 Standardvärdet är falskt.

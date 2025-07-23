@@ -3,13 +3,13 @@ title: height_pt fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 480
+weight: 470
 url: /sv/aspose.cells.drawing/commentshape/height_pt/
 is_root: false
 ---
 ##  height_pt fastighet
 
-Representerar höjden på formen, i punktenhet.
+Representerar formens höjd, i enheten punkter.
 
 ###  Exempel
 

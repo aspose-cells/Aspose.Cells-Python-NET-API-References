@@ -3,13 +3,13 @@ title: is_auto_text fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 170
+weight: 230
 url: /sv/aspose.cells.charts/displayunitlabel/is_auto_text/
 is_root: false
 ---
 ##  is_auto_text fastighet
 
-Indikerar att texten genereras automatiskt.
+Indikerar att texten är automatiskt genererad.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_auto_text(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [DisplayUnitLabel](/cells/python-net/sv/aspose.cells.charts/displayunitlabel)
+* modul [`aspose.cells.charts`](../../)
+* klass [`DisplayUnitLabel`](/cells/python-net/sv/aspose.cells.charts/displayunitlabel)

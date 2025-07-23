@@ -7,12 +7,13 @@ weight: 20
 url: /sv/aspose.cells/worksheet/add_page_breaks/
 is_root: false
 ---
-##  add_page_breaks(cell_name) {#str}
+##  add_page_breaks(self, cell_name) {#str}
 Lägger till sidbrytning.
 
 
 
 ```python
+
 def add_page_breaks(self, cell_name):
     ...
 ```
@@ -25,5 +26,5 @@ def add_page_breaks(self, cell_name):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Worksheet](/cells/python-net/sv/aspose.cells/worksheet)
+* modul [`aspose.cells`](../../)
+* klass [`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet)

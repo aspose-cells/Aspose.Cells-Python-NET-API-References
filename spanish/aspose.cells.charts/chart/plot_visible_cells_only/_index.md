@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_visible_cells_only propiedad
 
-Indica si se trazan únicamente las celdas visibles.
+Indica si se trazan sólo las celdas visibles.
 ###  Definición:
 ```python
 @property

@@ -3,13 +3,13 @@ title: spid fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1080
+weight: 1090
 url: /sv/aspose.cells.drawing/oleobject/spid/
 is_root: false
 ---
 ##  spid fastighet
 
-Anger en valfri sträng som ett program kan använda för att identifiera den specifika formen.
+Anger en valfri strängidentifierare som ett program kan använda för att identifiera den specifika formen.
 
 ###  Exempel
 

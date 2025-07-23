@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width fastighet
 
-Representerar width för kommentaren, i pixelenhet.
+Representerar width för kommentaren, i pixlar.
 
 ###  Exempel
 

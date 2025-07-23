@@ -8,8 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/back_ol
 is_root: false
 ---
 ##  back_ole_color fastighet
-
-Hämtar och ställer in ole-färgen på bakgrunden.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def back_ole_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ToggleButtonActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ToggleButtonActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

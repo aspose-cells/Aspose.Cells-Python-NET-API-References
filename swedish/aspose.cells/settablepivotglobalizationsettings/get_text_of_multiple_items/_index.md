@@ -3,20 +3,21 @@ title: get_text_of_multiple_items metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 130
+weight: 140
 url: /sv/aspose.cells/settablepivotglobalizationsettings/get_text_of_multiple_items/
 is_root: false
 ---
-##  get_text_of_multiple_items {#}
-Hämtar texten "(Flera objekt)"-etiketten i pivottabellen.
+##  get_text_of_multiple_items(self) {#}
+Hämtar texten för etiketten "(Flera objekt)" i pivottabellen.
 
 
 ###  Returnerar
 
-Texten på etiketten "(Flera artiklar)".
+Texten på etiketten "(Flera artiklar)"
 
 
 ```python
+
 def get_text_of_multiple_items(self):
     ...
 ```

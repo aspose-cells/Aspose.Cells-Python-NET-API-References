@@ -3,7 +3,7 @@ title: display_drawing_objects fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 160
+weight: 190
 url: /sv/aspose.cells/workbooksettings/display_drawing_objects/
 is_root: false
 ---

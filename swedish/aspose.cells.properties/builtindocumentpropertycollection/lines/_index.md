@@ -3,7 +3,7 @@ title: lines fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 280
+weight: 290
 url: /sv/aspose.cells.properties/builtindocumentpropertycollection/lines/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def lines(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.properties](../../)
-* klass [BuiltInDocumentPropertyCollection](/cells/python-net/sv/aspose.cells.properties/builtindocumentpropertycollection)
+* modul [`aspose.cells.properties`](../../)
+* klass [`BuiltInDocumentPropertyCollection`](/cells/python-net/sv/aspose.cells.properties/builtindocumentpropertycollection)

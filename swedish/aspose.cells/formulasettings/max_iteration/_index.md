@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  max_iteration fastighet
 
-De maximala iterationerna för att lösa en cirkulär referens.
+Maximalt antal iterationer för att lösa en cirkulär referens.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def max_iteration(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormulaSettings](/cells/python-net/sv/aspose.cells/formulasettings)
+* modul [`aspose.cells`](../../)
+* klass [`FormulaSettings`](/cells/python-net/sv/aspose.cells/formulasettings)

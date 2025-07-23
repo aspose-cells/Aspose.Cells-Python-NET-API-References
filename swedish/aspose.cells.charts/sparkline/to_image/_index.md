@@ -7,12 +7,13 @@ weight: 20
 url: /sv/aspose.cells.charts/sparkline/to_image/
 is_root: false
 ---
-##  to_image(file_name, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
-Konverterar en sparkline till en bild.
+##  to_image(self, file_name, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
+Konverterar ett miniatyrdiagram till en bild.
 
 
 
 ```python
+
 def to_image(self, file_name, options):
     ...
 ```
@@ -24,12 +25,13 @@ def to_image(self, file_name, options):
 | options | aspose.cells.rendering.ImageOrPrintOptions | Bildalternativen|
 
 
-##  to_image(stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
-Konverterar en sparkline till en bild.
+##  to_image(self, stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+Konverterar ett miniatyrdiagram till en bild.
 
 
 
 ```python
+
 def to_image(self, stream, options):
     ...
 ```
@@ -43,5 +45,5 @@ def to_image(self, stream, options):
 
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Sparkline](/cells/python-net/sv/aspose.cells.charts/sparkline)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Sparkline`](/cells/python-net/sv/aspose.cells.charts/sparkline)

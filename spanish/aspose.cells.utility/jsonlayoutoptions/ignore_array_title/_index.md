@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  ignore_array_title propiedad
 
-Indica si ignorar el título si la matriz es una propiedad del objeto.
+Indica si se debe ignorar el título si la matriz es una propiedad del objeto.
 
 ###  Observaciones
 
  NOTA: Esta propiedad ahora está obsoleta.
 En su lugar, utilice la propiedad JsonLayoutOptions.IgnoreTitle.
- Esta propiedad se eliminará 6 meses después desde febrero de 2023.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+ Esta propiedad será eliminada 6 meses después desde febrero de 2023.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 ###  Definición:
 ```python
 @property
@@ -28,5 +28,5 @@ def ignore_array_title(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.utility](../../)
-* clase [JsonLayoutOptions](/cells/python-net/es/aspose.cells.utility/jsonlayoutoptions)
+* módulo [`aspose.cells.utility`](../../)
+* clase [`JsonLayoutOptions`](/cells/python-net/es/aspose.cells.utility/jsonlayoutoptions)

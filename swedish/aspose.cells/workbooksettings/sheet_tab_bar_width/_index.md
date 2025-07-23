@@ -3,13 +3,13 @@ title: sheet_tab_bar_width fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 450
+weight: 480
 url: /sv/aspose.cells/workbooksettings/sheet_tab_bar_width/
 is_root: false
 ---
 ##  sheet_tab_bar_width fastighet
 
-Bredd på kalkylbladets flikfält (i 1/1000 av fönstrets bredd).
+Bredd på kalkylbladets flikfält (i 1/1000 av fönsterbredden).
 ###  Definition:
 ```python
 @property

@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  invert_if_negative fastighet
 
-Om egenskapen är sann och värdet på diagrampunkten är ett negativt tal,
-förgrundsfärgen och bakgrundsfärgen kommer att bytas ut.
+Om egenskapen är sann och värdet för diagrampunkten är ett negativt tal,
+Förgrundsfärgen och bakgrundsfärgen kommer att bytas ut.
 
 ###  Exempel
 
@@ -58,5 +58,5 @@ def invert_if_negative(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Floor](/cells/python-net/sv/aspose.cells.charts/floor)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Floor`](/cells/python-net/sv/aspose.cells.charts/floor)

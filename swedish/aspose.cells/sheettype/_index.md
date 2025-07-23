@@ -3,12 +3,12 @@ title: SheetType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2550
+weight: 2520
 url: /sv/aspose.cells/sheettype/
 is_root: false
 ---
 ##  SheetType uppräkning
-Anger kalkylbladstyp.
+Anger kalkylbladstypen.
 
 
 
@@ -17,13 +17,13 @@ Typen SheetType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| VB | Visual Basic-modul|
+| VB | Visual Basic-modulen|
 | WORKSHEET |  |
 | CHART | Diagram|
-| BIFF4_MACRO | BIFF4 Makroblad|
-| INTERNATIONAL_MACRO | Internationellt makroblad|
+| BIFF4_MACRO | BIFF4 Makroark|
+| INTERNATIONAL_MACRO | Internationellt makroark|
 | OTHER |  |
-| DIALOG |Dialog arbetsblad|
+| DIALOG |Dialogarbetsblad|
 
 
 

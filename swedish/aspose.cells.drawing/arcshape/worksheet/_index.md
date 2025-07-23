@@ -3,13 +3,13 @@ title: worksheet fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1280
+weight: 1290
 url: /sv/aspose.cells.drawing/arcshape/worksheet/
 is_root: false
 ---
 ##  worksheet fastighet
 
-Hämtar objektet [`Shape.worksheet`](/cells/python-net/sv/aspose.cells.drawing/shape#worksheet) som innehåller denna form.
+Hämtar objektet [`Shape.worksheet`](/cells/python-net/sv/aspose.cells.drawing/shape#worksheet) som innehåller den här formen.
 
 ###  Exempel
 

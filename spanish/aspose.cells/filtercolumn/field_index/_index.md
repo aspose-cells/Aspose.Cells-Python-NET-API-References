@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  field_index propiedad
 
-Obtiene y establece el desplazamiento de columna en el rango.
+Obtiene y establece el desplazamiento de la columna en el rango.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def field_index(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FilterColumn](/cells/python-net/es/aspose.cells/filtercolumn)
+* módulo [`aspose.cells`](../../)
+* clase [`FilterColumn`](/cells/python-net/es/aspose.cells/filtercolumn)

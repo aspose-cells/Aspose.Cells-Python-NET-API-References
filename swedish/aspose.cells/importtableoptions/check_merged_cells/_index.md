@@ -21,5 +21,5 @@ def check_merged_cells(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ImportTableOptions](/cells/python-net/sv/aspose.cells/importtableoptions)
+* modul [`aspose.cells`](../../)
+* klass [`ImportTableOptions`](/cells/python-net/sv/aspose.cells/importtableoptions)

@@ -3,13 +3,13 @@ title: html_string fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 520
+weight: 540
 url: /sv/aspose.cells/cell/html_string/
 is_root: false
 ---
 ##  html_string fastighet
 
-Hämtar och ställer in html-strängen som innehåller data och vissa format i denna cell.
+Hämtar och anger html-strängen som innehåller data och vissa format i den här cellen.
 ###  Definition:
 ```python
 @property

@@ -8,7 +8,7 @@ url: /sv/aspose.cells.markup/smarttagshowtype/
 is_root: false
 ---
 ##  SmartTagShowType uppräkning
-Representerar showtypen för den smarta taggen.
+Representerar visningstypen för smarttaggen.
 
 
 
@@ -17,11 +17,11 @@ Typen SmartTagShowType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| ALL | Indikerar att smarta taggar är aktiverade och visade|
-| NO_SMART_TAG_INDICATOR | Indikerar att smarta taggar är aktiverade men att indikatorn inte visas.|
+| ALL | Indikerar att smarta taggar är aktiverade och visas|
+| NO_SMART_TAG_INDICATOR |Indikerar att smarta taggar är aktiverade men indikatorn visas inte.|
 | NONE | Indikerar att smarta taggar är inaktiverade och inte visas.|
 
 
 
 ###  Se även
-* modul [aspose.cells.markup](..)
+* modul [`aspose.cells.markup`](..)

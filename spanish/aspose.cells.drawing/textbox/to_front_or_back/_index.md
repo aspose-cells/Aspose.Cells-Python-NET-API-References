@@ -3,16 +3,17 @@ title: método to_front_or_back
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 230
+weight: 240
 url: /es/aspose.cells.drawing/textbox/to_front_or_back/
 is_root: false
 ---
-##  to_front_or_back {#int}
-Trae la forma al frente o envía la forma hacia atrás.
+##  to_front_or_back(self, orders) {#int}
+Trae la forma al frente o la envía hacia atrás.
 
 
 
 ```python
+
 def to_front_or_back(self, orders):
     ...
 ```

@@ -3,7 +3,7 @@ title: ignore_not_printed fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 110
+weight: 130
 url: /sv/aspose.cells/xmlloadoptions/ignore_not_printed/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Ignorera data som inte skrivs ut om du skriver ut filen direkt
 
 ###  Anmärkningar
 
-Endast för xlsx-fil.
+Endast för xlsx-filer.
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def ignore_not_printed(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [XmlLoadOptions](/cells/python-net/sv/aspose.cells/xmlloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`XmlLoadOptions`](/cells/python-net/sv/aspose.cells/xmlloadoptions)

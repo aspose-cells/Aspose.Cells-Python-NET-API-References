@@ -3,7 +3,7 @@ title: current_region propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 290
+weight: 390
 url: /es/aspose.cells/range/current_region/
 is_root: false
 ---

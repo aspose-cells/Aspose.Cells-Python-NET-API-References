@@ -3,14 +3,14 @@ title: export_frame_scripts_and_properties propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 250
+weight: 320
 url: /es/aspose.cells.saving/ebooksaveoptions/export_frame_scripts_and_properties/
 is_root: false
 ---
 ##  export_frame_scripts_and_properties propiedad
 
-Indica si se exportan scripts de marcos y propiedades del documento. El valor predeterminado es verdadero. Si desea importar el archivo html o mht
-para sobresalir, mantenga el valor predeterminado.
+Indica si se exportan scripts de marco y propiedades de documento. El valor predeterminado es "true". Si desea importar el archivo HTML o MHT.
+Para sobresalir, mantenga el valor predeterminado.
 ###  Definición:
 ```python
 @property

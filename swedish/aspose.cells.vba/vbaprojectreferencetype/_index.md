@@ -17,11 +17,11 @@ Typen VbaProjectReferenceType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| REGISTERED | Anger en referens till ett bibliotek av automationstyp.|
-| CONTROL | Anger en referens till ett tvistad typbibliotek och dess utökade typbibliotek.|
+| REGISTERED | Anger en referens till ett bibliotek för automationstyper.|
+| CONTROL | Anger en referens till ett twiddled-typbibliotek och dess utökade typbibliotek.|
 | PROJECT | Anger en referens till ett externt VBA-projekt.|
 
 
 
 ###  Se även
-* modul [aspose.cells.vba](..)
+* modul [`aspose.cells.vba`](..)

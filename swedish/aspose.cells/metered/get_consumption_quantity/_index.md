@@ -8,16 +8,18 @@ url: /sv/aspose.cells/metered/get_consumption_quantity/
 is_root: false
 ---
 ##  get_consumption_quantity() {#}
-Får förbrukningsfilstorlek
+Hämtar förbrukningsfilstorlek
 
 
 ###  Returnerar
 
-konsumtionsmängd
+förbrukningsmängd
 
 
 ```python
-def get_consumption_quantity(self):
+
+@staticmethod
+def get_consumption_quantity():
     ...
 ```
 
@@ -26,5 +28,5 @@ def get_consumption_quantity(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Metered](/cells/python-net/sv/aspose.cells/metered)
+* modul [`aspose.cells`](../../)
+* klass [`Metered`](/cells/python-net/sv/aspose.cells/metered)

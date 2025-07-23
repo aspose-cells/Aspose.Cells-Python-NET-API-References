@@ -10,6 +10,7 @@ is_root: false
 ##  auto_size propiedad
 
 Indica si el tamaño del comentario se ajusta automáticamente según su contenido.
+Nota: En algunos casos especiales (como en entornos Mac), es posible que esta configuración no tenga efecto. Si no lo tiene, reemplácela con FitToTextSize().
 
 ###  Ejemplo
 

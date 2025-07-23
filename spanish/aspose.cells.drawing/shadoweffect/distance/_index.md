@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  distance propiedad
 
-Obtiene y establece el distance de la sombra. Rango de 0 a 200 puntos.
+Obtiene y establece el valor distance de la sombra. El rango es de 0 a 200 puntos.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def distance(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ShadowEffect](/cells/python-net/es/aspose.cells.drawing/shadoweffect)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ShadowEffect`](/cells/python-net/es/aspose.cells.drawing/shadoweffect)

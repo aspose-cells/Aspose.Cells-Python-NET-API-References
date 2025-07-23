@@ -3,13 +3,13 @@ title: type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 50
+weight: 40
 url: /sv/aspose.cells.drawing.texts/bullet/type/
 is_root: false
 ---
 ##  type fastighet
 
-Hämtar och ställer in type av kulan.
+Hämtar och ställer in type för punkt.
 ###  Definition:
 ```python
 @property

@@ -19,6 +19,6 @@ def cell(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.rendering](../../)
-* clase [Cell](/cells/python-net/es/aspose.cells/cell)
-* clase [DrawObject](/cells/python-net/es/aspose.cells.rendering/drawobject)
+* módulo [`aspose.cells.rendering`](../../)
+* clase [`Cell`](/cells/python-net/es/aspose.cells/cell)
+* clase [`DrawObject`](/cells/python-net/es/aspose.cells.rendering/drawobject)

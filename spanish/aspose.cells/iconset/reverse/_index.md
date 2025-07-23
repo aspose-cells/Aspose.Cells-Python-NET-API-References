@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  reverse propiedad
 
-Obtenga o establezca el indicador que indica si se invierte el orden predeterminado de los iconos en este conjunto de iconos.
+Obtenga o establezca la bandera que indica si se invierte el orden predeterminado de los íconos en este conjunto de íconos.
 El valor predeterminado es falso.
 ###  Definición:
 ```python
@@ -22,5 +22,5 @@ def reverse(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [IconSet](/cells/python-net/es/aspose.cells/iconset)
+* módulo [`aspose.cells`](../../)
+* clase [`IconSet`](/cells/python-net/es/aspose.cells/iconset)

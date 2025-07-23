@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  build_version fastighet
 
-Anger den inkrementella offentliga versionen av programmet.
+Anger den stegvisa offentliga versionen av programmet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def build_version(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WorkbookSettings](/cells/python-net/sv/aspose.cells/workbooksettings)
+* modul [`aspose.cells`](../../)
+* klass [`WorkbookSettings`](/cells/python-net/sv/aspose.cells/workbooksettings)

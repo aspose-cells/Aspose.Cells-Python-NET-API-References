@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_value fastighet
 
-Hämta eller ställ in flaggan som anger om värdena för cellerna som denna ikonuppsättning används på ska visas.
+Hämta eller ställ in flaggan som anger om värdena för de celler där denna ikonuppsättning tillämpas ska visas.
 Standardvärdet är sant.
 ###  Definition:
 ```python
@@ -22,5 +22,5 @@ def show_value(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [IconSet](/cells/python-net/sv/aspose.cells/iconset)
+* modul [`aspose.cells`](../../)
+* klass [`IconSet`](/cells/python-net/sv/aspose.cells/iconset)

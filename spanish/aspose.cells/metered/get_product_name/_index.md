@@ -7,7 +7,7 @@ weight: 40
 url: /es/aspose.cells/metered/get_product_name/
 is_root: false
 ---
-##  get_product_name {#}
+##  get_product_name(self) {#}
 Obtiene el nombre del producto
 
 
@@ -17,6 +17,7 @@ nombre del producto
 
 
 ```python
+
 def get_product_name(self):
     ...
 ```

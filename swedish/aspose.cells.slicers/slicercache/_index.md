@@ -8,7 +8,7 @@ url: /sv/aspose.cells.slicers/slicercache/
 is_root: false
 ---
 ##  SlicerCache klass
-sammanfattande beskrivning av slicer-cache
+Representerar en sammanfattande beskrivning av slicer-cachen
 
 
 
@@ -17,11 +17,11 @@ Typen SlicerCache avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [cross_filter_type](/cells/python-net/sv/aspose.cells.slicers/slicercache/cross_filter_type) | Returnerar eller ställer in om en slicer deltar i korsfiltrering med andra slicers<br/> som delar samma slicercache och hur korsfiltrering visas. Läsa skriva|
-| [list](/cells/python-net/sv/aspose.cells.slicers/slicercache/list) | Returnerar om utsnittet som är kopplat till den angivna utsnittscachen är baserad på en icke-OLAP-datakälla. Skrivskyddad|
-| [slicer_cache_items](/cells/python-net/sv/aspose.cells.slicers/slicercache/slicer_cache_items) | Returnerar en SlicerCacheItem-samling som innehåller samlingen av alla objekt i slicercachen. Skrivskyddad|
+| [cross_filter_type](/cells/python-net/sv/aspose.cells.slicers/slicercache/cross_filter_type) | Returnerar eller anger om en utskivare deltar i korsfiltrering med andra utskivare<br/> som delar samma slicer-cache och hur korsfiltrering visas. Läs/skriv|
+| [list](/cells/python-net/sv/aspose.cells.slicers/slicercache/list) | Returnerar om utsnittet som är associerat med den angivna utsnittscachen är baserad på en icke-OLAP-datakälla.|
+| [slicer_cache_items](/cells/python-net/sv/aspose.cells.slicers/slicercache/slicer_cache_items) | Returnerar en SlicerCacheItem-samling som innehåller samlingen av alla objekt i slicer-cachen. Skrivskyddad|
 | [name](/cells/python-net/sv/aspose.cells.slicers/slicercache/name) | Returnerar namnet på slicer-cachen.|
-| [source_name](/cells/python-net/sv/aspose.cells.slicers/slicercache/source_name) | Returnerar namnet på cachefältet|
+| [source_name](/cells/python-net/sv/aspose.cells.slicers/slicercache/source_name) | Returnerar namnet på denna slicer-cache.|
 
 
 
@@ -83,4 +83,4 @@ book.save("out.xlsx")
 ```
 
 ###  Se även
-* modul [aspose.cells.slicers](..)
+* modul [`aspose.cells.slicers`](..)

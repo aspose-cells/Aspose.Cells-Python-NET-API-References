@@ -7,16 +7,17 @@ weight: 270
 url: /sv/aspose.cells/cells/end_cell_in_column/
 is_root: false
 ---
-##  end_cell_in_column(column_index) {#int}
-Hämtar den sista cellen i denna kolumn.
+##  end_cell_in_column(self, column_index) {#int}
+Hämtar den sista cellen i den här kolumnen.
 
 
 ###  Returnerar
 
-Cell objekt.
+Cell-objekt.
 
 
 ```python
+
 def end_cell_in_column(self, column_index):
     ...
 ```
@@ -27,16 +28,17 @@ def end_cell_in_column(self, column_index):
 | column_index | int | Kolumnindex.|
 
 
-##  end_cell_in_column(start_row, end_row, start_column, end_column) {#int-int-int-int}
+##  end_cell_in_column(self, start_row, end_row, start_column, end_column) {#int-int-int-int}
 Hämtar den sista cellen med maximalt kolumnindex i detta intervall.
 
 
 ###  Returnerar
 
-Cell objekt.
+Cell-objekt.
 
 
 ```python
+
 def end_cell_in_column(self, start_row, end_row, start_column, end_column):
     ...
 ```
@@ -44,13 +46,13 @@ def end_cell_in_column(self, start_row, end_row, start_column, end_column):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| start_row | int | Starta radindex.|
-| end_row | int | Slutradindex.|
-| start_column | int | Starta kolumnindex.|
-| end_column | int | Slut kolumnindex.|
+| start_row | int | Index för startrad.|
+| end_row | int | Index för slutrad.|
+| start_column | int |Starta kolumnindex.|
+| end_column | int | Index för slutkolumn.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

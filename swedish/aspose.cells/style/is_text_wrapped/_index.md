@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_text_wrapped fastighet
 
-Hämtar eller ställer in ett värde som anger om texten i en cell är radbruten.
+Hämtar eller anger ett värde som anger om texten i en cell är radbruten.
 ###  Definition:
 ```python
 @property

@@ -8,7 +8,7 @@ url: /sv/aspose.cells.properties/contenttypeproperty/
 is_root: false
 ---
 ##  ContentTypeProperty klass
-Representerar identifieringsinformation.
+Representerar identifierarinformation.
 
 
 
@@ -18,9 +18,9 @@ Typen ContentTypeProperty avslöjar följande medlemmar:
 | Fast egendom| Beskrivning|
 | :- | :- |
 | [name](/cells/python-net/sv/aspose.cells.properties/contenttypeproperty/name) | Returnerar eller anger namnet på objektet.|
-| [value](/cells/python-net/sv/aspose.cells.properties/contenttypeproperty/value) | Returnerar eller ställer in värdet för innehållstypsegenskapen.|
-| [type](/cells/python-net/sv/aspose.cells.properties/contenttypeproperty/type) | Hämtar och ställer in typ av fastighet.|
-| [is_nillable](/cells/python-net/sv/aspose.cells.properties/contenttypeproperty/is_nillable) | Indikerar om värdet kan vara tomt.|
+| [value](/cells/python-net/sv/aspose.cells.properties/contenttypeproperty/value) | Returnerar eller anger värdet för innehållstypsegenskapen.|
+| [type](/cells/python-net/sv/aspose.cells.properties/contenttypeproperty/type) | Hämtar och anger egenskapstypen.|
+| [is_nillable](/cells/python-net/sv/aspose.cells.properties/contenttypeproperty/is_nillable) | Anger om värdet kan vara tomt.|
 
 
 
@@ -39,4 +39,4 @@ workbook.save("book1.xlsm")
 ```
 
 ###  Se även
-* modul [aspose.cells.properties](..)
+* modul [`aspose.cells.properties`](..)

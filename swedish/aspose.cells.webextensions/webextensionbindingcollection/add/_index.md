@@ -7,7 +7,7 @@ weight: 20
 url: /sv/aspose.cells.webextensions/webextensionbindingcollection/add/
 is_root: false
 ---
-##  add() {#}
+##  add(self) {#}
 Lägger till en bindande relation mellan ett Office-tillägg och data i dokumentet.
 
 
@@ -17,6 +17,7 @@ Lägger till en bindande relation mellan ett Office-tillägg och data i dokument
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ###  Se även
-* modul [aspose.cells.webextensions](../../)
-* klass [WebExtensionBindingCollection](/cells/python-net/sv/aspose.cells.webextensions/webextensionbindingcollection)
+* modul [`aspose.cells.webextensions`](../../)
+* klass [`WebExtensionBindingCollection`](/cells/python-net/sv/aspose.cells.webextensions/webextensionbindingcollection)

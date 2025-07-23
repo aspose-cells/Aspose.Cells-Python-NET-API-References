@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  start_row fastighet
 
-Hämtar startradindex för den vertikala sidbrytningen.
+Hämtar startradsindexet för den vertikala sidbrytningen.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def start_row(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [VerticalPageBreak](/cells/python-net/sv/aspose.cells/verticalpagebreak)
+* modul [`aspose.cells`](../../)
+* klass [`VerticalPageBreak`](/cells/python-net/sv/aspose.cells/verticalpagebreak)

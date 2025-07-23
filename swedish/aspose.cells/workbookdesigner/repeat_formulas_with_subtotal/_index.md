@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  repeat_formulas_with_subtotal fastighet
 
-Anger om repeterande formler med delsumma rad.
+Anger om upprepade formler med delsummarad är obligatoriska.
 ###  Definition:
 ```python
 @property

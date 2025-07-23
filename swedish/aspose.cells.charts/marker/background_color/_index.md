@@ -21,5 +21,5 @@ def background_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Marker](/cells/python-net/sv/aspose.cells.charts/marker)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Marker`](/cells/python-net/sv/aspose.cells.charts/marker)

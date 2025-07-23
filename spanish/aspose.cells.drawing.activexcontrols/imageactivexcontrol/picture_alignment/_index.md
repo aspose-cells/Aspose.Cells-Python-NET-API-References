@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  picture_alignment propiedad
 
-Obtiene y establece la alineación de la imagen dentro del Formulario o Imagen.
+Obtiene y establece la alineación de la imagen dentro del formulario o imagen.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def picture_alignment(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [ControlPictureAlignmentType](/cells/python-net/es/aspose.cells.drawing.activexcontrols/controlpicturealignmenttype)
-* clase [ImageActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`ControlPictureAlignmentType`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/controlpicturealignmenttype)
+* clase [`ImageActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

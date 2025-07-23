@@ -3,13 +3,20 @@ title: is_lock_aspect_ratio fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 600
+weight: 610
 url: /sv/aspose.cells.drawing/button/is_lock_aspect_ratio/
 is_root: false
 ---
 ##  is_lock_aspect_ratio fastighet
 
-True betyder att det inte tillåter ändringar i bildförhållande.
+Sant betyder att bildförhållandet för formen är låst.
+
+###  Anmärkningar
+
+Endast för bilder och Ole-objekt.
+ OBS! Den här medlemmen är nu föråldrad. Använd istället egenskapen Shape.IsAspectRatioLocked.
+ Den här egenskapen kommer att tas bort 12 månader senare från och med juli 2024.
+Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 
 ###  Exempel
 

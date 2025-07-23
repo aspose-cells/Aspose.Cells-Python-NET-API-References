@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type fastighet
 
-Representerar felfältsbeloppet type.
+Representerar felstapelbeloppet type.
 
 ###  Exempel
 
@@ -37,6 +37,6 @@ def type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ErrorBar](/cells/python-net/sv/aspose.cells.charts/errorbar)
-* klass [ErrorBarType](/cells/python-net/sv/aspose.cells.charts/errorbartype)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ErrorBar`](/cells/python-net/sv/aspose.cells.charts/errorbar)
+* klass [`ErrorBarType`](/cells/python-net/sv/aspose.cells.charts/errorbartype)

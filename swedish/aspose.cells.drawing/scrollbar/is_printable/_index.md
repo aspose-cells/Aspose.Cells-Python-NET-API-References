@@ -3,13 +3,14 @@ title: is_printable fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 650
+weight: 660
 url: /sv/aspose.cells.drawing/scrollbar/is_printable/
 is_root: false
 ---
 ##  is_printable fastighet
 
-Sant om objektet är utskrivbart
+Anger om objektet är utskrivbart.
+Om värdet är falskt kommer formen inte att skrivas ut.
 
 ###  Exempel
 

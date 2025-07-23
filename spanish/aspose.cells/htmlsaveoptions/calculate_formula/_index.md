@@ -3,13 +3,13 @@ title: calculate_formula propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 70
+weight: 80
 url: /es/aspose.cells/htmlsaveoptions/calculate_formula/
 is_root: false
 ---
 ##  calculate_formula propiedad
 
-Indica si se deben calcular fórmulas antes de guardar el archivo html.
+Indica si se deben calcular las fórmulas antes de guardar el archivo html.
 
 ###  Observaciones
 

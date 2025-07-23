@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_formula propiedad
 
-Indica si el texto es fórmula si comienza con "=".
+Indica si el texto es una fórmula si comienza con "=".
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def has_formula(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [TxtLoadOptions](/cells/python-net/es/aspose.cells/txtloadoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`TxtLoadOptions`](/cells/python-net/es/aspose.cells/txtloadoptions)

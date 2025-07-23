@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  legend_entry fastighet
 
-Får legendposten enligt denna trendlinje
+Hämtar förklaringsposten enligt denna trendlinje
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def legend_entry(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [LegendEntry](/cells/python-net/sv/aspose.cells.charts/legendentry)
-* klass [Trendline](/cells/python-net/sv/aspose.cells.charts/trendline)
+* modul [`aspose.cells.charts`](../../)
+* klass [`LegendEntry`](/cells/python-net/sv/aspose.cells.charts/legendentry)
+* klass [`Trendline`](/cells/python-net/sv/aspose.cells.charts/trendline)

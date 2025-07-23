@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  time_period propiedad
 
- El período de tiempo aplicable en una regla de formato condicional "fecha que ocurre...".
-Válido solo para type = timePeriod.
+ El período de tiempo aplicable en una regla de formato condicional del tipo "fecha que ocurre...".
+Válido sólo para el tipo = timePeriod.
 El valor predeterminado es TimePeriodType.Today.
 ###  Definición:
 ```python
@@ -23,6 +23,6 @@ def time_period(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FormatCondition](/cells/python-net/es/aspose.cells/formatcondition)
-* clase [TimePeriodType](/cells/python-net/es/aspose.cells/timeperiodtype)
+* módulo [`aspose.cells`](../../)
+* clase [`FormatCondition`](/cells/python-net/es/aspose.cells/formatcondition)
+* clase [`TimePeriodType`](/cells/python-net/es/aspose.cells/timeperiodtype)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  load_data_filter_options fastighet
 
-Filteralternativen för att ange vilken data som ska laddas.
+Filteralternativen för att ange vilka data som ska laddas.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def load_data_filter_options(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [LoadDataFilterOptions](/cells/python-net/sv/aspose.cells/loaddatafilteroptions)
-* klass [LoadFilter](/cells/python-net/sv/aspose.cells/loadfilter)
+* modul [`aspose.cells`](../../)
+* klass [`LoadDataFilterOptions`](/cells/python-net/sv/aspose.cells/loaddatafilteroptions)
+* klass [`LoadFilter`](/cells/python-net/sv/aspose.cells/loadfilter)

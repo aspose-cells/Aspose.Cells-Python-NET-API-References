@@ -3,13 +3,13 @@ title: paragraphs propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 330
+weight: 340
 url: /es/aspose.cells.properties/builtindocumentpropertycollection/paragraphs/
 is_root: false
 ---
 ##  paragraphs propiedad
 
-Representa una estimación del número paragraphs en el documento.
+Representa una estimación del número de paragraphs en el documento.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def paragraphs(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.properties](../../)
-* clase [BuiltInDocumentPropertyCollection](/cells/python-net/es/aspose.cells.properties/builtindocumentpropertycollection)
+* módulo [`aspose.cells.properties`](../../)
+* clase [`BuiltInDocumentPropertyCollection`](/cells/python-net/es/aspose.cells.properties/builtindocumentpropertycollection)

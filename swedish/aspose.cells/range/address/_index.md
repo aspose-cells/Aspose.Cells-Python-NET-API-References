@@ -3,13 +3,13 @@ title: address fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 260
+weight: 360
 url: /sv/aspose.cells/range/address/
 is_root: false
 ---
 ##  address fastighet
 
-Får address av sortimentet.
+Hämtar address i intervallet.
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  right fastighet
 
-Får eller ställer in right offset för sträckbild.
+Hämtar eller ställer in offseten right för att sträcka bilden.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def right(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [PicFormatOption](/cells/python-net/sv/aspose.cells.drawing/picformatoption)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`PicFormatOption`](/cells/python-net/sv/aspose.cells.drawing/picformatoption)

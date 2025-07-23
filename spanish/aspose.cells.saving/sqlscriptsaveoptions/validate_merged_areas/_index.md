@@ -3,13 +3,13 @@ title: validate_merged_areas propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 270
+weight: 290
 url: /es/aspose.cells.saving/sqlscriptsaveoptions/validate_merged_areas/
 is_root: false
 ---
 ##  validate_merged_areas propiedad
 
-Indica si validar las celdas combinadas antes de guardar el archivo.
+Indica si se deben validar las celdas fusionadas antes de guardar el archivo.
 
 ###  Observaciones
 
@@ -25,5 +25,5 @@ def validate_merged_areas(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.saving](../../)
-* clase [SqlScriptSaveOptions](/cells/python-net/es/aspose.cells.saving/sqlscriptsaveoptions)
+* módulo [`aspose.cells.saving`](../../)
+* clase [`SqlScriptSaveOptions`](/cells/python-net/es/aspose.cells.saving/sqlscriptsaveoptions)

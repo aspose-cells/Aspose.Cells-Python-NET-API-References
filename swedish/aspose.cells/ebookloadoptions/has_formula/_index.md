@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_formula fastighet
 
-Anger om texten är formel om den börjar med "=".
+Anger om texten är en formel om den börjar med "=".
 ###  Definition:
 ```python
 @property

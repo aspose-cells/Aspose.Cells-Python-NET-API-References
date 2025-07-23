@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color fastighet
 
-Hämta eller ställ in denna DataBars färg.
+Hämta eller ställ in färgen på denna datafält.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DataBar](/cells/python-net/sv/aspose.cells/databar)
+* modul [`aspose.cells`](../../)
+* klass [`DataBar`](/cells/python-net/sv/aspose.cells/databar)

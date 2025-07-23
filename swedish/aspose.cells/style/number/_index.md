@@ -9,18 +9,18 @@ is_root: false
 ---
 ##  number fastighet
 
-Hämtar eller ställer in visningsformat för siffror och datum. Formateringsmönstren är olika för olika regioner.
+Hämtar eller ställer in visningsformatet för siffror och datum. Formateringsmönstren skiljer sig åt för olika regioner.
 
 ###  Anmärkningar
 
-Till exempel, formatmönstren som representeras av siffror för en_US-regionen:
+Till exempel formateringsmönstren som representeras av siffror för regionen sv_US:
 | Värde| Typ| Formatera sträng|
 | :- | :- | :- |
 | 0| Allmän|
-| 1|Decimal|
-| 2|Decimal|
-| 3|Decimal|
-| 4|Decimal|
+| 1| Decimal|
+| 2| Decimal|
+| 3| Decimal|
+| 4| Decimal|
 | 5| Valuta|
 | 6| Valuta|
 | 7| Valuta|
@@ -28,8 +28,8 @@ Till exempel, formatmönstren som representeras av siffror för en_US-regionen:
 | 9| Procentsats|
 | 10| Procentsats|
 | 11| Vetenskaplig|
-| 12| Fraktion|
-| 13| Fraktion|
+| 12|Fraktion|
+| 13|Fraktion|
 | 14| Datum|
 | 15| Datum|
 | 16| Datum|

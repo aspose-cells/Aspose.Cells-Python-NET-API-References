@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_gray fastighet
 
-Indikerar om denna bild ska visas i gråskala.
+Anger om bilden ska visas i gråskala.
 ###  Definition:
 ```python
 @property

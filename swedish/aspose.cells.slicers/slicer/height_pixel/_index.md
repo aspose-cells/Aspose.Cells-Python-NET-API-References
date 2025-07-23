@@ -9,7 +9,14 @@ is_root: false
 ---
 ##  height_pixel fastighet
 
-Returnerar eller ställer in höjden på det angivna utsnittet i pixlar.
+Returnerar eller anger höjden på den angivna utsnittet, i pixlar.
+
+###  Anmärkningar
+
+ OBS! Denna medlem är nu föråldrad. Istället,
+ Använd egenskapen Shape.Height.
+ Den här egenskapen kommer att tas bort 12 månader senare från och med maj 2025.
+Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 
 ###  Exempel
 
@@ -29,5 +36,5 @@ def height_pixel(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.slicers](../../)
-* klass [Slicer](/cells/python-net/sv/aspose.cells.slicers/slicer)
+* modul [`aspose.cells.slicers`](../../)
+* klass [`Slicer`](/cells/python-net/sv/aspose.cells.slicers/slicer)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  date_format fastighet
 
-Hämtar eller ställer in datumformatsträng för celler med importerade datetime-värden.
+Hämtar eller ställer in datumformatsträng för celler med importerade datum- och tidsvärden.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def date_format(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ImportTableOptions](/cells/python-net/sv/aspose.cells/importtableoptions)
+* modul [`aspose.cells`](../../)
+* klass [`ImportTableOptions`](/cells/python-net/sv/aspose.cells/importtableoptions)

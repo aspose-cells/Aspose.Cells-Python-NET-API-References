@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  load_formulas fastighet
 
-Anger om formler importeras om den ursprungliga html-filen innehåller formler
+Anger om formler ska importeras om den ursprungliga HTML-filen innehåller formler
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def load_formulas(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HtmlLoadOptions](/cells/python-net/sv/aspose.cells/htmlloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`HtmlLoadOptions`](/cells/python-net/sv/aspose.cells/htmlloadoptions)

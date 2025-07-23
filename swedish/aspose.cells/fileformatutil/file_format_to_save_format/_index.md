@@ -7,8 +7,8 @@ weight: 40
 url: /sv/aspose.cells/fileformatutil/file_format_to_save_format/
 is_root: false
 ---
-##  file_format_to_save_format(format) {#FileFormatType}
-Konvertera filformat till sparformat.
+##  file_format_to_save_format(, format){#aspose.cells.FileFormatType}
+Konverterar filformat till sparformat.
 
 
 ###  Returnerar
@@ -17,17 +17,19 @@ Konvertera filformat till sparformat.
 
 
 ```python
-def file_format_to_save_format(self, format):
+
+@staticmethod
+def file_format_to_save_format(format):
     ...
 ```
 
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| format | [FileFormatType](/cells/python-net/sv/aspose.cells/fileformattype) | Filformatstypen.|
+| format | [`FileFormatType`](/cells/python-net/sv/aspose.cells/fileformattype) | Filformattypen.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FileFormatUtil](/cells/python-net/sv/aspose.cells/fileformatutil)
+* modul [`aspose.cells`](../../)
+* klass [`FileFormatUtil`](/cells/python-net/sv/aspose.cells/fileformatutil)

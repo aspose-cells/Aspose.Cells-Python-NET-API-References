@@ -3,13 +3,13 @@ title: text_orientation_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1080
+weight: 1090
 url: /sv/aspose.cells.drawing/listbox/text_orientation_type/
 is_root: false
 ---
 ##  text_orientation_type fastighet
 
-Hämtar och ställer in formens textorienteringstyp.
+Hämtar och anger textorienteringstypen för formen.
 
 ###  Exempel
 

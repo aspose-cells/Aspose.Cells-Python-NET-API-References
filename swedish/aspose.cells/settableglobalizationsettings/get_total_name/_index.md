@@ -7,8 +7,8 @@ weight: 280
 url: /sv/aspose.cells/settableglobalizationsettings/get_total_name/
 is_root: false
 ---
-##  get_total_name {#aspose.cells.ConsolidationFunction}
-Får det totala namnet på specifik funktion.
+##  get_total_name(self, function_type) {#aspose.cells.ConsolidationFunction}
+Hämtar det totala namnet på en specifik funktion.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Funktionens totala namn.
 
 
 ```python
+
 def get_total_name(self, function_type):
     ...
 ```

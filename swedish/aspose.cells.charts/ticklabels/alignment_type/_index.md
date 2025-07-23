@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  alignment_type fastighet
 
-Hämtar och ställer in textjusteringen för bocketiketterna på axeln.
+Hämtar och ställer in textjusteringen för skalstrecketiketterna på axeln.
 ###  Definition:
 ```python
 @property

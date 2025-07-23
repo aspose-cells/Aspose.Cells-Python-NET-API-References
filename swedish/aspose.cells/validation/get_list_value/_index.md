@@ -7,18 +7,19 @@ weight: 70
 url: /sv/aspose.cells/validation/get_list_value/
 is_root: false
 ---
-##  get_list_value(row, column) {#int-int}
-Hämta värdet för lista för valideringen för den angivna cellen.
+##  get_list_value(self, row, column) {#int-int}
+Hämta värdet för listan för valideringen för den angivna cellen.
 
 
 ###  Returnerar
 
-Värdet för att skapa listan över denna validering för den angivna cellen.
-Om listan hänvisar till ett område, kommer det returnerade värdet att vara ett [ReferredArea](/cells/python-net/sv/aspose.cells/referredarea)-objekt;
-Annars kan det returnerade värdet vara null, objekt[] eller enkelt objekt.
+Värdet som ska producera listan för denna validering för den angivna cellen.
+Om listan refererar till ett intervall, kommer det returnerade värdet att vara ett [`ReferredArea`](/cells/python-net/sv/aspose.cells/referredarea)-objekt;
+Annars kan det returnerade värdet vara null, object[] eller simple object.
 
 
 ```python
+
 def get_list_value(self, row, column):
     ...
 ```
@@ -26,15 +27,15 @@ def get_list_value(self, row, column):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| row | int | Radindex.|
-| column | int | Kolumnindex.|
+| row | int | Radindexet.|
+| column | int | Kolumnindexet.|
 ###  Anmärkningar
 
 Endast för validering vars typ är List och har tillämpats på en given cell,
-annars kommer null att returneras.
+annars returneras null.
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ReferredArea](/cells/python-net/sv/aspose.cells/referredarea)
-* klass [Validation](/cells/python-net/sv/aspose.cells/validation)
+* modul [`aspose.cells`](../../)
+* klass [`ReferredArea`](/cells/python-net/sv/aspose.cells/referredarea)
+* klass [`Validation`](/cells/python-net/sv/aspose.cells/validation)

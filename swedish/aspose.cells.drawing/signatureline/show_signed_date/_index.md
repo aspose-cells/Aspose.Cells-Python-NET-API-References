@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_signed_date fastighet
 
-Anger om visa undertecknat datum.
+Anger om signeringsdatum visas.
 
 ###  Exempel
 
@@ -30,5 +30,5 @@ def show_signed_date(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [SignatureLine](/cells/python-net/sv/aspose.cells.drawing/signatureline)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`SignatureLine`](/cells/python-net/sv/aspose.cells.drawing/signatureline)

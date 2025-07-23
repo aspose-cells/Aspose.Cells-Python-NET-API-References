@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  gradient_variant propiedad
 
-Devuelve la variante de degradado del relleno especificado.
-Solo aplica para Excel 2007.
+Devuelve la variante de degradado para el relleno especificado.
+Sólo se aplica para Excel 2007.
 
 ###  Observaciones
 
-Solo puede ser un valor del 1 al 4, correspondiente a una de las cuatro variantes en la pestaña Degradado en el cuadro de diálogo Efectos de relleno. Si el estilo es GradientStyle.FromCenter, el argumento Variant solo puede ser 1 o 2.
+Solo puede ser un valor entre 1 y 4, correspondiente a una de las cuatro variantes de la pestaña Degradado del cuadro de diálogo Efectos de relleno. Si el estilo es GradientStyle.FromCenter, el argumento Variant solo puede ser 1 o 2.
 ###  Definición:
 ```python
 @property
@@ -23,5 +23,5 @@ def gradient_variant(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [FillFormat](/cells/python-net/es/aspose.cells.drawing/fillformat)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`FillFormat`](/cells/python-net/es/aspose.cells.drawing/fillformat)

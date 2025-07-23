@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  preset_shape fastighet
 
-Hämtar och ställer in den förinställda formtypen.
+Hämtar och anger den förinställda formtypen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def preset_shape(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [MsoPresetTextEffectShape](/cells/python-net/sv/aspose.cells.drawing/msopresettexteffectshape)
-* klass [TextEffectFormat](/cells/python-net/sv/aspose.cells.drawing/texteffectformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`MsoPresetTextEffectShape`](/cells/python-net/sv/aspose.cells.drawing/msopresettexteffectshape)
+* klass [`TextEffectFormat`](/cells/python-net/sv/aspose.cells.drawing/texteffectformat)

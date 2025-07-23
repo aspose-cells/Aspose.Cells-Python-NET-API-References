@@ -3,13 +3,13 @@ title: left fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 670
+weight: 680
 url: /sv/aspose.cells.drawing/label/left/
 is_root: false
 ---
 ##  left fastighet
 
-Representerar den horisontella förskjutningen av formen från dess kolumn left, i pixelenhet.
+Representerar den horisontella förskjutningen av formen från dess kolumn left, i pixlar.
 
 ###  Exempel
 

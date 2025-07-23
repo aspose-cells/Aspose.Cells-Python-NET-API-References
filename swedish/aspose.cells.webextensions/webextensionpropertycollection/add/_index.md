@@ -7,8 +7,8 @@ weight: 20
 url: /sv/aspose.cells.webextensions/webextensionpropertycollection/add/
 is_root: false
 ---
-##  add(name, value) {#str-str}
-Lägger till egendom för webbtillägg.
+##  add(self, name, value) {#str-str}
+Lägger till egenskapen för webbtillägg.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Indexet för tillagd egendom.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -24,11 +25,11 @@ def add(self, name, value):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| name | str | Egendomens namn.|
-| value | str | Egendomens värde.|
+| name | str | Fastighetens namn.|
+| value | str | Värdet på egendomen.|
 
 
 
 ###  Se även
-* modul [aspose.cells.webextensions](../../)
-* klass [WebExtensionPropertyCollection](/cells/python-net/sv/aspose.cells.webextensions/webextensionpropertycollection)
+* modul [`aspose.cells.webextensions`](../../)
+* klass [`WebExtensionPropertyCollection`](/cells/python-net/sv/aspose.cells.webextensions/webextensionpropertycollection)

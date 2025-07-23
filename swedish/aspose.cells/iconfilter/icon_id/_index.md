@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  icon_id fastighet
 
-Hämtar och ställer in nollbaserat index för en ikon i en ikonuppsättning.
+Hämtar och anger ett nollbaserat index för en ikon i en ikonuppsättning.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def icon_id(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [IconFilter](/cells/python-net/sv/aspose.cells/iconfilter)
+* modul [`aspose.cells`](../../)
+* klass [`IconFilter`](/cells/python-net/sv/aspose.cells/iconfilter)

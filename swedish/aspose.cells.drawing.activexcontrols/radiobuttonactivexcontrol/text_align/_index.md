@@ -8,8 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/text_ali
 is_root: false
 ---
 ##  text_align fastighet
-
-Representerar hur man justerar texten som används av kontrollen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +19,6 @@ def text_align(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [RadioButtonActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
-* klass [TextAlignmentType](/cells/python-net/sv/aspose.cells/textalignmenttype)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`RadioButtonActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* klass [`TextAlignmentType`](/cells/python-net/sv/aspose.cells/textalignmenttype)

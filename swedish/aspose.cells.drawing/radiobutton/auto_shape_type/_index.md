@@ -3,13 +3,13 @@ title: auto_shape_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 310
+weight: 320
 url: /sv/aspose.cells.drawing/radiobutton/auto_shape_type/
 is_root: false
 ---
 ##  auto_shape_type fastighet
 
-Hämtar och ställer in den automatiska formtypen.
+Hämtar och anger den automatiska formtypen.
 
 ###  Exempel
 

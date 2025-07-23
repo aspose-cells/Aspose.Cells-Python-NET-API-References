@@ -3,7 +3,7 @@ title: text_direction propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 980
+weight: 1000
 url: /es/aspose.cells.drawing/radiobutton/text_direction/
 is_root: false
 ---

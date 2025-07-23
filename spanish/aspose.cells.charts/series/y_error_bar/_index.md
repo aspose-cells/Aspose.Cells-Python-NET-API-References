@@ -3,7 +3,7 @@ title: y_error_bar propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 540
+weight: 550
 url: /es/aspose.cells.charts/series/y_error_bar/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def y_error_bar(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [ErrorBar](/cells/python-net/es/aspose.cells.charts/errorbar)
-* clase [Series](/cells/python-net/es/aspose.cells.charts/series)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`ErrorBar`](/cells/python-net/es/aspose.cells.charts/errorbar)
+* clase [`Series`](/cells/python-net/es/aspose.cells.charts/series)

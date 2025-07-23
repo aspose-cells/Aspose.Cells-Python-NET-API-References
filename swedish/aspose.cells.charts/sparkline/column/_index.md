@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column fastighet
 
-Hämtar column index för sparkline.
+Hämtar column-indexet för miniatyrdiagrammet.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def column(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Sparkline](/cells/python-net/sv/aspose.cells.charts/sparkline)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Sparkline`](/cells/python-net/sv/aspose.cells.charts/sparkline)

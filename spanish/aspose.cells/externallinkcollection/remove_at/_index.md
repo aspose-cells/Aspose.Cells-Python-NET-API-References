@@ -1,5 +1,5 @@
 ---
-title: remove_at método
+title: método remove_at
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 40
 url: /es/aspose.cells/externallinkcollection/remove_at/
 is_root: false
 ---
-##  remove_at(index) {#int}
-Elimina el vínculo externo especificado del libro de trabajo.
+##  remove_at(self, index) {#int}
+Elimina el enlace externo especificado del libro de trabajo.
 
 
 
 ```python
+
 def remove_at(self, index):
     ...
 ```
@@ -20,18 +21,19 @@ def remove_at(self, index):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| index | int | el índice del enlace externo que se va a eliminar.|
+| index | int | el índice del enlace externo que se eliminará.|
 ###  Observaciones
 
-Al eliminar el enlace externo, todas las fórmulas que hacen referencia a él también se eliminarán porque
-las referencias dejan de ser válidas.
+Al eliminar el enlace externo, también se eliminarán todas las fórmulas que hagan referencia a él porque
+Las referencias dejan de ser válidas.
 
-##  remove_at(index, update_references_as_local) {#int-bool}
-Elimina el vínculo externo especificado del libro de trabajo.
+##  remove_at(self, index, update_references_as_local) {#int-bool}
+Elimina el enlace externo especificado del libro de trabajo.
 
 
 
 ```python
+
 def remove_at(self, index, update_references_as_local):
     ...
 ```
@@ -39,18 +41,11 @@ def remove_at(self, index, update_references_as_local):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| index | int | el índice del enlace externo que se va a eliminar.|
-| update_references_as_local | bool | Si actualiza todas las referencias del enlace externo dado a la referencia del libro de trabajo actual.|
-###  Observaciones
+| index | int | el índice del enlace externo que se eliminará.|
+| update_references_as_local | bool | Si desea actualizar todas las referencias del enlace externo dado a la referencia del libro de trabajo actual.<br/> Consulte [`ExternalLinkCollection.clear`](/cells/python-net/es/aspose.cells/externallinkcollection/clear) para obtener más detalles sobre este parámetro.|
 
-Si es necesario actualizar las referencias, las referencias a enlaces externos en fórmulas se cambiarán al libro de trabajo actual.
-Por ejemplo, el enlace externo que se eliminará es "externalsource.xlam" y define una función personalizada "función personalizada()",
-la fórmula original de una celda es "='fuenteexterna.xlam'!funciónpersonalizada()",
-después de eliminar la fórmula se convertirá en "=función personalizada()".
-Si no es necesario actualizar la referencia, todas las fórmulas con referencia a este enlace externo
-también se eliminará porque esas referencias dejan de ser válidas.
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ExternalLinkCollection](/cells/python-net/es/aspose.cells/externallinkcollection)
+* módulo [`aspose.cells`](../../)
+* clase [`ExternalLinkCollection`](/cells/python-net/es/aspose.cells/externallinkcollection)

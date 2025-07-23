@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  horizontal_axis_date_range fastighet
 
-Representerar intervallet som innehåller datumvärdena för sparklinedata.
+Representerar det intervall som innehåller datumvärdena för sparkline-data.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def horizontal_axis_date_range(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [SparklineGroup](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)
+* modul [`aspose.cells.charts`](../../)
+* klass [`SparklineGroup`](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)

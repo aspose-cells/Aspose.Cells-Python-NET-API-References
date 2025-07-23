@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_last_point fastighet
 
-Indikerar om den sista datapunkten i sparklinegruppen ska markeras.
+Anger om den sista datapunkten i miniatyrbildsgruppen ska markeras.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_last_point(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [SparklineGroup](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)
+* modul [`aspose.cells.charts`](../../)
+* klass [`SparklineGroup`](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)

@@ -3,13 +3,13 @@ title: text fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 450
+weight: 520
 url: /sv/aspose.cells.charts/datalabels/text/
 is_root: false
 ---
 ##  text fastighet
 
-Hämtar eller ställer in dataetiketten text.
+Hämtar eller ställer in text för dataetiketten.
 ###  Definition:
 ```python
 @property

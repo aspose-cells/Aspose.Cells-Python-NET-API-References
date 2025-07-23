@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  tick_label_items fastighet
 
-Hämtar information om axel för varje ticketikettobjekt.
+Hämtar axelns visningsmarköretiketter.
 
 ###  Anmärkningar
 
-Endast tillgänglig efter att ha ringt [`Chart.calculate`](/cells/python-net/sv/aspose.cells.charts/chart/calculate)-metoden.
+Endast tillgängligt efter att ha ringt [`Chart.calculate`](/cells/python-net/sv/aspose.cells.charts/chart/calculate).
 ###  Definition:
 ```python
 @property

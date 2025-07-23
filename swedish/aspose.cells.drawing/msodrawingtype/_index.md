@@ -3,12 +3,12 @@ title: MsoDrawingType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1000
+weight: 990
 url: /sv/aspose.cells.drawing/msodrawingtype/
 is_root: false
 ---
 ##  MsoDrawingType uppräkning
-Representerar typ av kontorsritningsobjekt.
+Representerar objekttypen för kontorsritningar.
 
 
 
@@ -28,26 +28,26 @@ Typen MsoDrawingType avslöjar följande medlemmar:
 | PICTURE | Bild|
 | POLYGON | Polygon|
 | CHECK_BOX | Kryssruta|
-| RADIO_BUTTON | Radio knapp|
+| RADIO_BUTTON | Radioknapp|
 | LABEL | Märka|
-| DIALOG_BOX | Dialog ruta|
+| DIALOG_BOX | Dialogruta|
 | SPINNER | Spinnare|
-| SCROLL_BAR | Rullningslist|
-| LIST_BOX | ListBox|
-| GROUP_BOX | GroupBox|
-| COMBO_BOX | Kombinationsrutan|
+| SCROLL_BAR | Rullningsfält|
+| LIST_BOX | Listbox|
+| GROUP_BOX | Grupplåda|
+| COMBO_BOX | Kombinationsruta|
 | COMMENT | Kommentar|
-| OLE_OBJECT | OleObject|
+| OLE_OBJECT | OleObjekt|
 | CELLS_DRAWING | Endast för att bevara ritobjektet i mallfilen.|
 | UNKNOWN | Endast för att bevara ritobjektet i xlsx-filen.|
-| SLICER | Skivmaskin|
+| SLICER | Skivare|
 | WEB_EXTENSION | Webbtillägg|
 | SMART_ART | Smart konst|
-| CUSTOM_XML | Anpassad xml-form, som bläck.|
+| CUSTOM_XML | Anpassad xml-form, till exempel bläck.|
 | TIMELINE | Tidslinje|
 | MODEL_3D | 3D-modell|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

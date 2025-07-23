@@ -3,7 +3,7 @@ title: title fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1070
+weight: 1080
 url: /sv/aspose.cells.drawing/groupshape/title/
 is_root: false
 ---

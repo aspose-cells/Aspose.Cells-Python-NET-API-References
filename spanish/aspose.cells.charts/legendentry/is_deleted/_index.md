@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_deleted propiedad
 
-Obtiene y establece si se elimina la entrada de la leyenda.
+Obtiene y establece si se elimina la entrada de leyenda.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_deleted(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [LegendEntry](/cells/python-net/es/aspose.cells.charts/legendentry)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`LegendEntry`](/cells/python-net/es/aspose.cells.charts/legendentry)

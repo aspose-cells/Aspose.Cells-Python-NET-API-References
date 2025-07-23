@@ -3,13 +3,13 @@ title: column_count propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 270
+weight: 370
 url: /es/aspose.cells/range/column_count/
 is_root: false
 ---
 ##  column_count propiedad
 
-Obtiene el recuento de columnas del rango.
+Obtiene el recuento de columnas en el rango.
 ###  Definición:
 ```python
 @property

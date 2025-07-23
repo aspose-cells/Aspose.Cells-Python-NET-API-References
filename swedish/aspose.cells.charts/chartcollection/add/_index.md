@@ -7,16 +7,17 @@ weight: 20
 url: /sv/aspose.cells.charts/chartcollection/add/
 is_root: false
 ---
-##  add(type, upper_left_row, upper_left_column, lower_right_row, lower_right_column) {#ChartType-int-int-int-int}
+##  add(self, type, upper_left_row, upper_left_column, lower_right_row, lower_right_column) {#aspose.cells.charts.ChartType-int-int-int-int}
 Lägger till ett diagram i samlingen.
 
 
 ###  Returnerar
 
-[Chart](/cells/python-net/sv/aspose.cells.charts/chart) objektindex.
+[`Chart`](/cells/python-net/sv/aspose.cells.charts/chart) objektindex.
 
 
 ```python
+
 def add(self, type, upper_left_row, upper_left_column, lower_right_row, lower_right_column):
     ...
 ```
@@ -24,23 +25,24 @@ def add(self, type, upper_left_row, upper_left_column, lower_right_row, lower_ri
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| type | [ChartType](/cells/python-net/sv/aspose.cells.charts/charttype) | Diagramtyp|
-| upper_left_row | int | Övre vänstra radens index.|
-| upper_left_column | int | Övre vänstra kolumnindex.|
-| lower_right_row | int | Nedre högra radindex|
-| lower_right_column | int | Nedre högra kolumnindex|
+| type | [`ChartType`](/cells/python-net/sv/aspose.cells.charts/charttype) | Diagramtyp|
+| upper_left_row | int | Index för övre vänstra raden.|
+| upper_left_column | int | Index i övre vänstra kolumnen.|
+| lower_right_row | int | Index nedre högra raden|
+| lower_right_column | int | Index i nedre högra kolumnen|
 
 
-##  add(type, data_range, top_row, left_column, right_row, bottom_column) {#ChartType-str-int-int-int-int}
+##  add(self, type, data_range, top_row, left_column, right_row, bottom_column) {#aspose.cells.charts.ChartType-str-int-int-int-int}
 Lägger till ett diagram i samlingen.
 
 
 ###  Returnerar
 
-[Chart](/cells/python-net/sv/aspose.cells.charts/chart) objektindex.
+[`Chart`](/cells/python-net/sv/aspose.cells.charts/chart) objektindex.
 
 
 ```python
+
 def add(self, type, data_range, top_row, left_column, right_row, bottom_column):
     ...
 ```
@@ -48,29 +50,30 @@ def add(self, type, data_range, top_row, left_column, right_row, bottom_column):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| type | [ChartType](/cells/python-net/sv/aspose.cells.charts/charttype) | Diagramtyp|
-| data_range | str | Anger dataintervallet för diagrammet|
-| top_row | int | Övre vänstra radens index.|
-| left_column | int | Övre vänstra kolumnindex.|
-| right_row | int | Nedre högra radindex|
-| bottom_column | int | Nedre högra kolumnindex|
+| type | [`ChartType`](/cells/python-net/sv/aspose.cells.charts/charttype) | Diagramtyp|
+| data_range | str | Anger diagrammets dataområde|
+| top_row | int | Index för övre vänstra raden.|
+| left_column | int | Index i övre vänstra kolumnen.|
+| right_row | int | Index nedre högra raden|
+| bottom_column | int | Index i nedre högra kolumnen|
 ###  Anmärkningar
 
-OBS: Denna medlem är nu föråldrad. Istället,
-använd [ChartCollection.add(type, upper_left_row, upper_left_column, lower_right_row, lower_right_column)](/cells/python-net/sv/aspose.cells.charts/chartcollection/add) egendom.
- Den här egenskapen kommer att tas bort 12 månader senare sedan maj 2022.
+OBS! Denna medlem är nu föråldrad. Istället,
+Vänligen använd fastigheten [`ChartCollection.add`](/cells/python-net/sv/aspose.cells.charts/chartcollection/add).
+ Den här egenskapen kommer att tas bort 12 månader senare från och med maj 2022.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 
-##  add(data, data_range, is_vertical, top_row, left_column, right_row, bottom_column) {#bytes-str-bool-int-int-int-int}
+##  add(self, data, data_range, is_vertical, top_row, left_column, right_row, bottom_column) {#bytes-str-bool-int-int-int-int}
 Lägger till ett diagram med förinställd mall.
 
 
 ###  Returnerar
 
-[Chart](/cells/python-net/sv/aspose.cells.charts/chart) objektindex.
+[`Chart`](/cells/python-net/sv/aspose.cells.charts/chart) objektindex.
 
 
 ```python
+
 def add(self, data, data_range, is_vertical, top_row, left_column, right_row, bottom_column):
     ...
 ```
@@ -79,24 +82,25 @@ def add(self, data, data_range, is_vertical, top_row, left_column, right_row, bo
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | data | bytes | Data för diagrammallfilen (.crtx).|
-| data_range | str | Anger dataintervallet för diagrammet|
-| is_vertical | bool | Anger om serien ska plottas från ett intervall av cellvärden efter rad eller kolumn.|
-| top_row | int | Övre vänstra radens index.|
-| left_column | int | Övre vänstra kolumnindex.|
-| right_row | int | Nedre högra radindex|
-| bottom_column | int | Nedre högra kolumnindex|
+| data_range | str | Anger diagrammets dataområde|
+| is_vertical | bool | Anger om serien från ett cellvärdeintervall ska plottas rad för rad eller kolumn.|
+| top_row | int | Index för övre vänstra raden.|
+| left_column | int | Index i övre vänstra kolumnen.|
+| right_row | int | Index nedre högra raden|
+| bottom_column | int | Index i nedre högra kolumnen|
 
 
-##  add(type, data_range, is_vertical, top_row, left_column, right_row, bottom_column) {#ChartType-str-bool-int-int-int-int}
+##  add(self, type, data_range, is_vertical, top_row, left_column, right_row, bottom_column) {#aspose.cells.charts.ChartType-str-bool-int-int-int-int}
 Lägger till ett diagram i samlingen.
 
 
 ###  Returnerar
 
-[Chart](/cells/python-net/sv/aspose.cells.charts/chart) objektindex.
+[`Chart`](/cells/python-net/sv/aspose.cells.charts/chart) objektindex.
 
 
 ```python
+
 def add(self, type, data_range, is_vertical, top_row, left_column, right_row, bottom_column):
     ...
 ```
@@ -104,17 +108,17 @@ def add(self, type, data_range, is_vertical, top_row, left_column, right_row, bo
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| type | [ChartType](/cells/python-net/sv/aspose.cells.charts/charttype) | Diagramtyp|
-| data_range | str | Anger dataintervallet för diagrammet|
-| is_vertical | bool | Anger om serien ska plottas från ett intervall av cellvärden efter rad eller kolumn.|
-| top_row | int | Övre vänstra radens index.|
-| left_column | int | Övre vänstra kolumnindex.|
-| right_row | int | Nedre högra radindex|
-| bottom_column | int | Nedre högra kolumnindex|
+| type | [`ChartType`](/cells/python-net/sv/aspose.cells.charts/charttype) | Diagramtyp|
+| data_range | str | Anger diagrammets dataområde|
+| is_vertical | bool | Anger om serien från ett cellvärdeintervall ska plottas rad för rad eller kolumn.|
+| top_row | int | Index för övre vänstra raden.|
+| left_column | int | Index i övre vänstra kolumnen.|
+| right_row | int | Index nedre högra raden|
+| bottom_column | int | Index i nedre högra kolumnen|
 
 
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Chart](/cells/python-net/sv/aspose.cells.charts/chart)
-* klass [ChartCollection](/cells/python-net/sv/aspose.cells.charts/chartcollection)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Chart`](/cells/python-net/sv/aspose.cells.charts/chart)
+* klass [`ChartCollection`](/cells/python-net/sv/aspose.cells.charts/chartcollection)

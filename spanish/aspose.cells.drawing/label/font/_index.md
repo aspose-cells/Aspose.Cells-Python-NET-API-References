@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font propiedad
 
-Representa el font de forma.
+Representa la forma font.
 
 ###  Ejemplo
 

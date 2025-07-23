@@ -7,7 +7,7 @@ weight: 20
 url: /sv/aspose.cells/scenarioinputcellcollection/add/
 is_root: false
 ---
-##  add(row, column, value) {#int-int-str}
+##  add(self, row, column, value) {#int-int-str}
 Lägger till en inmatningscell.
 
 
@@ -17,6 +17,7 @@ Lägger till en inmatningscell.
 
 
 ```python
+
 def add(self, row, column, value):
     ...
 ```
@@ -24,12 +25,12 @@ def add(self, row, column, value):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| row | int | Indatacellens radindex.|
-| column | int | Kolumnindex för indatacell.|
-| value | str | Värdet på ingångscellen.|
+| row | int | Radindex för inmatningscellen.|
+| column | int | Kolumnindexet för inmatningscellen.|
+| value | str | Värdet för inmatningscellen.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ScenarioInputCellCollection](/cells/python-net/sv/aspose.cells/scenarioinputcellcollection)
+* modul [`aspose.cells`](../../)
+* klass [`ScenarioInputCellCollection`](/cells/python-net/sv/aspose.cells/scenarioinputcellcollection)

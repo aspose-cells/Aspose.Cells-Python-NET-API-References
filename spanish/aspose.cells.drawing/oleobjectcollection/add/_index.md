@@ -1,5 +1,5 @@
 ---
-title: add método
+title: método add
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 20
 url: /es/aspose.cells.drawing/oleobjectcollection/add/
 is_root: false
 ---
-##  add(upper_left_row, upper_left_column, height, width, image_data) {#int-int-int-int-bytes}
+##  add(self, upper_left_row, upper_left_column, height, width, image_data) {#int-int-int-int-bytes}
 Agrega un OleObject a la colección.
 
 
 ###  Devoluciones
 
-[OleObject](/cells/python-net/es/aspose.cells.drawing/oleobject) índice de objetos.
+Índice de objeto [`OleObject`](/cells/python-net/es/aspose.cells.drawing/oleobject).
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, height, width, image_data):
     ...
 ```
@@ -26,21 +27,22 @@ def add(self, upper_left_row, upper_left_column, height, width, image_data):
 | :- | :- | :- |
 | upper_left_row | int | Índice de la fila superior izquierda.|
 | upper_left_column | int | Índice de la columna superior izquierda.|
-| height | int | Altura de oleObject, en unidades de píxel.|
-| width | int | Ancho de oleObject, en unidades de píxel.|
-| image_data | bytes | Imagen del objeto ole como matriz de bytes.|
+| height | int | Altura de oleObject, en unidad de píxel.|
+| width | int | Ancho de oleObject, en unidad de píxel.|
+| image_data | bytes |Imagen de un objeto ole como matriz de bytes.|
 
 
-##  add(upper_left_row, upper_left_column, height, width, image_data, linked_file) {#int-int-int-int-bytes-str}
+##  add(self, upper_left_row, upper_left_column, height, width, image_data, linked_file) {#int-int-int-int-bytes-str}
 Agrega un OleObject vinculado a la colección.
 
 
 ###  Devoluciones
 
-[OleObject](/cells/python-net/es/aspose.cells.drawing/oleobject) índice de objetos.
+Índice de objeto [`OleObject`](/cells/python-net/es/aspose.cells.drawing/oleobject).
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, height, width, image_data, linked_file):
     ...
 ```
@@ -50,14 +52,14 @@ def add(self, upper_left_row, upper_left_column, height, width, image_data, link
 | :- | :- | :- |
 | upper_left_row | int | Índice de la fila superior izquierda.|
 | upper_left_column | int | Índice de la columna superior izquierda.|
-| height | int | Altura de oleObject, en unidades de píxel.|
-| width | int | Ancho de oleObject, en unidades de píxel.|
-| image_data | bytes | Imagen del objeto ole como matriz de bytes.|
+| height | int | Altura de oleObject, en unidad de píxel.|
+| width | int | Ancho de oleObject, en unidad de píxel.|
+| image_data | bytes |Imagen de un objeto ole como matriz de bytes.|
 | linked_file | str |  |
 
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [OleObject](/cells/python-net/es/aspose.cells.drawing/oleobject)
-* clase [OleObjectCollection](/cells/python-net/es/aspose.cells.drawing/oleobjectcollection)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`OleObject`](/cells/python-net/es/aspose.cells.drawing/oleobject)
+* clase [`OleObjectCollection`](/cells/python-net/es/aspose.cells.drawing/oleobjectcollection)

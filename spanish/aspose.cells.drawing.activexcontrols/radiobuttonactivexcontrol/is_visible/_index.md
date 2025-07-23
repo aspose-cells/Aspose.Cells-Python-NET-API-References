@@ -8,8 +8,6 @@ url: /es/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/is_visib
 is_root: false
 ---
 ##  is_visible propiedad
-
-Indica si este control es visible.
 ###  Definición:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_visible(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [RadioButtonActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`RadioButtonActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

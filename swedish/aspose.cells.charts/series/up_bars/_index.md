@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  up_bars fastighet
 
-Returnerar ett DropBars-objekt som representerar uppstaplarna på ett linjediagram.
+Returnerar ett DropBars-objekt som representerar de uppåtriktade staplarna i ett linjediagram.
 Gäller endast linjediagram.
 ###  Definition:
 ```python
@@ -19,6 +19,6 @@ def up_bars(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [DropBars](/cells/python-net/sv/aspose.cells.charts/dropbars)
-* klass [Series](/cells/python-net/sv/aspose.cells.charts/series)
+* modul [`aspose.cells.charts`](../../)
+* klass [`DropBars`](/cells/python-net/sv/aspose.cells.charts/dropbars)
+* klass [`Series`](/cells/python-net/sv/aspose.cells.charts/series)

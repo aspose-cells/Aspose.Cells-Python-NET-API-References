@@ -3,14 +3,14 @@ title: contains_external_link propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 430
+weight: 440
 url: /es/aspose.cells/cell/contains_external_link/
 is_root: false
 ---
 ##  contains_external_link propiedad
 
 Indica si esta celda contiene un enlace externo.
-Solo se aplica cuando la celda es una celda de fórmula.
+Sólo se aplica cuando la celda es una celda de fórmula.
 ###  Definición:
 ```python
 @property

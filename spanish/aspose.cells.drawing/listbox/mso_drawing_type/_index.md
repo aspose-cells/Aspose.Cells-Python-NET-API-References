@@ -3,13 +3,13 @@ title: mso_drawing_type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 830
+weight: 840
 url: /es/aspose.cells.drawing/listbox/mso_drawing_type/
 is_root: false
 ---
 ##  mso_drawing_type propiedad
 
-Obtiene el tipo de dibujo mso.
+Obtiene el tipo de dibujo.
 
 ###  Ejemplo
 

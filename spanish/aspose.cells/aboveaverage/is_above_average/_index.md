@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_above_average propiedad
 
- Obtenga o establezca el indicador que indica si la regla es una regla "por encima del promedio".
-verdadero' indica 'por encima del promedio'.
+ Obtenga o establezca la bandera que indica si la regla es una regla "por encima del promedio".
+'verdadero' indica 'por encima del promedio'.
 El valor predeterminado es verdadero.
 ###  Definición:
 ```python
@@ -23,5 +23,5 @@ def is_above_average(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [AboveAverage](/cells/python-net/es/aspose.cells/aboveaverage)
+* módulo [`aspose.cells`](../../)
+* clase [`AboveAverage`](/cells/python-net/es/aspose.cells/aboveaverage)

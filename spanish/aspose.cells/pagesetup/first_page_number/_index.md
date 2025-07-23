@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  first_page_number propiedad
 
-Representa el número de la primera página que se utilizará cuando se imprima esta hoja.
+Representa el primer número de página que se utilizará cuando se imprima esta hoja.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def first_page_number(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PageSetup](/cells/python-net/es/aspose.cells/pagesetup)
+* módulo [`aspose.cells`](../../)
+* clase [`PageSetup`](/cells/python-net/es/aspose.cells/pagesetup)

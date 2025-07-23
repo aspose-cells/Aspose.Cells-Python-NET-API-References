@@ -3,7 +3,7 @@ title: last_cell propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1070
+weight: 1100
 url: /es/aspose.cells/cells/last_cell/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Obtiene la última celda de esta hoja de cálculo.
 
 ###  Observaciones
 
-Devuelve nulo si no hay datos en la hoja de trabajo.
+Devuelve nulo si no hay datos en la hoja de cálculo.
 ###  Definición:
 ```python
 @property

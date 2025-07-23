@@ -3,13 +3,13 @@ title: lines propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 280
+weight: 290
 url: /es/aspose.cells.properties/builtindocumentpropertycollection/lines/
 is_root: false
 ---
 ##  lines propiedad
 
-Representa una estimación del número lines en el documento.
+Representa una estimación del número de lines en el documento.
 
 ###  Observaciones
 
@@ -25,5 +25,5 @@ def lines(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.properties](../../)
-* clase [BuiltInDocumentPropertyCollection](/cells/python-net/es/aspose.cells.properties/builtindocumentpropertycollection)
+* módulo [`aspose.cells.properties`](../../)
+* clase [`BuiltInDocumentPropertyCollection`](/cells/python-net/es/aspose.cells.properties/builtindocumentpropertycollection)

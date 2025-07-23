@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  instructions fastighet
 
-Hämtar och ställer in texten som visas för användaren vid undertecknandet.
+Hämtar eller ställer in texten som visas för användaren vid signeringstillfället.
 
 ###  Exempel
 
@@ -32,5 +32,5 @@ def instructions(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [SignatureLine](/cells/python-net/sv/aspose.cells.drawing/signatureline)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`SignatureLine`](/cells/python-net/sv/aspose.cells.drawing/signatureline)

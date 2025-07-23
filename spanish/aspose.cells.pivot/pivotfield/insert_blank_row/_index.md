@@ -3,13 +3,13 @@ title: insert_blank_row propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 350
+weight: 430
 url: /es/aspose.cells.pivot/pivotfield/insert_blank_row/
 is_root: false
 ---
 ##  insert_blank_row propiedad
 
-Indica si se inserta una línea en blanco después de cada elemento.
+Indica si se insertará una línea en blanco después de cada elemento.
 ###  Definición:
 ```python
 @property

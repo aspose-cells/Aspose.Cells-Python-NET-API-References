@@ -3,15 +3,15 @@ title: presentation_preference fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 600
+weight: 690
 url: /sv/aspose.cells.saving/ebooksaveoptions/presentation_preference/
 is_root: false
 ---
 ##  presentation_preference fastighet
 
-Indikerar om html- eller mht-fil är presentationspreferens.
+Anger om html- eller mht-fil är presentationspreferens.
 Standardvärdet är falskt.
-om du vill få en vackrare presentation, ställ in värdet på sant.
+Om du vill få en vackrare presentation, vänligen sätt värdet till sant.
 ###  Definition:
 ```python
 @property

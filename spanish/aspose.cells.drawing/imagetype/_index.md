@@ -3,7 +3,7 @@ title: ImageType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 900
+weight: 890
 url: /es/aspose.cells.drawing/imagetype/
 is_root: false
 ---
@@ -20,19 +20,19 @@ El tipo ImageType expone los siguientes miembros:
 | UNKNOWN | Un tipo de imagen desconocido.|
 | EMF | Windows Metarchivo mejorado.|
 | WMF | Windows Metarchivo.|
-| PICT | IMAGEN Macintosh.|
+| PICT | Macintosh PICT.|
 | JPEG | JPEG JFIF.|
 | PNG | Gráficos de red portátiles.|
-| BMP | Windows mapa de bits|
-| GIF | Gif|
+| BMP | Windows Mapa de bits|
+| GIF | GIF|
 | TIFF | Pelea|
 | SVG | SVG|
 | SVM | Svm|
 | GLTF | glTF|
 | OFFICE_COMPATIBLE_EMF | Windows Metarchivo mejorado que es más compatible con Office.|
-| WEB_P |formato de imagen weppy|
+| WEB_P | Formato de imagen Weppy|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](..)
+* módulo [`aspose.cells.drawing`](..)

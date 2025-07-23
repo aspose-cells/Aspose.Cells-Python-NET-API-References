@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border_style fastighet
 
-Hämtar och ställer in den typ av gräns som används av kontrollen.
+Hämtar och anger vilken typ av kantlinje som används av kontrollen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def border_style(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ControlBorderType](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/controlbordertype)
-* klass [ListBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ControlBorderType`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/controlbordertype)
+* klass [`ListBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

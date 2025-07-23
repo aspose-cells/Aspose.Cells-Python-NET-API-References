@@ -3,13 +3,13 @@ title: count fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1020
+weight: 1040
 url: /sv/aspose.cells/cells/count/
 is_root: false
 ---
 ##  count fastighet
 
-Hämtar totalt count av instansierade Cell objekt.
+Hämtar det totala antalet count av instansierade Cell-objekt.
 ###  Definition:
 ```python
 @property

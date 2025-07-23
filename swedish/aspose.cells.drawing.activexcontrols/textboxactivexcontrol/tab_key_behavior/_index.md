@@ -21,5 +21,5 @@ def tab_key_behavior(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [TextBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`TextBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

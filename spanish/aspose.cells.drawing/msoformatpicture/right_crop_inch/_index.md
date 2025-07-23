@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  right_crop_inch propiedad
 
-Representa la ubicación de la derecha del rectángulo de recorte expresada en pulgadas.
+Representa la ubicación de la derecha del rectángulo de recorte expresada, en unidad de pulgadas.
 ###  Definición:
 ```python
 @property

@@ -7,13 +7,14 @@ weight: 20
 url: /sv/aspose.cells.pivot/pivotitem/get_date_time_value/
 is_root: false
 ---
-##  get_date_time_value() {#}
-Hämtar värdet för datum och tid för pivotobjektet
-Om värdet är null returnerar det DateTime.MinValue
+##  get_date_time_value(self) {#}
+Hämtar datum- och tidsvärdet för pivotobjektet
+Om värdet är null returneras DateTime.MinValue
 
 
 
 ```python
+
 def get_date_time_value(self):
     ...
 ```
@@ -23,5 +24,5 @@ def get_date_time_value(self):
 
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotItem](/cells/python-net/sv/aspose.cells.pivot/pivotitem)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotItem`](/cells/python-net/sv/aspose.cells.pivot/pivotitem)

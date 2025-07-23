@@ -3,11 +3,11 @@ title: add_ole_object metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 180
+weight: 200
 url: /sv/aspose.cells.drawing/shapecollection/add_ole_object/
 is_root: false
 ---
-##  add_ole_object(upper_left_row, top, upper_left_column, left, height, width, image_data) {#int-int-int-int-int-int-bytes}
+##  add_ole_object(self, upper_left_row, top, upper_left_column, left, height, width, image_data) {#int-int-int-int-int-int-bytes}
 Lägger till ett OleObject.
 
 
@@ -17,6 +17,7 @@ Lägger till ett OleObject.
 
 
 ```python
+
 def add_ole_object(self, upper_left_row, top, upper_left_column, left, height, width, image_data):
     ...
 ```
@@ -36,6 +37,8 @@ def add_ole_object(self, upper_left_row, top, upper_left_column, left, height, w
 
 ```python
 from aspose import pycore
+import bytearray
+import int
 
 with open("image.jpg", "rb") as fs:
     len = pycore.cast(int, utils.filesize(fs))
@@ -48,5 +51,5 @@ with open("image.jpg", "rb") as fs:
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShapeCollection](/cells/python-net/sv/aspose.cells.drawing/shapecollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShapeCollection`](/cells/python-net/sv/aspose.cells.drawing/shapecollection)

@@ -7,27 +7,21 @@ weight: 20
 url: /sv/aspose.cells.pivot/pivotformatconditioncollection/add/
 is_root: false
 ---
-##  add() {#}
-Lägger till ett pivot FormatCondition till samlingen.
+##  add(self) {#}
 
 
-###  Returnerar
-
-pivot FormatCondition objektindex.
 
 
 ```python
+
 def add(self):
     ...
 ```
 
 
-###  Anmärkningar
 
-stöds inte
 
 
 ###  Se även
-
-* modul [aspose.cells.pivot](../../)
-* klass [PivotFormatConditionCollection](/cells/python-net/sv/aspose.cells.pivot/pivotformatconditioncollection)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotFormatConditionCollection`](/cells/python-net/sv/aspose.cells.pivot/pivotformatconditioncollection)

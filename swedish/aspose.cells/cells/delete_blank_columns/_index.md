@@ -7,12 +7,13 @@ weight: 200
 url: /sv/aspose.cells/cells/delete_blank_columns/
 is_root: false
 ---
-##  delete_blank_columns() {#}
+##  delete_blank_columns(self) {#}
 Ta bort alla tomma kolumner som inte innehåller några data.
 
 
 
 ```python
+
 def delete_blank_columns(self):
     ...
 ```
@@ -20,12 +21,13 @@ def delete_blank_columns(self):
 
 
 
-##  delete_blank_columns(options) {#DeleteOptions}
+##  delete_blank_columns(self, options) {#aspose.cells.DeleteOptions}
 Ta bort alla tomma kolumner som inte innehåller några data.
 
 
 
 ```python
+
 def delete_blank_columns(self, options):
     ...
 ```
@@ -33,10 +35,10 @@ def delete_blank_columns(self, options):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| options | [DeleteOptions](/cells/python-net/sv/aspose.cells/deleteoptions) | Alternativen för att ta bort intervall.|
+| options | [`DeleteOptions`](/cells/python-net/sv/aspose.cells/deleteoptions) | Alternativen för att radera intervall.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

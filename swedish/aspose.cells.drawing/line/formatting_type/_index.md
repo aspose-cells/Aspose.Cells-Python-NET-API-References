@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  formatting_type fastighet
 
-Hämtar eller ställer in formattyp.
+Hämtar eller anger formattyp.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def formatting_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ChartLineFormattingType](/cells/python-net/sv/aspose.cells.charts/chartlineformattingtype)
-* klass [Line](/cells/python-net/sv/aspose.cells.drawing/line)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ChartLineFormattingType`](/cells/python-net/sv/aspose.cells.charts/chartlineformattingtype)
+* klass [`Line`](/cells/python-net/sv/aspose.cells.drawing/line)

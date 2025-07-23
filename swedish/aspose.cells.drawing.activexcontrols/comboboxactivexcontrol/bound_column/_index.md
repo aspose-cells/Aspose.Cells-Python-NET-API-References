@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  bound_column fastighet
 
-Representerar hur egenskapen Value bestäms för en ComboBox eller ListBox
-när egenskapsvärdet för MultiSelect (fmMultiSelectSingle).
+Representerar hur egenskapen Value bestäms för en kombinationsbox eller listbox
+när MultiSelect-egenskapsvärdet (fmMultiSelectSingle) är angivet.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def bound_column(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ComboBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ComboBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

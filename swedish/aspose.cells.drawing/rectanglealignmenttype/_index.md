@@ -3,12 +3,12 @@ title: RectangleAlignmentType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1110
+weight: 1100
 url: /sv/aspose.cells.drawing/rectanglealignmenttype/
 is_root: false
 ---
 ##  RectangleAlignmentType uppräkning
-Representerar hur man placerar två rektanglar i förhållande till varandra.
+Representerar hur två rektanglar ska placeras i förhållande till varandra.
 
 
 
@@ -18,16 +18,16 @@ Typen RectangleAlignmentType avslöjar följande medlemmar:
 | Fält| Beskrivning|
 | :- | :- |
 | BOTTOM | Botten|
-| BOTTOM_LEFT | Nedre vänstra|
-| BOTTOM_RIGHT | Nere till höger|
+| BOTTOM_LEFT | Nederst till vänster|
+| BOTTOM_RIGHT | Nederst till höger|
 | CENTER | Centrum|
 | LEFT | Vänster|
-| RIGHT | Höger|
-| TOP | Topp|
-| TOP_LEFT | Övre vänstra|
-| TOP_RIGHT | Överst till höger|
+| RIGHT | Rätt|
+| TOP | Bästa|
+| TOP_LEFT | Övre vänster|
+| TOP_RIGHT | Övre högra|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

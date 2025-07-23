@@ -21,6 +21,6 @@ def resource_loading_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ResourceLoadingType](/cells/python-net/es/aspose.cells/resourceloadingtype)
-* clase [StreamProviderOptions](/cells/python-net/es/aspose.cells/streamprovideroptions)
+* módulo [`aspose.cells`](../../)
+* clase [`ResourceLoadingType`](/cells/python-net/es/aspose.cells/resourceloadingtype)
+* clase [`StreamProviderOptions`](/cells/python-net/es/aspose.cells/streamprovideroptions)

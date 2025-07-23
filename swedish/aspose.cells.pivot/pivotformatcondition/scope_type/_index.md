@@ -8,8 +8,6 @@ url: /sv/aspose.cells.pivot/pivotformatcondition/scope_type/
 is_root: false
 ---
 ##  scope_type fastighet
-
-Hämta och ställ in omfattningstyp för pivottabellens villkorsformat.
 ###  Definition:
 ```python
 @property
@@ -21,6 +19,6 @@ def scope_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotConditionFormatScopeType](/cells/python-net/sv/aspose.cells.pivot/pivotconditionformatscopetype)
-* klass [PivotFormatCondition](/cells/python-net/sv/aspose.cells.pivot/pivotformatcondition)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotConditionFormatScopeType`](/cells/python-net/sv/aspose.cells.pivot/pivotconditionformatscopetype)
+* klass [`PivotFormatCondition`](/cells/python-net/sv/aspose.cells.pivot/pivotformatcondition)

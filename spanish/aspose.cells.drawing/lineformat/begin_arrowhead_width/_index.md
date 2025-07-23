@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  begin_arrowhead_width propiedad
 
-Obtiene y establece el tipo de ancho de flecha inicial de la línea.
+Obtiene y establece el tipo de ancho de la flecha de inicio de la línea.
 
 ###  Ejemplo
 
@@ -30,6 +30,6 @@ def begin_arrowhead_width(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [LineFormat](/cells/python-net/es/aspose.cells.drawing/lineformat)
-* clase [MsoArrowheadWidth](/cells/python-net/es/aspose.cells.drawing/msoarrowheadwidth)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`LineFormat`](/cells/python-net/es/aspose.cells.drawing/lineformat)
+* clase [`MsoArrowheadWidth`](/cells/python-net/es/aspose.cells.drawing/msoarrowheadwidth)

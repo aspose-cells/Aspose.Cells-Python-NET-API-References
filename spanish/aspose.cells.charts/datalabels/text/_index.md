@@ -3,7 +3,7 @@ title: text propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 450
+weight: 520
 url: /es/aspose.cells.charts/datalabels/text/
 is_root: false
 ---

@@ -21,5 +21,5 @@ def min(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ScrollBarActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ScrollBarActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_custom fastighet
 
-Indikerar om ikonuppsättningen är anpassad.
+Anger om ikonuppsättningen är anpassad.
 Standardvärdet är falskt.
 ###  Definition:
 ```python
@@ -19,5 +19,5 @@ def is_custom(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [IconSet](/cells/python-net/sv/aspose.cells/iconset)
+* modul [`aspose.cells`](../../)
+* klass [`IconSet`](/cells/python-net/sv/aspose.cells/iconset)

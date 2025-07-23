@@ -3,7 +3,7 @@ title: FillType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 830
+weight: 820
 url: /sv/aspose.cells.drawing/filltype/
 is_root: false
 ---
@@ -19,7 +19,7 @@ Typen FillType avslöjar följande medlemmar:
 | :- | :- |
 | AUTOMATIC | Representerar automatisk formateringstyp.|
 | NONE | Representerar ingen formateringstyp.|
-| SOLID | Fast fyllningsformat.|
+| SOLID | Helfyllningsformat.|
 | GRADIENT | Gradientfyllningsformat.|
 | TEXTURE | Texturfyllningsformat (inkluderar bildfyllning).|
 | PATTERN | Mönsterfyllningsformat.|
@@ -28,4 +28,4 @@ Typen FillType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

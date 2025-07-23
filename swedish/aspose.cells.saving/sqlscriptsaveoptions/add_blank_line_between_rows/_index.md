@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  add_blank_line_between_rows fastighet
 
-Infoga tom rad mellan varje data.
+Infoga en tom rad mellan varje data.
 
 ###  Anmärkningar
 
-Om [SqlScriptSaveOptions.separator](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions#separator) är '\n' är det bättre att ställa in den här egenskapen som sann för att öka läsbarheten.
+Om [`SqlScriptSaveOptions.separator`](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions#separator) är '\n' är det bättre att ställa in den här egenskapen som sann för att öka läsbarheten.
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def add_blank_line_between_rows(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.saving](../../)
-* klass [SqlScriptSaveOptions](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions)
+* modul [`aspose.cells.saving`](../../)
+* klass [`SqlScriptSaveOptions`](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions)

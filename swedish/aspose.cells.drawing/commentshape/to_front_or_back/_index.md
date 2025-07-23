@@ -3,16 +3,17 @@ title: to_front_or_back metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 220
+weight: 230
 url: /sv/aspose.cells.drawing/commentshape/to_front_or_back/
 is_root: false
 ---
-##  to_front_or_back {#int}
-För formen framåt eller skickar formen bakåt.
+##  to_front_or_back(self, orders) {#int}
+Flyttar formen framåt eller bakåt.
 
 
 
 ```python
+
 def to_front_or_back(self, orders):
     ...
 ```
@@ -20,7 +21,7 @@ def to_front_or_back(self, orders):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| orders | int | Om det är mindre än noll ställs formen tillbaka.<br/> Om den är större än noll, förs formen fram.|
+| orders | int | Om den är mindre än noll, sätts formen till bakåt.<br/> Om den är större än noll, flyttas formen framåt.|
 
 ###  Exempel
 

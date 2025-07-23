@@ -21,6 +21,6 @@ def style(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [ErrorBar](/cells/python-net/es/aspose.cells.charts/errorbar)
-* clase [LineType](/cells/python-net/es/aspose.cells.drawing/linetype)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`ErrorBar`](/cells/python-net/es/aspose.cells.charts/errorbar)
+* clase [`LineType`](/cells/python-net/es/aspose.cells.drawing/linetype)

@@ -3,13 +3,13 @@ title: base_index fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 220
+weight: 300
 url: /sv/aspose.cells.pivot/pivotfield/base_index/
 is_root: false
 ---
 ##  base_index fastighet
 
-Representerar PivotField-indexet i bas PivotFields.
+Representerar PivotField-indexet i bas-PivotFields.
 ###  Definition:
 ```python
 @property

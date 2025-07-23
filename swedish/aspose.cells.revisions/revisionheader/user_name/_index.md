@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  user_name fastighet
 
-Hämtar och ställer in namnet på användaren som gör revisionen.
+Hämtar och anger namnet på användaren som gör revisionen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def user_name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionHeader](/cells/python-net/sv/aspose.cells.revisions/revisionheader)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionHeader`](/cells/python-net/sv/aspose.cells.revisions/revisionheader)

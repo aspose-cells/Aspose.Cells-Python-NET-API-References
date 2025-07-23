@@ -3,17 +3,17 @@ title: active_sheet_index propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 240
+weight: 260
 url: /es/aspose.cells/worksheetcollection/active_sheet_index/
 is_root: false
 ---
 ##  active_sheet_index propiedad
 
-Representa el índice de la hoja de cálculo activa cuando se abre la hoja de cálculo.
+Representa el índice de la hoja de trabajo activa cuando se abre la hoja de cálculo.
 
 ###  Observaciones
 
-El índice de la hoja tiene base cero.
+El índice de la hoja se basa en cero.
 ###  Definición:
 ```python
 @property

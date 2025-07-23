@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  password fastighet
 
-Hämtar och ställer in password för arbetsboken.
+Hämtar och anger password i arbetsboken.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def password(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HtmlLoadOptions](/cells/python-net/sv/aspose.cells/htmlloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`HtmlLoadOptions`](/cells/python-net/sv/aspose.cells/htmlloadoptions)

@@ -3,13 +3,13 @@ title: show_value fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 440
+weight: 510
 url: /sv/aspose.cells.charts/datalabels/show_value/
 is_root: false
 ---
 ##  show_value fastighet
 
-Representerar ett specificerat diagrams dataetikettvärden som visar beteende. True visar värdena. Falskt att dölja.
+Representerar visningsbeteendet för ett angivet diagrams dataetikettvärden. Sant visar värdena. Falskt för att dölja.
 ###  Definition:
 ```python
 @property

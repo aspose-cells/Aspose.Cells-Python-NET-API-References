@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  search_backward fastighet
 
-Om du söker bakåt efter celler.
+Om man ska söka bakåt efter celler.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def search_backward(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FindOptions](/cells/python-net/sv/aspose.cells/findoptions)
+* modul [`aspose.cells`](../../)
+* klass [`FindOptions`](/cells/python-net/sv/aspose.cells/findoptions)

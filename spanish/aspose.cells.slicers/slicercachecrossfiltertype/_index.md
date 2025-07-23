@@ -17,11 +17,11 @@ El tipo SlicerCacheCrossFilterType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| NONE | El elemento de estilo de tabla del estilo de segmentación para elementos de segmentación<br/>sin datos no se aplica a los elementos de segmentación sin datos ni a los elementos de segmentación<br/> sin datos no se ordenan por separado en la lista de elementos de segmentación en la vista de segmentación|
-| SHOW_ITEMS_WITH_DATA_AT_TOP |El elemento de estilo de tabla del estilo de segmentación para elementos de segmentación con<br/>no se aplican datos a los elementos de la segmentación sin datos y a los elementos de la segmentación<br/> sin datos se ordenan en la parte inferior de la lista de elementos de segmentación en la vista de segmentación|
-| SHOW_ITEMS_WITH_NO_DATA | El elemento de estilo de tabla del estilo de segmentación para elementos de segmentación sin datos<br/> se aplica a elementos de segmentación sin datos y elementos de segmentación sin datos<br/> no se ordenan por separado en la lista de elementos de segmentación en la vista de segmentación.|
+| NONE | El elemento de estilo de tabla del estilo de segmentación para elementos de segmentación<br/>sin datos no se aplica a los elementos de segmentación sin datos y a los elementos de segmentación<br/>Sin datos no se ordenan por separado en la lista de elementos de la segmentación de datos en la vista de segmentación de datos|
+| SHOW_ITEMS_WITH_DATA_AT_TOP | El elemento de estilo de tabla del estilo de segmentación para elementos de segmentación con<br/>No se aplican datos a los elementos de segmentación que no tienen datos y a los elementos de segmentación<br/> Sin datos se ordenan en la parte inferior de la lista de elementos de la segmentación en la vista de segmentación|
+| SHOW_ITEMS_WITH_NO_DATA | El elemento de estilo de tabla del estilo de segmentación para elementos de segmentación sin datos<br/> Se aplica a elementos de segmentación sin datos y a elementos de segmentación sin datos.<br/> no se ordenan por separado en la lista de elementos de la segmentación de datos en la vista de segmentación de datos.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.slicers](..)
+* módulo [`aspose.cells.slicers`](..)

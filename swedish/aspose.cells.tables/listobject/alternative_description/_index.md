@@ -3,13 +3,13 @@ title: alternative_description fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 90
+weight: 100
 url: /sv/aspose.cells.tables/listobject/alternative_description/
 is_root: false
 ---
 ##  alternative_description fastighet
 
-Hämtar och ställer in den alternativa beskrivningen.
+Hämtar och anger den alternativa beskrivningen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def alternative_description(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.tables](../../)
-* klass [ListObject](/cells/python-net/sv/aspose.cells.tables/listobject)
+* modul [`aspose.cells.tables`](../../)
+* klass [`ListObject`](/cells/python-net/sv/aspose.cells.tables/listobject)

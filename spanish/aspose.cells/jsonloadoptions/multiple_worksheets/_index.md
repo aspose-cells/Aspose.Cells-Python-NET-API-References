@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  multiple_worksheets propiedad
 
-Indica si se importa cada atributo del objeto JsonObject como una hoja de trabajo cuando todos los nodos secundarios son nodos de matriz.
+Indica si se importa cada atributo del objeto JsonObject como una hoja de cálculo cuando todos los nodos secundarios son nodos de matriz.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def multiple_worksheets(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [JsonLoadOptions](/cells/python-net/es/aspose.cells/jsonloadoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`JsonLoadOptions`](/cells/python-net/es/aspose.cells/jsonloadoptions)

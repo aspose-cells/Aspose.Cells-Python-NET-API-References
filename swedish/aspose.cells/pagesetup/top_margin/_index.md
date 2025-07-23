@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  top_margin fastighet
 
-Representerar storleken på den övre marginalen, i centimeterenhet.
+Representerar storleken på den övre marginalen, i centimeter.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def top_margin(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

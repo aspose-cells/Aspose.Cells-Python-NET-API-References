@@ -8,7 +8,7 @@ url: /es/aspose.cells.charts/ticklabelpositiontype/
 is_root: false
 ---
 ##  TickLabelPositionType enumeración
-Representa el tipo de posición de las etiquetas de marca en el eje especificado.
+Representa el tipo de posición de las etiquetas de marca de verificación en el eje especificado.
 
 
 
@@ -19,8 +19,8 @@ El tipo TickLabelPositionType expone los siguientes miembros:
 | :- | :- |
 | HIGH | El tipo de posición es alto.|
 | LOW | El tipo de posición es bajo.|
-| NEXT_TO_AXIS | El tipo de posición está al lado del eje.|
-| NONE | El tipo de puesto es ninguno.|
+| NEXT_TO_AXIS | El tipo de posición está junto al eje.|
+| NONE | El tipo de posición es ninguno.|
 
 
 

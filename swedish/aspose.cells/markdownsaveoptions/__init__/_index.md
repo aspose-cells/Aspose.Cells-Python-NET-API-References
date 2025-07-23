@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells/markdownsaveoptions/__init__/
 is_root: false
 ---
-##  MarkdownSaveOptions() {#}
+##  \_\_init\_\_(själv){#}
 Skapar alternativ för att spara markdown-dokument
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [MarkdownSaveOptions](/cells/python-net/sv/aspose.cells/markdownsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`MarkdownSaveOptions`](/cells/python-net/sv/aspose.cells/markdownsaveoptions)

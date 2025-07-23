@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  leader_lines fastighet
 
- Representerar ledarlinjer på ett diagram. Ledarlinjer kopplar dataetiketter till datapunkter.
-Detta objekt är inte en samling; det finns inget objekt som representerar en enda ledarlinje.
+ Representerar ledlinjer i ett diagram. Ledlinjer kopplar samman dataetiketter med datapunkter.
+Det här objektet är inte en samling; det finns inget objekt som representerar en enda hänvisningslinje.
 ###  Definition:
 ```python
 @property
@@ -19,6 +19,6 @@ def leader_lines(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Line](/cells/python-net/sv/aspose.cells.drawing/line)
-* klass [Series](/cells/python-net/sv/aspose.cells.charts/series)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Line`](/cells/python-net/sv/aspose.cells.drawing/line)
+* klass [`Series`](/cells/python-net/sv/aspose.cells.charts/series)

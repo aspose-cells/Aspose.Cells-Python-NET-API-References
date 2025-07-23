@@ -10,8 +10,8 @@ is_root: false
 ##  overlap fastighet
 
 Anger hur staplar och kolumner är placerade.
- Kan vara ett värde mellan – 100 och 100.
-Gäller endast 2D-stapel- och 2D-kolumndiagram.
+Kan vara ett värde mellan – 100 och 100.
+Gäller endast 2D-stapeldiagram och 2D-kolumndiagram.
 ###  Definition:
 ```python
 @property
@@ -23,5 +23,5 @@ def overlap(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Series](/cells/python-net/sv/aspose.cells.charts/series)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Series`](/cells/python-net/sv/aspose.cells.charts/series)

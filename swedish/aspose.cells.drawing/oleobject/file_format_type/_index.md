@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  file_format_type fastighet
 
-Hämtar och ställer in filtypen för de inbäddade ole-objektdata
+Hämtar och anger filtypen för de inbäddade ole-objektdata
 ###  Definition:
 ```python
 @property

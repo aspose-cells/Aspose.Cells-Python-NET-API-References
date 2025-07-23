@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells.tables/tabletorangeoptions/__init__/
 is_root: false
 ---
-##  TableToRangeOptions() {#}
+##  \_\_init\_\_(yo mismo){#}
 Construye una nueva instancia de TableToRangeOptions
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ver también
-* módulo [aspose.cells.tables](../../)
-* clase [TableToRangeOptions](/cells/python-net/es/aspose.cells.tables/tabletorangeoptions)
+* módulo [`aspose.cells.tables`](../../)
+* clase [`TableToRangeOptions`](/cells/python-net/es/aspose.cells.tables/tabletorangeoptions)

@@ -3,7 +3,7 @@ title: file_name propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 570
+weight: 600
 url: /es/aspose.cells/workbook/file_name/
 is_root: false
 ---
@@ -14,7 +14,7 @@ Obtiene y establece el nombre del archivo actual.
 ###  Observaciones
 
 Si el archivo se abre mediante secuencia y hay algunas referencias de fórmulas externas,
-establezca el nombre del archivo.
+Por favor, configure el nombre del archivo.
 ###  Definición:
 ```python
 @property

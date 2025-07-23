@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  space_after fastighet
 
-Hämtar och ställer in mängden vertikalt vitt utrymme som kommer att finnas efter ett stycke.
+Hämtar och anger mängden vertikalt vitt utrymme som ska finnas efter ett stycke.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def space_after(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [TextParagraph](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`TextParagraph`](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  language_code propiedad
 
-Obtiene o establece el idioma de la interfaz de usuario de la versión del libro de trabajo en función del código de país que guardó el archivo.
+Obtiene o establece el idioma de la interfaz de usuario de la versión del libro de trabajo según el código de país que ha guardado el archivo.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def language_code(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [AbstractTextLoadOptions](/cells/python-net/es/aspose.cells/abstracttextloadoptions)
-* clase [CountryCode](/cells/python-net/es/aspose.cells/countrycode)
+* módulo [`aspose.cells`](../../)
+* clase [`AbstractTextLoadOptions`](/cells/python-net/es/aspose.cells/abstracttextloadoptions)
+* clase [`CountryCode`](/cells/python-net/es/aspose.cells/countrycode)

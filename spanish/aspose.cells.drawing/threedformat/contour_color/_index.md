@@ -21,6 +21,6 @@ def contour_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [CellsColor](/cells/python-net/es/aspose.cells/cellscolor)
-* clase [ThreeDFormat](/cells/python-net/es/aspose.cells.drawing/threedformat)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`CellsColor`](/cells/python-net/es/aspose.cells/cellscolor)
+* clase [`ThreeDFormat`](/cells/python-net/es/aspose.cells.drawing/threedformat)

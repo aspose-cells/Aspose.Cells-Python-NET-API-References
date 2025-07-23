@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  current_page fastighet
 
- Indikerar sidindexet för DrawObject.
-Sidindex baseras på noll.
+ Anger sidindexet för DrawObject.
+Sidindexet är baserat på noll.
 Ett ark innehåller flera sidor vid rendering.
 ###  Definition:
 ```python
@@ -20,5 +20,5 @@ def current_page(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [DrawObject](/cells/python-net/sv/aspose.cells.rendering/drawobject)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`DrawObject`](/cells/python-net/sv/aspose.cells.rendering/drawobject)

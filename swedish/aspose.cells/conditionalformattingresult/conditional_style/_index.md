@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  conditional_style fastighet
 
-Får den villkorade resultatstilen.
+Hämtar den villkorliga resultatstilen.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def conditional_style(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ConditionalFormattingResult](/cells/python-net/sv/aspose.cells/conditionalformattingresult)
-* klass [Style](/cells/python-net/sv/aspose.cells/style)
+* modul [`aspose.cells`](../../)
+* klass [`ConditionalFormattingResult`](/cells/python-net/sv/aspose.cells/conditionalformattingresult)
+* klass [`Style`](/cells/python-net/sv/aspose.cells/style)

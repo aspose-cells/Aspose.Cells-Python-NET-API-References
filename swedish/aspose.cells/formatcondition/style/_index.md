@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  style fastighet
 
-Hämtar eller ställer in style av villkorligt formaterade cellområden.
+Hämtar eller ställer in style för villkorligt formaterade cellområden.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def style(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormatCondition](/cells/python-net/sv/aspose.cells/formatcondition)
-* klass [Style](/cells/python-net/sv/aspose.cells/style)
+* modul [`aspose.cells`](../../)
+* klass [`FormatCondition`](/cells/python-net/sv/aspose.cells/formatcondition)
+* klass [`Style`](/cells/python-net/sv/aspose.cells/style)

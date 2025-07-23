@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  horizontal_axis_color fastighet
 
-Hämtar och ställer in färgen på den horisontella axeln i sparklinegruppen.
+Hämtar och anger färgen på den horisontella axeln i miniatyrbildsgruppen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def horizontal_axis_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [CellsColor](/cells/python-net/sv/aspose.cells/cellscolor)
-* klass [SparklineGroup](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)
+* modul [`aspose.cells.charts`](../../)
+* klass [`CellsColor`](/cells/python-net/sv/aspose.cells/cellscolor)
+* klass [`SparklineGroup`](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)

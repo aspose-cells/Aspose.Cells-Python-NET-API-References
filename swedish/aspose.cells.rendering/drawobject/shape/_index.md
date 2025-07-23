@@ -10,7 +10,7 @@ is_root: false
 ##  shape fastighet
 
 Indikerar Shape-objektet vid rendering.
-Alla fastigheter på shape kan nås.
+Alla fastigheter på shape är åtkomliga.
 ###  Definition:
 ```python
 @property
@@ -19,6 +19,6 @@ def shape(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [DrawObject](/cells/python-net/sv/aspose.cells.rendering/drawobject)
-* klass [Shape](/cells/python-net/sv/aspose.cells.drawing/shape)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`DrawObject`](/cells/python-net/sv/aspose.cells.rendering/drawobject)
+* klass [`Shape`](/cells/python-net/sv/aspose.cells.drawing/shape)

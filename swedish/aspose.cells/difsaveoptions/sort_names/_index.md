@@ -3,13 +3,13 @@ title: sort_names fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 100
+weight: 120
 url: /sv/aspose.cells/difsaveoptions/sort_names/
 is_root: false
 ---
 ##  sort_names fastighet
 
-Anger om du sorterar definierade namn innan filen sparas.
+Anger om definierade namn ska sorteras innan filen sparas.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def sort_names(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DifSaveOptions](/cells/python-net/sv/aspose.cells/difsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`DifSaveOptions`](/cells/python-net/sv/aspose.cells/difsaveoptions)

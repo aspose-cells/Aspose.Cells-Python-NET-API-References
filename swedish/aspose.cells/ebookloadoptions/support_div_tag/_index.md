@@ -3,13 +3,13 @@ title: support_div_tag fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 390
+weight: 360
 url: /sv/aspose.cells/ebookloadoptions/support_div_tag/
 is_root: false
 ---
 ##  support_div_tag fastighet
 
-Anger om layouten för `<div>`-taggen stöds när html-filen innehåller den.
+Anger om layouten för taggen `<div>` stöds när html-filen innehåller den.
 Standardvärdet är falskt.
 ###  Definition:
 ```python

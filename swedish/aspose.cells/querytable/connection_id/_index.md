@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  connection_id fastighet
 
-Hämtar anslutnings-id för frågetabellen.
+Hämtar anslutnings-ID:t för frågetabellen.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def connection_id(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [QueryTable](/cells/python-net/sv/aspose.cells/querytable)
+* modul [`aspose.cells`](../../)
+* klass [`QueryTable`](/cells/python-net/sv/aspose.cells/querytable)

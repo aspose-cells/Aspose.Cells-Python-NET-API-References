@@ -3,7 +3,7 @@ title: SqlScriptColumnTypeMap klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 20
+weight: 30
 url: /sv/aspose.cells.saving/sqlscriptcolumntypemap/
 is_root: false
 ---
@@ -17,14 +17,14 @@ Typen SqlScriptColumnTypeMap avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [__init__](/cells/python-net/sv/aspose.cells.saving/sqlscriptcolumntypemap/__init__/#) | Konstruerar en ny instans av SqlScriptColumnTypeMap|
+| [`__init__(self)`](/cells/python-net/sv/aspose.cells.saving/sqlscriptcolumntypemap/__init__/#) | Konstruerar en ny instans av SqlScriptColumnTypeMap|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [get_string_type](/cells/python-net/sv/aspose.cells.saving/sqlscriptcolumntypemap/get_string_type/#) | Hämtar strängtyp i databasen.|
-| [get_numberic_type](/cells/python-net/sv/aspose.cells.saving/sqlscriptcolumntypemap/get_numberic_type/#) | Får numerisk typ i databasen.|
+| [`get_string_type(self)`](/cells/python-net/sv/aspose.cells.saving/sqlscriptcolumntypemap/get_string_type/#) | Hämtar strängtypen i databasen.|
+| [`get_numberic_type(self)`](/cells/python-net/sv/aspose.cells.saving/sqlscriptcolumntypemap/get_numberic_type/#) | Hämtar numerisk typ i databasen.|
 
 
 

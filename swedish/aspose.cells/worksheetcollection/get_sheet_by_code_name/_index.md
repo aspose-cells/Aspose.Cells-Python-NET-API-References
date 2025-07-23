@@ -7,7 +7,7 @@ weight: 130
 url: /sv/aspose.cells/worksheetcollection/get_sheet_by_code_name/
 is_root: false
 ---
-##  get_sheet_by_code_name(code_name) {#str}
+##  get_sheet_by_code_name(self, code_name) {#str}
 Hämtar kalkylbladet med kodnamnet.
 
 
@@ -17,6 +17,7 @@ Elementet med det angivna kodnamnet.
 
 
 ```python
+
 def get_sheet_by_code_name(self, code_name):
     ...
 ```
@@ -24,10 +25,10 @@ def get_sheet_by_code_name(self, code_name):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| code_name | str | Kalkylbladskodnamn.|
+| code_name | str | Arbetsbladets kodnamn.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WorksheetCollection](/cells/python-net/sv/aspose.cells/worksheetcollection)
+* modul [`aspose.cells`](../../)
+* klass [`WorksheetCollection`](/cells/python-net/sv/aspose.cells/worksheetcollection)

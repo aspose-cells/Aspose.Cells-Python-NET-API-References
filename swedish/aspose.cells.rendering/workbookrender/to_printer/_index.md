@@ -7,12 +7,13 @@ weight: 60
 url: /sv/aspose.cells.rendering/workbookrender/to_printer/
 is_root: false
 ---
-##  to_printer {#str}
-Återge arbetsbok till skrivare
+##  to_printer(self, printer_name) {#str}
+Rendera arbetsbok till skrivare
 
 
 
 ```python
+
 def to_printer(self, printer_name):
     ...
 ```
@@ -20,15 +21,16 @@ def to_printer(self, printer_name):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| printer_name | str | namnet på skrivaren , till exempel: "Microsoft Office Document Image Writer"|
+| printer_name | str | skrivarens namn, till exempel: "Microsoft Office Document Image Writer"|
 
 
-##  to_printer {#aspose.pydrawing.printing.PrinterSettings}
-Återge arbetsbok till skrivare
+##  to_printer(self, printer_settings) {#aspose.pydrawing.printing.PrinterSettings}
+Rendera arbetsbok till skrivare
 
 
 
 ```python
+
 def to_printer(self, printer_settings):
     ...
 ```
@@ -36,15 +38,16 @@ def to_printer(self, printer_settings):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| printer_settings | aspose.pydrawing.printing.PrinterSettings | skrivarens inställningar, t.ex. Skrivarnamn, Duplex|
+| printer_settings | aspose.pydrawing.printing.PrinterSettings | skrivarens inställningar, t.ex. skrivarnamn, duplex|
 
 
-##  to_printer {#str-str}
-Återge arbetsbok till skrivare
+##  to_printer(self, printer_name, job_name) {#str-str}
+Rendera arbetsbok till skrivare
 
 
 
 ```python
+
 def to_printer(self, printer_name, job_name):
     ...
 ```
@@ -52,16 +55,17 @@ def to_printer(self, printer_name, job_name):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| printer_name | str | namnet på skrivaren , till exempel: "Microsoft Office Document Image Writer"|
-| job_name | str | ställ in utskriftsjobbets namn|
+| printer_name | str | skrivarens namn, till exempel: "Microsoft Office Document Image Writer"|
+| job_name | str | ange utskriftsjobbets namn|
 
 
-##  to_printer {#aspose.pydrawing.printing.PrinterSettings-str}
-Återge arbetsbok till skrivare
+##  to_printer(self, printer_settings, job_name) {#aspose.pydrawing.printing.PrinterSettings-str}
+Rendera arbetsbok till skrivare
 
 
 
 ```python
+
 def to_printer(self, printer_settings, job_name):
     ...
 ```
@@ -69,16 +73,17 @@ def to_printer(self, printer_settings, job_name):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| printer_settings | aspose.pydrawing.printing.PrinterSettings | skrivarens inställningar, t.ex. Skrivarnamn, Duplex|
-| job_name | str | ställ in utskriftsjobbets namn|
+| printer_settings | aspose.pydrawing.printing.PrinterSettings | skrivarens inställningar, t.ex. skrivarnamn, duplex|
+| job_name | str | ange utskriftsjobbets namn|
 
 
-##  to_printer {#str-int-int}
-Återge arbetsbok till skrivare
+##  to_printer(self, printer_name, print_page_index, print_page_count) {#str-int-int}
+Rendera arbetsbok till skrivare
 
 
 
 ```python
+
 def to_printer(self, printer_name, print_page_index, print_page_count):
     ...
 ```
@@ -86,14 +91,14 @@ def to_printer(self, printer_name, print_page_index, print_page_count):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| printer_name | str | namnet på skrivaren , till exempel: "Microsoft Office Document Image Writer"|
-| print_page_index | int | det 0-baserade indexet för den första sidan som ska skrivas ut, det måste vara i intervallet [0, WorkbookRender.PageCount-1]|
-| print_page_count | int | antalet sidor som ska skrivas ut måste det vara större än noll|
+| printer_name | str | skrivarens namn, till exempel: "Microsoft Office Document Image Writer"|
+| print_page_index | int | det 0-baserade indexet för den första sidan som ska skrivas ut, det måste vara inom intervallet [0, WorkbookRender.PageCount-1]|
+| print_page_count | int | antalet sidor som ska skrivas ut måste vara större än noll|
 ###  Anmärkningar
 
-OBS: Denna metod är nu föråldrad.
-Använd istället ToPrinter(string PrinterName) och ImageOrPrintOptions.PageIndex, PageCount för att ställa in den första sidan och antalet sidor som ska skrivas ut.
- Den här egenskapen kommer att tas bort 12 månader senare sedan december 2021.
+OBS: Den här metoden är nu föråldrad.
+Använd istället ToPrinter(string PrinterName) och ImageOrPrintOptions.PageIndex, PageCount för att ange den första sidan och antalet sidor som ska skrivas ut.
+ Den här egenskapen kommer att tas bort 12 månader senare från och med december 2021.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 
 

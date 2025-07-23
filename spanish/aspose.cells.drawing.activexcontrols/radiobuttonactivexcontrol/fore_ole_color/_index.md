@@ -8,12 +8,6 @@ url: /es/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/fore_ole
 is_root: false
 ---
 ##  fore_ole_color propiedad
-
-Obtiene y establece el color antiguo del primer plano.
-
-###  Observaciones
-
-No se aplica al control de imagen.
 ###  Definición:
 ```python
 @property
@@ -25,5 +19,5 @@ def fore_ole_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [RadioButtonActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`RadioButtonActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

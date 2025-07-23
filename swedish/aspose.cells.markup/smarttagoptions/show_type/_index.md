@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_type fastighet
 
-Representerar showtypen av smart tagg.
+Representerar visningstypen för smarttaggen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def show_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.markup](../../)
-* klass [SmartTagOptions](/cells/python-net/sv/aspose.cells.markup/smarttagoptions)
-* klass [SmartTagShowType](/cells/python-net/sv/aspose.cells.markup/smarttagshowtype)
+* modul [`aspose.cells.markup`](../../)
+* klass [`SmartTagOptions`](/cells/python-net/sv/aspose.cells.markup/smarttagoptions)
+* klass [`SmartTagShowType`](/cells/python-net/sv/aspose.cells.markup/smarttagshowtype)

@@ -9,14 +9,15 @@ is_root: false
 ---
 ##  refer_to_sheet_with_same_name propiedad
 
-Al copiar una hoja de trabajo a otro libro de trabajo y la hoja de trabajo contiene las fórmulas que se refieren a otras hojas de trabajo en MS Excel,
-las fórmulas copiadas deben hacer referencia al libro de trabajo de origen.
-Pero a veces hemos copiado otras hojas de trabajo y esperamos que las fórmulas copiadas se refieran a otras hojas de trabajo con el nombre en el mismo libro de trabajo,
-establezca esta propiedad como verdadera.
+En MS Excel, al copiar fórmulas que hacen referencia a otras hojas de cálculo mientras se copia una hoja de cálculo a otra,
+Las fórmulas copiadas deben hacer referencia al libro de trabajo de origen.
+Sin embargo, para algunas situaciones, el usuario puede necesitar que las fórmulas copiadas se refieran a hojas de trabajo con el mismo nombre.
+en el mismo libro de trabajo, como cuando esas hojas de trabajo se han copiado antes de esta operación de copia,
+Entonces esta propiedad debe mantenerse como verdadera.
 
 ###  Observaciones
 
-El valor por defecto es verdadero.
+El valor predeterminado es verdadero.
 ###  Definición:
 ```python
 @property
@@ -28,5 +29,5 @@ def refer_to_sheet_with_same_name(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CopyOptions](/cells/python-net/es/aspose.cells/copyoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`CopyOptions`](/cells/python-net/es/aspose.cells/copyoptions)

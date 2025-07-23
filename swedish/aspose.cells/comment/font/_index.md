@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font fastighet
 
-Får kommentaren font.
+Hämtar kommentaren font.
 
 ###  Exempel
 

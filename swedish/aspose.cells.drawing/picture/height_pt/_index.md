@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height_pt fastighet
 
-Representerar höjden på formen, i punktenhet.
+Representerar formens höjd, i enheten punkter.
 
 ###  Exempel
 

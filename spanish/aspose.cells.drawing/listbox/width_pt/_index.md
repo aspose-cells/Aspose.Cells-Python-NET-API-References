@@ -3,13 +3,13 @@ title: width_pt propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1280
+weight: 1290
 url: /es/aspose.cells.drawing/listbox/width_pt/
 is_root: false
 ---
 ##  width_pt propiedad
 
-Representa el ancho de la forma, en unidad de punto.
+Representa el ancho de la forma, en unidad de puntos.
 
 ###  Ejemplo
 

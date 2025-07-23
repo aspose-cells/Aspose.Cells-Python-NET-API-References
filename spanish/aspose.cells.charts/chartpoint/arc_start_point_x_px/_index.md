@@ -19,5 +19,5 @@ def arc_start_point_x_px(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [ChartPoint](/cells/python-net/es/aspose.cells.charts/chartpoint)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`ChartPoint`](/cells/python-net/es/aspose.cells.charts/chartpoint)

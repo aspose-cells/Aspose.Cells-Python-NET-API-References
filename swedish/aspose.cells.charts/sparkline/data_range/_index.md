@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  data_range fastighet
 
-Representerar dataintervallet för sparkline.
+Representerar dataintervallet för miniatyrdiagrammet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def data_range(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Sparkline](/cells/python-net/sv/aspose.cells.charts/sparkline)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Sparkline`](/cells/python-net/sv/aspose.cells.charts/sparkline)

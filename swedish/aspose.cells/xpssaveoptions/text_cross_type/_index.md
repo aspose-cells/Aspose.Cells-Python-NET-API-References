@@ -3,13 +3,11 @@ title: text_cross_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 280
+weight: 320
 url: /sv/aspose.cells/xpssaveoptions/text_cross_type/
 is_root: false
 ---
 ##  text_cross_type fastighet
-
-Hämtar eller ställer in visning av texttyp när textbredden är större än cellbredden.
 ###  Definition:
 ```python
 @property

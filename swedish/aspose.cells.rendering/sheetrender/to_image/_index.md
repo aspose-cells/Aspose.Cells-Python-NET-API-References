@@ -7,12 +7,13 @@ weight: 50
 url: /sv/aspose.cells.rendering/sheetrender/to_image/
 is_root: false
 ---
-##  to_image {#int-str}
-Gör en viss sida till en fil.
+##  to_image(self, page_index, file_name) {#int-str}
+Rendera en viss sida till en fil.
 
 
 
 ```python
+
 def to_image(self, page_index, file_name):
     ...
 ```
@@ -25,7 +26,7 @@ def to_image(self, page_index, file_name):
 
 ###  Exempel
 
-Följande kod matar ut den första sidan av det första arket till png-bild.
+Följande kod matar ut den första sidan av det första arket som en png-bild.
 
 ```python
 from aspose.cells import Workbook
@@ -45,12 +46,13 @@ sr.to_image(0, "output.png")
 ```
 
 
-##  to_image {#int-io.RawIOBase}
-Gör en viss sida till en stream.
+##  to_image(self, page_index, stream) {#int-io.RawIOBase}
+Rendera en viss sida till en ström.
 
 
 
 ```python
+
 def to_image(self, page_index, stream):
     ...
 ```

@@ -3,13 +3,13 @@ title: pivot_items propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 530
+weight: 620
 url: /es/aspose.cells.pivot/pivotfield/pivot_items/
 is_root: false
 ---
 ##  pivot_items propiedad
 
-Obtiene los elementos dinámicos del campo dinámico.
+Obtiene los elementos pivote del campo pivote
 ###  Definición:
 ```python
 @property

@@ -1,5 +1,5 @@
 ---
-title: custom_paper_size método
+title: método custom_paper_size
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 40
 url: /es/aspose.cells/pagesetup/custom_paper_size/
 is_root: false
 ---
-##  custom_paper_size(width, height) {#float-float}
+##  custom_paper_size(self, width, height) {#float-float}
 Establece el tamaño de papel personalizado, en unidades de pulgadas.
 
 
 
 ```python
+
 def custom_paper_size(self, width, height):
     ...
 ```
@@ -26,5 +27,5 @@ def custom_paper_size(self, width, height):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PageSetup](/cells/python-net/es/aspose.cells/pagesetup)
+* módulo [`aspose.cells`](../../)
+* clase [`PageSetup`](/cells/python-net/es/aspose.cells/pagesetup)

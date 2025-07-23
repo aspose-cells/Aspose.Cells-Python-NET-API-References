@@ -3,20 +3,21 @@ title: get_row_height_pixel metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 480
+weight: 520
 url: /sv/aspose.cells/cells/get_row_height_pixel/
 is_root: false
 ---
-##  get_row_height_pixel {#int}
-Hämtar höjden på en angiven rad i pixelenhet.
+##  get_row_height_pixel(self, row) {#int}
+Hämtar höjden på en specificerad rad i pixelenhet.
 
 
 ###  Returnerar
 
-Radens höjd
+Radhöjd
 
 
 ```python
+
 def get_row_height_pixel(self, row):
     ...
 ```

@@ -13,7 +13,7 @@ Obtiene y establece la Libid extendida de la referencia.
 
 ###  Observaciones
 
-Solo para referencia de control.
+Sólo para referencia de control.
 ###  Definición:
 ```python
 @property
@@ -25,5 +25,5 @@ def extended_libid(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.vba](../../)
-* clase [VbaProjectReference](/cells/python-net/es/aspose.cells.vba/vbaprojectreference)
+* módulo [`aspose.cells.vba`](../../)
+* clase [`VbaProjectReference`](/cells/python-net/es/aspose.cells.vba/vbaprojectreference)

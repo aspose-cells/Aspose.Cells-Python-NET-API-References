@@ -3,7 +3,7 @@ title: sheet_indexes propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 170
+weight: 210
 url: /es/aspose.cells/jsonsaveoptions/sheet_indexes/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def sheet_indexes(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [JsonSaveOptions](/cells/python-net/es/aspose.cells/jsonsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`JsonSaveOptions`](/cells/python-net/es/aspose.cells/jsonsaveoptions)

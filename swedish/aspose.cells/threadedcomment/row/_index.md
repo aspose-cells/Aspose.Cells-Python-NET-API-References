@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row fastighet
 
-Hämtar row index för kommentaren.
+Hämtar row-indexet för kommentaren.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def row(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ThreadedComment](/cells/python-net/sv/aspose.cells/threadedcomment)
+* modul [`aspose.cells`](../../)
+* klass [`ThreadedComment`](/cells/python-net/sv/aspose.cells/threadedcomment)

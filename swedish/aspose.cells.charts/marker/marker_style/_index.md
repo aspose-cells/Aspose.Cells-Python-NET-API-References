@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  marker_style fastighet
 
-Representerar markörstilen. Gäller linjediagram, punktdiagram eller radardiagram.
+Representerar markörstilen. Gäller för linjediagram, punktdiagram eller radardiagram.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def marker_style(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ChartMarkerType](/cells/python-net/sv/aspose.cells.charts/chartmarkertype)
-* klass [Marker](/cells/python-net/sv/aspose.cells.charts/marker)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ChartMarkerType`](/cells/python-net/sv/aspose.cells.charts/chartmarkertype)
+* klass [`Marker`](/cells/python-net/sv/aspose.cells.charts/marker)

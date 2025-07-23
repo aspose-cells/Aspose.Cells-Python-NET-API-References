@@ -3,20 +3,21 @@ title: método get_text_of_multiple_items
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 130
+weight: 140
 url: /es/aspose.cells/settablepivotglobalizationsettings/get_text_of_multiple_items/
 is_root: false
 ---
-##  get_text_of_multiple_items {#}
+##  get_text_of_multiple_items(self) {#}
 Obtiene el texto de la etiqueta "(Varios elementos)" en la tabla dinámica.
 
 
 ###  Devoluciones
 
-El texto de la etiqueta "(Múltiples elementos)"
+El texto de la etiqueta "(Varios elementos)"
 
 
 ```python
+
 def get_text_of_multiple_items(self):
     ...
 ```

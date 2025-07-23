@@ -7,12 +7,13 @@ weight: 30
 url: /es/aspose.cells.rendering/workbookrender/dispose/
 is_root: false
 ---
-##  dispose {#}
+##  dispose(self) {#}
 Libera recursos creados y utilizados para la renderización.
 
 
 
 ```python
+
 def dispose(self):
     ...
 ```

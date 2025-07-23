@@ -3,13 +3,13 @@ title: display_name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 270
+weight: 350
 url: /sv/aspose.cells.pivot/pivotfield/display_name/
 is_root: false
 ---
 ##  display_name fastighet
 
-Representerar pivotfältets visningsnamn.
+Representerar visningsnamnet för PivotField.
 ###  Definition:
 ```python
 @property

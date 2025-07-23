@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row fastighet
 
-Hämtar row index för kommentaren.
+Hämtar row-indexet för kommentaren.
 
 ###  Exempel
 

@@ -21,5 +21,5 @@ def load_formulas(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [HtmlLoadOptions](/cells/python-net/es/aspose.cells/htmlloadoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`HtmlLoadOptions`](/cells/python-net/es/aspose.cells/htmlloadoptions)

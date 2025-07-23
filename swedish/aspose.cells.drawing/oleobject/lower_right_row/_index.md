@@ -3,7 +3,7 @@ title: lower_right_row fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 920
+weight: 930
 url: /sv/aspose.cells.drawing/oleobject/lower_right_row/
 is_root: false
 ---

@@ -3,16 +3,17 @@ title: método insert_rows
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 720
+weight: 740
 url: /es/aspose.cells/cells/insert_rows/
 is_root: false
 ---
-##  insert_rows {#int-int}
-Inserta varias filas en la hoja de trabajo.
+##  insert_rows(self, row_index, total_rows) {#int-int}
+Inserta varias filas en la hoja de cálculo.
 
 
 
 ```python
+
 def insert_rows(self, row_index, total_rows):
     ...
 ```
@@ -24,12 +25,13 @@ def insert_rows(self, row_index, total_rows):
 | total_rows | int | Número de filas a insertar.|
 
 
-##  insert_rows {#int-int-bool}
-Inserta varias filas en la hoja de trabajo.
+##  insert_rows(self, row_index, total_rows, update_reference) {#int-int-bool}
+Inserta varias filas en la hoja de cálculo.
 
 
 
 ```python
+
 def insert_rows(self, row_index, total_rows, update_reference):
     ...
 ```
@@ -42,12 +44,13 @@ def insert_rows(self, row_index, total_rows, update_reference):
 | update_reference | bool | Indica si se actualizarán las referencias en otras hojas de trabajo.|
 
 
-##  insert_rows {#int-int-aspose.cells.InsertOptions}
-Inserta varias filas en la hoja de trabajo.
+##  insert_rows(self, row_index, total_rows, options) {#int-int-aspose.cells.InsertOptions}
+Inserta varias filas en la hoja de cálculo.
 
 
 
 ```python
+
 def insert_rows(self, row_index, total_rows, options):
     ...
 ```
@@ -57,7 +60,7 @@ def insert_rows(self, row_index, total_rows, options):
 | :- | :- | :- |
 | row_index | int | Índice de fila.|
 | total_rows | int | Número de filas a insertar.|
-| options | [`InsertOptions`](/cells/python-net/es/aspose.cells/insertoptions) | Indica si se actualizarán las referencias en otras hojas de trabajo.|
+| options | [`InsertOptions`](/cells/python-net/es/aspose.cells/insertoptions) | Opciones para insertar operación.|
 
 
 

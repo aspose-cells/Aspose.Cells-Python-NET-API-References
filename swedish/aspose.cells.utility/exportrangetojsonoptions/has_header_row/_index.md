@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_header_row fastighet
 
-Anger om intervallet innehåller rubrikrad.
+Anger om intervallet innehåller en rubrikrad.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def has_header_row(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.utility](../../)
-* klass [ExportRangeToJsonOptions](/cells/python-net/sv/aspose.cells.utility/exportrangetojsonoptions)
+* modul [`aspose.cells.utility`](../../)
+* klass [`ExportRangeToJsonOptions`](/cells/python-net/sv/aspose.cells.utility/exportrangetojsonoptions)

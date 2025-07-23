@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cell_area propiedad
 
-Obtiene el objeto [ProtectedRange.cell_area](/cells/python-net/es/aspose.cells/protectedrange#cell_area) que representa el área de la celda a proteger.
+Obtiene el objeto [`ProtectedRange.cell_area`](/cells/python-net/es/aspose.cells/protectedrange#cell_area) que representa el área de celda que se protegerá.
 ###  Definición:
 ```python
 @property
@@ -18,6 +18,6 @@ def cell_area(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CellArea](/cells/python-net/es/aspose.cells/cellarea)
-* clase [ProtectedRange](/cells/python-net/es/aspose.cells/protectedrange)
+* módulo [`aspose.cells`](../../)
+* clase [`CellArea`](/cells/python-net/es/aspose.cells/cellarea)
+* clase [`ProtectedRange`](/cells/python-net/es/aspose.cells/protectedrange)

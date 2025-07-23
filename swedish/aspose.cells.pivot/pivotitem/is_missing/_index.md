@@ -3,17 +3,17 @@ title: is_missing fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 100
+weight: 140
 url: /sv/aspose.cells.pivot/pivotitem/is_missing/
 is_root: false
 ---
 ##  is_missing fastighet
 
-Anger om artikeln saknar värde.
+Anger om objektet har tagits bort från datakällan.
 
 ###  Anmärkningar
 
-True betyder att detta värde har tagits bort från datakällan.
+Sant betyder att det här värdet har tagits bort från datakällan.
 ###  Definition:
 ```python
 @property

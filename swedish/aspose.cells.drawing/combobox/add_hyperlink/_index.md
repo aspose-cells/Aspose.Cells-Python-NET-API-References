@@ -7,7 +7,7 @@ weight: 20
 url: /sv/aspose.cells.drawing/combobox/add_hyperlink/
 is_root: false
 ---
-##  add_hyperlink(address) {#str}
+##  add_hyperlink(self, address) {#str}
 Lägger till en hyperlänk till formen.
 
 
@@ -17,6 +17,7 @@ Returnera det nya hyperlänkobjektet.
 
 
 ```python
+
 def add_hyperlink(self, address):
     ...
 ```
@@ -37,5 +38,5 @@ hyperlink = shape.add_hyperlink("https://www.aspose.com/")
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ComboBox](/cells/python-net/sv/aspose.cells.drawing/combobox)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ComboBox`](/cells/python-net/sv/aspose.cells.drawing/combobox)

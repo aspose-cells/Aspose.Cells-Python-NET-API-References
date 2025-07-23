@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  areas fastighet
 
-Hämtar alla [`CellArea`](/cells/python-net/sv/aspose.cells/cellarea) som innehåller datavalideringsinställningarna.
+Hämtar alla [`CellArea`](/cells/python-net/sv/aspose.cells/cellarea) som innehåller inställningarna för datavalidering.
 ###  Definition:
 ```python
 @property

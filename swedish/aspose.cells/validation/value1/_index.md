@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value1 fastighet
 
-Representerar det första värdet som är kopplat till datavalideringen.
+Representerar det första värdet som är associerat med datavalideringen.
 ###  Definition:
 ```python
 @property

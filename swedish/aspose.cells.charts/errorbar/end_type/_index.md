@@ -21,6 +21,6 @@ def end_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ErrorBar](/cells/python-net/sv/aspose.cells.charts/errorbar)
-* klass [MsoArrowheadStyle](/cells/python-net/sv/aspose.cells.drawing/msoarrowheadstyle)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ErrorBar`](/cells/python-net/sv/aspose.cells.charts/errorbar)
+* klass [`MsoArrowheadStyle`](/cells/python-net/sv/aspose.cells.drawing/msoarrowheadstyle)

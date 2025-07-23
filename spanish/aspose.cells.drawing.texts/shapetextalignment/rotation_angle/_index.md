@@ -3,7 +3,7 @@ title: rotation_angle propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 110
+weight: 120
 url: /es/aspose.cells.drawing.texts/shapetextalignment/rotation_angle/
 is_root: false
 ---
@@ -15,7 +15,7 @@ Obtiene y establece la rotación de la forma.
 
 ```python
 
-shapeTextAlignment.rotation_angle = 90
+shapeTextAlignment.rotation_angle = 90.0
 
 ```
 ###  Definición:
@@ -29,5 +29,5 @@ def rotation_angle(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](../../)
-* clase [ShapeTextAlignment](/cells/python-net/es/aspose.cells.drawing.texts/shapetextalignment)
+* módulo [`aspose.cells.drawing.texts`](../../)
+* clase [`ShapeTextAlignment`](/cells/python-net/es/aspose.cells.drawing.texts/shapetextalignment)

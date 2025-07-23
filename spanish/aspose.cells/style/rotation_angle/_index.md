@@ -25,7 +25,7 @@ Representa el ángulo de rotación del texto.
 90: Hacia arriba.
 
 
-Puede establecer 255 o un valor que oscila entre -90 y 90.
+Puede establecer 255 o un valor comprendido entre -90 y 90.
 ###  Definición:
 ```python
 @property

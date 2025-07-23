@@ -21,6 +21,6 @@ def date_time_grouping_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [DateTimeGroupItem](/cells/python-net/es/aspose.cells/datetimegroupitem)
-* clase [DateTimeGroupingType](/cells/python-net/es/aspose.cells/datetimegroupingtype)
+* módulo [`aspose.cells`](../../)
+* clase [`DateTimeGroupItem`](/cells/python-net/es/aspose.cells/datetimegroupitem)
+* clase [`DateTimeGroupingType`](/cells/python-net/es/aspose.cells/datetimegroupingtype)

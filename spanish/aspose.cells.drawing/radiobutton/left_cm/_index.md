@@ -3,7 +3,7 @@ title: left_cm propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 710
+weight: 720
 url: /es/aspose.cells.drawing/radiobutton/left_cm/
 is_root: false
 ---

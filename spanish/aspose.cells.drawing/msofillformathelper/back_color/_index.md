@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  back_color propiedad
 
-Obtiene y establece el color de fondo del archivo.
+Obtiene y establece nuevamente el color del archivo.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def back_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [MsoFillFormatHelper](/cells/python-net/es/aspose.cells.drawing/msofillformathelper)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`MsoFillFormatHelper`](/cells/python-net/es/aspose.cells.drawing/msofillformathelper)

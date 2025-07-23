@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  back_color fastighet
 
-Hämtar och ställer tillbaka filens färg.
+Hämtar och ställer in filens färg igen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def back_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [MsoFillFormat](/cells/python-net/sv/aspose.cells.drawing/msofillformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`MsoFillFormat`](/cells/python-net/sv/aspose.cells.drawing/msofillformat)

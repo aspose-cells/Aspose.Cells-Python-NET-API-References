@@ -21,5 +21,5 @@ def weight_px(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Line](/cells/python-net/es/aspose.cells.drawing/line)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Line`](/cells/python-net/es/aspose.cells.drawing/line)

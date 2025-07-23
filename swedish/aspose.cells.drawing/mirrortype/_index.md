@@ -3,12 +3,12 @@ title: MirrorType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 960
+weight: 950
 url: /sv/aspose.cells.drawing/mirrortype/
 is_root: false
 ---
 ##  MirrorType uppräkning
-Representerar spegeltyp av texturfyllning
+Representerar spegelblank texturfyllning
 
 
 
@@ -25,4 +25,4 @@ Typen MirrorType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

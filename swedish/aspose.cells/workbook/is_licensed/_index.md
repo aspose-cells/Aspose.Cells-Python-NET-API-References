@@ -3,13 +3,13 @@ title: is_licensed fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 620
+weight: 650
 url: /sv/aspose.cells/workbook/is_licensed/
 is_root: false
 ---
 ##  is_licensed fastighet
 
-Indikerar om licensen är inställd.
+Anger om licens är inställd.
 ###  Definition:
 ```python
 @property

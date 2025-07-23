@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom_crop_inch propiedad
 
-Representa la ubicación de la parte inferior del rectángulo de recorte expresada en pulgadas.
+Representa la ubicación de la parte inferior del rectángulo de recorte expresada en unidades de pulgadas.
 ###  Definición:
 ```python
 @property

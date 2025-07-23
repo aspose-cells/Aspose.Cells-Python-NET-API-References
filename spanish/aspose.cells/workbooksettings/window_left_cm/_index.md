@@ -3,7 +3,7 @@ title: window_left_cm propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 560
+weight: 570
 url: /es/aspose.cells/workbooksettings/window_left_cm/
 is_root: false
 ---

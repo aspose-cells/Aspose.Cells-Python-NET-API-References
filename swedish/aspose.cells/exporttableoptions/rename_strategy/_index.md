@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rename_strategy fastighet
 
-Strategi för dubbletter av namn på kolumner.
+Strategi för dubbletter av kolumnnamn.
 ###  Definition:
 ```python
 @property

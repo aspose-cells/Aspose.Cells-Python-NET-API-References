@@ -7,12 +7,13 @@ weight: 160
 url: /sv/aspose.cells/autofilter/remove_filter/
 is_root: false
 ---
-##  remove_filter(field_index) {#int}
+##  remove_filter(self, field_index) {#int}
 Ta bort det specifika filtret.
 
 
 
 ```python
+
 def remove_filter(self, field_index):
     ...
 ```
@@ -23,12 +24,13 @@ def remove_filter(self, field_index):
 | field_index | int | Det specifika filterindexet|
 
 
-##  remove_filter(field_index, criteria) {#int-str}
+##  remove_filter(self, field_index, criteria) {#int-str}
 Tar bort ett filter för en filterkolumn.
 
 
 
 ```python
+
 def remove_filter(self, field_index, criteria):
     ...
 ```
@@ -36,11 +38,11 @@ def remove_filter(self, field_index, criteria):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| field_index | int | Heltalsoffset för fältet som du vill basera filtret på<br/> (från vänster i listan; fältet längst till vänster är fält 0).|
-| criteria | str | De angivna kriterierna (en sträng; till exempel "101").<br/> Det kan bara vara null eller vara ett av cellernas värde i den här kolumnen.|
+| field_index | int | Heltalsförskjutningen för fältet som du vill basera filtret på<br/> (från vänster i listan; fältet längst till vänster är fält 0).|
+| criteria | str | De angivna kriterierna (en sträng; till exempel "101").<br/>Det kan bara vara null eller vara ett av cellernas värden i den här kolumnen.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [AutoFilter](/cells/python-net/sv/aspose.cells/autofilter)
+* modul [`aspose.cells`](../../)
+* klass [`AutoFilter`](/cells/python-net/sv/aspose.cells/autofilter)

@@ -9,8 +9,12 @@ is_root: false
 ---
 ##  start_row propiedad
 
-Obtiene o establece la fila inicial de esta área.
+Obtiene o establece la fila de inicio de esta área.
+###  Definición:
+```python
+f start_row 
+```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CellArea](/cells/python-net/es/aspose.cells/cellarea)
+* módulo [`aspose.cells`](../../)
+* clase [`CellArea`](/cells/python-net/es/aspose.cells/cellarea)

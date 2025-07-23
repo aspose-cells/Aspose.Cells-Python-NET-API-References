@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  max_length fastighet
 
-Hämtar och ställer in det maximala antalet tecken
+Hämtar och anger maximalt antal tecken
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def max_length(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ComboBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ComboBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

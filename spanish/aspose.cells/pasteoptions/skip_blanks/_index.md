@@ -3,13 +3,13 @@ title: skip_blanks propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 60
+weight: 70
 url: /es/aspose.cells/pasteoptions/skip_blanks/
 is_root: false
 ---
 ##  skip_blanks propiedad
 
-Indica si salta celdas en blanco.
+Indica si se omiten celdas en blanco.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def skip_blanks(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PasteOptions](/cells/python-net/es/aspose.cells/pasteoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`PasteOptions`](/cells/python-net/es/aspose.cells/pasteoptions)

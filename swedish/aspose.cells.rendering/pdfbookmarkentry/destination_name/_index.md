@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  destination_name fastighet
 
-Hämtar eller ställer in namnet på destinationen.
+Hämtar eller anger namnet på destinationen.
 
 ###  Anmärkningar
 
@@ -25,5 +25,5 @@ def destination_name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [PdfBookmarkEntry](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`PdfBookmarkEntry`](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry)

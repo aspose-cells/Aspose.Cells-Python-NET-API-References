@@ -3,13 +3,13 @@ title: selected_value fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 910
+weight: 920
 url: /sv/aspose.cells.drawing/combobox/selected_value/
 is_root: false
 ---
 ##  selected_value fastighet
 
-Hämtar det valda värdet för combox-rutan.
+Hämtar det valda värdet från kombinationsrutan.
 ###  Definition:
 ```python
 @property

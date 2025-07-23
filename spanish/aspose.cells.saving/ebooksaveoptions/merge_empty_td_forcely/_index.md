@@ -3,16 +3,16 @@ title: merge_empty_td_forcely propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 560
+weight: 640
 url: /es/aspose.cells.saving/ebooksaveoptions/merge_empty_td_forcely/
 is_root: false
 ---
 ##  merge_empty_td_forcely propiedad
 
- Indica si se debe fusionar un elemento TD vacío al exportar un archivo a html.
- El tamaño del archivo html se reducirá significativamente después de establecer el valor en verdadero. El valor predeterminado es falso.
- Si desea importar el archivo html para Excel o exportar líneas de cuadrícula perfectas al guardar el archivo en html,
-mantenga el valor predeterminado.
+ Indica si se debe fusionar de forma forzada el elemento TD vacío al exportar el archivo a HTML.
+ El tamaño del archivo HTML se reducirá significativamente al establecer el valor en "true". El valor predeterminado es "false".
+ Si desea importar el archivo html a Excel o exportar líneas de cuadrícula perfectas al guardar el archivo en html,
+Por favor mantenga el valor predeterminado.
 ###  Definición:
 ```python
 @property

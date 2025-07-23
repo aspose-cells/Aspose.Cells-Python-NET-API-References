@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  distance fastighet
 
-Hämtar och ställer in hur långt skuggan ska distance, i poängenhet.
+Hämtar och anger hur långt det är till distance skuggan, i enhet av punkter.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def distance(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ReflectionEffect](/cells/python-net/sv/aspose.cells.drawing/reflectioneffect)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ReflectionEffect`](/cells/python-net/sv/aspose.cells.drawing/reflectioneffect)

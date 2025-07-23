@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_filtered fastighet
 
-Indikerar om serien är vald eller filtrerad. True representerar att denna serie är filtrerad och den kommer inte att visas i diagrammet.
+Anger om serien är vald eller filtrerad. Sant representerar att serien är filtrerad och den kommer inte att visas i diagrammet.
 ###  Definition:
 ```python
 @property

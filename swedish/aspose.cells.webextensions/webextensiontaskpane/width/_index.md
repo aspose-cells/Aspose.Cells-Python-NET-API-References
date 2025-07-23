@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width fastighet
 
-Hämtar och ställer in standardvärdet width för denna aktivitetspanelinstans.
+Hämtar och anger standardvärdet width för den här aktivitetsfönsterinstansen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def width(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.webextensions](../../)
-* klass [WebExtensionTaskPane](/cells/python-net/sv/aspose.cells.webextensions/webextensiontaskpane)
+* modul [`aspose.cells.webextensions`](../../)
+* klass [`WebExtensionTaskPane`](/cells/python-net/sv/aspose.cells.webextensions/webextensiontaskpane)

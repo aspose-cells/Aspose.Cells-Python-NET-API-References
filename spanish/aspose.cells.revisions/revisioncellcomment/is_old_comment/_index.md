@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_old_comment propiedad
 
-Indica si se trata de un comentario antiguo.
+Indica si es un comentario antiguo.
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_old_comment(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.revisions](../../)
-* clase [RevisionCellComment](/cells/python-net/es/aspose.cells.revisions/revisioncellcomment)
+* módulo [`aspose.cells.revisions`](../../)
+* clase [`RevisionCellComment`](/cells/python-net/es/aspose.cells.revisions/revisioncellcomment)

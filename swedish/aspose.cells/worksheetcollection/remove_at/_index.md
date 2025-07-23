@@ -7,12 +7,13 @@ weight: 190
 url: /sv/aspose.cells/worksheetcollection/remove_at/
 is_root: false
 ---
-##  remove_at {#str}
-Tar bort elementet med ett angivet namn.
+##  remove_at(self, name) {#str}
+Tar bort elementet vid ett angivet namn.
 
 
 
 ```python
+
 def remove_at(self, name):
     ...
 ```
@@ -20,7 +21,7 @@ def remove_at(self, name):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| name | str | Namnet på elementet som ska tas bort.|
+| name | str | Namnet på det element som ska tas bort.|
 
 
 

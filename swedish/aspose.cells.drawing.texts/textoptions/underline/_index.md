@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  underline fastighet
 
-Hämtar eller ställer in typsnittet underline typ.
+Hämtar eller ställer in teckensnittstypen underline.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def underline(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [FontUnderlineType](/cells/python-net/sv/aspose.cells/fontunderlinetype)
-* klass [TextOptions](/cells/python-net/sv/aspose.cells.drawing.texts/textoptions)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`FontUnderlineType`](/cells/python-net/sv/aspose.cells/fontunderlinetype)
+* klass [`TextOptions`](/cells/python-net/sv/aspose.cells.drawing.texts/textoptions)

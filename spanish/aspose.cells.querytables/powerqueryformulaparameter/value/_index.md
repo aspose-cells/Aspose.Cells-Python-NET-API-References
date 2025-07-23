@@ -3,7 +3,7 @@ title: value propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 50
+weight: 100
 url: /es/aspose.cells.querytables/powerqueryformulaparameter/value/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.querytables](../../)
-* clase [PowerQueryFormulaParameter](/cells/python-net/es/aspose.cells.querytables/powerqueryformulaparameter)
+* módulo [`aspose.cells.querytables`](../../)
+* clase [`PowerQueryFormulaParameter`](/cells/python-net/es/aspose.cells.querytables/powerqueryformulaparameter)

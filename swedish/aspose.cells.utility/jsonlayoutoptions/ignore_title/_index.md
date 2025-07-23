@@ -21,5 +21,5 @@ def ignore_title(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.utility](../../)
-* klass [JsonLayoutOptions](/cells/python-net/sv/aspose.cells.utility/jsonlayoutoptions)
+* modul [`aspose.cells.utility`](../../)
+* klass [`JsonLayoutOptions`](/cells/python-net/sv/aspose.cells.utility/jsonlayoutoptions)

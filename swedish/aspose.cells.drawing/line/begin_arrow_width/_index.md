@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  begin_arrow_width fastighet
 
-Anger bredden på pilspetsen för början av en linje.
+Anger bredden på pilspetsen för början av en rad.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def begin_arrow_width(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Line](/cells/python-net/sv/aspose.cells.drawing/line)
-* klass [MsoArrowheadWidth](/cells/python-net/sv/aspose.cells.drawing/msoarrowheadwidth)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Line`](/cells/python-net/sv/aspose.cells.drawing/line)
+* klass [`MsoArrowheadWidth`](/cells/python-net/sv/aspose.cells.drawing/msoarrowheadwidth)

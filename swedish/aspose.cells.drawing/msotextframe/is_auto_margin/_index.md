@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_auto_margin fastighet
 
-Indikerar om marginalen beräknas automatiskt.
+Anger om marginalen beräknas automatiskt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_auto_margin(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [MsoTextFrame](/cells/python-net/sv/aspose.cells.drawing/msotextframe)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`MsoTextFrame`](/cells/python-net/sv/aspose.cells.drawing/msotextframe)

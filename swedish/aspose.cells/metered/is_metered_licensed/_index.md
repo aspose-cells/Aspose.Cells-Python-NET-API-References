@@ -7,8 +7,8 @@ weight: 50
 url: /sv/aspose.cells/metered/is_metered_licensed/
 is_root: false
 ---
-##  is_metered_licensed {#}
-Kontrollera om mätt är licensierat
+##  is_metered_licensed() {#}
+Kontrollera om mätaren är licensierad
 
 
 ###  Returnerar
@@ -17,7 +17,9 @@ Sant eller falskt
 
 
 ```python
-def is_metered_licensed(self):
+
+@staticmethod
+def is_metered_licensed():
     ...
 ```
 

@@ -3,7 +3,7 @@ title: enable_zip64 fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 80
+weight: 90
 url: /sv/aspose.cells/ooxmlsaveoptions/enable_zip64/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def enable_zip64(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [OoxmlSaveOptions](/cells/python-net/sv/aspose.cells/ooxmlsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`OoxmlSaveOptions`](/cells/python-net/sv/aspose.cells/ooxmlsaveoptions)

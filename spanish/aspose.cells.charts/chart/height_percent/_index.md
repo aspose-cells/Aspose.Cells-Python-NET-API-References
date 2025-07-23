@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height_percent propiedad
 
-Devuelve o establece la altura de un gráfico 3D como porcentaje del ancho del gráfico (entre 5 y 500 por ciento).
+Devuelve o establece la altura de un gráfico 3D como un porcentaje del ancho del gráfico (entre 5 y 500 por ciento).
 ###  Definición:
 ```python
 @property

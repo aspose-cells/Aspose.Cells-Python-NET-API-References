@@ -3,14 +3,13 @@ title: is_insert_page_breaks_between_items fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 430
+weight: 510
 url: /sv/aspose.cells.pivot/pivotfield/is_insert_page_breaks_between_items/
 is_root: false
 ---
 ##  is_insert_page_breaks_between_items fastighet
 
-anger om fältet kan infoga sidbrytningar mellan objekt
-infoga sidbrytning efter varje objekt
+Anger om sidbrytningar ska infogas efter varje objekt.
 Standardvärdet är falskt.
 ###  Definition:
 ```python

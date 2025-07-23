@@ -3,13 +3,13 @@ title: precision_strategy fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 90
+weight: 70
 url: /sv/aspose.cells/calculationoptions/precision_strategy/
 is_root: false
 ---
 ##  precision_strategy fastighet
 
-Specificerar strategin för bearbetningsprecision av beräkning.
+Anger strategin för bearbetning av beräkningens precision.
 ###  Definition:
 ```python
 @property

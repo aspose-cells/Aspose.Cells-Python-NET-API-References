@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  paper_width fastighet
 
-Hämtar papperets bredd i tumenhet, betraktad som sidorientering.
+Hämtar papprets bredd i tum, betraktad som sidorientering.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def paper_width(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

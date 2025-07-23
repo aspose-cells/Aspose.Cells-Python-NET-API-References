@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  total_list fastighet
 
-En matris med nollbaserade fältförskjutningar, som indikerar de fält till vilka delsummorna läggs till.
+En matris med nollbaserade fältförskjutningar som anger de fält till vilka delsummorna läggs till.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def total_list(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [SubtotalSetting](/cells/python-net/sv/aspose.cells/subtotalsetting)
+* modul [`aspose.cells`](../../)
+* klass [`SubtotalSetting`](/cells/python-net/sv/aspose.cells/subtotalsetting)

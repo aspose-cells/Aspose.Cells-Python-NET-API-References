@@ -11,8 +11,8 @@ is_root: false
 
 Hämta den villkorliga formateringens "AboveAverage"-instans.
  Standardinstansens regel markerar celler som är
-över genomsnittet för alla värden i intervallet.
-Gäller endast för typ = Övermedel.
+över genomsnittet för alla värden inom intervallet.
+Gäller endast för typen = AboveAverage.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def above_average(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [AboveAverage](/cells/python-net/sv/aspose.cells/aboveaverage)
-* klass [FormatCondition](/cells/python-net/sv/aspose.cells/formatcondition)
+* modul [`aspose.cells`](../../)
+* klass [`AboveAverage`](/cells/python-net/sv/aspose.cells/aboveaverage)
+* klass [`FormatCondition`](/cells/python-net/sv/aspose.cells/formatcondition)

@@ -19,31 +19,31 @@ El tipo TextureType expone los siguientes miembros:
 | :- | :- |
 | BLUE_TISSUE_PAPER | Representa el tipo de textura de papel de seda azul.|
 | BOUQUET | Representa el tipo de textura Bouquet.|
-| BROWN_MARBLE | Representa el tipo de textura Mármol Marrón.|
+| BROWN_MARBLE | Representa el tipo de textura de mármol marrón.|
 | CANVAS | Representa el tipo de textura Canvas.|
-| CORK | Representa el tipo de textura Cork.|
-| DENIM |Representa el tipo de textura Denim.|
-| FISH_FOSSIL | Representa el tipo de textura Fish Fossil.|
-| GRANITE | Representa el tipo de textura Granito.|
+| CORK | Representa el tipo de textura de corcho.|
+| DENIM | Representa el tipo de textura Denim.|
+| FISH_FOSSIL | Representa el tipo de textura de fósil de pez.|
+| GRANITE | Representa el tipo de textura de granito.|
 | GREEN_MARBLE | Representa el tipo de textura de mármol verde.|
 | MEDIUM_WOOD | Representa el tipo de textura de madera media.|
 | NEWSPRINT | Representa el tipo de textura de papel periódico.|
-| OAK | Representa el tipo de textura de roble.|
-| PAPER_BAG | Representa el tipo de textura Bolsa de papel.|
+| OAK | Representa el tipo de textura Roble.|
+| PAPER_BAG | Representa el tipo de textura de bolsa de papel.|
 | PAPYRUS | Representa el tipo de textura Papyrus.|
-| PARCHMENT | Representa el tipo de textura Pergamino.|
+| PARCHMENT |Representa el tipo de textura Pergamino.|
 | PINK_TISSUE_PAPER | Representa el tipo de textura de papel de seda rosa.|
-| PURPLE_MESH | Representa el tipo de textura Purple Mesh.|
+| PURPLE_MESH | Representa el tipo de textura de malla púrpura.|
 | RECYCLED_PAPER | Representa el tipo de textura de papel reciclado.|
-| SAND | Representa el tipo de textura Arena.|
-| STATIONERY | Representa el tipo de textura Papelería.|
-| WALNUT | Representa el tipo de textura Gotas de nuez.|
-| WATER_DROPLETS | Representa el tipo de textura Gotas de agua.|
-| WHITE_MARBLE | Representa el tipo de textura Mármol Blanco.|
+| SAND | Representa el tipo de textura arena.|
+| STATIONERY | Representa el tipo de textura de papelería.|
+| WALNUT | Representa el tipo de textura Gotitas de Nogal.|
+| WATER_DROPLETS | Representa el tipo de textura de gotas de agua.|
+| WHITE_MARBLE | Representa el tipo de textura de mármol blanco.|
 | WOVEN_MAT | Representa el tipo de textura Woven Mat.|
 | UNKNOWN | Representa un tipo de textura desconocido.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](..)
+* módulo [`aspose.cells.drawing`](..)

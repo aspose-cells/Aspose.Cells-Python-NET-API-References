@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_interruption_requested fastighet
 
-Markera monitorn som begär avbrott
+Markera skärmen som begärande avbrott
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_interruption_requested(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [InterruptMonitor](/cells/python-net/sv/aspose.cells/interruptmonitor)
+* modul [`aspose.cells`](../../)
+* klass [`InterruptMonitor`](/cells/python-net/sv/aspose.cells/interruptmonitor)

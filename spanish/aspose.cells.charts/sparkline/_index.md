@@ -8,7 +8,7 @@ url: /es/aspose.cells.charts/sparkline/
 is_root: false
 ---
 ##  Sparkline clase
-Un minigráfico representa un pequeño cuadro o gráfico en una celda de una hoja de trabajo que proporciona una representación visual de los datos.
+Un minigráfico representa un gráfico pequeño en una celda de una hoja de cálculo que proporciona una representación visual de los datos.
 
 
 
@@ -17,16 +17,16 @@ El tipo Sparkline expone los siguientes miembros:
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [data_range](/cells/python-net/es/aspose.cells.charts/sparkline/data_range) | Representa el rango de datos del minigráfico.|
+| [data_range](/cells/python-net/es/aspose.cells.charts/sparkline/data_range) | Representa el rango de datos del gráfico de líneas.|
 | [row](/cells/python-net/es/aspose.cells.charts/sparkline/row) | Obtiene el índice de fila del minigráfico.|
-| [column](/cells/python-net/es/aspose.cells.charts/sparkline/column) | Obtiene el índice de columna del minigráfico.|
+| [column](/cells/python-net/es/aspose.cells.charts/sparkline/column) | Obtiene el índice de la columna del minigráfico.|
 
 
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [to_image](/cells/python-net/es/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) | Convierte un minigráfico en una imagen.|
-| [to_image](/cells/python-net/es/aspose.cells.charts/sparkline/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) | Convierte un minigráfico en una imagen.|
+| [`to_image(self, file_name, options)`](/cells/python-net/es/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.imageorprintoptions) | Convierte un minigráfico en una imagen.|
+| [`to_image(self, stream, options)`](/cells/python-net/es/aspose.cells.charts/sparkline/to_image/#io.rawiobase-aspose.cells.rendering.imageorprintoptions) | Convierte un minigráfico en una imagen.|
 
 
 
@@ -49,10 +49,10 @@ ca.start_column = 4
 ca.end_column = 4
 ca.start_row = 0
 ca.end_row = 0
-idx = sheet.sparkline_group_collection.add(SparklineType.LINE, sheet.name + "!A1:D1", False, ca)
-group = sheet.sparkline_group_collection[idx]
-idx = group.sparkline_collection.add(sheet.name + "!A1:D1", 0, 4)
-line = group.sparkline_collection[idx]
+idx = sheet.sparkline_groups.add(SparklineType.LINE, sheet.name + "!A1:D1", False, ca)
+group = sheet.sparkline_groups[idx]
+idx = group.sparklines.add(sheet.name + "!A1:D1", 0, 4)
+line = group.sparklines[idx]
 print("Saprkline data range: "  + line.data_range + ", row: "  + str(line.row) + ", column: "  + str(line.column))
 line.to_image("output.png", ImageOrPrintOptions())
 

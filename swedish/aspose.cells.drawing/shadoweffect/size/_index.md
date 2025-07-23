@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  size fastighet
 
- Hämtar och ställer in size för skuggan. Spänner från 0 till 2,0.
+ Hämtar och anger skuggans size. Intervall från 0 till 2,0.
 Meningslös i inre skugga.
 ###  Definition:
 ```python
@@ -22,5 +22,5 @@ def size(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShadowEffect](/cells/python-net/sv/aspose.cells.drawing/shadoweffect)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShadowEffect`](/cells/python-net/sv/aspose.cells.drawing/shadoweffect)

@@ -7,16 +7,17 @@ weight: 210
 url: /es/aspose.cells/settableglobalizationsettings/get_standard_header_footer_font_style_name/
 is_root: false
 ---
-##  get_standard_header_footer_font_style_name {#str}
-Obtiene el nombre del estilo de fuente en inglés estándar (Regular, Negrita, Cursiva) para el encabezado/pie de página según el nombre del estilo de fuente local determinado.
+##  get_standard_header_footer_font_style_name(self, localfont_style_name) {#str}
+Obtiene el nombre del estilo de fuente inglés estándar (Regular, Negrita, Cursiva) para el encabezado/pie de página de acuerdo con el nombre del estilo de fuente de la configuración regional dada.
 
 
 ###  Devoluciones
 
-Nombre de estilo de fuente en inglés estándar (regular, negrita, cursiva)
+Nombre del estilo de fuente en inglés estándar (normal, negrita, cursiva)
 
 
 ```python
+
 def get_standard_header_footer_font_style_name(self, localfont_style_name):
     ...
 ```

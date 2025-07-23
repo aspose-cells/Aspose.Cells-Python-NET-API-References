@@ -3,13 +3,13 @@ title: window_width fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 610
+weight: 620
 url: /sv/aspose.cells/workbooksettings/window_width/
 is_root: false
 ---
 ##  window_width fastighet
 
-Fönstrets bredd, i punktenhet.
+Fönstrets bredd, i enhet av punkt.
 ###  Definition:
 ```python
 @property

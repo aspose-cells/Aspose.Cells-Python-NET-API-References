@@ -7,12 +7,13 @@ weight: 110
 url: /sv/aspose.cells.drawing.texts/fontsettingcollection/replace/
 is_root: false
 ---
-##  replace(old_value, new_value) {#str-str}
-Byt ut texten.
+##  replace(self, old_value, new_value) {#str-str}
+Ersätt texten.
 
 
 
 ```python
+
 def replace(self, old_value, new_value):
     ...
 ```
@@ -24,12 +25,13 @@ def replace(self, old_value, new_value):
 | new_value | str | Den nya texten.|
 
 
-##  replace(index, count, text) {#int-int-str}
-Byt ut texten.
+##  replace(self, index, count, text) {#int-int-str}
+Ersätt texten.
 
 
 
 ```python
+
 def replace(self, index, count, text):
     ...
 ```
@@ -38,11 +40,11 @@ def replace(self, index, count, text):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | index | int | Startindexet.|
-| count | int | Antal tecken.|
+| count | int | Antalet tecken.|
 | text | str | Texten.|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [FontSettingCollection](/cells/python-net/sv/aspose.cells.drawing.texts/fontsettingcollection)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`FontSettingCollection`](/cells/python-net/sv/aspose.cells.drawing.texts/fontsettingcollection)

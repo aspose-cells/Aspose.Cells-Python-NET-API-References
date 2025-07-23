@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_locked propiedad
 
-Indica si el escenario está bloqueado para editar cuando la hoja está protegida.
+Indica si el escenario está bloqueado para su edición cuando la hoja está protegida.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_locked(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Scenario](/cells/python-net/es/aspose.cells/scenario)
+* módulo [`aspose.cells`](../../)
+* clase [`Scenario`](/cells/python-net/es/aspose.cells/scenario)

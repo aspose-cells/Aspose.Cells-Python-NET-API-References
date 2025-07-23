@@ -10,7 +10,7 @@ is_root: false
 ##  font_configs fastighet
 
  Hämtar och ställer in individuella teckensnittskonfigurationer.
-Fungerar endast för [`Workbook`](/cells/python-net/sv/aspose.cells/workbook) som använder denna [`LoadOptions`](/cells/python-net/sv/aspose.cells/loadoptions) för att ladda.
+Fungerar bara för [`Workbook`](/cells/python-net/sv/aspose.cells/workbook) som använder denna [`LoadOptions`](/cells/python-net/sv/aspose.cells/loadoptions) för att ladda.
 ###  Definition:
 ```python
 @property

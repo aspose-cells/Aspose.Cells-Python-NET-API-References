@@ -3,13 +3,13 @@ title: comments fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 440
+weight: 460
 url: /sv/aspose.cells/worksheet/comments/
 is_root: false
 ---
 ##  comments fastighet
 
-Får samlingen [`Comment`](/cells/python-net/sv/aspose.cells/comment).
+Hämtar [`Comment`](/cells/python-net/sv/aspose.cells/comment)-kollektionen.
 ###  Definition:
 ```python
 @property

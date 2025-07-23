@@ -7,12 +7,13 @@ weight: 30
 url: /sv/aspose.cells.pivot/pivotpagefields/add_page_field/
 is_root: false
 ---
-##  add_page_field(page_items) {#list}
+##  add_page_field(self, page_items) {#list}
 Lägger till ett sidfält.
 
 
 
 ```python
+
 def add_page_field(self, page_items):
     ...
 ```
@@ -20,10 +21,10 @@ def add_page_field(self, page_items):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| page_items | list | Sidfältsobjektetikett|
+| page_items | list | Etikett för sidfältobjekt|
 
 
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotPageFields](/cells/python-net/sv/aspose.cells.pivot/pivotpagefields)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotPageFields`](/cells/python-net/sv/aspose.cells.pivot/pivotpagefields)

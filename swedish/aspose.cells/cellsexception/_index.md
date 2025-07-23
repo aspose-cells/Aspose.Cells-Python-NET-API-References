@@ -3,12 +3,12 @@ title: CellsException klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 220
+weight: 190
 url: /sv/aspose.cells/cellsexception/
 is_root: false
 ---
 ##  CellsException klass
-Undantaget som skapas när Aspose.Cells specificerat fel inträffar.
+Undantaget som utlöses när det angivna felet Aspose.Cells inträffar.
 
 
 

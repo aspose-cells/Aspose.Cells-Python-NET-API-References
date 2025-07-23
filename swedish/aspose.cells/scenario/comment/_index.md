@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  comment fastighet
 
-Hämtar och ställer in scenariot comment.
+Hämtar och ställer in comment för scenariot.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def comment(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Scenario](/cells/python-net/sv/aspose.cells/scenario)
+* modul [`aspose.cells`](../../)
+* klass [`Scenario`](/cells/python-net/sv/aspose.cells/scenario)

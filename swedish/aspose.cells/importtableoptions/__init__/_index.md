@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells/importtableoptions/__init__/
 is_root: false
 ---
-##  ImportTableOptions() {#}
-Skapar standardalternativen för import.
+##  \_\_init\_\_(själv){#}
+Skapar standardimportalternativen.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ImportTableOptions](/cells/python-net/sv/aspose.cells/importtableoptions)
+* modul [`aspose.cells`](../../)
+* klass [`ImportTableOptions`](/cells/python-net/sv/aspose.cells/importtableoptions)

@@ -3,12 +3,12 @@ title: ConsolidationFunction uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1940
+weight: 1850
 url: /sv/aspose.cells/consolidationfunction/
 is_root: false
 ---
 ##  ConsolidationFunction uppräkning
-Representerar konsolideringsfunktion.
+Representerar konsolideringsfunktionen.
 
 
 
@@ -17,18 +17,18 @@ Typen ConsolidationFunction avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| SUM | Representerar summafunktion.|
-| COUNT | Representerar Räknefunktion.|
-| AVERAGE | Representerar genomsnittlig funktion.|
-| MAX | Representerar Max funktion.|
-| MIN | Representerar Min funktion.|
-| PRODUCT | Representerar produktfunktion.|
-| COUNT_NUMS | Representerar funktionen Räkna siffror.|
-| STD_DEV |Representerar StdDev-funktionen.|
+| SUM | Representerar sumfunktionen.|
+| COUNT | Representerar räkningsfunktionen.|
+| AVERAGE | Representerar medelvärdesfunktionen.|
+| MAX | Representerar Max-funktionen.|
+| MIN | Representerar Min-funktionen.|
+| PRODUCT | Representerar produktfunktionen.|
+| COUNT_NUMS | Representerar funktionen Count Nms.|
+| STD_DEV | Representerar StdDev-funktionen.|
 | STD_DEVP | Representerar StdDevp-funktionen.|
 | VAR | Representerar Var-funktionen.|
-| VARP | Representerar Varp-funktion.|
-| DISTINCT_COUNT | Representerar Distinct Count-funktionen.|
+| VARP | Representerar Varp-funktionen.|
+| DISTINCT_COUNT | Representerar funktionen Distinct Count.|
 
 
 

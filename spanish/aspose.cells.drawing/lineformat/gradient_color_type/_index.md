@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gradient_color_type propiedad
 
-Devuelve el tipo de color de degradado para el relleno especificado.
+Devuelve el tipo de color degradado para el relleno especificado.
 ###  Definición:
 ```python
 @property
@@ -18,6 +18,6 @@ def gradient_color_type(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [GradientColorType](/cells/python-net/es/aspose.cells.drawing/gradientcolortype)
-* clase [LineFormat](/cells/python-net/es/aspose.cells.drawing/lineformat)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`GradientColorType`](/cells/python-net/es/aspose.cells.drawing/gradientcolortype)
+* clase [`LineFormat`](/cells/python-net/es/aspose.cells.drawing/lineformat)

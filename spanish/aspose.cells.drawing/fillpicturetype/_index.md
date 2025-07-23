@@ -3,12 +3,12 @@ title: FillPictureType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 820
+weight: 810
 url: /es/aspose.cells.drawing/fillpicturetype/
 is_root: false
 ---
 ##  FillPictureType enumeración
-Representa el tipo de relleno de imagen.
+Representa el tipo de relleno de la imagen.
 
 
 
@@ -19,9 +19,9 @@ El tipo FillPictureType expone los siguientes miembros:
 | :- | :- |
 | STRETCH | Estirar|
 | STACK | Pila|
-| STACK_AND_SCALE | apilar y escalar|
+| STACK_AND_SCALE | Apilar y escalar|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](..)
+* módulo [`aspose.cells.drawing`](..)

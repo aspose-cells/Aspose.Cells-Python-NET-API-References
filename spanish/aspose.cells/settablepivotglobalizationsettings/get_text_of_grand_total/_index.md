@@ -3,11 +3,11 @@ title: método get_text_of_grand_total
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 90
+weight: 100
 url: /es/aspose.cells/settablepivotglobalizationsettings/get_text_of_grand_total/
 is_root: false
 ---
-##  get_text_of_grand_total {#}
+##  get_text_of_grand_total(self) {#}
 Obtiene el texto de la etiqueta "Total general" en la tabla dinámica.
 
 
@@ -17,6 +17,7 @@ El texto de la etiqueta "Gran Total"
 
 
 ```python
+
 def get_text_of_grand_total(self):
     ...
 ```

@@ -3,13 +3,13 @@ title: linked_source propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 260
+weight: 330
 url: /es/aspose.cells.charts/datalabels/linked_source/
 is_root: false
 ---
 ##  linked_source propiedad
 
-Obtiene y establece una referencia a la hoja de cálculo.
+Obtiene y establece una referencia a la hoja de trabajo.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def linked_source(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [DataLabels](/cells/python-net/es/aspose.cells.charts/datalabels)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`DataLabels`](/cells/python-net/es/aspose.cells.charts/datalabels)

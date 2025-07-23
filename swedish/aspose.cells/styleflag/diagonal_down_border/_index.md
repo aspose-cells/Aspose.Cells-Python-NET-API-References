@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  diagonal_down_border fastighet
 
-Inställningar för diagonal nederkant kommer att tillämpas.
+Inställningar för diagonal nedåtriktad kant kommer att tillämpas.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def diagonal_down_border(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [StyleFlag](/cells/python-net/sv/aspose.cells/styleflag)
+* modul [`aspose.cells`](../../)
+* klass [`StyleFlag`](/cells/python-net/sv/aspose.cells/styleflag)

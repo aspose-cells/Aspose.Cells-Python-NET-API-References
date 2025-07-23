@@ -7,16 +7,17 @@ weight: 20
 url: /sv/aspose.cells.revisions/revisioncollection/binary_search/
 is_root: false
 ---
-##  binary_search(item) {#Revision}
-Söker i hela den sorterade arraylistan efter ett element med hjälp av standardjämföraren och returnerar elementets nollbaserade index.
+##  binary_search(self, item) {#Revision}
+Söker igenom hela den sorterade arraylistan efter ett element med hjälp av standardjämföraren och returnerar elementets nollbaserade index.
 
 
 ###  Returnerar
 
-Det nollbaserade värdeindexet i den sorterade arraylistan, om objektet hittas; i annat fall ett negativt tal, som är det bitvisa komplementet av indexet för nästa element som är större än värdet eller, om det inte finns något större element, det bitvisa komplementet av arraylist Count.
+Det nollbaserade indexet för värde i den sorterade arraylistan, om objektet hittas; annars ett negativt tal, vilket är det bitvisa komplementet till indexet för nästa element som är större än värde eller, om det inte finns något större element, det bitvisa komplementet till arraylistan Antal.
 
 
 ```python
+
 def binary_search(self, item):
     ...
 ```
@@ -24,10 +25,10 @@ def binary_search(self, item):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| item | [Revision](/cells/python-net/sv/aspose.cells.revisions/revision) | System.Object att lokalisera. Värdet kan vara null.|
+| item | Revision | System.Object som ska lokaliseras. Värdet kan vara null.|
 
 
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionCollection](/cells/python-net/sv/aspose.cells.revisions/revisioncollection)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionCollection`](/cells/python-net/sv/aspose.cells.revisions/revisioncollection)

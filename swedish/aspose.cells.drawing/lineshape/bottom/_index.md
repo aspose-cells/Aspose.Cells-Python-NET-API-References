@@ -3,13 +3,13 @@ title: bottom fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 340
+weight: 350
 url: /sv/aspose.cells.drawing/lineshape/bottom/
 is_root: false
 ---
 ##  bottom fastighet
 
-Representerar bredden på formens vertikala förskjutning från dess nedre bottom hörnrad, i pixelenhet.
+Representerar bredden på formens vertikala förskjutning från dess nedre hörnrad bottom, i pixlar.
 
 ###  Exempel
 

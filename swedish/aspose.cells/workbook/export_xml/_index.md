@@ -3,16 +3,17 @@ title: export_xml metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 140
+weight: 150
 url: /sv/aspose.cells/workbook/export_xml/
 is_root: false
 ---
-##  export_xml(map_name, path) {#str-str}
-Exportera XML-data länkade av den angivna XML-kartan.
+##  export_xml(self, map_name, path) {#str-str}
+Exportera XML-data länkade med den angivna XML-mappningen.
 
 
 
 ```python
+
 def export_xml(self, map_name, path):
     ...
 ```
@@ -20,7 +21,7 @@ def export_xml(self, map_name, path):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| map_name | str | namnet på XML-kartan som behöver exporteras|
+| map_name | str | namn på XML-kartan som ska exporteras|
 | path | str | exportvägen|
 
 ###  Exempel
@@ -38,12 +39,13 @@ wb.export_xml(xmlMap.name, "output.xml")
 ```
 
 
-##  export_xml(map_name, stream) {#str-io.RawIOBase}
+##  export_xml(self, map_name, stream) {#str-io.RawIOBase}
 Exportera XML-data.
 
 
 
 ```python
+
 def export_xml(self, map_name, stream):
     ...
 ```
@@ -51,11 +53,11 @@ def export_xml(self, map_name, stream):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| map_name | str | namnet på XML-kartan som behöver exporteras|
+| map_name | str | namn på XML-kartan som ska exporteras|
 | stream | io.RawIOBase | exportströmmen|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Workbook](/cells/python-net/sv/aspose.cells/workbook)
+* modul [`aspose.cells`](../../)
+* klass [`Workbook`](/cells/python-net/sv/aspose.cells/workbook)

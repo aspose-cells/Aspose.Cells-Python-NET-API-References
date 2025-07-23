@@ -3,7 +3,7 @@ title: SelectionType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1130
+weight: 1120
 url: /es/aspose.cells.drawing/selectiontype/
 is_root: false
 ---
@@ -18,10 +18,10 @@ El tipo SelectionType expone los siguientes miembros:
 | Campo| Descripción|
 | :- | :- |
 | SINGLE | Tipo de selección única.|
-| MULTI |Tipo de selección múltiple.|
+| MULTI | Tipo de selección múltiple.|
 | EXTEND | Ampliar el tipo de selección.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](..)
+* módulo [`aspose.cells.drawing`](..)

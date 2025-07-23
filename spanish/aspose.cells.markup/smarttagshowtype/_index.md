@@ -8,7 +8,7 @@ url: /es/aspose.cells.markup/smarttagshowtype/
 is_root: false
 ---
 ##  SmartTagShowType enumeración
-Representa el tipo de presentación de la etiqueta inteligente.
+Representa el tipo de visualización de la etiqueta inteligente.
 
 
 
@@ -18,10 +18,10 @@ El tipo SmartTagShowType expone los siguientes miembros:
 | Campo| Descripción|
 | :- | :- |
 | ALL | Indica que las etiquetas inteligentes están habilitadas y se muestran|
-| NO_SMART_TAG_INDICATOR | Indica que las etiquetas inteligentes están habilitadas pero el indicador no se muestra.|
+| NO_SMART_TAG_INDICATOR |Indica que las etiquetas inteligentes están habilitadas pero el indicador no se muestra.|
 | NONE | Indica que las etiquetas inteligentes están deshabilitadas y no se muestran.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.markup](..)
+* módulo [`aspose.cells.markup`](..)

@@ -21,5 +21,5 @@ def first_visible_row_of_bottom_pane(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PaneCollection](/cells/python-net/sv/aspose.cells/panecollection)
+* modul [`aspose.cells`](../../)
+* klass [`PaneCollection`](/cells/python-net/sv/aspose.cells/panecollection)

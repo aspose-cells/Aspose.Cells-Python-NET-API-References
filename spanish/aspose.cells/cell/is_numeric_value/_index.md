@@ -3,7 +3,7 @@ title: is_numeric_value propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 620
+weight: 650
 url: /es/aspose.cells/cell/is_numeric_value/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Indica si el valor de esta celda es numérico (int, double y datetime)
 
 ###  Observaciones
 
-También se aplica a la celda de fórmula para verificar el resultado calculado.
+También se aplica a la celda de fórmula para comprobar el resultado calculado.
 ###  Definición:
 ```python
 @property

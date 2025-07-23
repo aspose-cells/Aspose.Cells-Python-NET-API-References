@@ -8,7 +8,7 @@ url: /es/aspose.cells.charts/mapchartprojectiontype/
 is_root: false
 ---
 ##  MapChartProjectionType enumeración
-Representa el tipo de proyección del gráfico de mapa.
+Representa el tipo de proyección del gráfico del mapa.
 
 
 
@@ -20,9 +20,9 @@ El tipo MapChartProjectionType expone los siguientes miembros:
 | AUTOMATIC | Automático|
 | MERCATOR | Mercator|
 | MILLER | Molinero|
-| ALBERS | Albers|
+| ALBERS | Alberto|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](..)
+* módulo [`aspose.cells.charts`](..)

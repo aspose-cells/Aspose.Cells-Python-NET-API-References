@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells.digitalsignatures/digitalsignaturecollection/__init__/
 is_root: false
 ---
-##  DigitalSignatureCollection() {#}
+##  \_\_init\_\_(själv){#}
 Konstruktören av DigitalSignatureCollection.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells.digitalsignatures](../../)
-* klass [DigitalSignatureCollection](/cells/python-net/sv/aspose.cells.digitalsignatures/digitalsignaturecollection)
+* modul [`aspose.cells.digitalsignatures`](../../)
+* klass [`DigitalSignatureCollection`](/cells/python-net/sv/aspose.cells.digitalsignatures/digitalsignaturecollection)

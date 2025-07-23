@@ -7,8 +7,8 @@ weight: 140
 url: /sv/aspose.cells/cell/get_height_of_value/
 is_root: false
 ---
-##  get_height_of_value() {#}
-Hämtar höjden på värdet i enhet pixlar.
+##  get_height_of_value(self) {#}
+Hämtar höjden på värdet i pixlar.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Hämtar höjden på värdet i enhet pixlar.
 
 
 ```python
+
 def get_height_of_value(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_height_of_value(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
+* modul [`aspose.cells`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)

@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells/filefontsource/__init__/
 is_root: false
 ---
-##  FileFontSource(file_path) {#str}
-Ctor.
+##  \_\_init\_\_(self, ruta_del_archivo){#str}
+Director.
 
 
 
 ```python
+
 def __init__(self, file_path):
     ...
 ```
@@ -25,5 +26,5 @@ def __init__(self, file_path):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FileFontSource](/cells/python-net/es/aspose.cells/filefontsource)
+* módulo [`aspose.cells`](../../)
+* clase [`FileFontSource`](/cells/python-net/es/aspose.cells/filefontsource)

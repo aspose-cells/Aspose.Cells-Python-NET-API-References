@@ -3,7 +3,7 @@ title: line propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 750
+weight: 760
 url: /es/aspose.cells.drawing/spinner/line/
 is_root: false
 ---

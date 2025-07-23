@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width propiedad
 
-Obtiene o establece el width del eje bin
+Obtiene o establece el width del bin del eje
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def width(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [AxisBins](/cells/python-net/es/aspose.cells.charts/axisbins)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`AxisBins`](/cells/python-net/es/aspose.cells.charts/axisbins)

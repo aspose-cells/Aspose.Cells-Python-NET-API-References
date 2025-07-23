@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_filtering propiedad
 
-Representa si el usuario puede utilizar un Autofiltro que se creó antes de proteger la hoja.
+Representa si al usuario se le permite hacer uso de un Autofiltro que fue creado antes de que la hoja fuera protegida.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_filtering(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Protection](/cells/python-net/es/aspose.cells/protection)
+* módulo [`aspose.cells`](../../)
+* clase [`Protection`](/cells/python-net/es/aspose.cells/protection)

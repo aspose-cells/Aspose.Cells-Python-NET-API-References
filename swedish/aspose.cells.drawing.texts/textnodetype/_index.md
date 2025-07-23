@@ -3,7 +3,7 @@ title: TextNodeType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 180
+weight: 190
 url: /sv/aspose.cells.drawing.texts/textnodetype/
 is_root: false
 ---
@@ -24,4 +24,4 @@ Typen TextNodeType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](..)
+* modul [`aspose.cells.drawing.texts`](..)

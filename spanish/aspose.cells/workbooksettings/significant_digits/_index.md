@@ -3,7 +3,7 @@ title: significant_digits propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 470
+weight: 500
 url: /es/aspose.cells/workbooksettings/significant_digits/
 is_root: false
 ---
@@ -14,7 +14,7 @@ El valor predeterminado es [`CellsHelper.significant_digits`](/cells/python-net/
 
 ###  Observaciones
 
-Ahora sólo podrían tener 15 o 17 años.
+Ahora sólo podría tener 15 o 17 años.
 ###  Definición:
 ```python
 @property

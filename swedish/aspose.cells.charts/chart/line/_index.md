@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  line fastighet
 
-Får line.
+Hämtar line.
 ###  Definition:
 ```python
 @property

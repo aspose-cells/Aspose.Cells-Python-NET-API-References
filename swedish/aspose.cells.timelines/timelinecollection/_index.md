@@ -18,26 +18,27 @@ Typen TimelineCollection avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [capacity](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/capacity) | Hämtar eller ställer in antalet element som arraylistan kan innehålla.|
+| [capacity](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/capacity) | Hämtar eller anger antalet element som arraylistan kan innehålla.|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [add(pivot, row, column, base_field_name)](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.PivotTable-int-int-str) | Lägg till en ny tidslinje med pivottabell som datakälla|
-| [add(pivot, dest_cell_name, base_field_name)](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.PivotTable-str-str) | Lägg till en ny tidslinje med pivottabell som datakälla|
-| [add(pivot, row, column, base_field_index)](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.PivotTable-int-int-int) | Lägg till en ny tidslinje med pivottabell som datakälla|
-| [add(pivot, dest_cell_name, base_field_index)](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.PivotTable-str-int) | Lägg till en ny tidslinje med pivottabell som datakälla|
-| [add(pivot, row, column, base_field)](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.PivotTable-int-int-aspose.cells.pivot.PivotField) | Lägg till en ny tidslinje med pivottabell som datakälla|
-| [add(pivot, dest_cell_name, base_field)](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.PivotTable-str-aspose.cells.pivot.PivotField) | Lägg till en ny tidslinje med pivottabell som datakälla|
-| [copy_to(array)](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/copy_to/#list) | Kopierar hela arraylistan till en kompatibel endimensionell arraylista, med början i början av målarraylistan.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/copy_to/#int-list-int-int) |Kopierar ett intervall av element från arraylistan till en kompatibel endimensionell arraylista, med början vid det angivna indexet för målarraylistan.|
-| [index_of(item, index)](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/index_of/#Timeline-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom intervallet av element i arraylistan som sträcker sig från det angivna indexet till det sista elementet.|
-| [index_of(item, index, count)](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/index_of/#Timeline-int-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom intervallet av element i arraylistan som börjar vid det angivna indexet och innehåller det angivna antalet element.|
-| [last_index_of(item)](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/last_index_of/#Timeline) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom hela arraylistan.|
-| [last_index_of(item, index)](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/last_index_of/#Timeline-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom intervallet av element i arraylistan som sträcker sig från det första elementet till det angivna indexet.|
-| [last_index_of(item, index, count)](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/last_index_of/#Timeline-int-int) |Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom intervallet av element i arraylistan som innehåller det angivna antalet element och slutar vid det angivna indexet.|
-| [binary_search(item)](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/binary_search/#Timeline) | Söker i hela den sorterade arraylistan efter ett element med hjälp av standardjämföraren och returnerar elementets nollbaserade index.|
+| [`add(self, pivot, row, column, base_field_name)`](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.pivottable-int-int-str) | Lägg till en ny tidslinje med hjälp av pivottabell som datakälla|
+| [`add(self, pivot, dest_cell_name, base_field_name)`](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.pivottable-str-str) | Lägg till en ny tidslinje med hjälp av pivottabell som datakälla|
+| [`add(self, pivot, row, column, base_field_index)`](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.pivottable-int-int-int) | Lägg till en ny tidslinje med hjälp av pivottabell som datakälla|
+| [`add(self, pivot, dest_cell_name, base_field_index)`](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.pivottable-str-int) | Lägg till en ny tidslinje med hjälp av pivottabell som datakälla|
+| [`add(self, pivot, row, column, base_field)`](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.pivottable-int-int-aspose.cells.pivot.pivotfield) | Lägg till en ny tidslinje med hjälp av pivottabell som datakälla|
+| [`add(self, pivot, dest_cell_name, base_field)`](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.pivottable-str-aspose.cells.pivot.pivotfield) | Lägg till en ny tidslinje med hjälp av pivottabell som datakälla|
+| [`copy_to(self, array)`](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/copy_to/#list) |Kopierar hela arraylistan till en kompatibel endimensionell arraylista, med början i början av målarraylistan.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/copy_to/#int-list-int-int) | Kopierar ett elementområde från arraylistan till en kompatibel endimensionell arraylista, med början vid det angivna indexet för målarraylistan.|
+| [`index_of(self, item, index)`](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/index_of/#aspose.cells.timelines.timeline-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom intervallet av element i arraylistan som sträcker sig från det angivna indexet till det sista elementet.|
+| [`index_of(self, item, index, count)`](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/index_of/#aspose.cells.timelines.timeline-int-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom elementintervallet i arraylistan som börjar vid det angivna indexet och innehåller det angivna antalet element.|
+| [`last_index_of(self, item)`](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/last_index_of/#aspose.cells.timelines.timeline) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom hela arraylistan.|
+| [`last_index_of(self, item, index)`](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/last_index_of/#aspose.cells.timelines.timeline-int) |Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom intervallet av element i arraylistan som sträcker sig från det första elementet till det angivna indexet.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/last_index_of/#aspose.cells.timelines.timeline-int-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom elementintervallet i arraylistan som innehåller det angivna antalet element och slutar vid det angivna indexet.|
+| [`get(self, name)`](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/get/#str) | Hämtar tidslinjen efter tidslinjens namn.|
+| [`binary_search(self, item)`](/cells/python-net/sv/aspose.cells.timelines/timelinecollection/binary_search/#aspose.cells.timelines.timeline) | Söker igenom hela den sorterade arraylistan efter ett element med hjälp av standardjämföraren och returnerar elementets nollbaserade index.|
 
 
 
@@ -46,7 +47,7 @@ Typen TimelineCollection avslöjar följande medlemmar:
 ```python
 from aspose.cells import CellsFactory, Workbook
 from aspose.cells.pivot import PivotFieldType, PivotTableStyleType
-import datetime
+from datetime import datetime
 
 book = Workbook()
 sheet = book.worksheets[0]
@@ -91,4 +92,4 @@ book.save("out.xlsx")
 ```
 
 ###  Se även
-* modul [aspose.cells.timelines](..)
+* modul [`aspose.cells.timelines`](..)

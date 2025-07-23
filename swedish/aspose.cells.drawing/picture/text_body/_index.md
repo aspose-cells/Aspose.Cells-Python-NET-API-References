@@ -3,13 +3,13 @@ title: text_body fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1120
+weight: 1140
 url: /sv/aspose.cells.drawing/picture/text_body/
 is_root: false
 ---
 ##  text_body fastighet
 
-Hämtar och ställer in inställningen för formens text.
+Hämtar och anger inställningen för formens text.
 
 ###  Exempel
 

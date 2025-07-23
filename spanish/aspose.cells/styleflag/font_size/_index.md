@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_size propiedad
 
-Se aplicará la configuración de tamaño de fuente.
+Se aplicará la configuración del tamaño de fuente.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_size(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [StyleFlag](/cells/python-net/es/aspose.cells/styleflag)
+* módulo [`aspose.cells`](../../)
+* clase [`StyleFlag`](/cells/python-net/es/aspose.cells/styleflag)

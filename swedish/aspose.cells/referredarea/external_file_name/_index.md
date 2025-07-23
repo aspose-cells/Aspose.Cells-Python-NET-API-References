@@ -18,5 +18,5 @@ def external_file_name(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ReferredArea](/cells/python-net/sv/aspose.cells/referredarea)
+* modul [`aspose.cells`](../../)
+* klass [`ReferredArea`](/cells/python-net/sv/aspose.cells/referredarea)

@@ -3,13 +3,13 @@ title: incremental_change propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 530
+weight: 520
 url: /es/aspose.cells.drawing/spinner/incremental_change/
 is_root: false
 ---
 ##  incremental_change propiedad
 
-Obtiene o establece la cantidad en la que la barra de desplazamiento o el control giratorio aumentan una línea de desplazamiento.
+Obtiene o establece la cantidad en que se incrementa la barra de desplazamiento o el control giratorio al desplazarse una línea.
 ###  Definición:
 ```python
 @property

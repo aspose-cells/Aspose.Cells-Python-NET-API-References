@@ -3,13 +3,13 @@ title: macro_name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 820
+weight: 830
 url: /sv/aspose.cells.drawing/radiobutton/macro_name/
 is_root: false
 ---
 ##  macro_name fastighet
 
-Hämtar och ställer in namnet på makrot.
+Hämtar och anger namnet på makrot.
 
 ###  Exempel
 

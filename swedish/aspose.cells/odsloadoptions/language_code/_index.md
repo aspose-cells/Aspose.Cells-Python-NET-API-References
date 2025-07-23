@@ -3,13 +3,13 @@ title: language_code fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 140
+weight: 150
 url: /sv/aspose.cells/odsloadoptions/language_code/
 is_root: false
 ---
 ##  language_code fastighet
 
-Hämtar eller ställer in användargränssnittsspråket för Workbook-versionen baserat på CountryCode som har sparat filen.
+Hämtar eller ställer in användargränssnittsspråket för arbetsboksversionen baserat på landskoden som har sparat filen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def language_code(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CountryCode](/cells/python-net/sv/aspose.cells/countrycode)
-* klass [OdsLoadOptions](/cells/python-net/sv/aspose.cells/odsloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`CountryCode`](/cells/python-net/sv/aspose.cells/countrycode)
+* klass [`OdsLoadOptions`](/cells/python-net/sv/aspose.cells/odsloadoptions)

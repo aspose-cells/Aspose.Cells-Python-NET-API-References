@@ -3,13 +3,13 @@ title: is_include_new_items_in_filter fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 420
+weight: 500
 url: /sv/aspose.cells.pivot/pivotfield/is_include_new_items_in_filter/
 is_root: false
 ---
 ##  is_include_new_items_in_filter fastighet
 
-anger om fältet kan inkludera nya objekt i manuellt filter
+Anger om nya objekt ska inkluderas i fältet i det manuella filtret.
 Standardvärdet är falskt.
 ###  Definition:
 ```python

@@ -3,18 +3,24 @@ title: region propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 350
+weight: 330
 url: /es/aspose.cells/htmlloadoptions/region/
 is_root: false
 ---
 ##  region propiedad
 
-Obtiene o establece la configuración regional del sistema según el código de país en el momento en que se cargó el archivo.
+Obtiene o establece la configuración regional utilizada para el libro de trabajo que se cargará.
 
 ###  Observaciones
 
- Si no desea utilizar el region guardado en el archivo,
-reinícielo después de leer el archivo.
+La configuración regional se puede utilizar para inicializar algunas funciones del libro de trabajo.
+como fuentes, temas, etc.
+Para formatos de archivo basados en texto, como CSV, HTML, ..., la configuración regional
+También se utilizará para detectar formatos de números y analizar valores de texto en valores numéricos.
+o valores de fecha y hora para las celdas.
+Esta configuración se mantendrá para el libro instanciado más adelante, es decir,
+[`WorkbookSettings.region`](/cells/python-net/es/aspose.cells/workbooksettings#region) del libro de trabajo utilizará el mismo region
+con esta propiedad.
 ###  Definición:
 ```python
 @property

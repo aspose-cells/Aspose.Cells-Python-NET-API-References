@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  summary_row_below fastighet
 
-Indikerar om sammanfattningsraden kommer att placeras under detaljraderna i konturen.
+Anger om sammanfattningsraden ska placeras under detaljraderna i dispositionen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def summary_row_below(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Outline](/cells/python-net/sv/aspose.cells/outline)
+* modul [`aspose.cells`](../../)
+* klass [`Outline`](/cells/python-net/sv/aspose.cells/outline)

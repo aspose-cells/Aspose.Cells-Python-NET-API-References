@@ -3,12 +3,12 @@ title: get_threaded_comments metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 60
+weight: 70
 url: /sv/aspose.cells/commentcollection/get_threaded_comments/
 is_root: false
 ---
-##  get_threaded_comments(cell_name) {#str}
-Får de trådade kommentarerna efter cellnamn.
+##  get_threaded_comments(self, cell_name) {#str}
+Hämtar de trådade kommentarerna efter cellnamn.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Får de trådade kommentarerna efter cellnamn.
 
 
 ```python
+
 def get_threaded_comments(self, cell_name):
     ...
 ```
@@ -24,7 +25,7 @@ def get_threaded_comments(self, cell_name):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| cell_name | str | Namnet på cellen.|
+| cell_name | str | Cellens namn.|
 
 ###  Exempel
 
@@ -38,8 +39,8 @@ for i in range(len(threadedComments2)):
 ```
 
 
-##  get_threaded_comments(row, column) {#int-int}
-Får de trådade kommentarerna efter rad- och kolumnindex.
+##  get_threaded_comments(self, row, column) {#int-int}
+Hämtar de trådade kommentarerna efter rad- och kolumnindex.
 
 
 ###  Returnerar
@@ -48,6 +49,7 @@ Får de trådade kommentarerna efter rad- och kolumnindex.
 
 
 ```python
+
 def get_threaded_comments(self, row, column):
     ...
 ```
@@ -55,8 +57,8 @@ def get_threaded_comments(self, row, column):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| row | int | Radindex.|
-| column | int | Kolumnindex.|
+| row | int | Radindexet.|
+| column | int | Kolumnindexet.|
 
 ###  Exempel
 
@@ -72,5 +74,5 @@ for i in range(len(threadedComments1)):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CommentCollection](/cells/python-net/sv/aspose.cells/commentcollection)
+* modul [`aspose.cells`](../../)
+* klass [`CommentCollection`](/cells/python-net/sv/aspose.cells/commentcollection)

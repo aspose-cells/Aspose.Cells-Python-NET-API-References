@@ -3,16 +3,17 @@ title: delete_in_range metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 400
+weight: 430
 url: /sv/aspose.cells.drawing/shapecollection/delete_in_range/
 is_root: false
 ---
-##  delete_in_range(ca) {#CellArea}
-Ta bort former i intervallet. Kommentarsformer kommer inte att tas bort.
+##  delete_in_range(self, ca) {#aspose.cells.CellArea}
+Ta bort former i intervallet. Kommentarformer kommer inte att tas bort.
 
 
 
 ```python
+
 def delete_in_range(self, ca):
     ...
 ```
@@ -20,7 +21,7 @@ def delete_in_range(self, ca):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| ca | [CellArea](/cells/python-net/sv/aspose.cells/cellarea) |Omfånget. Om formerna finns i intervallet kommer de att tas bort.|
+| ca | [`CellArea`](/cells/python-net/sv/aspose.cells/cellarea) |Intervallet. Om formerna finns inom intervallet kommer de att tas bort.|
 
 ###  Exempel
 
@@ -44,5 +45,5 @@ shapes.delete_in_range(area3)
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShapeCollection](/cells/python-net/sv/aspose.cells.drawing/shapecollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShapeCollection`](/cells/python-net/sv/aspose.cells.drawing/shapecollection)

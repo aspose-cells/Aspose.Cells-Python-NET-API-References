@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  first_line_indent fastighet
 
-Anger indragsstorleken som kommer att tillämpas på den första textraden i stycket.
+Anger indragsstorleken som ska tillämpas på den första textraden i stycket.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def first_line_indent(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [TextParagraph](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`TextParagraph`](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)

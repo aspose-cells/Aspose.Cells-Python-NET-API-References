@@ -1,18 +1,19 @@
 ---
-title: intersect método
+title: método intersect
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 50
+weight: 40
 url: /es/aspose.cells/unionrange/intersect/
 is_root: false
 ---
-##  intersect(range) {#str}
-Intersecta otro rango.
+##  intersect(self, range) {#str}
+Intersecta otra cordillera.
 
 
 
 ```python
+
 def intersect(self, range):
     ...
 ```
@@ -23,15 +24,16 @@ def intersect(self, range):
 | range | str | El rango.|
 ###  Observaciones
 
-Si los dos rangos de unión no se cruzan, devuelve nulo.
+Si los dos rangos de unión no se intersecan, devuelve nulo.
 
-##  intersect(union_range) {#UnionRange}
+##  intersect(self, union_range) {#aspose.cells.UnionRange}
 
-Intersecta otro rango.
+Intersecta otra cordillera.
 
 
 
 ```python
+
 def intersect(self, union_range):
     ...
 ```
@@ -39,18 +41,19 @@ def intersect(self, union_range):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| union_range | [UnionRange](/cells/python-net/es/aspose.cells/unionrange) | El rango.|
+| union_range | [`UnionRange`](/cells/python-net/es/aspose.cells/unionrange) | El rango.|
 ###  Observaciones
 
-Si los dos rangos de unión no se cruzan, devuelve nulo.
+Si los dos rangos de unión no se intersecan, devuelve nulo.
 
-##  intersect(ranges) {#list}
+##  intersect(self, ranges) {#list}
 
-Intersecta otro rango.
+Intersecta otra cordillera.
 
 
 
 ```python
+
 def intersect(self, ranges):
     ...
 ```
@@ -61,10 +64,10 @@ def intersect(self, ranges):
 | ranges | list | El rango.|
 ###  Observaciones
 
-Si los dos rangos de unión no se cruzan, devuelve nulo.
+Si los dos rangos de unión no se intersecan, devuelve nulo.
 
 
 ###  Ver también
 
-* módulo [aspose.cells](../../)
-* clase [UnionRange](/cells/python-net/es/aspose.cells/unionrange)
+* módulo [`aspose.cells`](../../)
+* clase [`UnionRange`](/cells/python-net/es/aspose.cells/unionrange)

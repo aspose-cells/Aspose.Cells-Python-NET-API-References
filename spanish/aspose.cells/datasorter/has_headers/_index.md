@@ -3,7 +3,7 @@ title: has_headers propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 70
+weight: 80
 url: /es/aspose.cells/datasorter/has_headers/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def has_headers(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [DataSorter](/cells/python-net/es/aspose.cells/datasorter)
+* módulo [`aspose.cells`](../../)
+* clase [`DataSorter`](/cells/python-net/es/aspose.cells/datasorter)

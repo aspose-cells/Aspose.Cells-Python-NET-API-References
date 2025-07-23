@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  weight fastighet
 
-Returnerar eller ställer in radens weight, i enheter av pt.
+Returnerar eller ställer in weight för raden, i enheter om pt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def weight(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [MsoLineFormatHelper](/cells/python-net/sv/aspose.cells.drawing/msolineformathelper)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`MsoLineFormatHelper`](/cells/python-net/sv/aspose.cells.drawing/msolineformathelper)

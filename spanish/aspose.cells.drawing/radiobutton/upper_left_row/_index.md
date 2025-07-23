@@ -3,17 +3,17 @@ title: upper_left_row propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1190
+weight: 1200
 url: /es/aspose.cells.drawing/radiobutton/upper_left_row/
 is_root: false
 ---
 ##  upper_left_row propiedad
 
-Representa el índice de la fila de la esquina superior izquierda.
+Representa el índice de la fila superior.
 
 ###  Observaciones
 
-Si la forma está en la forma o en el grupo, se ignorará UpperLeftRow.
+Si la forma está en la forma o en el grupo, UpperLeftRow se ignorará.
 
 ###  Ejemplo
 

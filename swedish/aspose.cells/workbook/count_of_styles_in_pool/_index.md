@@ -3,13 +3,13 @@ title: count_of_styles_in_pool fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 490
+weight: 510
 url: /sv/aspose.cells/workbook/count_of_styles_in_pool/
 is_root: false
 ---
 ##  count_of_styles_in_pool fastighet
 
-Får antal stilar i stilpoolen.
+Hämtar antalet stilar i stilpoolen.
 ###  Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: dpi propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 230
+weight: 250
 url: /es/aspose.cells/cellshelper/dpi/
 is_root: false
 ---
@@ -19,8 +19,8 @@ Obtiene el DPI de la máquina.
 @property
 def dpi(self):
     ...
-@dpi.setter
-def dpi(self, value):
+@staticmethod
+def set_dpi(value):
     ...
 ```
 

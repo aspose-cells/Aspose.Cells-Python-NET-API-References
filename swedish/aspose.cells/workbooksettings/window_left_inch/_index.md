@@ -3,14 +3,14 @@ title: window_left_inch fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 570
+weight: 580
 url: /sv/aspose.cells/workbooksettings/window_left_inch/
 is_root: false
 ---
 ##  window_left_inch fastighet
 
-Avståndet från den vänstra kanten av klientområdet till den vänstra kanten av fönstret.
-I enhet av tum.
+Avståndet från klientområdets vänstra kant till fönstrets vänstra kant.
+tum.
 ###  Definition:
 ```python
 @property

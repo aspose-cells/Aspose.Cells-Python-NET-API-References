@@ -3,12 +3,12 @@ title: AutoShapeType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 760
+weight: 750
 url: /es/aspose.cells.drawing/autoshapetype/
 is_root: false
 ---
 ##  AutoShapeType enumeración
-Representa todo el tipo de forma automática integrado.
+Representa todos los tipos de formas automáticas incorporadas.
 
 
 
@@ -152,46 +152,46 @@ El tipo AutoShapeType expone los siguientes miembros:
 | FLOW_CHART_DIRECT_ACCESS_STORAGE |  |
 | FLOW_CHART_DISPLAY |  |
 | FLOW_CHART_DELAY |  |
-| TEXT_PLAIN_TEXT | Una forma de texto sin formato.|
+| TEXT_PLAIN_TEXT | Una forma de texto simple.|
 | TEXT_STOP | Una forma de texto octogonal.|
 | TEXT_TRIANGLE | Una forma de texto triangular que apunta hacia arriba.|
 | TEXT_TRIANGLE_INVERTED | Una forma de texto triangular que apunta hacia abajo.|
-| TEXT_CHEVRON | Una forma de texto en forma de cheurón que apunta hacia arriba.|
-| TEXT_CHEVRON_INVERTED | Una forma de texto en forma de cheurón que apunta hacia abajo.|
-| TEXT_RING_INSIDE |Una forma de texto circular, como si leyera una inscripción en el interior de un anillo.|
-| TEXT_RING_OUTSIDE | Una forma de texto circular, como si leyera una inscripción en el exterior de un anillo.|
-| TEXT_ARCH_UP_CURVE | Una forma de texto curvo arqueado hacia arriba.|
-| TEXT_ARCH_DOWN_CURVE | Una forma de texto curvo arqueado hacia abajo.|
-| TEXT_CIRCLE_CURVE | Una forma de texto circular.|
-| TEXT_BUTTON_CURVE | Una forma de texto que se asemeja a un botón.|
+| TEXT_CHEVRON | Un texto en forma de chevron que apunta hacia arriba.|
+| TEXT_CHEVRON_INVERTED | Un texto en forma de chevron que apunta hacia abajo.|
+| TEXT_RING_INSIDE | Un texto en forma circular, como si se estuviera leyendo una inscripción en el interior de un anillo.|
+| TEXT_RING_OUTSIDE | Un texto en forma circular, como si se leyera una inscripción en el exterior de un anillo.|
+| TEXT_ARCH_UP_CURVE | Una forma de texto curvada y arqueada hacia arriba.|
+| TEXT_ARCH_DOWN_CURVE | Una forma de texto curvada y arqueada hacia abajo.|
+| TEXT_CIRCLE_CURVE |Una forma de texto circular.|
+| TEXT_BUTTON_CURVE | Una forma de texto que se parece a un botón.|
 | TEXT_ARCH_UP_POUR | Una forma de texto arqueada hacia arriba.|
 | TEXT_ARCH_DOWN_POUR | Una forma de texto arqueada hacia abajo.|
-| TEXT_CIRCLE_POUR | Una forma de texto circular.|
-| TEXT_BUTTON_POUR | Una forma de texto que se asemeja a un botón.|
+| TEXT_CIRCLE_POUR |Una forma de texto circular.|
+| TEXT_BUTTON_POUR | Una forma de texto que se parece a un botón.|
 | TEXT_CURVE_UP | Una forma de texto curvada hacia arriba.|
 | TEXT_CURVE_DOWN | Una forma de texto curvada hacia abajo.|
 | TEXT_CASCADE_UP | Una forma de texto en cascada apuntando hacia arriba.|
 | TEXT_CASCADE_DOWN | Una forma de texto en cascada apuntando hacia abajo.|
-| TEXT_WAVE1 | Una forma de texto ondulado.|
-| TEXT_WAVE2 | Una forma de texto ondulado.|
-| TEXT_DOUBLE_WAVE1 | Una forma de texto ondulado.|
-| TEXT_DOUBLE_WAVE2 | Una forma de texto ondulado.|
-| TEXT_INFLATE | Una forma de texto que se expande verticalmente en el centro.|
+| TEXT_WAVE1 | Una forma de texto ondulada.|
+| TEXT_WAVE2 | Una forma de texto ondulada.|
+| TEXT_DOUBLE_WAVE1 | Una forma de texto ondulada.|
+| TEXT_DOUBLE_WAVE2 | Una forma de texto ondulada.|
+| TEXT_INFLATE | Una forma de texto que se expande verticalmente en el medio.|
 | TEXT_DEFLATE | Una forma de texto que se encoge verticalmente en el medio.|
 | TEXT_INFLATE_BOTTOM | Una forma de texto que se expande hacia abajo en el medio.|
 | TEXT_DEFLATE_BOTTOM | Una forma de texto que se encoge hacia arriba en el medio.|
-| TEXT_INFLATE_TOP | Una forma de texto que se expande hacia arriba en el centro.|
+| TEXT_INFLATE_TOP | Una forma de texto que se expande hacia arriba en el medio.|
 | TEXT_DEFLATE_TOP | Una forma de texto que se encoge hacia abajo en el medio.|
-| TEXT_DEFLATE_INFLATE |Una forma de texto donde las líneas inferiores se expanden hacia arriba. Las líneas superiores se encogen para compensar.|
-| TEXT_DEFLATE_INFLATE_DEFLATE | Una forma de texto donde las líneas en el centro se expanden verticalmente. Las líneas superior e inferior se encogen para compensar.|
-| TEXT_FADE_RIGHT | Una forma de texto que se contrae verticalmente en el lado derecho.|
-| TEXT_FADE_LEFT | Una forma de texto que se contrae verticalmente en el lado izquierdo.|
-| TEXT_FADE_UP | Una forma de texto que se contrae horizontalmente en la parte superior.|
-| TEXT_FADE_DOWN | Una forma de texto que se contrae horizontalmente en la parte inferior.|
+| TEXT_DEFLATE_INFLATE | Una forma de texto donde las líneas inferiores se expanden hacia arriba y las superiores se contraen para compensar.|
+| TEXT_DEFLATE_INFLATE_DEFLATE | Una forma de texto donde las líneas centrales se expanden verticalmente. Las líneas superiores e inferiores se contraen para compensar.|
+| TEXT_FADE_RIGHT | Una forma de texto que se encoge verticalmente en el lado derecho.|
+| TEXT_FADE_LEFT | Una forma de texto que se encoge verticalmente en el lado izquierdo.|
+| TEXT_FADE_UP |Una forma de texto que se encoge horizontalmente en la parte superior.|
+| TEXT_FADE_DOWN | Una forma de texto que se encoge horizontalmente en la parte inferior.|
 | TEXT_SLANT_UP | Una forma de texto inclinada hacia arriba.|
 | TEXT_SLANT_DOWN | Una forma de texto inclinada hacia abajo.|
-| TEXT_CAN_UP | Una forma de texto que se curva hacia arriba como si se leyera en el costado de una lata.|
-| TEXT_CAN_DOWN | Una forma de texto que se curva hacia abajo como si se leyera en el costado de una lata.|
+| TEXT_CAN_UP | Una forma de texto que se curva hacia arriba como si se leyera en el lateral de una lata.|
+| TEXT_CAN_DOWN | Una forma de texto que se curva hacia abajo como si se leyera en el lateral de una lata.|
 | FLOW_CHART_ALTERNATE_PROCESS |  |
 | FLOW_CHART_OFFPAGE_CONNECTOR |  |
 | LINE_CALLOUT_NO_BORDER1 |  |
@@ -201,8 +201,8 @@ El tipo AutoShapeType expone los siguientes miembros:
 | LEFT_RIGHT_UP_ARROW |  |
 | SUN |  |
 | MOON |  |
-| DOUBLE_BRACKET | Una forma encerrada entre paréntesis.|
-| DOUBLE_BRACE | Una figura encerrada entre llaves.|
+| DOUBLE_BRACKET | Una forma encerrada entre corchetes.|
+| DOUBLE_BRACE | Una forma encerrada entre llaves.|
 | STAR4 |  |
 | DOUBLE_WAVE |  |
 | BLANK_ACTION_BUTTON |  |
@@ -265,14 +265,14 @@ El tipo AutoShapeType expone los siguientes miembros:
 | CHART_PLUS |  |
 | FRAME |  |
 | MODEL_3D |  |
-| ROUND_CALLOUT | No hay tal tipo en Excel|
-| TEXT_ARCH_LEFT_POUR | No hay tal tipo en Excel|
-| TEXT_ARCH_RIGHT_POUR | No hay tal tipo en Excel|
-| TEXT_ARCH_LEFT_CURVE | No hay tal tipo en Excel|
-| TEXT_ARCH_RIGHT_CURVE | No hay tal tipo en Excel|
+| ROUND_CALLOUT | No existe tal tipo en Excel|
+| TEXT_ARCH_LEFT_POUR | No existe tal tipo en Excel|
+| TEXT_ARCH_RIGHT_POUR | No existe tal tipo en Excel|
+| TEXT_ARCH_LEFT_CURVE | No existe tal tipo en Excel|
+| TEXT_ARCH_RIGHT_CURVE | No existe tal tipo en Excel|
 | UNKNOWN |  |
 
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](..)
+* módulo [`aspose.cells.drawing`](..)

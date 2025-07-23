@@ -3,16 +3,17 @@ title: set_input_range metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 190
+weight: 200
 url: /sv/aspose.cells.drawing/button/set_input_range/
 is_root: false
 ---
-##  set_input_range {#str-bool-bool}
-Ställer in intervallet som används för att fylla kontrollen.
+##  set_input_range(self, formula, is_r1c1, is_local) {#str-bool-bool}
+Anger det område som används för att fylla kontrollen.
 
 
 
 ```python
+
 def set_input_range(self, formula, is_r1c1, is_local):
     ...
 ```
@@ -20,9 +21,9 @@ def set_input_range(self, formula, is_r1c1, is_local):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| formula | str | Området som används för att fylla kontrollen.|
+| formula | str | Det område som används för att fylla kontrollen.|
 | is_r1c1 | bool | Om formeln behöver formateras som R1C1.|
-| is_local | bool | Huruvida formeln behöver formateras efter språk.|
+| is_local | bool | Om formeln behöver formateras efter språkinställning.|
 
 ###  Exempel
 

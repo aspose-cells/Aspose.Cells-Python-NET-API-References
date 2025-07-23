@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  keep_unparsed_data propiedad
 
-Si mantiene los datos no analizados en la memoria para el libro de trabajo cuando se carga desde un archivo de plantilla. El valor predeterminado es verdadero.
+Si se conservan los datos no analizados en memoria para el libro de trabajo al cargarlo desde el archivo de plantilla. El valor predeterminado es "true".
 
 ###  Observaciones
 
 Para escenarios en los que el usuario solo necesita leer algunos contenidos del archivo de plantilla y no necesita volver a guardar el libro de trabajo,
-establecer esta propiedad como falsa puede mejorar el rendimiento, especialmente cuando se usa junto con algún tipo de LoadFilter,
+Establecer esta propiedad como falsa puede mejorar el rendimiento, especialmente cuando se usa junto con algún tipo de LoadFilter.
 ###  Definición:
 ```python
 @property
@@ -26,5 +26,5 @@ def keep_unparsed_data(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [AbstractTextLoadOptions](/cells/python-net/es/aspose.cells/abstracttextloadoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`AbstractTextLoadOptions`](/cells/python-net/es/aspose.cells/abstracttextloadoptions)

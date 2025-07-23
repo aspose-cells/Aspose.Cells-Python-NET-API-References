@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_percent fastighet
 
-Hämta eller ställ in om en "topp/botten n"-regel är en "topp/botten n procent"-regel.
+Hämta eller ange om en "topp/botten n"-regel är en "topp/botten n procent"-regel.
 Standardvärdet är falskt.
 ###  Definition:
 ```python
@@ -22,5 +22,5 @@ def is_percent(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Top10](/cells/python-net/sv/aspose.cells/top10)
+* modul [`aspose.cells`](../../)
+* klass [`Top10`](/cells/python-net/sv/aspose.cells/top10)

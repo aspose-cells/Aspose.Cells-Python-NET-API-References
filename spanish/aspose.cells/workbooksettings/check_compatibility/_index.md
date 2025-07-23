@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  check_compatibility propiedad
 
-Indica si se verifica la compatibilidad con versiones anteriores al guardar el libro.
+Indica si se debe comprobar la compatibilidad con versiones anteriores al guardar el libro de trabajo.
 
 ###  Observaciones
 
-El valor por defecto es verdadero.
-Sólo para archivos Excel97-2003 xls o xlt.
+El valor predeterminado es verdadero.
+Sólo para archivos xls o xlt de Excel97-2003.
 ###  Definición:
 ```python
 @property

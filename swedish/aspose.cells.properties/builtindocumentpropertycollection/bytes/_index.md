@@ -3,7 +3,7 @@ title: bytes fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 80
+weight: 90
 url: /sv/aspose.cells.properties/builtindocumentpropertycollection/bytes/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def bytes(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.properties](../../)
-* klass [BuiltInDocumentPropertyCollection](/cells/python-net/sv/aspose.cells.properties/builtindocumentpropertycollection)
+* modul [`aspose.cells.properties`](../../)
+* klass [`BuiltInDocumentPropertyCollection`](/cells/python-net/sv/aspose.cells.properties/builtindocumentpropertycollection)

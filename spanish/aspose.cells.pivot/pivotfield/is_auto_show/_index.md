@@ -3,13 +3,13 @@ title: is_auto_show propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 380
+weight: 460
 url: /es/aspose.cells.pivot/pivotfield/is_auto_show/
 is_root: false
 ---
 ##  is_auto_show propiedad
 
-Indica si el campo de tabla dinámica especificado se muestra automáticamente, solo válido para Excel 2003.
+Indica si el campo de tabla dinámica especificado se muestra automáticamente, válido solo para Excel 2003.
 ###  Definición:
 ```python
 @property

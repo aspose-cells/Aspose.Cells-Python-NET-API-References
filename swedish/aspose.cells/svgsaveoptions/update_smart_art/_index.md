@@ -3,7 +3,7 @@ title: update_smart_art fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 140
+weight: 150
 url: /sv/aspose.cells/svgsaveoptions/update_smart_art/
 is_root: false
 ---
@@ -14,7 +14,7 @@ Standardvärdet är falskt.
 
 ###  Anmärkningar
 
-Endast effekter efter anrop av metoden Shape.GetResultOfSmartArt() och de cachade formerna finns i mallfilen.
+Endast effekter efter att metoden Shape.GetResultOfSmartArt() anropats och de cachade formerna finns i mallfilen.
 ###  Definition:
 ```python
 @property
@@ -26,5 +26,5 @@ def update_smart_art(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [SvgSaveOptions](/cells/python-net/sv/aspose.cells/svgsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`SvgSaveOptions`](/cells/python-net/sv/aspose.cells/svgsaveoptions)

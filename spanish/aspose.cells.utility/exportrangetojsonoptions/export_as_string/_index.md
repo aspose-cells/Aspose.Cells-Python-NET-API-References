@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  export_as_string propiedad
 
-Exporta el valor de cadena de las celdas a json.
+Exporta el valor de la cadena de las celdas a json.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def export_as_string(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.utility](../../)
-* clase [ExportRangeToJsonOptions](/cells/python-net/es/aspose.cells.utility/exportrangetojsonoptions)
+* módulo [`aspose.cells.utility`](../../)
+* clase [`ExportRangeToJsonOptions`](/cells/python-net/es/aspose.cells.utility/exportrangetojsonoptions)

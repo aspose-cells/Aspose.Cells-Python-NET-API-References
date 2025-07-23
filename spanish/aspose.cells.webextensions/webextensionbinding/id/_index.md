@@ -21,5 +21,5 @@ def id(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.webextensions](../../)
-* clase [WebExtensionBinding](/cells/python-net/es/aspose.cells.webextensions/webextensionbinding)
+* módulo [`aspose.cells.webextensions`](../../)
+* clase [`WebExtensionBinding`](/cells/python-net/es/aspose.cells.webextensions/webextensionbinding)

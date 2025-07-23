@@ -3,13 +3,13 @@ title: is_refresh_all_connections propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 310
+weight: 330
 url: /es/aspose.cells/worksheetcollection/is_refresh_all_connections/
 is_root: false
 ---
 ##  is_refresh_all_connections propiedad
 
-Indica si se actualizan todas las conexiones al abrir el archivo en MS Excel.
+Indica si se deben actualizar todas las conexiones al abrir un archivo en MS Excel.
 ###  Definición:
 ```python
 @property

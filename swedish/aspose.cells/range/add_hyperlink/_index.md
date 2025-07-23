@@ -7,16 +7,17 @@ weight: 20
 url: /sv/aspose.cells/range/add_hyperlink/
 is_root: false
 ---
-##  add_hyperlink {#str-str-str}
-Lägger till en hyperlänk till en angiven cell eller ett cellintervall.
+##  add_hyperlink(self, address, text_to_display, screen_tip) {#str-str-str}
+Lägger till en hyperlänk till en angiven cell eller ett cellområde.
 
 
 ###  Returnerar
 
-[`Hyperlink`](/cells/python-net/sv/aspose.cells/hyperlink) objekt.
+[`Hyperlink`](/cells/python-net/sv/aspose.cells/hyperlink)-objekt.
 
 
 ```python
+
 def add_hyperlink(self, address, text_to_display, screen_tip):
     ...
 ```

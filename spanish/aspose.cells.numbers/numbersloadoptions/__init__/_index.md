@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells.numbers/numbersloadoptions/__init__/
 is_root: false
 ---
-##  NumbersLoadOptions() {#}
+##  \_\_init\_\_(yo mismo){#}
 Constructor.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ver también
-* módulo [aspose.cells.numbers](../../)
-* clase [NumbersLoadOptions](/cells/python-net/es/aspose.cells.numbers/numbersloadoptions)
+* módulo [`aspose.cells.numbers`](../../)
+* clase [`NumbersLoadOptions`](/cells/python-net/es/aspose.cells.numbers/numbersloadoptions)

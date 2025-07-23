@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  enable_iterative_calculation fastighet
 
-Anger om aktivera iterativ beräkning för att lösa cirkulära referenser.
+Anger om iterativ beräkning är aktiverad för att lösa cirkulära referenser.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def enable_iterative_calculation(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormulaSettings](/cells/python-net/sv/aspose.cells/formulasettings)
+* modul [`aspose.cells`](../../)
+* klass [`FormulaSettings`](/cells/python-net/sv/aspose.cells/formulasettings)

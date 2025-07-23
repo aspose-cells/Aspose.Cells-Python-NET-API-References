@@ -3,13 +3,13 @@ title: is_refresh_all_connections fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 310
+weight: 330
 url: /sv/aspose.cells/worksheetcollection/is_refresh_all_connections/
 is_root: false
 ---
 ##  is_refresh_all_connections fastighet
 
-Anger om uppdatera alla anslutningar vid öppning av fil i MS Excel.
+Anger om alla kopplingar ska uppdateras när filen öppnas i MS Excel.
 ###  Definition:
 ```python
 @property

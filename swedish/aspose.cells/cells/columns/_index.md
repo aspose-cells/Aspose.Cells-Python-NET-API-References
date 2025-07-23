@@ -3,13 +3,13 @@ title: columns fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1010
+weight: 1030
 url: /sv/aspose.cells/cells/columns/
 is_root: false
 ---
 ##  columns fastighet
 
-Hämtar samlingen av [`Column`](/cells/python-net/sv/aspose.cells/column) objekt som representerar individen columns i detta kalkylblad.
+Hämtar samlingen av [`Column`](/cells/python-net/sv/aspose.cells/column)-objekt som representerar den individuella columns i detta kalkylblad.
 ###  Definition:
 ```python
 @property

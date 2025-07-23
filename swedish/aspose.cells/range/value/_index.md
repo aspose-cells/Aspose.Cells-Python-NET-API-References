@@ -3,17 +3,17 @@ title: value fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 420
+weight: 520
 url: /sv/aspose.cells/range/value/
 is_root: false
 ---
 ##  value fastighet
 
-Hämtar och ställer in value i sortimentet.
+Hämtar och ställer in value i intervallet.
 
 ###  Anmärkningar
 
-Om intervallet innehåller flera celler ska det returnerade/tillämpade objektet vara ett tvådimensionellt Array-objekt.
+Om området innehåller flera celler bör det returnerade/tillämpade objektet vara ett tvådimensionellt arrayobjekt.
 ###  Definition:
 ```python
 @property

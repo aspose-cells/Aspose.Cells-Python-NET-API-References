@@ -3,7 +3,7 @@ title: ValidationType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2730
+weight: 2700
 url: /es/aspose.cells/validationtype/
 is_root: false
 ---
@@ -23,7 +23,7 @@ El tipo ValidationType expone los siguientes miembros:
 | LIST | Tipo de validación de lista.|
 | DATE | Tipo de validación de fecha.|
 | TIME | Tipo de validación de tiempo.|
-| TEXT_LENGTH | Tipo de validación de longitud del texto.|
+| TEXT_LENGTH | Tipo de validación de longitud de texto.|
 | CUSTOM | Tipo de validación personalizado.|
 
 

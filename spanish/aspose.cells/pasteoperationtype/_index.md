@@ -3,12 +3,12 @@ title: PasteOperationType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2440
+weight: 2410
 url: /es/aspose.cells/pasteoperationtype/
 is_root: false
 ---
 ##  PasteOperationType enumeración
-Representa el tipo de operación al pegar el rango.
+Representa el tipo de operación al pegar un rango.
 
 
 
@@ -17,7 +17,7 @@ El tipo PasteOperationType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| NONE | No operacion.|
+| NONE | Sin operación.|
 | ADD | Agregar|
 | SUBTRACT | Sustraer|
 | MULTIPLY | Multiplicar|

@@ -7,12 +7,13 @@ weight: 90
 url: /sv/aspose.cells/validationcollection/remove_area/
 is_root: false
 ---
-##  remove_area(ca) {#CellArea}
-Tar bort alla valideringsinställningar på området..
+##  remove_area(self, ca) {#aspose.cells.CellArea}
+Tar bort alla valideringsinställningar för intervallet.
 
 
 
 ```python
+
 def remove_area(self, ca):
     ...
 ```
@@ -20,10 +21,10 @@ def remove_area(self, ca):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| ca | [CellArea](/cells/python-net/sv/aspose.cells/cellarea) | Intervallet som innehåller valideringsinställningen.|
+| ca | [`CellArea`](/cells/python-net/sv/aspose.cells/cellarea) | Det intervall som innehåller valideringsinställningen.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ValidationCollection](/cells/python-net/sv/aspose.cells/validationcollection)
+* modul [`aspose.cells`](../../)
+* klass [`ValidationCollection`](/cells/python-net/sv/aspose.cells/validationcollection)

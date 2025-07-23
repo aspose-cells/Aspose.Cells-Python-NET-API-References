@@ -7,12 +7,13 @@ weight: 310
 url: /sv/aspose.cells/settableglobalizationsettings/set_comment_title_name/
 is_root: false
 ---
-##  set_comment_title_name {#aspose.cells.rendering.CommentTitleType-str}
-Hämtar det språkberoende namnet på kommentarstiteln enligt typ av kommentarstitel.
+##  set_comment_title_name(self, type, name) {#aspose.cells.rendering.CommentTitleType-str}
+Hämtar det språkberoende kommentartitelnamnet enligt kommentartiteltyp.
 
 
 
 ```python
+
 def set_comment_title_name(self, type, name):
     ...
 ```
@@ -20,8 +21,8 @@ def set_comment_title_name(self, type, name):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| type | aspose.cells.rendering.CommentTitleType | typ av kommentarstitel|
-| name | str | språkberoende kommentarstitelnamn|
+| type | aspose.cells.rendering.CommentTitleType | typ av kommentartitel|
+| name | str | språkberoende kommentartitel namn|
 
 
 

@@ -7,17 +7,17 @@ weight: 10
 url: /sv/aspose.cells.numbers/
 is_root: false
 ---
- De**Aspose.Cells.Numbers** namnområdet innehåller alla klasser för att ladda och konvertera Apple Numbers-filer.
+ De**Aspose.Cells.Numbers** namnrymden innehåller alla klasser för att ladda och konvertera Apple Numbers-filer.
 
 ###  Klasser
 | Klass| Beskrivning|
 | :- | :- |
-| [NumbersLoadOptions](/cells/python-net/sv/aspose.cells.numbers/numbersloadoptions) | Representerar alternativen för att ladda Apple Numbers-filer.|
+| [`NumbersLoadOptions`](/cells/python-net/sv/aspose.cells.numbers/numbersloadoptions) | Representerar alternativen för att ladda Apple Numbers-filer.|
 
 
 ###  Uppräkningar
-|Uppräkning| Beskrivning|
+| Uppräkning| Beskrivning|
 | :- | :- |
-| [LoadNumbersTableType](/cells/python-net/sv/aspose.cells.numbers/loadnumberstabletype) |Indikerar typ av laddningstabeller när vissa tabeller finns i ett ark.|
+| [`LoadNumbersTableType`](/cells/python-net/sv/aspose.cells.numbers/loadnumberstabletype) | Anger typen av laddning av tabeller när vissa tabeller finns i ett ark.|
 
 

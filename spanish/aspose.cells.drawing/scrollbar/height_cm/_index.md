@@ -3,7 +3,7 @@ title: height_cm propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 450
+weight: 440
 url: /es/aspose.cells.drawing/scrollbar/height_cm/
 is_root: false
 ---

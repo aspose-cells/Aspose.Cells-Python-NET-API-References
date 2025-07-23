@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_superscript propiedad
 
-Obtiene o establece un valor que indica si la fuente es superscript.
+Obtiene o establece un valor que indica si la fuente es superíndice.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_superscript(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](../../)
-* clase [TextOptions](/cells/python-net/es/aspose.cells.drawing.texts/textoptions)
+* módulo [`aspose.cells.drawing.texts`](../../)
+* clase [`TextOptions`](/cells/python-net/es/aspose.cells.drawing.texts/textoptions)

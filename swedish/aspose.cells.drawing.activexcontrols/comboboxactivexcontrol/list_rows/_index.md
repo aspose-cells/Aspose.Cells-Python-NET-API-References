@@ -21,5 +21,5 @@ def list_rows(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ComboBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ComboBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

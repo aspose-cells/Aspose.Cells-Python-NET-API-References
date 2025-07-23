@@ -3,13 +3,13 @@ title: actual_lower_right_row propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 270
+weight: 280
 url: /es/aspose.cells.drawing/oval/actual_lower_right_row/
 is_root: false
 ---
 ##  actual_lower_right_row propiedad
 
-Obtenga la fila inferior real.
+Obtener la fila inferior real.
 
 ###  Ejemplo
 

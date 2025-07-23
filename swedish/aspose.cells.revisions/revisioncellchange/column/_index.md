@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column fastighet
 
-Hämtar column index för cellen.
+Hämtar cellens column-index.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def column(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionCellChange](/cells/python-net/sv/aspose.cells.revisions/revisioncellchange)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionCellChange`](/cells/python-net/sv/aspose.cells.revisions/revisioncellchange)

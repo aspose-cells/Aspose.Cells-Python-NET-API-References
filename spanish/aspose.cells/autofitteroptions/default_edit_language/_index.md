@@ -13,8 +13,8 @@ Obtiene o establece el idioma de edición predeterminado.
 
 ###  Observaciones
 
-Puede mostrar/representar diferentes diseños para el párrafo de texto cuando se configuran diferentes idiomas de edición.
-El valor predeterminado es [DefaultEditLanguage.AUTO](/cells/python-net/es/aspose.cells/defaulteditlanguage#AUTO).
+Es posible que se muestren o representen diferentes diseños para el párrafo de texto cuando se configuran diferentes idiomas de edición.
+El valor predeterminado es [`DefaultEditLanguage.AUTO`](/cells/python-net/es/aspose.cells/defaulteditlanguage#AUTO).
 ###  Definición:
 ```python
 @property
@@ -26,6 +26,6 @@ def default_edit_language(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [AutoFitterOptions](/cells/python-net/es/aspose.cells/autofitteroptions)
-* clase [DefaultEditLanguage](/cells/python-net/es/aspose.cells/defaulteditlanguage)
+* módulo [`aspose.cells`](../../)
+* clase [`AutoFitterOptions`](/cells/python-net/es/aspose.cells/autofitteroptions)
+* clase [`DefaultEditLanguage`](/cells/python-net/es/aspose.cells/defaulteditlanguage)

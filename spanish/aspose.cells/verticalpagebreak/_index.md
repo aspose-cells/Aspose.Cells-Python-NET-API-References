@@ -3,7 +3,7 @@ title: VerticalPageBreak clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1630
+weight: 1540
 url: /es/aspose.cells/verticalpagebreak/
 is_root: false
 ---
@@ -17,9 +17,9 @@ El tipo VerticalPageBreak expone los siguientes miembros:
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [start_row](/cells/python-net/es/aspose.cells/verticalpagebreak/start_row) | Obtiene el índice de la fila inicial del salto de página vertical.|
+| [start_row](/cells/python-net/es/aspose.cells/verticalpagebreak/start_row) | Obtiene el índice de la fila de inicio del salto de página vertical.|
 | [end_row](/cells/python-net/es/aspose.cells/verticalpagebreak/end_row) | Obtiene el índice de la fila final del salto de página vertical.|
-| [column](/cells/python-net/es/aspose.cells/verticalpagebreak/column) | Obtiene el índice de columna del salto de página vertical.|
+| [column](/cells/python-net/es/aspose.cells/verticalpagebreak/column) | Obtiene el índice de la columna del salto de página vertical.|
 
 
 

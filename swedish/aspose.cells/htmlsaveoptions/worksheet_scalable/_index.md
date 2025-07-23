@@ -3,13 +3,13 @@ title: worksheet_scalable fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 730
+weight: 810
 url: /sv/aspose.cells/htmlsaveoptions/worksheet_scalable/
 is_root: false
 ---
 ##  worksheet_scalable fastighet
 
-Indikerar om du zoomar in eller ut html via kalkylbladszoomnivå när du sparar fil till html, standardvärdet är falskt.
+Anger om man zoomar in eller ut i html-koden via kalkylbladets zoomnivå när filen sparas till html, standardvärdet är falskt.
 ###  Definition:
 ```python
 @property

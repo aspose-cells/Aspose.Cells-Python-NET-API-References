@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  sheet_set propiedad
 
-Obtiene o establece las hojas que se van a representar. El valor predeterminado son todas las hojas visibles del libro: [`SheetSet.visible`](/cells/python-net/es/aspose.cells.rendering/sheetset#visible).
+Obtiene o establece las hojas que se van a representar. El valor predeterminado son todas las hojas visibles en el libro: [`SheetSet.visible`](/cells/python-net/es/aspose.cells.rendering/sheetset#visible).
 
 ###  Observaciones
 

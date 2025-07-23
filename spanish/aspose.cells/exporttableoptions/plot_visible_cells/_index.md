@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_visible_cells propiedad
 
-Solo exporta celdas visibles.
+Sólo exporta celdas visibles.
 ###  Definición:
 ```python
 @property

@@ -13,7 +13,7 @@ Representerar innehållet i kommentaren.
 
 ###  Anmärkningar
 
-Om detta är en trådad kommentar kunde note inte ändras, annars kunde MS Excel inte behandla den som en trådad kommentar.
+Om detta är en trådad kommentar kan note inte ändras, annars kan inte MS Excel behandla den som en trådad kommentar.
 
 ###  Exempel
 

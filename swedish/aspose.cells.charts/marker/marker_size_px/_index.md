@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  marker_size_px fastighet
 
-Representerar markörstorleken i pixelenhet. Gäller linjediagram, punktdiagram eller radardiagram.
+Representerar markörstorleken i pixlar. Gäller för linjediagram, punktdiagram eller radardiagram.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def marker_size_px(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Marker](/cells/python-net/sv/aspose.cells.charts/marker)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Marker`](/cells/python-net/sv/aspose.cells.charts/marker)

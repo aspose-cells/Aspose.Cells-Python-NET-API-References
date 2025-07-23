@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_color_varied fastighet
 
- Representerar om färgen på punkterna varieras.
+ Representerar om punkternas färg varierar.
 Diagrammet får endast innehålla en serie.
 ###  Definition:
 ```python

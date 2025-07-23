@@ -13,9 +13,9 @@ Definición para analizar funciones personalizadas.
 
 ###  Observaciones
 
-Para algunos requisitos especiales, como al calcular la función personalizada en el motor personalizado del usuario,
-algunos parámetros deben calcularse en modo matriz, el uso de esta propiedad puede marcar esos parámetros
-como modo de matriz al analizar la fórmula. De lo contrario, el usuario deberá actualizar esas funciones personalizadas más adelante
+Para algunos requisitos especiales, como al calcular una función personalizada en el motor personalizado del usuario,
+Algunos parámetros deben calcularse en modo matriz, el uso de esta propiedad puede marcar esos parámetros
+como modo de matriz al analizar la fórmula. De lo contrario, el usuario deberá actualizar esas funciones personalizadas posteriormente.
 [`Workbook.update_custom_function_definition`](/cells/python-net/es/aspose.cells/workbook/update_custom_function_definition) para obtener el mismo resultado.
 ###  Definición:
 ```python

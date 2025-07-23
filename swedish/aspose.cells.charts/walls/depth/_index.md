@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  depth fastighet
 
-Hämtar depth fram och bak i enheter på 1/4000 av diagrammets bredd efter anrop av metoden Chart.Calculate().
+Hämtar depth från framsida till baksida i enheter om 1/4000 av diagrammets bredd efter anrop av metoden Chart.Calculate().
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def depth(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Walls](/cells/python-net/sv/aspose.cells.charts/walls)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Walls`](/cells/python-net/sv/aspose.cells.charts/walls)

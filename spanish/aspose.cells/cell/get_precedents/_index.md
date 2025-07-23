@@ -1,5 +1,5 @@
 ---
-title: get_precedents método
+title: método get_precedents
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 180
 url: /es/aspose.cells/cell/get_precedents/
 is_root: false
 ---
-##  get_precedents() {#}
+##  get_precedents(self) {#}
 Obtiene todas las referencias que aparecen en la fórmula de esta celda.
 
 
@@ -17,6 +17,7 @@ Colección de todas las referencias que aparecen en la fórmula de esta celda.
 
 
 ```python
+
 def get_precedents(self):
     ...
 ```
@@ -24,18 +25,18 @@ def get_precedents(self):
 
 ###  Observaciones
 
-* Devuelve nulo si no es una celda de fórmula. Todas las referencias que aparecen en la fórmula de esta celda se devolverán sin importar si se hace referencia a ellas o no durante el cálculo.
+* Devuelve nulo si esta no es una celda de fórmula. Se devolverán todas las referencias que aparezcan en la fórmula de esta celda, sin importar si se hace referencia a ellas o no durante el cálculo.
 
-Por ejemplo, aunque la celda A2 en la fórmula "=SI(VERDADERO,A1,A2)" no se usa al calcular,
-todavía se toma como los precedentes de la fórmula. Para obtener aquellas referencias que solo influyen en el cálculo, utilice [Cell.get_precedents_in_calculation()](/cells/python-net/es/aspose.cells/cell/get_precedents_in_calculation).
+Por ejemplo, aunque la celda A2 en la fórmula "=SI(VERDADERO,A1,A2)" no se utiliza durante el cálculo,
+Todavía se toma como precedente de la fórmula. Para obtener las referencias que influyen únicamente en el cálculo, utilice [`Cell.get_precedents_in_calculation`](/cells/python-net/es/aspose.cells/cell/get_precedents_in_calculation).
 
-* Devuelve nulo si no es una celda de fórmula. Todas las referencias que aparecen en la fórmula de esta celda se devolverán sin importar si se hace referencia a ellas o no durante el cálculo.
-Por ejemplo, aunque la celda A2 en la fórmula "=SI(VERDADERO,A1,A2)" no se usa al calcular,
-todavía se toma como los precedentes de la fórmula. Para obtener aquellas referencias que solo influyen en el cálculo, utilice [Cell.get_precedents_in_calculation()](/cells/python-net/es/aspose.cells/cell/get_precedents_in_calculation).
+* Devuelve nulo si esta no es una celda de fórmula. Se devolverán todas las referencias que aparezcan en la fórmula de esta celda, sin importar si se hace referencia a ellas o no durante el cálculo.
+Por ejemplo, aunque la celda A2 en la fórmula "=SI(VERDADERO,A1,A2)" no se utiliza durante el cálculo,
+Todavía se toma como precedente de la fórmula. Para obtener las referencias que influyen únicamente en el cálculo, utilice [`Cell.get_precedents_in_calculation`](/cells/python-net/es/aspose.cells/cell/get_precedents_in_calculation).
 
-* Devuelve nulo si no es una celda de fórmula. Todas las referencias que aparecen en la fórmula de esta celda se devolverán sin importar si se hace referencia a ellas o no durante el cálculo.
-Por ejemplo, aunque la celda A2 en la fórmula "=SI(VERDADERO,A1,A2)" no se usa al calcular,
-todavía se toma como los precedentes de la fórmula. Para obtener aquellas referencias que solo influyen en el cálculo, utilice [Cell.get_precedents_in_calculation()](/cells/python-net/es/aspose.cells/cell/get_precedents_in_calculation).
+* Devuelve nulo si esta no es una celda de fórmula. Se devolverán todas las referencias que aparezcan en la fórmula de esta celda, sin importar si se hace referencia a ellas o no durante el cálculo.
+Por ejemplo, aunque la celda A2 en la fórmula "=SI(VERDADERO,A1,A2)" no se utiliza durante el cálculo,
+Todavía se toma como precedente de la fórmula. Para obtener las referencias que influyen únicamente en el cálculo, utilice [`Cell.get_precedents_in_calculation`](/cells/python-net/es/aspose.cells/cell/get_precedents_in_calculation).
 ###  Ejemplo
 
 ```python
@@ -65,5 +66,5 @@ for i in range(len(areas)):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Cell](/cells/python-net/es/aspose.cells/cell)
+* módulo [`aspose.cells`](../../)
+* clase [`Cell`](/cells/python-net/es/aspose.cells/cell)

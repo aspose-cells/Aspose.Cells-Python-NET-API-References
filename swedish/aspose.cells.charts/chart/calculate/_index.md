@@ -7,12 +7,13 @@ weight: 20
 url: /sv/aspose.cells.charts/chart/calculate/
 is_root: false
 ---
-##  calculate {#}
-Beräknar den anpassade positionen för plottarean, axlarna om positionen för dem är automatiskt tilldelad.
+##  calculate(self) {#}
+Beräknar den anpassade positionen för plottarean och axlarna om deras position är automatiskt tilldelad.
 
 
 
 ```python
+
 def calculate(self):
     ...
 ```
@@ -20,12 +21,13 @@ def calculate(self):
 
 
 
-##  calculate {#aspose.cells.charts.ChartCalculateOptions}
-Beräknar den anpassade positionen för plottarean, axlar om positionen för dem är automatiskt tilldelade, med alternativ för diagramberäkna.
+##  calculate(self, calculate_options) {#aspose.cells.charts.ChartCalculateOptions}
+Beräknar den anpassade positionen för plottarean, axlarna om deras position är automatiskt tilldelad, med diagramberäkningsalternativ.
 
 
 
 ```python
+
 def calculate(self, calculate_options):
     ...
 ```

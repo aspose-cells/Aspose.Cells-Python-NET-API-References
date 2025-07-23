@@ -17,10 +17,10 @@ El tipo OdsGeneratorType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| LIBRE_OFFICE | Libre Oficina|
+| LIBRE_OFFICE | Libre Office|
 | OPEN_OFFICE | Oficina abierta|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.ods](..)
+* módulo [`aspose.cells.ods`](..)

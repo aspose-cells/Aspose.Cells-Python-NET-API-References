@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  list_rows propiedad
 
-Representa el número máximo de filas para mostrar en la lista.
+Representa el número máximo de filas a mostrar en la lista.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def list_rows(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [ComboBoxActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`ComboBoxActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

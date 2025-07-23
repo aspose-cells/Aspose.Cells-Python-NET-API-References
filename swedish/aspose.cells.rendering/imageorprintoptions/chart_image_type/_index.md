@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  chart_image_type fastighet
 
-Ange diagrambildstyp vid konvertering.
+Ange diagrammets bildtyp vid konvertering.
 standardvärde: PNG.
 
 ###  Anmärkningar
 
- OBS: Denna medlem är nu föråldrad. Istället,
-Diagram och Shape renderas alltid som vektorelement (t.ex. punkt, linje) för renderingskvalitet.
- Den här egenskapen kommer att tas bort 12 månader senare sedan juni 2022.
+ OBS! Denna medlem är nu föråldrad. Istället,
+Diagram och form återges alltid som vektorelement (t.ex. punkt, linje) för renderingskvalitetens skull.
+ Den här egenskapen kommer att tas bort 12 månader senare från och med juni 2022.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 ###  Definition:
 ```python
@@ -29,5 +29,5 @@ def chart_image_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [ImageOrPrintOptions](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`ImageOrPrintOptions`](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions)

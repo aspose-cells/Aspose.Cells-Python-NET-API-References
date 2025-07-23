@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ShapePathType](/cells/python-net/es/aspose.cells.drawing/shapepathtype)
-* clase [ShapeSegmentPath](/cells/python-net/es/aspose.cells.drawing/shapesegmentpath)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ShapePathType`](/cells/python-net/es/aspose.cells.drawing/shapepathtype)
+* clase [`ShapeSegmentPath`](/cells/python-net/es/aspose.cells.drawing/shapesegmentpath)

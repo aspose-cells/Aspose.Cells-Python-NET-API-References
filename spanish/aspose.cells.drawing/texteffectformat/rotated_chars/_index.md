@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rotated_chars propiedad
 
-Si es verdadero, los caracteres en el WordArt especificado se giran 90 grados con respecto a la forma delimitada de WordArt.
+Si es verdadero, los caracteres en el WordArt especificado se rotan 90 grados con respecto a la forma delimitadora del WordArt.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def rotated_chars(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [TextEffectFormat](/cells/python-net/es/aspose.cells.drawing/texteffectformat)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`TextEffectFormat`](/cells/python-net/es/aspose.cells.drawing/texteffectformat)

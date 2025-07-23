@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  doughnut_hole_size fastighet
 
- Returnerar eller ställer in storleken på hålet i en munkdiagramgrupp.
-Hålstorleken uttrycks i procent av diagramstorleken, mellan 10 och 90 procent.
+ Returnerar eller anger storleken på hålet i en ringdiagramgrupp.
+Hålstorleken uttrycks som en procentandel av diagrammets storlek, mellan 10 och 90 procent.
 ###  Definition:
 ```python
 @property

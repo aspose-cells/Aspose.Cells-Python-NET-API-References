@@ -3,13 +3,13 @@ title: anchor_type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 300
+weight: 310
 url: /es/aspose.cells.drawing/radiobutton/anchor_type/
 is_root: false
 ---
 ##  anchor_type propiedad
 
-Obtiene y establece el marcador de posición del ancla de forma.
+Obtiene y establece el tipo de marcador de posición de ancla de forma.
 
 ###  Ejemplo
 

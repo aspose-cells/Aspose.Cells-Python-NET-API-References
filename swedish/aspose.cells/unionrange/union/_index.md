@@ -3,12 +3,12 @@ title: union metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 110
+weight: 100
 url: /sv/aspose.cells/unionrange/union/
 is_root: false
 ---
-##  union(range) {#str}
-Union ett annat sortiment.
+##  union(self, range) {#str}
+Union ett annat intervall.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Union ett annat sortiment.
 
 
 ```python
+
 def union(self, range):
     ...
 ```
@@ -27,8 +28,8 @@ def union(self, range):
 | range | str | Räckvidden.|
 
 
-##  union(union_range) {#UnionRange}
-Union ett annat sortiment.
+##  union(self, union_range) {#aspose.cells.UnionRange}
+Union ett annat intervall.
 
 
 ###  Returnerar
@@ -37,6 +38,7 @@ Union ett annat sortiment.
 
 
 ```python
+
 def union(self, union_range):
     ...
 ```
@@ -44,11 +46,11 @@ def union(self, union_range):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| union_range | [UnionRange](/cells/python-net/sv/aspose.cells/unionrange) | Räckvidden.|
+| union_range | [`UnionRange`](/cells/python-net/sv/aspose.cells/unionrange) | Räckvidden.|
 
 
-##  union(ranges) {#list}
-Union intervallen.
+##  union(self, ranges) {#list}
+Förena intervallen.
 
 
 ###  Returnerar
@@ -57,6 +59,7 @@ Union intervallen.
 
 
 ```python
+
 def union(self, ranges):
     ...
 ```
@@ -64,10 +67,10 @@ def union(self, ranges):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| ranges | list | Områdena.|
+| ranges | list | Räckvidden.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [UnionRange](/cells/python-net/sv/aspose.cells/unionrange)
+* modul [`aspose.cells`](../../)
+* klass [`UnionRange`](/cells/python-net/sv/aspose.cells/unionrange)

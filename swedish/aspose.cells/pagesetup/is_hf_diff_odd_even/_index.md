@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_hf_diff_odd_even fastighet
 
-True betyder att sidhuvudet/sidfoten på de udda sidorna skiljer sig från udda sidor.
+Sant betyder att sidhuvudet/sidfoten på udda sidor skiljer sig från udda sidor.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_hf_diff_odd_even(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

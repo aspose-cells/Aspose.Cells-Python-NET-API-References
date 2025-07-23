@@ -3,13 +3,13 @@ title: is_parse_pre propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 160
+weight: 210
 url: /es/aspose.cells.externalconnections/webqueryconnection/is_parse_pre/
 is_root: false
 ---
 ##  is_parse_pre propiedad
 
-Bandera que indica si los datos contenidos dentro de las etiquetas PRE HTML en la página web son
+Bandera que indica si los datos contenidos en las etiquetas HTML PRE de la página web son
 se analiza en columnas cuando importa la página a una tabla de consulta.
 ###  Definición:
 ```python
@@ -22,5 +22,5 @@ def is_parse_pre(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.externalconnections](../../)
-* clase [WebQueryConnection](/cells/python-net/es/aspose.cells.externalconnections/webqueryconnection)
+* módulo [`aspose.cells.externalconnections`](../../)
+* clase [`WebQueryConnection`](/cells/python-net/es/aspose.cells.externalconnections/webqueryconnection)

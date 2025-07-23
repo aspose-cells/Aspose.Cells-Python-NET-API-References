@@ -21,5 +21,5 @@ def search_backward(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FindOptions](/cells/python-net/es/aspose.cells/findoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`FindOptions`](/cells/python-net/es/aspose.cells/findoptions)

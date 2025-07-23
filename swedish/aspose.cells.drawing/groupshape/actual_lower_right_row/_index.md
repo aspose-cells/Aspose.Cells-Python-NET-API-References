@@ -3,13 +3,13 @@ title: actual_lower_right_row fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 290
+weight: 300
 url: /sv/aspose.cells.drawing/groupshape/actual_lower_right_row/
 is_root: false
 ---
 ##  actual_lower_right_row fastighet
 
-Få den faktiska nedersta raden.
+Hämta den faktiska nedersta raden.
 
 ###  Exempel
 

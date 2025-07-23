@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  end_arrowhead_width fastighet
 
-Hämtar och ställer in linjens bredd på slutet av pilhuvudet.
+Hämtar och ställer in bredden på pilens slut på linjen.
 
 ###  Anmärkningar
 
- OBS: Denna medlem är nu föråldrad. Istället,
- använd egenskapen Shape.Line.EndArrowheadWidth.
- Den här egenskapen kommer att tas bort 12 månader senare sedan augusti 2016.
+ OBS! Denna medlem är nu föråldrad. Istället,
+ Använd egenskapen Shape.Line.EndArrowheadWidth.
+ Den här egenskapen kommer att tas bort 12 månader senare från och med augusti 2016.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 ###  Definition:
 ```python

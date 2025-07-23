@@ -7,12 +7,13 @@ weight: 40
 url: /sv/aspose.cells.vba/vbaproject/sign/
 is_root: false
 ---
-##  sign(digital_signature) {#aspose.cells.digitalsignatures.DigitalSignature}
-Signera detta VBA-projekt med en DigitalSignatur
+##  sign(self, digital_signature) {#aspose.cells.digitalsignatures.DigitalSignature}
+Signera detta VBA-projekt med en digital signatur
 
 
 
 ```python
+
 def sign(self, digital_signature):
     ...
 ```
@@ -25,5 +26,5 @@ def sign(self, digital_signature):
 
 
 ###  Se även
-* modul [aspose.cells.vba](../../)
-* klass [VbaProject](/cells/python-net/sv/aspose.cells.vba/vbaproject)
+* modul [`aspose.cells.vba`](../../)
+* klass [`VbaProject`](/cells/python-net/sv/aspose.cells.vba/vbaproject)

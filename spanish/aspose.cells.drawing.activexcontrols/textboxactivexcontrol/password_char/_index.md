@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  password_char propiedad
 
-Obtiene y establece un carácter que se mostrará en lugar de los caracteres introducidos.
+Obtiene y establece un carácter que se mostrará en lugar de los caracteres ingresados.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def password_char(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [TextBoxActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`TextBoxActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

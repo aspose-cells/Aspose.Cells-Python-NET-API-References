@@ -21,6 +21,6 @@ def series_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [CellsColor](/cells/python-net/es/aspose.cells/cellscolor)
-* clase [SparklineGroup](/cells/python-net/es/aspose.cells.charts/sparklinegroup)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`CellsColor`](/cells/python-net/es/aspose.cells/cellscolor)
+* clase [`SparklineGroup`](/cells/python-net/es/aspose.cells.charts/sparklinegroup)

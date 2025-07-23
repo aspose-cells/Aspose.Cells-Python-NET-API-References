@@ -3,7 +3,7 @@ title: is_rich_text propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 630
+weight: 640
 url: /es/aspose.cells.drawing/dialogbox/is_rich_text/
 is_root: false
 ---

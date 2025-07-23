@@ -3,13 +3,13 @@ title: standard_height fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1240
+weight: 1270
 url: /sv/aspose.cells/cells/standard_height/
 is_root: false
 ---
 ##  standard_height fastighet
 
-Hämtar eller ställer in standardradhöjden i detta kalkylblad, i poängenhet.
+Hämtar eller ställer in standardradhöjden i detta kalkylblad, i enheten punkter.
 ###  Definition:
 ```python
 @property

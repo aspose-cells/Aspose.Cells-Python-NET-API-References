@@ -1,5 +1,5 @@
 ---
-title: binary_search método
+title: método binary_search
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 30
 url: /es/aspose.cells.drawing/picturecollection/binary_search/
 is_root: false
 ---
-##  binary_search(item) {#Picture}
-Busca un elemento en toda la lista de matrices ordenadas mediante el comparador predeterminado y devuelve el índice de base cero del elemento.
+##  binary_search(self, item) {#aspose.cells.drawing.Picture}
+Busca en toda la lista de la matriz ordenada un elemento utilizando el comparador predeterminado y devuelve el índice basado en cero del elemento.
 
 
 ###  Devoluciones
 
-El índice de valor de base cero en la lista de matriz ordenada, si se encuentra el elemento; de lo contrario, un número negativo, que es el complemento bit a bit del índice del siguiente elemento que es mayor que value o, si no hay ningún elemento mayor, el complemento bit a bit de la lista de arreglos Count.
+El índice basado en cero del valor en la lista de la matriz ordenada, si se encuentra el elemento; de lo contrario, un número negativo, que es el complemento bit a bit del índice del siguiente elemento que es mayor que el valor o, si no hay ningún elemento mayor, el complemento bit a bit de la lista de la matriz Count.
 
 
 ```python
+
 def binary_search(self, item):
     ...
 ```
@@ -24,10 +25,10 @@ def binary_search(self, item):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| item | [Picture](/cells/python-net/es/aspose.cells.drawing/picture) | El System.Object a localizar. El valor puede ser nulo.|
+| item | [`Picture`](/cells/python-net/es/aspose.cells.drawing/picture) | El objeto System.Object que se va a localizar. El valor puede ser nulo.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [PictureCollection](/cells/python-net/es/aspose.cells.drawing/picturecollection)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`PictureCollection`](/cells/python-net/es/aspose.cells.drawing/picturecollection)

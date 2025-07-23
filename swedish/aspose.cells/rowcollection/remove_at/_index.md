@@ -7,12 +7,13 @@ weight: 50
 url: /sv/aspose.cells/rowcollection/remove_at/
 is_root: false
 ---
-##  remove_at {#int}
-Ta bort radobjektet vid angivet index(position) i denna samling.
+##  remove_at(self, index) {#int}
+Ta bort radobjektet vid det angivna indexet (positionen) i den här samlingen.
 
 
 
 ```python
+
 def remove_at(self, index):
     ...
 ```
@@ -20,7 +21,7 @@ def remove_at(self, index):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| index | int |nollbaserat index (position, inte [`Row.index`](/cells/python-net/sv/aspose.cells/row#index)) för det befintliga radobjektet i den här samlingen.|
+| index | int | nollbaserat index (position, inte [`Row.index`](/cells/python-net/sv/aspose.cells/row#index)) för det befintliga radobjektet i denna samling.|
 
 
 

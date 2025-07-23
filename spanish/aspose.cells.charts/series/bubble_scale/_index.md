@@ -9,10 +9,10 @@ is_root: false
 ---
 ##  bubble_scale propiedad
 
- Obtiene o establece el factor de escala de las burbujas en el grupo de gráficos especificado.
+ Obtiene o establece el factor de escala para las burbujas en el grupo de gráficos especificado.
  Puede ser un valor entero de 0 (cero) a 300,
 correspondiente a un porcentaje del tamaño predeterminado.
-Se aplica únicamente a los gráficos de burbujas.
+Se aplica únicamente a gráficos de burbujas.
 ###  Definición:
 ```python
 @property

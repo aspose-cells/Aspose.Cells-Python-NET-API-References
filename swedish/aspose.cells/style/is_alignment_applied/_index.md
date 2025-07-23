@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_alignment_applied fastighet
 
-Ange om anpassningsformateringen ska tillämpas.
+Ange om justeringsformateringen ska tillämpas.
 
 ###  Anmärkningar
 

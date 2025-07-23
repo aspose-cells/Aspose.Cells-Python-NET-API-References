@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  embed_smart_tags propiedad
 
-Indica si se guardan etiquetas inteligentes con el libro de trabajo.
+Indica si se guardarán etiquetas inteligentes con el libro de trabajo.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def embed_smart_tags(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.markup](../../)
-* clase [SmartTagOptions](/cells/python-net/es/aspose.cells.markup/smarttagoptions)
+* módulo [`aspose.cells.markup`](../../)
+* clase [`SmartTagOptions`](/cells/python-net/es/aspose.cells.markup/smarttagoptions)

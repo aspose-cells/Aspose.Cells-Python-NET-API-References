@@ -3,13 +3,13 @@ title: row_header_caption fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 850
+weight: 970
 url: /sv/aspose.cells.pivot/pivottable/row_header_caption/
 is_root: false
 ---
 ##  row_header_caption fastighet
 
-Hämtar rubrikens radrubrik för pivottabellen.
+Hämtar radrubrikens bildtext för pivottabellen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def row_header_caption(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotTable](/cells/python-net/sv/aspose.cells.pivot/pivottable)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotTable`](/cells/python-net/sv/aspose.cells.pivot/pivottable)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name fastighet
 
-Hämtar name i arbetsbladet.
+Hämtar name från kalkylbladet.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def name(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionInsertSheet](/cells/python-net/sv/aspose.cells.revisions/revisioninsertsheet)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionInsertSheet`](/cells/python-net/sv/aspose.cells.revisions/revisioninsertsheet)

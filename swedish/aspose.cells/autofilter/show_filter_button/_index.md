@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_filter_button fastighet
 
-Indikerar om AutoFilter-knappen för denna kolumn är synlig.
+Anger om knappen Autofilter för den här kolumnen är synlig.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_filter_button(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [AutoFilter](/cells/python-net/sv/aspose.cells/autofilter)
+* modul [`aspose.cells`](../../)
+* klass [`AutoFilter`](/cells/python-net/sv/aspose.cells/autofilter)

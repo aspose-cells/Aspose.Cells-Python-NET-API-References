@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type fastighet
 
-Hämtar och sätter bindningen type.
+Hämtar och ställer in bindningen type.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.webextensions](../../)
-* klass [WebExtensionBinding](/cells/python-net/sv/aspose.cells.webextensions/webextensionbinding)
+* modul [`aspose.cells.webextensions`](../../)
+* klass [`WebExtensionBinding`](/cells/python-net/sv/aspose.cells.webextensions/webextensionbinding)

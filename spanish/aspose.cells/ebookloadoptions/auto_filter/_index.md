@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  auto_filter propiedad
 
-Indica si se filtran automáticamente los datos al cargar los archivos.
+Indica si se filtrarán automáticamente los datos al cargar los archivos.
 
 ###  Observaciones
 
-A veces, aunque se establece el filtro automático, las filas correspondientes no están ocultas en el archivo.
-Ahora solo funciona para archivos SpreadSheetML.
+A veces, aunque el filtro automático esté configurado, las filas correspondientes no se ocultan en el archivo.
+Ahora sólo funciona con archivos SpreadSheetML.
 ###  Definición:
 ```python
 @property

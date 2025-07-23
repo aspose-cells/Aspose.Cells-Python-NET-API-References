@@ -3,13 +3,13 @@ title: items propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 470
+weight: 560
 url: /es/aspose.cells.pivot/pivotfield/items/
 is_root: false
 ---
 ##  items propiedad
 
-Obtener toda la base items;
+Obtenga todas las etiquetas de pivote items en este campo.
 ###  Definición:
 ```python
 @property

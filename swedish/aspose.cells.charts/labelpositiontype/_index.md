@@ -17,18 +17,18 @@ Typen LabelPositionType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| CENTER |Gäller endast stapeldiagram, 2d/3d cirkeldiagram|
-| INSIDE_BASE |Gäller endast stapeldiagram, 2d/3d cirkeldiagram|
+| CENTER | Gäller endast stapeldiagram och 2D/3D-cirkeldiagram|
+| INSIDE_BASE | Gäller endast stapeldiagram och 2D/3D-cirkeldiagram|
 | INSIDE_END | Gäller endast stapeldiagram|
-| OUTSIDE_END |Gäller endast stapeldiagram, 2d/3d cirkeldiagram|
+| OUTSIDE_END | Gäller endast stapeldiagram och 2D/3D-cirkeldiagram|
 | ABOVE | Gäller endast linjediagram|
 | BELOW | Gäller endast linjediagram|
 | LEFT | Gäller endast linjediagram|
 | RIGHT | Gäller endast linjediagram|
-| BEST_FIT | Gäller endast 2d/3d cirkeldiagram|
-| MOVED | Användaren flyttade dataetiketterna, endast för att läsa diagram från mallfil.|
+| BEST_FIT | Gäller endast 2D/3D-cirkeldiagram|
+| MOVED | Användaren flyttade dataetiketterna. Endast för att läsa diagram från mallfil.|
 
 
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

@@ -18,5 +18,5 @@ def source(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.properties](../../)
-* klass [DocumentProperty](/cells/python-net/sv/aspose.cells.properties/documentproperty)
+* modul [`aspose.cells.properties`](../../)
+* klass [`DocumentProperty`](/cells/python-net/sv/aspose.cells.properties/documentproperty)

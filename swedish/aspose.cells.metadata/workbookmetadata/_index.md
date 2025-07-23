@@ -17,23 +17,23 @@ Typen WorkbookMetadata avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [WorkbookMetadata(file_name, options)](/cells/python-net/sv/aspose.cells.metadata/workbookmetadata/__init__/#str-MetadataOptions) | Skapa metadataobjektet.|
-| [WorkbookMetadata(stream, options)](/cells/python-net/sv/aspose.cells.metadata/workbookmetadata/__init__/#io.RawIOBase-MetadataOptions) | Skapa metadataobjektet.|
+| [`__init__(self, file_name, options)`](/cells/python-net/sv/aspose.cells.metadata/workbookmetadata/__init__/#str-aspose.cells.metadata.metadataoptions) | Skapa metadataobjektet.|
+| [`__init__(self, stream, options)`](/cells/python-net/sv/aspose.cells.metadata/workbookmetadata/__init__/#io.rawiobase-aspose.cells.metadata.metadataoptions) | Skapa metadataobjektet.|
 
 
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [options](/cells/python-net/sv/aspose.cells.metadata/workbookmetadata/options) | Får alternativen för metadata.|
-| [built_in_document_properties](/cells/python-net/sv/aspose.cells.metadata/workbookmetadata/built_in_document_properties) |Returnerar en [DocumentProperty](/cells/python-net/sv/aspose.cells.properties/documentproperty)-samling som representerar alla inbyggda dokumentegenskaper i kalkylarket.|
-| [custom_document_properties](/cells/python-net/sv/aspose.cells.metadata/workbookmetadata/custom_document_properties) | Returnerar en [DocumentProperty](/cells/python-net/sv/aspose.cells.properties/documentproperty)-samling som representerar alla anpassade dokumentegenskaper i kalkylarket.|
+| [options](/cells/python-net/sv/aspose.cells.metadata/workbookmetadata/options) | Hämtar alternativen för metadata.|
+| [built_in_document_properties](/cells/python-net/sv/aspose.cells.metadata/workbookmetadata/built_in_document_properties) | Returnerar en [`DocumentProperty`](/cells/python-net/sv/aspose.cells.properties/documentproperty)-samling som representerar alla inbyggda dokumentegenskaper i kalkylarket.|
+| [custom_document_properties](/cells/python-net/sv/aspose.cells.metadata/workbookmetadata/custom_document_properties) | Returnerar en [`DocumentProperty`](/cells/python-net/sv/aspose.cells.properties/documentproperty)-samling som representerar alla anpassade dokumentegenskaper i kalkylarket.|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [save(file_name)](/cells/python-net/sv/aspose.cells.metadata/workbookmetadata/save/#str) | Spara den ändrade metadatan i filen.|
-| [save(stream)](/cells/python-net/sv/aspose.cells.metadata/workbookmetadata/save/#io.RawIOBase) | Spara den modifierade metadatan i strömmen.|
+| [`save(self, file_name)`](/cells/python-net/sv/aspose.cells.metadata/workbookmetadata/save/#str) | Spara de ändrade metadata till filen.|
+| [`save(self, stream)`](/cells/python-net/sv/aspose.cells.metadata/workbookmetadata/save/#io.rawiobase) | Spara de ändrade metadata i strömmen.|
 
 
 
@@ -52,5 +52,5 @@ meta.save("book2.xlsx")
 ```
 
 ###  Se även
-* modul [aspose.cells.metadata](..)
-* klass [DocumentProperty](/cells/python-net/sv/aspose.cells.properties/documentproperty)
+* modul [`aspose.cells.metadata`](..)
+* klass [`DocumentProperty`](/cells/python-net/sv/aspose.cells.properties/documentproperty)

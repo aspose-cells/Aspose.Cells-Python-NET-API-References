@@ -7,12 +7,13 @@ weight: 70
 url: /sv/aspose.cells.ods/odscellfieldcollection/update_fields_value/
 is_root: false
 ---
-##  update_fields_value() {#}
-Uppdatera fältvärde till cellerna.
+##  update_fields_value(self) {#}
+Uppdatera fältvärdena i cellerna.
 
 
 
 ```python
+
 def update_fields_value(self):
     ...
 ```
@@ -22,5 +23,5 @@ def update_fields_value(self):
 
 
 ###  Se även
-* modul [aspose.cells.ods](../../)
-* klass [OdsCellFieldCollection](/cells/python-net/sv/aspose.cells.ods/odscellfieldcollection)
+* modul [`aspose.cells.ods`](../../)
+* klass [`OdsCellFieldCollection`](/cells/python-net/sv/aspose.cells.ods/odscellfieldcollection)

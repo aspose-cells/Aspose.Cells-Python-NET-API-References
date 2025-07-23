@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  locked_aspect_ratio propiedad
 
-Indica si la relación de aspecto de bloqueo.
+Indica si se bloquea la relación de aspecto.
 
 ###  Ejemplo
 
@@ -29,5 +29,5 @@ def locked_aspect_ratio(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.slicers](../../)
-* clase [Slicer](/cells/python-net/es/aspose.cells.slicers/slicer)
+* módulo [`aspose.cells.slicers`](../../)
+* clase [`Slicer`](/cells/python-net/es/aspose.cells.slicers/slicer)

@@ -18,5 +18,5 @@ def row(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HorizontalPageBreak](/cells/python-net/sv/aspose.cells/horizontalpagebreak)
+* modul [`aspose.cells`](../../)
+* klass [`HorizontalPageBreak`](/cells/python-net/sv/aspose.cells/horizontalpagebreak)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border_width_px fastighet
 
-Hämtar bredden på kanten i enheter av pixlar efter anrop av metoden Chart.Calculate().
+Hämtar bredden på kanten i pixlar efter anrop av metoden Chart.Calculate().
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def border_width_px(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ChartPoint](/cells/python-net/sv/aspose.cells.charts/chartpoint)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ChartPoint`](/cells/python-net/sv/aspose.cells.charts/chartpoint)

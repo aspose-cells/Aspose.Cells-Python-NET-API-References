@@ -10,8 +10,8 @@ is_root: false
 ##  has_series_lines fastighet
 
 Sant om ett staplat kolumndiagram eller stapeldiagram har serielinjer eller
- om ett cirkeldiagram eller ett cirkeldiagram har anslutningslinjer mellan de två sektionerna.
-Gäller endast staplade kolumndiagram, stapeldiagram, cirkeldiagram eller cirkeldiagram.
+ om ett cirkeldiagram eller stapeldiagram har kopplingslinjer mellan de två sektionerna.
+Gäller endast staplade kolumndiagram, stapeldiagram, cirkeldiagram eller stapeldiagram.
 ###  Definition:
 ```python
 @property

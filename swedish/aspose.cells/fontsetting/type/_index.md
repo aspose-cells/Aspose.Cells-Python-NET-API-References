@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type fastighet
 
-Hämtar textnodens type.
+Hämtar type för textnoden.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FontSetting](/cells/python-net/sv/aspose.cells/fontsetting)
-* klass [TextNodeType](/cells/python-net/sv/aspose.cells.drawing.texts/textnodetype)
+* modul [`aspose.cells`](../../)
+* klass [`FontSetting`](/cells/python-net/sv/aspose.cells/fontsetting)
+* klass [`TextNodeType`](/cells/python-net/sv/aspose.cells.drawing.texts/textnodetype)

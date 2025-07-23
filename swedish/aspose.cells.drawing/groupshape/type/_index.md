@@ -3,13 +3,13 @@ title: type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /sv/aspose.cells.drawing/groupshape/type/
 is_root: false
 ---
 ##  type fastighet
 
-Får autoformen type.
+Hämtar den automatiska formen type.
 
 ###  Exempel
 

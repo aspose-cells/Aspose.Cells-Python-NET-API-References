@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  parse propiedad
 
-Ya sea parse fórmula dada. El valor predeterminado es verdadero.
+Si se proporciona la fórmula parse. El valor predeterminado es verdadero.
 Si es falso, la cadena de fórmula dada se mantendrá tal como está para la celda hasta que el usuario llame a otros métodos para parse.
-o los datos de fórmula analizados son necesarios para otras operaciones, como el cálculo de fórmulas.
+o los datos de fórmulas analizados son necesarios para otras operaciones, como el cálculo de fórmulas.
 ###  Definición:
 ```python
 @property

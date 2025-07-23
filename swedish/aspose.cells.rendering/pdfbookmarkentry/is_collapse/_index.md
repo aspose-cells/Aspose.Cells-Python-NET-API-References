@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_collapse fastighet
 
-När den här egenskapen är sann kommer bokmärkesposten att kollapsa, annars expanderar den.
+När den här egenskapen är sann kommer bokmärkesposten att kollapsa, annars kommer den att expandera.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_collapse(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [PdfBookmarkEntry](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`PdfBookmarkEntry`](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry)

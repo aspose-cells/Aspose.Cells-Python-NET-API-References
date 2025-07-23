@@ -3,12 +3,12 @@ title: GradientStyleType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 890
+weight: 880
 url: /sv/aspose.cells.drawing/gradientstyletype/
 is_root: false
 ---
 ##  GradientStyleType uppräkning
-Representerar gradient skuggstil.
+Representerar gradientskuggningsstil.
 
 
 
@@ -17,15 +17,15 @@ Typen GradientStyleType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| DIAGONAL_DOWN | Diagonal nedskuggningsstil|
-| DIAGONAL_UP | Skuggstil diagonalt uppåt|
-| FROM_CENTER | Från mittskuggningsstil|
+| DIAGONAL_DOWN | Diagonal nedåtriktad skuggningsstil|
+| DIAGONAL_UP | Skuggningsstil diagonalt uppåt|
+| FROM_CENTER | Från mitten skuggningsstil|
 | FROM_CORNER | Från hörnskuggningsstil|
-| HORIZONTAL | Horisontell skuggstil|
-| VERTICAL | Vertikal skuggstil|
-| UNKNOWN |Okänd skuggstil. Endast för skuggningsstilen (som inte är för någon medlem av GradientStyleType) i mallfilen.|
+| HORIZONTAL | Horisontell skuggningsstil|
+| VERTICAL | Vertikal skuggningsstil|
+| UNKNOWN | Okänd skuggningsstil. Endast för skuggningsstilen (som inte är för någon medlem av GradientStyleType) i mallfilen.|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

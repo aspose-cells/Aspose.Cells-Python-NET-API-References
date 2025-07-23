@@ -3,7 +3,7 @@ title: TextDirectionType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2640
+weight: 2610
 url: /sv/aspose.cells/textdirectiontype/
 is_root: false
 ---

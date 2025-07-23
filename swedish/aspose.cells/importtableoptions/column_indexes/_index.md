@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column_indexes fastighet
 
-Hämtar eller ställer in kolumnerna (0-baserade) för import från datakällan. null betyder att alla kolumner ska importeras.
+Hämtar eller anger kolumnerna (0-baserade) som ska importeras från datakällan. null betyder att alla kolumner ska importeras.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def column_indexes(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ImportTableOptions](/cells/python-net/sv/aspose.cells/importtableoptions)
+* modul [`aspose.cells`](../../)
+* klass [`ImportTableOptions`](/cells/python-net/sv/aspose.cells/importtableoptions)

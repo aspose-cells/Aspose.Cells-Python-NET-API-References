@@ -3,16 +3,17 @@ title: ungroup metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 450
+weight: 500
 url: /sv/aspose.cells.drawing/shapecollection/ungroup/
 is_root: false
 ---
-##  ungroup(group) {#GroupShape}
-Delar upp formobjekten.
+##  ungroup(self, group) {#aspose.cells.drawing.GroupShape}
+Avgrupperar formobjekten.
 
 
 
 ```python
+
 def ungroup(self, group):
     ...
 ```
@@ -20,10 +21,10 @@ def ungroup(self, group):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| group | [GroupShape](/cells/python-net/sv/aspose.cells.drawing/groupshape) | Gruppformen.|
+| group | [`GroupShape`](/cells/python-net/sv/aspose.cells.drawing/groupshape) | Gruppens form.|
 ###  Anmärkningar
 
-Om gruppformen grupperas efter en annan gruppform kommer ingenting att göras.
+Om gruppformen grupperas av en annan gruppform kommer ingenting att göras.
 ###  Exempel
 
 
@@ -44,5 +45,5 @@ shapes.ungroup(groupShape)
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShapeCollection](/cells/python-net/sv/aspose.cells.drawing/shapecollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShapeCollection`](/cells/python-net/sv/aspose.cells.drawing/shapecollection)

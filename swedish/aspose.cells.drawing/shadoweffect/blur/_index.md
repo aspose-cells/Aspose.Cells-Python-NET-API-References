@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  blur fastighet
 
-Hämtar och ställer in blur för skuggan. Spänner från 0 till 100 poäng.
+Hämtar och anger skuggans blur. Intervall från 0 till 100 punkter.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def blur(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShadowEffect](/cells/python-net/sv/aspose.cells.drawing/shadoweffect)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShadowEffect`](/cells/python-net/sv/aspose.cells.drawing/shadoweffect)

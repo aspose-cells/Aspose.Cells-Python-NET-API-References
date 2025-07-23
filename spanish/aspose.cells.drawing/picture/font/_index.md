@@ -3,13 +3,13 @@ title: font propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 430
+weight: 440
 url: /es/aspose.cells.drawing/picture/font/
 is_root: false
 ---
 ##  font propiedad
 
-Representa el font de forma.
+Representa la forma font.
 
 ###  Ejemplo
 

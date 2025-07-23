@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  strike_type fastighet
 
-Får textens strejktyp.
+Hämtar textens strejktyp.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def strike_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Font](/cells/python-net/sv/aspose.cells/font)
-* klass [TextStrikeType](/cells/python-net/sv/aspose.cells/textstriketype)
+* modul [`aspose.cells`](../../)
+* klass [`Font`](/cells/python-net/sv/aspose.cells/font)
+* klass [`TextStrikeType`](/cells/python-net/sv/aspose.cells/textstriketype)

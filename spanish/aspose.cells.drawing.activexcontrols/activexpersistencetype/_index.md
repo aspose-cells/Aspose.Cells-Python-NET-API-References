@@ -3,12 +3,12 @@ title: ActiveXPersistenceType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 150
+weight: 130
 url: /es/aspose.cells.drawing.activexcontrols/activexpersistencetype/
 is_root: false
 ---
 ##  ActiveXPersistenceType enumeración
-Representa el método de persistencia para conservar un control ActiveX.
+Representa el método de persistencia para persistir un control ActiveX.
 
 
 
@@ -25,4 +25,4 @@ El tipo ActiveXPersistenceType expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](..)
+* módulo [`aspose.cells.drawing.activexcontrols`](..)

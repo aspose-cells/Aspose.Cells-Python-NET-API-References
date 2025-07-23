@@ -3,12 +3,12 @@ title: FileFormatInfo klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 620
+weight: 600
 url: /sv/aspose.cells/fileformatinfo/
 is_root: false
 ---
 ##  FileFormatInfo klass
-Innehåller data som returneras av [`FileFormatUtil`](/cells/python-net/sv/aspose.cells/fileformatutil) metoder för detektering av filformat.
+Innehåller data som returneras av filformatidentifieringsmetoderna [`FileFormatUtil`](/cells/python-net/sv/aspose.cells/fileformatutil).
 
 
 
@@ -17,7 +17,7 @@ Typen FileFormatInfo avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [__init__](/cells/python-net/sv/aspose.cells/fileformatinfo/__init__/#) | Konstruerar en ny instans av FileFormatInfo|
+| [`__init__(self)`](/cells/python-net/sv/aspose.cells/fileformatinfo/__init__/#) | Konstruerar en ny instans av FileFormatInfo|
 
 
 ###  Egenskaper

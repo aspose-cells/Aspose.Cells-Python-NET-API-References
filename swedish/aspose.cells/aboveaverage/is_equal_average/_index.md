@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  is_equal_average fastighet
 
- Hämta eller ställ in flaggan som anger om kriterierna "övergenomsnittet" och "undergenomsnittet".
- är inklusive själva genomsnittet eller exklusive det värdet.
-sant' indikerar att inkludera medelvärdet i kriterierna.
+ Hämta eller sätt flaggan som anger om kriterierna 'över genomsnittet' och 'under genomsnittet' är uppfyllda
+ inkluderar själva medelvärdet, eller exklusive det värdet.
+'sant' anger att medelvärdet ska inkluderas i kriterierna.
 Standardvärdet är falskt.
 ###  Definition:
 ```python
@@ -24,5 +24,5 @@ def is_equal_average(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [AboveAverage](/cells/python-net/sv/aspose.cells/aboveaverage)
+* modul [`aspose.cells`](../../)
+* klass [`AboveAverage`](/cells/python-net/sv/aspose.cells/aboveaverage)

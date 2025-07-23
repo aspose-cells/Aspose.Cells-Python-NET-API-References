@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  group_name fastighet
 
-Hämtar och ställer in gruppens namn.
+Hämtar och anger gruppens namn.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def group_name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [CheckBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`CheckBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

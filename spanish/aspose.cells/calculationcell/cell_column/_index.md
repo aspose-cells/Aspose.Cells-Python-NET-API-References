@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cell_column propiedad
 
-Obtiene el índice de columna de la celda.
+Obtiene el índice de la columna de la celda.
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def cell_column(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CalculationCell](/cells/python-net/es/aspose.cells/calculationcell)
+* módulo [`aspose.cells`](../../)
+* clase [`CalculationCell`](/cells/python-net/es/aspose.cells/calculationcell)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  area propiedad
 
-Obtiene el [DropBars.area](/cells/python-net/es/aspose.cells.charts/dropbars#area).
+Obtiene el [`DropBars.area`](/cells/python-net/es/aspose.cells.charts/dropbars#area).
 ###  Definición:
 ```python
 @property
@@ -18,6 +18,6 @@ def area(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Area](/cells/python-net/es/aspose.cells.drawing/area)
-* clase [DropBars](/cells/python-net/es/aspose.cells.charts/dropbars)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Area`](/cells/python-net/es/aspose.cells.drawing/area)
+* clase [`DropBars`](/cells/python-net/es/aspose.cells.charts/dropbars)

@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  header_rows_count propiedad
 
-El recuento de filas de encabezado que se repetirán para las hojas extendidas.
+El recuento de filas de encabezado que se repetirán para hojas extendidas.
 
 ###  Observaciones
 
 Las filas de encabezado especificadas por esta propiedad se duplicarán para esas hojas extendidas.
-Esta propiedad solo entra en vigor cuando [`TxtLoadOptions.extend_to_next_sheet`](/cells/python-net/es/aspose.cells/txtloadoptions#extend_to_next_sheet) es verdadero.
+Esta propiedad sólo tiene efecto cuando [`TxtLoadOptions.extend_to_next_sheet`](/cells/python-net/es/aspose.cells/txtloadoptions#extend_to_next_sheet) es verdadero.
 ###  Definición:
 ```python
 @property

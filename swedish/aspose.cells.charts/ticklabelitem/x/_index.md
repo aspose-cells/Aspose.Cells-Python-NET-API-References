@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  x fastighet
 
-X-koordinater för Ticklabel-objekt i förhållande till diagrammets bredd.
+X-koordinater för Ticklabel-objektet i förhållande till diagrammets bredd.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def x(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [TickLabelItem](/cells/python-net/sv/aspose.cells.charts/ticklabelitem)
+* modul [`aspose.cells.charts`](../../)
+* klass [`TickLabelItem`](/cells/python-net/sv/aspose.cells.charts/ticklabelitem)

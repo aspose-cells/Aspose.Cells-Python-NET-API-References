@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  parsing_pivot_cached_records fastighet
 
-Indikerar om tolkar pivotcachade poster när filen laddas.
+Anger om pivot-cachade poster analyseras vid laddning av filen.
 Standardvärdet är falskt.
 
 ###  Anmärkningar
 
-Gäller endast för Excel Xlsx, Xltx, Xltm , Xlsm och xlsb-filer
+Gäller endast för Excel Xlsx, Xltx, Xltm, Xlsm och xlsb-filer
 ###  Definition:
 ```python
 @property
@@ -26,5 +26,5 @@ def parsing_pivot_cached_records(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [JsonLoadOptions](/cells/python-net/sv/aspose.cells/jsonloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`JsonLoadOptions`](/cells/python-net/sv/aspose.cells/jsonloadoptions)

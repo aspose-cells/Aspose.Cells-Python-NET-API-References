@@ -3,16 +3,17 @@ title: método init_pivot_items
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 120
+weight: 180
 url: /es/aspose.cells.pivot/pivotfield/init_pivot_items/
 is_root: false
 ---
-##  init_pivot_items {#}
-Inicie los elementos dinámicos del campo dinámico
+##  init_pivot_items(self) {#}
+Inicializar los elementos pivote del campo pivote
 
 
 
 ```python
+
 def init_pivot_items(self):
     ...
 ```

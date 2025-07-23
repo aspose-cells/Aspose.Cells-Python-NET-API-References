@@ -3,13 +3,13 @@ title: tiff_binarization_method fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 350
+weight: 360
 url: /sv/aspose.cells.rendering/imageorprintoptions/tiff_binarization_method/
 is_root: false
 ---
 ##  tiff_binarization_method fastighet
 
- Hämtar eller ställer in metod som används vid konvertering av bilder till 1 bpp-format
+ Hämtar eller ställer in metoden som används vid konvertering av bilder till 1 bpp-format
 när [`ImageOrPrintOptions.image_type`](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions#image_type) är Tiff och [`ImageOrPrintOptions.tiff_compression`](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions#tiff_compression) är lika med Ccitt3 eller Ccitt4.
 
 ###  Anmärkningar

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text fastighet
 
-Titeln på ett bokmärke.
+Titel på ett bokmärke.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [PdfBookmarkEntry](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`PdfBookmarkEntry`](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry)

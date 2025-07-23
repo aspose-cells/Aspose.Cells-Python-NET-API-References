@@ -9,16 +9,16 @@ is_root: false
 ---
 ##  preserve_padding_spaces propiedad
 
-Indica si se conservan los espacios y saltos de línea que se rellenan entre los tokens de fórmula.
-mientras obtiene y establece fórmulas.
+Indica si se conservan los espacios y saltos de línea que se rellenan entre los tokens de fórmula
+al obtener y configurar fórmulas.
 El valor predeterminado es falso.
 
 ###  Observaciones
 
-Generalmente esos espacios y saltos de línea son solo para fines visuales,
+Generalmente esos espacios y saltos de línea son solo para fines visuales.
 Conservarlos o no no afecta el resultado calculado.
-Para la consideración del rendimiento, si no hay ningún requisito especial,
-es mejor no conservarlos mientras se procesan las fórmulas.
+Para la consideración del desempeño, si no hay ningún requisito especial,
+Es mejor no conservarlos mientras se procesan las fórmulas.
 ###  Definición:
 ```python
 @property

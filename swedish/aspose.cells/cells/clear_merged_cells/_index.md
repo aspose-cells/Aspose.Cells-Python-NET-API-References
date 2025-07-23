@@ -7,12 +7,13 @@ weight: 120
 url: /sv/aspose.cells/cells/clear_merged_cells/
 is_root: false
 ---
-##  clear_merged_cells() {#}
-Rensar alla sammanslagna intervall.
+##  clear_merged_cells(self) {#}
+Rensar alla sammanslagna områden.
 
 
 
 ```python
+
 def clear_merged_cells(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear_merged_cells(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

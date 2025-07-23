@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.tables](../../)
-* klass [TableStyleElement](/cells/python-net/sv/aspose.cells.tables/tablestyleelement)
-* klass [TableStyleElementType](/cells/python-net/sv/aspose.cells.tables/tablestyleelementtype)
+* modul [`aspose.cells.tables`](../../)
+* klass [`TableStyleElement`](/cells/python-net/sv/aspose.cells.tables/tablestyleelement)
+* klass [`TableStyleElementType`](/cells/python-net/sv/aspose.cells.tables/tablestyleelementtype)

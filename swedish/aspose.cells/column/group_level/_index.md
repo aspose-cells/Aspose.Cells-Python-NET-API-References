@@ -9,14 +9,17 @@ is_root: false
 ---
 ##  group_level fastighet
 
-Hämtar gruppnivån för kolumnen.
+Hämtar kolumnens gruppnivå.
 ###  Definition:
 ```python
 @property
 def group_level(self):
     ...
+@group_level.setter
+def group_level(self, value):
+    ...
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Column](/cells/python-net/sv/aspose.cells/column)
+* modul [`aspose.cells`](../../)
+* klass [`Column`](/cells/python-net/sv/aspose.cells/column)

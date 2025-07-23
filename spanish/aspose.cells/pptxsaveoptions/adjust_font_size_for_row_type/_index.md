@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  adjust_font_size_for_row_type propiedad
 
-Representa qué tipo de línea necesita ajustarse al tamaño de fuente si la altura de la fila es pequeña.
+Representa qué tipo de línea necesita ajustar el tamaño de fuente si la altura de la fila es pequeña.
 ###  Definición:
 ```python
 @property

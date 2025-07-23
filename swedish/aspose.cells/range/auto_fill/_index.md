@@ -7,12 +7,13 @@ weight: 40
 url: /sv/aspose.cells/range/auto_fill/
 is_root: false
 ---
-##  auto_fill {#aspose.cells.Range}
-Fyller automatiskt målområdet.
+##  auto_fill(self, target) {#aspose.cells.Range}
+Fyll automatiskt målintervallet.
 
 
 
 ```python
+
 def auto_fill(self, target):
     ...
 ```
@@ -20,7 +21,7 @@ def auto_fill(self, target):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| target | [`Range`](/cells/python-net/sv/aspose.cells/range) | målområdet.|
+| target | [`Range`](/cells/python-net/sv/aspose.cells/range) | målintervallet.|
 
 ###  Exempel
 
@@ -43,12 +44,13 @@ workbook.save("book1.xlsm")
 ```
 
 
-##  auto_fill {#aspose.cells.Range-aspose.cells.AutoFillType}
-Fyller automatiskt målområdet.
+##  auto_fill(self, target, auto_fill_type) {#aspose.cells.Range-aspose.cells.AutoFillType}
+Fyll automatiskt målintervallet.
 
 
 
 ```python
+
 def auto_fill(self, target, auto_fill_type):
     ...
 ```
@@ -57,7 +59,7 @@ def auto_fill(self, target, auto_fill_type):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | target | [`Range`](/cells/python-net/sv/aspose.cells/range) | Det riktade intervallet.|
-| auto_fill_type | [`AutoFillType`](/cells/python-net/sv/aspose.cells/autofilltype) | Den automatiska fyllningstypen.|
+| auto_fill_type | [`AutoFillType`](/cells/python-net/sv/aspose.cells/autofilltype) | Typen för automatisk ifyllning.|
 
 
 

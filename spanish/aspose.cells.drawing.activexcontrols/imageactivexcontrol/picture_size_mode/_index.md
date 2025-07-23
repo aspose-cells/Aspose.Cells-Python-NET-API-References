@@ -21,6 +21,6 @@ def picture_size_mode(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [ControlPictureSizeMode](/cells/python-net/es/aspose.cells.drawing.activexcontrols/controlpicturesizemode)
-* clase [ImageActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`ControlPictureSizeMode`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/controlpicturesizemode)
+* clase [`ImageActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

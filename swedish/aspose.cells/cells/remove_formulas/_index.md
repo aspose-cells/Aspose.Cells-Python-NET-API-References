@@ -3,16 +3,17 @@ title: remove_formulas metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 810
+weight: 830
 url: /sv/aspose.cells/cells/remove_formulas/
 is_root: false
 ---
-##  remove_formulas {#}
+##  remove_formulas(self) {#}
 Tar bort alla formler och ersätter med formelns värde.
 
 
 
 ```python
+
 def remove_formulas(self):
     ...
 ```

@@ -7,12 +7,13 @@ weight: 30
 url: /sv/aspose.cells.webextensions/webextensioncollection/add_web_video_player/
 is_root: false
 ---
-##  add_web_video_player(url, auto_play, start_time, end_time) {#str-bool-int-int}
+##  add_web_video_player(self, url, auto_play, start_time, end_time) {#str-bool-int-int}
 Lägg till en webbvideospelare i exel.
 
 
 
 ```python
+
 def add_web_video_player(self, url, auto_play, start_time, end_time):
     ...
 ```
@@ -21,12 +22,12 @@ def add_web_video_player(self, url, auto_play, start_time, end_time):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | url | str |  |
-| auto_play | bool | Indikerar om videon spelas upp automatiskt.|
+| auto_play | bool | Anger om videon spelas upp automatiskt.|
 | start_time | int | Starttiden i sekunder.|
 | end_time | int | Sluttiden i sekunder.|
 
 
 
 ###  Se även
-* modul [aspose.cells.webextensions](../../)
-* klass [WebExtensionCollection](/cells/python-net/sv/aspose.cells.webextensions/webextensioncollection)
+* modul [`aspose.cells.webextensions`](../../)
+* klass [`WebExtensionCollection`](/cells/python-net/sv/aspose.cells.webextensions/webextensioncollection)

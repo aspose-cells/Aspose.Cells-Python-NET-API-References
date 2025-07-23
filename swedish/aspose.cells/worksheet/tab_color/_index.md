@@ -3,18 +3,18 @@ title: tab_color fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 810
+weight: 830
 url: /sv/aspose.cells/worksheet/tab_color/
 is_root: false
 ---
 ##  tab_color fastighet
 
-Representerar kalkylbladsflikfärg.
+Representerar färgen på kalkylbladets flik.
 
 ###  Anmärkningar
 
- Den här funktionen stöds endast i ExcelXP(Excel2002) och senare versioner.
-Om du sparar filen som Excel97- eller Excel2000-format kommer den att utelämnas.
+Den här funktionen stöds endast i ExcelXP (Excel2002) och senare versioner.
+Om du sparar filen i Excel97- eller Excel2000-format kommer den att utelämnas.
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_numeric_data fastighet
 
-Hämtar eller ställer in ett värde som anger om strängvärdet ska konverteras till numeriskt eller datumvärde.
+Hämtar eller anger ett värde som anger om strängvärdet ska konverteras till ett numeriskt värde eller ett datumvärde.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def convert_numeric_data(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ImportTableOptions](/cells/python-net/sv/aspose.cells/importtableoptions)
+* modul [`aspose.cells`](../../)
+* klass [`ImportTableOptions`](/cells/python-net/sv/aspose.cells/importtableoptions)

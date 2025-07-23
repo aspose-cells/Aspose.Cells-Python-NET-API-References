@@ -3,13 +3,13 @@ title: original_width_inch fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 980
+weight: 1000
 url: /sv/aspose.cells.drawing/picture/original_width_inch/
 is_root: false
 ---
 ##  original_width_inch fastighet
 
-Får bildens ursprungliga bredd, i enhet av tum.
+Hämtar bildens ursprungliga bredd, i tum.
 
 ###  Exempel
 

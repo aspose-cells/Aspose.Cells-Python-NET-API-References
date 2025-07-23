@@ -18,6 +18,6 @@ def bar_border(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [DataBar](/cells/python-net/es/aspose.cells/databar)
-* clase [DataBarBorder](/cells/python-net/es/aspose.cells/databarborder)
+* módulo [`aspose.cells`](../../)
+* clase [`DataBar`](/cells/python-net/es/aspose.cells/databar)
+* clase [`DataBarBorder`](/cells/python-net/es/aspose.cells/databarborder)

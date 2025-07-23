@@ -13,7 +13,7 @@ Obtiene y establece el author del archivo.
 
 ###  Observaciones
 
-No está configurado, verifique primero [BuiltInDocumentPropertyCollection.author](/cells/python-net/es/aspose.cells.properties/builtindocumentpropertycollection#author), luego verifique el usuario de Entorno.
+No está configurado, verifique primero [`BuiltInDocumentPropertyCollection.author`](/cells/python-net/es/aspose.cells.properties/builtindocumentpropertycollection#author), luego verifique el usuario de Entorno.
 ###  Definición:
 ```python
 @property
@@ -25,5 +25,5 @@ def author(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [WorkbookSettings](/cells/python-net/es/aspose.cells/workbooksettings)
+* módulo [`aspose.cells`](../../)
+* clase [`WorkbookSettings`](/cells/python-net/es/aspose.cells/workbooksettings)

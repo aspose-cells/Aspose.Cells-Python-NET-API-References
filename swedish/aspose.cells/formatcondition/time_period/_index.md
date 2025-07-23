@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  time_period fastighet
 
- Den tillämpliga tidsperioden i en "datum inträffar..." villkorlig formateringsregel.
-Gäller endast för typ = timePeriod.
+ Den tillämpliga tidsperioden i en villkorsstyrd formateringsregel för "datum inträffar...".
+Gäller endast för typen = timePeriod.
 Standardvärdet är TimePeriodType.Today.
 ###  Definition:
 ```python
@@ -23,6 +23,6 @@ def time_period(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormatCondition](/cells/python-net/sv/aspose.cells/formatcondition)
-* klass [TimePeriodType](/cells/python-net/sv/aspose.cells/timeperiodtype)
+* modul [`aspose.cells`](../../)
+* klass [`FormatCondition`](/cells/python-net/sv/aspose.cells/formatcondition)
+* klass [`TimePeriodType`](/cells/python-net/sv/aspose.cells/timeperiodtype)

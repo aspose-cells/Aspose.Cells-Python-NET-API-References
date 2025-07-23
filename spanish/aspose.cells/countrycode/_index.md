@@ -3,12 +3,12 @@ title: CountryCode enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1960
+weight: 1870
 url: /es/aspose.cells/countrycode/
 is_root: false
 ---
 ##  CountryCode enumeración
-Representa identificadores de país de Excel.
+Representa los identificadores de país de Excel.
 
 
 
@@ -34,7 +34,7 @@ El tipo CountryCode expone los siguientes miembros:
 | AUSTRIA | Austria|
 | UNITED_KINGDOM | Reino Unido|
 | DENMARK | Dinamarca|
-| SWEDEN | Suecia|
+| SWEDEN |Suecia|
 | NORWAY | Noruega|
 | POLAND | Polonia|
 | GERMANY | Alemania|
@@ -46,12 +46,12 @@ El tipo CountryCode expone los siguientes miembros:
 | JAPAN | Japón|
 | SOUTH_KOREA | Corea del Sur|
 | VIET_NAM | Vietnam|
-| CHINA | República Popular de China|
+| CHINA | República Popular China|
 | TURKEY | Pavo|
 | INDIA | India|
 | ALGERIA | Argelia|
 | MOROCCO | Marruecos|
-| LIBYA |Libia|
+| LIBYA | Libia|
 | PORTUGAL | Portugal|
 | ICELAND | Islandia|
 | FINLAND | Finlandia|

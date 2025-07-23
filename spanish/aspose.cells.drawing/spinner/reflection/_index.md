@@ -3,7 +3,7 @@ title: reflection propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 890
+weight: 900
 url: /es/aspose.cells.drawing/spinner/reflection/
 is_root: false
 ---

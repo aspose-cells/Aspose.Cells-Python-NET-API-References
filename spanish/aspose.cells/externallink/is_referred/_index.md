@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_referred propiedad
 
-Indica si otros hacen referencia a este enlace externo.
+Indica si este enlace externo está referenciado por otros.
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_referred(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ExternalLink](/cells/python-net/es/aspose.cells/externallink)
+* módulo [`aspose.cells`](../../)
+* clase [`ExternalLink`](/cells/python-net/es/aspose.cells/externallink)

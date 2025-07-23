@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  data fastighet
 
-Hämtar eller ställer in XML-innehållet för denna anpassade XML-datalagringsdel.
+Hämtar eller ställer in XML-innehållet i denna anpassade XML-datalagringsdel.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def data(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.markup](../../)
-* klass [CustomXmlPart](/cells/python-net/sv/aspose.cells.markup/customxmlpart)
+* modul [`aspose.cells.markup`](../../)
+* klass [`CustomXmlPart`](/cells/python-net/sv/aspose.cells.markup/customxmlpart)

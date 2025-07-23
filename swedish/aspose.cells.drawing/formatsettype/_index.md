@@ -3,12 +3,12 @@ title: FormatSetType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 840
+weight: 830
 url: /sv/aspose.cells.drawing/formatsettype/
 is_root: false
 ---
 ##  FormatSetType uppräkning
-Uppsättningstyp för fyllningsformat.
+Typ av fyllningsformatuppsättning.
 
 
 
@@ -25,4 +25,4 @@ Typen FormatSetType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

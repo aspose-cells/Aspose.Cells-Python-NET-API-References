@@ -3,16 +3,17 @@ title: merge metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 780
+weight: 800
 url: /sv/aspose.cells/cells/merge/
 is_root: false
 ---
-##  merge {#int-int-int-int}
-Slår samman ett specificerat cellområde till en enda cell.
+##  merge(self, first_row, first_column, total_rows, total_columns) {#int-int-int-int}
+Sammanfogar ett angivet cellområde till en enda cell.
 
 
 
 ```python
+
 def merge(self, first_row, first_column, total_rows, total_columns):
     ...
 ```
@@ -22,19 +23,20 @@ def merge(self, first_row, first_column, total_rows, total_columns):
 | :- | :- | :- |
 | first_row | int | Första raden i detta intervall (nollbaserat)|
 | first_column | int | Första kolumnen i detta intervall (nollbaserat)|
-| total_rows | int | Antal rader (en baserat)|
-| total_columns | int | Antal kolumner (en baserat)|
+| total_rows | int |Antal rader (baserat på en)|
+| total_columns | int | Antal kolumner (baserat på en)|
 ###  Anmärkningar
 
 Referera till den sammanslagna cellen via adressen till den övre vänstra cellen i intervallet.
 
-##  merge {#int-int-int-int-bool}
+##  merge(self, first_row, first_column, total_rows, total_columns, merge_conflict) {#int-int-int-int-bool}
 
-Slår samman ett specificerat cellområde till en enda cell.
+Sammanfogar ett angivet cellområde till en enda cell.
 
 
 
 ```python
+
 def merge(self, first_row, first_column, total_rows, total_columns, merge_conflict):
     ...
 ```
@@ -44,21 +46,22 @@ def merge(self, first_row, first_column, total_rows, total_columns, merge_confli
 | :- | :- | :- |
 | first_row | int | Första raden i detta intervall (nollbaserat)|
 | first_column | int | Första kolumnen i detta intervall (nollbaserat)|
-| total_rows | int | Antal rader (en baserat)|
-| total_columns | int | Antal kolumner (en baserat)|
-| merge_conflict | bool | Slå samman konfliktsammanslagna intervall.|
+| total_rows | int |Antal rader (baserat på en)|
+| total_columns | int | Antal kolumner (baserat på en)|
+| merge_conflict | bool | Sammanslagning konflikterar sammanslagna områden.|
 ###  Anmärkningar
 
 Referera till den sammanslagna cellen via adressen till den övre vänstra cellen i intervallet.
-Om mergeConflict är sant och det sammanslagna området är i konflikt med andra sammanslagna celler,
-andra sammanslagna celler kommer att tas bort automatiskt.
+Om mergeConflict är sant och det sammanslagna området står i konflikt med andra sammanslagna celler,
+Andra sammanslagna celler kommer att tas bort automatiskt.
 
-##  merge {#int-int-int-int-bool-bool}
-Slår samman ett specificerat cellområde till en enda cell.
+##  merge(self, first_row, first_column, total_rows, total_columns, check_conflict, merge_conflict) {#int-int-int-int-bool-bool}
+Sammanfogar ett angivet cellområde till en enda cell.
 
 
 
 ```python
+
 def merge(self, first_row, first_column, total_rows, total_columns, check_conflict, merge_conflict):
     ...
 ```
@@ -68,15 +71,15 @@ def merge(self, first_row, first_column, total_rows, total_columns, check_confli
 | :- | :- | :- |
 | first_row | int | Första raden i detta intervall (nollbaserat)|
 | first_column | int | Första kolumnen i detta intervall (nollbaserat)|
-| total_rows | int | Antal rader (en baserat)|
-| total_columns | int | Antal kolumner (en baserat)|
-| check_conflict | bool | Anger om kontrollera de sammanslagna cellerna skär andra sammanslagna celler|
-| merge_conflict | bool | Slå samman konfliktsammanslagna intervall.|
+| total_rows | int |Antal rader (baserat på en)|
+| total_columns | int | Antal kolumner (baserat på en)|
+| check_conflict | bool | Anger om kontrollen av de sammanslagna cellerna skär över andra sammanslagna celler|
+| merge_conflict | bool | Sammanslagning konflikterar sammanslagna områden.|
 ###  Anmärkningar
 
 Referera till den sammanslagna cellen via adressen till den övre vänstra cellen i intervallet.
-Om mergeConflict är sant och det sammanslagna området är i konflikt med andra sammanslagna celler,
-andra sammanslagna celler kommer att tas bort automatiskt.
+Om mergeConflict är sant och det sammanslagna området står i konflikt med andra sammanslagna celler,
+Andra sammanslagna celler kommer att tas bort automatiskt.
 
 
 ###  Se även

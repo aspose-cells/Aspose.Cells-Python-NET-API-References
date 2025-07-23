@@ -3,13 +3,13 @@ title: hide_pivot_field_list fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 210
+weight: 240
 url: /sv/aspose.cells/workbooksettings/hide_pivot_field_list/
 is_root: false
 ---
 ##  hide_pivot_field_list fastighet
 
-Hämtar och ställer in om fältlistan för pivottabellen ska döljas.
+Hämtar och anger om fältlistan ska döljas för pivottabellen.
 ###  Definition:
 ```python
 @property

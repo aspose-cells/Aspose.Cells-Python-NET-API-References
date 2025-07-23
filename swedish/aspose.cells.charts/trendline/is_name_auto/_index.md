@@ -21,5 +21,5 @@ def is_name_auto(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Trendline](/cells/python-net/sv/aspose.cells.charts/trendline)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Trendline`](/cells/python-net/sv/aspose.cells.charts/trendline)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  hyperlink fastighet
 
-Får formens hyperlink.
+Hämtar hyperlink för formen.
 
 ###  Exempel
 

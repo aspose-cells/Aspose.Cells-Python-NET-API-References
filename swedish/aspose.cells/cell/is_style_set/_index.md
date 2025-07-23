@@ -3,13 +3,13 @@ title: is_style_set fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 640
+weight: 670
 url: /sv/aspose.cells/cell/is_style_set/
 is_root: false
 ---
 ##  is_style_set fastighet
 
-Indikerar om cellens stil är inställd. Om returnera false betyder det att den här cellen har ett standardcellformat.
+Anger om cellens format är angivet. Om returvärdet returneras falskt betyder det att cellen har ett standardcellformat.
 ###  Definition:
 ```python
 @property

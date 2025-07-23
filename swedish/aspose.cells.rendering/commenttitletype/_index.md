@@ -8,7 +8,7 @@ url: /sv/aspose.cells.rendering/commenttitletype/
 is_root: false
 ---
 ##  CommentTitleType uppräkning
-Representerar kommentarstiteltyp vid rendering när kommentaren är inställd på att visas i slutet av arket.
+Representerar kommentarens titeltyp vid rendering när kommentaren är inställd på att visas i slutet av arket.
 
 
 
@@ -18,9 +18,9 @@ Typen CommentTitleType avslöjar följande medlemmar:
 | Fält| Beskrivning|
 | :- | :- |
 | CELL | Representerar kommentarens titelcell.|
-| COMMENT | Representerar kommentarens titelkommentar.|
-| NOTE | Representerar kommentarens rubriknot.|
-| REPLY | Representerar kommentarens rubriksvar.|
+| COMMENT | Representerar kommentarens titel/kommentar.|
+| NOTE | Representerar kommentarens titelanteckning.|
+| REPLY | Representerar kommentarens titel eller svar.|
 
 
 

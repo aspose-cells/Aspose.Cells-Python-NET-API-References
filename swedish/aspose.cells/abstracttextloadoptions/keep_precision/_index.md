@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  keep_precision fastighet
 
-Anger om ett strängvärde inte analyseras om längden är 15.
+Anger om ett strängvärde inte tolkas om längden är 15.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def keep_precision(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [AbstractTextLoadOptions](/cells/python-net/sv/aspose.cells/abstracttextloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`AbstractTextLoadOptions`](/cells/python-net/sv/aspose.cells/abstracttextloadoptions)

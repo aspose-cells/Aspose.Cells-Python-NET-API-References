@@ -3,13 +3,13 @@ title: major_tick_mark fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 290
+weight: 300
 url: /sv/aspose.cells.charts/axis/major_tick_mark/
 is_root: false
 ---
 ##  major_tick_mark fastighet
 
-Representerar typen av större bock för den angivna axeln.
+Representerar typen av större skalstreck för den angivna axeln.
 ###  Definition:
 ```python
 @property

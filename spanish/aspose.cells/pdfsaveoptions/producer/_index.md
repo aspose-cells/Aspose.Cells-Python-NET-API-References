@@ -3,13 +3,13 @@ title: producer propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 360
+weight: 410
 url: /es/aspose.cells/pdfsaveoptions/producer/
 is_root: false
 ---
 ##  producer propiedad
 
-Obtiene y establece producer del documento pdf generado.
+Obtiene y establece producer del documento PDF generado.
 
 ###  Observaciones
 
@@ -25,5 +25,5 @@ def producer(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PdfSaveOptions](/cells/python-net/es/aspose.cells/pdfsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`PdfSaveOptions`](/cells/python-net/es/aspose.cells/pdfsaveoptions)

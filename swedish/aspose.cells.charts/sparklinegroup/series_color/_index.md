@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  series_color fastighet
 
-Får och ställer in färgen på sparklines i sparklinegruppen.
+Hämtar och anger färgen på miniatyrdiagrammen i miniatyrdiagramgruppen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def series_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [CellsColor](/cells/python-net/sv/aspose.cells/cellscolor)
-* klass [SparklineGroup](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)
+* modul [`aspose.cells.charts`](../../)
+* klass [`CellsColor`](/cells/python-net/sv/aspose.cells/cellscolor)
+* klass [`SparklineGroup`](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_numeric_data propiedad
 
-Obtiene o establece un valor que indica si la cadena del archivo de texto se convierte en datos numéricos.
+Obtiene o establece un valor que indica si la cadena en el archivo de texto se convierte en datos numéricos.
 ###  Definición:
 ```python
 @property

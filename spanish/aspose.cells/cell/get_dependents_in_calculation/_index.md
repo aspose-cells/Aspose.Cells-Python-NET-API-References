@@ -1,5 +1,5 @@
 ---
-title: get_dependents_in_calculation método
+title: método get_dependents_in_calculation
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 100
 url: /es/aspose.cells/cell/get_dependents_in_calculation/
 is_root: false
 ---
-##  get_dependents_in_calculation(recursive) {#bool}
+##  get_dependents_in_calculation(self, recursive) {#bool}
 Obtiene todas las celdas cuyo resultado calculado depende de esta celda.
 
 
 ###  Devoluciones
 
-Enumerador para enumerar todos los dependientes (objetos Cell)
+Enumerador para enumerar todos los dependientes (Cell objetos)
 
 
 ```python
+
 def get_dependents_in_calculation(self, recursive):
     ...
 ```
@@ -27,9 +28,9 @@ def get_dependents_in_calculation(self, recursive):
 | recursive | bool | Si devuelve aquellos dependientes que no hacen referencia a esta celda directamente<br/> pero referencia a otras hojas de esta celda|
 ###  Observaciones
 
-Para usar este método, asegúrese de que el libro de trabajo se haya configurado con el valor verdadero para
-[FormulaSettings.enable_calculation_chain](/cells/python-net/es/aspose.cells/formulasettings#enable_calculation_chain) y se ha calculado completamente con esta configuración.
-Si no hay una referencia de fórmula a esta celda, se devolverá un valor nulo.
+Para utilizar este método, asegúrese de que el libro de trabajo se haya configurado con el valor verdadero para
+[`FormulaSettings.enable_calculation_chain`](/cells/python-net/es/aspose.cells/formulasettings#enable_calculation_chain) y se ha calculado completamente con esta configuración.
+Si no hay ninguna referencia de fórmula a esta celda, se devolverá nulo.
 ###  Ejemplo
 
 ```python
@@ -55,5 +56,5 @@ for c in en:
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Cell](/cells/python-net/es/aspose.cells/cell)
+* módulo [`aspose.cells`](../../)
+* clase [`Cell`](/cells/python-net/es/aspose.cells/cell)

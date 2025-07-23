@@ -3,13 +3,13 @@ title: over_lay propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 270
+weight: 330
 url: /es/aspose.cells.charts/title/over_lay/
 is_root: false
 ---
 ##  over_lay propiedad
 
-Representa el título centrado superpuesto en el gráfico sin cambiar el tamaño del gráfico.
+Representa un título centrado superpuesto en el gráfico sin cambiar el tamaño del gráfico.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def over_lay(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Title](/cells/python-net/es/aspose.cells.charts/title)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Title`](/cells/python-net/es/aspose.cells.charts/title)

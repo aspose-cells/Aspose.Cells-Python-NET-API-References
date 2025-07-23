@@ -3,13 +3,13 @@ title: width fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1200
+weight: 1210
 url: /sv/aspose.cells.drawing/checkbox/width/
 is_root: false
 ---
 ##  width fastighet
 
-Representerar formens width, i pixelenhet.
+Representerar formen width, i pixlar.
 
 ###  Exempel
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name fastighet
 
-Hämtar objektets name.
+Hämtar name för artikeln.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def name(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.querytables](../../)
-* klass [PowerQueryFormulaItem](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaitem)
+* modul [`aspose.cells.querytables`](../../)
+* klass [`PowerQueryFormulaItem`](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulaitem)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  interval fastighet
 
-Får det interna i gruppen.
+Hämtar gruppens interna element.
 ###  Definition:
 ```python
 @property

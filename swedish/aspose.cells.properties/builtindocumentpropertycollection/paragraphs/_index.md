@@ -3,7 +3,7 @@ title: paragraphs fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 330
+weight: 340
 url: /sv/aspose.cells.properties/builtindocumentpropertycollection/paragraphs/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def paragraphs(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.properties](../../)
-* klass [BuiltInDocumentPropertyCollection](/cells/python-net/sv/aspose.cells.properties/builtindocumentpropertycollection)
+* modul [`aspose.cells.properties`](../../)
+* klass [`BuiltInDocumentPropertyCollection`](/cells/python-net/sv/aspose.cells.properties/builtindocumentpropertycollection)

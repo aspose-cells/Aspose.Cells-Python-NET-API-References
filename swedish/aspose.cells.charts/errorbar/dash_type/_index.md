@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  dash_type fastighet
 
-Anger typen av strecklinje
+Anger typen av streckad linje
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def dash_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ErrorBar](/cells/python-net/sv/aspose.cells.charts/errorbar)
-* klass [MsoLineDashStyle](/cells/python-net/sv/aspose.cells.drawing/msolinedashstyle)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ErrorBar`](/cells/python-net/sv/aspose.cells.charts/errorbar)
+* klass [`MsoLineDashStyle`](/cells/python-net/sv/aspose.cells.drawing/msolinedashstyle)

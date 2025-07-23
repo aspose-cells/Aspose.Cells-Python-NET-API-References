@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  category_type propiedad
 
-Representa el tipo de eje de categorías.
+Representa el tipo de eje de categoría.
 ###  Definición:
 ```python
 @property

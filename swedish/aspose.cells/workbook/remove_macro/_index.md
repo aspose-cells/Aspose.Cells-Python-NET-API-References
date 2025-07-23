@@ -3,16 +3,17 @@ title: remove_macro metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 300
+weight: 320
 url: /sv/aspose.cells/workbook/remove_macro/
 is_root: false
 ---
-##  remove_macro() {#}
+##  remove_macro(self) {#}
 Tar bort VBA/makro från detta kalkylblad.
 
 
 
 ```python
+
 def remove_macro(self):
     ...
 ```
@@ -22,5 +23,5 @@ def remove_macro(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Workbook](/cells/python-net/sv/aspose.cells/workbook)
+* modul [`aspose.cells`](../../)
+* klass [`Workbook`](/cells/python-net/sv/aspose.cells/workbook)

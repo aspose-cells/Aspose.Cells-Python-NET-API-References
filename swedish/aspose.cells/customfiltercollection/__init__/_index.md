@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells/customfiltercollection/__init__/
 is_root: false
 ---
-##  __i det__ {#}
+##  \_\_init\_\_(själv){#}
 Konstruerar en ny instans.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

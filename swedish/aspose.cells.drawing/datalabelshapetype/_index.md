@@ -3,7 +3,7 @@ title: DataLabelShapeType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 800
+weight: 790
 url: /sv/aspose.cells.drawing/datalabelshapetype/
 is_root: false
 ---
@@ -20,20 +20,20 @@ Typen DataLabelShapeType avslöjar följande medlemmar:
 | RECT | Representerar rektangelformen.|
 | ROUND_RECT | Representerar den runda rektangelformen.|
 | ELLIPSE | Representerar ellipsformen.|
-| RIGHT_ARROW_CALLOUT | Representerar bildtextformen för högerpilen.|
-| DOWN_ARROW_CALLOUT | Representerar bildtextformen med nedåtpilen.|
-| LEFT_ARROW_CALLOUT | Representerar bildtextformen för vänsterpilen.|
-| UP_ARROW_CALLOUT | Representerar bildtextformen med uppåtpilen.|
-| WEDGE_RECT_CALLOUT | Representerar bildtextformen för kilrektangeln.|
-| WEDGE_ROUND_RECT_CALLOUT | Representerar den kilformade rektangelformen.|
-| WEDGE_ELLIPSE_CALLOUT | Representerar kilellipsens bildtextform.|
-| LINE_CALLOUT | Representerar linjetextformen.|
-| BENT_LINE_CALLOUT | Representerar den böjda linjetextformen.|
-| LINE_WITH_ACCENT_BAR_CALLOUT |Representerar linjen med accentstapelns bildtextform.|
-| BENT_LINE_WITH_ACCENT_BAR_CALLOUT | Representerar den böjda linjen med accentstapelförklaringsform.|
-| LINE | Denna typ används endast för speciell filbehandling|
+| RIGHT_ARROW_CALLOUT | Representerar högerpilens bildtextform.|
+| DOWN_ARROW_CALLOUT | Representerar nedåtpilens bildtextform.|
+| LEFT_ARROW_CALLOUT | Representerar vänsterpilens bildtextform.|
+| UP_ARROW_CALLOUT | Representerar uppåtpilens bildtextform.|
+| WEDGE_RECT_CALLOUT | Representerar kilrektangelns bildtextform.|
+| WEDGE_ROUND_RECT_CALLOUT | Representerar den runda rektangelformen för kil.|
+| WEDGE_ELLIPSE_CALLOUT | Representerar kil-ellipsens bildtextform.|
+| LINE_CALLOUT | Representerar linjens bildtextform.|
+| BENT_LINE_CALLOUT | Representerar den böjda linjens bildtextform.|
+| LINE_WITH_ACCENT_BAR_CALLOUT | Representerar linjen med accentfältets bildtextform.|
+| BENT_LINE_WITH_ACCENT_BAR_CALLOUT | Representerar den böjda linjen med accentfältets bildtextform.|
+| LINE | Den här typen används endast för specialfilbehandling|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type propiedad
 
-Obtiene o establece el relleno de imagen type.
+Obtiene o establece el relleno de la imagen type.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [FillPictureType](/cells/python-net/es/aspose.cells.drawing/fillpicturetype)
-* clase [PicFormatOption](/cells/python-net/es/aspose.cells.drawing/picformatoption)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`FillPictureType`](/cells/python-net/es/aspose.cells.drawing/fillpicturetype)
+* clase [`PicFormatOption`](/cells/python-net/es/aspose.cells.drawing/picformatoption)

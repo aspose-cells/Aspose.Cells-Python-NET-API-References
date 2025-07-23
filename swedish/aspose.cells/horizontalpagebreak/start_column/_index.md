@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  start_column fastighet
 
-Hämtar startkolumnindex för denna horisontella sidbrytning.
+Hämtar startkolumnindexet för denna horisontella sidbrytning.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def start_column(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HorizontalPageBreak](/cells/python-net/sv/aspose.cells/horizontalpagebreak)
+* modul [`aspose.cells`](../../)
+* klass [`HorizontalPageBreak`](/cells/python-net/sv/aspose.cells/horizontalpagebreak)

@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  split_type propiedad
 
-Devuelve o establece un valor que determina qué puntos de datos se encuentran en el segundo gráfico circular o barra en un gráfico circular o barra de
-Gráfico circular.
+Devuelve o establece un valor que permite determinar qué puntos de datos se encuentran en el segundo gráfico circular o barra de un gráfico circular o barra de
+gráfico circular.
 ###  Definición:
 ```python
 @property
@@ -22,6 +22,6 @@ def split_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [ChartSplitType](/cells/python-net/es/aspose.cells.charts/chartsplittype)
-* clase [Series](/cells/python-net/es/aspose.cells.charts/series)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`ChartSplitType`](/cells/python-net/es/aspose.cells.charts/chartsplittype)
+* clase [`Series`](/cells/python-net/es/aspose.cells.charts/series)

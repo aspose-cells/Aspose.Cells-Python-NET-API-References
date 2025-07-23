@@ -7,16 +7,17 @@ weight: 200
 url: /sv/aspose.cells/globalizationsettings/get_standard_function_name/
 is_root: false
 ---
-##  get_standard_function_name {#str}
-Hämtar standardfunktionsnamnet enligt ett visst språkberoende funktionsnamn.
+##  get_standard_function_name(self, local_name) {#str}
+Hämtar standardfunktionsnamnet enligt det angivna språkberoende funktionsnamnet.
 
 
 ###  Returnerar
 
-Standard(en-US locale) funktionsnamn.
+Standardfunktionsnamn (en-US locale).
 
 
 ```python
+
 def get_standard_function_name(self, local_name):
     ...
 ```
@@ -24,7 +25,7 @@ def get_standard_function_name(self, local_name):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| local_name | str | Platsberoende funktionsnamn. Lokalen specificerades av arbetsboken för vilken de här inställningarna används.|
+| local_name | str | Språkberoende funktionsnamn. Språkinställningen angavs av arbetsboken för vilken dessa inställningar används.|
 
 
 

@@ -21,5 +21,5 @@ def fore_transparency(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [PatternFill](/cells/python-net/sv/aspose.cells.drawing/patternfill)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`PatternFill`](/cells/python-net/sv/aspose.cells.drawing/patternfill)

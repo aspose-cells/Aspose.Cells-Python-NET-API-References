@@ -3,7 +3,7 @@ title: ControlBorderType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 160
+weight: 140
 url: /es/aspose.cells.drawing.activexcontrols/controlbordertype/
 is_root: false
 ---
@@ -17,10 +17,10 @@ El tipo ControlBorderType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| NONE | Sin bordes.|
+| NONE | Sin fronteras.|
 | SINGLE | La línea única.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](..)
+* módulo [`aspose.cells.drawing.activexcontrols`](..)

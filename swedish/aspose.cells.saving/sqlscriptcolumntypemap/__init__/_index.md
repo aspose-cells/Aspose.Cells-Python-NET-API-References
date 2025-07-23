@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells.saving/sqlscriptcolumntypemap/__init__/
 is_root: false
 ---
-##  SqlScriptColumnTypeMap() {#}
+##  \_\_init\_\_(själv){#}
 Konstruerar en ny instans av SqlScriptColumnTypeMap
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells.saving](../../)
-* klass [SqlScriptColumnTypeMap](/cells/python-net/sv/aspose.cells.saving/sqlscriptcolumntypemap)
+* modul [`aspose.cells.saving`](../../)
+* klass [`SqlScriptColumnTypeMap`](/cells/python-net/sv/aspose.cells.saving/sqlscriptcolumntypemap)

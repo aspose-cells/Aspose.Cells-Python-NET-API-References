@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  sub_entry fastighet
 
-Underpost till ett bokmärke.
+Delpost till ett bokmärke.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def sub_entry(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [PdfBookmarkEntry](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`PdfBookmarkEntry`](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry)

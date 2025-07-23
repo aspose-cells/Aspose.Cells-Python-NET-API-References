@@ -3,7 +3,7 @@ title: SqlScriptOperatorType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 40
+weight: 50
 url: /es/aspose.cells.saving/sqlscriptoperatortype/
 is_root: false
 ---
@@ -19,7 +19,7 @@ El tipo SqlScriptOperatorType expone los siguientes miembros:
 | :- | :- |
 | INSERT | Insertar datos.|
 | UPDATE | Actualizar datos.|
-| DELETE | Borrar datos.|
+| DELETE | Eliminar datos.|
 
 
 

@@ -3,13 +3,13 @@ title: rows fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1230
+weight: 1260
 url: /sv/aspose.cells/cells/rows/
 is_root: false
 ---
 ##  rows fastighet
 
-Hämtar samlingen av [`Row`](/cells/python-net/sv/aspose.cells/row) objekt som representerar individen rows i detta kalkylblad.
+Hämtar samlingen av [`Row`](/cells/python-net/sv/aspose.cells/row)-objekt som representerar den individuella rows i detta kalkylblad.
 ###  Definition:
 ```python
 @property

@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.properties](../../)
-* clase [CustomProperty](/cells/python-net/es/aspose.cells.properties/customproperty)
+* módulo [`aspose.cells.properties`](../../)
+* clase [`CustomProperty`](/cells/python-net/es/aspose.cells.properties/customproperty)

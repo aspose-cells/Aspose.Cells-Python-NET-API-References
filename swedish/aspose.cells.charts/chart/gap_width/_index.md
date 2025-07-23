@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  gap_width fastighet
 
-Returnerar eller ställer in utrymmet mellan stapel- eller kolumnkluster, som en procentandel av stapelns eller kolumnbredden.
-Värdet på den här egenskapen måste vara mellan 0 och 500.
+Returnerar eller anger avståndet mellan stapel- eller kolumnkluster, som en procentandel av stapel- eller kolumnbredden.
+Värdet på denna egenskap måste vara mellan 0 och 500.
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  footer_margin_inch fastighet
 
-Representerar avståndet från botten av sidan till sidfoten, i enhet av tum.
+Representerar avståndet från sidans nederkant till sidfoten, i tum.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def footer_margin_inch(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

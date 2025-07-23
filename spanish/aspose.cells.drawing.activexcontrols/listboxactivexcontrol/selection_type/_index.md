@@ -21,6 +21,6 @@ def selection_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [ListBoxActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
-* clase [SelectionType](/cells/python-net/es/aspose.cells.drawing/selectiontype)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`ListBoxActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* clase [`SelectionType`](/cells/python-net/es/aspose.cells.drawing/selectiontype)

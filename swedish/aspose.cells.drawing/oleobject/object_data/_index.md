@@ -3,13 +3,13 @@ title: object_data fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 960
+weight: 970
 url: /sv/aspose.cells.drawing/oleobject/object_data/
 is_root: false
 ---
 ##  object_data fastighet
 
-Representerar inbäddade ole-objektdata som byte-array.
+Representerar inbäddade ole-objektdata som en byte-array.
 ###  Definition:
 ```python
 @property

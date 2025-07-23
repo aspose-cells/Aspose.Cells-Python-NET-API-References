@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells.utility/jsonlayoutoptions/__init__/
 is_root: false
 ---
-##  JsonLayoutOptions() {#}
-Construye una nueva instancia de JsonLayoutOptions
+##  \_\_init\_\_(yo mismo){#}
+Constructor de opciones de diseño de carga JSON.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ver también
-* módulo [aspose.cells.utility](../../)
-* clase [JsonLayoutOptions](/cells/python-net/es/aspose.cells.utility/jsonlayoutoptions)
+* módulo [`aspose.cells.utility`](../../)
+* clase [`JsonLayoutOptions`](/cells/python-net/es/aspose.cells.utility/jsonlayoutoptions)

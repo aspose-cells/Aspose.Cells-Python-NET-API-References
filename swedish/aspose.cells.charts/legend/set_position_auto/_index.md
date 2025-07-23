@@ -7,12 +7,13 @@ weight: 40
 url: /sv/aspose.cells.charts/legend/set_position_auto/
 is_root: false
 ---
-##  set_position_auto {#}
+##  set_position_auto(self) {#}
 Ställ in ramens position på automatisk
 
 
 
 ```python
+
 def set_position_auto(self):
     ...
 ```

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  update_empty_string_as_null fastighet
 
-Om TRUE, kommer Null att infogas om värdet är "";
+Om SANT, infogas Null om värdet är "";
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_high_point fastighet
 
-Indikerar om de högsta punkterna med data i sparklinegruppen ska markeras.
+Anger om de högsta datapunkterna i miniatyrdiagramgruppen ska markeras.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_high_point(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [SparklineGroup](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)
+* modul [`aspose.cells.charts`](../../)
+* klass [`SparklineGroup`](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)

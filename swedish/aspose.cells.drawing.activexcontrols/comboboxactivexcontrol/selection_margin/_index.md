@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  selection_margin fastighet
 
-Anger om användaren kan välja en textrad genom att klicka i området till vänster om texten.
+Anger om användaren kan markera en textrad genom att klicka i området till vänster om texten.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def selection_margin(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ComboBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ComboBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

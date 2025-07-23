@@ -21,6 +21,6 @@ def list_style(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [ComboBoxActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
-* clase [ControlListStyle](/cells/python-net/es/aspose.cells.drawing.activexcontrols/controlliststyle)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`ComboBoxActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* clase [`ControlListStyle`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/controlliststyle)

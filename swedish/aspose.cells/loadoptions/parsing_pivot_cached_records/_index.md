@@ -3,18 +3,18 @@ title: parsing_pivot_cached_records fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 190
+weight: 180
 url: /sv/aspose.cells/loadoptions/parsing_pivot_cached_records/
 is_root: false
 ---
 ##  parsing_pivot_cached_records fastighet
 
-Indikerar om tolkar pivotcachade poster när filen laddas.
+Anger om pivot-cachade poster analyseras vid laddning av filen.
 Standardvärdet är falskt.
 
 ###  Anmärkningar
 
-Gäller endast för Excel Xlsx, Xltx, Xltm , Xlsm och xlsb-filer
+Gäller endast för Excel Xlsx, Xltx, Xltm, Xlsm och xlsb-filer
 ###  Definition:
 ```python
 @property
@@ -26,5 +26,5 @@ def parsing_pivot_cached_records(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [LoadOptions](/cells/python-net/sv/aspose.cells/loadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`LoadOptions`](/cells/python-net/sv/aspose.cells/loadoptions)

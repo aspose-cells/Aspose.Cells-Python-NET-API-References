@@ -8,7 +8,7 @@ url: /sv/aspose.cells.json/jsonexporthyperlinktype/
 is_root: false
 ---
 ##  JsonExportHyperlinkType uppräkning
-Representerar typ av export av hyperlänkar till json.
+Representerar typen av export av hyperlänkar till json.
 
 
 
@@ -17,11 +17,11 @@ Typen JsonExportHyperlinkType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| DISPLAY_STRING | Exportera displaysträng|
-| ADDRESS | Exportera webbadress|
+| DISPLAY_STRING | Exportera visningssträng|
+| ADDRESS | Exportera URL|
 | HTML_STRING | Exportera som html-sträng.|
 
 
 
 ###  Se även
-* modul [aspose.cells.json](..)
+* modul [`aspose.cells.json`](..)

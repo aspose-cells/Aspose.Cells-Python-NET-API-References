@@ -3,13 +3,13 @@ title: show_bubble_size fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 380
+weight: 450
 url: /sv/aspose.cells.charts/datalabels/show_bubble_size/
 is_root: false
 ---
 ##  show_bubble_size fastighet
 
-Representerar ett angivet diagrams dataetiketts procentuella visningsbeteende. True visar procentvärdet. Falskt att dölja.
+Representerar visningsbeteendet för procentvärden för dataetiketter i ett angivet diagram. Sant visar procentvärdet. Falskt för att dölja.
 ###  Definition:
 ```python
 @property

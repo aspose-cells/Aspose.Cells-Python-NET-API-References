@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_nillable fastighet
 
-Indikerar om värdet kan vara tomt.
+Anger om värdet kan vara tomt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_nillable(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.properties](../../)
-* klass [ContentTypeProperty](/cells/python-net/sv/aspose.cells.properties/contenttypeproperty)
+* modul [`aspose.cells.properties`](../../)
+* klass [`ContentTypeProperty`](/cells/python-net/sv/aspose.cells.properties/contenttypeproperty)

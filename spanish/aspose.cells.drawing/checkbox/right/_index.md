@@ -3,7 +3,7 @@ title: right propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 880
+weight: 890
 url: /es/aspose.cells.drawing/checkbox/right/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: end_angle fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 200
+weight: 210
 url: /sv/aspose.cells.charts/chartpoint/end_angle/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def end_angle(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ChartPoint](/cells/python-net/sv/aspose.cells.charts/chartpoint)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ChartPoint`](/cells/python-net/sv/aspose.cells.charts/chartpoint)

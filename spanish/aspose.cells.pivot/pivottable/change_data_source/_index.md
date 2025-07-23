@@ -1,5 +1,5 @@
 ---
-title: change_data_source método
+title: método change_data_source
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,13 +7,13 @@ weight: 60
 url: /es/aspose.cells.pivot/pivottable/change_data_source/
 is_root: false
 ---
-##  change_data_source(source) {#list}
-Establezca los datos de origen de la tabla dinámica.
-Hoja1!$A$1:$C$3
+##  change_data_source(self, source) {#list}
+Establecer los datos de origen de la tabla dinámica.
 
 
 
 ```python
+
 def change_data_source(self, source):
     ...
 ```
@@ -26,5 +26,5 @@ def change_data_source(self, source):
 
 
 ###  Ver también
-* módulo [aspose.cells.pivot](../../)
-* clase [PivotTable](/cells/python-net/es/aspose.cells.pivot/pivottable)
+* módulo [`aspose.cells.pivot`](../../)
+* clase [`PivotTable`](/cells/python-net/es/aspose.cells.pivot/pivottable)

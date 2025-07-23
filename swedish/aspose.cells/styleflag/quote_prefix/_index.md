@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  quote_prefix fastighet
 
-Dölj formelinställning kommer att tillämpas.
+Inställningen för att dölja formeln kommer att tillämpas.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def quote_prefix(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [StyleFlag](/cells/python-net/sv/aspose.cells/styleflag)
+* modul [`aspose.cells`](../../)
+* klass [`StyleFlag`](/cells/python-net/sv/aspose.cells/styleflag)

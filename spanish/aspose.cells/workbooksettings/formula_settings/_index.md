@@ -3,13 +3,13 @@ title: formula_settings propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 190
+weight: 220
 url: /es/aspose.cells/workbooksettings/formula_settings/
 is_root: false
 ---
 ##  formula_settings propiedad
 
-Obtiene la configuración de las características relacionadas con fórmulas.
+Obtiene la configuración para las funciones relacionadas con la fórmula.
 ###  Definición:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  left_margin_pt fastighet
 
-Returnerar den vänstra marginalen i poängenhet
+Returnerar vänstermarginalen i enheten poäng
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def left_margin_pt(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [MsoTextFrame](/cells/python-net/sv/aspose.cells.drawing/msotextframe)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`MsoTextFrame`](/cells/python-net/sv/aspose.cells.drawing/msotextframe)

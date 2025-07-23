@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_auto_split propiedad
 
-Indica si el valor del umbral es automático.
+Indica si el valor umbral es automático.
 ###  Definición:
 ```python
 @property

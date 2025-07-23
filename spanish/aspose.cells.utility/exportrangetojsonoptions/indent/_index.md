@@ -13,7 +13,7 @@ Indica el indent.
 
 ###  Observaciones
 
-Si el indent es nulo o está vacío, el json exportado no tiene formato.
+Si indent es nulo o está vacío, el json exportado no está formateado.
 ###  Definición:
 ```python
 @property
@@ -25,5 +25,5 @@ def indent(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.utility](../../)
-* clase [ExportRangeToJsonOptions](/cells/python-net/es/aspose.cells.utility/exportrangetojsonoptions)
+* módulo [`aspose.cells.utility`](../../)
+* clase [`ExportRangeToJsonOptions`](/cells/python-net/es/aspose.cells.utility/exportrangetojsonoptions)

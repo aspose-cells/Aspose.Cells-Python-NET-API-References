@@ -3,13 +3,13 @@ title: min fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 840
+weight: 850
 url: /sv/aspose.cells.drawing/scrollbar/min/
 is_root: false
 ---
 ##  min fastighet
 
-Hämtar eller ställer in minimivärdet för en rullningslist eller spinnerintervall.
+Hämtar eller ställer in minimivärdet för en rullningslist eller ett rotationsintervall.
 ###  Definition:
 ```python
 @property

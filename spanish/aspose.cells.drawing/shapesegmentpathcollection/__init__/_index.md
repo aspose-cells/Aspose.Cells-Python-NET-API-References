@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells.drawing/shapesegmentpathcollection/__init__/
 is_root: false
 ---
-##  ShapeSegmentPathCollection() {#}
+##  \_\_init\_\_(yo mismo){#}
 Construye una nueva instancia de ShapeSegmentPathCollection
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ShapeSegmentPathCollection](/cells/python-net/es/aspose.cells.drawing/shapesegmentpathcollection)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ShapeSegmentPathCollection`](/cells/python-net/es/aspose.cells.drawing/shapesegmentpathcollection)

@@ -8,8 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/linked_cell
 is_root: false
 ---
 ##  linked_cell fastighet
-
-Hämtar och ställer in den länkade cellen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def linked_cell(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ComboBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ComboBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

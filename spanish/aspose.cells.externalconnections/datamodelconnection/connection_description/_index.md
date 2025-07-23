@@ -3,13 +3,11 @@ title: connection_description propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 40
+weight: 70
 url: /es/aspose.cells.externalconnections/datamodelconnection/connection_description/
 is_root: false
 ---
 ##  connection_description propiedad
-
-Especifica la descripción del usuario para esta conexión.
 ###  Definición:
 ```python
 @property
@@ -21,5 +19,5 @@ def connection_description(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.externalconnections](../../)
-* clase [DataModelConnection](/cells/python-net/es/aspose.cells.externalconnections/datamodelconnection)
+* módulo [`aspose.cells.externalconnections`](../../)
+* clase [`DataModelConnection`](/cells/python-net/es/aspose.cells.externalconnections/datamodelconnection)

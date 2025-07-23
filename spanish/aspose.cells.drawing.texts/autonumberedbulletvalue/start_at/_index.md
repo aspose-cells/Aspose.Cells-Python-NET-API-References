@@ -21,5 +21,5 @@ def start_at(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](../../)
-* clase [AutoNumberedBulletValue](/cells/python-net/es/aspose.cells.drawing.texts/autonumberedbulletvalue)
+* módulo [`aspose.cells.drawing.texts`](../../)
+* clase [`AutoNumberedBulletValue`](/cells/python-net/es/aspose.cells.drawing.texts/autonumberedbulletvalue)

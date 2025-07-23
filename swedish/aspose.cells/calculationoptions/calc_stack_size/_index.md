@@ -13,12 +13,12 @@ Stackstorleken för att beräkna celler rekursivt. Standardvärdet är 200.
 
 ###  Anmärkningar
 
-När det finns stora mängder celler måste beräknas rekursivt i beroendeträdet,
+När det finns ett stort antal celler som behöver beräknas rekursivt i beroendeträdet,
 StackOverflowException kan orsakas i beräkningsprocessen.
 Om så är fallet bör användaren ange ett mindre värde för den här egenskapen.
-För en sådan situation bör användaren bestämma rätt värde för den här egenskapen enligt de faktiska formlerna och data.
-Ett för lågt värde kan dock orsaka prestandaförsämring för formelberäkningen och värde mindre än 2
-kommer att göra det omöjligt att beräkna formel som beror på en annan. Så om det angivna värdet är mindre än 2,
+I en sådan situation bör användaren bestämma rätt värde för denna egenskap enligt faktiska formler och data.
+Emellertid kan ett för litet värde orsaka prestandaförsämring för formelberäkningen och ett värde under 2.
+kommer att göra det omöjligt att beräkna formeln som är beroende av en annan. Så om det angivna värdet är mindre än 2,
 den kommer att återställas till 2.
 ###  Definition:
 ```python

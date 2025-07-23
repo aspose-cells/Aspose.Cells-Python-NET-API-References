@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  max_length propiedad
 
-Obtiene y establece el número máximo de caracteres
+Obtiene y establece el número máximo de caracteres.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def max_length(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [TextBoxActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`TextBoxActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

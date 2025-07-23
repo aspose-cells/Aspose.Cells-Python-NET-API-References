@@ -3,14 +3,14 @@ title: attached_files_directory fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 40
+weight: 50
 url: /sv/aspose.cells.saving/ebooksaveoptions/attached_files_directory/
 is_root: false
 ---
 ##  attached_files_directory fastighet
 
-Mappen som de bifogade filerna kommer att sparas i.
-Endast för att spara till html-ström.
+Katalogen där de bifogade filerna kommer att sparas.
+Endast för att spara till html-strömmen.
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  match_entry propiedad
 
-Indica cómo un ListBox o ComboBox busca en su lista a medida que el usuario escribe.
+Indica cómo un ListBox o ComboBox busca su lista a medida que el usuario escribe.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def match_entry(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [ComboBoxActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
-* clase [ControlMatchEntryType](/cells/python-net/es/aspose.cells.drawing.activexcontrols/controlmatchentrytype)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`ComboBoxActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* clase [`ControlMatchEntryType`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/controlmatchentrytype)

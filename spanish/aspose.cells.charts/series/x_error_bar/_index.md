@@ -18,6 +18,6 @@ def x_error_bar(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [ErrorBar](/cells/python-net/es/aspose.cells.charts/errorbar)
-* clase [Series](/cells/python-net/es/aspose.cells.charts/series)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`ErrorBar`](/cells/python-net/es/aspose.cells.charts/errorbar)
+* clase [`Series`](/cells/python-net/es/aspose.cells.charts/series)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  legend_entry fastighet
 
-Får legendposten enligt denna serie.
+Hämtar förklaringsposten enligt denna serie.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def legend_entry(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [LegendEntry](/cells/python-net/sv/aspose.cells.charts/legendentry)
-* klass [Series](/cells/python-net/sv/aspose.cells.charts/series)
+* modul [`aspose.cells.charts`](../../)
+* klass [`LegendEntry`](/cells/python-net/sv/aspose.cells.charts/legendentry)
+* klass [`Series`](/cells/python-net/sv/aspose.cells.charts/series)

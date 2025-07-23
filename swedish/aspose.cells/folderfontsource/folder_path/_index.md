@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  folder_path fastighet
 
-Sökväg till mappen typsnitt.
+Sökväg till teckensnittsmappen.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def folder_path(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FolderFontSource](/cells/python-net/sv/aspose.cells/folderfontsource)
+* modul [`aspose.cells`](../../)
+* klass [`FolderFontSource`](/cells/python-net/sv/aspose.cells/folderfontsource)

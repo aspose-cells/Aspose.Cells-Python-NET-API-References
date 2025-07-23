@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color propiedad
 
-Representa el Color de la línea.
+Representa el color de la linea.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Line](/cells/python-net/es/aspose.cells.drawing/line)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Line`](/cells/python-net/es/aspose.cells.drawing/line)

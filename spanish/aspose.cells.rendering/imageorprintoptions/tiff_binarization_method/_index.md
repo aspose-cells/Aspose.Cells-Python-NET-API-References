@@ -3,13 +3,13 @@ title: tiff_binarization_method propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 350
+weight: 360
 url: /es/aspose.cells.rendering/imageorprintoptions/tiff_binarization_method/
 is_root: false
 ---
 ##  tiff_binarization_method propiedad
 
- Obtiene o establece el método utilizado al convertir imágenes al formato de 1 bpp
+ Obtiene o establece el método utilizado al convertir imágenes a formato de 1 bpp
 cuando [`ImageOrPrintOptions.image_type`](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions#image_type) es Tiff y [`ImageOrPrintOptions.tiff_compression`](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions#tiff_compression) es igual a Ccitt3 o Ccitt4.
 
 ###  Observaciones

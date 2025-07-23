@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  pattern fastighet
 
-Representerar ett områdes visning pattern.
+Representerar ett områdes display pattern.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def pattern(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [FillFormat](/cells/python-net/sv/aspose.cells.drawing/fillformat)
-* klass [FillPattern](/cells/python-net/sv/aspose.cells.drawing/fillpattern)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`FillFormat`](/cells/python-net/sv/aspose.cells.drawing/fillformat)
+* klass [`FillPattern`](/cells/python-net/sv/aspose.cells.drawing/fillpattern)

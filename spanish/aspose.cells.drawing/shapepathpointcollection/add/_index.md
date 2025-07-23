@@ -1,5 +1,5 @@
 ---
-title: add método
+title: método add
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 20
 url: /es/aspose.cells.drawing/shapepathpointcollection/add/
 is_root: false
 ---
-##  add(x, y) {#int-int}
-Añade un punto de ruta.
+##  add(self, x, y) {#int-int}
+Agrega un punto de ruta.
 
 
 
 ```python
+
 def add(self, x, y):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self, x, y):
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ShapePathPointCollection](/cells/python-net/es/aspose.cells.drawing/shapepathpointcollection)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ShapePathPointCollection`](/cells/python-net/es/aspose.cells.drawing/shapepathpointcollection)

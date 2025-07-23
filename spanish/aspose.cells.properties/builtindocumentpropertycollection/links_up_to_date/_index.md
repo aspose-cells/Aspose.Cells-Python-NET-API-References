@@ -3,7 +3,7 @@ title: links_up_to_date propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 290
+weight: 300
 url: /es/aspose.cells.properties/builtindocumentpropertycollection/links_up_to_date/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def links_up_to_date(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.properties](../../)
-* clase [BuiltInDocumentPropertyCollection](/cells/python-net/es/aspose.cells.properties/builtindocumentpropertycollection)
+* módulo [`aspose.cells.properties`](../../)
+* clase [`BuiltInDocumentPropertyCollection`](/cells/python-net/es/aspose.cells.properties/builtindocumentpropertycollection)

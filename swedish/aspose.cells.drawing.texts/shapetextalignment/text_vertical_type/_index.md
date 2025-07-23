@@ -3,7 +3,7 @@ title: text_vertical_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 150
+weight: 160
 url: /sv/aspose.cells.drawing.texts/shapetextalignment/text_vertical_type/
 is_root: false
 ---
@@ -30,6 +30,6 @@ def text_vertical_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [ShapeTextAlignment](/cells/python-net/sv/aspose.cells.drawing.texts/shapetextalignment)
-* klass [TextVerticalType](/cells/python-net/sv/aspose.cells.drawing.texts/textverticaltype)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`ShapeTextAlignment`](/cells/python-net/sv/aspose.cells.drawing.texts/shapetextalignment)
+* klass [`TextVerticalType`](/cells/python-net/sv/aspose.cells.drawing.texts/textverticaltype)

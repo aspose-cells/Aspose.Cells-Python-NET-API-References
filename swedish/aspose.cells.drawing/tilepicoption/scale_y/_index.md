@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  scale_y fastighet
 
-Hämtar eller ställer in Y-skalan för sida vid sida.
+Hämtar eller ställer in Y-skalan för att kakla bilden.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def scale_y(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [TilePicOption](/cells/python-net/sv/aspose.cells.drawing/tilepicoption)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`TilePicOption`](/cells/python-net/sv/aspose.cells.drawing/tilepicoption)

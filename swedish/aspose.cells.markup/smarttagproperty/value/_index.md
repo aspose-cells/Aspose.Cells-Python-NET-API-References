@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value fastighet
 
-Hämtar och ställer in value för fastigheten.
+Hämtar och ställer in value för egenskapen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.markup](../../)
-* klass [SmartTagProperty](/cells/python-net/sv/aspose.cells.markup/smarttagproperty)
+* modul [`aspose.cells.markup`](../../)
+* klass [`SmartTagProperty`](/cells/python-net/sv/aspose.cells.markup/smarttagproperty)

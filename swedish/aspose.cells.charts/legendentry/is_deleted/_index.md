@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_deleted fastighet
 
-Hämtar och ställer in om förklaringsposten raderas.
+Hämtar och anger om förklaringsposten ska tas bort.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_deleted(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [LegendEntry](/cells/python-net/sv/aspose.cells.charts/legendentry)
+* modul [`aspose.cells.charts`](../../)
+* klass [`LegendEntry`](/cells/python-net/sv/aspose.cells.charts/legendentry)

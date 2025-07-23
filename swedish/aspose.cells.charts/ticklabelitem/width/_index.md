@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width fastighet
 
-Bredden på Ticklabel-objektet i förhållande till diagrammet width.
+Bredd på Ticklabel-objekt i förhållande till diagram width.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def width(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [TickLabelItem](/cells/python-net/sv/aspose.cells.charts/ticklabelitem)
+* modul [`aspose.cells.charts`](../../)
+* klass [`TickLabelItem`](/cells/python-net/sv/aspose.cells.charts/ticklabelitem)

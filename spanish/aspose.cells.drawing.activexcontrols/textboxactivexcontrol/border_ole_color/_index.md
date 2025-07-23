@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border_ole_color propiedad
 
-Obtiene y establece el color antiguo del fondo.
+Obtiene y establece el color original del fondo.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def border_ole_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [TextBoxActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`TextBoxActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

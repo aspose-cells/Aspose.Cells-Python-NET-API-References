@@ -10,7 +10,7 @@ is_root: false
 ##  series_lines propiedad
 
 Devuelve un objeto SeriesLines que representa las líneas de serie para un gráfico de barras apiladas o un gráfico de columnas apiladas.
-Solo se aplica a gráficos de barras apiladas y columnas apiladas.
+Se aplica únicamente a gráficos de barras apiladas y de columnas apiladas.
 ###  Definición:
 ```python
 @property
@@ -19,6 +19,6 @@ def series_lines(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Line](/cells/python-net/es/aspose.cells.drawing/line)
-* clase [Series](/cells/python-net/es/aspose.cells.charts/series)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Line`](/cells/python-net/es/aspose.cells.drawing/line)
+* clase [`Series`](/cells/python-net/es/aspose.cells.charts/series)

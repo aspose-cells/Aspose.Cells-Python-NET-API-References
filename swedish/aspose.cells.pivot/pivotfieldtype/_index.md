@@ -3,12 +3,12 @@ title: PivotFieldType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 290
+weight: 360
 url: /sv/aspose.cells.pivot/pivotfieldtype/
 is_root: false
 ---
 ##  PivotFieldType uppräkning
-Representerar pivottabellfälttyp.
+Representerar fälttypen pivottabell.
 
 
 
@@ -17,11 +17,11 @@ Typen PivotFieldType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| UNDEFINED | Presenterar baspivotfältstyp.|
-| ROW | Visar typ av radpivotfält.|
-| COLUMN | Presenterar kolumnpivotfältstyp.|
-| PAGE | Presenterar sidpivotfältstyp.|
-| DATA | Presenterar datapivotfältstyp.|
+| UNDEFINED |Presenterar grundläggande pivotfälttyp.|
+| ROW | Presenterar fälttypen radpivot.|
+| COLUMN | Presenterar fälttypen för kolumnpivot.|
+| PAGE | Presenterar sidans pivotfälttyp.|
+| DATA | Presenterar data pivotfälttyp.|
 
 
 

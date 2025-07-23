@@ -8,12 +8,6 @@ url: /es/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/fore_ole_c
 is_root: false
 ---
 ##  fore_ole_color propiedad
-
-Obtiene y establece el color antiguo del primer plano.
-
-###  Observaciones
-
-No se aplica al control de imagen.
 ###  Definición:
 ```python
 @property
@@ -25,5 +19,5 @@ def fore_ole_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [ScrollBarActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`ScrollBarActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

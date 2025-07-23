@@ -17,12 +17,12 @@ El tipo BulletType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| NONE | sin bala|
+| NONE | Sin bala.|
 | CHARACTER | Bala de personaje.|
 | PICTURE | Viñeta de imagen.|
-| AUTO_NUMBERED | Viñeta numerada automática.|
+| AUTO_NUMBERED | Bala numerada automática.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](..)
+* módulo [`aspose.cells.drawing.texts`](..)

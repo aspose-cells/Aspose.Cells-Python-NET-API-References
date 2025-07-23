@@ -3,7 +3,7 @@ title: is_optimized propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 180
+weight: 190
 url: /es/aspose.cells.rendering/imageorprintoptions/is_optimized/
 is_root: false
 ---
@@ -14,9 +14,9 @@ Indica si se deben optimizar los elementos de salida.
 ###  Observaciones
 
  El valor predeterminado es falso.
-Actualmente, cuando esta propiedad se establece en verdadero, se realizarán las siguientes optimizaciones:
-1. optimizar las líneas fronterizas.
-2. Optimice el tamaño del archivo mientras lo renderiza en una imagen SVG.
+Actualmente, cuando esta propiedad se establece como verdadera, se realizarán las siguientes optimizaciones:
+1. Optimizar las líneas fronterizas.
+2. Optimice el tamaño del archivo al renderizar la imagen Svg.
 ###  Definición:
 ```python
 @property

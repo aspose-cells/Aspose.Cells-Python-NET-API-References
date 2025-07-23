@@ -3,13 +3,13 @@ title: text_vertical_alignment fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1060
+weight: 1070
 url: /sv/aspose.cells.drawing/radiobutton/text_vertical_alignment/
 is_root: false
 ---
 ##  text_vertical_alignment fastighet
 
-Hämtar och ställer in textens vertikala inriktningstyp för formen.
+Hämtar och anger textens vertikala justeringstyp för formen.
 
 ###  Exempel
 

@@ -7,16 +7,17 @@ weight: 140
 url: /sv/aspose.cells/autofilter/refresh/
 is_root: false
 ---
-##  refresh() {#}
-Uppdatera automatiska filter för att dölja eller visa raderna.
+##  refresh(self) {#}
+Uppdatera autofilter för att dölja eller visa raderna.
 
 
 ###  Returnerar
 
-Returnerar alla dolda raders index.
+Returnerar alla index för dolda rader.
 
 
 ```python
+
 def refresh(self):
     ...
 ```
@@ -24,16 +25,17 @@ def refresh(self):
 
 
 
-##  refresh(hide_rows) {#bool}
-Hämtar alla dolda raders index.
+##  refresh(self, hide_rows) {#bool}
+Hämtar alla index för dolda rader.
 
 
 ###  Returnerar
 
-Returnerar alla dolda radindex.
+Returnerar alla index för dolda rader.
 
 
 ```python
+
 def refresh(self, hide_rows):
     ...
 ```
@@ -46,5 +48,5 @@ def refresh(self, hide_rows):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [AutoFilter](/cells/python-net/sv/aspose.cells/autofilter)
+* modul [`aspose.cells`](../../)
+* klass [`AutoFilter`](/cells/python-net/sv/aspose.cells/autofilter)

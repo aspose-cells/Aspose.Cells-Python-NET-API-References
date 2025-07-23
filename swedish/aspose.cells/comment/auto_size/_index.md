@@ -9,7 +9,8 @@ is_root: false
 ---
 ##  auto_size fastighet
 
-Indikerar om storleken på kommentaren justeras automatiskt efter dess innehåll.
+Anger om kommentarens storlek justeras automatiskt enligt dess innehåll.
+Obs: I vissa specialfall (t.ex. i Mac-miljö) kanske den här inställningen inte träder i kraft. Om inställningen inte träder i kraft, ersätt den med FitToTextSize().
 
 ###  Exempel
 

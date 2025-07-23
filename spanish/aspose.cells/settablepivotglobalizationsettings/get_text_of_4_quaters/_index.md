@@ -7,8 +7,8 @@ weight: 30
 url: /es/aspose.cells/settablepivotglobalizationsettings/get_text_of_4_quaters/
 is_root: false
 ---
-##  get_text_of_4_quaters {#}
-Obtiene el texto local de 4 Quaters.
+##  get_text_of_4_quaters(self) {#}
+Obtiene el texto local de 4 Quarters.
 
 
 ###  Devoluciones
@@ -17,6 +17,7 @@ Obtiene el texto local de 4 Quaters.
 
 
 ```python
+
 def get_text_of_4_quaters(self):
     ...
 ```

@@ -7,16 +7,17 @@ weight: 140
 url: /sv/aspose.cells/globalizationsettings/get_multiple_items_name/
 is_root: false
 ---
-##  get_multiple_items_name {#}
+##  get_multiple_items_name(self) {#}
 Hämtar namnet på etiketten "(Flera objekt)" i pivottabellen.
 
 
 ###  Returnerar
 
-Namnet på etiketten "(Flera artiklar)".
+Namnet på etiketten "(Flera artiklar)"
 
 
 ```python
+
 def get_multiple_items_name(self):
     ...
 ```
@@ -24,9 +25,9 @@ def get_multiple_items_name(self):
 
 ###  Anmärkningar
 
-OBS: Denna medlem är nu föråldrad. Istället,
-använd metoden PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
- Den här egenskapen kommer att tas bort 12 månader senare sedan december 2022.
+OBS! Denna medlem är nu föråldrad. Istället,
+Använd metoden PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
+ Den här egenskapen kommer att tas bort 12 månader senare från och med december 2022.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 
 

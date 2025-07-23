@@ -3,7 +3,7 @@ title: float_value propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 480
+weight: 490
 url: /es/aspose.cells/cell/float_value/
 is_root: false
 ---

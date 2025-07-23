@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value fastighet
 
-Indikerar om kontrollen är kontrollerad eller inte.
+Anger om kontrollen är kontrollerad eller inte.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def value(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [CheckBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
-* klass [CheckValueType](/cells/python-net/sv/aspose.cells.drawing/checkvaluetype)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`CheckBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* klass [`CheckValueType`](/cells/python-net/sv/aspose.cells.drawing/checkvaluetype)

@@ -3,7 +3,7 @@ title: line_format fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 730
+weight: 740
 url: /sv/aspose.cells.drawing/dialogbox/line_format/
 is_root: false
 ---
@@ -13,9 +13,9 @@ Returnerar ett MsoLineFormat-objekt som innehåller linjeformateringsegenskaper 
 
 ###  Anmärkningar
 
- OBS: Denna medlem är nu föråldrad. Istället,
- använd egenskapen Shape.Line.
- Den här egenskapen kommer att tas bort 12 månader senare sedan juli 2016.
+ OBS! Denna medlem är nu föråldrad. Istället,
+ Använd egenskapen Shape.Line.
+ Den här egenskapen kommer att tas bort 12 månader senare från och med juli 2016.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 ###  Definition:
 ```python

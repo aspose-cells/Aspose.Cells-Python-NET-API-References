@@ -3,7 +3,7 @@ title: PdfOptimizationType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 210
+weight: 240
 url: /sv/aspose.cells.rendering/pdfoptimizationtype/
 is_root: false
 ---
@@ -17,10 +17,10 @@ Typen PdfOptimizationType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| STANDARD |Hög utskriftskvalitet|
+| STANDARD | Hög utskriftskvalitet|
 | MINIMUM_SIZE | Filstorleken är viktigare än utskriftskvaliteten|
 
 
 
 ###  Se även
-* modul [aspose.cells.rendering](..)
+* modul [`aspose.cells.rendering`](..)

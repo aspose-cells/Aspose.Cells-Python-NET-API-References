@@ -8,7 +8,7 @@ url: /es/aspose.cells.externalconnections/htmlformathandlingtype/
 is_root: false
 ---
 ##  HtmlFormatHandlingType enumeración
-Especifica cómo manejar el formato desde la fuente HTML
+Especifica cómo manejar el formato de la fuente HTML
 
 
 
@@ -17,11 +17,11 @@ El tipo HtmlFormatHandlingType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| ALL | Transfiera todo el formato HTML a la hoja de trabajo junto con los datos.|
-| NONE | Ingrese los datos como texto sin formato (todavía se configuran los tipos de datos).|
-| RTF | Traduzca el formato HTML a formato de texto enriquecido en los datos introducidos en la hoja de trabajo.|
+| ALL | Transfiera todo el formato HTML a la hoja de cálculo junto con los datos.|
+| NONE | Introduzca los datos como texto sin formato (la configuración de los tipos de datos aún se produce).|
+| RTF |Traducir el formato HTML al formato de texto enriquecido en los datos introducidos en la hoja de cálculo.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.externalconnections](..)
+* módulo [`aspose.cells.externalconnections`](..)

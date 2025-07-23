@@ -11,7 +11,7 @@ is_root: false
 
 Hämta den villkorliga formateringens "IconSet"-instans.
 Standardinstansens IconSetType är TrafficLights31.
-Gäller endast för typ = IconSet.
+Gäller endast för typen = IconSet.
 ###  Definition:
 ```python
 @property
@@ -20,6 +20,6 @@ def icon_set(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormatCondition](/cells/python-net/sv/aspose.cells/formatcondition)
-* klass [IconSet](/cells/python-net/sv/aspose.cells/iconset)
+* modul [`aspose.cells`](../../)
+* klass [`FormatCondition`](/cells/python-net/sv/aspose.cells/formatcondition)
+* klass [`IconSet`](/cells/python-net/sv/aspose.cells/iconset)

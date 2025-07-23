@@ -3,14 +3,14 @@ title: auto_show_field fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 190
+weight: 270
 url: /sv/aspose.cells.pivot/pivotfield/auto_show_field/
 is_root: false
 ---
 ##  auto_show_field fastighet
 
-Representerar auto show fältindex. -1 betyder själva PivotField.
-Det bör vara indexet för datafälten.
+Representerar fältindex för automatisk visning. -1 betyder själva pivotfältet.
+Det borde vara indexet för datafälten.
 ###  Definition:
 ```python
 @property

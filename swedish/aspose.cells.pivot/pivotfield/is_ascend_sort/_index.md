@@ -3,13 +3,13 @@ title: is_ascend_sort fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 370
+weight: 450
 url: /sv/aspose.cells.pivot/pivotfield/is_ascend_sort/
 is_root: false
 ---
 ##  is_ascend_sort fastighet
 
-Indikerar om det angivna pivottabellfältet är autosorterat stigande.
+Anger om det angivna pivottabellfältet är autosorterat i stigande ordning.
 ###  Definition:
 ```python
 @property

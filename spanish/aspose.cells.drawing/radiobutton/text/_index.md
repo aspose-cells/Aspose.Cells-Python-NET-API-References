@@ -3,13 +3,13 @@ title: text propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 960
+weight: 970
 url: /es/aspose.cells.drawing/radiobutton/text/
 is_root: false
 ---
 ##  text propiedad
 
-Representa la cadena en este objeto TextBox.
+Obtiene y establece el text de esta forma.
 
 ###  Ejemplo
 

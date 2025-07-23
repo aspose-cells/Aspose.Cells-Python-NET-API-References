@@ -3,7 +3,7 @@ title: ControlSpecialEffectType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 260
+weight: 240
 url: /sv/aspose.cells.drawing.activexcontrols/controlspecialeffecttype/
 is_root: false
 ---
@@ -18,12 +18,12 @@ Typen ControlSpecialEffectType avslöjar följande medlemmar:
 | Fält| Beskrivning|
 | :- | :- |
 | FLAT | Platt|
-| RAISED | Uppfostrad|
+| RAISED | Upphöjd|
 | SUNKEN | Nedsänkt|
-| ETCHED | Etsat|
+| ETCHED | Etsad|
 | BUMP | Stöta|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](..)
+* modul [`aspose.cells.drawing.activexcontrols`](..)

@@ -8,7 +8,7 @@ url: /sv/aspose.cells.charts/datalabelsseparatortype/
 is_root: false
 ---
 ##  DataLabelsSeparatorType uppräkning
-Representerar separatortypen för DataLabels.
+Representerar avgränsartypen för DataLabels.
 
 
 
@@ -18,12 +18,12 @@ Typen DataLabelsSeparatorType avslöjar följande medlemmar:
 | Fält| Beskrivning|
 | :- | :- |
 | AUTO | Representerar automatisk separator|
-| SPACE | Representerar mellanslag(" ")|
-| COMMA | Representerar komma(",")|
+| SPACE | Representerar mellanslag (" ")|
+| COMMA | Representerar kommatecken(",")|
 | SEMICOLON | Representerar semikolon(";")|
-| PERIOD | Representerar period(".")|
-| NEW_LINE | Representerar nyrad("\n")|
-| CUSTOM | Representerar anpassad separator|
+| PERIOD | Representerar punkt(".")|
+| NEW_LINE | Representerar newline("\n")|
+| CUSTOM | Representerar anpassad avgränsare|
 
 
 

@@ -3,12 +3,12 @@ title: Font klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 680
+weight: 660
 url: /sv/aspose.cells/font/
 is_root: false
 ---
 ##  Font klass
-Kapslar in teckensnittsobjektet som används i ett kalkylblad.
+Inkapslar teckensnittsobjektet som används i ett kalkylblad.
 
 
 
@@ -18,29 +18,29 @@ Typen Font avslöjar följande medlemmar:
 | Fast egendom| Beskrivning|
 | :- | :- |
 | [charset](/cells/python-net/sv/aspose.cells/font/charset) | Representera teckenuppsättningen.|
-| [is_italic](/cells/python-net/sv/aspose.cells/font/is_italic) | Hämtar eller ställer in ett värde som anger om teckensnittet är kursivt.|
-| [is_bold](/cells/python-net/sv/aspose.cells/font/is_bold) | Hämtar eller ställer in ett värde som anger om teckensnittet är fetstilt.|
-| [caps_type](/cells/python-net/sv/aspose.cells/font/caps_type) | Hämtar och ställer in typ av textkapslar.|
-| [strike_type](/cells/python-net/sv/aspose.cells/font/strike_type) | Får textens strejktyp.|
-| [is_strikeout](/cells/python-net/sv/aspose.cells/font/is_strikeout) | Hämtar eller ställer in ett värde som indikerar om teckensnittet är enkel genomstruken.|
-| [script_offset](/cells/python-net/sv/aspose.cells/font/script_offset) | Hämtar och ställer in skriptoffset, i procentenhet|
-| [is_superscript](/cells/python-net/sv/aspose.cells/font/is_superscript) | Hämtar eller ställer in ett värde som anger om teckensnittet är superskript.|
-| [is_subscript](/cells/python-net/sv/aspose.cells/font/is_subscript) | Hämtar eller ställer in ett värde som anger om teckensnittet är nedsänkt.|
+| [is_italic](/cells/python-net/sv/aspose.cells/font/is_italic) | Hämtar eller anger ett värde som anger om teckensnittet är kursivt.|
+| [is_bold](/cells/python-net/sv/aspose.cells/font/is_bold) | Hämtar eller anger ett värde som anger om teckensnittet är fetstilt.|
+| [caps_type](/cells/python-net/sv/aspose.cells/font/caps_type) | Hämtar och ställer in versaler för text.|
+| [strike_type](/cells/python-net/sv/aspose.cells/font/strike_type) | Hämtar textens strejktyp.|
+| [is_strikeout](/cells/python-net/sv/aspose.cells/font/is_strikeout) | Hämtar eller anger ett värde som anger om teckensnittet är enkelt genomstruket.|
+| [script_offset](/cells/python-net/sv/aspose.cells/font/script_offset) | Hämtar och ställer in skriptförskjutningen i procentenhet|
+| [is_superscript](/cells/python-net/sv/aspose.cells/font/is_superscript) | Hämtar eller anger ett värde som anger om teckensnittet är upphöjd skrift.|
+| [is_subscript](/cells/python-net/sv/aspose.cells/font/is_subscript) | Hämtar eller anger ett värde som anger om teckensnittet är nedsänkt.|
 | [underline](/cells/python-net/sv/aspose.cells/font/underline) | Hämtar eller ställer in teckensnittets understrykningstyp.|
-| [name](/cells/python-net/sv/aspose.cells/font/name) | Hämtar eller ställer in namnet på [`Font`](/cells/python-net/sv/aspose.cells/font).|
-| [double_size](/cells/python-net/sv/aspose.cells/font/double_size) | Hämtar och ställer in den dubbla storleken på teckensnittet.|
-| [size](/cells/python-net/sv/aspose.cells/font/size) | Hämtar eller ställer in storleken på teckensnittet.|
-| [theme_color](/cells/python-net/sv/aspose.cells/font/theme_color) | Får och ställer in temafärgen.|
-| [color](/cells/python-net/sv/aspose.cells/font/color) | Hämtar eller ställer in teckensnittets färg.|
+| [name](/cells/python-net/sv/aspose.cells/font/name) | Hämtar eller anger namnet på [`Font`](/cells/python-net/sv/aspose.cells/font).|
+| [double_size](/cells/python-net/sv/aspose.cells/font/double_size) | Hämtar och ställer in teckensnittets dubbla storlek.|
+| [size](/cells/python-net/sv/aspose.cells/font/size) | Hämtar eller ställer in teckenstorleken.|
+| [theme_color](/cells/python-net/sv/aspose.cells/font/theme_color) | Hämtar och ställer in temafärgen.|
+| [color](/cells/python-net/sv/aspose.cells/font/color) | Hämtar eller anger teckensnittets färg.|
 | [argb_color](/cells/python-net/sv/aspose.cells/font/argb_color) | Hämtar och ställer in färgen med ett 32-bitars ARGB-värde.|
-| [is_normalize_heights](/cells/python-net/sv/aspose.cells/font/is_normalize_heights) | Anger om normaliseringen av höjden som ska tillämpas på texten löper.|
-| [scheme_type](/cells/python-net/sv/aspose.cells/font/scheme_type) |Hämtar och ställer in schematypen för teckensnittet.|
+| [is_normalize_heights](/cells/python-net/sv/aspose.cells/font/is_normalize_heights) | Anger om normaliseringen av höjden som ska tillämpas på texten körs.|
+| [scheme_type](/cells/python-net/sv/aspose.cells/font/scheme_type) |Hämtar och anger teckensnittets schematyp.|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [equals](/cells/python-net/sv/aspose.cells/font/equals/#aspose.cells.Font) | Kontrollerar om två teckensnitt är lika.|
+| [`equals(self, font)`](/cells/python-net/sv/aspose.cells/font/equals/#aspose.cells.font) | Kontrollerar om två teckensnitt är lika.|
 
 
 

@@ -8,8 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/is_visible/
 is_root: false
 ---
 ##  is_visible fastighet
-
-Indikerar om denna kontroll är synlig.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_visible(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ComboBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ComboBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

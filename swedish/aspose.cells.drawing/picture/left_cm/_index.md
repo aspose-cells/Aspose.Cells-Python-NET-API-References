@@ -3,13 +3,13 @@ title: left_cm fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 790
+weight: 810
 url: /sv/aspose.cells.drawing/picture/left_cm/
 is_root: false
 ---
 ##  left_cm fastighet
 
-Representerar den horisontella förskjutningen av formen från dess vänstra kolumn, i centimeterenhet.
+Representerar formens horisontella förskjutning från dess vänstra kolumn, i centimeter.
 
 ###  Exempel
 

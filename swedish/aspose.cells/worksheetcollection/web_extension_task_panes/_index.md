@@ -3,13 +3,13 @@ title: web_extension_task_panes fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 370
+weight: 400
 url: /sv/aspose.cells/worksheetcollection/web_extension_task_panes/
 is_root: false
 ---
 ##  web_extension_task_panes fastighet
 
-Hämtar listan med uppgiftsrutor.
+Hämtar listan över åtgärdsfönster.
 ###  Definition:
 ```python
 @property

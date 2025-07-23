@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  value fastighet
 
-Hämta eller ställ in value för detta villkorliga formateringsobjekt value.
-Den ska användas tillsammans med Type.
+Hämta eller ange value för detta villkorsstyrda formateringsobjekt value.
+Den bör användas tillsammans med Type.
 
 ###  Anmärkningar
 
-Om value är sträng och börjar med "=", kommer den att behandlas som en formel,
-annars kommer vi att behandla det som ett enkelt value.
+Om value är en sträng och börjar med "=", kommer den att bearbetas som en formel,
+annars behandlar vi det som ett enkelt value.
 ###  Definition:
 ```python
 @property
@@ -27,5 +27,5 @@ def value(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ConditionalFormattingValue](/cells/python-net/sv/aspose.cells/conditionalformattingvalue)
+* modul [`aspose.cells`](../../)
+* klass [`ConditionalFormattingValue`](/cells/python-net/sv/aspose.cells/conditionalformattingvalue)

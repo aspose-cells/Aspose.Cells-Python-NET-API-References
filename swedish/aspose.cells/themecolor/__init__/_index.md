@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells/themecolor/__init__/
 is_root: false
 ---
-##  ThemeColor(type, tint) {#ThemeColorType-float}
+##  \_\_init\_\_(själv, typ, nyans){#aspose.cells.ThemeColorType-float}
 
 
 
 
 ```python
+
 def __init__(self, type, tint):
     ...
 ```
@@ -20,11 +21,11 @@ def __init__(self, type, tint):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| type | [ThemeColorType](/cells/python-net/sv/aspose.cells/themecolortype) | Tematypen.|
-| tint | float | Nyansvärdet.|
+| type | [`ThemeColorType`](/cells/python-net/sv/aspose.cells/themecolortype) | Tematypen.|
+| tint | float | Toningsvärdet.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ThemeColor](/cells/python-net/sv/aspose.cells/themecolor)
+* modul [`aspose.cells`](../../)
+* klass [`ThemeColor`](/cells/python-net/sv/aspose.cells/themecolor)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plus_value fastighet
 
-Representerar positivt felmängd när felstapeltypen är anpassad.
+Representerar positivt felbelopp när felstapeltypen är Anpassad.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def plus_value(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ErrorBar](/cells/python-net/sv/aspose.cells.charts/errorbar)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ErrorBar`](/cells/python-net/sv/aspose.cells.charts/errorbar)

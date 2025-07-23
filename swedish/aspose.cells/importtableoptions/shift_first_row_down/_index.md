@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  shift_first_row_down fastighet
 
-Indikerar om den första raden flyttas nedåt vid infogning av rader.
+Anger om den första raden flyttas nedåt när rader infogas.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def shift_first_row_down(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ImportTableOptions](/cells/python-net/sv/aspose.cells/importtableoptions)
+* modul [`aspose.cells`](../../)
+* klass [`ImportTableOptions`](/cells/python-net/sv/aspose.cells/importtableoptions)

@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells.properties/customproperty/__init__/
 is_root: false
 ---
-##  CustomProperty() {#}
+##  \_\_init\_\_(yo mismo){#}
 Construye una nueva instancia de CustomProperty
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ver también
-* módulo [aspose.cells.properties](../../)
-* clase [CustomProperty](/cells/python-net/es/aspose.cells.properties/customproperty)
+* módulo [`aspose.cells.properties`](../../)
+* clase [`CustomProperty`](/cells/python-net/es/aspose.cells.properties/customproperty)

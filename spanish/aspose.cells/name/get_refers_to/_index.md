@@ -1,5 +1,5 @@
 ---
-title: get_refers_to método
+title: método get_refers_to
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 50
 url: /es/aspose.cells/name/get_refers_to/
 is_root: false
 ---
-##  get_refers_to(is_r1c1, is_local) {#bool-bool}
-Obtener la referencia de este Nombre.
+##  get_refers_to(self, is_r1c1, is_local) {#bool-bool}
+Obtenga la referencia de este Nombre.
 
 
 
 ```python
+
 def get_refers_to(self, is_r1c1, is_local):
     ...
 ```
@@ -24,12 +25,13 @@ def get_refers_to(self, is_r1c1, is_local):
 | is_local | bool | Si la referencia debe formatearse según la configuración regional.|
 
 
-##  get_refers_to(is_r1c1, is_local, row, column) {#bool-bool-int-int}
+##  get_refers_to(self, is_r1c1, is_local, row, column) {#bool-bool-int-int}
 Obtenga la referencia de este nombre en función de la celda especificada.
 
 
 
 ```python
+
 def get_refers_to(self, is_r1c1, is_local, row, column):
     ...
 ```
@@ -40,10 +42,10 @@ def get_refers_to(self, is_r1c1, is_local, row, column):
 | is_r1c1 | bool | Si la referencia debe formatearse como R1C1.|
 | is_local | bool | Si la referencia debe formatearse según la configuración regional.|
 | row | int | El índice de fila de la celda.|
-| column | int | El índice de columna de la celda.|
+| column | int | El índice de la columna de la celda.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Name](/cells/python-net/es/aspose.cells/name)
+* módulo [`aspose.cells`](../../)
+* clase [`Name`](/cells/python-net/es/aspose.cells/name)

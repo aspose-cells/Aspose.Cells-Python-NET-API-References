@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  title propiedad
 
-Obtiene el title del gráfico.
+Obtiene el gráfico title.
 ###  Definición:
 ```python
 @property

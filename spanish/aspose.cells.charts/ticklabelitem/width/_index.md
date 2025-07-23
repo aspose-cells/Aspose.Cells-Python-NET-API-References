@@ -18,5 +18,5 @@ def width(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [TickLabelItem](/cells/python-net/es/aspose.cells.charts/ticklabelitem)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`TickLabelItem`](/cells/python-net/es/aspose.cells.charts/ticklabelitem)

@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  check_mixed_value_type propiedad
 
-Falso, Aspose.Cells establecerá el tipo de DataColumn según el tipo de valor de la primera fila para mejorar el rendimiento.
- Es cierto, Aspose.Cells verificará si el tipo de valor en la columna está mezclado antes de establecer el tipo de DataColumn
-Y el tipo de valor es mixto, el tipo de DataColumn será una cadena.
+Falso, Aspose.Cells establecerá el tipo de DataColumn por el tipo de valor de la primera fila para el rendimiento.
+ Es cierto que Aspose.Cells comprobará si los tipos de valores en la columna son mixtos antes de establecer el tipo de DataColumn.
+Y los tipos de valores son mixtos, el tipo de DataColumn será cadena.
 ###  Definición:
 ```python
 @property

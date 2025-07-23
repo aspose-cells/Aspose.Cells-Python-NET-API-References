@@ -7,12 +7,13 @@ weight: 310
 url: /es/aspose.cells/settableglobalizationsettings/set_comment_title_name/
 is_root: false
 ---
-##  set_comment_title_name {#aspose.cells.rendering.CommentTitleType-str}
+##  set_comment_title_name(self, type, name) {#aspose.cells.rendering.CommentTitleType-str}
 Obtiene el nombre del título del comentario dependiente de la configuración regional según el tipo de título del comentario.
 
 
 
 ```python
+
 def set_comment_title_name(self, type, name):
     ...
 ```
@@ -21,7 +22,7 @@ def set_comment_title_name(self, type, name):
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
 | type | aspose.cells.rendering.CommentTitleType | tipo de título del comentario|
-| name | str | nombre del título del comentario dependiente de la configuración regional|
+| name | str | Nombre del título del comentario dependiente de la configuración regional|
 
 
 

@@ -3,7 +3,7 @@ title: NoneFill klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 390
+weight: 370
 url: /sv/aspose.cells.drawing/nonefill/
 is_root: false
 ---
@@ -12,8 +12,7 @@ Representerar ingen fyllning.
 
 
 
-**Arv:** [NoneFill](/cells/python-net/aspose.cells.drawing/nonefill) → 
-[Fill](/cells/python-net/sv/aspose.cells.drawing/fill)
+**Arv:** [`NoneFill`](/cells/python-net/sv/aspose.cells.drawing/nonefill)
 
 
 
@@ -21,6 +20,5 @@ Typen NoneFill avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
-* klass [Fill](/cells/python-net/sv/aspose.cells.drawing/fill)
-* klass [NoneFill](/cells/python-net/sv/aspose.cells.drawing/nonefill)
+* modul [`aspose.cells.drawing`](..)
+* klass [`NoneFill`](/cells/python-net/sv/aspose.cells.drawing/nonefill)

@@ -3,13 +3,13 @@ title: type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1150
+weight: 1160
 url: /sv/aspose.cells.drawing/radiobutton/type/
 is_root: false
 ---
 ##  type fastighet
 
-Får autoformen type.
+Hämtar den automatiska formen type.
 
 ###  Exempel
 

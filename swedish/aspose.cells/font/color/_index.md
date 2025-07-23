@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color fastighet
 
-Hämtar eller ställer in teckensnittets färg.
+Hämtar eller anger teckensnittets färg.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Font](/cells/python-net/sv/aspose.cells/font)
+* modul [`aspose.cells`](../../)
+* klass [`Font`](/cells/python-net/sv/aspose.cells/font)

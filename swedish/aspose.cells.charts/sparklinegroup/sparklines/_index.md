@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  sparklines fastighet
 
-Får samlingen av [Sparkline](/cells/python-net/sv/aspose.cells.charts/sparkline) objekt.
+Hämtar samlingen av objektet [`Sparkline`](/cells/python-net/sv/aspose.cells.charts/sparkline).
 ###  Definition:
 ```python
 @property
@@ -18,7 +18,7 @@ def sparklines(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Sparkline](/cells/python-net/sv/aspose.cells.charts/sparkline)
-* klass [SparklineCollection](/cells/python-net/sv/aspose.cells.charts/sparklinecollection)
-* klass [SparklineGroup](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Sparkline`](/cells/python-net/sv/aspose.cells.charts/sparkline)
+* klass [`SparklineCollection`](/cells/python-net/sv/aspose.cells.charts/sparklinecollection)
+* klass [`SparklineGroup`](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)

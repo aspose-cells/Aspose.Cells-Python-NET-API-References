@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  take_focus_on_click fastighet
 
-Indikerar om kontrollen tar fokus när den klickas.
+Anger om kontrollen tar fokus när man klickar.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def take_focus_on_click(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [CommandButtonActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`CommandButtonActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)

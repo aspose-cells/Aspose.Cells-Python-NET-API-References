@@ -3,13 +3,13 @@ title: style propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1300
+weight: 1330
 url: /es/aspose.cells/cells/style/
 is_root: false
 ---
 ##  style propiedad
 
-Obtiene y establece el valor predeterminado style de la hoja de cálculo.
+Obtiene y establece el valor predeterminado style de la hoja de trabajo.
 ###  Definición:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  load_filter propiedad
 
-El filtro para indicar cómo cargar datos.
+El filtro para indicar cómo cargar los datos.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def load_filter(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [HtmlLoadOptions](/cells/python-net/es/aspose.cells/htmlloadoptions)
-* clase [LoadFilter](/cells/python-net/es/aspose.cells/loadfilter)
+* módulo [`aspose.cells`](../../)
+* clase [`HtmlLoadOptions`](/cells/python-net/es/aspose.cells/htmlloadoptions)
+* clase [`LoadFilter`](/cells/python-net/es/aspose.cells/loadfilter)

@@ -3,17 +3,18 @@ title: insert_text metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 260
+weight: 270
 url: /sv/aspose.cells/cell/insert_text/
 is_root: false
 ---
-##  insert_text {#int-str}
+##  insert_text(self, index, text) {#int-str}
 Infoga några tecken i cellen.
 Om cellen är rikt formaterad kan den här metoden behålla den ursprungliga formateringen.
 
 
 
 ```python
+
 def insert_text(self, index, text):
     ...
 ```

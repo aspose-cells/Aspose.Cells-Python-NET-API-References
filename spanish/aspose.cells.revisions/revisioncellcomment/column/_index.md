@@ -18,5 +18,5 @@ def column(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.revisions](../../)
-* clase [RevisionCellComment](/cells/python-net/es/aspose.cells.revisions/revisioncellcomment)
+* módulo [`aspose.cells.revisions`](../../)
+* clase [`RevisionCellComment`](/cells/python-net/es/aspose.cells.revisions/revisioncellcomment)

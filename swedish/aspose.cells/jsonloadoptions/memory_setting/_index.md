@@ -9,7 +9,11 @@ is_root: false
 ---
 ##  memory_setting fastighet
 
-Hämtar eller ställer in alternativen för minnesanvändning.
+Hämtar eller ställer in minnesläget för den inlästa arbetsboken.
+
+###  Anmärkningar
+
+För mer information om minnesläge, se [`Cells.memory_setting`](/cells/python-net/sv/aspose.cells/cells#memory_setting).
 ###  Definition:
 ```python
 @property
@@ -21,6 +25,6 @@ def memory_setting(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [JsonLoadOptions](/cells/python-net/sv/aspose.cells/jsonloadoptions)
-* klass [MemorySetting](/cells/python-net/sv/aspose.cells/memorysetting)
+* modul [`aspose.cells`](../../)
+* klass [`JsonLoadOptions`](/cells/python-net/sv/aspose.cells/jsonloadoptions)
+* klass [`MemorySetting`](/cells/python-net/sv/aspose.cells/memorysetting)

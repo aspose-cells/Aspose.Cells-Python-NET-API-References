@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  is_case_sensitive fastighet
 
-Indikerar om den sökta strängen är skiftlägeskänslig.
+Anger om den sökta strängen är skiftlägeskänslig.
 
 ###  Anmärkningar
 
- OBS: Denna medlem är nu föråldrad. Istället,
- använd egenskapen FindOptions.CaseSensitive.
- Den här egenskapen kommer att tas bort 12 månader senare sedan juni 2010.
+ OBS! Denna medlem är nu föråldrad. Istället,
+ Använd egenskapen FindOptions.CaseSensitive.
+ Den här egenskapen kommer att tas bort 12 månader senare från och med juni 2010.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 ###  Definition:
 ```python
@@ -28,5 +28,5 @@ def is_case_sensitive(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FindOptions](/cells/python-net/sv/aspose.cells/findoptions)
+* modul [`aspose.cells`](../../)
+* klass [`FindOptions`](/cells/python-net/sv/aspose.cells/findoptions)

@@ -3,7 +3,7 @@ title: compression_type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 50
+weight: 60
 url: /es/aspose.cells/ooxmlsaveoptions/compression_type/
 is_root: false
 ---
@@ -25,6 +25,6 @@ def compression_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [OoxmlCompressionType](/cells/python-net/es/aspose.cells/ooxmlcompressiontype)
-* clase [OoxmlSaveOptions](/cells/python-net/es/aspose.cells/ooxmlsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`OoxmlCompressionType`](/cells/python-net/es/aspose.cells/ooxmlcompressiontype)
+* clase [`OoxmlSaveOptions`](/cells/python-net/es/aspose.cells/ooxmlsaveoptions)

@@ -3,13 +3,13 @@ title: is_rich_text fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 690
+weight: 700
 url: /sv/aspose.cells.drawing/arcshape/is_rich_text/
 is_root: false
 ---
 ##  is_rich_text fastighet
 
-Om texten är rik text eller inte.
+Huruvida texten är RTF eller inte.
 
 ###  Exempel
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_automatic propiedad
 
-Indica si los bins de los ejes son automáticos.
+Indica si los contenedores de ejes son automáticos.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_automatic(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [AxisBins](/cells/python-net/es/aspose.cells.charts/axisbins)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`AxisBins`](/cells/python-net/es/aspose.cells.charts/axisbins)

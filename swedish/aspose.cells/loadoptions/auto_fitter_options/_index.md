@@ -13,7 +13,7 @@ Hämtar och ställer in alternativen för automatisk montering
 
 ###  Anmärkningar
 
-Endast för xlsx, spreadsheetML-fil nu.
+Endast för xlsx, spreadsheetML-filer nu.
 ###  Definition:
 ```python
 @property
@@ -25,6 +25,6 @@ def auto_fitter_options(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [AutoFitterOptions](/cells/python-net/sv/aspose.cells/autofitteroptions)
-* klass [LoadOptions](/cells/python-net/sv/aspose.cells/loadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`AutoFitterOptions`](/cells/python-net/sv/aspose.cells/autofitteroptions)
+* klass [`LoadOptions`](/cells/python-net/sv/aspose.cells/loadoptions)

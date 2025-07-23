@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border_style propiedad
 
-Obtiene y establece el tipo de borde usado por el control.
+Obtiene y establece el tipo de borde utilizado por el control.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def border_style(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [ComboBoxActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
-* clase [ControlBorderType](/cells/python-net/es/aspose.cells.drawing.activexcontrols/controlbordertype)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`ComboBoxActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* clase [`ControlBorderType`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/controlbordertype)

@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  auto_fitter_options propiedad
 
-Obtiene y establece las opciones del instalador automático.
+Obtiene y establece las opciones de ajuste automático
 
 ###  Observaciones
 
-Ahora solo para archivos xlsx, hoja de cálculo ML.
+Ahora sólo para archivos xlsx y spreadsheetML.
 ###  Definición:
 ```python
 @property

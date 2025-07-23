@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  far_east_name propiedad
 
-Obtiene y establece el nombre FarEast.
+Obtiene y establece el nombre de FarEast.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def far_east_name(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](../../)
-* clase [TextOptions](/cells/python-net/es/aspose.cells.drawing.texts/textoptions)
+* módulo [`aspose.cells.drawing.texts`](../../)
+* clase [`TextOptions`](/cells/python-net/es/aspose.cells.drawing.texts/textoptions)

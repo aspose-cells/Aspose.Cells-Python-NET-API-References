@@ -11,7 +11,7 @@ is_root: false
 
 Obtenga la instancia "IconSet" del formato condicional.
 El IconSetType de la instancia predeterminada es TrafficLights31.
-Válido solo para tipo = IconSet.
+Válido sólo para el tipo = IconSet.
 ###  Definición:
 ```python
 @property
@@ -20,6 +20,6 @@ def icon_set(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FormatCondition](/cells/python-net/es/aspose.cells/formatcondition)
-* clase [IconSet](/cells/python-net/es/aspose.cells/iconset)
+* módulo [`aspose.cells`](../../)
+* clase [`FormatCondition`](/cells/python-net/es/aspose.cells/formatcondition)
+* clase [`IconSet`](/cells/python-net/es/aspose.cells/iconset)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  ignore_null fastighet
 
-Anger om nollvärde ignoreras.
+Anger om nullvärdet ignoreras.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def ignore_null(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.utility](../../)
-* klass [JsonLayoutOptions](/cells/python-net/sv/aspose.cells.utility/jsonlayoutoptions)
+* modul [`aspose.cells.utility`](../../)
+* klass [`JsonLayoutOptions`](/cells/python-net/sv/aspose.cells.utility/jsonlayoutoptions)

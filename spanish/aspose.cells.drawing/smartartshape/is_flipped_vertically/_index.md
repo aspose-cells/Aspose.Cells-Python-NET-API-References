@@ -3,13 +3,13 @@ title: is_flipped_vertically propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 560
+weight: 570
 url: /es/aspose.cells.drawing/smartartshape/is_flipped_vertically/
 is_root: false
 ---
 ##  is_flipped_vertically propiedad
 
-Obtiene y establece si la forma se invierte verticalmente.
+Obtiene y establece si la forma está invertida verticalmente.
 
 ###  Ejemplo
 

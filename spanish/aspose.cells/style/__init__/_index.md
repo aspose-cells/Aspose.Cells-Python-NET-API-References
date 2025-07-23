@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells/style/__init__/
 is_root: false
 ---
-##  Style() {#}
-Inicializa una nueva instancia de la clase [Style](/cells/python-net/es/aspose.cells/style).
+##  \_\_init\_\_(yo mismo){#}
+Inicializa una nueva instancia de la clase [`Style`](/cells/python-net/es/aspose.cells/style).
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,10 +23,10 @@ def __init__(self):
 
 NOTA: Este constructor ahora está obsoleto.
 En su lugar, utilice el método CellsFactory.CreateStyle().
- Esta propiedad se eliminará 6 meses después desde octubre de 2016.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+ Esta propiedad será eliminada 6 meses después desde octubre de 2016.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Style](/cells/python-net/es/aspose.cells/style)
+* módulo [`aspose.cells`](../../)
+* clase [`Style`](/cells/python-net/es/aspose.cells/style)

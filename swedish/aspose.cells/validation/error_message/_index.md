@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  error_message fastighet
 
-Representerar datavalideringsfelmeddelandet.
+Representerar felmeddelandet för datavalidering.
 ###  Definition:
 ```python
 @property

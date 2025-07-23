@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  color fastighet
 
-Får sorterat color.
+Får det ordnat color.
 
 ###  Anmärkningar
 
-Effekter endast när [SortOnType](/cells/python-net/sv/aspose.cells/sortontype) är SortOnType.CellColor eller SortOnType.FontColor.
+Träder endast i kraft när [`DataSorterKey.type`](/cells/python-net/sv/aspose.cells/datasorterkey#type) är [`SortOnType.CELL_COLOR`](/cells/python-net/sv/aspose.cells/sortontype#CELL_COLOR) eller [`SortOnType.FONT_COLOR`](/cells/python-net/sv/aspose.cells/sortontype#FONT_COLOR).
 ###  Definition:
 ```python
 @property
@@ -22,6 +22,5 @@ def color(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DataSorterKey](/cells/python-net/sv/aspose.cells/datasorterkey)
-* klass [SortOnType](/cells/python-net/sv/aspose.cells/sortontype)
+* modul [`aspose.cells`](../../)
+* klass [`DataSorterKey`](/cells/python-net/sv/aspose.cells/datasorterkey)

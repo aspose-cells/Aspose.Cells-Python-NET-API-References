@@ -9,10 +9,10 @@ is_root: false
 ---
 ##  type propiedad
 
-Obtenga o establezca el conjunto de iconos type para mostrar.
-La configuración de type verificará automáticamente si el conteo actual de Cfvos es
- de acuerdo con el nuevo type. Si no es así, los Cfvos antiguos se limpiarán y
-Se agregarán Cfvos predeterminados.
+Obtenga o configure el conjunto de iconos type para mostrar.
+Al configurar type se verificará automáticamente si el recuento actual de Cfvos es
+ acuerdo con el nuevo type. En caso de no acuerdo, se limpiarán los Cfvos antiguos y
+Se agregarán los Cfvos predeterminados.
 ###  Definición:
 ```python
 @property
@@ -24,6 +24,6 @@ def type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [IconSet](/cells/python-net/es/aspose.cells/iconset)
-* clase [IconSetType](/cells/python-net/es/aspose.cells/iconsettype)
+* módulo [`aspose.cells`](../../)
+* clase [`IconSet`](/cells/python-net/es/aspose.cells/iconset)
+* clase [`IconSetType`](/cells/python-net/es/aspose.cells/iconsettype)

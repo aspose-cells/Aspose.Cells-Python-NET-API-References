@@ -3,13 +3,20 @@ title: svg_fit_to_view_port propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 320
+weight: 330
 url: /es/aspose.cells.rendering/imageorprintoptions/svg_fit_to_view_port/
 is_root: false
 ---
 ##  svg_fit_to_view_port propiedad
 
-Si esta propiedad es verdadera, el svg generado se ajustará al puerto de visualización.
+Si esta propiedad es verdadera, el SVG generado se ajustará al puerto de visualización.
+
+###  Observaciones
+
+ NOTA: Este miembro ya no está disponible. En su lugar,
+Por favor utilice [`SvgImageOptions.fit_to_view_port`](/cells/python-net/es/aspose.cells.rendering/svgimageoptions#fit_to_view_port).
+ Esta propiedad será eliminada 12 meses después desde abril de 2025.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 ###  Definición:
 ```python
 @property

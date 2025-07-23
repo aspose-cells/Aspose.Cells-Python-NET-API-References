@@ -3,20 +3,21 @@ title: is_hidden_item_detail metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 140
+weight: 200
 url: /sv/aspose.cells.pivot/pivotfield/is_hidden_item_detail/
 is_root: false
 ---
-##  is_hidden_item_detail {#int}
-Indikerar om den specifika PivotItem är dold detalj.
+##  is_hidden_item_detail(self, index) {#int}
+Hämtar om detaljerna för det specifika pivotobjektet döljs.
 
 
 ###  Returnerar
 
-om den specifika PivotItem är dold detalj
+om det specifika PivotItem är en dold detalj
 
 
 ```python
+
 def is_hidden_item_detail(self, index):
     ...
 ```
@@ -24,7 +25,7 @@ def is_hidden_item_detail(self, index):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| index | int | indexet för pivotItem i pivotfältet.|
+| index | int | Indexet för pivotItem i pivotField.|
 
 
 

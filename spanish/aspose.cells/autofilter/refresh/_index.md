@@ -1,5 +1,5 @@
 ---
-title: refresh método
+title: método refresh
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 140
 url: /es/aspose.cells/autofilter/refresh/
 is_root: false
 ---
-##  refresh() {#}
+##  refresh(self) {#}
 Actualice los filtros automáticos para ocultar o mostrar las filas.
 
 
@@ -17,6 +17,7 @@ Devuelve los índices de todas las filas ocultas.
 
 
 ```python
+
 def refresh(self):
     ...
 ```
@@ -24,7 +25,7 @@ def refresh(self):
 
 
 
-##  refresh(hide_rows) {#bool}
+##  refresh(self, hide_rows) {#bool}
 Obtiene los índices de todas las filas ocultas.
 
 
@@ -34,6 +35,7 @@ Devuelve todos los índices de filas ocultas.
 
 
 ```python
+
 def refresh(self, hide_rows):
     ...
 ```
@@ -46,5 +48,5 @@ def refresh(self, hide_rows):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [AutoFilter](/cells/python-net/es/aspose.cells/autofilter)
+* módulo [`aspose.cells`](../../)
+* clase [`AutoFilter`](/cells/python-net/es/aspose.cells/autofilter)

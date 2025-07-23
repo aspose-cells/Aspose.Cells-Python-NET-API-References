@@ -3,7 +3,7 @@ title: font propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 160
+weight: 200
 url: /es/aspose.cells.charts/legend/font/
 is_root: false
 ---

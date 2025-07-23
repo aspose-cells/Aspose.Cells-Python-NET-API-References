@@ -3,13 +3,13 @@ title: show_percentage fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 420
+weight: 490
 url: /sv/aspose.cells.charts/datalabels/show_percentage/
 is_root: false
 ---
 ##  show_percentage fastighet
 
-Representerar ett angivet diagrams dataetiketts procentuella visningsbeteende. True visar procentvärdet. Falskt att dölja.
+Representerar visningsbeteendet för procentvärden för dataetiketter i ett angivet diagram. Sant visar procentvärdet. Falskt för att dölja.
 ###  Definition:
 ```python
 @property

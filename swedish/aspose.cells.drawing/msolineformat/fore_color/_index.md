@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fore_color fastighet
 
-Hämtar och ställer in gränslinjens framfärg.
+Hämtar och anger kantlinjens förfärg.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def fore_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [MsoLineFormat](/cells/python-net/sv/aspose.cells.drawing/msolineformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`MsoLineFormat`](/cells/python-net/sv/aspose.cells.drawing/msolineformat)

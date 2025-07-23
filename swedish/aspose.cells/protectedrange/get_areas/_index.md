@@ -7,16 +7,17 @@ weight: 30
 url: /sv/aspose.cells/protectedrange/get_areas/
 is_root: false
 ---
-##  get_areas() {#}
-Får alla hänvisade områden.
+##  get_areas(self) {#}
+Hämtar alla hänvisade områden.
 
 
 ###  Returnerar
 
-Returnerar alla hänvisade områden.
+Returnerar alla refererade områden.
 
 
 ```python
+
 def get_areas(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_areas(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ProtectedRange](/cells/python-net/sv/aspose.cells/protectedrange)
+* modul [`aspose.cells`](../../)
+* klass [`ProtectedRange`](/cells/python-net/sv/aspose.cells/protectedrange)

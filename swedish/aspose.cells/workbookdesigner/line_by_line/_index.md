@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  line_by_line fastighet
 
-Indikerar om den smarta markören bearbetas rad för rad.
+Anger om den smarta markören bearbetas rad för rad.
 
 ###  Anmärkningar
 
 Standardvärdet är sant.
-Om False måste mallfilen innehålla ett intervall som heter "_CellsSmartMarkers".
+Om värdet är falskt måste mallfilen innehålla ett område som heter "_CellsSmartMarkers".
 ###  Definition:
 ```python
 @property

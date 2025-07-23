@@ -13,7 +13,7 @@ Obtiene y establece el value del control.
 
 ###  Observaciones
 
-Solo efectos cuando [ListBoxActiveXControl.selection_type](/cells/python-net/es/aspose.cells.drawing.activexcontrols/listboxactivexcontrol#selection_type) es SelectionType.Single;
+Sólo tiene efecto cuando [`ListBoxActiveXControl.selection_type`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/listboxactivexcontrol#selection_type) es SelectionType.Single;
 ###  Definición:
 ```python
 @property
@@ -25,5 +25,5 @@ def value(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [ListBoxActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`ListBoxActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

@@ -18,5 +18,5 @@ def cell_row(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CalculationCell](/cells/python-net/es/aspose.cells/calculationcell)
+* módulo [`aspose.cells`](../../)
+* clase [`CalculationCell`](/cells/python-net/es/aspose.cells/calculationcell)

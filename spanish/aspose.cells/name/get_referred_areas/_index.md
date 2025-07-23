@@ -1,5 +1,5 @@
 ---
-title: get_referred_areas método
+title: método get_referred_areas
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 40
 url: /es/aspose.cells/name/get_referred_areas/
 is_root: false
 ---
-##  get_referred_areas(recalculate) {#bool}
+##  get_referred_areas(self, recalculate) {#bool}
 Obtiene todas las referencias referidas por este nombre.
 
 
 ###  Devoluciones
 
-Todos los rangos.
+Todas las gamas.
 
 
 ```python
+
 def get_referred_areas(self, recalculate):
     ...
 ```
@@ -29,5 +30,5 @@ def get_referred_areas(self, recalculate):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Name](/cells/python-net/es/aspose.cells/name)
+* módulo [`aspose.cells`](../../)
+* clase [`Name`](/cells/python-net/es/aspose.cells/name)

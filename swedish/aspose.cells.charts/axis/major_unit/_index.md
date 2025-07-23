@@ -3,7 +3,7 @@ title: major_unit fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 300
+weight: 310
 url: /sv/aspose.cells.charts/axis/major_unit/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Representerar huvudenheterna för axeln.
 
 ###  Anmärkningar
 
-Huvudenheterna måste vara större än noll.
+De viktigaste enheterna måste vara större än noll.
 ###  Definition:
 ```python
 @property

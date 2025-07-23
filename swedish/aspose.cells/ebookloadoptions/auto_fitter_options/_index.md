@@ -13,7 +13,7 @@ Hämtar och ställer in alternativen för automatisk montering
 
 ###  Anmärkningar
 
-Endast för xlsx, spreadsheetML-fil nu.
+Endast för xlsx, spreadsheetML-filer nu.
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  icon_set_type fastighet
 
-Hämtar och ställer in vilken ikonuppsättning som används i filterkriterierna.
+Hämtar och anger vilken ikonuppsättning som används i filterkriterierna.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def icon_set_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [IconFilter](/cells/python-net/sv/aspose.cells/iconfilter)
-* klass [IconSetType](/cells/python-net/sv/aspose.cells/iconsettype)
+* modul [`aspose.cells`](../../)
+* klass [`IconFilter`](/cells/python-net/sv/aspose.cells/iconfilter)
+* klass [`IconSetType`](/cells/python-net/sv/aspose.cells/iconsettype)

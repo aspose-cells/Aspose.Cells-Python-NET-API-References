@@ -3,13 +3,13 @@ title: calculate_formula fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 70
+weight: 80
 url: /sv/aspose.cells.saving/ebooksaveoptions/calculate_formula/
 is_root: false
 ---
 ##  calculate_formula fastighet
 
-Indikerar om formler ska beräknas innan html-filen sparas.
+Anger om formler ska beräknas innan HTML-filen sparas.
 
 ###  Anmärkningar
 

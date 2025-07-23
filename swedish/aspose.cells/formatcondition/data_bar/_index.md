@@ -11,7 +11,7 @@ is_root: false
 
 Hämta den villkorliga formateringens "DataBar"-instans.
 Standardinstansens färg är blå.
-Endast giltig för typ är DataBar.
+Gäller endast för typen DataBar.
 ###  Definition:
 ```python
 @property
@@ -20,6 +20,6 @@ def data_bar(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DataBar](/cells/python-net/sv/aspose.cells/databar)
-* klass [FormatCondition](/cells/python-net/sv/aspose.cells/formatcondition)
+* modul [`aspose.cells`](../../)
+* klass [`DataBar`](/cells/python-net/sv/aspose.cells/databar)
+* klass [`FormatCondition`](/cells/python-net/sv/aspose.cells/formatcondition)

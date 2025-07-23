@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type fastighet
 
-Indikerar sparkline type för sparklinegruppen.
+Indikerar sparkline-koden type i sparkline-gruppen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [SparklineGroup](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)
-* klass [SparklineType](/cells/python-net/sv/aspose.cells.charts/sparklinetype)
+* modul [`aspose.cells.charts`](../../)
+* klass [`SparklineGroup`](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)
+* klass [`SparklineType`](/cells/python-net/sv/aspose.cells.charts/sparklinetype)

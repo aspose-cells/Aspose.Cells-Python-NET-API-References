@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  area fastighet
 
-Får utbudet av hyperlänkar.
+Hämtar hyperlänkens intervall.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def area(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellArea](/cells/python-net/sv/aspose.cells/cellarea)
-* klass [Hyperlink](/cells/python-net/sv/aspose.cells/hyperlink)
+* modul [`aspose.cells`](../../)
+* klass [`CellArea`](/cells/python-net/sv/aspose.cells/cellarea)
+* klass [`Hyperlink`](/cells/python-net/sv/aspose.cells/hyperlink)

@@ -3,12 +3,12 @@ title: Column clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 270
+weight: 240
 url: /es/aspose.cells/column/
 is_root: false
 ---
 ##  Column clase
-Representa una sola columna en una hoja de trabajo.
+Representa una sola columna en una hoja de cálculo.
 
 
 
@@ -29,9 +29,9 @@ El tipo Column expone los siguientes miembros:
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [apply_style](/cells/python-net/es/aspose.cells/column/apply_style/#aspose.cells.Style-aspose.cells.StyleFlag) |Aplica formatos para una columna completa.|
-| [get_style](/cells/python-net/es/aspose.cells/column/get_style/#) | Obtiene el estilo de esta columna.|
-| [set_style](/cells/python-net/es/aspose.cells/column/set_style/#aspose.cells.Style) | Establece el estilo de esta columna.|
+| [`apply_style(self, style, flag)`](/cells/python-net/es/aspose.cells/column/apply_style/#aspose.cells.style-aspose.cells.styleflag) | Aplica formatos para una columna completa.|
+| [`get_style(self)`](/cells/python-net/es/aspose.cells/column/get_style/#) | Obtiene el estilo de esta columna.|
+| [`set_style(self, style)`](/cells/python-net/es/aspose.cells/column/set_style/#aspose.cells.style) | Establece el estilo de esta columna.|
 
 
 

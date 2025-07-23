@@ -3,7 +3,7 @@ title: ole_objects fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 660
+weight: 690
 url: /sv/aspose.cells/worksheet/ole_objects/
 is_root: false
 ---

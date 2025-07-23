@@ -7,16 +7,17 @@ weight: 30
 url: /sv/aspose.cells/globalizationsettings/get_all_name/
 is_root: false
 ---
-##  get_all_name() {#}
+##  get_all_name(self) {#}
 Hämtar namnet på etiketten "(Alla)" i pivottabellen.
 
 
 ###  Returnerar
 
-Namnet på etiketten "(Alla)".
+Namnet på etiketten "(Alla)"
 
 
 ```python
+
 def get_all_name(self):
     ...
 ```
@@ -24,12 +25,12 @@ def get_all_name(self):
 
 ###  Anmärkningar
 
-OBS: Denna medlem är nu föråldrad. Istället,
-använd metoden GlobalizationSettings.GetColumnLabelsOfPivotTable().
- Den här egenskapen kommer att tas bort 12 månader senare sedan december 2022.
+OBS! Denna medlem är nu föråldrad. Istället,
+Använd metoden GlobalizationSettings.GetColumnLabelsOfPivotTable().
+ Den här egenskapen kommer att tas bort 12 månader senare från och med december 2022.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [GlobalizationSettings](/cells/python-net/sv/aspose.cells/globalizationsettings)
+* modul [`aspose.cells`](../../)
+* klass [`GlobalizationSettings`](/cells/python-net/sv/aspose.cells/globalizationsettings)

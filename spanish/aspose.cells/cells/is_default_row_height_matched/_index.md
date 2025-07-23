@@ -3,13 +3,13 @@ title: is_default_row_height_matched propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1050
+weight: 1080
 url: /es/aspose.cells/cells/is_default_row_height_matched/
 is_root: false
 ---
 ##  is_default_row_height_matched propiedad
 
-Indica que la altura de la fila y la altura de la fuente predeterminada coinciden
+Indica que la altura de fila y la altura de fuente predeterminada coinciden
 ###  Definición:
 ```python
 @property

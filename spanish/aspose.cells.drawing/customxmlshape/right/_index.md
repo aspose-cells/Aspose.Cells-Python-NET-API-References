@@ -3,7 +3,7 @@ title: right propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 860
+weight: 870
 url: /es/aspose.cells.drawing/customxmlshape/right/
 is_root: false
 ---

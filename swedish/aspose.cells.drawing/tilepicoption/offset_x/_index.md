@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  offset_x fastighet
 
-Får eller ställer in X-offset för sida vid sida.
+Hämtar eller ställer in X-offset för att kakla bilden.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def offset_x(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [TilePicOption](/cells/python-net/sv/aspose.cells.drawing/tilepicoption)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`TilePicOption`](/cells/python-net/sv/aspose.cells.drawing/tilepicoption)

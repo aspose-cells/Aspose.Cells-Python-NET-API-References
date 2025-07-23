@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  all_columns_in_one_page_per_sheet propiedad
 
- Si AllColumnsInOnePagePerSheet es verdadero, todo el contenido de la columna de una hoja se generará en una sola página como resultado.
- El ancho del tamaño del papel de la configuración de la página no será válido, y las demás configuraciones de la configuración de la página
-aún tendrá efecto.
+ Si AllColumnsInOnePagePerSheet es verdadero, todo el contenido de las columnas de una hoja se mostrará en una sola página en el resultado.
+ El ancho del tamaño del papel de la configuración de página no será válido, y las demás configuraciones de la configuración de página
+Todavía tendrá efecto.
 ###  Definición:
 ```python
 @property
@@ -23,5 +23,5 @@ def all_columns_in_one_page_per_sheet(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.rendering](../../)
-* clase [ImageOrPrintOptions](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions)
+* módulo [`aspose.cells.rendering`](../../)
+* clase [`ImageOrPrintOptions`](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions)

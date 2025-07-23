@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_marker_t_top fastighet
 
-Indikerar om formateringsfelstaplar med en T-top.
+Indikerar om felstaplar formateras med en T-topp.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_marker_t_top(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ErrorBar](/cells/python-net/sv/aspose.cells.charts/errorbar)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ErrorBar`](/cells/python-net/sv/aspose.cells.charts/errorbar)

@@ -1,5 +1,5 @@
 ---
-title: show_all método
+title: método show_all
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 180
 url: /es/aspose.cells/autofilter/show_all/
 is_root: false
 ---
-##  show_all() {#}
+##  show_all(self) {#}
 Mostrar todas las filas.
 
 
 
 ```python
+
 def show_all(self):
     ...
 ```
@@ -22,5 +23,5 @@ def show_all(self):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [AutoFilter](/cells/python-net/es/aspose.cells/autofilter)
+* módulo [`aspose.cells`](../../)
+* clase [`AutoFilter`](/cells/python-net/es/aspose.cells/autofilter)

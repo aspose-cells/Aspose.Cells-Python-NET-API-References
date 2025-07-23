@@ -7,12 +7,13 @@ weight: 110
 url: /sv/aspose.cells/validation/remove_areas/
 is_root: false
 ---
-##  remove_areas {#list}
-Tar bort denna validering från givna områden.
+##  remove_areas(self, areas) {#list}
+Tar bort denna validering från angivna områden.
 
 
 
 ```python
+
 def remove_areas(self, areas):
     ...
 ```

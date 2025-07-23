@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells/jsonsaveoptions/__init__/
 is_root: false
 ---
-##  JsonSaveOptions() {#}
+##  \_\_init\_\_(yo mismo){#}
 Crea opciones para guardar el archivo json.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [JsonSaveOptions](/cells/python-net/es/aspose.cells/jsonsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`JsonSaveOptions`](/cells/python-net/es/aspose.cells/jsonsaveoptions)

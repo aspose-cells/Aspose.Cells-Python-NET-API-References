@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  shadow fastighet
 
-Sant om serien har ett shadow.
+Sant om serien har en shadow.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Series](/cells/python-net/sv/aspose.cells.charts/series)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Series`](/cells/python-net/sv/aspose.cells.charts/series)

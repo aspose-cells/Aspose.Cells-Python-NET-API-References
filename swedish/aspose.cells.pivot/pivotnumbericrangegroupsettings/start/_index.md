@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  start fastighet
 
-Får gruppens start-nummer.
+Hämtar gruppens nummer start.
 ###  Definition:
 ```python
 @property

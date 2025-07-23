@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type fastighet
 
-Hämtar och ställer in type för fastigheten.
+Hämtar och ställer in type för egenskapen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.properties](../../)
-* klass [ContentTypeProperty](/cells/python-net/sv/aspose.cells.properties/contenttypeproperty)
+* modul [`aspose.cells.properties`](../../)
+* klass [`ContentTypeProperty`](/cells/python-net/sv/aspose.cells.properties/contenttypeproperty)

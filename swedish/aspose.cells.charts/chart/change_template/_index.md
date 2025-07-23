@@ -7,12 +7,13 @@ weight: 30
 url: /sv/aspose.cells.charts/chart/change_template/
 is_root: false
 ---
-##  change_template(data) {#bytes}
+##  change_template(self, data) {#bytes}
 Ändra diagramtyp med förinställd mall.
 
 
 
 ```python
+
 def change_template(self, data):
     ...
 ```
@@ -25,5 +26,5 @@ def change_template(self, data):
 
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Chart](/cells/python-net/sv/aspose.cells.charts/chart)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Chart`](/cells/python-net/sv/aspose.cells.charts/chart)

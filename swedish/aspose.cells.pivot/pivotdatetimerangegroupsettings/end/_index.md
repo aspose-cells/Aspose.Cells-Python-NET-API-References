@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end fastighet
 
-Hämtar end datum och tid för gruppen.
+Hämtar datum och tid end för gruppen.
 ###  Definition:
 ```python
 @property

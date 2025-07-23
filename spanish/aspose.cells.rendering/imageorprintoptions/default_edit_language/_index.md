@@ -3,7 +3,7 @@ title: default_edit_language propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 70
+weight: 80
 url: /es/aspose.cells.rendering/imageorprintoptions/default_edit_language/
 is_root: false
 ---
@@ -13,8 +13,8 @@ Obtiene o establece el idioma de edición predeterminado.
 
 ###  Observaciones
 
-Puede mostrar/representar diferentes diseños para el párrafo de texto cuando se configuran diferentes idiomas de edición.
-El valor predeterminado es [DefaultEditLanguage.AUTO](/cells/python-net/es/aspose.cells/defaulteditlanguage#AUTO).
+Es posible que se muestren o representen diferentes diseños para el párrafo de texto cuando se configuran diferentes idiomas de edición.
+El valor predeterminado es [`DefaultEditLanguage.AUTO`](/cells/python-net/es/aspose.cells/defaulteditlanguage#AUTO).
 ###  Definición:
 ```python
 @property
@@ -26,6 +26,6 @@ def default_edit_language(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.rendering](../../)
-* clase [DefaultEditLanguage](/cells/python-net/es/aspose.cells/defaulteditlanguage)
-* clase [ImageOrPrintOptions](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions)
+* módulo [`aspose.cells.rendering`](../../)
+* clase [`DefaultEditLanguage`](/cells/python-net/es/aspose.cells/defaulteditlanguage)
+* clase [`ImageOrPrintOptions`](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions)

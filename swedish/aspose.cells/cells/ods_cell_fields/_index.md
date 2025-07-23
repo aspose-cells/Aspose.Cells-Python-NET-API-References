@@ -3,13 +3,13 @@ title: ods_cell_fields fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1200
+weight: 1230
 url: /sv/aspose.cells/cells/ods_cell_fields/
 is_root: false
 ---
 ##  ods_cell_fields fastighet
 
-Hämtar listan över odsfält.
+Hämtar listan över fält för ods.
 ###  Definition:
 ```python
 @property

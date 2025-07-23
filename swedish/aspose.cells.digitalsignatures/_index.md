@@ -7,18 +7,18 @@ weight: 10
 url: /sv/aspose.cells.digitalsignatures/
 is_root: false
 ---
- De**Aspose.Cells.DigitalSignatures** namespace tillhandahåller klasser för att signera dokument och verifiera signaturer.
+ De**Aspose.Cells.DigitalSignatures** namnrymden tillhandahåller klasser för att signera dokument och verifiera signaturer.
 
 ###  Klasser
 | Klass| Beskrivning|
 | :- | :- |
-| [DigitalSignature](/cells/python-net/sv/aspose.cells.digitalsignatures/digitalsignature) | Signatur i fil.|
-| [DigitalSignatureCollection](/cells/python-net/sv/aspose.cells.digitalsignatures/digitalsignaturecollection) | Tillhandahåller en samling digitala signaturer bifogade till ett dokument.|
+| [`DigitalSignature`](/cells/python-net/sv/aspose.cells.digitalsignatures/digitalsignature) | Underskrift i filen.|
+| [`DigitalSignatureCollection`](/cells/python-net/sv/aspose.cells.digitalsignatures/digitalsignaturecollection) | Tillhandahåller en samling digitala signaturer som är bifogade till ett dokument.|
 
 
 ###  Uppräkningar
-|Uppräkning| Beskrivning|
+| Uppräkning| Beskrivning|
 | :- | :- |
-| [XAdESType](/cells/python-net/sv/aspose.cells.digitalsignatures/xadestype) | Typ av XML Advanced Electronic Signature (XAdES).|
+| [`XAdESType`](/cells/python-net/sv/aspose.cells.digitalsignatures/xadestype) | Typ av XML avancerad elektronisk signatur (XAdES).|
 
 

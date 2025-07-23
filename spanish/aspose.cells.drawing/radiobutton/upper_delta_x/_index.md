@@ -3,7 +3,7 @@ title: upper_delta_x propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1160
+weight: 1170
 url: /es/aspose.cells.drawing/radiobutton/upper_delta_x/
 is_root: false
 ---

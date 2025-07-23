@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  gradient_color2 propiedad
 
-Devuelve el color de degradado 2 para el relleno especificado.
+Devuelve el color degradado 2 para el relleno especificado.
 
 ###  Observaciones
 
-Solo cuando el tipo de color degradado es GradientColorType.TwoColors, esta propiedad es significativa.
+Solo cuando el tipo de color del degradado es GradientColorType.TwoColors, esta propiedad es significativa.
 ###  Definición:
 ```python
 @property
@@ -22,5 +22,5 @@ def gradient_color2(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [LineFormat](/cells/python-net/es/aspose.cells.drawing/lineformat)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`LineFormat`](/cells/python-net/es/aspose.cells.drawing/lineformat)

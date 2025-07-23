@@ -3,27 +3,27 @@ title: inner_x fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 170
+weight: 250
 url: /sv/aspose.cells.charts/plotarea/inner_x/
 is_root: false
 ---
 ##  inner_x fastighet
 
-Hämtar eller hämtar x-koordinaten för det övre övre hörnet av plotområdet i enheter på 1/4000 av diagramytan.
+Hämtar eller hämtar x-koordinaten för det övre hörnet av plottarean i enheter om 1/4000 av diagramarean.
 
 ###  Anmärkningar
 
-Avgränsningsrutan för plottarea inkluderar tomtområdet, bockmarkeringar (tick-etiketter) och en liten ram runt bockmarkeringarna.
+Avgränsningsrutan för plottområdet inkluderar plottområdet, skalmarkeringar (skaketiketter) och en liten ram runt skalmarkeringarna.
  Om värdet inte skapas av MS Excel, anropa metoden Chart.Calculate() innan du anropar den här metoden.
 
 
- De**X** , **Y** , **Bredd** och**Höjd** av**PlotArea** representerar tomtområdet
- begränsningsruta som inkluderar tomtområdet, bockmarkeringar (tick-etiketter) och en liten kant runt bockmarkeringarna.
- Vill du få verklig storlek på tomtarea ska du ringa**InnerX** , **InreY** , **InnerWidth** och
-**Innerhöjd** egenskaper.
+ De**X**, **Y** , **Bredd** och**Höjd** av**Tomtområde** representerar plot-arean
+ en avgränsningsruta som inkluderar ritområdet, skalstreck (skaketiketter) och en liten ram runt skalstrecken.
+ Om du vill få den faktiska storleken på tomtytan bör du ringa**InnerXRatioToDiagram** , **InnerY-förhållandeTillDiagram** , **InnerbreddförhållandeTillDiagram** och
+**InnerhöjdförhållandeTillDiagram** egenskaper.
 
 
-För excel 2007 eller senare är standardvärdet noll. du bör anropa få värdet efter att ha anropat Chart.Calculate().
+För Excel 2007 eller senare är standardvärdet noll. Du bör anropa `get the value` efter att ha anropat Chart.Calculate().
 ###  Definition:
 ```python
 @property
@@ -35,5 +35,5 @@ def inner_x(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [PlotArea](/cells/python-net/sv/aspose.cells.charts/plotarea)
+* modul [`aspose.cells.charts`](../../)
+* klass [`PlotArea`](/cells/python-net/sv/aspose.cells.charts/plotarea)

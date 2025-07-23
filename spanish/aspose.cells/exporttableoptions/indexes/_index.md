@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  indexes propiedad
 
-El indexes de columnas/filas que deben exportarse.
+Las indexes columnas/filas que se deben exportar.
 ###  Definición:
 ```python
 @property

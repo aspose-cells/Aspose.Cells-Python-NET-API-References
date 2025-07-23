@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_top fastighet
 
-Indikerar om det är toppfiltret.
+Anger om det är det övre filtret.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_top(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Top10Filter](/cells/python-net/sv/aspose.cells/top10filter)
+* modul [`aspose.cells`](../../)
+* klass [`Top10Filter`](/cells/python-net/sv/aspose.cells/top10filter)

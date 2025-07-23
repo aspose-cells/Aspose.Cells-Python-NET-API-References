@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  shrink_to_fit fastighet
 
-Representerar om text automatiskt krymper för att passa den tillgängliga kolumnbredden.
+Representerar om texten automatiskt krymper för att passa in i den tillgängliga kolumnbredden.
 ###  Definition:
 ```python
 @property

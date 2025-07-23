@@ -7,12 +7,13 @@ weight: 20
 url: /es/aspose.cells/cell/calculate/
 is_root: false
 ---
-##  calculate {#aspose.cells.CalculationOptions}
+##  calculate(self, options) {#aspose.cells.CalculationOptions}
 Calcula la fórmula de la celda.
 
 
 
 ```python
+
 def calculate(self, options):
     ...
 ```

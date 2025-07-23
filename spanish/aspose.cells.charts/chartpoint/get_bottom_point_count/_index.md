@@ -1,5 +1,5 @@
 ---
-title: get_bottom_point_count método
+title: método get_bottom_point_count
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 20
 url: /es/aspose.cells.charts/chartpoint/get_bottom_point_count/
 is_root: false
 ---
-##  get_bottom_point_count() {#}
+##  get_bottom_point_count(self) {#}
 Obtiene el número de puntos inferiores después de llamar al método Chart.Calculate().
 
 
 
 ```python
+
 def get_bottom_point_count(self):
     ...
 ```
@@ -22,5 +23,5 @@ def get_bottom_point_count(self):
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [ChartPoint](/cells/python-net/es/aspose.cells.charts/chartpoint)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`ChartPoint`](/cells/python-net/es/aspose.cells.charts/chartpoint)

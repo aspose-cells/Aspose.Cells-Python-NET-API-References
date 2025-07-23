@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font propiedad
 
-Se aplicará la configuración de fuente.
+Se aplicarán las configuraciones de fuente.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def font(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [StyleFlag](/cells/python-net/es/aspose.cells/styleflag)
+* módulo [`aspose.cells`](../../)
+* clase [`StyleFlag`](/cells/python-net/es/aspose.cells/styleflag)

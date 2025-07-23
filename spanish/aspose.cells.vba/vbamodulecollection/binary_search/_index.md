@@ -7,16 +7,17 @@ weight: 50
 url: /es/aspose.cells.vba/vbamodulecollection/binary_search/
 is_root: false
 ---
-##  binary_search {#aspose.cells.vba.VbaModule}
-Busca un elemento en toda la lista de matriz ordenada utilizando el comparador predeterminado y devuelve el índice de base cero del elemento.
+##  binary_search(self, item) {#aspose.cells.vba.VbaModule}
+Busca en toda la lista de la matriz ordenada un elemento utilizando el comparador predeterminado y devuelve el índice basado en cero del elemento.
 
 
 ###  Devoluciones
 
-El índice de valor de base cero en la lista de matriz ordenada, si se encuentra el elemento; de lo contrario, un número negativo, que es el complemento bit a bit del índice del siguiente elemento que es mayor que el valor o, si no hay ningún elemento mayor, el complemento bit a bit de la lista de matriz Count.
+El índice basado en cero del valor en la lista de la matriz ordenada, si se encuentra el elemento; de lo contrario, un número negativo, que es el complemento bit a bit del índice del siguiente elemento que es mayor que el valor o, si no hay ningún elemento mayor, el complemento bit a bit de la lista de la matriz Count.
 
 
 ```python
+
 def binary_search(self, item):
     ...
 ```
@@ -24,7 +25,7 @@ def binary_search(self, item):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| item | [`VbaModule`](/cells/python-net/es/aspose.cells.vba/vbamodule) | El System.Object a localizar. El valor puede ser nulo.|
+| item | [`VbaModule`](/cells/python-net/es/aspose.cells.vba/vbamodule) | El objeto System.Object que se va a localizar. El valor puede ser nulo.|
 
 
 

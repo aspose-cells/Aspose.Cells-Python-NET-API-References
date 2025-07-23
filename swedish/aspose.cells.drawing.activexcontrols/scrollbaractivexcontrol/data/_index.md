@@ -8,8 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/data/
 is_root: false
 ---
 ##  data fastighet
-
-Hämtar och ställer in kontrollens binära data.
 ###  Definition:
 ```python
 @property
@@ -18,5 +16,5 @@ def data(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ScrollBarActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ScrollBarActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

@@ -18,14 +18,16 @@ Typen ChartDataTable avslöjar följande medlemmar:
 | Fast egendom| Beskrivning|
 | :- | :- |
 | [font](/cells/python-net/sv/aspose.cells.charts/chartdatatable/font) | Hämtar ett [`ChartDataTable.font`](/cells/python-net/sv/aspose.cells.charts/chartdatatable#font)-objekt som representerar teckensnittsinställningen för den angivna diagramdatatabellen.|
-| [auto_scale_font](/cells/python-net/sv/aspose.cells.charts/chartdatatable/auto_scale_font) | Sant om texten i objektet ändrar teckenstorlek när objektstorleken ändras.<br/>Standardvärdet är True.|
-| [background_mode](/cells/python-net/sv/aspose.cells.charts/chartdatatable/background_mode) | Hämtar och ställer in visningsläget för bakgrunden|
-| [background](/cells/python-net/sv/aspose.cells.charts/chartdatatable/background) | Hämtar och ställer in visningsläget för bakgrunden|
+| [auto_scale_font](/cells/python-net/sv/aspose.cells.charts/chartdatatable/auto_scale_font) | Sant om texten i objektet ändrar teckenstorlek när objektstorleken ändras.<br/> Standardvärdet är Sant.|
+| [background_mode](/cells/python-net/sv/aspose.cells.charts/chartdatatable/background_mode) | Hämtar och ställer in bakgrundens visningsläge|
 | [has_border_horizontal](/cells/python-net/sv/aspose.cells.charts/chartdatatable/has_border_horizontal) | Sant om diagramdatatabellen har horisontella cellkanter|
-| [has_border_vertical](/cells/python-net/sv/aspose.cells.charts/chartdatatable/has_border_vertical) | Sant om diagramdatatabellen har vertikala cellkanter|
-| [has_border_outline](/cells/python-net/sv/aspose.cells.charts/chartdatatable/has_border_outline) | Sant om diagramdatatabellen har konturgränser|
-| [show_legend_key](/cells/python-net/sv/aspose.cells.charts/chartdatatable/show_legend_key) | Sant om nyckeln för dataetikettförklaringen är synlig.|
-| [border](/cells/python-net/sv/aspose.cells.charts/chartdatatable/border) | Returnerar ett Border-objekt som representerar objektets kant|
+| [has_horizontal_border](/cells/python-net/sv/aspose.cells.charts/chartdatatable/has_horizontal_border) | Sant om diagramdatatabellen har horisontella cellkanter|
+| [has_border_vertical](/cells/python-net/sv/aspose.cells.charts/chartdatatable/has_border_vertical) |Sant om diagramdatatabellen har vertikala cellkanter|
+| [has_vertical_border](/cells/python-net/sv/aspose.cells.charts/chartdatatable/has_vertical_border) |Sant om diagramdatatabellen har vertikala cellkanter|
+| [has_border_outline](/cells/python-net/sv/aspose.cells.charts/chartdatatable/has_border_outline) | Sant om diagramdatatabellen har konturkanter|
+| [has_outline_border](/cells/python-net/sv/aspose.cells.charts/chartdatatable/has_outline_border) | Sant om diagramdatatabellen har konturkanter|
+| [show_legend_key](/cells/python-net/sv/aspose.cells.charts/chartdatatable/show_legend_key) | Sant om dataetikettens förklaringsnyckel är synlig.|
+| [border](/cells/python-net/sv/aspose.cells.charts/chartdatatable/border) | Returnerar ett Border-objekt som representerar objektets kantlinje|
 
 
 

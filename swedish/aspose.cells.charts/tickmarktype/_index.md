@@ -8,7 +8,7 @@ url: /sv/aspose.cells.charts/tickmarktype/
 is_root: false
 ---
 ##  TickMarkType uppräkning
-Representerar bockmarkeringstypen för den angivna axeln.
+Representerar skalstrecktypen för den angivna axeln.
 
 
 
@@ -17,10 +17,10 @@ Typen TickMarkType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| CROSS | Krysstyp är Cross.|
-| INSIDE | Kryssningstyp är Inuti.|
-| NONE | Kryssningstyp är Ingen.|
-| OUTSIDE | Kryssningstyp är Utanför|
+| CROSS | Markeringstypen är ett kryss.|
+| INSIDE | Bockmarkeringstypen är Inuti.|
+| NONE | Markeringstypen är Ingen.|
+| OUTSIDE | Markeringstypen är Utanför|
 
 
 

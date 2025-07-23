@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font fastighet
 
-Får ett [Style.font](/cells/python-net/sv/aspose.cells/style#font) objekt.
+Hämtar ett [`Style.font`](/cells/python-net/sv/aspose.cells/style#font)-objekt.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def font(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Font](/cells/python-net/sv/aspose.cells/font)
-* klass [Style](/cells/python-net/sv/aspose.cells/style)
+* modul [`aspose.cells`](../../)
+* klass [`Font`](/cells/python-net/sv/aspose.cells/font)
+* klass [`Style`](/cells/python-net/sv/aspose.cells/style)

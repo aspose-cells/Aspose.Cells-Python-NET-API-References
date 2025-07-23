@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  forward propiedad
 
-Devuelve o establece el número de períodos (o unidades en un gráfico de dispersión) que la línea de tendencia se extiende forward.
+Devuelve o establece el número de períodos (o unidades en un gráfico de dispersión) que extiende la línea de tendencia forward.
 El número de periodos debe ser mayor o igual a cero.
 ###  Definición:
 ```python
@@ -22,5 +22,5 @@ def forward(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Trendline](/cells/python-net/es/aspose.cells.charts/trendline)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Trendline`](/cells/python-net/es/aspose.cells.charts/trendline)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  pattern fastighet
 
-Hämtar eller ställer in fyllningen pattern typ
+Hämtar eller anger fyllningstypen pattern
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def pattern(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [FillPattern](/cells/python-net/sv/aspose.cells.drawing/fillpattern)
-* klass [PatternFill](/cells/python-net/sv/aspose.cells.drawing/patternfill)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`FillPattern`](/cells/python-net/sv/aspose.cells.drawing/fillpattern)
+* klass [`PatternFill`](/cells/python-net/sv/aspose.cells.drawing/patternfill)

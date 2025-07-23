@@ -8,7 +8,7 @@ url: /sv/aspose.cells.numbers/loadnumberstabletype/
 is_root: false
 ---
 ##  LoadNumbersTableType uppräkning
-Indikerar typ av laddningstabeller när vissa tabeller finns i ett ark.
+Anger typen av laddning av tabeller när vissa tabeller finns i ett ark.
 
 
 
@@ -24,4 +24,4 @@ Typen LoadNumbersTableType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.numbers](..)
+* modul [`aspose.cells.numbers`](..)

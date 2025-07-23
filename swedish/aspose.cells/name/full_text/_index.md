@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  full_text fastighet
 
-Hämtar namnet i fulltext för objektet med omfattningsinställningen.
+Hämtar objektets namn i sin helhet med omfångsinställningen.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def full_text(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Name](/cells/python-net/sv/aspose.cells/name)
+* modul [`aspose.cells`](../../)
+* klass [`Name`](/cells/python-net/sv/aspose.cells/name)

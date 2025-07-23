@@ -3,16 +3,17 @@ title: subtotal metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 910
+weight: 930
 url: /sv/aspose.cells/cells/subtotal/
 is_root: false
 ---
-##  subtotal {#aspose.cells.CellArea-int-aspose.cells.ConsolidationFunction-list}
+##  subtotal(self, ca, group_by, function, total_list) {#aspose.cells.CellArea-int-aspose.cells.ConsolidationFunction-list}
 Skapar delsummor för intervallet.
 
 
 
 ```python
+
 def subtotal(self, ca, group_by, function, total_list):
     ...
 ```
@@ -20,18 +21,19 @@ def subtotal(self, ca, group_by, function, total_list):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| ca | [`CellArea`](/cells/python-net/sv/aspose.cells/cellarea) | Räckvidden|
-| group_by | int | Fältet att gruppera efter, som en nollbaserad heltalsoffset|
-| function | [`ConsolidationFunction`](/cells/python-net/sv/aspose.cells/consolidationfunction) | Subtotalfunktionen.|
-| total_list | list | En matris med nollbaserade fältförskjutningar, som indikerar de fält till vilka delsummorna läggs till.|
+| ca | [`CellArea`](/cells/python-net/sv/aspose.cells/cellarea) | Utbudet|
+| group_by | int | Fältet att gruppera efter, som en nollbaserad heltalsförskjutning|
+| function | [`ConsolidationFunction`](/cells/python-net/sv/aspose.cells/consolidationfunction) | Delsummefunktionen.|
+| total_list | list |En matris med nollbaserade fältförskjutningar som anger de fält till vilka delsummorna läggs till.|
 
 
-##  subtotal {#aspose.cells.CellArea-int-aspose.cells.ConsolidationFunction-list-bool-bool-bool}
+##  subtotal(self, ca, group_by, function, total_list, replace, page_breaks, summary_below_data) {#aspose.cells.CellArea-int-aspose.cells.ConsolidationFunction-list-bool-bool-bool}
 Skapar delsummor för intervallet.
 
 
 
 ```python
+
 def subtotal(self, ca, group_by, function, total_list, replace, page_breaks, summary_below_data):
     ...
 ```
@@ -39,13 +41,13 @@ def subtotal(self, ca, group_by, function, total_list, replace, page_breaks, sum
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| ca | [`CellArea`](/cells/python-net/sv/aspose.cells/cellarea) | Räckvidden|
-| group_by | int | Fältet att gruppera efter, som en nollbaserad heltalsoffset|
-| function | [`ConsolidationFunction`](/cells/python-net/sv/aspose.cells/consolidationfunction) | Subtotalfunktionen.|
-| total_list | list | En matris med nollbaserade fältförskjutningar, som indikerar de fält till vilka delsummorna läggs till.|
-| replace | bool | Anger om de nuvarande delsummorna ersätts|
-| page_breaks | bool | Anger om man lägger till sidbrytning mellan grupper|
-| summary_below_data | bool | Anger om du lägger till sammanfattning nedanför data.|
+| ca | [`CellArea`](/cells/python-net/sv/aspose.cells/cellarea) | Utbudet|
+| group_by | int | Fältet att gruppera efter, som en nollbaserad heltalsförskjutning|
+| function | [`ConsolidationFunction`](/cells/python-net/sv/aspose.cells/consolidationfunction) | Delsummefunktionen.|
+| total_list | list |En matris med nollbaserade fältförskjutningar som anger de fält till vilka delsummorna läggs till.|
+| replace | bool | Anger om aktuella delsummor ska ersättas|
+| page_breaks | bool | Anger om sidbrytning ska läggas till mellan grupper|
+| summary_below_data | bool | Anger om en sammanfattning ska läggas till under data.|
 
 
 

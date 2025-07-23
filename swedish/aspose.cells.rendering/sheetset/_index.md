@@ -3,7 +3,7 @@ title: SheetSet klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 110
+weight: 120
 url: /sv/aspose.cells.rendering/sheetset/
 is_root: false
 ---
@@ -17,16 +17,18 @@ Typen SheetSet avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [SheetSet(sheets)](/cells/python-net/sv/aspose.cells.rendering/sheetset/__init__/#list) | Skapar en arkuppsättning baserat på exakta arkindex.|
+| [`__init__(self, sheet_indexes)`](/cells/python-net/sv/aspose.cells.rendering/sheetset/__init__/#list) | Skapar en arkuppsättning baserad på exakta arkindex.|
+| [`__init__(self, sheet_names)`](/cells/python-net/sv/aspose.cells.rendering/sheetset/__init__/#list) | Skapar en arkuppsättning baserad på exakta arknamn.|
 
 
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [visible](/cells/python-net/sv/aspose.cells.rendering/sheetset/visible) | Får en uppsättning med synliga ark av arbetsboken i sin ursprungliga ordning.|
-| [all](/cells/python-net/sv/aspose.cells.rendering/sheetset/all) | Får en uppsättning med alla ark i arbetsboken i sin ursprungliga ordning.|
+| [active](/cells/python-net/sv/aspose.cells.rendering/sheetset/active) | Hämtar en uppsättning med det aktiva bladet i arbetsboken.|
+| [visible](/cells/python-net/sv/aspose.cells.rendering/sheetset/visible) | Hämtar en uppsättning med synliga ark från arbetsboken i deras ursprungliga ordning.|
+| [all](/cells/python-net/sv/aspose.cells.rendering/sheetset/all) | Hämtar en uppsättning med alla blad i arbetsboken i deras ursprungliga ordning.|
 
 
 
 ###  Se även
-* modul [aspose.cells.rendering](..)
+* modul [`aspose.cells.rendering`](..)

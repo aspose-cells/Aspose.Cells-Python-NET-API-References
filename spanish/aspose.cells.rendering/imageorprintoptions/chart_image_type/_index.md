@@ -9,15 +9,15 @@ is_root: false
 ---
 ##  chart_image_type propiedad
 
-Indique el tipo de imagen del gráfico al convertir.
+Indique el tipo de imagen del gráfico al realizar la conversión.
 valor predeterminado: PNG.
 
 ###  Observaciones
 
- NOTA: Este miembro ahora está obsoleto. En cambio,
-Chart y Shape siempre se representan como elementos vectoriales (p. ej., punto, línea) para obtener calidad de representación.
- Esta propiedad se eliminará 12 meses después desde junio de 2022.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+ NOTA: Este miembro ya no está disponible. En su lugar,
+El gráfico y la forma siempre se representan como elementos vectoriales (por ejemplo, punto, línea) para mejorar la calidad de la representación.
+ Esta propiedad será eliminada 12 meses después desde junio de 2022.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 ###  Definición:
 ```python
 @property
@@ -29,5 +29,5 @@ def chart_image_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.rendering](../../)
-* clase [ImageOrPrintOptions](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions)
+* módulo [`aspose.cells.rendering`](../../)
+* clase [`ImageOrPrintOptions`](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions)

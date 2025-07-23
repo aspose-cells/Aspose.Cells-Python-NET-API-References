@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  index propiedad
 
-Obtiene y establece el icono index en el conjunto de iconos.
+Obtiene y establece el ícono index en el conjunto de íconos.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def index(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ConditionalFormattingIcon](/cells/python-net/es/aspose.cells/conditionalformattingicon)
+* módulo [`aspose.cells`](../../)
+* clase [`ConditionalFormattingIcon`](/cells/python-net/es/aspose.cells/conditionalformattingicon)

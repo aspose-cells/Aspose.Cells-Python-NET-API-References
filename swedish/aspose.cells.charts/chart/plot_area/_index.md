@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_area fastighet
 
-Hämtar diagrammets plotområde som inkluderar axelmarkeringsetiketter.
+Hämtar diagrammets plottområde som inkluderar axeltacketiketter.
 
 ###  Anmärkningar
 

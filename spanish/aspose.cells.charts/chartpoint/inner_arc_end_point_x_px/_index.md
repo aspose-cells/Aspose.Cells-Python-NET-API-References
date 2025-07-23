@@ -3,7 +3,7 @@ title: inner_arc_end_point_x_px propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 220
+weight: 230
 url: /es/aspose.cells.charts/chartpoint/inner_arc_end_point_x_px/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def inner_arc_end_point_x_px(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [ChartPoint](/cells/python-net/es/aspose.cells.charts/chartpoint)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`ChartPoint`](/cells/python-net/es/aspose.cells.charts/chartpoint)

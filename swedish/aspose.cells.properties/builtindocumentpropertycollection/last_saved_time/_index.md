@@ -3,13 +3,13 @@ title: last_saved_time fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 260
+weight: 270
 url: /sv/aspose.cells.properties/builtindocumentpropertycollection/last_saved_time/
 is_root: false
 ---
 ##  last_saved_time fastighet
 
-Hämtar eller ställer in tiden för den senaste lagringen i lokal tidszon.
+Hämtar eller ställer in tiden för den senaste sparningen i lokal tidszon.
 
 ###  Anmärkningar
 
@@ -25,5 +25,5 @@ def last_saved_time(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.properties](../../)
-* klass [BuiltInDocumentPropertyCollection](/cells/python-net/sv/aspose.cells.properties/builtindocumentpropertycollection)
+* modul [`aspose.cells.properties`](../../)
+* klass [`BuiltInDocumentPropertyCollection`](/cells/python-net/sv/aspose.cells.properties/builtindocumentpropertycollection)

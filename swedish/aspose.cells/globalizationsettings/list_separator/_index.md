@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  list_separator fastighet
 
-Hämtar separatorn för lista, funktionsparametrar, ... etc.
+Hämtar separatorn för lista, funktionens parametrar, ...etc.
 ###  Definition:
 ```python
 @property

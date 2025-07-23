@@ -3,13 +3,13 @@ title: cell_watches fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 390
+weight: 410
 url: /sv/aspose.cells/worksheet/cell_watches/
 is_root: false
 ---
 ##  cell_watches fastighet
 
-Får samling av celler på detta kalkylblad som övervakas i "bevakningsfönstret".
+Hämtar en samling celler i detta kalkylblad som bevakas i "övervakningsfönstret".
 ###  Definition:
 ```python
 @property

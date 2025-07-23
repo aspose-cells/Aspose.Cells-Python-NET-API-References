@@ -3,13 +3,13 @@ title: text_options fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 490
+weight: 560
 url: /sv/aspose.cells.charts/datalabels/text_options/
 is_root: false
 ---
 ##  text_options fastighet
 
-Hämtar och ställer in alternativen för texten.
+Hämtar och anger textens alternativ.
 ###  Definition:
 ```python
 @property

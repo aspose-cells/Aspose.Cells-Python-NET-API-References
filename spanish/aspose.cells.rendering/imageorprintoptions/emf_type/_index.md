@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  emf_type propiedad
 
-Obtiene o establece un EmfType que especifica el formato del metarchivo.
+Obtiene o establece un EmfType que especifica el formato del Metafile.
 El valor predeterminado es EmfPlusDual.
 ###  Definición:
 ```python

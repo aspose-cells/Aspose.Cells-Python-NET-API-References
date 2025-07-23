@@ -8,7 +8,7 @@ url: /sv/aspose.cells.charts/mapchartprojectiontype/
 is_root: false
 ---
 ##  MapChartProjectionType uppräkning
-Representerar projektionstyp för kartdiagrammet.
+Representerar projektionstypen för kartdiagrammet.
 
 
 
@@ -25,4 +25,4 @@ Typen MapChartProjectionType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

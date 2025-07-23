@@ -8,12 +8,11 @@ url: /es/aspose.cells.drawing.texts/autonumberedbulletvalue/
 is_root: false
 ---
 ##  AutoNumberedBulletValue clase
-Representa una viñeta numerada automáticamente.
+Representa una viñeta numerada automática.
 
 
 
-**Herencia:** [AutoNumberedBulletValue](/cells/python-net/aspose.cells.drawing.texts/autonumberedbulletvalue) → 
-[BulletValue](/cells/python-net/es/aspose.cells.drawing.texts/bulletvalue)
+**Herencia:** [`AutoNumberedBulletValue`](/cells/python-net/es/aspose.cells.drawing.texts/autonumberedbulletvalue)
 
 
 
@@ -22,7 +21,7 @@ El tipo AutoNumberedBulletValue expone los siguientes miembros:
 ###  Constructores
 | Constructor| Descripción|
 | :- | :- |
-| [AutoNumberedBulletValue()](/cells/python-net/es/aspose.cells.drawing.texts/autonumberedbulletvalue/__init__/#) | Construye una nueva instancia de AutoNumberedBulletValue|
+| [`__init__(self)`](/cells/python-net/es/aspose.cells.drawing.texts/autonumberedbulletvalue/__init__/#) | Construye una nueva instancia de AutoNumberedBulletValue|
 
 
 ###  Propiedades
@@ -35,6 +34,5 @@ El tipo AutoNumberedBulletValue expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](..)
-* clase [AutoNumberedBulletValue](/cells/python-net/es/aspose.cells.drawing.texts/autonumberedbulletvalue)
-* clase [BulletValue](/cells/python-net/es/aspose.cells.drawing.texts/bulletvalue)
+* módulo [`aspose.cells.drawing.texts`](..)
+* clase [`AutoNumberedBulletValue`](/cells/python-net/es/aspose.cells.drawing.texts/autonumberedbulletvalue)

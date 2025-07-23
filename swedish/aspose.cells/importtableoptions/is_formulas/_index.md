@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_formulas fastighet
 
-Anger om uppgifterna är formler.
+Anger om informationen är formler.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_formulas(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ImportTableOptions](/cells/python-net/sv/aspose.cells/importtableoptions)
+* modul [`aspose.cells`](../../)
+* klass [`ImportTableOptions`](/cells/python-net/sv/aspose.cells/importtableoptions)

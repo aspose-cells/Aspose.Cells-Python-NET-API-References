@@ -17,14 +17,14 @@ El tipo WebExtensionTaskPane expone los siguientes miembros:
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [web_extension](/cells/python-net/es/aspose.cells.webextensions/webextensiontaskpane/web_extension) | Obtiene y establece la parte de la extensión web asociada con la instancia del panel de tareas|
+| [web_extension](/cells/python-net/es/aspose.cells.webextensions/webextensiontaskpane/web_extension) | Obtiene y establece la parte de extensión web asociada con la instancia del panel de tareas|
 | [dock_state](/cells/python-net/es/aspose.cells.webextensions/webextensiontaskpane/dock_state) | Obtiene y establece la última ubicación acoplada de este objeto del panel de tareas.|
-| [is_visible](/cells/python-net/es/aspose.cells.webextensions/webextensiontaskpane/is_visible) | Indica si el Panel de tareas se muestra como visible de forma predeterminada cuando se abre el documento.|
-| [is_locked](/cells/python-net/es/aspose.cells.webextensions/webextensiontaskpane/is_locked) | Indica si el panel de tareas está bloqueado para el documento en la interfaz de usuario y el usuario no puede cerrarlo.|
+| [is_visible](/cells/python-net/es/aspose.cells.webextensions/webextensiontaskpane/is_visible) |Indica si el Panel de tareas se muestra como visible de forma predeterminada cuando se abre el documento.|
+| [is_locked](/cells/python-net/es/aspose.cells.webextensions/webextensiontaskpane/is_locked) | Indica si el panel de tareas está bloqueado en el documento en la interfaz de usuario y el usuario no puede cerrarlo.|
 | [width](/cells/python-net/es/aspose.cells.webextensions/webextensiontaskpane/width) | Obtiene y establece el valor de ancho predeterminado para esta instancia del panel de tareas.|
-| [row](/cells/python-net/es/aspose.cells.webextensions/webextensiontaskpane/row) | Obtiene y establece el índice, enumerado desde el exterior hacia el interior, de este panel de tareas entre otros paneles de tareas persistentes acoplados en la misma ubicación predeterminada.|
+| [row](/cells/python-net/es/aspose.cells.webextensions/webextensiontaskpane/row) | Obtiene y establece el índice, enumerando desde afuera hacia adentro, de este panel de tareas entre otros paneles de tareas persistentes acoplados en la misma ubicación predeterminada.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.webextensions](..)
+* módulo [`aspose.cells.webextensions`](..)

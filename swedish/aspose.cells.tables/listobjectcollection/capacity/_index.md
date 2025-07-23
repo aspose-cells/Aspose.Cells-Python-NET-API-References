@@ -3,7 +3,7 @@ title: capacity fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 90
+weight: 100
 url: /sv/aspose.cells.tables/listobjectcollection/capacity/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.tables](../../)
-* klass [ListObjectCollection](/cells/python-net/sv/aspose.cells.tables/listobjectcollection)
+* modul [`aspose.cells.tables`](../../)
+* klass [`ListObjectCollection`](/cells/python-net/sv/aspose.cells.tables/listobjectcollection)

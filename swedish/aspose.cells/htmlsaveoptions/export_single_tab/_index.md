@@ -3,7 +3,7 @@ title: export_single_tab fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 360
+weight: 420
 url: /sv/aspose.cells/htmlsaveoptions/export_single_tab/
 is_root: false
 ---

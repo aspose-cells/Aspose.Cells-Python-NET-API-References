@@ -3,7 +3,7 @@ title: custom_document_properties fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 500
+weight: 520
 url: /sv/aspose.cells/workbook/custom_document_properties/
 is_root: false
 ---

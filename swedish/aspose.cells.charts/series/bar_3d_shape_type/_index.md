@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bar_3d_shape_type fastighet
 
-Hämtar eller ställer in 3D-formtypen som används med 3D-stapel- eller kolumndiagrammet.
+Hämtar eller anger den 3D-formtyp som används med 3D-stapel- eller kolumndiagrammet.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def bar_3d_shape_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Bar3DShapeType](/cells/python-net/sv/aspose.cells.charts/bar3dshapetype)
-* klass [Series](/cells/python-net/sv/aspose.cells.charts/series)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Bar3DShapeType`](/cells/python-net/sv/aspose.cells.charts/bar3dshapetype)
+* klass [`Series`](/cells/python-net/sv/aspose.cells.charts/series)

@@ -3,13 +3,17 @@ title: memory_setting propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 330
+weight: 360
 url: /es/aspose.cells/workbooksettings/memory_setting/
 is_root: false
 ---
 ##  memory_setting propiedad
 
-Obtiene o establece las opciones de uso de memoria. La nueva opción se tomará como la opción predeterminada para las hojas de trabajo recién creadas, pero no tendrá efecto para las hojas de trabajo existentes.
+Obtiene o establece las opciones de uso de memoria. La nueva opción se tomará como predeterminada para las hojas de cálculo recién creadas, pero no se aplicará a las hojas de cálculo existentes.
+
+###  Observaciones
+
+Para obtener más detalles sobre el modo de memoria, consulte [`Cells.memory_setting`](/cells/python-net/es/aspose.cells/cells#memory_setting).
 ###  Definición:
 ```python
 @property

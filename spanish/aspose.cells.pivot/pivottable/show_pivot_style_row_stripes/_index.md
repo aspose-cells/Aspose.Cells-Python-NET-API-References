@@ -3,7 +3,7 @@ title: show_pivot_style_row_stripes propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 970
+weight: 1100
 url: /es/aspose.cells.pivot/pivottable/show_pivot_style_row_stripes/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_pivot_style_row_stripes(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.pivot](../../)
-* clase [PivotTable](/cells/python-net/es/aspose.cells.pivot/pivottable)
+* módulo [`aspose.cells.pivot`](../../)
+* clase [`PivotTable`](/cells/python-net/es/aspose.cells.pivot/pivottable)

@@ -3,13 +3,13 @@ title: minor_grid_lines fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 340
+weight: 350
 url: /sv/aspose.cells.charts/axis/minor_grid_lines/
 is_root: false
 ---
 ##  minor_grid_lines fastighet
 
-Representerar mindre rutnät på en diagramaxel.
+Representerar mindre stödlinjer på en diagramaxel.
 ###  Definition:
 ```python
 @property

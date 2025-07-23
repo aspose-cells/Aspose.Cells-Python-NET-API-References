@@ -10,8 +10,8 @@ is_root: false
 ##  enter_key_behavior propiedad
 
 Especifica el comportamiento de la tecla ENTER.
-True especifica que al presionar ENTER se creará una nueva línea.
-Falso especifica que al presionar ENTRAR se moverá el enfoque al siguiente objeto en el orden de tabulación.
+Verdadero especifica que al presionar ENTER se creará una nueva línea.
+Falso especifica que al presionar ENTER se moverá el foco al siguiente objeto en el orden de tabulación.
 ###  Definición:
 ```python
 @property
@@ -23,5 +23,5 @@ def enter_key_behavior(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [TextBoxActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`TextBoxActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

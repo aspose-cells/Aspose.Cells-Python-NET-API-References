@@ -3,18 +3,18 @@ title: custom_properties fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 460
+weight: 480
 url: /sv/aspose.cells/worksheet/custom_properties/
 is_root: false
 ---
 ##  custom_properties fastighet
 
- Får ett objekt som representerar
-identifieringsinformationen som är kopplad till ett kalkylblad.
+ Hämtar ett objekt som representerar
+identifierarinformationen som är associerad med ett kalkylblad.
 
 ###  Anmärkningar
 
- Worksheet.CustomProperties tillhandahåller en föredragen mekanism för att lagra godtyckliga data.
+Worksheet.CustomProperties tillhandahåller en föredragen mekanism för att lagra godtyckliga data.
 Den stöder äldre dokumentkomponenter från tredje part, såväl som de situationer som har ett strikt behov av binära delar.
 ###  Definition:
 ```python

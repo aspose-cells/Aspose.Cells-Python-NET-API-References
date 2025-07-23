@@ -17,7 +17,7 @@ El tipo CustomProperty expone los siguientes miembros:
 ###  Constructores
 | Constructor| Descripción|
 | :- | :- |
-| [CustomProperty()](/cells/python-net/es/aspose.cells.properties/customproperty/__init__/#) | Construye una nueva instancia de CustomProperty|
+| [`__init__(self)`](/cells/python-net/es/aspose.cells.properties/customproperty/__init__/#) | Construye una nueva instancia de CustomProperty|
 
 
 ###  Propiedades
@@ -30,4 +30,4 @@ El tipo CustomProperty expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.properties](..)
+* módulo [`aspose.cells.properties`](..)

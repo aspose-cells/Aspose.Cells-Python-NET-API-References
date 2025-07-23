@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_editing_content fastighet
 
-Representerar om användaren tillåts redigera innehållet i låsta celler på ett skyddat kalkylblad.
+Representerar om användaren har behörighet att redigera innehållet i låsta celler i ett skyddat kalkylblad.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_editing_content(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Protection](/cells/python-net/sv/aspose.cells/protection)
+* modul [`aspose.cells`](../../)
+* klass [`Protection`](/cells/python-net/sv/aspose.cells/protection)

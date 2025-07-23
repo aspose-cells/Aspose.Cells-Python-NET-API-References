@@ -3,7 +3,7 @@ title: operator_type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 160
+weight: 180
 url: /es/aspose.cells.saving/sqlscriptsaveoptions/operator_type/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def operator_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.saving](../../)
-* clase [SqlScriptOperatorType](/cells/python-net/es/aspose.cells.saving/sqlscriptoperatortype)
-* clase [SqlScriptSaveOptions](/cells/python-net/es/aspose.cells.saving/sqlscriptsaveoptions)
+* módulo [`aspose.cells.saving`](../../)
+* clase [`SqlScriptOperatorType`](/cells/python-net/es/aspose.cells.saving/sqlscriptoperatortype)
+* clase [`SqlScriptSaveOptions`](/cells/python-net/es/aspose.cells.saving/sqlscriptsaveoptions)

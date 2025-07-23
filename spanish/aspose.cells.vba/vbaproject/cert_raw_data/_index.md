@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cert_raw_data propiedad
 
-Obtiene datos sin procesar del certificado si este proyecto de VBA está firmado.
+Obtiene datos sin procesar del certificado si este proyecto VBA está firmado.
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def cert_raw_data(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.vba](../../)
-* clase [VbaProject](/cells/python-net/es/aspose.cells.vba/vbaproject)
+* módulo [`aspose.cells.vba`](../../)
+* clase [`VbaProject`](/cells/python-net/es/aspose.cells.vba/vbaproject)

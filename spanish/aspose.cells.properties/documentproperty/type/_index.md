@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.properties](../../)
-* clase [DocumentProperty](/cells/python-net/es/aspose.cells.properties/documentproperty)
-* clase [PropertyType](/cells/python-net/es/aspose.cells.properties/propertytype)
+* módulo [`aspose.cells.properties`](../../)
+* clase [`DocumentProperty`](/cells/python-net/es/aspose.cells.properties/documentproperty)
+* clase [`PropertyType`](/cells/python-net/es/aspose.cells.properties/propertytype)

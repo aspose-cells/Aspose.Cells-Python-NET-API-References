@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  shadow propiedad
 
-Representa un objeto [ShadowEffect](/cells/python-net/es/aspose.cells.drawing/shadoweffect) que especifica el efecto shadow para el elemento o la forma del gráfico.
+Representa un objeto [`ShadowEffect`](/cells/python-net/es/aspose.cells.drawing/shadoweffect) que especifica el efecto shadow para el elemento o forma del gráfico.
 ###  Definición:
 ```python
 @property
@@ -18,6 +18,6 @@ def shadow(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](../../)
-* clase [ShadowEffect](/cells/python-net/es/aspose.cells.drawing/shadoweffect)
-* clase [TextOptions](/cells/python-net/es/aspose.cells.drawing.texts/textoptions)
+* módulo [`aspose.cells.drawing.texts`](../../)
+* clase [`ShadowEffect`](/cells/python-net/es/aspose.cells.drawing/shadoweffect)
+* clase [`TextOptions`](/cells/python-net/es/aspose.cells.drawing.texts/textoptions)

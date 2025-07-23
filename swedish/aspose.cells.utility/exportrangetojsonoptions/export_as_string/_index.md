@@ -21,5 +21,5 @@ def export_as_string(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.utility](../../)
-* klass [ExportRangeToJsonOptions](/cells/python-net/sv/aspose.cells.utility/exportrangetojsonoptions)
+* modul [`aspose.cells.utility`](../../)
+* klass [`ExportRangeToJsonOptions`](/cells/python-net/sv/aspose.cells.utility/exportrangetojsonoptions)

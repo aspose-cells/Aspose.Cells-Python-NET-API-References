@@ -3,13 +3,13 @@ title: bottom fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 320
+weight: 330
 url: /sv/aspose.cells.drawing/radiobutton/bottom/
 is_root: false
 ---
 ##  bottom fastighet
 
-Representerar bredden på formens vertikala förskjutning från dess nedre bottom hörnrad, i pixelenhet.
+Representerar bredden på formens vertikala förskjutning från dess nedre hörnrad bottom, i pixlar.
 
 ###  Exempel
 

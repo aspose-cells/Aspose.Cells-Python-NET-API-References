@@ -3,7 +3,7 @@ title: NoneBulletValue klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 60
+weight: 50
 url: /sv/aspose.cells.drawing.texts/nonebulletvalue/
 is_root: false
 ---
@@ -12,8 +12,7 @@ Representerar ingen kula.
 
 
 
-**Arv:** [NoneBulletValue](/cells/python-net/aspose.cells.drawing.texts/nonebulletvalue) → 
-[BulletValue](/cells/python-net/sv/aspose.cells.drawing.texts/bulletvalue)
+**Arv:** [`NoneBulletValue`](/cells/python-net/sv/aspose.cells.drawing.texts/nonebulletvalue)
 
 
 
@@ -22,17 +21,16 @@ Typen NoneBulletValue avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [NoneBulletValue()](/cells/python-net/sv/aspose.cells.drawing.texts/nonebulletvalue/__init__/#) | Konstruerar en ny instans av NoneBulletValue|
+| [`__init__(self)`](/cells/python-net/sv/aspose.cells.drawing.texts/nonebulletvalue/__init__/#) | Konstruerar en ny instans av NoneBulletValue|
 
 
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [type](/cells/python-net/sv/aspose.cells.drawing.texts/nonebulletvalue/type) | Får typen av kulans värde.|
+| [type](/cells/python-net/sv/aspose.cells.drawing.texts/nonebulletvalue/type) | Hämtar typen av kulans värde.|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](..)
-* klass [BulletValue](/cells/python-net/sv/aspose.cells.drawing.texts/bulletvalue)
-* klass [NoneBulletValue](/cells/python-net/sv/aspose.cells.drawing.texts/nonebulletvalue)
+* modul [`aspose.cells.drawing.texts`](..)
+* klass [`NoneBulletValue`](/cells/python-net/sv/aspose.cells.drawing.texts/nonebulletvalue)

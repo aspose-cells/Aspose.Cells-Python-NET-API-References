@@ -7,7 +7,7 @@ weight: 20
 url: /sv/aspose.cells/cellsfactory/create_style/
 is_root: false
 ---
-##  create_style() {#}
+##  create_style(self) {#}
 Skapar en ny stil.
 
 
@@ -17,6 +17,7 @@ Returnerar ett stilobjekt.
 
 
 ```python
+
 def create_style(self):
     ...
 ```
@@ -26,5 +27,5 @@ def create_style(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellsFactory](/cells/python-net/sv/aspose.cells/cellsfactory)
+* modul [`aspose.cells`](../../)
+* klass [`CellsFactory`](/cells/python-net/sv/aspose.cells/cellsfactory)

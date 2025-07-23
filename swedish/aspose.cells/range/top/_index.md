@@ -3,13 +3,13 @@ title: top fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 410
+weight: 510
 url: /sv/aspose.cells/range/top/
 is_root: false
 ---
 ##  top fastighet
 
-Hämtar avståndet, i poäng, från top-kanten på rad 1 till top-kanten av intervallet.
+Hämtar avståndet, i punkter, från top-kanten på rad 1 till top-kanten på intervallet.
 ###  Definition:
 ```python
 @property

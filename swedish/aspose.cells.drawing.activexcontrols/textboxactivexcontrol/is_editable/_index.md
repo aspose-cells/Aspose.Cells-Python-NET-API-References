@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_editable fastighet
 
-Indikerar om användaren kan skriva i kontrollen.
+Anger om användaren kan skriva i kontrollen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_editable(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [TextBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`TextBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

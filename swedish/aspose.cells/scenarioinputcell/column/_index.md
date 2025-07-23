@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column fastighet
 
-Hämtar och ställer in column-indexet för indatacellen.
+Hämtar och ställer in column-indexet för inmatningscellen.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def column(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ScenarioInputCell](/cells/python-net/sv/aspose.cells/scenarioinputcell)
+* modul [`aspose.cells`](../../)
+* klass [`ScenarioInputCell`](/cells/python-net/sv/aspose.cells/scenarioinputcell)

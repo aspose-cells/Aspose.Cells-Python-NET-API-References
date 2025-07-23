@@ -10,8 +10,8 @@ is_root: false
 ##  priority propiedad
 
 El priority de esta regla de formato condicional. Este valor se utiliza para determinar qué
-El formato debe ser evaluado y renderizado. Los valores numéricos más bajos son más altos priority que
-valores numéricos más altos, donde '1' es el más alto priority.
+El formato debe evaluarse y renderizarse. Los valores numéricos más bajos son mayores que priority.
+valores numéricos superiores, donde '1' es el más alto priority.
 ###  Definición:
 ```python
 @property
@@ -23,5 +23,5 @@ def priority(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FormatCondition](/cells/python-net/es/aspose.cells/formatcondition)
+* módulo [`aspose.cells`](../../)
+* clase [`FormatCondition`](/cells/python-net/es/aspose.cells/formatcondition)

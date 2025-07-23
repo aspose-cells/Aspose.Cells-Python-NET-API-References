@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  explosion propiedad
 
-La distancia de un sector circular abierto desde el centro del gráfico circular se expresa como porcentaje del diámetro circular.
+La distancia de una porción abierta del gráfico circular desde el centro del gráfico circular se expresa como un porcentaje del diámetro del gráfico circular.
 ###  Definición:
 ```python
 @property

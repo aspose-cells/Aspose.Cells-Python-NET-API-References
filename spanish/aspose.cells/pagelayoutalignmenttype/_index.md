@@ -3,7 +3,7 @@ title: PageLayoutAlignmentType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2390
+weight: 2360
 url: /es/aspose.cells/pagelayoutalignmenttype/
 is_root: false
 ---
@@ -19,8 +19,8 @@ El tipo PageLayoutAlignmentType expone los siguientes miembros:
 | :- | :- |
 | BOTTOM | Representa la alineación del diseño de la página inferior.|
 | CENTER | Representa la alineación del diseño de la página central.|
-| LEFT | Representa la alineación del diseño de la página izquierda.|
-| RIGHT | Representa la alineación del diseño de página hacia la derecha.|
+| LEFT | Representa la alineación del diseño de página izquierda.|
+| RIGHT | Representa la alineación del diseño de página correcta.|
 | TOP | Representa la alineación del diseño de la página superior.|
 
 

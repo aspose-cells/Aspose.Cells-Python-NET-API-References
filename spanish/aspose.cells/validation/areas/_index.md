@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  areas propiedad
 
-Obtiene todos los [`CellArea`](/cells/python-net/es/aspose.cells/cellarea) que contienen la configuración de validación de datos.
+Obtiene todos los [`CellArea`](/cells/python-net/es/aspose.cells/cellarea) que contienen las configuraciones de validación de datos.
 ###  Definición:
 ```python
 @property

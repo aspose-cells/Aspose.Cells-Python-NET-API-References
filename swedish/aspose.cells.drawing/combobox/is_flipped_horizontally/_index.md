@@ -3,13 +3,13 @@ title: is_flipped_horizontally fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 560
+weight: 570
 url: /sv/aspose.cells.drawing/combobox/is_flipped_horizontally/
 is_root: false
 ---
 ##  is_flipped_horizontally fastighet
 
-Hämtar och ställer in om formen ska vändas horisontellt.
+Hämtar och anger om formen är horisontellt vänd.
 
 ###  Exempel
 

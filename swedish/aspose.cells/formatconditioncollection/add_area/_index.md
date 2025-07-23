@@ -7,16 +7,17 @@ weight: 30
 url: /sv/aspose.cells/formatconditioncollection/add_area/
 is_root: false
 ---
-##  add_area(cell_area) {#CellArea}
-Lägger till ett villkorligt formaterat cellintervall.
+##  add_area(self, cell_area) {#aspose.cells.CellArea}
+Lägger till ett villkorsstyrt formaterat cellområde.
 
 
 ###  Returnerar
 
-Villkorligt formaterat cellrangindex.
+Villkorligt formaterat cellringningsindex.
 
 
 ```python
+
 def add_area(self, cell_area):
     ...
 ```
@@ -24,10 +25,10 @@ def add_area(self, cell_area):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| cell_area | [CellArea](/cells/python-net/sv/aspose.cells/cellarea) |Villkorligt formaterat cellområde.|
+| cell_area | [`CellArea`](/cells/python-net/sv/aspose.cells/cellarea) |Villkorligt formaterat cellområde.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormatConditionCollection](/cells/python-net/sv/aspose.cells/formatconditioncollection)
+* modul [`aspose.cells`](../../)
+* klass [`FormatConditionCollection`](/cells/python-net/sv/aspose.cells/formatconditioncollection)

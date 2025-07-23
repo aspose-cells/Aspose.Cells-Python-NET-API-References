@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CellsColor](/cells/python-net/es/aspose.cells/cellscolor)
-* clase [ColorType](/cells/python-net/es/aspose.cells/colortype)
+* módulo [`aspose.cells`](../../)
+* clase [`CellsColor`](/cells/python-net/es/aspose.cells/cellscolor)
+* clase [`ColorType`](/cells/python-net/es/aspose.cells/colortype)

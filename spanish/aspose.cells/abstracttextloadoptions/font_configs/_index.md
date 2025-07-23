@@ -10,7 +10,7 @@ is_root: false
 ##  font_configs propiedad
 
  Obtiene y establece configuraciones de fuentes individuales.
-Solo funciona para el [Workbook](/cells/python-net/es/aspose.cells/workbook) que usa este [LoadOptions](/cells/python-net/es/aspose.cells/loadoptions) para cargar.
+Solo funciona para el [`Workbook`](/cells/python-net/es/aspose.cells/workbook) que usa este [`LoadOptions`](/cells/python-net/es/aspose.cells/loadoptions) para cargar.
 ###  Definición:
 ```python
 @property
@@ -22,8 +22,8 @@ def font_configs(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [AbstractTextLoadOptions](/cells/python-net/es/aspose.cells/abstracttextloadoptions)
-* clase [IndividualFontConfigs](/cells/python-net/es/aspose.cells/individualfontconfigs)
-* clase [LoadOptions](/cells/python-net/es/aspose.cells/loadoptions)
-* clase [Workbook](/cells/python-net/es/aspose.cells/workbook)
+* módulo [`aspose.cells`](../../)
+* clase [`AbstractTextLoadOptions`](/cells/python-net/es/aspose.cells/abstracttextloadoptions)
+* clase [`IndividualFontConfigs`](/cells/python-net/es/aspose.cells/individualfontconfigs)
+* clase [`LoadOptions`](/cells/python-net/es/aspose.cells/loadoptions)
+* clase [`Workbook`](/cells/python-net/es/aspose.cells/workbook)

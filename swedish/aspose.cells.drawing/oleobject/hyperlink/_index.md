@@ -3,13 +3,13 @@ title: hyperlink fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 580
+weight: 570
 url: /sv/aspose.cells.drawing/oleobject/hyperlink/
 is_root: false
 ---
 ##  hyperlink fastighet
 
-Får formens hyperlink.
+Hämtar hyperlink för formen.
 
 ###  Exempel
 

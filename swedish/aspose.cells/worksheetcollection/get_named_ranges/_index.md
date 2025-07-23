@@ -7,21 +7,22 @@ weight: 100
 url: /sv/aspose.cells/worksheetcollection/get_named_ranges/
 is_root: false
 ---
-##  get_named_ranges() {#}
-Hämtar alla fördefinierade namngivna intervall i kalkylarket.
+##  get_named_ranges(self) {#}
+Hämtar alla fördefinierade namngivna områden i kalkylbladet.
 
 
 ###  Returnerar
 
-En rad Range-objekt.
-Om det definierade namnets referens är extern eller har flera intervall, kommer inget intervallobjekt att returneras för detta namn.
+En array med Range-objekt.
+Om referensen till det definierade namnet är extern eller har flera intervall, returneras inget Range-objekt för detta namn.
 
 
 
-Returnerar null om det namngivna intervallet inte finns.
+Returnerar null om det namngivna området inte finns.
 
 
 ```python
+
 def get_named_ranges(self):
     ...
 ```
@@ -31,5 +32,5 @@ def get_named_ranges(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WorksheetCollection](/cells/python-net/sv/aspose.cells/worksheetcollection)
+* modul [`aspose.cells`](../../)
+* klass [`WorksheetCollection`](/cells/python-net/sv/aspose.cells/worksheetcollection)

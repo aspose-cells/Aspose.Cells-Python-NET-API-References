@@ -3,13 +3,13 @@ title: type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 730
+weight: 760
 url: /sv/aspose.cells/cell/type/
 is_root: false
 ---
 ##  type fastighet
 
-Representerar cellvärde type.
+Representerar cellvärdet type.
 ###  Definition:
 ```python
 @property

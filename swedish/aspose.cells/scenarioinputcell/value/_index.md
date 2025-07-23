@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value fastighet
 
-Hämtar och ställer in value för indatacellen.
+Hämtar och anger value för inmatningscellen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ScenarioInputCell](/cells/python-net/sv/aspose.cells/scenarioinputcell)
+* modul [`aspose.cells`](../../)
+* klass [`ScenarioInputCell`](/cells/python-net/sv/aspose.cells/scenarioinputcell)

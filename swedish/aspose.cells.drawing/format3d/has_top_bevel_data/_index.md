@@ -7,8 +7,8 @@ weight: 20
 url: /sv/aspose.cells.drawing/format3d/has_top_bevel_data/
 is_root: false
 ---
-##  has_top_bevel_data() {#}
-Indikerar om formen har data över avfasning.
+##  has_top_bevel_data(self) {#}
+Anger om formen har data för övre avfasning.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Indikerar om formen har data över avfasning.
 
 
 ```python
+
 def has_top_bevel_data(self):
     ...
 ```
@@ -26,5 +27,5 @@ def has_top_bevel_data(self):
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Format3D](/cells/python-net/sv/aspose.cells.drawing/format3d)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Format3D`](/cells/python-net/sv/aspose.cells.drawing/format3d)

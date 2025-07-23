@@ -7,16 +7,17 @@ weight: 130
 url: /sv/aspose.cells.pivot/pivottable/get_cell_by_display_name/
 is_root: false
 ---
-##  get_cell_by_display_name {#str}
+##  get_cell_by_display_name(self, display_name) {#str}
 Hämtar objektet [`Cell`](/cells/python-net/sv/aspose.cells/cell) med visningsnamnet PivotField.
 
 
 ###  Returnerar
 
-objektet Cell
+Cell-objektet
 
 
 ```python
+
 def get_cell_by_display_name(self, display_name):
     ...
 ```
@@ -24,7 +25,7 @@ def get_cell_by_display_name(self, display_name):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| display_name | str | visningsnamnet för pivotfältet|
+| display_name | str | DisplayName för PivotField|
 
 
 

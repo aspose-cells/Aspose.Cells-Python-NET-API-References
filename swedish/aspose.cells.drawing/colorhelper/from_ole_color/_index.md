@@ -7,7 +7,7 @@ weight: 20
 url: /sv/aspose.cells.drawing/colorhelper/from_ole_color/
 is_root: false
 ---
-##  from_ole_color(ole_color) {#int}
+##  from_ole_color(, ole_color){#int}
 Konvertera OLE_COLOR.
 
 
@@ -17,17 +17,19 @@ Färgobjektet.
 
 
 ```python
-def from_ole_color(self, ole_color):
+
+@staticmethod
+def from_ole_color(ole_color):
     ...
 ```
 
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| ole_color | int |Värdet på OLE_COLOR.|
+| ole_color | int | Värdet för OLE_COLOR.|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ColorHelper](/cells/python-net/sv/aspose.cells.drawing/colorhelper)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ColorHelper`](/cells/python-net/sv/aspose.cells.drawing/colorhelper)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fore_color fastighet
 
-Får och ställer in fyllningsförfärgen.
+Hämtar och anger fyllningsfärgen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def fore_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [MsoFillFormatHelper](/cells/python-net/sv/aspose.cells.drawing/msofillformathelper)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`MsoFillFormatHelper`](/cells/python-net/sv/aspose.cells.drawing/msofillformathelper)

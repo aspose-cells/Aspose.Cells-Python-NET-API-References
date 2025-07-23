@@ -7,16 +7,17 @@ weight: 40
 url: /sv/aspose.cells.charts/legendentrycollection/index_of/
 is_root: false
 ---
-##  index_of(item, index) {#LegendEntry-int}
+##  index_of(self, item, index) {#aspose.cells.charts.LegendEntry-int}
 Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom intervallet av element i arraylistan som sträcker sig från det angivna indexet till det sista elementet.
 
 
 ###  Returnerar
 
-Det nollbaserade indexet för den första förekomsten av värde inom intervallet av element i arraylistan som sträcker sig från startIndex till det sista elementet, om det hittas; annars -1.
+Det nollbaserade indexet för den första förekomsten av värdet inom intervallet av element i arraylistan som sträcker sig från startIndex till det sista elementet, om det hittas; annars -1.
 
 
 ```python
+
 def index_of(self, item, index):
     ...
 ```
@@ -24,20 +25,21 @@ def index_of(self, item, index):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| item | [LegendEntry](/cells/python-net/sv/aspose.cells.charts/legendentry) | Objektet som ska lokaliseras i arraylistan. Värdet kan vara null.|
-| index | int | Det nollbaserade startindexet för sökningen. 0 (noll) är giltig i en tom lista.|
+| item | [`LegendEntry`](/cells/python-net/sv/aspose.cells.charts/legendentry) | Objektet som ska hittas i arraylistan. Värdet kan vara null.|
+| index | int | Det nollbaserade startindexet för sökningen. 0 (noll) är giltigt i en tom lista.|
 
 
-##  index_of(item, index, count) {#LegendEntry-int-int}
-Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom intervallet av element i arraylistan som börjar vid det angivna indexet och innehåller det angivna antalet element.
+##  index_of(self, item, index, count) {#aspose.cells.charts.LegendEntry-int-int}
+Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom elementintervallet i arraylistan som börjar vid det angivna indexet och innehåller det angivna antalet element.
 
 
 ###  Returnerar
 
-Det nollbaserade indexet för den första förekomsten av värde inom intervallet av element i arraylistan som börjar vid startIndex och innehåller antalet element, om de hittas; annars -1.
+Det nollbaserade indexet för den första förekomsten av värdet inom elementintervallet i arraylistan som börjar vid startIndex och innehåller antal element, om de hittas; annars -1.
 
 
 ```python
+
 def index_of(self, item, index, count):
     ...
 ```
@@ -45,12 +47,12 @@ def index_of(self, item, index, count):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| item | [LegendEntry](/cells/python-net/sv/aspose.cells.charts/legendentry) | Objektet som ska lokaliseras i arraylistan. Värdet kan vara null.|
-| index | int | Det nollbaserade startindexet för sökningen. 0 (noll) är giltig i en tom lista.|
-| count | int | Antalet element i avsnittet att söka efter.|
+| item | [`LegendEntry`](/cells/python-net/sv/aspose.cells.charts/legendentry) | Objektet som ska hittas i arraylistan. Värdet kan vara null.|
+| index | int | Det nollbaserade startindexet för sökningen. 0 (noll) är giltigt i en tom lista.|
+| count | int | Antalet element i avsnittet som ska sökas.|
 
 
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [LegendEntryCollection](/cells/python-net/sv/aspose.cells.charts/legendentrycollection)
+* modul [`aspose.cells.charts`](../../)
+* klass [`LegendEntryCollection`](/cells/python-net/sv/aspose.cells.charts/legendentrycollection)

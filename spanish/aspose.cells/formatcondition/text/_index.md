@@ -10,7 +10,7 @@ is_root: false
 ##  text propiedad
 
  El valor text en una regla de formato condicional "text contiene".
-Válido solo para tipo = contiene texto, no contiene texto, comienza con y termina con.
+Válido sólo para tipos = containsText, notContainsText, beginsWith y endsWith.
 El valor predeterminado es nulo.
 ###  Definición:
 ```python
@@ -23,5 +23,5 @@ def text(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FormatCondition](/cells/python-net/es/aspose.cells/formatcondition)
+* módulo [`aspose.cells`](../../)
+* clase [`FormatCondition`](/cells/python-net/es/aspose.cells/formatcondition)

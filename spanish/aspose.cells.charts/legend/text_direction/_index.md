@@ -3,7 +3,7 @@ title: text_direction propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 360
+weight: 420
 url: /es/aspose.cells.charts/legend/text_direction/
 is_root: false
 ---
@@ -13,10 +13,10 @@ Representa el orden de lectura del texto.
 
 ###  Observaciones
 
- NOTA: Este miembro ahora está obsoleto. En cambio,
- utilice la propiedad ChartTextFrame.ReadingOrder.
- Esta propiedad será eliminada 12 meses después desde marzo de 2020.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+ NOTA: Este miembro ya no está disponible. En su lugar,
+ Utilice la propiedad ChartTextFrame.ReadingOrder.
+Esta propiedad será eliminada 12 meses después desde marzo de 2020.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 ###  Definición:
 ```python
 @property

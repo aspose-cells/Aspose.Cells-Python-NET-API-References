@@ -7,13 +7,14 @@ weight: 140
 url: /sv/aspose.cells/pagesetup/set_even_header/
 is_root: false
 ---
-##  set_even_header(section, header_script) {#int-str}
-Ställer in ett skript som formaterar den jämna sidhuvudet i en Excel-fil.
-Endast effekt i Excel 2007 när IsHFDiffOddEven är sant.
+##  set_even_header(self, section, header_script) {#int-str}
+Ställer in ett skript som formaterar sidhuvudet för jämna sidor i en Excel-fil.
+Effekt endast i Excel 2007 när IsHFDiffOddEven är sant.
 
 
 
 ```python
+
 def set_even_header(self, section, header_script):
     ...
 ```
@@ -21,11 +22,11 @@ def set_even_header(self, section, header_script):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| section | int | 0: Vänster sektion, 1: Mittsektion, 2: Höger sektion.|
-| header_script | str | Skript i rubrikformat.|
+| section | int |0: Vänster sektion, 1: Mittsektion, 2: Höger sektion.|
+| header_script | str | Skript för rubrikformat.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

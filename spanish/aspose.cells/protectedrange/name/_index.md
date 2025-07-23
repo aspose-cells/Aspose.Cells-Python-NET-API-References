@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name propiedad
 
-Obtiene el título Range. Esto se usa como un descriptor, no como una definición de rango con nombre.
+Obtiene el título del rango. Se utiliza como descriptor, no como definición de rango con nombre.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ProtectedRange](/cells/python-net/es/aspose.cells/protectedrange)
+* módulo [`aspose.cells`](../../)
+* clase [`ProtectedRange`](/cells/python-net/es/aspose.cells/protectedrange)

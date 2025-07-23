@@ -3,16 +3,17 @@ title: método sort_names
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 210
+weight: 230
 url: /es/aspose.cells/worksheetcollection/sort_names/
 is_root: false
 ---
-##  sort_names {#}
+##  sort_names(self) {#}
 Ordena los nombres definidos.
 
 
 
 ```python
+
 def sort_names(self):
     ...
 ```
@@ -21,7 +22,7 @@ def sort_names(self):
 ###  Observaciones
 
 Si crea una gran cantidad de rangos con nombre en el archivo de Excel,
-llame a este método después de crear todos los rangos con nombre y antes de guardar
+Por favor llame a este método después de que se hayan creado todos los rangos nombrados y antes de guardar
 
 
 ###  Ver también

@@ -3,14 +3,14 @@ title: height_scale fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 500
+weight: 490
 url: /sv/aspose.cells.drawing/checkbox/height_scale/
 is_root: false
 ---
 ##  height_scale fastighet
 
-Hämtar och ställer in höjdskalan, i procentenhet av den ursprungliga bildhöjden.
-Om formen inte är bild, returnerar egenskapen HeightScale endast 100;
+Hämtar och ställer in höjdskalan, i procent av den ursprungliga bildens höjd.
+Om formen inte är en bild returnerar egenskapen HeightScale endast 100;
 
 ###  Exempel
 

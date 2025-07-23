@@ -1,5 +1,5 @@
 ---
-title: get_bottom_point_x_px método
+title: método get_bottom_point_x_px
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,13 +7,14 @@ weight: 30
 url: /es/aspose.cells.charts/chartpoint/get_bottom_point_x_px/
 is_root: false
 ---
-##  get_bottom_point_x_px(index) {#int}
+##  get_bottom_point_x_px(self, index) {#int}
 Obtiene la coordenada x del punto inferior de la forma después de llamar al método Chart.Calculate().
-Aplica gráficos 3D: Column3D, Bar3D, Cono, Cilindro, Pirámide
+Aplica gráficos 3D: Columna 3D, Barra 3D, Cono, Cilindro, Pirámide
 
 
 
 ```python
+
 def get_bottom_point_x_px(self, index):
     ...
 ```
@@ -26,5 +27,5 @@ def get_bottom_point_x_px(self, index):
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [ChartPoint](/cells/python-net/es/aspose.cells.charts/chartpoint)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`ChartPoint`](/cells/python-net/es/aspose.cells.charts/chartpoint)

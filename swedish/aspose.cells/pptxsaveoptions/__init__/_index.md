@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells/pptxsaveoptions/__init__/
 is_root: false
 ---
-##  PptxSaveOptions() {#}
-Representerar pptx-sparalternativen.
+##  \_\_init\_\_(själv){#}
+Representerar sparalternativen för pptx.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  PptxSaveOptions(save_as_image) {#bool}
-Representerar alternativ för att spara .pptx-fil.
+##  \_\_init\_\_(själv, spara_som_bild){#bool}
+Representerar alternativ för att spara .pptx-filer.
 
 
 
 ```python
+
 def __init__(self, save_as_image):
     ...
 ```
@@ -33,10 +35,10 @@ def __init__(self, save_as_image):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| save_as_image | bool | Om det är sant kommer arbetsboken att konverteras till några bilder av .pptx-filen.<br/> Om False, kommer arbetsboken att konverteras till vissa tabeller av .pptx-fil.|
+| save_as_image | bool | Om värdet är sant konverteras arbetsboken till några bilder i en .pptx-fil.<br/>Om värdet är falskt konverteras arbetsboken till några tabeller i en .pptx-fil.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PptxSaveOptions](/cells/python-net/sv/aspose.cells/pptxsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`PptxSaveOptions`](/cells/python-net/sv/aspose.cells/pptxsaveoptions)

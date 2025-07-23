@@ -3,7 +3,7 @@ title: DataBarBorderType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1980
+weight: 1890
 url: /es/aspose.cells/databarbordertype/
 is_root: false
 ---

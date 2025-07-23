@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  subtotal_function propiedad
 
-La función de subtotales.
+La función subtotal.
 ###  Definición:
 ```python
 @property
@@ -18,6 +18,6 @@ def subtotal_function(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ConsolidationFunction](/cells/python-net/es/aspose.cells/consolidationfunction)
-* clase [SubtotalSetting](/cells/python-net/es/aspose.cells/subtotalsetting)
+* módulo [`aspose.cells`](../../)
+* clase [`ConsolidationFunction`](/cells/python-net/es/aspose.cells/consolidationfunction)
+* clase [`SubtotalSetting`](/cells/python-net/es/aspose.cells/subtotalsetting)

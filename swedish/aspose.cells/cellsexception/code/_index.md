@@ -18,6 +18,6 @@ def code(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellsException](/cells/python-net/sv/aspose.cells/cellsexception)
-* klass [ExceptionType](/cells/python-net/sv/aspose.cells/exceptiontype)
+* modul [`aspose.cells`](../../)
+* klass [`CellsException`](/cells/python-net/sv/aspose.cells/cellsexception)
+* klass [`ExceptionType`](/cells/python-net/sv/aspose.cells/exceptiontype)

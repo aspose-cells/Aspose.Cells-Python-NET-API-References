@@ -3,15 +3,15 @@ title: treat_quote_prefix_as_value fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 440
+weight: 420
 url: /sv/aspose.cells/txtloadoptions/treat_quote_prefix_as_value/
 is_root: false
 ---
 ##  treat_quote_prefix_as_value fastighet
 
-Anger om det inledande citattecknet ska tas som en del av värdet på en cell.
-Standard är sant. Om det är falskt kommer det inledande citattecken att tas bort från motsvarande cells värde
-och [`Style.quote_prefix`](/cells/python-net/sv/aspose.cells/style#quote_prefix) kommer att ställas in som sant för cellen.
+Anger om det inledande enkla citattecknet ska tas som en del av värdet för en cell.
+Standardvärdet är sant. Om det är falskt tas det inledande citattecknet bort från motsvarande cells värde.
+och [`Style.quote_prefix`](/cells/python-net/sv/aspose.cells/style#quote_prefix) kommer att sättas som sant för cellen.
 ###  Definition:
 ```python
 @property

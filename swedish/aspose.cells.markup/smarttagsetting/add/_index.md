@@ -7,8 +7,8 @@ weight: 20
 url: /sv/aspose.cells.markup/smarttagsetting/add/
 is_root: false
 ---
-##  add(cell_name) {#str}
-Lägg till en cell smarta taggar.
+##  add(self, cell_name) {#str}
+Lägg till smarta celltaggar.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Lägg till en cell smarta taggar.
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -24,19 +25,20 @@ def add(self, cell_name):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| cell_name | str | Namnet på cellen.|
+| cell_name | str | Cellens namn.|
 
 
-##  add(row, column) {#int-int}
-Lägger till ett [SmartTagCollection](/cells/python-net/sv/aspose.cells.markup/smarttagcollection)-objekt i en cell.
+##  add(self, row, column) {#int-int}
+Lägger till ett [`SmartTagCollection`](/cells/python-net/sv/aspose.cells.markup/smarttagcollection)-objekt i en cell.
 
 
 ###  Returnerar
 
-Returnerar index för ett [SmartTagCollection](/cells/python-net/sv/aspose.cells.markup/smarttagcollection)-objekt i kalkylbladet.
+Returnerar index för ett [`SmartTagCollection`](/cells/python-net/sv/aspose.cells.markup/smarttagcollection)-objekt i kalkylbladet.
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -50,6 +52,6 @@ def add(self, row, column):
 
 
 ###  Se även
-* modul [aspose.cells.markup](../../)
-* klass [SmartTagCollection](/cells/python-net/sv/aspose.cells.markup/smarttagcollection)
-* klass [SmartTagSetting](/cells/python-net/sv/aspose.cells.markup/smarttagsetting)
+* modul [`aspose.cells.markup`](../../)
+* klass [`SmartTagCollection`](/cells/python-net/sv/aspose.cells.markup/smarttagcollection)
+* klass [`SmartTagSetting`](/cells/python-net/sv/aspose.cells.markup/smarttagsetting)

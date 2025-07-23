@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  notes fastighet
 
-Hämtar och ställer in texten i kommentaren.
+Hämtar och ställer in kommentarens text.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def notes(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ThreadedComment](/cells/python-net/sv/aspose.cells/threadedcomment)
+* modul [`aspose.cells`](../../)
+* klass [`ThreadedComment`](/cells/python-net/sv/aspose.cells/threadedcomment)

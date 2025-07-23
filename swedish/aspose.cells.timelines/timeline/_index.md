@@ -8,7 +8,7 @@ url: /sv/aspose.cells.timelines/timeline/
 is_root: false
 ---
 ##  Timeline klass
-Sammanfattande beskrivning av Timeline Visa
+Sammanfattande beskrivning av Timeline View
 På grund av MS Excel stöder inte Excel 2003 Timeline
 
 
@@ -18,12 +18,13 @@ Typen Timeline avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [caption](/cells/python-net/sv/aspose.cells.timelines/timeline/caption) | Returnerar eller ställer in bildtexten för den angivna tidslinjen.|
-| [name](/cells/python-net/sv/aspose.cells.timelines/timeline/name) |Returnerar eller ställer in namnet på den angivna tidslinjen|
-| [left_pixel](/cells/python-net/sv/aspose.cells.timelines/timeline/left_pixel) | Returnerar eller ställer in den horisontella förskjutningen av tidslinjeformen från dess vänstra kolumn, i pixlar.|
-| [top_pixel](/cells/python-net/sv/aspose.cells.timelines/timeline/top_pixel) | Returnerar eller ställer in den vertikala förskjutningen av tidslinjeformen från dess översta rad, i pixlar.|
-| [width_pixel](/cells/python-net/sv/aspose.cells.timelines/timeline/width_pixel) | Returnerar eller ställer in bredden på den angivna tidslinjen, i pixlar.|
-| [height_pixel](/cells/python-net/sv/aspose.cells.timelines/timeline/height_pixel) | Returnerar eller ställer in höjden på den angivna tidslinjen, i pixlar.|
+| [caption](/cells/python-net/sv/aspose.cells.timelines/timeline/caption) | Returnerar eller anger bildtexten för den angivna tidslinjen.|
+| [shape](/cells/python-net/sv/aspose.cells.timelines/timeline/shape) | Returnerar objektet [`TimelineShape`](/cells/python-net/sv/aspose.cells.drawing/timelineshape) som är associerat med denna tidslinje. Skrivskyddad.|
+| [name](/cells/python-net/sv/aspose.cells.timelines/timeline/name) | Returnerar eller anger namnet på den angivna tidslinjen|
+| [left_pixel](/cells/python-net/sv/aspose.cells.timelines/timeline/left_pixel) | Returnerar eller anger den horisontella förskjutningen av tidslinjeformen från dess vänstra kolumn, i pixlar.|
+| [top_pixel](/cells/python-net/sv/aspose.cells.timelines/timeline/top_pixel) | Returnerar eller anger den vertikala förskjutningen av tidslinjeformen från dess översta rad, i pixlar.|
+| [width_pixel](/cells/python-net/sv/aspose.cells.timelines/timeline/width_pixel) | Returnerar eller anger bredden på den angivna tidslinjen, i pixlar.|
+| [height_pixel](/cells/python-net/sv/aspose.cells.timelines/timeline/height_pixel) | Returnerar eller anger höjden på den angivna tidslinjen, i pixlar.|
 
 
 
@@ -32,7 +33,7 @@ Typen Timeline avslöjar följande medlemmar:
 ```python
 from aspose.cells import CellsFactory, Workbook
 from aspose.cells.pivot import PivotFieldType, PivotTableStyleType
-import datetime
+from datetime import datetime
 
 book = Workbook()
 sheet = book.worksheets[0]
@@ -81,4 +82,5 @@ book.save("out.xlsx")
 ```
 
 ###  Se även
-* modul [aspose.cells.timelines](..)
+* modul [`aspose.cells.timelines`](..)
+* klass [`TimelineShape`](/cells/python-net/sv/aspose.cells.drawing/timelineshape)

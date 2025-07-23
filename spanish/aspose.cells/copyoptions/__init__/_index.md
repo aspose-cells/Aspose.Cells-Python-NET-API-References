@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells/copyoptions/__init__/
 is_root: false
 ---
-##  CopyOptions() {#}
+##  \_\_init\_\_(yo mismo){#}
 CopyOptions constructor.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CopyOptions](/cells/python-net/es/aspose.cells/copyoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`CopyOptions`](/cells/python-net/es/aspose.cells/copyoptions)

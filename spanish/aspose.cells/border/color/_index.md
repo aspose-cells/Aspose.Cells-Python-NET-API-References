@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color propiedad
 
-Obtiene o establece el Color del borde.
+Obtiene o establece el color del borde.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Border](/cells/python-net/es/aspose.cells/border)
+* módulo [`aspose.cells`](../../)
+* clase [`Border`](/cells/python-net/es/aspose.cells/border)

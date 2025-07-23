@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  left_crop fastighet
 
-Representerar platsen till vänster om beskärningsrektangeln uttryckt, uttryckt som förhållandet mellan bildens bredd.
+Representerar platsen för vänster sida av beskärningsrektangeln uttryckt som ett förhållande till bildens bredd.
 ###  Definition:
 ```python
 @property

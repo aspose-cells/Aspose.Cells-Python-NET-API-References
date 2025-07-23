@@ -3,18 +3,18 @@ title: x fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 520
+weight: 610
 url: /sv/aspose.cells.charts/datalabels/x/
 is_root: false
 ---
 ##  x fastighet
 
-Hämtar eller ställer in x-koordinaten för det övre vänstra hörnet i enheter på 1/4000 av sjökortsytan.
+Hämtar eller ställer in x-koordinaten för det övre vänstra hörnet i enheter om 1/4000 av diagrammets yta.
 
 ###  Anmärkningar
 
  Hur konverterar man enheter på 1/4000 till pixlar?
-X i pixlar = X * Chart.ChartObject.Width / 4000;
+i pixlar = X * Diagram.ChartObject.Bredd / 4000d;
 ###  Definition:
 ```python
 @property

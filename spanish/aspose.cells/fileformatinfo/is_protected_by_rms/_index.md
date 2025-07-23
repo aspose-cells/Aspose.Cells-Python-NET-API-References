@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_protected_by_rms propiedad
 
-Obtiene si el archivo está protegido por Microsoft Rights Management Server.
+Obtiene si el archivo está protegido por el servidor de administración de derechos Microsoft.
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_protected_by_rms(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FileFormatInfo](/cells/python-net/es/aspose.cells/fileformatinfo)
+* módulo [`aspose.cells`](../../)
+* clase [`FileFormatInfo`](/cells/python-net/es/aspose.cells/fileformatinfo)

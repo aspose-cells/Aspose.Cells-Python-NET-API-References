@@ -3,13 +3,13 @@ title: member_property_field_index fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 80
+weight: 140
 url: /sv/aspose.cells.pivot/pivotfilter/member_property_field_index/
 is_root: false
 ---
 ##  member_property_field_index fastighet
 
-Hämtar medlemsegenskapsfältindex för pivotfiltret.
+Hämtar medlemsegenskapsfältindexet för pivotfiltret.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def member_property_field_index(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotFilter](/cells/python-net/sv/aspose.cells.pivot/pivotfilter)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotFilter`](/cells/python-net/sv/aspose.cells.pivot/pivotfilter)

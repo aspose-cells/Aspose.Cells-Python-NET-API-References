@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  image_data propiedad
 
-Obtiene y establece datos de imagen de la viñeta.
+Obtiene y establece datos de imagen de la bala.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def image_data(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](../../)
-* clase [PictureBulletValue](/cells/python-net/es/aspose.cells.drawing.texts/picturebulletvalue)
+* módulo [`aspose.cells.drawing.texts`](../../)
+* clase [`PictureBulletValue`](/cells/python-net/es/aspose.cells.drawing.texts/picturebulletvalue)

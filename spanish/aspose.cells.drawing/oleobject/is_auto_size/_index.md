@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_auto_size propiedad
 
-Verdadero indica que el tamaño del objeto antiguo se cambiará automáticamente como el tamaño de la instantánea del contenido incrustado.
-cuando el objeto viejo está activado.
+Verdadero indica que el tamaño del objeto ole se cambiará automáticamente como el tamaño de la instantánea del contenido incrustado
+cuando se activa el objeto ole.
 ###  Definición:
 ```python
 @property

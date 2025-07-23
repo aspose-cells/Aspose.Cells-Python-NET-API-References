@@ -7,12 +7,13 @@ weight: 130
 url: /sv/aspose.cells/cells/clear_range/
 is_root: false
 ---
-##  clear_range(range) {#CellArea}
-Rensar innehåll och formatering av ett intervall.
+##  clear_range(self, range) {#aspose.cells.CellArea}
+Rensar innehåll och formatering för ett område.
 
 
 
 ```python
+
 def clear_range(self, range):
     ...
 ```
@@ -20,15 +21,16 @@ def clear_range(self, range):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| range | [CellArea](/cells/python-net/sv/aspose.cells/cellarea) | Räckvidd ska rensas.|
+| range | [`CellArea`](/cells/python-net/sv/aspose.cells/cellarea) | Området ska rensas.|
 
 
-##  clear_range(start_row, start_column, end_row, end_column) {#int-int-int-int}
-Rensar innehåll och formatering av ett intervall.
+##  clear_range(self, start_row, start_column, end_row, end_column) {#int-int-int-int}
+Rensar innehåll och formatering för ett område.
 
 
 
 ```python
+
 def clear_range(self, start_row, start_column, end_row, end_column):
     ...
 ```
@@ -36,13 +38,13 @@ def clear_range(self, start_row, start_column, end_row, end_column):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| start_row | int | Starta radindex.|
-| start_column | int | Starta kolumnindex.|
-| end_row | int | Slutradindex.|
-| end_column | int | Slut kolumnindex.|
+| start_row | int | Index för startrad.|
+| start_column | int |Starta kolumnindex.|
+| end_row | int | Index för slutrad.|
+| end_column | int | Index för slutkolumn.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

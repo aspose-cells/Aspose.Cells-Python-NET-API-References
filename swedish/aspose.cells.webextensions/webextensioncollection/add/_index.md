@@ -7,7 +7,7 @@ weight: 20
 url: /sv/aspose.cells.webextensions/webextensioncollection/add/
 is_root: false
 ---
-##  add() {#}
+##  add(self) {#}
 Lägger till ett webbtillägg.
 
 
@@ -17,6 +17,7 @@ Indexet.
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ###  Se även
-* modul [aspose.cells.webextensions](../../)
-* klass [WebExtensionCollection](/cells/python-net/sv/aspose.cells.webextensions/webextensioncollection)
+* modul [`aspose.cells.webextensions`](../../)
+* klass [`WebExtensionCollection`](/cells/python-net/sv/aspose.cells.webextensions/webextensioncollection)

@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  material fastighet
 
-Representerar förinställningen material som kombineras med belysningsegenskaperna för att ge
-en forms slutliga utseende och känsla.
+Representerar förinställningen material som kombineras med ljusegenskaperna för att ge
+slutgiltigt utseende och känsla hos en form.
 ###  Definition:
 ```python
 @property
@@ -22,6 +22,6 @@ def material(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [PresetMaterialType](/cells/python-net/sv/aspose.cells.drawing/presetmaterialtype)
-* klass [ThreeDFormat](/cells/python-net/sv/aspose.cells.drawing/threedformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`PresetMaterialType`](/cells/python-net/sv/aspose.cells.drawing/presetmaterialtype)
+* klass [`ThreeDFormat`](/cells/python-net/sv/aspose.cells.drawing/threedformat)

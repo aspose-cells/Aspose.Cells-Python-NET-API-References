@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  count fastighet
 
-Får count av villkoren.
+Hämtar count av villkoren.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def count(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormatConditionCollection](/cells/python-net/sv/aspose.cells/formatconditioncollection)
+* modul [`aspose.cells`](../../)
+* klass [`FormatConditionCollection`](/cells/python-net/sv/aspose.cells/formatconditioncollection)

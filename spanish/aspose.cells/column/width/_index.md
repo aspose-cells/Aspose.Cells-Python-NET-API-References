@@ -10,6 +10,11 @@ is_root: false
 ##  width propiedad
 
 Obtiene y establece la columna width en unidades de caracteres.
+
+###  Observaciones
+
+Para la hoja de cálculo, la columna width se mide como el número de caracteres
+del dígito máximo width de los números 0~9 tal como se representan en la fuente de estilo normal.
 ###  Definición:
 ```python
 @property
@@ -21,5 +26,5 @@ def width(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Column](/cells/python-net/es/aspose.cells/column)
+* módulo [`aspose.cells`](../../)
+* clase [`Column`](/cells/python-net/es/aspose.cells/column)

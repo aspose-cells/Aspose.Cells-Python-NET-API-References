@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [QueryTableCollection](/cells/python-net/es/aspose.cells/querytablecollection)
+* módulo [`aspose.cells`](../../)
+* clase [`QueryTableCollection`](/cells/python-net/es/aspose.cells/querytablecollection)

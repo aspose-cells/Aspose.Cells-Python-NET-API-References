@@ -3,17 +3,17 @@ title: paper_size fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 360
+weight: 390
 url: /sv/aspose.cells/workbooksettings/paper_size/
 is_root: false
 ---
 ##  paper_size fastighet
 
-Hämtar och ställer in standardstorleken för utskriftspapper.
+Hämtar och ställer in standardpappersstorleken för utskrift.
 
 ###  Anmärkningar
 
-Om det inte finns någon inställning för pappersstorlek kommer MS Excel att använda standardskrivarens inställning.
+Om det inte finns någon inställning för pappersstorlek använder MS Excel standardskrivarens inställningar.
 ###  Definition:
 ```python
 @property

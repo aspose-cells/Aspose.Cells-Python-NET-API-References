@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  axis_color fastighet
 
-Får färgen på axeln för celler med villkorlig formatering som datafält.
+Hämtar färgen på axeln för celler med villkorsstyrd formatering som databaster.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def axis_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DataBar](/cells/python-net/sv/aspose.cells/databar)
+* modul [`aspose.cells`](../../)
+* klass [`DataBar`](/cells/python-net/sv/aspose.cells/databar)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  author fastighet
 
-Hämtar och ställer Namn på den ursprungliga kommentaren author
+Hämtar och anger Namn på den ursprungliga kommentaren author
 
 ###  Exempel
 

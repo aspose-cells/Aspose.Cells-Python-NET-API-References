@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gradient_style_type propiedad
 
-Obtiene y establece el estilo de sombreado degradado.
+Obtiene y establece el estilo de sombreado de degradado.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def gradient_style_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [GradientStyleType](/cells/python-net/es/aspose.cells.drawing/gradientstyletype)
-* clase [TwoColorGradient](/cells/python-net/es/aspose.cells/twocolorgradient)
+* módulo [`aspose.cells`](../../)
+* clase [`GradientStyleType`](/cells/python-net/es/aspose.cells.drawing/gradientstyletype)
+* clase [`TwoColorGradient`](/cells/python-net/es/aspose.cells/twocolorgradient)

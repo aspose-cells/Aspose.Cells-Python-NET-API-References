@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  total_pages fastighet
 
-Indikerar totalt antal sidor i aktuell rendering.
+Anger totalt antal sidor i aktuell rendering.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def total_pages(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [DrawObject](/cells/python-net/sv/aspose.cells.rendering/drawobject)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`DrawObject`](/cells/python-net/sv/aspose.cells.rendering/drawobject)

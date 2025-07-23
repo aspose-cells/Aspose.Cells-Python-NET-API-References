@@ -3,17 +3,11 @@ title: gridline_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 150
+weight: 190
 url: /sv/aspose.cells/pptxsaveoptions/gridline_type/
 is_root: false
 ---
 ##  gridline_type fastighet
-
-Hämtar eller ställer in rutnätstyp.
-
-###  Anmärkningar
-
-Standard är Prickad typ.
 ###  Definition:
 ```python
 @property

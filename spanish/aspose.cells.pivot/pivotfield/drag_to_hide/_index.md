@@ -3,14 +3,14 @@ title: drag_to_hide propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 300
+weight: 380
 url: /es/aspose.cells.pivot/pivotfield/drag_to_hide/
 is_root: false
 ---
 ##  drag_to_hide propiedad
 
-Indica si el campo especificado se puede arrastrar a la posición de ocultar.
-El valor por defecto es verdadero.
+Indica si el campo especificado se puede arrastrar a la posición oculta.
+El valor predeterminado es verdadero.
 ###  Definición:
 ```python
 @property

@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  style fastighet
 
-Hämtar style i denna kolumn.
+Hämtar style för den här kolumnen.
 
 ###  Anmärkningar
 
  OBS: Denna medlem är nu föråldrad.
-Använd istället metoden Column.GetStyle() för att få standardvärdet style för denna kolumn.
- Den här egenskapen kommer att tas bort 12 månader senare sedan december 2022.
+Använd istället metoden Column.GetStyle() för att hämta standardvärdet style för den här kolumnen.
+ Den här egenskapen kommer att tas bort 12 månader senare från och med december 2022.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 ###  Definition:
 ```python
@@ -25,6 +25,6 @@ def style(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Column](/cells/python-net/sv/aspose.cells/column)
-* klass [Style](/cells/python-net/sv/aspose.cells/style)
+* modul [`aspose.cells`](../../)
+* klass [`Column`](/cells/python-net/sv/aspose.cells/column)
+* klass [`Style`](/cells/python-net/sv/aspose.cells/style)

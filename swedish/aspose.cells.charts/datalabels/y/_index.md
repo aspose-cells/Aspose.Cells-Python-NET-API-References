@@ -3,18 +3,18 @@ title: y fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 530
+weight: 640
 url: /sv/aspose.cells.charts/datalabels/y/
 is_root: false
 ---
 ##  y fastighet
 
-Hämtar eller ställer in y-koordinaten för det övre vänstra hörnet i enheter på 1/4000 av sjökortsytan.
+Hämtar eller ställer in y-koordinaten för det övre vänstra hörnet i enheter om 1/4000 av diagrammets yta.
 
 ###  Anmärkningar
 
  Hur konverterar man enheter på 1/4000 till pixlar?
-Y i pixlar = Y * Chart.ChartObject.Height / 4000;
+Y i pixlar = Y * Chart.ChartObject.Height / 4000d;
 ###  Definition:
 ```python
 @property

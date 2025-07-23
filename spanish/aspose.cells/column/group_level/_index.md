@@ -15,8 +15,11 @@ Obtiene el nivel de grupo de la columna.
 @property
 def group_level(self):
     ...
+@group_level.setter
+def group_level(self, value):
+    ...
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Column](/cells/python-net/es/aspose.cells/column)
+* módulo [`aspose.cells`](../../)
+* clase [`Column`](/cells/python-net/es/aspose.cells/column)

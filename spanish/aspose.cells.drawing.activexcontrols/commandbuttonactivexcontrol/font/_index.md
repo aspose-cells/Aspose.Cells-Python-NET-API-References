@@ -8,8 +8,6 @@ url: /es/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol/font/
 is_root: false
 ---
 ##  font propiedad
-
-Representa el font del control.
 ###  Definición:
 ```python
 @property
@@ -18,6 +16,6 @@ def font(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [CommandButtonActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
-* clase [Font](/cells/python-net/es/aspose.cells/font)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`CommandButtonActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
+* clase [`Font`](/cells/python-net/es/aspose.cells/font)

@@ -3,7 +3,7 @@ title: source_full_name propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1080
+weight: 1100
 url: /es/aspose.cells.drawing/picture/source_full_name/
 is_root: false
 ---
@@ -15,7 +15,7 @@ Obtiene o establece la ruta y el nombre del archivo de origen de la imagen vincu
 
 El valor predeterminado es una cadena vacía.
 Si SourceFullName no es una cadena vacía, la imagen está vinculada.
-Si SourceFullName no es una cadena vacía, pero los datos son nulos, entonces la imagen está vinculada y no se almacena en el archivo.
+Si SourceFullName no es una cadena vacía, pero Data es nulo, entonces la imagen se vincula y no se almacena en el archivo.
 ###  Definición:
 ```python
 @property

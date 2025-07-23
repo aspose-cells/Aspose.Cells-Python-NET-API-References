@@ -3,13 +3,13 @@ title: hyperlinks fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 350
+weight: 450
 url: /sv/aspose.cells/range/hyperlinks/
 is_root: false
 ---
 ##  hyperlinks fastighet
 
-Får alla hyperlänkar i intervallet.
+Hämtar alla hyperlänkar inom intervallet.
 ###  Definition:
 ```python
 @property

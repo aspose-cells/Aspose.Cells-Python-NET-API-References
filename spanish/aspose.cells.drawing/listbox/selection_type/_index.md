@@ -3,7 +3,7 @@ title: selection_type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 940
+weight: 950
 url: /es/aspose.cells.drawing/listbox/selection_type/
 is_root: false
 ---

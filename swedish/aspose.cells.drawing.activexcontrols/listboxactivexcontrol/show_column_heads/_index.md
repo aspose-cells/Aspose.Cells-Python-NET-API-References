@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_column_heads fastighet
 
-Indikerar om kolumnrubriker visas.
+Anger om kolumnrubriker visas.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_column_heads(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ListBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ListBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

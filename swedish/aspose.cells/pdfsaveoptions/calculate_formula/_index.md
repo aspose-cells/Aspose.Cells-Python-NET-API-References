@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  calculate_formula fastighet
 
-Indikerar om formler ska beräknas innan pdf-filen sparas.
+Anger om formler ska beräknas innan PDF-filen sparas.
 
 ###  Anmärkningar
 
@@ -25,5 +25,5 @@ def calculate_formula(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PdfSaveOptions](/cells/python-net/sv/aspose.cells/pdfsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`PdfSaveOptions`](/cells/python-net/sv/aspose.cells/pdfsaveoptions)

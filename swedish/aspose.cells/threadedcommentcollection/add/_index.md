@@ -7,7 +7,7 @@ weight: 20
 url: /sv/aspose.cells/threadedcommentcollection/add/
 is_root: false
 ---
-##  add(text, author) {#str-ThreadedCommentAuthor}
+##  add(self, text, author) {#str-aspose.cells.ThreadedCommentAuthor}
 Lägger till en trådad kommentar;
 
 
@@ -17,6 +17,7 @@ Lägger till en trådad kommentar;
 
 
 ```python
+
 def add(self, text, author):
     ...
 ```
@@ -25,10 +26,10 @@ def add(self, text, author):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | text | str | Texten i den trådade kommentaren.|
-| author | [ThreadedCommentAuthor](/cells/python-net/sv/aspose.cells/threadedcommentauthor) | Författaren till den trådade kommentaren|
+| author | [`ThreadedCommentAuthor`](/cells/python-net/sv/aspose.cells/threadedcommentauthor) | Författaren till den trådade kommentaren|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ThreadedCommentCollection](/cells/python-net/sv/aspose.cells/threadedcommentcollection)
+* modul [`aspose.cells`](../../)
+* klass [`ThreadedCommentCollection`](/cells/python-net/sv/aspose.cells/threadedcommentcollection)

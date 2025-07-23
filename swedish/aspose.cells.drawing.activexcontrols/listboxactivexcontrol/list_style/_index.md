@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  list_style fastighet
 
-Får och ställer in det visuella utseendet.
+Hämtar och anger det visuella utseendet.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def list_style(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ControlListStyle](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/controlliststyle)
-* klass [ListBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ControlListStyle`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/controlliststyle)
+* klass [`ListBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

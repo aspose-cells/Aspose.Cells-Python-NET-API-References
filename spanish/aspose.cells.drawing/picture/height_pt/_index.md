@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height_pt propiedad
 
-Representa la altura de la forma, en unidades de puntos.
+Representa la altura de la forma, en unidad de puntos.
 
 ###  Ejemplo
 

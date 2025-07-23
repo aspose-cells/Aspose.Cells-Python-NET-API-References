@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column_width_pixel propiedad
 
-Obtiene o establece el ancho en unidades de píxeles para cada columna de la segmentación.
+Obtiene o establece el ancho de cada columna en la segmentación de datos, en unidades de píxeles.
 
 ###  Ejemplo
 
@@ -29,5 +29,5 @@ def column_width_pixel(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.slicers](../../)
-* clase [Slicer](/cells/python-net/es/aspose.cells.slicers/slicer)
+* módulo [`aspose.cells.slicers`](../../)
+* clase [`Slicer`](/cells/python-net/es/aspose.cells.slicers/slicer)

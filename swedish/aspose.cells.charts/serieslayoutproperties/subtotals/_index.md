@@ -3,13 +3,13 @@ title: subtotals fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 120
+weight: 130
 url: /sv/aspose.cells.charts/serieslayoutproperties/subtotals/
 is_root: false
 ---
 ##  subtotals fastighet
 
-Representerar indexet för en deltotaldatapunkt.
+Representerar indexet för en delsummadatapunkt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def subtotals(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [SeriesLayoutProperties](/cells/python-net/sv/aspose.cells.charts/serieslayoutproperties)
+* modul [`aspose.cells.charts`](../../)
+* klass [`SeriesLayoutProperties`](/cells/python-net/sv/aspose.cells.charts/serieslayoutproperties)

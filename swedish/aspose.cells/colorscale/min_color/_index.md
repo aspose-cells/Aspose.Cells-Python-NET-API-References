@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  min_color fastighet
 
-Hämta eller ställ in gradientfärgen för det lägsta värdet i intervallet.
+Hämta eller ange gradientfärgen för det lägsta värdet i intervallet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def min_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ColorScale](/cells/python-net/sv/aspose.cells/colorscale)
+* modul [`aspose.cells`](../../)
+* klass [`ColorScale`](/cells/python-net/sv/aspose.cells/colorscale)

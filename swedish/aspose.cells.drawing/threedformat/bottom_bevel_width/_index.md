@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  bottom_bevel_width fastighet
 
-Får och ställer in bredden på den nedre avfasningen, eller hur långt in i formen den appliceras.
-I enhet av poäng.
+Hämtar och anger bredden på den nedre avfasningen, eller hur långt in i formen den appliceras.
+I enheten poäng.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def bottom_bevel_width(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ThreeDFormat](/cells/python-net/sv/aspose.cells.drawing/threedformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ThreeDFormat`](/cells/python-net/sv/aspose.cells.drawing/threedformat)

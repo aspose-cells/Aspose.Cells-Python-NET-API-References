@@ -7,18 +7,18 @@ weight: 10
 url: /sv/aspose.cells.metadata/
 is_root: false
 ---
- De**Aspose.Cells.Metadata** namnrymden innehåller alla klasser för att ladda och spara metadata för kalkylark.
+ De**Aspose.Cells.Metadata** Namnrymden innehåller alla klasser för inläsning och sparning av metadata för kalkylblad.
 
 ###  Klasser
 | Klass| Beskrivning|
 | :- | :- |
-| [MetadataOptions](/cells/python-net/sv/aspose.cells.metadata/metadataoptions) | Representerar alternativen för att ladda metadata för filen.|
-| [WorkbookMetadata](/cells/python-net/sv/aspose.cells.metadata/workbookmetadata) | Representerar metadata.|
+| [`MetadataOptions`](/cells/python-net/sv/aspose.cells.metadata/metadataoptions) | Representerar alternativen för att ladda metadata för filen.|
+| [`WorkbookMetadata`](/cells/python-net/sv/aspose.cells.metadata/workbookmetadata) |Representerar metadata.|
 
 
 ###  Uppräkningar
-|Uppräkning| Beskrivning|
+| Uppräkning| Beskrivning|
 | :- | :- |
-| [MetadataType](/cells/python-net/sv/aspose.cells.metadata/metadatatype) | Representerar typen av metadata.|
+| [`MetadataType`](/cells/python-net/sv/aspose.cells.metadata/metadatatype) | Representerar typen av metadata.|
 
 

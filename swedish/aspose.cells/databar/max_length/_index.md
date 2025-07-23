@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  max_length fastighet
 
-Representerar den maximala längden på datafältet.
+Representerar den maximala längden på datastapeln.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def max_length(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DataBar](/cells/python-net/sv/aspose.cells/databar)
+* modul [`aspose.cells`](../../)
+* klass [`DataBar`](/cells/python-net/sv/aspose.cells/databar)

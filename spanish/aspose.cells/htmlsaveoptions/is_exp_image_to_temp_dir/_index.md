@@ -3,14 +3,14 @@ title: is_exp_image_to_temp_dir propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 480
+weight: 560
 url: /es/aspose.cells/htmlsaveoptions/is_exp_image_to_temp_dir/
 is_root: false
 ---
 ##  is_exp_image_to_temp_dir propiedad
 
 Indica si se exportan archivos de imagen al directorio temporal.
-Solo para guardar en secuencia html.
+Sólo para guardar en secuencia HTML.
 ###  Definición:
 ```python
 @property

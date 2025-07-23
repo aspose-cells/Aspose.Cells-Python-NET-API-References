@@ -7,8 +7,8 @@ weight: 80
 url: /sv/aspose.cells.charts/chartglobalizationsettings/get_other_name/
 is_root: false
 ---
-##  get_other_name() {#}
-Hämtar namnet på "Andra"-etiketter för diagram.
+##  get_other_name(self) {#}
+Hämtar namnet på etiketterna "Övrigt" för diagrammet.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Hämtar namnet på "Andra"-etiketter för diagram.
 
 
 ```python
+
 def get_other_name(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_other_name(self):
 
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ChartGlobalizationSettings](/cells/python-net/sv/aspose.cells.charts/chartglobalizationsettings)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ChartGlobalizationSettings`](/cells/python-net/sv/aspose.cells.charts/chartglobalizationsettings)

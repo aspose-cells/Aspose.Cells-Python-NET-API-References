@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  input_message fastighet
 
-Representerar ingångsmeddelandet för datavalidering.
+Representerar inmatningsmeddelandet för datavalidering.
 ###  Definition:
 ```python
 @property

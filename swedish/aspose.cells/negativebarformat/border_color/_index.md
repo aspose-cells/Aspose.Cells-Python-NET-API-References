@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border_color fastighet
 
-Hämtar eller ställer in ett FormatColor-objekt som du kan använda för att ange kantfärgen för negativa datafält.
+Hämtar eller ställer in ett FormatColor-objekt som du kan använda för att ange kantfärgen för negativa datastapel.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def border_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [NegativeBarFormat](/cells/python-net/sv/aspose.cells/negativebarformat)
+* modul [`aspose.cells`](../../)
+* klass [`NegativeBarFormat`](/cells/python-net/sv/aspose.cells/negativebarformat)

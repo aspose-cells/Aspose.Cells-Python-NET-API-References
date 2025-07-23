@@ -3,13 +3,13 @@ title: text_rendering_hint fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 340
+weight: 350
 url: /sv/aspose.cells.rendering/imageorprintoptions/text_rendering_hint/
 is_root: false
 ---
 ##  text_rendering_hint fastighet
 
-Anger kvaliteten på textåtergivningen.
+Anger kvaliteten på textrenderingen.
 Standardvärdet är TextRenderingHint.SystemDefault
 ###  Definition:
 ```python

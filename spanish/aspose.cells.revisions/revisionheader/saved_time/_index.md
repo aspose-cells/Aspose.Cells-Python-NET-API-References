@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  saved_time propiedad
 
-Obtiene y establece la fecha y la hora en que se guardó este conjunto de revisiones.
+Obtiene y establece la fecha y hora en que se guardó este conjunto de revisiones.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def saved_time(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.revisions](../../)
-* clase [RevisionHeader](/cells/python-net/es/aspose.cells.revisions/revisionheader)
+* módulo [`aspose.cells.revisions`](../../)
+* clase [`RevisionHeader`](/cells/python-net/es/aspose.cells.revisions/revisionheader)

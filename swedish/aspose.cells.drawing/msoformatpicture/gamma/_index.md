@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gamma fastighet
 
-Representerar gamma av bilden.
+Representerar gamma i bilden.
 ###  Definition:
 ```python
 @property

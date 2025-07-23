@@ -7,12 +7,13 @@ weight: 40
 url: /sv/aspose.cells/filtercolumncollection/get_by_index/
 is_root: false
 ---
-##  get_by_index(index) {#int}
-Returnerar ett enda filterobjekt från en samling.
+##  get_by_index(self, index) {#int}
+Returnerar ett enda Filter-objekt från en samling.
 
 
 
 ```python
+
 def get_by_index(self, index):
     ...
 ```
@@ -25,5 +26,5 @@ def get_by_index(self, index):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FilterColumnCollection](/cells/python-net/sv/aspose.cells/filtercolumncollection)
+* modul [`aspose.cells`](../../)
+* klass [`FilterColumnCollection`](/cells/python-net/sv/aspose.cells/filtercolumncollection)

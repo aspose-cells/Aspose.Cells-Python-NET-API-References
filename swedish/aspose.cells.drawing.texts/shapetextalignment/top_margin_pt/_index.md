@@ -3,13 +3,13 @@ title: top_margin_pt fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 160
+weight: 170
 url: /sv/aspose.cells.drawing.texts/shapetextalignment/top_margin_pt/
 is_root: false
 ---
 ##  top_margin_pt fastighet
 
-Returnerar den övre marginalen i poängenhet
+Returnerar den övre marginalen i enheten poäng
 
 ###  Exempel
 
@@ -29,5 +29,5 @@ def top_margin_pt(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [ShapeTextAlignment](/cells/python-net/sv/aspose.cells.drawing.texts/shapetextalignment)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`ShapeTextAlignment`](/cells/python-net/sv/aspose.cells.drawing.texts/shapetextalignment)

@@ -3,12 +3,12 @@ title: método get_text_of_quarters
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 160
+weight: 170
 url: /es/aspose.cells.settings/pivotglobalizationsettings/get_text_of_quarters/
 is_root: false
 ---
-##  get_text_of_quarters {#}
-Obtenga el texto local de "Cuartos".
+##  get_text_of_quarters(self) {#}
+Obtenga el texto local de "Quarters".
 
 
 ###  Devoluciones
@@ -17,6 +17,7 @@ Obtenga el texto local de "Cuartos".
 
 
 ```python
+
 def get_text_of_quarters(self):
     ...
 ```

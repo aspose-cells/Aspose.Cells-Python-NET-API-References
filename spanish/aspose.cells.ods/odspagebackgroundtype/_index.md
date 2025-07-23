@@ -17,11 +17,11 @@ El tipo OdsPageBackgroundType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| NONE | sin fondo|
+| NONE | Sin antecedentes.|
 | COLOR | Formatea el fondo con color.|
 | GRAPHIC | Formatea el fondo con imagen.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.ods](..)
+* módulo [`aspose.cells.ods`](..)

@@ -3,7 +3,7 @@ title: is_automatic_rotation propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 190
+weight: 250
 url: /es/aspose.cells.charts/legend/is_automatic_rotation/
 is_root: false
 ---

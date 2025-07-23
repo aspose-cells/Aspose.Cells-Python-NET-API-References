@@ -3,13 +3,13 @@ title: window_height fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 520
+weight: 530
 url: /sv/aspose.cells/workbooksettings/window_height/
 is_root: false
 ---
 ##  window_height fastighet
 
-Höjden på fönstret, i punktenhet.
+Fönstrets höjd, i enhet av punkt.
 ###  Definition:
 ```python
 @property

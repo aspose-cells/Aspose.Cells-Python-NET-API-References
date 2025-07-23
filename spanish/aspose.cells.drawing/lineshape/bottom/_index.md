@@ -3,7 +3,7 @@ title: bottom propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 340
+weight: 350
 url: /es/aspose.cells.drawing/lineshape/bottom/
 is_root: false
 ---

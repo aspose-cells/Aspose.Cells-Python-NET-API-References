@@ -9,17 +9,17 @@ is_root: false
 ---
 ##  calculation_id fastighet
 
-Anger versionen av beräkningsmotorn som används för att beräkna värden i arbetsboken.
+Anger vilken version av beräkningsmotorn som används för att beräkna värden i arbetsboken.
 
 ###  Anmärkningar
 
-Den här egenskapen är endast till för att spara inställningarna i den resulterande kalkylarksfilen
-så att andra applikationer (som ms excel) kan agera därefter när de laddar och manipulerar den resulterande filen.
-I fallet med ms excel, om värdet på den här egenskapen är mindre än den associerade omräkningsmotorns identifierare
-med programmet som öppnar den resulterande filen, kommer programmet att räkna om resultaten av alla formler
-på den här arbetsboken omedelbart efter att filen laddats.
-För prestandaöverväganden för de flesta användares applikationer, beräknar vi inte någon formel i arbetsboken automatiskt,
-oavsett vilket värde som har satts för denna fastighet.
+Den här egenskapen är endast till för att spara inställningarna till den resulterande kalkylbladsfilen.
+så att andra program (som MS Excel) kan agera därefter när de laddar och manipulerar den resulterande filen.
+fallet med MS Excel, om värdet på den här egenskapen är mindre än den associerade omberäkningsmotoridentifieraren
+Med programmet som öppnar den resulterande filen kommer programmet att beräkna om resultaten av alla formler
+i den här arbetsboken direkt efter att filen har laddats.
+Av prestandaskäl för de flesta användares applikationer beräknar vi inte någon formler automatiskt i arbetsboken,
+oavsett vilket värde som har satts för denna egendom.
 ###  Definition:
 ```python
 @property
@@ -31,5 +31,5 @@ def calculation_id(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormulaSettings](/cells/python-net/sv/aspose.cells/formulasettings)
+* modul [`aspose.cells`](../../)
+* klass [`FormulaSettings`](/cells/python-net/sv/aspose.cells/formulasettings)

@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  base_unit_scale propiedad
 
-Representa la escala de unidades base para el eje de categorías.
+Representa la escala de la unidad base para el eje de categorías.
 
 ###  Observaciones
 
-Establecer esta propiedad solo tiene efecto cuando la propiedad CategoryType está establecida en TimeScale.
+La configuración de esta propiedad solo surte efecto cuando la propiedad CategoryType se establece en TimeScale.
 ###  Definición:
 ```python
 @property

@@ -7,16 +7,17 @@ weight: 30
 url: /es/aspose.cells/worksheetcollection/add_copy/
 is_root: false
 ---
-##  add_copy {#str}
-Agrega una hoja de trabajo a la colección y copia datos de una hoja de trabajo existente.
+##  add_copy(self, sheet_name) {#str}
+Agrega una hoja de cálculo a la colección y copia datos de una hoja de cálculo existente.
 
 
 ###  Devoluciones
 
-[`Worksheet`](/cells/python-net/es/aspose.cells/worksheet) índice de objetos.
+Índice de objeto [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet).
 
 
 ```python
+
 def add_copy(self, sheet_name):
     ...
 ```
@@ -24,7 +25,7 @@ def add_copy(self, sheet_name):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| sheet_name | str | Nombre de la hoja de trabajo de origen.|
+| sheet_name | str | Nombre de la hoja de trabajo fuente.|
 ###  Excepciones
 | Excepción| Descripción|
 | :- | :- |
@@ -33,16 +34,17 @@ def add_copy(self, sheet_name):
 
 
 
-##  add_copy {#int}
-Agrega una hoja de trabajo a la colección y copia datos de una hoja de trabajo existente.
+##  add_copy(self, sheet_index) {#int}
+Agrega una hoja de cálculo a la colección y copia datos de una hoja de cálculo existente.
 
 
 ###  Devoluciones
 
-[`Worksheet`](/cells/python-net/es/aspose.cells/worksheet) índice de objetos.
+Índice de objeto [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet).
 
 
 ```python
+
 def add_copy(self, sheet_index):
     ...
 ```
@@ -53,12 +55,13 @@ def add_copy(self, sheet_index):
 | sheet_index | int | Índice de la hoja de trabajo fuente.|
 
 
-##  add_copy {#list-list}
-Copie un grupo de hojas de trabajo.
+##  add_copy(self, source, dest_sheet_names) {#list-list}
+Copiar un grupo de hojas de trabajo.
 
 
 
 ```python
+
 def add_copy(self, source, dest_sheet_names):
     ...
 ```

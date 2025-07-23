@@ -1,5 +1,5 @@
 ---
-title: get_style método
+title: método get_style
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 30
 url: /es/aspose.cells/column/get_style/
 is_root: false
 ---
-##  get_style() {#}
+##  get_style(self) {#}
 Obtiene el estilo de esta columna.
 
 
 
 ```python
+
 def get_style(self):
     ...
 ```
@@ -20,14 +21,14 @@ def get_style(self):
 
 ###  Observaciones
 
-La modificación directa del objeto de estilo devuelto no tiene ningún efecto para esta columna ni para ninguna de las celdas de esta columna.
-Tienes que llamar al [Column.apply_style(style, flag)](/cells/python-net/es/aspose.cells/column/apply_style) o al método [Column.set_style(style)](/cells/python-net/es/aspose.cells/column/set_style)
+Modificar directamente el objeto de estilo devuelto no tiene efecto en esta columna ni en ninguna celda de esta columna.
+Debes llamar al método [`Column.apply_style`](/cells/python-net/es/aspose.cells/column/apply_style) o [`Column.set_style`](/cells/python-net/es/aspose.cells/column/set_style)
 para aplicar el cambio a esta columna.
 
-El estilo de la columna es el estilo que heredarán las celdas de esta columna (las celdas que no tienen una configuración de estilo personalizada,
-como celdas existentes a las que no se les ha establecido un estilo de forma explícita, o aquellas que no han sido instanciadas)
+El estilo de la columna es el estilo que heredarán las celdas de esta columna (aquellas celdas que no tienen configuraciones de estilo personalizadas,
+(como celdas existentes a las que no se les ha asignado un estilo de forma explícita, o aquellas que no han sido instanciadas)
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Column](/cells/python-net/es/aspose.cells/column)
+* módulo [`aspose.cells`](../../)
+* clase [`Column`](/cells/python-net/es/aspose.cells/column)

@@ -8,10 +8,6 @@ url: /es/aspose.cells/pptxsaveoptions/all_columns_in_one_page_per_sheet/
 is_root: false
 ---
 ##  all_columns_in_one_page_per_sheet propiedad
-
- Si AllColumnsInOnePagePerSheet es verdadero, todo el contenido de la columna de una hoja se generará en una sola página como resultado.
- Se ignorará el ancho del tamaño del papel de pagesetup y el resto de configuraciones de pagesetup
-seguirá surtiendo efecto.
 ###  Definición:
 ```python
 @property

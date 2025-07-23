@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  picture_alignment fastighet
 
-Hämtar och ställer in justeringen av bilden i formuläret eller bilden.
+Hämtar och anger justeringen av bilden inuti formuläret eller bilden.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def picture_alignment(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ControlPictureAlignmentType](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/controlpicturealignmenttype)
-* klass [ImageActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ControlPictureAlignmentType`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/controlpicturealignmenttype)
+* klass [`ImageActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

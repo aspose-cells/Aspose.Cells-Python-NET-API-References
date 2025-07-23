@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  is_triple_state propiedad
 
-Indica cómo el control especificado mostrará valores nulos.
+Indica cómo el control especificado mostrará los valores nulos.
 
 ###  Observaciones
 
 | Configuración| Descripción|
 | :- | :- |
-| Verdadero| El control recorrerá los estados para los valores Sí, No y Nulo. El control aparece atenuado (en gris) cuando su propiedad Valor se establece en Nulo.|
-| FALSO|(Predeterminado) El control recorrerá los estados para los valores Sí y No. Los valores nulos se muestran como si no fueran valores.|
+| Verdadero|El control pasará por diferentes estados para los valores Sí, No y Nulo. El control aparece atenuado (en gris) cuando su propiedad Valor está establecida en Nulo.|
+| FALSO| (Predeterminado) El control alternará entre estados para valores Sí y No. Los valores nulos se muestran como si fueran valores No.|
 ###  Definición:
 ```python
 @property
@@ -28,5 +28,5 @@ def is_triple_state(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [RadioButtonActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`RadioButtonActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

@@ -22,7 +22,7 @@ Typen TrendlineType avslöjar följande medlemmar:
 | LOGARITHMIC | Logaritmisk|
 | MOVING_AVERAGE | Glidande medelvärde|
 | POLYNOMIAL | Polynom|
-| POWER | Kraft|
+| POWER | Driva|
 
 
 

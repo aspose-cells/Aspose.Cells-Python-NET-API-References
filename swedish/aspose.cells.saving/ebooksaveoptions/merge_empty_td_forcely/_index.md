@@ -3,16 +3,16 @@ title: merge_empty_td_forcely fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 560
+weight: 640
 url: /sv/aspose.cells.saving/ebooksaveoptions/merge_empty_td_forcely/
 is_root: false
 ---
 ##  merge_empty_td_forcely fastighet
 
- Indikerar om sammanslagning av tomt TD-element tvångsmässigt vid export av fil till html.
- Storleken på html-filen kommer att minskas avsevärt efter att värdet ställts in på sant. Standardvärdet är falskt.
- Om du vill importera html-filen till Excel eller exportera perfekta rutnätslinjer när du sparar filen till html,
-behåll standardvärdet.
+ Anger om tomma TD-element ska sammanfogas med tvång vid export av fil till html.
+ Storleken på html-filen kommer att minskas avsevärt efter att värdet är satt till sant. Standardvärdet är falskt.
+ Om du vill importera HTML-filen till Excel eller exportera perfekta rutnät när du sparar filen till HTML,
+vänligen behåll standardvärdet.
 ###  Definition:
 ```python
 @property

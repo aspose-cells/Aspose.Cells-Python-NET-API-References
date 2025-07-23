@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  result_range fastighet
 
-Får resultatets omfång.
+Hämtar resultatets intervall.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def result_range(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [QueryTable](/cells/python-net/sv/aspose.cells/querytable)
-* klass [Range](/cells/python-net/sv/aspose.cells/range)
+* modul [`aspose.cells`](../../)
+* klass [`QueryTable`](/cells/python-net/sv/aspose.cells/querytable)
+* klass [`Range`](/cells/python-net/sv/aspose.cells/range)

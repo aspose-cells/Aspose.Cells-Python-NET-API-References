@@ -8,7 +8,7 @@ url: /es/aspose.cells.tables/tablestyletype/
 is_root: false
 ---
 ##  TableStyleType enumeración
-Representa el tipo de estilo de tabla integrado.
+Representa el tipo de estilo de tabla incorporado.
 
 
 
@@ -83,4 +83,4 @@ El tipo TableStyleType expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.tables](..)
+* módulo [`aspose.cells.tables`](..)

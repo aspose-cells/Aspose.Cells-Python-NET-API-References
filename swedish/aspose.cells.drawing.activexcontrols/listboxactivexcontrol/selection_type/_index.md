@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  selection_type fastighet
 
-Indikerar om kontrollen tillåter flera val.
+Anger om kontrollen tillåter flera val.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def selection_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ListBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
-* klass [SelectionType](/cells/python-net/sv/aspose.cells.drawing/selectiontype)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ListBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* klass [`SelectionType`](/cells/python-net/sv/aspose.cells.drawing/selectiontype)

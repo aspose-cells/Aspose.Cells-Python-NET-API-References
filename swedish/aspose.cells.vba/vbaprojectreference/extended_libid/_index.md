@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  extended_libid fastighet
 
-Hämtar och ställer in referensens utökade Libid.
+Hämtar och anger referensens utökade Libid.
 
 ###  Anmärkningar
 
@@ -25,5 +25,5 @@ def extended_libid(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.vba](../../)
-* klass [VbaProjectReference](/cells/python-net/sv/aspose.cells.vba/vbaprojectreference)
+* modul [`aspose.cells.vba`](../../)
+* klass [`VbaProjectReference`](/cells/python-net/sv/aspose.cells.vba/vbaprojectreference)

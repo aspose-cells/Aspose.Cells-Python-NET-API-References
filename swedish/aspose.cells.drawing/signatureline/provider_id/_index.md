@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  provider_id fastighet
 
-Hämtar och ställer in id för signaturleverantör.
+Hämtar eller anger ID:t för signaturleverantören.
 
 ###  Anmärkningar
 
@@ -23,7 +23,7 @@ from uuid import uuid4
 
 #  Create signature line object
 s2 = SignatureLine()
-s2.provider_id = uuid4()
+s2.provider_id = uuid4("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx")
 
 ```
 ###  Definition:
@@ -37,5 +37,5 @@ def provider_id(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [SignatureLine](/cells/python-net/sv/aspose.cells.drawing/signatureline)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`SignatureLine`](/cells/python-net/sv/aspose.cells.drawing/signatureline)

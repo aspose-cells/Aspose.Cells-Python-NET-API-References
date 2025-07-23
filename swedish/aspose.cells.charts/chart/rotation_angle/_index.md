@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  rotation_angle fastighet
 
-Representerar rotationen av 3D-diagramvyn (rotationen av plotområdet runt z-axeln, i grader).
+Representerar rotationen av 3D-diagramvyn (rotationen av plottområdet runt z-axeln, i grader).
 
 ###  Anmärkningar
 
- Värdet på den här egenskapen måste vara från 0 till 360, förutom för 3D-stapeldiagram, där värdet måste vara från 0 till 44.
+ Värdet för den här egenskapen måste vara mellan 0 och 360, förutom för 3D-stapeldiagram, där värdet måste vara mellan 0 och 44.
 Standardvärdet är 20. Gäller endast 3D-diagram.
 ###  Definition:
 ```python

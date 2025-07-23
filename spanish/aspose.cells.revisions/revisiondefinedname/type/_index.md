@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.revisions](../../)
-* clase [RevisionDefinedName](/cells/python-net/es/aspose.cells.revisions/revisiondefinedname)
-* clase [RevisionType](/cells/python-net/es/aspose.cells.revisions/revisiontype)
+* módulo [`aspose.cells.revisions`](../../)
+* clase [`RevisionDefinedName`](/cells/python-net/es/aspose.cells.revisions/revisiondefinedname)
+* clase [`RevisionType`](/cells/python-net/es/aspose.cells.revisions/revisiontype)

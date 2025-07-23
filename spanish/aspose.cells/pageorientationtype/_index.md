@@ -3,7 +3,7 @@ title: PageOrientationType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2400
+weight: 2370
 url: /es/aspose.cells/pageorientationtype/
 is_root: false
 ---
@@ -18,7 +18,7 @@ El tipo PageOrientationType expone los siguientes miembros:
 | Campo| Descripción|
 | :- | :- |
 | LANDSCAPE | Orientación horizontal|
-| PORTRAIT | Orientación Vertical|
+| PORTRAIT | Orientación vertical|
 
 
 

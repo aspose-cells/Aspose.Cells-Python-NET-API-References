@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  value fastighet
 
-Icke-heltal numerisk value, Heltal value, String value eller Boolean value
-att använda som frågeparameter. Används endast när parameterType är value.
+Icke-heltal numeriskt value, heltal value, sträng value eller booleskt value
+att använda som frågeparameter. Används endast när parametertypen är value.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def value(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.externalconnections](../../)
-* klass [ConnectionParameter](/cells/python-net/sv/aspose.cells.externalconnections/connectionparameter)
+* modul [`aspose.cells.externalconnections`](../../)
+* klass [`ConnectionParameter`](/cells/python-net/sv/aspose.cells.externalconnections/connectionparameter)

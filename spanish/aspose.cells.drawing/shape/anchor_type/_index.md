@@ -3,13 +3,13 @@ title: anchor_type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 290
+weight: 300
 url: /es/aspose.cells.drawing/shape/anchor_type/
 is_root: false
 ---
 ##  anchor_type propiedad
 
-Obtiene y establece el marcador de posición del ancla de forma.
+Obtiene y establece el tipo de marcador de posición de ancla de forma.
 
 ###  Ejemplo
 

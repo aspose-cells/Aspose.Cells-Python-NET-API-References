@@ -3,7 +3,7 @@ title: height_in_shape propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 460
+weight: 450
 url: /es/aspose.cells.drawing/spinner/height_in_shape/
 is_root: false
 ---

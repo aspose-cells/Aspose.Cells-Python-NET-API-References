@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_open propiedad
 
-Cuando esta propiedad es verdadera, la entrada de marcador se expandirá; de lo contrario, se colapsará.
+Cuando esta propiedad es verdadera, la entrada del marcador se expandirá; de lo contrario, se contraerá.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_open(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.rendering](../../)
-* clase [PdfBookmarkEntry](/cells/python-net/es/aspose.cells.rendering/pdfbookmarkentry)
+* módulo [`aspose.cells.rendering`](../../)
+* clase [`PdfBookmarkEntry`](/cells/python-net/es/aspose.cells.rendering/pdfbookmarkentry)

@@ -3,17 +3,17 @@ title: is_display_unit_label_shown fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 230
+weight: 240
 url: /sv/aspose.cells.charts/axis/is_display_unit_label_shown/
 is_root: false
 ---
 ##  is_display_unit_label_shown fastighet
 
-Representerar om displayenhetens etikett visas på den angivna axeln.
+Representerar om visningsenhetens etikett visas på den angivna axeln.
 
 ###  Anmärkningar
 
-Standardvärdet är True.
+Standardvärdet är Sant.
 ###  Definition:
 ```python
 @property

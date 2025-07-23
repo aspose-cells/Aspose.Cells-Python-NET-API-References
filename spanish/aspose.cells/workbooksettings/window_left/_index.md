@@ -3,13 +3,13 @@ title: window_left propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 550
+weight: 560
 url: /es/aspose.cells/workbooksettings/window_left/
 is_root: false
 ---
 ##  window_left propiedad
 
-La distancia desde el borde izquierdo del área del cliente hasta el borde izquierdo de la ventana, en unidades de punto.
+La distancia desde el borde izquierdo del área del cliente hasta el borde izquierdo de la ventana, en unidades de puntos.
 ###  Definición:
 ```python
 @property

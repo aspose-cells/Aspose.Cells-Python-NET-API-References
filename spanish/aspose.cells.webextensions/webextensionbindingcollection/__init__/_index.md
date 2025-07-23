@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells.webextensions/webextensionbindingcollection/__init__/
 is_root: false
 ---
-##  WebExtensionBindingCollection() {#}
+##  \_\_init\_\_(yo mismo){#}
 Construye una nueva instancia de WebExtensionBindingCollection
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ver también
-* módulo [aspose.cells.webextensions](../../)
-* clase [WebExtensionBindingCollection](/cells/python-net/es/aspose.cells.webextensions/webextensionbindingcollection)
+* módulo [`aspose.cells.webextensions`](../../)
+* clase [`WebExtensionBindingCollection`](/cells/python-net/es/aspose.cells.webextensions/webextensionbindingcollection)

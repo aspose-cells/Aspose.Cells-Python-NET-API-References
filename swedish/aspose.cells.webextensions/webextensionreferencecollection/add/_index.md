@@ -7,8 +7,8 @@ weight: 20
 url: /sv/aspose.cells.webextensions/webextensionreferencecollection/add/
 is_root: false
 ---
-##  add() {#}
-Lägger till en tom referens för webbtillägg.
+##  add(self) {#}
+Lägger till en tom referens för webbtillägget.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Lägger till en tom referens för webbtillägg.
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ###  Se även
-* modul [aspose.cells.webextensions](../../)
-* klass [WebExtensionReferenceCollection](/cells/python-net/sv/aspose.cells.webextensions/webextensionreferencecollection)
+* modul [`aspose.cells.webextensions`](../../)
+* klass [`WebExtensionReferenceCollection`](/cells/python-net/sv/aspose.cells.webextensions/webextensionreferencecollection)

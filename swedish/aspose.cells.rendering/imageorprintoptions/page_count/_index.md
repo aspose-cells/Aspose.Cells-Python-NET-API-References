@@ -3,17 +3,17 @@ title: page_count fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 220
+weight: 230
 url: /sv/aspose.cells.rendering/imageorprintoptions/page_count/
 is_root: false
 ---
 ##  page_count fastighet
 
-Hämtar eller ställer in antalet sidor som ska sparas.
+Hämtar eller anger antalet sidor som ska sparas.
 
 ###  Anmärkningar
 
-Standard är System.Int32.MaxValue vilket innebär att alla sidor kommer att renderas.
+Standardvärdet är System.Int32.MaxValue vilket innebär att alla sidor kommer att renderas.
 ###  Definition:
 ```python
 @property

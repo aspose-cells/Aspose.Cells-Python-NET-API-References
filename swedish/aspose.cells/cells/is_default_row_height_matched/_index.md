@@ -3,13 +3,13 @@ title: is_default_row_height_matched fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1050
+weight: 1080
 url: /sv/aspose.cells/cells/is_default_row_height_matched/
 is_root: false
 ---
 ##  is_default_row_height_matched fastighet
 
-Indikerar att radhöjd och standardfonthöjd matchar
+Indikerar att radhöjden och standardteckensnittshöjden matchar
 ###  Definition:
 ```python
 @property

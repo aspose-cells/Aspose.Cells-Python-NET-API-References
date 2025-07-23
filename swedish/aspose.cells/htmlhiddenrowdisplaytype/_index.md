@@ -3,12 +3,12 @@ title: HtmlHiddenRowDisplayType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2240
+weight: 2180
 url: /sv/aspose.cells/htmlhiddenrowdisplaytype/
 is_root: false
 ---
 ##  HtmlHiddenRowDisplayType uppräkning
-Representerar två typer av att visa de dolda raderna i html.
+Representerar två typer av visning av dolda rader i html.
 
 
 
@@ -17,7 +17,7 @@ Typen HtmlHiddenRowDisplayType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| HIDDEN |Gömde de dolda raderna i HTML-sidan.|
+| HIDDEN | Dolde de dolda raderna på html-sidan.|
 | REMOVE | Ta bort de dolda raderna på HTML-sidan.|
 
 

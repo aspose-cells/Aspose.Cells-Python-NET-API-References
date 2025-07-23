@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  prompt fastighet
 
- Fråga sträng för parametern. Presenteras för kalkylarksanvändaren tillsammans med inmatningsgränssnittet
- för att samla in parametervärdet innan extern data uppdateras. Används endast när
-parameterType = prompt.
+ Frågsträng för parametern. Presenteras för kalkylbladsanvändaren tillsammans med inmatningsgränssnittet.
+ för att samla in parametervärdet innan externa data uppdateras. Används endast när
+parametertyp = prompt.
 ###  Definition:
 ```python
 @property
@@ -23,5 +23,5 @@ def prompt(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.externalconnections](../../)
-* klass [ConnectionParameter](/cells/python-net/sv/aspose.cells.externalconnections/connectionparameter)
+* modul [`aspose.cells.externalconnections`](../../)
+* klass [`ConnectionParameter`](/cells/python-net/sv/aspose.cells.externalconnections/connectionparameter)

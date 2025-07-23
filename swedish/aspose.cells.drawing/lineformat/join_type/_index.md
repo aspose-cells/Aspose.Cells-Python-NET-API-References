@@ -30,6 +30,6 @@ def join_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [LineFormat](/cells/python-net/sv/aspose.cells.drawing/lineformat)
-* klass [LineJoinType](/cells/python-net/sv/aspose.cells.drawing/linejointype)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`LineFormat`](/cells/python-net/sv/aspose.cells.drawing/lineformat)
+* klass [`LineJoinType`](/cells/python-net/sv/aspose.cells.drawing/linejointype)

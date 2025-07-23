@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_marker_t_top propiedad
 
-Indica si hay barras de error de formato con una T-top.
+Indica si hay errores de formato en las barras con una T-top.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_marker_t_top(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [ErrorBar](/cells/python-net/es/aspose.cells.charts/errorbar)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`ErrorBar`](/cells/python-net/es/aspose.cells.charts/errorbar)

@@ -3,13 +3,13 @@ title: pivot_items fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 530
+weight: 620
 url: /sv/aspose.cells.pivot/pivotfield/pivot_items/
 is_root: false
 ---
 ##  pivot_items fastighet
 
-Hämtar pivotposterna i pivotfältet
+Hämtar pivotelementen i pivotfältet
 ###  Definition:
 ```python
 @property

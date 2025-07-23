@@ -21,5 +21,5 @@ def custom_format(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.ods](../../)
-* klass [OdsCellField](/cells/python-net/sv/aspose.cells.ods/odscellfield)
+* modul [`aspose.cells.ods`](../../)
+* klass [`OdsCellField`](/cells/python-net/sv/aspose.cells.ods/odscellfield)

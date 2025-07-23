@@ -3,16 +3,17 @@ title: método hide_group_detail
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 570
+weight: 610
 url: /es/aspose.cells/cells/hide_group_detail/
 is_root: false
 ---
-##  hide_group_detail {#bool-int}
+##  hide_group_detail(self, is_vertical, index) {#bool-int}
 Contrae las filas/columnas agrupadas.
 
 
 
 ```python
+
 def hide_group_detail(self, is_vertical, index):
     ...
 ```
@@ -20,7 +21,7 @@ def hide_group_detail(self, is_vertical, index):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| is_vertical | bool | Es cierto, contraiga las filas agrupadas.|
+| is_vertical | bool | Es cierto que colapsa las filas agrupadas.|
 | index | int | El índice de fila/columna|
 
 

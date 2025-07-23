@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  check_merged_cells propiedad
 
-Indica si se están comprobando las celdas combinadas.
+Indica si se verifican celdas fusionadas.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def check_merged_cells(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ImportTableOptions](/cells/python-net/es/aspose.cells/importtableoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`ImportTableOptions`](/cells/python-net/es/aspose.cells/importtableoptions)

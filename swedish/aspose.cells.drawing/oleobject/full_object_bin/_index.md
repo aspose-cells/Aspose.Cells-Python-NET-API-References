@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  full_object_bin fastighet
 
-Hämtar den fullständiga inbäddade ole-objektets binära data i mallfilen.
+Hämtar fullständiga inbäddade ole-objektets binära data i mallfilen.
 ###  Definition:
 ```python
 @property

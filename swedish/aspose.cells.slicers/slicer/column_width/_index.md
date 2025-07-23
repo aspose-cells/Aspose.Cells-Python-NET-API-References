@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  column_width fastighet
 
-Returnerar eller ställer in bredden, i punkter, för varje kolumn i utsnittet.
+Returnerar eller anger bredden, i punkter, för varje kolumn i utsnittet.
 
 ###  Exempel
 
 ```python
 
-slicer.column_width = 80
+slicer.column_width = 80.0
 
 ```
 ###  Definition:
@@ -29,5 +29,5 @@ def column_width(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.slicers](../../)
-* klass [Slicer](/cells/python-net/sv/aspose.cells.slicers/slicer)
+* modul [`aspose.cells.slicers`](../../)
+* klass [`Slicer`](/cells/python-net/sv/aspose.cells.slicers/slicer)

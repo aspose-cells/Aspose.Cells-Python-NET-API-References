@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  area propiedad
 
-Obtiene el [ChartPoint.area](/cells/python-net/es/aspose.cells.charts/chartpoint#area).
+Obtiene el [`ChartPoint.area`](/cells/python-net/es/aspose.cells.charts/chartpoint#area).
 ###  Definición:
 ```python
 @property
@@ -18,6 +18,6 @@ def area(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Area](/cells/python-net/es/aspose.cells.drawing/area)
-* clase [ChartPoint](/cells/python-net/es/aspose.cells.charts/chartpoint)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Area`](/cells/python-net/es/aspose.cells.drawing/area)
+* clase [`ChartPoint`](/cells/python-net/es/aspose.cells.charts/chartpoint)

@@ -3,7 +3,7 @@ title: Protection klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1260
+weight: 1150
 url: /sv/aspose.cells/protection/
 is_root: false
 ---
@@ -17,48 +17,32 @@ Typen Protection avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [allow_deleting_column](/cells/python-net/sv/aspose.cells/protection/allow_deleting_column) | Representerar om radering av kolumner är tillåten på ett skyddat kalkylblad.|
-| [is_deleting_columns_allowed](/cells/python-net/sv/aspose.cells/protection/is_deleting_columns_allowed) | Representerar om radering av kolumner är tillåten på ett skyddat kalkylblad.|
-| [allow_deleting_row](/cells/python-net/sv/aspose.cells/protection/allow_deleting_row) | Representerar om radering av rader är tillåten på ett skyddat kalkylblad.|
-| [is_deleting_rows_allowed](/cells/python-net/sv/aspose.cells/protection/is_deleting_rows_allowed) | Representerar om radering av rader är tillåten på ett skyddat kalkylblad.|
-| [allow_filtering](/cells/python-net/sv/aspose.cells/protection/allow_filtering) | Representerar om användaren får använda ett autofilter som skapades innan arket skyddades.|
-| [is_filtering_allowed](/cells/python-net/sv/aspose.cells/protection/is_filtering_allowed) | Representerar om användaren får använda ett autofilter som skapades innan arket skyddades.|
-| [allow_formatting_cell](/cells/python-net/sv/aspose.cells/protection/allow_formatting_cell) | Representerar om formatering av celler är tillåten på ett skyddat kalkylblad.|
-| [is_formatting_cells_allowed](/cells/python-net/sv/aspose.cells/protection/is_formatting_cells_allowed) | Representerar om formatering av celler är tillåten på ett skyddat kalkylblad.|
-| [allow_formatting_column](/cells/python-net/sv/aspose.cells/protection/allow_formatting_column) | Representerar om formatering av kolumner är tillåten på ett skyddat kalkylblad|
-| [is_formatting_columns_allowed](/cells/python-net/sv/aspose.cells/protection/is_formatting_columns_allowed) | Representerar om formatering av kolumner är tillåten på ett skyddat kalkylblad|
-| [allow_formatting_row](/cells/python-net/sv/aspose.cells/protection/allow_formatting_row) | Representerar om formatering av rader är tillåten på ett skyddat kalkylblad|
-| [is_formatting_rows_allowed](/cells/python-net/sv/aspose.cells/protection/is_formatting_rows_allowed) | Representerar om formatering av rader är tillåten på ett skyddat kalkylblad|
-| [allow_inserting_column](/cells/python-net/sv/aspose.cells/protection/allow_inserting_column) |Representerar om infogning av kolumner är tillåten på ett skyddat kalkylblad|
-| [is_inserting_columns_allowed](/cells/python-net/sv/aspose.cells/protection/is_inserting_columns_allowed) |Representerar om infogning av kolumner är tillåten på ett skyddat kalkylblad|
-| [allow_inserting_hyperlink](/cells/python-net/sv/aspose.cells/protection/allow_inserting_hyperlink) | Representerar om infogning av hyperlänkar är tillåten på ett skyddat kalkylblad|
-| [is_inserting_hyperlinks_allowed](/cells/python-net/sv/aspose.cells/protection/is_inserting_hyperlinks_allowed) | Representerar om infogning av hyperlänkar är tillåten på ett skyddat kalkylblad|
-| [allow_inserting_row](/cells/python-net/sv/aspose.cells/protection/allow_inserting_row) | Representerar om infogning av rader är tillåten på ett skyddat kalkylblad|
-| [is_inserting_rows_allowed](/cells/python-net/sv/aspose.cells/protection/is_inserting_rows_allowed) | Representerar om infogning av rader är tillåten på ett skyddat kalkylblad|
+| [allow_deleting_column](/cells/python-net/sv/aspose.cells/protection/allow_deleting_column) | Representerar om borttagning av kolumner är tillåten i ett skyddat kalkylblad.|
+| [allow_deleting_row](/cells/python-net/sv/aspose.cells/protection/allow_deleting_row) | Representerar om borttagning av rader är tillåten i ett skyddat kalkylblad.|
+| [allow_filtering](/cells/python-net/sv/aspose.cells/protection/allow_filtering) | Representerar om användaren har tillstånd att använda ett autofilter som skapades innan arket skyddades.|
+| [allow_formatting_cell](/cells/python-net/sv/aspose.cells/protection/allow_formatting_cell) | Representerar om formatering av celler är tillåten i ett skyddat kalkylblad.|
+| [allow_formatting_column](/cells/python-net/sv/aspose.cells/protection/allow_formatting_column) | Representerar om formatering av kolumner är tillåten i ett skyddat kalkylblad|
+| [allow_formatting_row](/cells/python-net/sv/aspose.cells/protection/allow_formatting_row) |Representerar om formatering av rader är tillåten i ett skyddat kalkylblad|
+| [allow_inserting_column](/cells/python-net/sv/aspose.cells/protection/allow_inserting_column) | Representerar om infogning av kolumner är tillåten i ett skyddat kalkylblad|
+| [allow_inserting_hyperlink](/cells/python-net/sv/aspose.cells/protection/allow_inserting_hyperlink) | Representerar om infogning av hyperlänkar är tillåten i ett skyddat kalkylblad|
+| [allow_inserting_row](/cells/python-net/sv/aspose.cells/protection/allow_inserting_row) | Representerar om insättning av rader är tillåten i ett skyddat kalkylblad|
 | [allow_sorting](/cells/python-net/sv/aspose.cells/protection/allow_sorting) | Representerar om sorteringsalternativet är tillåtet på ett skyddat kalkylblad.|
-| [is_sorting_allowed](/cells/python-net/sv/aspose.cells/protection/is_sorting_allowed) | Representerar om sorteringsalternativet är tillåtet på ett skyddat kalkylblad.|
-| [allow_using_pivot_table](/cells/python-net/sv/aspose.cells/protection/allow_using_pivot_table) | Representerar om användaren tillåts manipulera pivottabeller på ett skyddat kalkylblad.|
-| [is_using_pivot_tables_allowed](/cells/python-net/sv/aspose.cells/protection/is_using_pivot_tables_allowed) | Representerar om användaren tillåts manipulera pivottabeller på ett skyddat kalkylblad.|
-| [allow_editing_content](/cells/python-net/sv/aspose.cells/protection/allow_editing_content) | Representerar om användaren tillåts redigera innehållet i låsta celler på ett skyddat kalkylblad.|
-| [is_editing_contents_allowed](/cells/python-net/sv/aspose.cells/protection/is_editing_contents_allowed) | Representerar om användaren tillåts redigera innehållet i låsta celler på ett skyddat kalkylblad.|
-| [allow_editing_object](/cells/python-net/sv/aspose.cells/protection/allow_editing_object) | Representerar om användaren tillåts manipulera ritobjekt på ett skyddat kalkylblad.|
-| [is_editing_objects_allowed](/cells/python-net/sv/aspose.cells/protection/is_editing_objects_allowed) | Representerar om användaren tillåts manipulera ritobjekt på ett skyddat kalkylblad.|
-| [allow_editing_scenario](/cells/python-net/sv/aspose.cells/protection/allow_editing_scenario) | Representerar om användaren får redigera scenarier på ett skyddat kalkylblad.|
-| [is_editing_scenarios_allowed](/cells/python-net/sv/aspose.cells/protection/is_editing_scenarios_allowed) | Representerar om användaren får redigera scenarier på ett skyddat kalkylblad.|
+| [allow_using_pivot_table](/cells/python-net/sv/aspose.cells/protection/allow_using_pivot_table) | Representerar om användaren har tillstånd att manipulera pivottabeller i ett skyddat kalkylblad.|
+| [allow_editing_content](/cells/python-net/sv/aspose.cells/protection/allow_editing_content) | Representerar om användaren har behörighet att redigera innehållet i låsta celler i ett skyddat kalkylblad.|
+| [allow_editing_object](/cells/python-net/sv/aspose.cells/protection/allow_editing_object) | Representerar om användaren har tillstånd att manipulera ritobjekt på ett skyddat kalkylblad.|
+| [allow_editing_scenario](/cells/python-net/sv/aspose.cells/protection/allow_editing_scenario) | Representerar om användaren har behörighet att redigera scenarier i ett skyddat kalkylblad.|
+| [allow_selecting_locked_cell](/cells/python-net/sv/aspose.cells/protection/allow_selecting_locked_cell) | Representerar om användaren har behörighet att markera låsta celler i ett skyddat kalkylblad.|
+| [allow_selecting_unlocked_cell](/cells/python-net/sv/aspose.cells/protection/allow_selecting_unlocked_cell) | Representerar om användaren har behörighet att markera olåsta celler i ett skyddat kalkylblad.|
 | [password](/cells/python-net/sv/aspose.cells/protection/password) | Representerar lösenordet för att skydda kalkylbladet.|
-| [is_protected_with_password](/cells/python-net/sv/aspose.cells/protection/is_protected_with_password) |Indikerar om kalkylbladen är skyddade med lösenord.|
-| [allow_selecting_locked_cell](/cells/python-net/sv/aspose.cells/protection/allow_selecting_locked_cell) | Representerar om användaren får välja låsta celler på ett skyddat kalkylblad.|
-| [is_selecting_locked_cells_allowed](/cells/python-net/sv/aspose.cells/protection/is_selecting_locked_cells_allowed) | Representerar om användaren får välja låsta celler på ett skyddat kalkylblad.|
-| [allow_selecting_unlocked_cell](/cells/python-net/sv/aspose.cells/protection/allow_selecting_unlocked_cell) | Representerar om användaren får välja olåsta celler på ett skyddat kalkylblad.|
-| [is_selecting_unlocked_cells_allowed](/cells/python-net/sv/aspose.cells/protection/is_selecting_unlocked_cells_allowed) | Representerar om användaren får välja olåsta celler på ett skyddat kalkylblad.|
+| [is_protected_with_password](/cells/python-net/sv/aspose.cells/protection/is_protected_with_password) | Anger om arbetsbladen är lösenordsskyddade.|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [copy](/cells/python-net/sv/aspose.cells/protection/copy/#aspose.cells.Protection) | Information om kopieringsskydd.|
-| [get_password_hash](/cells/python-net/sv/aspose.cells/protection/get_password_hash/#) | Hämtar hash för nuvarande lösenord.|
-| [verify_password](/cells/python-net/sv/aspose.cells/protection/verify_password/#str) |Verifierar lösenord.|
+| [`copy(self, source)`](/cells/python-net/sv/aspose.cells/protection/copy/#aspose.cells.protection) |Information om kopieringsskydd.|
+| [`verify_password(self, password)`](/cells/python-net/sv/aspose.cells/protection/verify_password/#str) | Verifierar lösenordet.|
+| [`get_password_hash(self)`](/cells/python-net/sv/aspose.cells/protection/get_password_hash/#) | Hämtar hashen för det aktuella lösenordet.|
 
 
 

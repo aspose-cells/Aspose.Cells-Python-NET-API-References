@@ -10,7 +10,7 @@ is_root: false
 ##  has_up_down_bars propiedad
 
 Verdadero si un gráfico de líneas tiene barras hacia arriba y hacia abajo.
-Se aplica solo a gráficos de líneas.
+Se aplica sólo a gráficos de líneas.
 ###  Definición:
 ```python
 @property

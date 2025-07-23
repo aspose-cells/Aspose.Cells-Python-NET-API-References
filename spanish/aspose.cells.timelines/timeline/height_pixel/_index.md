@@ -10,6 +10,13 @@ is_root: false
 ##  height_pixel propiedad
 
 Devuelve o establece la altura de la línea de tiempo especificada, en píxeles.
+
+###  Observaciones
+
+ NOTA: Este miembro ya no está disponible. En su lugar,
+ Utilice la propiedad Shape.Height.
+ Esta propiedad será eliminada 12 meses después desde mayo de 2025.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 ###  Definición:
 ```python
 @property
@@ -21,5 +28,5 @@ def height_pixel(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.timelines](../../)
-* clase [Timeline](/cells/python-net/es/aspose.cells.timelines/timeline)
+* módulo [`aspose.cells.timelines`](../../)
+* clase [`Timeline`](/cells/python-net/es/aspose.cells.timelines/timeline)

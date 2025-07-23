@@ -11,7 +11,7 @@ is_root: false
 
  Representerar kurvutjämning.
 Sant om kurvutjämning är aktiverat för linjediagrammet eller punktdiagrammet.
-Gäller endast för linje och spridning kopplade med linjediagram.
+Gäller endast linje- och spridningsdiagram som är sammankopplade med linjediagram.
 ###  Definition:
 ```python
 @property
@@ -23,5 +23,5 @@ def smooth(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Series](/cells/python-net/sv/aspose.cells.charts/series)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Series`](/cells/python-net/sv/aspose.cells.charts/series)

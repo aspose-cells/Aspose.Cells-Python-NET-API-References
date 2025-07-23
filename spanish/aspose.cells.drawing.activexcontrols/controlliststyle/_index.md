@@ -3,7 +3,7 @@ title: ControlListStyle enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 180
+weight: 160
 url: /es/aspose.cells.drawing.activexcontrols/controlliststyle/
 is_root: false
 ---
@@ -23,4 +23,4 @@ El tipo ControlListStyle expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](..)
+* módulo [`aspose.cells.drawing.activexcontrols`](..)

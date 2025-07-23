@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  second fastighet
 
-Hämtar och ställer in second för den grupperade datumtiden.
+Hämtar och ställer in second för det grupperade datumet och tiden.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def second(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DateTimeGroupItem](/cells/python-net/sv/aspose.cells/datetimegroupitem)
+* modul [`aspose.cells`](../../)
+* klass [`DateTimeGroupItem`](/cells/python-net/sv/aspose.cells/datetimegroupitem)

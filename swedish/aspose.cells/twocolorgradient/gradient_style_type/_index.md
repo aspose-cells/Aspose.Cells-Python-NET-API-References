@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gradient_style_type fastighet
 
-Får och ställer in gradientskuggningsstil.
+Hämtar och ställer in gradientskuggningsstil.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def gradient_style_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [GradientStyleType](/cells/python-net/sv/aspose.cells.drawing/gradientstyletype)
-* klass [TwoColorGradient](/cells/python-net/sv/aspose.cells/twocolorgradient)
+* modul [`aspose.cells`](../../)
+* klass [`GradientStyleType`](/cells/python-net/sv/aspose.cells.drawing/gradientstyletype)
+* klass [`TwoColorGradient`](/cells/python-net/sv/aspose.cells/twocolorgradient)

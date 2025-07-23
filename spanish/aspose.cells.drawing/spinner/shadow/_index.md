@@ -3,7 +3,7 @@ title: shadow propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 930
+weight: 940
 url: /es/aspose.cells.drawing/spinner/shadow/
 is_root: false
 ---

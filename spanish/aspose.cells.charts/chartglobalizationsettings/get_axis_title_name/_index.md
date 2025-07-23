@@ -1,5 +1,5 @@
 ---
-title: get_axis_title_name método
+title: método get_axis_title_name
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 20
 url: /es/aspose.cells.charts/chartglobalizationsettings/get_axis_title_name/
 is_root: false
 ---
-##  get_axis_title_name() {#}
-Obtiene el nombre de Título para Axis.
+##  get_axis_title_name(self) {#}
+Obtiene el nombre del Título para el Eje.
 
 
 ###  Devoluciones
@@ -17,6 +17,7 @@ Obtiene el nombre de Título para Axis.
 
 
 ```python
+
 def get_axis_title_name(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_axis_title_name(self):
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [ChartGlobalizationSettings](/cells/python-net/es/aspose.cells.charts/chartglobalizationsettings)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`ChartGlobalizationSettings`](/cells/python-net/es/aspose.cells.charts/chartglobalizationsettings)

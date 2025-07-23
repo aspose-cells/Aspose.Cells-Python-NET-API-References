@@ -3,17 +3,17 @@ title: show_all_sheets propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 640
+weight: 740
 url: /es/aspose.cells.saving/ebooksaveoptions/show_all_sheets/
 is_root: false
 ---
 ##  show_all_sheets propiedad
 
-Indica si se muestran todas las hojas al guardarlas como un único archivo html.
+Indica si se mostrarán todas las hojas al guardar como un único archivo html.
 
 ###  Observaciones
 
-Solo funciona cuando [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/es/aspose.cells/htmlsaveoptions#save_as_single_file) es Verdadero.
+Sólo funciona cuando [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/es/aspose.cells/htmlsaveoptions#save_as_single_file) es Verdadero.
 ###  Definición:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name fastighet
 
-Hämtar eller ställer in name av [Font](/cells/python-net/sv/aspose.cells/font).
+Hämtar eller ställer in name av [`Font`](/cells/python-net/sv/aspose.cells/font).
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Font](/cells/python-net/sv/aspose.cells/font)
+* modul [`aspose.cells`](../../)
+* klass [`Font`](/cells/python-net/sv/aspose.cells/font)

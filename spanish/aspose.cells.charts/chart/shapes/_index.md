@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  shapes propiedad
 
-Devuelve todo el dibujo shapes en este gráfico.
+Devuelve todos los dibujos shapes en este gráfico.
 ###  Definición:
 ```python
 @property

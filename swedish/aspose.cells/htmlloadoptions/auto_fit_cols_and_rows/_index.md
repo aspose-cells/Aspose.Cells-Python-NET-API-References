@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  auto_fit_cols_and_rows fastighet
 
-Anger om automatiskt anpassa kolumner och rader. Standardvärdet är falskt.
+Anger om kolumner och rader anpassas automatiskt. Standardvärdet är falskt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def auto_fit_cols_and_rows(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HtmlLoadOptions](/cells/python-net/sv/aspose.cells/htmlloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`HtmlLoadOptions`](/cells/python-net/sv/aspose.cells/htmlloadoptions)

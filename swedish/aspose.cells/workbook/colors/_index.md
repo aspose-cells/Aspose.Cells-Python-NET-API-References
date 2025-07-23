@@ -3,17 +3,17 @@ title: colors fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 470
+weight: 490
 url: /sv/aspose.cells/workbook/colors/
 is_root: false
 ---
 ##  colors fastighet
 
-Returnerar colors i paletten för kalkylarket.
+Returnerar colors i paletten för kalkylbladet.
 
 ###  Anmärkningar
 
-Paletten har 56 poster, var och en representerad av ett RGB-värde.
+Paletten har 56 poster, som var och en representeras av ett RGB-värde.
 ###  Definition:
 ```python
 @property

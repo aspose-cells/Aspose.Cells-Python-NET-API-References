@@ -3,7 +3,7 @@ title: group_settings fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 340
+weight: 420
 url: /sv/aspose.cells.pivot/pivotfield/group_settings/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Hämtar gruppinställningarna för pivotfältet.
 
 ###  Anmärkningar
 
-Om detta fält inte är grupperat returneras Null.
+Om det här fältet inte grupperas returneras Null.
 ###  Definition:
 ```python
 @property

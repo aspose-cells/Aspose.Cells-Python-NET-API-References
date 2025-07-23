@@ -8,8 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/imageactivexcontrol/width/
 is_root: false
 ---
 ##  width fastighet
-
-Hämtar och ställer in width för kontrollen i poängenhet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def width(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ImageActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ImageActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

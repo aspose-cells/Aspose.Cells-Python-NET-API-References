@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  export_caption_as_field_name fastighet
 
-Anger om textning exporteras som fältnamn
+Anger om export av bildtext som fältnamn
 
 ###  Anmärkningar
 
-Fungerar bara för DataTable.
+Fungerar bara för datatabellen.
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def export_caption_as_field_name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ImportTableOptions](/cells/python-net/sv/aspose.cells/importtableoptions)
+* modul [`aspose.cells`](../../)
+* klass [`ImportTableOptions`](/cells/python-net/sv/aspose.cells/importtableoptions)

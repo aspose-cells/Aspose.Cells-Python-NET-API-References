@@ -3,13 +3,13 @@ title: column_width fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 280
+weight: 380
 url: /sv/aspose.cells/range/column_width/
 is_root: false
 ---
 ##  column_width fastighet
 
-Ställer in eller hämtar kolumnbredden för detta intervall
+Anger eller hämtar kolumnbredden för detta område
 ###  Definition:
 ```python
 @property

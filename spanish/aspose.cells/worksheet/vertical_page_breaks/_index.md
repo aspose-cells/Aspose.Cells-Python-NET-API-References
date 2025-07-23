@@ -3,7 +3,7 @@ title: vertical_page_breaks propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 900
+weight: 920
 url: /es/aspose.cells/worksheet/vertical_page_breaks/
 is_root: false
 ---

@@ -1,13 +1,13 @@
 ---
-title: add_label_in_chart método
+title: método add_label_in_chart
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 140
+weight: 160
 url: /es/aspose.cells.drawing/shapecollection/add_label_in_chart/
 is_root: false
 ---
-##  add_label_in_chart(top, left, height, width) {#int-int-int-int}
+##  add_label_in_chart(self, top, left, height, width) {#int-int-int-int}
 Agrega una etiqueta al gráfico.
 
 
@@ -17,6 +17,7 @@ Un nuevo objeto de etiqueta.
 
 
 ```python
+
 def add_label_in_chart(self, top, left, height, width):
     ...
 ```
@@ -32,5 +33,5 @@ def add_label_in_chart(self, top, left, height, width):
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ShapeCollection](/cells/python-net/es/aspose.cells.drawing/shapecollection)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ShapeCollection`](/cells/python-net/es/aspose.cells.drawing/shapecollection)

@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  gap_depth fastighet
 
-Hämtar eller ställer in avståndet mellan dataserierna i ett 3D-diagram, i procent av markörens bredd.
-Värdet på den här egenskapen måste vara mellan 0 och 500.
+Hämtar eller ställer in avståndet mellan dataserierna i ett 3D-diagram, som en procentandel av markörens bredd.
+Värdet på denna egenskap måste vara mellan 0 och 500.
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_editing_object fastighet
 
-Representerar om användaren tillåts manipulera ritobjekt på ett skyddat kalkylblad.
+Representerar om användaren har tillstånd att manipulera ritobjekt på ett skyddat kalkylblad.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_editing_object(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Protection](/cells/python-net/sv/aspose.cells/protection)
+* modul [`aspose.cells`](../../)
+* klass [`Protection`](/cells/python-net/sv/aspose.cells/protection)

@@ -21,6 +21,6 @@ def style(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FormatCondition](/cells/python-net/es/aspose.cells/formatcondition)
-* clase [Style](/cells/python-net/es/aspose.cells/style)
+* módulo [`aspose.cells`](../../)
+* clase [`FormatCondition`](/cells/python-net/es/aspose.cells/formatcondition)
+* clase [`Style`](/cells/python-net/es/aspose.cells/style)

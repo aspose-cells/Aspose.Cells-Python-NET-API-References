@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  drop_zones_visible propiedad
 
-Especifica si los controles de pivote pueden aparecer en el gráfico de pivote.
+Especifica si pueden aparecer controles dinámicos en el gráfico dinámico.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def drop_zones_visible(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [PivotOptions](/cells/python-net/es/aspose.cells.charts/pivotoptions)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`PivotOptions`](/cells/python-net/es/aspose.cells.charts/pivotoptions)

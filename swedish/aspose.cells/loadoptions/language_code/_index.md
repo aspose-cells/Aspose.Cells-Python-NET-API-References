@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  language_code fastighet
 
-Hämtar eller ställer in användargränssnittsspråket för Workbook-versionen baserat på CountryCode som har sparat filen.
+Hämtar eller ställer in användargränssnittsspråket för arbetsboksversionen baserat på landskoden som har sparat filen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def language_code(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CountryCode](/cells/python-net/sv/aspose.cells/countrycode)
-* klass [LoadOptions](/cells/python-net/sv/aspose.cells/loadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`CountryCode`](/cells/python-net/sv/aspose.cells/countrycode)
+* klass [`LoadOptions`](/cells/python-net/sv/aspose.cells/loadoptions)

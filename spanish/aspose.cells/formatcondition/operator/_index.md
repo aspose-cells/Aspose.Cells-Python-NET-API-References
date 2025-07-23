@@ -21,6 +21,6 @@ def operator(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FormatCondition](/cells/python-net/es/aspose.cells/formatcondition)
-* clase [OperatorType](/cells/python-net/es/aspose.cells/operatortype)
+* módulo [`aspose.cells`](../../)
+* clase [`FormatCondition`](/cells/python-net/es/aspose.cells/formatcondition)
+* clase [`OperatorType`](/cells/python-net/es/aspose.cells/operatortype)

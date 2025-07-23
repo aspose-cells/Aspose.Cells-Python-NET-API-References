@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  cross_filter_type propiedad
 
-Devuelve o establece si una segmentación participa en el filtrado cruzado con otras segmentaciones
-que comparten la misma caché de segmentación y cómo se muestra el filtrado cruzado. Leer escribir
+Devuelve o establece si una segmentación de datos participa en el filtrado cruzado con otras segmentaciones de datos.
+que comparten la misma caché de segmentación y cómo se muestra el filtrado cruzado. Lectura/escritura
 ###  Definición:
 ```python
 @property
@@ -22,6 +22,6 @@ def cross_filter_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.slicers](../../)
-* clase [SlicerCache](/cells/python-net/es/aspose.cells.slicers/slicercache)
-* clase [SlicerCacheCrossFilterType](/cells/python-net/es/aspose.cells.slicers/slicercachecrossfiltertype)
+* módulo [`aspose.cells.slicers`](../../)
+* clase [`SlicerCache`](/cells/python-net/es/aspose.cells.slicers/slicercache)
+* clase [`SlicerCacheCrossFilterType`](/cells/python-net/es/aspose.cells.slicers/slicercachecrossfiltertype)

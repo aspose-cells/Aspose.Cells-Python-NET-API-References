@@ -3,7 +3,7 @@ title: slicers fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 770
+weight: 800
 url: /sv/aspose.cells/worksheet/slicers/
 is_root: false
 ---

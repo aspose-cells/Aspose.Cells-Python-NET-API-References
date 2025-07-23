@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  param_count propiedad
 
-Obtiene el recuento de parámetros.
+Obtiene el recuento de parámetros
 ###  Definición:
 ```python
 @property

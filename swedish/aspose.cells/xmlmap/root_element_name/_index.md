@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  root_element_name fastighet
 
-Hämtar namnet på rotelementet.
+Hämtar rotelementets namn.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def root_element_name(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [XmlMap](/cells/python-net/sv/aspose.cells/xmlmap)
+* modul [`aspose.cells`](../../)
+* klass [`XmlMap`](/cells/python-net/sv/aspose.cells/xmlmap)

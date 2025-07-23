@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells/folderfontsource/__init__/
 is_root: false
 ---
-##  FolderFontSource(folder_path, scan_subfolders) {#str-bool}
-Ctor.
+##  \_\_init\_\_(self, mappsökväg, skanna_undermappar){#str-bool}
+Rektor.
 
 
 
 ```python
+
 def __init__(self, folder_path, scan_subfolders):
     ...
 ```
@@ -20,11 +21,11 @@ def __init__(self, folder_path, scan_subfolders):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| folder_path | str | sökväg till mappen typsnitt|
+| folder_path | str | sökväg till fontmappen|
 | scan_subfolders | bool | Bestämmer om undermappar ska skannas eller inte.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FolderFontSource](/cells/python-net/sv/aspose.cells/folderfontsource)
+* modul [`aspose.cells`](../../)
+* klass [`FolderFontSource`](/cells/python-net/sv/aspose.cells/folderfontsource)

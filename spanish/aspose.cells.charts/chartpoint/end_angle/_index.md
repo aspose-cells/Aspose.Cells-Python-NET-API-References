@@ -3,7 +3,7 @@ title: end_angle propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 200
+weight: 210
 url: /es/aspose.cells.charts/chartpoint/end_angle/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def end_angle(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [ChartPoint](/cells/python-net/es/aspose.cells.charts/chartpoint)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`ChartPoint`](/cells/python-net/es/aspose.cells.charts/chartpoint)

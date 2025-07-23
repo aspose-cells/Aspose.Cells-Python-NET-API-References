@@ -3,16 +3,17 @@ title: get_style metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 70
+weight: 80
 url: /sv/aspose.cells/row/get_style/
 is_root: false
 ---
-##  get_style() {#}
-Får stilen på den här raden.
+##  get_style(self) {#}
+Hämtar stilen för den här raden.
 
 
 
 ```python
+
 def get_style(self):
     ...
 ```
@@ -20,14 +21,14 @@ def get_style(self):
 
 ###  Anmärkningar
 
-Att ändra det returnerade stilobjektet direkt får ingen effekt för den här raden eller några celler i den här raden.
-Du måste ringa [Row.apply_style(style, flag)](/cells/python-net/sv/aspose.cells/row/apply_style) eller [Row.set_style(style)](/cells/python-net/sv/aspose.cells/row/set_style) metod
+Att ändra det returnerade stilobjektet direkt har ingen effekt för den här raden eller några celler i den här raden.
+Du måste ringa [`Row.apply_style`](/cells/python-net/sv/aspose.cells/row/apply_style) eller [`Row.set_style`](/cells/python-net/sv/aspose.cells/row/set_style)-metoden.
 för att tillämpa ändringen på den här raden.
 
-Radens stil är stilen som kommer att ärvas av celler i den här raden (de celler som inte har några anpassade stilinställningar,
-såsom befintliga celler som inte har ställts in stil uttryckligen, eller de som inte har instansierats)
+Radens stil är den stil som ärvs av cellerna i den här raden (de celler som inte har några anpassade stilinställningar,
+såsom befintliga celler som inte explicit har fått sin stil, eller de som inte har instansierats)
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Row](/cells/python-net/sv/aspose.cells/row)
+* modul [`aspose.cells`](../../)
+* klass [`Row`](/cells/python-net/sv/aspose.cells/row)

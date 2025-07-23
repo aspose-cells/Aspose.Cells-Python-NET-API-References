@@ -3,7 +3,7 @@ title: primary_key fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 170
+weight: 190
 url: /sv/aspose.cells.saving/sqlscriptsaveoptions/primary_key/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def primary_key(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.saving](../../)
-* klass [SqlScriptSaveOptions](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions)
+* modul [`aspose.cells.saving`](../../)
+* klass [`SqlScriptSaveOptions`](/cells/python-net/sv/aspose.cells.saving/sqlscriptsaveoptions)

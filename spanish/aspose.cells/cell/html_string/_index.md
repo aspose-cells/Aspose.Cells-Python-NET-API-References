@@ -3,7 +3,7 @@ title: html_string propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 520
+weight: 540
 url: /es/aspose.cells/cell/html_string/
 is_root: false
 ---

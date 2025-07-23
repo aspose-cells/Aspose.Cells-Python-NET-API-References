@@ -3,14 +3,14 @@ title: PdfBookmarkEntry clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 80
+weight: 70
 url: /es/aspose.cells.rendering/pdfbookmarkentry/
 is_root: false
 ---
 ##  PdfBookmarkEntry clase
-PdfBookmarkEntry es una entrada en marcador de pdf.
-si la propiedad Text de la instancia actual es nula o "",
-la instancia actual se ocultará y los niños se insertarán en el nivel actual.
+PdfBookmarkEntry es una entrada en el marcador pdf.
+si la propiedad Texto de la instancia actual es nula o "",
+La instancia actual se ocultará y los elementos secundarios se insertarán en el nivel actual.
 
 
 
@@ -19,18 +19,18 @@ El tipo PdfBookmarkEntry expone los siguientes miembros:
 ###  Constructores
 | Constructor| Descripción|
 | :- | :- |
-| [PdfBookmarkEntry()](/cells/python-net/es/aspose.cells.rendering/pdfbookmarkentry/__init__/#) | Construye una nueva instancia de PdfBookmarkEntry|
+| [`__init__(self)`](/cells/python-net/es/aspose.cells.rendering/pdfbookmarkentry/__init__/#) | Construye una nueva instancia de PdfBookmarkEntry|
 
 
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
 | [text](/cells/python-net/es/aspose.cells.rendering/pdfbookmarkentry/text) | Título de un marcador.|
-| [destination](/cells/python-net/es/aspose.cells.rendering/pdfbookmarkentry/destination) | La celda a la que se vincula el marcador.|
+| [destination](/cells/python-net/es/aspose.cells.rendering/pdfbookmarkentry/destination) |La celda a la que se vincula el marcador.|
 | [destination_name](/cells/python-net/es/aspose.cells.rendering/pdfbookmarkentry/destination_name) | Obtiene o establece el nombre del destino.|
 | [sub_entry](/cells/python-net/es/aspose.cells.rendering/pdfbookmarkentry/sub_entry) | Subentrada de un marcador.|
-| [is_open](/cells/python-net/es/aspose.cells.rendering/pdfbookmarkentry/is_open) |Cuando esta propiedad es verdadera, la entrada de marcador se expandirá; de lo contrario, se colapsará.|
-| [is_collapse](/cells/python-net/es/aspose.cells.rendering/pdfbookmarkentry/is_collapse) | Cuando esta propiedad es verdadera, la entrada de marcador colapsará; de lo contrario, se expandirá.|
+| [is_open](/cells/python-net/es/aspose.cells.rendering/pdfbookmarkentry/is_open) | Cuando esta propiedad es verdadera, la entrada del marcador se expandirá; de lo contrario, se contraerá.|
+| [is_collapse](/cells/python-net/es/aspose.cells.rendering/pdfbookmarkentry/is_collapse) | Cuando esta propiedad es verdadera, la entrada del marcador se contraerá; de lo contrario, se expandirá.|
 
 
 
@@ -69,4 +69,4 @@ workbook.save("output_bookmark.pdf", saveOptions)
 ```
 
 ###  Ver también
-* módulo [aspose.cells.rendering](..)
+* módulo [`aspose.cells.rendering`](..)

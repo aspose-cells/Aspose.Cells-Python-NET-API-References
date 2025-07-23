@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  intercept fastighet
 
-Returnerar eller ställer in punkten där trendlinjen korsar värdeaxeln.
+Returnerar eller anger punkten där trendlinjen korsar värdeaxeln.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def intercept(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Trendline](/cells/python-net/sv/aspose.cells.charts/trendline)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Trendline`](/cells/python-net/sv/aspose.cells.charts/trendline)

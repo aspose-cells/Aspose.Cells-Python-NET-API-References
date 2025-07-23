@@ -3,19 +3,19 @@ title: fill_format fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 420
+weight: 430
 url: /sv/aspose.cells.drawing/picture/fill_format/
 is_root: false
 ---
 ##  fill_format fastighet
 
-Returnerar ett MsoFillFormat-objekt som innehåller fyllningsformateringsegenskaper för den angivna formen.
+Returnerar ett MsoFillFormat-objekt som innehåller egenskaper för fyllningsformatering för den angivna formen.
 
 ###  Anmärkningar
 
- OBS: Denna medlem är nu föråldrad. Istället,
- använd egenskapen Shape.Fill.
- Den här egenskapen kommer att tas bort 12 månader senare sedan juli 2016.
+ OBS! Denna medlem är nu föråldrad. Istället,
+ Använd egenskapen Shape.Fill.
+ Den här egenskapen kommer att tas bort 12 månader senare från och med juli 2016.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 ###  Definition:
 ```python

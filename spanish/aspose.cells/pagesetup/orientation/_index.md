@@ -21,6 +21,6 @@ def orientation(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PageOrientationType](/cells/python-net/es/aspose.cells/pageorientationtype)
-* clase [PageSetup](/cells/python-net/es/aspose.cells/pagesetup)
+* módulo [`aspose.cells`](../../)
+* clase [`PageOrientationType`](/cells/python-net/es/aspose.cells/pageorientationtype)
+* clase [`PageSetup`](/cells/python-net/es/aspose.cells/pagesetup)

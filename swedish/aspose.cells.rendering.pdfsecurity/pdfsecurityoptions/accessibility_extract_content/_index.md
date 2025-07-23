@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  accessibility_extract_content fastighet
 
-Anger om text och grafik ska tillåtas extrahera (till stöd för tillgänglighet för användare med funktionshinder eller för andra ändamål).
+Anger om det ska vara tillåtet att extrahera text och grafik (för att stödja tillgänglighet för användare med funktionsnedsättningar eller för andra ändamål).
 ###  Definition:
 ```python
 @property

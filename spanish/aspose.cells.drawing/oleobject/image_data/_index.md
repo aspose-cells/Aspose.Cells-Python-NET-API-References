@@ -3,13 +3,13 @@ title: image_data propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 600
+weight: 590
 url: /es/aspose.cells.drawing/oleobject/image_data/
 is_root: false
 ---
 ##  image_data propiedad
 
-Representa la imagen del objeto antiguo como una matriz de bytes.
+Representa la imagen de un objeto ole como una matriz de bytes.
 ###  Definición:
 ```python
 @property
